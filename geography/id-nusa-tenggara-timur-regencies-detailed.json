@@ -1,0 +1,340 @@
+{
+  "id": "id-nusa-tenggara-timur-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Nusa Tenggara Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Nusa Tenggara Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "22 kabupaten/kota di Provinsi Nusa Tenggara Timur dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "53.01",
+      "name": "Kabupaten Kupang",
+      "type": "kabupaten",
+      "capital": "Oelamasi",
+      "latitude": -10.072767,
+      "longitude": 123.864463,
+      "elevation_m": 27,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5130.659,
+      "population": 391539
+    },
+    {
+      "code": "53.02",
+      "name": "Kabupaten Timor Tengah Selatan",
+      "type": "kabupaten",
+      "capital": "Soe",
+      "latitude": -9.851781,
+      "longitude": 124.266481,
+      "elevation_m": 905,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3931.747,
+      "population": 490642
+    },
+    {
+      "code": "53.03",
+      "name": "Kabupaten Timor Tengah Utara",
+      "type": "kabupaten",
+      "capital": "Kefamenanu",
+      "latitude": -9.456935,
+      "longitude": 124.475088,
+      "elevation_m": 394,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2622.293,
+      "population": 276032
+    },
+    {
+      "code": "53.04",
+      "name": "Kabupaten Belu",
+      "type": "kabupaten",
+      "capital": "Atambua",
+      "latitude": -9.105891,
+      "longitude": 124.873577,
+      "elevation_m": 405,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1126.77,
+      "population": 232788
+    },
+    {
+      "code": "53.05",
+      "name": "Kabupaten Alor",
+      "type": "kabupaten",
+      "capital": "Kalabahi",
+      "latitude": -8.209309,
+      "longitude": 124.573464,
+      "elevation_m": 48,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2918.753,
+      "population": 229730
+    },
+    {
+      "code": "53.06",
+      "name": "Kabupaten Flores Timur",
+      "type": "kabupaten",
+      "capital": "Larantuka",
+      "latitude": -8.326455,
+      "longitude": 123.003111,
+      "elevation_m": 25,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1741.064,
+      "population": 289881
+    },
+    {
+      "code": "53.07",
+      "name": "Kabupaten Sikka",
+      "type": "kabupaten",
+      "capital": "Maumere",
+      "latitude": -8.616591,
+      "longitude": 122.208082,
+      "elevation_m": 17,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1669.713,
+      "population": 346614
+    },
+    {
+      "code": "53.08",
+      "name": "Kabupaten Ende",
+      "type": "kabupaten",
+      "capital": "Ende",
+      "latitude": -8.843445,
+      "longitude": 121.66223,
+      "elevation_m": 31,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2084.076,
+      "population": 283806
+    },
+    {
+      "code": "53.09",
+      "name": "Kabupaten Ngada",
+      "type": "kabupaten",
+      "capital": "Bajawa",
+      "latitude": -8.785173,
+      "longitude": 120.97473,
+      "elevation_m": 1201,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1736.735,
+      "population": 169445
+    },
+    {
+      "code": "53.10",
+      "name": "Kabupaten Manggarai",
+      "type": "kabupaten",
+      "capital": "Ruteng",
+      "latitude": -8.611447,
+      "longitude": 120.464299,
+      "elevation_m": 1173,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1343.335,
+      "population": 349836
+    },
+    {
+      "code": "53.11",
+      "name": "Kabupaten Sumba Timur",
+      "type": "kabupaten",
+      "capital": "Waingapu",
+      "latitude": -9.660788,
+      "longitude": 120.261319,
+      "elevation_m": 62,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 6975.198,
+      "population": 277290
+    },
+    {
+      "code": "53.12",
+      "name": "Kabupaten Sumba Barat",
+      "type": "kabupaten",
+      "capital": "Waikabubak",
+      "latitude": -9.647322,
+      "longitude": 119.394007,
+      "elevation_m": 430,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 755.836,
+      "population": 141760
+    },
+    {
+      "code": "53.13",
+      "name": "Kabupaten Lembata",
+      "type": "kabupaten",
+      "capital": "Lewoleba",
+      "latitude": -8.359888,
+      "longitude": 123.459243,
+      "elevation_m": 39,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1263.767,
+      "population": 149921
+    },
+    {
+      "code": "53.14",
+      "name": "Kabupaten Rote Ndao",
+      "type": "kabupaten",
+      "capital": "Baa",
+      "latitude": -10.757803,
+      "longitude": 123.062591,
+      "elevation_m": 152,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1277.256,
+      "population": 154027
+    },
+    {
+      "code": "53.15",
+      "name": "Kabupaten Manggarai Barat",
+      "type": "kabupaten",
+      "capital": "Labuan Bajo",
+      "latitude": -8.495965,
+      "longitude": 119.894299,
+      "elevation_m": 72,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3120.028,
+      "population": 290688
+    },
+    {
+      "code": "53.16",
+      "name": "Kabupaten Nagekeo",
+      "type": "kabupaten",
+      "capital": "Mbay",
+      "latitude": -8.575463,
+      "longitude": 121.281129,
+      "elevation_m": 36,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1397.969,
+      "population": 164457
+    },
+    {
+      "code": "53.17",
+      "name": "Kabupaten Sumba Tengah",
+      "type": "kabupaten",
+      "capital": "Waibakul",
+      "latitude": -9.622679,
+      "longitude": 119.600435,
+      "elevation_m": 432,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1786.436,
+      "population": 92138
+    },
+    {
+      "code": "53.18",
+      "name": "Kabupaten Sumba Barat Daya",
+      "type": "kabupaten",
+      "capital": "Tambolaka",
+      "latitude": -9.391735,
+      "longitude": 119.180992,
+      "elevation_m": 43,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1381.943,
+      "population": 355022
+    },
+    {
+      "code": "53.19",
+      "name": "Kabupaten Manggarai Timur",
+      "type": "kabupaten",
+      "capital": "Borong",
+      "latitude": -8.749471,
+      "longitude": 120.608619,
+      "elevation_m": 269,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2389.499,
+      "population": 305268
+    },
+    {
+      "code": "53.20",
+      "name": "Kabupaten Sabu Raijua",
+      "type": "kabupaten",
+      "capital": "Seba",
+      "latitude": -10.452783,
+      "longitude": 121.878033,
+      "elevation_m": 55,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 457.14,
+      "population": 94860
+    },
+    {
+      "code": "53.21",
+      "name": "Kabupaten Malaka",
+      "type": "kabupaten",
+      "capital": "Betun",
+      "latitude": -9.444597,
+      "longitude": 124.91758,
+      "elevation_m": 217,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1109.003,
+      "population": 210908
+    },
+    {
+      "code": "53.71",
+      "name": "Kota Kupang",
+      "type": "kota",
+      "capital": "Kupang",
+      "latitude": -10.153896,
+      "longitude": 123.61939,
+      "elevation_m": 59,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 158.885,
+      "population": 404120
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Nusa Tenggara Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "22 kabupaten/kota di Provinsi Nusa Tenggara Timur dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 22 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Nusa Tenggara Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Nusa Tenggara Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 22 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 22 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

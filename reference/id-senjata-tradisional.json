@@ -1,0 +1,136 @@
+{
+  "id": "id-senjata-tradisional",
+  "name": "Senjata Tradisional Indonesia per Provinsi",
+  "title": "Senjata Tradisional Indonesia per Provinsi",
+  "description": "Senjata tradisional khas tiap provinsi di Indonesia (rencong, kujang, mandau, dsb.).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Rencong",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Pisau Surit",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Karih",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Pedang Jenawi",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Keris Jambi",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Keris Palembang",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Keris Bengkulu",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Terapang",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Siwar Panjang",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Badik Tumbuk Lada",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Golok Betawi",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Kujang",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Keris",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Keris Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Clurit",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Golok",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Keris Bali",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Sampari",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Sundu",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    }
+  ],
+  "meta": {
+    "title": "Senjata Tradisional Indonesia per Provinsi - Unduh Gratis",
+    "description": "Senjata tradisional khas tiap provinsi di Indonesia (rencong, kujang, mandau, dsb.). Berisi 19 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Senjata Tradisional Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Senjata Tradisional Indonesia per Provinsi — 19 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 19 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

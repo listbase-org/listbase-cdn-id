@@ -1,0 +1,88 @@
+{
+  "id": "id-kepulauan-riau-regencies",
+  "name": "Daftar Kabupaten dan Kota di Kepulauan Riau",
+  "title": "Daftar Kabupaten dan Kota di Kepulauan Riau",
+  "description": "Daftar kabupaten dan kota di Provinsi Kepulauan Riau dengan kode wilayah Kepmendagri. Total 7 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "21.01",
+      "name": "Kabupaten Bintan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bintan"
+    },
+    {
+      "code": "21.02",
+      "name": "Kabupaten Karimun",
+      "type": "Kabupaten",
+      "slug": "kabupaten-karimun"
+    },
+    {
+      "code": "21.03",
+      "name": "Kabupaten Natuna",
+      "type": "Kabupaten",
+      "slug": "kabupaten-natuna"
+    },
+    {
+      "code": "21.04",
+      "name": "Kabupaten Lingga",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lingga"
+    },
+    {
+      "code": "21.05",
+      "name": "Kabupaten Kepulauan Anambas",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepulauan-anambas"
+    },
+    {
+      "code": "21.71",
+      "name": "Kota Batam",
+      "type": "Kota",
+      "slug": "kota-batam"
+    },
+    {
+      "code": "21.72",
+      "name": "Kota Tanjung Pinang",
+      "type": "Kota",
+      "slug": "kota-tanjung-pinang"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Kepulauan Riau - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Kepulauan Riau dengan kode wilayah Kepmendagri. Total 7 kabupaten/kota. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Kepulauan Riau | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Kepulauan Riau — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "id-bengkulu-islands",
+  "name": "Daftar Pulau di Provinsi Bengkulu",
+  "title": "Daftar Pulau di Provinsi Bengkulu",
+  "description": "Daftar pulau di Provinsi Bengkulu, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 9 pulau.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "coordinate_dms",
+      "label": "Coordinate Dms",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "is_populated",
+      "label": "Is Populated",
+      "type": "boolean"
+    },
+    {
+      "key": "is_outermost_small",
+      "label": "Is Outermost Small",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "code": "17.03.40001",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Bangkei",
+      "coordinate_dms": "05°27'57.74\" S 102°22'23.28\" E",
+      "latitude": -5.466039,
+      "longitude": 102.373133,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "17.03.40002",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Dua",
+      "coordinate_dms": "05°26'35.00\" S 102°23'29.00\" E",
+      "latitude": -5.443056,
+      "longitude": 102.391389,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "17.03.40003",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Enggano",
+      "coordinate_dms": "05°23'25.00\" S 102°14'16.00\" E",
+      "latitude": -5.390278,
+      "longitude": 102.237778,
+      "is_populated": true,
+      "is_outermost_small": true
+    },
+    {
+      "code": "17.03.40004",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Mega",
+      "coordinate_dms": "04°00'25.99\" S 101°02'43.00\" E",
+      "latitude": -4.007219,
+      "longitude": 101.045278,
+      "is_populated": false,
+      "is_outermost_small": true
+    },
+    {
+      "code": "17.03.40005",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Merbau",
+      "coordinate_dms": "05°28'21.94\" S 102°23'06.35\" E",
+      "latitude": -5.472761,
+      "longitude": 102.385097,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "17.03.40006",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Satu",
+      "coordinate_dms": "05°28'06.57\" S 102°13'26.91\" E",
+      "latitude": -5.468492,
+      "longitude": 102.224142,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "17.03.40007",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Tapakarifin",
+      "coordinate_dms": "03°25'27.71\" S 101°53'51.66\" E",
+      "latitude": -3.424364,
+      "longitude": 101.897683,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "17.03.40008",
+      "regency_code": "17.03",
+      "regency_name": "Kabupaten Bengkulu Utara",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Tapakbalai",
+      "coordinate_dms": "03°34'55.64\" S 102°06'47.53\" E",
+      "latitude": -3.582122,
+      "longitude": 102.113203,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "17.71.40001",
+      "regency_code": "17.71",
+      "regency_name": "Kota Bengkulu",
+      "province_code": "17",
+      "province_name": "Bengkulu",
+      "name": "Pulau Tikus",
+      "coordinate_dms": "03°50'17.65\" S 102°10'46.87\" E",
+      "latitude": -3.838236,
+      "longitude": 102.179686,
+      "is_populated": true,
+      "is_outermost_small": false
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pulau di Provinsi Bengkulu - Unduh Gratis",
+    "description": "Daftar pulau di Provinsi Bengkulu, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 9 pulau. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Pulau di Provinsi Bengkulu | ListBase",
+    "seo_description": "Unduh Daftar Pulau di Provinsi Bengkulu — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 11 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

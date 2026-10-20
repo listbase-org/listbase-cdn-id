@@ -1,0 +1,212 @@
+{
+  "id": "id-hari-kuartal-era",
+  "name": "Hari, kuartal, periode hari dan era — nama dalam bahasa Indonesia (CLDR)",
+  "title": "Hari, kuartal, periode hari dan era — nama dalam bahasa Indonesia (CLDR)",
+  "description": "Nama hari, kuartal, periode hari dan era kalender gregorian dalam bahasa Indonesia dari locale id di CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tipe": "hari",
+      "code": "sun",
+      "nama": "Minggu",
+      "singkatan": "Min"
+    },
+    {
+      "id": 2,
+      "tipe": "hari",
+      "code": "mon",
+      "nama": "Senin",
+      "singkatan": "Sen"
+    },
+    {
+      "id": 3,
+      "tipe": "hari",
+      "code": "tue",
+      "nama": "Selasa",
+      "singkatan": "Sel"
+    },
+    {
+      "id": 4,
+      "tipe": "hari",
+      "code": "wed",
+      "nama": "Rabu",
+      "singkatan": "Rab"
+    },
+    {
+      "id": 5,
+      "tipe": "hari",
+      "code": "thu",
+      "nama": "Kamis",
+      "singkatan": "Kam"
+    },
+    {
+      "id": 6,
+      "tipe": "hari",
+      "code": "fri",
+      "nama": "Jumat",
+      "singkatan": "Jum"
+    },
+    {
+      "id": 7,
+      "tipe": "hari",
+      "code": "sat",
+      "nama": "Sabtu",
+      "singkatan": "Sab"
+    },
+    {
+      "id": 8,
+      "tipe": "kuartal",
+      "code": "1",
+      "nama": "Kuartal ke-1",
+      "singkatan": "K1"
+    },
+    {
+      "id": 9,
+      "tipe": "kuartal",
+      "code": "2",
+      "nama": "Kuartal ke-2",
+      "singkatan": "K2"
+    },
+    {
+      "id": 10,
+      "tipe": "kuartal",
+      "code": "3",
+      "nama": "Kuartal ke-3",
+      "singkatan": "K3"
+    },
+    {
+      "id": 11,
+      "tipe": "kuartal",
+      "code": "4",
+      "nama": "Kuartal ke-4",
+      "singkatan": "K4"
+    },
+    {
+      "id": 12,
+      "tipe": "periode_hari",
+      "code": "midnight",
+      "nama": "tengah malam",
+      "singkatan": "tengah malam"
+    },
+    {
+      "id": 13,
+      "tipe": "periode_hari",
+      "code": "am",
+      "nama": "AM",
+      "singkatan": "AM"
+    },
+    {
+      "id": 14,
+      "tipe": "periode_hari",
+      "code": "noon",
+      "nama": "tengah hari",
+      "singkatan": "tengah hari"
+    },
+    {
+      "id": 15,
+      "tipe": "periode_hari",
+      "code": "pm",
+      "nama": "PM",
+      "singkatan": "PM"
+    },
+    {
+      "id": 16,
+      "tipe": "periode_hari",
+      "code": "morning1",
+      "nama": "pagi",
+      "singkatan": "pagi"
+    },
+    {
+      "id": 17,
+      "tipe": "periode_hari",
+      "code": "afternoon1",
+      "nama": "siang",
+      "singkatan": "siang"
+    },
+    {
+      "id": 18,
+      "tipe": "periode_hari",
+      "code": "evening1",
+      "nama": "sore",
+      "singkatan": "sore"
+    },
+    {
+      "id": 19,
+      "tipe": "periode_hari",
+      "code": "night1",
+      "nama": "malam",
+      "singkatan": "malam"
+    },
+    {
+      "id": 20,
+      "tipe": "era",
+      "code": "0",
+      "nama": "Sebelum Masehi",
+      "singkatan": "SM"
+    },
+    {
+      "id": 21,
+      "tipe": "era",
+      "code": "0-alt-variant",
+      "nama": "Sebelum Era Umum",
+      "singkatan": "SEU"
+    },
+    {
+      "id": 22,
+      "tipe": "era",
+      "code": "1",
+      "nama": "Masehi",
+      "singkatan": "M"
+    },
+    {
+      "id": 23,
+      "tipe": "era",
+      "code": "1-alt-variant",
+      "nama": "Era Umum",
+      "singkatan": "EU"
+    }
+  ],
+  "meta": {
+    "title": "Hari, kuartal, periode hari dan era — nama dalam bahasa Indonesia (CLDR) - Unduh Gratis",
+    "description": "Nama hari, kuartal, periode hari dan era kalender gregorian dalam bahasa Indonesia dari locale id di CLDR. Berisi 23 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Hari, kuartal, periode hari dan era — nama dalam bahasa Indonesia (CLDR) | ListBase",
+    "seo_description": "Unduh Hari, kuartal, periode hari dan era — nama dalam bahasa Indonesia (CLDR) — 23 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 23 rekaman / 5 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

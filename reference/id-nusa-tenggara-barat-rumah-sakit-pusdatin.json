@@ -1,0 +1,544 @@
+{
+  "id": "id-nusa-tenggara-barat-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Nusa Tenggara Barat — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Nusa Tenggara Barat — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Nusa Tenggara Barat menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS ISLAM SITI HAJAR",
+      "kode_rs": "5271032",
+      "tempat_tidur": 70,
+      "telepon": "(031) 8921233",
+      "alamat": "JL. CATUR WARGA MATARAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.5857,
+      "longitude": 116.113
+    },
+    {
+      "nama": "RS UMUM DOMPU",
+      "kode_rs": "5205014",
+      "tempat_tidur": 193,
+      "telepon": "0373 21411",
+      "alamat": "JL. KESEHATAN NO. 1 DOMPU, NTB",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "DOMPU, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.5454,
+      "longitude": 118.446
+    },
+    {
+      "nama": "RS UMUM DAERAH ASY-SYIFA SUMBAWA BARAT",
+      "kode_rs": "5207002",
+      "tempat_tidur": 103,
+      "telepon": "(0372) 82999",
+      "alamat": "JL. LANG SESAT, TALIWANG, DALAM, SUMBAWA BARAT, KABUPATEN SUMBAWA BARAT, NUSA TENGGARA BAR. 84455",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SUMBAWA BARAT, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.735055,
+      "longitude": 116.849997
+    },
+    {
+      "nama": "RS UNIVERSITAS MATARAM",
+      "kode_rs": "5271101",
+      "tempat_tidur": 58,
+      "telepon": "0817-7516-5995",
+      "alamat": "JL. MAJAPAHIT NO. 62 MATARAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.589987,
+      "longitude": 116.093449
+    },
+    {
+      "nama": "RS UMUM PRAYA",
+      "kode_rs": "5202011",
+      "tempat_tidur": 268,
+      "telepon": "0370-654865",
+      "alamat": "JL. H. LALU HASYIM, KELURAHAN TIWU GALIH, PRAYA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LOMBOK TENGAH, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.702045,
+      "longitude": 116.295128
+    },
+    {
+      "nama": "RS UMUM DAERAH AWET MUDA NARMADA",
+      "kode_rs": "5201012",
+      "tempat_tidur": 80,
+      "telepon": "081239798992",
+      "alamat": "JL. AHMAD YANI NO. 69 TELAGA NGEMBENG NARMADA LOMBOK BARAT",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LOMBOK BARAT, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.597488,
+      "longitude": 116.190971
+    },
+    {
+      "nama": "RS UMUM DAERAH PATUT PATUH PATJU",
+      "kode_rs": "5201010",
+      "tempat_tidur": 144,
+      "telepon": "(0370) 681321",
+      "alamat": "JL. H. LALU ANGGRAT BA NO. 2 GERUNG",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LOMBOK BARAT, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.6913,
+      "longitude": 116.112
+    },
+    {
+      "nama": "RS UMUM DAERAH KOTA MATARAM",
+      "kode_rs": "5271087",
+      "tempat_tidur": 330,
+      "telepon": "NA",
+      "alamat": "JL. BUNG KARNO NO.3 PAGUTAN RAYA MATARAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.5818,
+      "longitude": 116.107
+    },
+    {
+      "nama": "RS UMUM KAB. LOMBOK UTARA",
+      "kode_rs": "5208002",
+      "tempat_tidur": 83,
+      "telepon": "(0370) 6123010",
+      "alamat": "JL. RAYA TIOQ TATA TUNAQ, TANJUNG LOMBOK UTARA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LOMBOK UTARA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.35502026,
+      "longitude": 116.15995794
+    },
+    {
+      "nama": "SILOAM HOSPITALS MATARAM",
+      "kode_rs": "5271100",
+      "tempat_tidur": 45,
+      "telepon": "(0370) 623999",
+      "alamat": "JL.MAJAPAHIT NO.10 MATARAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.593776,
+      "longitude": 116.098674
+    },
+    {
+      "nama": "RS UMUM SUMBAWA BESAR",
+      "kode_rs": "5204013",
+      "tempat_tidur": 151,
+      "telepon": "(0371) 21078 / (0371) 21929",
+      "alamat": "JL. GARUDA NO. 5 SUMBAWA BESAR",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SUMBAWA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.504,
+      "longitude": 117.428
+    },
+    {
+      "nama": "RS HARAPAN KELUARGA NTB",
+      "kode_rs": "5272003",
+      "tempat_tidur": 56,
+      "telepon": "",
+      "alamat": "JL. AHMAD YANI NO.9, SELAGALAS, KEC. SANDUBAYA, KOTA MATARAM, NUSA TENGGARA BAR. 83237",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.189811,
+      "longitude": 116.110608
+    },
+    {
+      "nama": "RS ANGKATAN DARAT REM WIRA BHAKTI MATARAM",
+      "kode_rs": "5271021",
+      "tempat_tidur": 62,
+      "telepon": "0370-631280",
+      "alamat": "JL. HOS COKROAMINOTO 7 MATARAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.58088,
+      "longitude": 116.108949
+    },
+    {
+      "nama": "RS BHAYANGKARA MATARAM",
+      "kode_rs": "5271065",
+      "tempat_tidur": 80,
+      "telepon": "(0370) 629149",
+      "alamat": "JL. LANGKO NO.64,MATARAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.5805,
+      "longitude": 116.093
+    },
+    {
+      "nama": "RS UMUM DAERAH NTB",
+      "kode_rs": "5271010",
+      "tempat_tidur": 422,
+      "telepon": "(0370) 7502424",
+      "alamat": "JL. PRABU RANGKASARI DASAN CERMEN",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.607397,
+      "longitude": 116.131328
+    },
+    {
+      "nama": "RS UMUM DAERAH DR. R. SOEDJONO SELONG",
+      "kode_rs": "5203012",
+      "tempat_tidur": 294,
+      "telepon": "0376 21415",
+      "alamat": "JL. PROF M. YAMIN, SH. NO. 55 SELONG",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "LOMBOK TIMUR, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.5836,
+      "longitude": 116.551
+    },
+    {
+      "nama": "RS H. L. MANAMBAI ABDULKADIR",
+      "kode_rs": "5206027",
+      "tempat_tidur": 183,
+      "telepon": "(0371) 2628078",
+      "alamat": "JL. LINTAS SUMBAWA-BIMA KM 5, SEKETENG, KEC. SUMBAWA, KABUPATEN SUMBAWA, NUSA TENGGARA BAR. 84316",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "SUMBAWA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.531361,
+      "longitude": 117.447765
+    },
+    {
+      "nama": "RS UMUM BIMA",
+      "kode_rs": "5206015",
+      "tempat_tidur": 191,
+      "telepon": "(0374-43142)",
+      "alamat": "JL. LANGSAT NO. 1 RABA KOTA BIMA",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "BIMA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.4736235,
+      "longitude": 118.761799
+    },
+    {
+      "nama": "RS BIO MEDIKA",
+      "kode_rs": "5271098",
+      "tempat_tidur": 50,
+      "telepon": "(0370) 645137",
+      "alamat": "JL. BUNG KARNO NO.143, PAGUTAN BAR., KEC. MATARAM, KOTA MATARAM, NUSA TENGGARA BAR. 83117",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.604984,
+      "longitude": 116.114109
+    },
+    {
+      "nama": "RS PRATAMA MANGGELEWA",
+      "kode_rs": "5205016",
+      "tempat_tidur": 42,
+      "telepon": "",
+      "alamat": "JL. LINTAS CALABAI, DOROMELO, MANGGALEWA, KABUPATEN DOMPU, NUSA TENGGARA BAR. 84253",
+      "tipe": "",
+      "wilayah": "DOMPU, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.518657,
+      "longitude": 118.311448
+    },
+    {
+      "nama": "RS RISA SENTRA MEDIKA",
+      "kode_rs": "5271076",
+      "tempat_tidur": 54,
+      "telepon": "(0370) 625560",
+      "alamat": "JL. PEJANGGIK NO.115 CAKRANEGARA MATARAM",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.5839,
+      "longitude": 116.113
+    },
+    {
+      "nama": "RS IBU DAN ANAK PERMATA HATI",
+      "kode_rs": "5271099",
+      "tempat_tidur": 34,
+      "telepon": "(0370) 631999",
+      "alamat": "JL. MAJAPAHIT NO.10C, KEKALIK JAYA, KEC. SEKARBELA, KOTA MATARAM, NUSA TENGGARA BAR. 83114",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.58521,
+      "longitude": 116.087814
+    },
+    {
+      "nama": "RS UMUM DAERAH LOMBOK TIMUR",
+      "kode_rs": "5203027",
+      "tempat_tidur": 66,
+      "telepon": "",
+      "alamat": "JL. HOS COKROAMINOTO NO. 31 DESA LABUHAN HAJI KECAMATAN LABUHAN HAJI LOMBOK TIMUR",
+      "tipe": "",
+      "wilayah": "LOMBOK TIMUR, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.310541,
+      "longitude": 116.271744
+    },
+    {
+      "nama": "RS IBU DAN ANAK TRESNA",
+      "kode_rs": "5271102",
+      "tempat_tidur": 24,
+      "telepon": "(0370) 637965",
+      "alamat": "JL. BUNG KARNO NO. 28 MATARAM",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.591883,
+      "longitude": 116.113764
+    },
+    {
+      "nama": "RS STIKES MATARAM BIMA",
+      "kode_rs": "5206031",
+      "tempat_tidur": 0,
+      "telepon": "",
+      "alamat": "JL. GATOT SUBROTO, SAMBINAE, MPUNDA, BIMA, NUSA TENGGARA BAR. 84111",
+      "tipe": "",
+      "wilayah": "BIMA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.474455,
+      "longitude": 118.73946
+    },
+    {
+      "nama": "RS ISLAM YATOFA",
+      "kode_rs": "5202022",
+      "tempat_tidur": 121,
+      "telepon": "(0370) 6503386",
+      "alamat": "JL. RAYA BODAK - MANTANG KM. 7 PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT",
+      "tipe": "",
+      "wilayah": "LOMBOK TENGAH, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.6946,
+      "longitude": 116.278
+    },
+    {
+      "nama": "RS ISLAM NAMIRA",
+      "kode_rs": "5203024",
+      "tempat_tidur": 111,
+      "telepon": "(0376) 21004",
+      "alamat": "JL. KH AHMAD DAHLAN NO.17, PANCOR, SELONG, KABUPATEN LOMBOK TIMUR, NUSA TENGGARA BAR. 83612",
+      "tipe": "",
+      "wilayah": "LOMBOK TIMUR, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.647086,
+      "longitude": 116.519888
+    },
+    {
+      "nama": "RS PKU MUHAMMADIYAH BIMA",
+      "kode_rs": "5206028",
+      "tempat_tidur": 56,
+      "telepon": "(0374) 42100",
+      "alamat": "JALAN GAJAH MADA NO 6 KELURAHAN MONGGONAO",
+      "tipe": "",
+      "wilayah": "BIMA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.45446978,
+      "longitude": 118.73611241
+    },
+    {
+      "nama": "RS METRO MEDIKA",
+      "kode_rs": "5271104",
+      "tempat_tidur": 36,
+      "telepon": "(0370) 7847171",
+      "alamat": "REMBIGA, SELAPARANG, MATARAM CITY, WEST NUSA TENGGARA 83124",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.56266,
+      "longitude": 116.112404
+    },
+    {
+      "nama": "RS IBU DAN ANAK BHUMI BUNDA",
+      "kode_rs": "5202023",
+      "tempat_tidur": 20,
+      "telepon": "0819-0741-5033",
+      "alamat": "JL. BASUKI RAHMAT NO. 90 KETEJER, GERUNUNG, PRAYA",
+      "tipe": "",
+      "wilayah": "LOMBOK TENGAH, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.683669,
+      "longitude": 116.289515
+    },
+    {
+      "nama": "RSUD KOTA BIMA",
+      "kode_rs": "5272005",
+      "tempat_tidur": 39,
+      "telepon": "",
+      "alamat": "JL. DATUK DIBANTA, JATIWANGI, ASAKOTA, BIMA, NUSA TENGGARA BAR. 84117",
+      "tipe": "",
+      "wilayah": "BIMA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.449902,
+      "longitude": 118.733004
+    },
+    {
+      "nama": "RS UMUM KHATOLIK SAINT ANTONIUS  AMPENAN",
+      "kode_rs": "5271043",
+      "tempat_tidur": 55,
+      "telepon": "(0370) 621397",
+      "alamat": "JL. KOPERASI NO.61, DAYAN PEKEN, KEC. AMPENAN, KOTA MATARAM, NUSA TENGGARA BAR. 83111",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.570279,
+      "longitude": 116.079581
+    },
+    {
+      "nama": "RS MATA NUSA TENGGARA BARAT",
+      "kode_rs": "5271103",
+      "tempat_tidur": 0,
+      "telepon": "",
+      "alamat": "JL. SELAPARANG NO. 40A, KELURAHAN MAYURA, KEC. CAKRANEGARA, KOTA MATARAM",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.582528,
+      "longitude": 116.111775
+    },
+    {
+      "nama": "RS DR. AGUNG",
+      "kode_rs": "5206030",
+      "tempat_tidur": 56,
+      "telepon": "(0374) 43166",
+      "alamat": "JL. IR. SUTAMI NO. 1 RABA DOMPU",
+      "tipe": "",
+      "wilayah": "BIMA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.473686,
+      "longitude": 118.763479
+    },
+    {
+      "nama": "RS LOTIM MEDICAL CENTER",
+      "kode_rs": "5203025",
+      "tempat_tidur": 59,
+      "telepon": "(0376) 23888",
+      "alamat": "JL. PEJANGGIK, PEJANGGIK, KEC. MATARAM, KOTA MATARAM, NUSA TENGGARA BAR.",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.652604,
+      "longitude": 116.519354
+    },
+    {
+      "nama": "RS JIWA MUTIARA SUKMA",
+      "kode_rs": "5271054",
+      "tempat_tidur": 150,
+      "telepon": "(0370) 672140",
+      "alamat": "JL. A YANI NO. 1 SELAGALAS CAKRANEGARA, MATARAM",
+      "tipe": "",
+      "wilayah": "KOTA MATARAM, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -2.4185588,
+      "longitude": 108.4919086
+    },
+    {
+      "nama": "RS SURYA MEDIKA PKU MUHAMMADIYAH SUMBAWA",
+      "kode_rs": "5207004",
+      "tempat_tidur": 36,
+      "telepon": "(0371) 2620023",
+      "alamat": "JL. HASANUDIN NO.20A, BUGIS, KEC. SUMBAWA, KABUPATEN SUMBAWA, NUSA TENGGARA BAR. 84313",
+      "tipe": "",
+      "wilayah": "SUMBAWA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.497269,
+      "longitude": 117.421903
+    },
+    {
+      "nama": "RS CAHAYA MEDIKA",
+      "kode_rs": "5202024",
+      "tempat_tidur": 30,
+      "telepon": "(021) 88334710",
+      "alamat": "JL. RAYA VILLA BEKASI INDAH NO.47, JEJALENJAYA, KEC. TAMBUN UTARA, BEKASI, JAWA BARAT 17510",
+      "tipe": "",
+      "wilayah": "LOMBOK TENGAH, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.70032,
+      "longitude": 116.258389
+    },
+    {
+      "nama": "RS UMUM DAERAH SONDOSIA KAB. BIMA",
+      "kode_rs": "5206029",
+      "tempat_tidur": 52,
+      "telepon": "",
+      "alamat": "JL. LINTAS SUMBAWA SONDOSIA KEC. BOLO",
+      "tipe": "",
+      "wilayah": "BIMA, NUSA TENGGARA BARAT",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "latitude": -8.522627,
+      "longitude": 118.65057
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Nusa Tenggara Barat — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Nusa Tenggara Barat menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 39 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Nusa Tenggara Barat — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Nusa Tenggara Barat — data Pusdatin Kemenkes — 39 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 39 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

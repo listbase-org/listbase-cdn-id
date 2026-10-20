@@ -1,0 +1,463 @@
+{
+  "id": "math-derivative-formulas",
+  "name": "Dataset Rumus Diferensiasi Umum",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "derivative",
+      "label": "Derivative f'(x)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Aturan Dasar",
+      "function": "c (constant)",
+      "derivative": "0",
+      "condition": "-",
+      "notes": "Aturan konstanta"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "x",
+      "derivative": "1",
+      "condition": "-",
+      "notes": "Fungsi identitas"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "c·f(x)",
+      "derivative": "c·f'(x)",
+      "condition": "c is constant",
+      "notes": "Aturan perkalian konstanta"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "f(x) + g(x)",
+      "derivative": "f'(x) + g'(x)",
+      "condition": "-",
+      "notes": "Aturan jumlah"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "f(x) - g(x)",
+      "derivative": "f'(x) - g'(x)",
+      "condition": "-",
+      "notes": "Aturan selisih"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "f(x)·g(x)",
+      "derivative": "f'(x)g(x) + f(x)g'(x)",
+      "condition": "-",
+      "notes": "Aturan hasil kali"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "f(x)/g(x)",
+      "derivative": "[f'(x)g(x) - f(x)g'(x)]/[g(x)]²",
+      "condition": "g(x) ≠ 0",
+      "notes": "Aturan hasil bagi"
+    },
+    {
+      "category": "Aturan Dasar",
+      "function": "f(g(x))",
+      "derivative": "f'(g(x))·g'(x)",
+      "condition": "-",
+      "notes": "Aturan rantai"
+    },
+    {
+      "category": "Pangkat",
+      "function": "x^n",
+      "derivative": "n·x^(n-1)",
+      "condition": "-",
+      "notes": "Aturan pangkat"
+    },
+    {
+      "category": "Pangkat",
+      "function": "1/x",
+      "derivative": "-1/x²",
+      "condition": "x ≠ 0",
+      "notes": "Sama dengan x^(-1)"
+    },
+    {
+      "category": "Pangkat",
+      "function": "1/x^n",
+      "derivative": "-n/x^(n+1)",
+      "condition": "x ≠ 0",
+      "notes": "Pangkat negatif"
+    },
+    {
+      "category": "Pangkat",
+      "function": "√x",
+      "derivative": "1/(2√x)",
+      "condition": "x > 0",
+      "notes": "Akar kuadrat"
+    },
+    {
+      "category": "Pangkat",
+      "function": "∜x (x^(1/n))",
+      "derivative": "1/(n·x^((n-1)/n))",
+      "condition": "x > 0",
+      "notes": "Akar ke-n"
+    },
+    {
+      "category": "Pangkat",
+      "function": "x^x",
+      "derivative": "x^x(ln(x) + 1)",
+      "condition": "x > 0",
+      "notes": "Diferensiasi logaritma"
+    },
+    {
+      "category": "Eksponensial",
+      "function": "e^x",
+      "derivative": "e^x",
+      "condition": "-",
+      "notes": "Eksponensial natural"
+    },
+    {
+      "category": "Eksponensial",
+      "function": "a^x",
+      "derivative": "a^x·ln(a)",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Eksponensial umum"
+    },
+    {
+      "category": "Eksponensial",
+      "function": "e^(f(x))",
+      "derivative": "e^(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Eksponensial",
+      "function": "a^(f(x))",
+      "derivative": "a^(f(x))·ln(a)·f'(x)",
+      "condition": "a > 0",
+      "notes": "Bentuk umum dengan aturan rantai"
+    },
+    {
+      "category": "Logaritma",
+      "function": "ln(x)",
+      "derivative": "1/x",
+      "condition": "x > 0",
+      "notes": "Logaritma natural"
+    },
+    {
+      "category": "Logaritma",
+      "function": "log_a(x)",
+      "derivative": "1/(x·ln(a))",
+      "condition": "x > 0, a > 0",
+      "notes": "Logaritma umum"
+    },
+    {
+      "category": "Logaritma",
+      "function": "ln(f(x))",
+      "derivative": "f'(x)/f(x)",
+      "condition": "f(x) > 0",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Logaritma",
+      "function": "log_a(f(x))",
+      "derivative": "f'(x)/(f(x)·ln(a))",
+      "condition": "f(x) > 0",
+      "notes": "Bentuk umum dengan aturan rantai"
+    },
+    {
+      "category": "Logaritma",
+      "function": "ln|x|",
+      "derivative": "1/x",
+      "condition": "x ≠ 0",
+      "notes": "Logaritma nilai mutlak"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sin(x)",
+      "derivative": "cos(x)",
+      "condition": "-",
+      "notes": "Fungsi sinus"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "cos(x)",
+      "derivative": "-sin(x)",
+      "condition": "-",
+      "notes": "Fungsi kosinus"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "tan(x)",
+      "derivative": "sec²(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Fungsi tangen"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "cot(x)",
+      "derivative": "-csc²(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Fungsi kotangen"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sec(x)",
+      "derivative": "sec(x)tan(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Fungsi sekan"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "csc(x)",
+      "derivative": "-csc(x)cot(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Fungsi kosekan"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sin(f(x))",
+      "derivative": "cos(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "cos(f(x))",
+      "derivative": "-sin(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "tan(f(x))",
+      "derivative": "sec²(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arcsin(x)",
+      "derivative": "1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Fungsi arsinus"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arccos(x)",
+      "derivative": "-1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Fungsi arccos"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arctan(x)",
+      "derivative": "1/(1+x²)",
+      "condition": "-",
+      "notes": "Fungsi arktangen"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arccot(x)",
+      "derivative": "-1/(1+x²)",
+      "condition": "-",
+      "notes": "Fungsi arccotangen"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arcsec(x)",
+      "derivative": "1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Fungsi arksekan"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arccsc(x)",
+      "derivative": "-1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Fungsi arkkosekan"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arcsin(f(x))",
+      "derivative": "f'(x)/√(1-[f(x)]²)",
+      "condition": "|f(x)| < 1",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "arctan(f(x))",
+      "derivative": "f'(x)/(1+[f(x)]²)",
+      "condition": "-",
+      "notes": "Aturan rantai diterapkan"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sinh(x)",
+      "derivative": "cosh(x)",
+      "condition": "-",
+      "notes": "Sinus hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "cosh(x)",
+      "derivative": "sinh(x)",
+      "condition": "-",
+      "notes": "Kosinus hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "tanh(x)",
+      "derivative": "sech²(x)",
+      "condition": "-",
+      "notes": "Tangen hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "coth(x)",
+      "derivative": "-csch²(x)",
+      "condition": "x ≠ 0",
+      "notes": "Kotangen hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sech(x)",
+      "derivative": "-sech(x)tanh(x)",
+      "condition": "-",
+      "notes": "Sekan hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "csch(x)",
+      "derivative": "-csch(x)coth(x)",
+      "condition": "x ≠ 0",
+      "notes": "Kosekan hiperbolik"
+    },
+    {
+      "category": "Hiperbolik Invers",
+      "function": "arcsinh(x)",
+      "derivative": "1/√(x²+1)",
+      "condition": "-",
+      "notes": "Sinus hiperbolik invers"
+    },
+    {
+      "category": "Hiperbolik Invers",
+      "function": "arccosh(x)",
+      "derivative": "1/√(x²-1)",
+      "condition": "x > 1",
+      "notes": "Kosinus hiperbolik invers"
+    },
+    {
+      "category": "Hiperbolik Invers",
+      "function": "arctanh(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Tangen hiperbolik invers"
+    },
+    {
+      "category": "Hiperbolik Invers",
+      "function": "arccoth(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| > 1",
+      "notes": "Kotangen hiperbolik invers"
+    },
+    {
+      "category": "Hiperbolik Invers",
+      "function": "arcsech(x)",
+      "derivative": "-1/(x√(1-x²))",
+      "condition": "0 < x < 1",
+      "notes": "Sekan hiperbolik invers"
+    },
+    {
+      "category": "Hiperbolik Invers",
+      "function": "arccsch(x)",
+      "derivative": "-1/(|x|√(1+x²))",
+      "condition": "x ≠ 0",
+      "notes": "Kosekan hiperbolik invers"
+    },
+    {
+      "category": "Khusus",
+      "function": "|x|",
+      "derivative": "x/|x| = sgn(x)",
+      "condition": "x ≠ 0",
+      "notes": "Nilai mutlak"
+    },
+    {
+      "category": "Khusus",
+      "function": "[f(x)]^n",
+      "derivative": "n[f(x)]^(n-1)·f'(x)",
+      "condition": "-",
+      "notes": "Aturan pangkat umum"
+    },
+    {
+      "category": "Khusus",
+      "function": "[f(x)]^g(x)",
+      "derivative": "[f(x)]^g(x)·[g'(x)ln(f(x)) + g(x)f'(x)/f(x)]",
+      "condition": "f(x) > 0",
+      "notes": "Diferensiasi logaritmik"
+    },
+    {
+      "category": "Khusus",
+      "function": "e^(x²)",
+      "derivative": "2x·e^(x²)",
+      "condition": "-",
+      "notes": "Bentuk Gaussian"
+    },
+    {
+      "category": "Khusus",
+      "function": "ln(ln(x))",
+      "derivative": "1/(x·ln(x))",
+      "condition": "x > 1",
+      "notes": "Logaritma bersarang"
+    }
+  ],
+  "meta": {
+    "seo_title": "Rumus Diferensiasi - Download Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 57 rumus diferensiasi dan aturan turunan untuk kalkulus. Tersedia dalam format Excel, CSV, & PDF untuk siswa & profesional.",
+    "title": "Dataset Rumus Diferensiasi Umum",
+    "description": "Dataset ini menyediakan koleksi komprehensif 57 rumus diferensiasi dan aturan turunan umum, termasuk aturan dasar, aturan pangkat, fungsi trigonometri, dan banyak lagi. Setiap entri mencantumkan fungsi, turunannya, kondisi, dan catatan.",
+    "key_takeaways": [
+      "Akses 57 rumus diferensiasi dan aturan turunan penting.",
+      "Jelajahi konsep kalkulus dengan fungsi dan turunan yang dikategorikan.",
+      "Unduh data siap pakai untuk studi akademis atau referensi profesional.",
+      "Manfaatkan kondisi dan catatan rinci untuk setiap aturan diferensiasi."
+    ],
+    "keywords": [
+      "rumus diferensiasi excel",
+      "aturan turunan csv",
+      "rumus kalkulus pdf",
+      "matematika turunan",
+      "tabel diferensiasi",
+      "download gratis kalkulus"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke skrip Python atau database SQL Anda untuk membangun aplikasi pembelajaran kalkulus atau alat studi khusus.",
+      "Gunakan file **Excel** untuk memfilter rumus berdasarkan kategori, menganalisis kondisi, atau membuat panduan belajar dengan mudah.",
+      "Cetak versi **PDF** untuk referensi offline cepat selama ujian, kuliah di kelas, atau sesi belajar pribadi.",
+      "Rujuk dataset ini untuk memverifikasi turunan dengan cepat untuk fungsi kompleks dalam perhitungan teknik, fisika, atau ilmu data."
+    ]
+  },
+  "record_count": 57,
+  "title": "Dataset Rumus Diferensiasi Umum"
+}

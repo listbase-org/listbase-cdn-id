@@ -1,0 +1,316 @@
+{
+  "id": "id-papua-barat-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Papua Barat — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Papua Barat — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Papua Barat menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH SCHOLOO KEYEN",
+      "kode_rs": "9106013",
+      "tempat_tidur": 96,
+      "telepon": "NA",
+      "alamat": "JL. TEMINABUAN - AYAMARU KAMPUNG KEYEN - TEMINABUAN",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SORONG SELATAN, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -1.45,
+      "longitude": 132.017
+    },
+    {
+      "nama": "RS TK IV DR.ARYOKO",
+      "kode_rs": "9271034",
+      "tempat_tidur": 26,
+      "telepon": "(0951) 333708",
+      "alamat": "JL. PRAMUKA NO.1 KELURAHAN KLAGETE DISTRIK SORONG UTARA 98412",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": 0.067772,
+      "longitude": 132.592795
+    },
+    {
+      "nama": "RS ANGKATAN LAUT DR. R. OETOJO",
+      "kode_rs": "9171047",
+      "tempat_tidur": 65,
+      "telepon": "(0951) 3173103",
+      "alamat": "JL. AHMAD YANI, KLADEMAK, SORONG MANOI, KOTA SORONG, PAPUA BAR. 98412",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.883077,
+      "longitude": 131.274892
+    },
+    {
+      "nama": "RS UMUM DAERAH RAJA AMPAT",
+      "kode_rs": "9108002",
+      "tempat_tidur": 66,
+      "telepon": "081342709298",
+      "alamat": "JLN.JENDERAL BASUKI RAHMAT, WARMASEN, WAISAI KOTA, RAJA AMPAT, PAPUA BARAT 98481",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "RAJA AMPAT, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.419721,
+      "longitude": 130.825037
+    },
+    {
+      "nama": "RS UMUM DAERAH FAKFAK",
+      "kode_rs": "9101010",
+      "tempat_tidur": 113,
+      "telepon": "0956  22373",
+      "alamat": "JL. JENDRAL SUDIRMAN WAGOM FAKFAK, WAGOM UTARA, KEC. FAKFAK, KABUPATEN FAKFAK, PAPUA BAR. 98651",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "FAKFAK, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -2.928061,
+      "longitude": 132.297449
+    },
+    {
+      "nama": "RS UMUM DAERAH SELE BE SOLU",
+      "kode_rs": "9171032",
+      "tempat_tidur": 165,
+      "telepon": "(0951) 335955",
+      "alamat": "JL. SELEBESOLU II NO.1 KM. 12, KLAWALU, SORONG TIM., KOTA SORONG, PAPUA BAR. 98416",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.903033,
+      "longitude": 131.322834
+    },
+    {
+      "nama": "RS UMUM DAERAH TELUK BINTUNI",
+      "kode_rs": "9104002",
+      "tempat_tidur": 34,
+      "telepon": "",
+      "alamat": "JL. RAYA SIBENA KM7",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "TELUK BINTUNI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -2.083555,
+      "longitude": 133.526513
+    },
+    {
+      "nama": "RS TK IV 18.07.02 J.A DIMARA",
+      "kode_rs": "0000002",
+      "tempat_tidur": 0,
+      "telepon": "",
+      "alamat": "JALAN BRAWIJAYA NO. 30 MANOKWARI",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MANOKWARI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.857725,
+      "longitude": 134.073687
+    },
+    {
+      "nama": "RS BHAYANGKARA LODEWIJK MANDATJAN",
+      "kode_rs": "9105005",
+      "tempat_tidur": 58,
+      "telepon": "",
+      "alamat": "JL. TRIKORA MARIPI KM 21",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MANOKWARI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.951276,
+      "longitude": 134.001277
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN TELUK WONDAMA",
+      "kode_rs": "9103035",
+      "tempat_tidur": 80,
+      "telepon": "",
+      "alamat": "BAR., MANIWAK, WASIOR, KABUPATEN TELUK WONDAMA, PAPUA BAR. 98362",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "TELUK WONDAMA, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -2.7592,
+      "longitude": 134.510667
+    },
+    {
+      "nama": "RS UMUM DAERAH KAIMANA",
+      "kode_rs": "9102034",
+      "tempat_tidur": 58,
+      "telepon": "081248051947",
+      "alamat": "JL. BATU PUTIH, KM 01, DISTRIK KAIMANA, KABUPATEN KAIMANA, PROVINSI PAPUA BARAT",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KAIMANA, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -3.60749,
+      "longitude": 133.728945
+    },
+    {
+      "nama": "RS AL DR. AZHAR ZAHIR MANOKWARI",
+      "kode_rs": "9102033",
+      "tempat_tidur": 98,
+      "telepon": "0852-4317-5352",
+      "alamat": "JALAN SERMA SUWANDI NO. 01, SANGGENG, MANOKWARI BARAT, SANGGENG, MANOKWARI BARAT, SANGGENG, MANOKWARI BAR., KABUPATEN MANOKWARI, PAPUA BAR. 98312",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MANOKWARI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.872645,
+      "longitude": 134.064878
+    },
+    {
+      "nama": "RS UMUM DAERAH MANOKWARI",
+      "kode_rs": "9102011",
+      "tempat_tidur": 161,
+      "telepon": "(0986) 215133",
+      "alamat": "JL. SILIWANGI NO.1, MANOKWARI BAR., KABUPATEN MANOKWARI, PAPUA BAR. 98312",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "MANOKWARI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.868453,
+      "longitude": 134.079282
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN SORONG",
+      "kode_rs": "9171010",
+      "tempat_tidur": 219,
+      "telepon": "(0951) 321850",
+      "alamat": "JL. KESEHATAN NO. 36 SORONG",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.8811,
+      "longitude": 131.25
+    },
+    {
+      "nama": "RS MALEO",
+      "kode_rs": "9107003",
+      "tempat_tidur": 38,
+      "telepon": "0811-4869-114",
+      "alamat": "JL. KESEHATAN NO. 37",
+      "tipe": "",
+      "wilayah": "SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.869307,
+      "longitude": 131.246293
+    },
+    {
+      "nama": "RS MUTIARA",
+      "kode_rs": "9171046",
+      "tempat_tidur": 51,
+      "telepon": "(0951) 327433",
+      "alamat": "JL MALEO NO 2-A HBMKELURAHAN REMU UTARA, 98412",
+      "tipe": "",
+      "wilayah": "SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.879789,
+      "longitude": 131.281259
+    },
+    {
+      "nama": "RS KASIH HERLINA",
+      "kode_rs": "9107002",
+      "tempat_tidur": 43,
+      "telepon": "",
+      "alamat": "JL. SELAT MAKASSAR NO. 7 KEL. REMU SELATAN",
+      "tipe": "",
+      "wilayah": "SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.887802,
+      "longitude": 131.283995
+    },
+    {
+      "nama": "RS PRATAMA WARMARE",
+      "kode_rs": "9105004",
+      "tempat_tidur": 50,
+      "telepon": "0813-4312-2667",
+      "alamat": "PRAFI KAMPUNG / INDISE, WARMARE, MANOKWARI REGENCY, WEST PAPUA 98352",
+      "tipe": "",
+      "wilayah": "MANOKWARI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.958271,
+      "longitude": 133.884277
+    },
+    {
+      "nama": "RS PEMBANTU MANOKWARI",
+      "kode_rs": "9102022",
+      "tempat_tidur": 22,
+      "telepon": "211775",
+      "alamat": "JL. BRAWIJAYA KODIM 1703 MANOKWARI",
+      "tipe": "",
+      "wilayah": "MANOKWARI, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.86321106,
+      "longitude": 134.07674158
+    },
+    {
+      "nama": "RS PERTAMINA SORONG",
+      "kode_rs": "9171021",
+      "tempat_tidur": 12,
+      "telepon": "(0951) 321581",
+      "alamat": "JL. AHMAD YANI NO.13 SORONG 98412",
+      "tipe": "",
+      "wilayah": "SORONG, PAPUA BARAT",
+      "provinsi": "PAPUA BARAT",
+      "latitude": -0.878015,
+      "longitude": 131.261374
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Papua Barat — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Papua Barat menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 20 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Papua Barat — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Papua Barat — data Pusdatin Kemenkes — 20 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 20 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

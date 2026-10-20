@@ -1,0 +1,220 @@
+{
+  "id": "id-east-java-airports",
+  "name": "Bandar Udara — East Java",
+  "title": "Bandar Udara — East Java",
+  "description": "Bandar udara di Provinsi East Java, Indonesia (Airports in East Java Province, Indonesia — 7 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WARA",
+      "iata": "MLG",
+      "name_en": "Abdul Rachman Saleh Airport",
+      "name_slug": "abdul-rachman-saleh-airport",
+      "city_en": "Singosari",
+      "city_slug": "singosari",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1725,
+      "lat": -7.9303251,
+      "lon": 112.7132741,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WADY",
+      "iata": "BWX",
+      "name_en": "Bandar Udara Internasional Banyuwangi",
+      "name_slug": "bandar-udara-internasional-banyuwangi",
+      "city_en": "Kepuh Wetan",
+      "city_slug": "kepuh-wetan",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 78,
+      "lat": -8.3104548,
+      "lon": 114.3378646,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WARW",
+      "iata": "BXW",
+      "name_en": "Harun Thohir Airport",
+      "name_slug": "harun-thohir-airport",
+      "city_en": "Paloh",
+      "city_slug": "paloh",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 72,
+      "lat": -5.7249405,
+      "lon": 112.6769307,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WARR",
+      "iata": "SUB",
+      "name_en": "Juanda International Airport",
+      "name_slug": "juanda-international-airport",
+      "city_en": "Semampirbarat",
+      "city_slug": "semampirbarat",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 19,
+      "lat": -7.380071,
+      "lon": 112.7853274,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "MSI",
+      "name_en": "Masalembo",
+      "name_slug": "masalembo",
+      "city_en": "Perreng",
+      "city_slug": "perreng",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 62,
+      "lat": -5.583333,
+      "lon": 114.433334,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WARE",
+      "iata": "JBB",
+      "name_en": "Notohadinegoro Airport",
+      "name_slug": "notohadinegoro-airport",
+      "city_en": "Renes",
+      "city_slug": "renes",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 223,
+      "lat": -8.2421527,
+      "lon": 113.6937083,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WART",
+      "iata": "SUP",
+      "name_en": "Trunojoyo",
+      "name_slug": "trunojoyo",
+      "city_en": "Sumurasin",
+      "city_slug": "sumurasin",
+      "province_en": "East Java",
+      "province_slug": "east-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -7.066667,
+      "lon": 113.933334,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — East Java - Unduh Gratis",
+    "description": "Bandar udara di Provinsi East Java, Indonesia (Airports in East Java Province, Indonesia — 7 record(s).) Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — East Java | ListBase",
+    "seo_description": "Unduh Bandar Udara — East Java — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

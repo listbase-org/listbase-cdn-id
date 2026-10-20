@@ -1,0 +1,115 @@
+{
+  "id": "id-satuan-ukuran-speed",
+  "name": "Satuan ukuran — kategori 'speed' (6)",
+  "title": "Satuan ukuran — kategori 'speed' (6)",
+  "description": "Satuan ukuran kategori 'speed' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "kategori": "speed",
+      "nama": "Beaufort",
+      "singkatan": "Bft",
+      "bentuk_sempit": "Bft",
+      "pola": "Beaufort {0}"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategori": "speed",
+      "nama": "kilometer per jam",
+      "singkatan": "km/jam",
+      "bentuk_sempit": "km/jam",
+      "pola": "{0} kilometer per jam"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "kategori": "speed",
+      "nama": "knot",
+      "singkatan": "kn",
+      "bentuk_sempit": "kn",
+      "pola": "{0} knot"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "kategori": "speed",
+      "nama": "cahaya",
+      "singkatan": "cahaya",
+      "bentuk_sempit": "cahaya",
+      "pola": "{0} cahaya"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "kategori": "speed",
+      "nama": "meter per detik",
+      "singkatan": "meter/dtk",
+      "bentuk_sempit": "m/dtk",
+      "pola": "{0} meter per detik"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "kategori": "speed",
+      "nama": "mil per jam",
+      "singkatan": "mi/h",
+      "bentuk_sempit": "mi/j",
+      "pola": "{0} mil per jam"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'speed' (6) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'speed' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'speed' (6) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'speed' (6) — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

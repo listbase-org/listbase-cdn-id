@@ -1,0 +1,254 @@
+{
+  "id": "id-aceh-airports",
+  "name": "Bandar Udara — Aceh",
+  "title": "Bandar Udara — Aceh",
+  "description": "Bandar udara di Provinsi Aceh, Indonesia (Airports in Aceh Province, Indonesia — 9 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "",
+      "iata": "KJX",
+      "name_en": "Blangpidie Airport",
+      "name_slug": "blangpidie-airport",
+      "city_en": "Susoh",
+      "city_slug": "susoh",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 3.734444,
+      "lon": 96.791111,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITL",
+      "iata": "LSX",
+      "name_en": "Lhok Sukon",
+      "name_slug": "lhok-sukon",
+      "city_en": "Matangkuli",
+      "city_slug": "matangkuli",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 22,
+      "lat": 5.066667,
+      "lon": 97.316666,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITN",
+      "iata": "SBG",
+      "name_en": "Maimun Saleh",
+      "name_slug": "maimun-saleh",
+      "city_en": "Lambaro",
+      "city_slug": "lambaro",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 16,
+      "lat": 5.55,
+      "lon": 95.333336,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITM",
+      "iata": "LSW",
+      "name_en": "Malikus Saleh Airport",
+      "name_slug": "malikus-saleh-airport",
+      "city_en": "Lhokseumawe",
+      "city_slug": "lhokseumawe",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 5.166667,
+      "lon": 97.166664,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITK",
+      "iata": "TXE",
+      "name_en": "Rembele Airport",
+      "name_slug": "rembele-airport",
+      "city_en": "Simpang Teritit",
+      "city_slug": "simpang-teritit",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 4648,
+      "lat": 4.7229057,
+      "lon": 96.8491092,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITC",
+      "iata": "MEQ",
+      "name_en": "Seunagan",
+      "name_slug": "seunagan",
+      "city_en": "Meulaboh",
+      "city_slug": "meulaboh",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 29,
+      "lat": 4.15,
+      "lon": 96.11667,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITT",
+      "iata": "BTJ",
+      "name_en": "Sultan Iskandar Muda International Airport",
+      "name_slug": "sultan-iskandar-muda-international-airport",
+      "city_en": "Montasik",
+      "city_slug": "montasik",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 62,
+      "lat": 5.5294657,
+      "lon": 95.4190832,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "TBX",
+      "name_en": "Tambelan Airport",
+      "name_slug": "tambelan-airport",
+      "city_en": "Pulo Batal",
+      "city_slug": "pulo-batal",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 0.984194,
+      "lon": 96.849444,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WITA",
+      "iata": "TPK",
+      "name_en": "Tapaktuan",
+      "name_slug": "tapaktuan",
+      "city_en": "Tapaktuan",
+      "city_slug": "tapaktuan",
+      "province_en": "Aceh",
+      "province_slug": "aceh",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 17,
+      "lat": 3.266667,
+      "lon": 97.183334,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Aceh - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Aceh, Indonesia (Airports in Aceh Province, Indonesia — 9 record(s).) Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Aceh | ListBase",
+    "seo_description": "Unduh Bandar Udara — Aceh — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "id-papua-barat-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Papua Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Papua Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "7 kabupaten/kota di Provinsi Papua Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "92.02",
+      "name": "Kabupaten Manokwari",
+      "type": "kabupaten",
+      "capital": "Manokwari",
+      "latitude": -0.890814,
+      "longitude": 134.04012,
+      "elevation_m": 125,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2764.187,
+      "population": 205212
+    },
+    {
+      "code": "92.03",
+      "name": "Kabupaten Fak Fak",
+      "type": "kabupaten",
+      "capital": "Fakfak",
+      "latitude": -2.928858,
+      "longitude": 132.293635,
+      "elevation_m": 42,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 9735.003,
+      "population": 93997
+    },
+    {
+      "code": "92.06",
+      "name": "Kabupaten Teluk Bintuni",
+      "type": "kabupaten",
+      "capital": "Bintuni",
+      "latitude": -2.034972,
+      "longitude": 133.731806,
+      "elevation_m": 55,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 84205,
+      "population": 84205
+    },
+    {
+      "code": "92.07",
+      "name": "Kabupaten Teluk Wondama",
+      "type": "kabupaten",
+      "capital": "Rasiei",
+      "latitude": -2.827693,
+      "longitude": 134.535723,
+      "elevation_m": 70,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 4847.951,
+      "population": 47494
+    },
+    {
+      "code": "92.08",
+      "name": "Kabupaten Kaimana",
+      "type": "kabupaten",
+      "capital": "Kaimana",
+      "latitude": -3.639691,
+      "longitude": 133.740067,
+      "elevation_m": 20,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 17878.913,
+      "population": 64938
+    },
+    {
+      "code": "92.11",
+      "name": "Kabupaten Manokwari Selatan",
+      "type": "kabupaten",
+      "capital": "Ransiki",
+      "latitude": -1.506395,
+      "longitude": 134.168643,
+      "elevation_m": 30,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 39026,
+      "population": 39026
+    },
+    {
+      "code": "92.12",
+      "name": "Kabupaten Pegunungan Arfak",
+      "type": "kabupaten",
+      "capital": "Anggi",
+      "latitude": -1.325047,
+      "longitude": 133.91657,
+      "elevation_m": 1962,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 3298.811,
+      "population": 41383
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Papua Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "7 kabupaten/kota di Provinsi Papua Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Papua Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Papua Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "id-south-sumatra-airports",
+  "name": "Bandar Udara — South Sumatra",
+  "title": "Bandar Udara — South Sumatra",
+  "description": "Bandar udara di Provinsi South Sumatra, Indonesia (Airports in South Sumatra Province, Indonesia — 6 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIPY",
+      "iata": "PXA",
+      "name_en": "Atung Bungsu Airport",
+      "name_slug": "atung-bungsu-airport",
+      "city_en": "Kotaagung",
+      "city_slug": "kotaagung",
+      "province_en": "South Sumatra",
+      "province_slug": "south-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2020,
+      "lat": -4.0225,
+      "lon": 103.379167,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIPV",
+      "iata": "KLQ",
+      "name_en": "Keluang",
+      "name_slug": "keluang",
+      "city_en": "Sekayu",
+      "city_slug": "sekayu",
+      "province_en": "South Sumatra",
+      "province_slug": "south-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 76,
+      "lat": -2.683333,
+      "lon": 103.9,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "MJY",
+      "name_en": "Mangunjaya",
+      "name_slug": "mangunjaya",
+      "city_en": "Babat",
+      "city_slug": "babat",
+      "province_en": "South Sumatra",
+      "province_slug": "south-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 75,
+      "lat": -2.73333,
+      "lon": 103.5670013,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIPQ",
+      "iata": "PDO",
+      "name_en": "Pendopo",
+      "name_slug": "pendopo",
+      "city_en": "Gunungmegang Dalam",
+      "city_slug": "gunungmegang-dalam",
+      "province_en": "South Sumatra",
+      "province_slug": "south-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 121,
+      "lat": -3.2860701,
+      "lon": 103.8799973,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIKL",
+      "iata": "LLJ",
+      "name_en": "Silampari Airport",
+      "name_slug": "silampari-airport",
+      "city_en": "Lubuklinggau",
+      "city_slug": "lubuklinggau",
+      "province_en": "South Sumatra",
+      "province_slug": "south-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 371,
+      "lat": -3.2889355,
+      "lon": 102.9141698,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIPP",
+      "iata": "PLM",
+      "name_en": "Sultan Mahmud Badaruddin II Airport",
+      "name_slug": "sultan-mahmud-badaruddin-ii-airport",
+      "city_en": "Talangbetutu",
+      "city_slug": "talangbetutu",
+      "province_en": "South Sumatra",
+      "province_slug": "south-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 32,
+      "lat": -2.8966306,
+      "lon": 104.6996813,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — South Sumatra - Unduh Gratis",
+    "description": "Bandar udara di Provinsi South Sumatra, Indonesia (Airports in South Sumatra Province, Indonesia — 6 record(s).) Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — South Sumatra | ListBase",
+    "seo_description": "Unduh Bandar Udara — South Sumatra — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "id": "id-sulawesi-utara-pelabuhan",
+  "name": "Pelabuhan Umum di Sulawesi Utara (29 pelabuhan)",
+  "title": "Pelabuhan Umum di Sulawesi Utara (29 pelabuhan)",
+  "description": "29 pelabuhan umum di Provinsi Sulawesi Utara, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "AUG",
+      "nama_pelabuhan": "Amurang",
+      "lokasi_kabupaten_kota": "MINAHASA SELATAN",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BEO",
+      "nama_pelabuhan": "Beo",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BIT",
+      "nama_pelabuhan": "Bitung",
+      "lokasi_kabupaten_kota": "KOTA BITUNG",
+      "unit_kerja": "KSOP KELAS II BITUNG",
+      "alamat_kantor": "Jl. Ir. Soekarno No. 4 Bitung Sulawesi Utara 95225",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BKE",
+      "nama_pelabuhan": "Bukide",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BLG",
+      "nama_pelabuhan": "Belang",
+      "lokasi_kabupaten_kota": "MINAHASA TENGGARA",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "DPN",
+      "nama_pelabuhan": "Dapalan",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "ESG",
+      "nama_pelabuhan": "Essang",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "IMH",
+      "nama_pelabuhan": "Melonguane",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KAO",
+      "nama_pelabuhan": "Kawaluso",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KKG",
+      "nama_pelabuhan": "Kahakitang",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KLM",
+      "nama_pelabuhan": "Kalama",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KON",
+      "nama_pelabuhan": "Kakorotan",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KTN",
+      "nama_pelabuhan": "Karatung",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KWO",
+      "nama_pelabuhan": "Kawio",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "LPG",
+      "nama_pelabuhan": "Lipang",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "LRG",
+      "nama_pelabuhan": "Lirung",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "LUG",
+      "nama_pelabuhan": "Likupang",
+      "lokasi_kabupaten_kota": "MINAHSA UTARA",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MAT",
+      "nama_pelabuhan": "Marampit",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MDC",
+      "nama_pelabuhan": "Manado",
+      "lokasi_kabupaten_kota": "KOTA MANADO",
+      "unit_kerja": "KSOP KELAS III MANADO",
+      "alamat_kantor": "Jl. Pelabuhan Manado; Sulawesi Utara 95111 Telp. 0431-867054; Fax. 0431-859721 Email : adpel_manado@yahoo.com / ksop_manado@dephub.go.id",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MGR",
+      "nama_pelabuhan": "Mangarang",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MGS",
+      "nama_pelabuhan": "Miangas",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MKT",
+      "nama_pelabuhan": "Munte/Likupang Barat",
+      "lokasi_kabupaten_kota": "MINAHSA UTARA",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MRE",
+      "nama_pelabuhan": "Marore",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MTT",
+      "nama_pelabuhan": "Matutuang",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "NIG",
+      "nama_pelabuhan": "Ngalipaeng",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "PAR",
+      "nama_pelabuhan": "Para",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "PEA",
+      "nama_pelabuhan": "Petta",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "RIS",
+      "nama_pelabuhan": "Rainis",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "THA",
+      "nama_pelabuhan": "Tahuna",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Sulawesi Utara (29 pelabuhan) - Unduh Gratis",
+    "description": "29 pelabuhan umum di Provinsi Sulawesi Utara, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 29 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Sulawesi Utara (29 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Sulawesi Utara (29 pelabuhan) — 29 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 29 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

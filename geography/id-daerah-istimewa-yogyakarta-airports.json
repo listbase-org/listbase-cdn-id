@@ -1,0 +1,135 @@
+{
+  "id": "id-daerah-istimewa-yogyakarta-airports",
+  "name": "Bandar Udara — Daerah Istimewa Yogyakarta",
+  "title": "Bandar Udara — Daerah Istimewa Yogyakarta",
+  "description": "Bandar udara di Provinsi Daerah Istimewa Yogyakarta, Indonesia (Airports in Daerah Istimewa Yogyakarta Province, Indonesia — 2 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAHH",
+      "iata": "JOG",
+      "name_en": "Adisutjipto International Airport",
+      "name_slug": "adisutjipto-international-airport",
+      "city_en": "Depok",
+      "city_slug": "depok",
+      "province_en": "Daerah Istimewa Yogyakarta",
+      "province_slug": "daerah-istimewa-yogyakarta",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 379,
+      "lat": -7.7933061,
+      "lon": 110.4268095,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WAHI",
+      "iata": "YIA",
+      "name_en": "Yogyakarta International Airport",
+      "name_slug": "yogyakarta-international-airport",
+      "city_en": "Srandakan",
+      "city_slug": "srandakan",
+      "province_en": "Daerah Istimewa Yogyakarta",
+      "province_slug": "daerah-istimewa-yogyakarta",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 24,
+      "lat": -7.8998374,
+      "lon": 110.0511944,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Daerah Istimewa Yogyakarta - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Daerah Istimewa Yogyakarta, Indonesia (Airports in Daerah Istimewa Yogyakarta Province, Indonesia — 2 record(s).) Berisi 2 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Daerah Istimewa Yogyakarta | ListBase",
+    "seo_description": "Unduh Bandar Udara — Daerah Istimewa Yogyakarta — 2 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 2 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

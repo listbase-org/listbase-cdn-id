@@ -1,0 +1,118 @@
+{
+  "id": "id-sulawesi-barat-airports",
+  "name": "Bandar Udara — Sulawesi Barat",
+  "title": "Bandar Udara — Sulawesi Barat",
+  "description": "Bandar udara di Provinsi Sulawesi Barat, Indonesia (Airports in Sulawesi Barat Province, Indonesia — 1 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAWJ",
+      "iata": "MJU",
+      "name_en": "Tampa Padang Airport",
+      "name_slug": "tampa-padang-airport",
+      "city_en": "Mamuju",
+      "city_slug": "mamuju",
+      "province_en": "Sulawesi Barat",
+      "province_slug": "sulawesi-barat",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -2.5,
+      "lon": 118.833336,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Sulawesi Barat - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Sulawesi Barat, Indonesia (Airports in Sulawesi Barat Province, Indonesia — 1 record(s).) Berisi 1 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Sulawesi Barat | ListBase",
+    "seo_description": "Unduh Bandar Udara — Sulawesi Barat — 1 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 1 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "id": "id-lagu-daerah",
+  "name": "Lagu Daerah Indonesia per Provinsi",
+  "title": "Lagu Daerah Indonesia per Provinsi",
+  "description": "Daftar lagu daerah tradisional Indonesia dikelompokkan per provinsi, dengan judul lagu dalam bahasa aslinya.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "judul",
+      "label": "Judul",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "judul": "Bungong Jeumpa",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "judul": "Piso Surit",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "judul": "Sepakat Segenap",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "judul": "Butet",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "judul": "Sinanggar Tulo",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "judul": "Anju Ahu",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "judul": "Dago Inang Sarge",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "judul": "Ayam Den Lapeh",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "judul": "Kampuang Nan Jauah di Mato",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "judul": "Kambanglah Bungo",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "judul": "Bareh Solok",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "judul": "Lancang Kuning",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "judul": "Soleram",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "judul": "Langgam Melayu",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "judul": "Kutang Barendo",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "judul": "Batanghari",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "judul": "Injit-injit Semut",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "judul": "Selendang Mayang",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "judul": "Deng Sangke",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "judul": "Kabile-kabile",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "judul": "Lalan Bebek",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "judul": "Sang Bumi Ruwa Jurai",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "judul": "Lipang Lipang Dang",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "judul": "Yo Miak",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "judul": "Bujang Lapo",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "judul": "Soleram",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "judul": "Langgam Melayu",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "judul": "Kicir-kicir",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "judul": "Surilang",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "judul": "Jali-jali",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "judul": "Keroncong Kemayoran",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "judul": "Ronggeng",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "judul": "Bubuy Bulan",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "judul": "Cing Cangkeling",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "judul": "Manuk Dadali",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "judul": "Tokecang",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "judul": "Gambang Suling",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "judul": "Gundul Pacul",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "judul": "Ilir-ilir",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "judul": "Jamuran",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "judul": "Suwe Ora Jamu",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "judul": "Sinom",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "judul": "Pitik Tukung",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "judul": "Kidang Talun",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "judul": "Menthok-menthok",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "judul": "Gethuk",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "judul": "Gek Kepriye",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "judul": "Karapan Sapi",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "judul": "Tanduk Majeng",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "judul": "Dayung Sampan",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "judul": "Jareh Bu Guru",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "judul": "Macep-macepan",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "judul": "Mejangeran",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "judul": "Meong-meong",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "judul": "Ngusak asik",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "judul": "Putri Ayu",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "judul": "Ratu Anom",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "judul": "Balelebo",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "judul": "Moree",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "judul": "O Re Re",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "judul": "Tebe O Nana",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "judul": "Tutu Koda",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "judul": "Ala Deng Taeng",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "judul": "Anak Kambing Saya",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "judul": "Desaku",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "judul": "Potok Bebek Angsa",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    }
+  ],
+  "meta": {
+    "title": "Lagu Daerah Indonesia per Provinsi - Unduh Gratis",
+    "description": "Daftar lagu daerah tradisional Indonesia dikelompokkan per provinsi, dengan judul lagu dalam bahasa aslinya. Berisi 66 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Lagu Daerah Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Lagu Daerah Indonesia per Provinsi — 66 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 66 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

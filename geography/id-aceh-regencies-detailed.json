@@ -1,0 +1,352 @@
+{
+  "id": "id-aceh-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Aceh (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Aceh (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "23 kabupaten/kota di Provinsi Aceh dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11.01",
+      "name": "Kabupaten Aceh Selatan",
+      "type": "kabupaten",
+      "capital": "Tapak Tuan",
+      "latitude": 3.254802,
+      "longitude": 97.174112,
+      "elevation_m": 19,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4174.211,
+      "population": 239629
+    },
+    {
+      "code": "11.02",
+      "name": "Kabupaten Aceh Tenggara",
+      "type": "kabupaten",
+      "capital": "Kutacane",
+      "latitude": 3.47336,
+      "longitude": 97.819243,
+      "elevation_m": 168,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4179.123,
+      "population": 235589
+    },
+    {
+      "code": "11.03",
+      "name": "Kabupaten Aceh Timur",
+      "type": "kabupaten",
+      "capital": "Idi Rayeuk",
+      "latitude": 4.932737,
+      "longitude": 97.783844,
+      "elevation_m": 10,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5409.158,
+      "population": 461391
+    },
+    {
+      "code": "11.04",
+      "name": "Kabupaten Aceh Tengah",
+      "type": "kabupaten",
+      "capital": "Takengon",
+      "latitude": 4.622057,
+      "longitude": 96.845668,
+      "elevation_m": 1262,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4468.417,
+      "population": 232606
+    },
+    {
+      "code": "11.05",
+      "name": "Kabupaten Aceh Barat",
+      "type": "kabupaten",
+      "capital": "Meulaboh",
+      "latitude": 4.15301,
+      "longitude": 96.131441,
+      "elevation_m": 5,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2782.606,
+      "population": 209220
+    },
+    {
+      "code": "11.06",
+      "name": "Kabupaten Aceh Besar",
+      "type": "kabupaten",
+      "capital": "Kota Jantho",
+      "latitude": 5.29734,
+      "longitude": 95.610871,
+      "elevation_m": 136,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2891.227,
+      "population": 442987
+    },
+    {
+      "code": "11.07",
+      "name": "Kabupaten Pidie",
+      "type": "kabupaten",
+      "capital": "Sigli",
+      "latitude": 5.3676,
+      "longitude": 95.95788,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3177.063,
+      "population": 451076
+    },
+    {
+      "code": "11.08",
+      "name": "Kabupaten Aceh Utara",
+      "type": "kabupaten",
+      "capital": "Lhoksukon",
+      "latitude": 5.075716,
+      "longitude": 97.302624,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2705.045,
+      "population": 641007
+    },
+    {
+      "code": "11.09",
+      "name": "Kabupaten Simeulue",
+      "type": "kabupaten",
+      "capital": "Sinabang",
+      "latitude": 2.461413,
+      "longitude": 96.380377,
+      "elevation_m": 8,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1828.851,
+      "population": 96812
+    },
+    {
+      "code": "11.10",
+      "name": "Kabupaten Aceh Singkil",
+      "type": "kabupaten",
+      "capital": "Singkil",
+      "latitude": 2.271094,
+      "longitude": 97.815325,
+      "elevation_m": 4,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": "",
+      "population": 140461
+    },
+    {
+      "code": "11.11",
+      "name": "Kabupaten Bireuen",
+      "type": "kabupaten",
+      "capital": "Bireuen",
+      "latitude": 5.207565,
+      "longitude": 96.726403,
+      "elevation_m": 16,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1796.959,
+      "population": 468696
+    },
+    {
+      "code": "11.12",
+      "name": "Kabupaten Aceh Barat Daya",
+      "type": "kabupaten",
+      "capital": "Blangpidie",
+      "latitude": 3.739103,
+      "longitude": 96.851505,
+      "elevation_m": 26,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1882.054,
+      "population": 156128
+    },
+    {
+      "code": "11.13",
+      "name": "Kabupaten Gayo Lues",
+      "type": "kabupaten",
+      "capital": "Blang Kejeren",
+      "latitude": 3.993465,
+      "longitude": 97.324502,
+      "elevation_m": 1001,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5541.285,
+      "population": 107506
+    },
+    {
+      "code": "11.14",
+      "name": "Kabupaten Aceh Jaya",
+      "type": "kabupaten",
+      "capital": "Calang",
+      "latitude": 4.624132,
+      "longitude": 95.616812,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3870.566,
+      "population": 101407
+    },
+    {
+      "code": "11.15",
+      "name": "Kabupaten Nagan Raya",
+      "type": "kabupaten",
+      "capital": "Suka Makmue",
+      "latitude": 4.169427,
+      "longitude": 96.324374,
+      "elevation_m": 37,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3523.283,
+      "population": 181103
+    },
+    {
+      "code": "11.16",
+      "name": "Kabupaten Aceh Tamiang",
+      "type": "kabupaten",
+      "capital": "Karang Baru",
+      "latitude": 4.301276,
+      "longitude": 98.045715,
+      "elevation_m": 11,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2187.817,
+      "population": 312061
+    },
+    {
+      "code": "11.17",
+      "name": "Kabupaten Bener Meriah",
+      "type": "kabupaten",
+      "capital": "Simpang Tiga Redelong",
+      "latitude": 4.702762,
+      "longitude": 96.861953,
+      "elevation_m": 1337,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1907.399,
+      "population": 181376
+    },
+    {
+      "code": "11.18",
+      "name": "Kabupaten Pidie Jaya",
+      "type": "kabupaten",
+      "capital": "Meureudu",
+      "latitude": 5.228899,
+      "longitude": 96.244757,
+      "elevation_m": 8,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 938.868,
+      "population": 166517
+    },
+    {
+      "code": "11.71",
+      "name": "Kota Banda Aceh",
+      "type": "kota",
+      "capital": "Banda Aceh",
+      "latitude": 5.55005,
+      "longitude": 95.317827,
+      "elevation_m": 11,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 56.835,
+      "population": 265310
+    },
+    {
+      "code": "11.72",
+      "name": "Kota Sabang",
+      "type": "kota",
+      "capital": "Sabang",
+      "latitude": 5.892656,
+      "longitude": 95.321117,
+      "elevation_m": 38,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 121.867,
+      "population": 42793
+    },
+    {
+      "code": "11.73",
+      "name": "Kota Lhokseumawe",
+      "type": "kota",
+      "capital": "Lhokseumawe",
+      "latitude": 5.179364,
+      "longitude": 97.14894,
+      "elevation_m": 3,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 132.966,
+      "population": 198705
+    },
+    {
+      "code": "11.74",
+      "name": "Kota Langsa",
+      "type": "kota",
+      "capital": "Langsa",
+      "latitude": 4.469482,
+      "longitude": 97.966446,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 224.203,
+      "population": 183914
+    },
+    {
+      "code": "11.75",
+      "name": "Kota Subulussalam",
+      "type": "kota",
+      "capital": "Subulussalam",
+      "latitude": 2.670792,
+      "longitude": 97.993012,
+      "elevation_m": 73,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1183.601,
+      "population": 107185
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Aceh (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "23 kabupaten/kota di Provinsi Aceh dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 23 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Aceh (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Aceh (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 23 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 23 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

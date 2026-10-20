@@ -1,0 +1,289 @@
+{
+  "id": "id-provinsi-ringkasan",
+  "name": "Provinsi Indonesia — ringkasan administratif (34 provinsi)",
+  "title": "Provinsi Indonesia — ringkasan administratif (34 provinsi)",
+  "description": "34 provinsi Indonesia dengan jumlah kota/kabupaten dan kecamatan per provinsi",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_count",
+      "label": "City Count",
+      "type": "number"
+    },
+    {
+      "key": "district_count",
+      "label": "District Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11",
+      "province": "Aceh",
+      "slug": "aceh",
+      "city_count": 23,
+      "district_count": 289
+    },
+    {
+      "code": "12",
+      "province": "Sumatera Utara",
+      "slug": "sumatera-utara",
+      "city_count": 33,
+      "district_count": 450
+    },
+    {
+      "code": "13",
+      "province": "Sumatera Barat",
+      "slug": "sumatera-barat",
+      "city_count": 19,
+      "district_count": 179
+    },
+    {
+      "code": "14",
+      "province": "Riau",
+      "slug": "riau",
+      "city_count": 12,
+      "district_count": 169
+    },
+    {
+      "code": "15",
+      "province": "Jambi",
+      "slug": "jambi",
+      "city_count": 11,
+      "district_count": 141
+    },
+    {
+      "code": "16",
+      "province": "Sumatera Selatan",
+      "slug": "sumatera-selatan",
+      "city_count": 17,
+      "district_count": 241
+    },
+    {
+      "code": "17",
+      "province": "Bengkulu",
+      "slug": "bengkulu",
+      "city_count": 10,
+      "district_count": 129
+    },
+    {
+      "code": "18",
+      "province": "Lampung",
+      "slug": "lampung",
+      "city_count": 15,
+      "district_count": 228
+    },
+    {
+      "code": "19",
+      "province": "Kepulauan Bangka Belitung",
+      "slug": "kepulauan-bangka-belitung",
+      "city_count": 7,
+      "district_count": 47
+    },
+    {
+      "code": "21",
+      "province": "Kepulauan Riau",
+      "slug": "kepulauan-riau",
+      "city_count": 7,
+      "district_count": 75
+    },
+    {
+      "code": "31",
+      "province": "DKI Jakarta",
+      "slug": "dki-jakarta",
+      "city_count": 6,
+      "district_count": 44
+    },
+    {
+      "code": "32",
+      "province": "Jawa Barat",
+      "slug": "jawa-barat",
+      "city_count": 27,
+      "district_count": 627
+    },
+    {
+      "code": "33",
+      "province": "Jawa Tengah",
+      "slug": "jawa-tengah",
+      "city_count": 35,
+      "district_count": 576
+    },
+    {
+      "code": "34",
+      "province": "Daerah Istimewa Yogyakarta",
+      "slug": "daerah-istimewa-yogyakarta",
+      "city_count": 5,
+      "district_count": 78
+    },
+    {
+      "code": "35",
+      "province": "Jawa Timur",
+      "slug": "jawa-timur",
+      "city_count": 38,
+      "district_count": 666
+    },
+    {
+      "code": "36",
+      "province": "Banten",
+      "slug": "banten",
+      "city_count": 8,
+      "district_count": 155
+    },
+    {
+      "code": "51",
+      "province": "Bali",
+      "slug": "bali",
+      "city_count": 9,
+      "district_count": 57
+    },
+    {
+      "code": "52",
+      "province": "Nusa Tenggara Barat",
+      "slug": "nusa-tenggara-barat",
+      "city_count": 10,
+      "district_count": 117
+    },
+    {
+      "code": "53",
+      "province": "Nusa Tenggara Timur",
+      "slug": "nusa-tenggara-timur",
+      "city_count": 22,
+      "district_count": 309
+    },
+    {
+      "code": "61",
+      "province": "Kalimantan Barat",
+      "slug": "kalimantan-barat",
+      "city_count": 14,
+      "district_count": 174
+    },
+    {
+      "code": "62",
+      "province": "Kalimantan Tengah",
+      "slug": "kalimantan-tengah",
+      "city_count": 14,
+      "district_count": 136
+    },
+    {
+      "code": "63",
+      "province": "Kalimantan Selatan",
+      "slug": "kalimantan-selatan",
+      "city_count": 13,
+      "district_count": 153
+    },
+    {
+      "code": "64",
+      "province": "Kalimantan Timur",
+      "slug": "kalimantan-timur",
+      "city_count": 10,
+      "district_count": 103
+    },
+    {
+      "code": "65",
+      "province": "Kalimantan Utara",
+      "slug": "kalimantan-utara",
+      "city_count": 5,
+      "district_count": 53
+    },
+    {
+      "code": "71",
+      "province": "Sulawesi Utara",
+      "slug": "sulawesi-utara",
+      "city_count": 15,
+      "district_count": 171
+    },
+    {
+      "code": "72",
+      "province": "Sulawesi Tengah",
+      "slug": "sulawesi-tengah",
+      "city_count": 13,
+      "district_count": 175
+    },
+    {
+      "code": "73",
+      "province": "Sulawesi Selatan",
+      "slug": "sulawesi-selatan",
+      "city_count": 24,
+      "district_count": 311
+    },
+    {
+      "code": "74",
+      "province": "Sulawesi Tenggara",
+      "slug": "sulawesi-tenggara",
+      "city_count": 17,
+      "district_count": 219
+    },
+    {
+      "code": "75",
+      "province": "Gorontalo",
+      "slug": "gorontalo",
+      "city_count": 6,
+      "district_count": 77
+    },
+    {
+      "code": "76",
+      "province": "Sulawesi Barat",
+      "slug": "sulawesi-barat",
+      "city_count": 6,
+      "district_count": 69
+    },
+    {
+      "code": "81",
+      "province": "Maluku",
+      "slug": "maluku",
+      "city_count": 11,
+      "district_count": 118
+    },
+    {
+      "code": "82",
+      "province": "Maluku Utara",
+      "slug": "maluku-utara",
+      "city_count": 10,
+      "district_count": 116
+    },
+    {
+      "code": "91",
+      "province": "Papua",
+      "slug": "papua",
+      "city_count": 29,
+      "district_count": 560
+    },
+    {
+      "code": "92",
+      "province": "Papua Barat",
+      "slug": "papua-barat",
+      "city_count": 13,
+      "district_count": 218
+    }
+  ],
+  "meta": {
+    "title": "Provinsi Indonesia — ringkasan administratif (34 provinsi) - Unduh Gratis",
+    "description": "34 provinsi Indonesia dengan jumlah kota/kabupaten dan kecamatan per provinsi Berisi 34 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Provinsi Indonesia — ringkasan administratif (34 provinsi) | ListBase",
+    "seo_description": "Unduh Provinsi Indonesia — ringkasan administratif (34 provinsi) — 34 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 34 rekaman / 5 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

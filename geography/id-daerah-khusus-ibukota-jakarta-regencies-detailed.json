@@ -1,0 +1,148 @@
+{
+  "id": "id-daerah-khusus-ibukota-jakarta-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Daerah Khusus Ibukota Jakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Daerah Khusus Ibukota Jakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "6 kabupaten/kota di Provinsi Daerah Khusus Ibukota Jakarta dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "31.01",
+      "name": "Kabupaten Administrasi Kepulauan Seribu",
+      "type": "kabupaten administrasi",
+      "capital": "Pulau Pramuka",
+      "latitude": -5.746481,
+      "longitude": 106.61316,
+      "elevation_m": 8,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 10.951,
+      "population": 30334
+    },
+    {
+      "code": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat",
+      "type": "kota administrasi",
+      "capital": "Menteng",
+      "latitude": -6.172913,
+      "longitude": 106.818696,
+      "elevation_m": 5,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 47.565,
+      "population": 1057270
+    },
+    {
+      "code": "31.72",
+      "name": "Kota Administrasi Jakarta Utara ",
+      "type": "kota administrasi",
+      "capital": "Koja",
+      "latitude": -6.120028,
+      "longitude": 106.892495,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 147.534,
+      "population": 1832032
+    },
+    {
+      "code": "31.73",
+      "name": "Kota Administrasi Jakarta Barat",
+      "type": "kota administrasi",
+      "capital": "Kembangan",
+      "latitude": -6.184335,
+      "longitude": 106.736621,
+      "elevation_m": 8,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 125,
+      "population": 2556752
+    },
+    {
+      "code": "31.74",
+      "name": "Kota Administrasi Jakarta Selatan",
+      "type": "kota administrasi",
+      "capital": "Kebayoran Baru",
+      "latitude": -6.247775,
+      "longitude": 106.807637,
+      "elevation_m": 16,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 144.942,
+      "population": 2331411
+    },
+    {
+      "code": "31.75",
+      "name": "Kota Administrasi Jakarta Timur",
+      "type": "kota administrasi",
+      "capital": "Cakung",
+      "latitude": -6.213686,
+      "longitude": 106.944008,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 185.538,
+      "population": 3230417
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Daerah Khusus Ibukota Jakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "6 kabupaten/kota di Provinsi Daerah Khusus Ibukota Jakarta dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Daerah Khusus Ibukota Jakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Daerah Khusus Ibukota Jakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

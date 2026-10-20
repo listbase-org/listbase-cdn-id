@@ -1,0 +1,203 @@
+{
+  "id": "id-west-java-airports",
+  "name": "Bandar Udara — West Java",
+  "title": "Bandar Udara — West Java",
+  "description": "Bandar udara di Provinsi West Java, Indonesia (Airports in West Java Province, Indonesia — 6 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WICC",
+      "iata": "BDO",
+      "name_en": "Husein Sastranegara Airport",
+      "name_slug": "husein-sastranegara-airport",
+      "city_en": "Bandung",
+      "city_slug": "bandung",
+      "province_en": "West Java",
+      "province_slug": "west-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2421,
+      "lat": -6.8995168,
+      "lon": 107.5760475,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WICA",
+      "iata": "KJT",
+      "name_en": "Kertajati International Airport",
+      "name_slug": "kertajati-international-airport",
+      "city_en": "Jatiwangi",
+      "city_slug": "jatiwangi",
+      "province_en": "West Java",
+      "province_slug": "west-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 134,
+      "lat": -6.6485821,
+      "lon": 108.1553762,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WICD",
+      "iata": "CBN",
+      "name_en": "Penggung",
+      "name_slug": "penggung",
+      "city_en": "Weru",
+      "city_slug": "weru",
+      "province_en": "West Java",
+      "province_slug": "west-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 62,
+      "lat": -6.75,
+      "lon": 108.53333,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIHP",
+      "iata": "PCB",
+      "name_en": "Pondok Cabe",
+      "name_slug": "pondok-cabe",
+      "city_en": "Pamulang",
+      "city_slug": "pamulang",
+      "province_en": "West Java",
+      "province_slug": "west-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 187,
+      "lat": -6.3364522,
+      "lon": 106.7634187,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIII",
+      "iata": "CGK",
+      "name_en": "Soekarno-Hatta International Airport",
+      "name_slug": "soekarno-hatta-international-airport",
+      "city_en": "Teluknaga",
+      "city_slug": "teluknaga",
+      "province_en": "West Java",
+      "province_slug": "west-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 29,
+      "lat": -6.1238915,
+      "lon": 106.6565897,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WICM",
+      "iata": "TSY",
+      "name_en": "Tasikmalaya",
+      "name_slug": "tasikmalaya",
+      "city_en": "Jati",
+      "city_slug": "jati",
+      "province_en": "West Java",
+      "province_slug": "west-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1148,
+      "lat": -7.3,
+      "lon": 108.2,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — West Java - Unduh Gratis",
+    "description": "Bandar udara di Provinsi West Java, Indonesia (Airports in West Java Province, Indonesia — 6 record(s).) Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — West Java | ListBase",
+    "seo_description": "Unduh Bandar Udara — West Java — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

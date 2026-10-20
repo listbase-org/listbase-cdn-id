@@ -1,0 +1,152 @@
+{
+  "id": "id-lampung-airports",
+  "name": "Bandar Udara — Lampung",
+  "title": "Bandar Udara — Lampung",
+  "description": "Bandar udara di Provinsi Lampung, Indonesia (Airports in Lampung Province, Indonesia — 3 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "",
+      "iata": "AKQ",
+      "name_en": "Gunung Batin",
+      "name_slug": "gunung-batin",
+      "city_en": "Menggala",
+      "city_slug": "menggala",
+      "province_en": "Lampung",
+      "province_slug": "lampung",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 147,
+      "lat": -4.616667,
+      "lon": 105.23333,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WILP",
+      "iata": "TFY",
+      "name_en": "Muhammad Taufiq Kiemas Airport",
+      "name_slug": "muhammad-taufiq-kiemas-airport",
+      "city_en": "Krui",
+      "city_slug": "krui",
+      "province_en": "Lampung",
+      "province_slug": "lampung",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 118,
+      "lat": -5.211562,
+      "lon": 103.936501,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WILL",
+      "iata": "TKG",
+      "name_en": "Radin Inten II Airport",
+      "name_slug": "radin-inten-ii-airport",
+      "city_en": "Natar",
+      "city_slug": "natar",
+      "province_en": "Lampung",
+      "province_slug": "lampung",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 282,
+      "lat": -5.2467204,
+      "lon": 105.1820592,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Lampung - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Lampung, Indonesia (Airports in Lampung Province, Indonesia — 3 record(s).) Berisi 3 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Lampung | ListBase",
+    "seo_description": "Unduh Bandar Udara — Lampung — 3 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 3 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

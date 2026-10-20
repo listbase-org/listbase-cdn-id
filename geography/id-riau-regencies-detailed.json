@@ -1,0 +1,220 @@
+{
+  "id": "id-riau-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "12 kabupaten/kota di Provinsi Riau dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "14.01",
+      "name": "Kabupaten Kampar",
+      "type": "kabupaten",
+      "capital": "Bangkinang",
+      "latitude": 0.313892,
+      "longitude": 101.017989,
+      "elevation_m": 104,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 10352.803,
+      "population": 898973
+    },
+    {
+      "code": "14.02",
+      "name": "Kabupaten Indragiri Hulu",
+      "type": "kabupaten",
+      "capital": "Rengat",
+      "latitude": -0.393003,
+      "longitude": 102.437572,
+      "elevation_m": 32,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 7871.85,
+      "population": 487039
+    },
+    {
+      "code": "14.03",
+      "name": "Kabupaten Bengkalis",
+      "type": "kabupaten",
+      "capital": "\tBengkalis",
+      "latitude": 1.473192,
+      "longitude": 102.113335,
+      "elevation_m": 3,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 8604.179,
+      "population": 681884
+    },
+    {
+      "code": "14.04",
+      "name": "Kabupaten Indragiri Hilir",
+      "type": "kabupaten",
+      "capital": "Tembilahan",
+      "latitude": -0.315191,
+      "longitude": 103.15785,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 13518.47,
+      "population": 713294
+    },
+    {
+      "code": "14.05",
+      "name": "Kabupaten Pelalawan",
+      "type": "kabupaten",
+      "capital": "Pangkalan Kerinci",
+      "latitude": 0.383787,
+      "longitude": 101.841958,
+      "elevation_m": 19,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 13256.104,
+      "population": 446439
+    },
+    {
+      "code": "14.06",
+      "name": "Kabupaten Rokan Hulu",
+      "type": "kabupaten",
+      "capital": "Pasir Pengaraian",
+      "latitude": 0.899709,
+      "longitude": 100.30741,
+      "elevation_m": 68,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 7658.149,
+      "population": 586994
+    },
+    {
+      "code": "14.07",
+      "name": "Kabupaten Rokan Hilir",
+      "type": "kabupaten",
+      "capital": "Bagansiapiapi",
+      "latitude": 2.099494,
+      "longitude": 100.817651,
+      "elevation_m": 13,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 9068.605,
+      "population": 688073
+    },
+    {
+      "code": "14.08",
+      "name": "Kabupaten Siak",
+      "type": "kabupaten",
+      "capital": "Siak Sri Indrapura",
+      "latitude": 0.804539,
+      "longitude": 102.020319,
+      "elevation_m": 18,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 7803.566,
+      "population": 495760
+    },
+    {
+      "code": "14.09",
+      "name": "Kabupaten Kuantan Singingi",
+      "type": "kabupaten",
+      "capital": "Taluk Kuantan",
+      "latitude": -0.505301,
+      "longitude": 101.538077,
+      "elevation_m": 114,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5457.863,
+      "population": 365989
+    },
+    {
+      "code": "14.10",
+      "name": "Kabupaten Kepulauan Meranti",
+      "type": "kabupaten",
+      "capital": "Selatpanjang",
+      "latitude": 1.000703,
+      "longitude": 102.725682,
+      "elevation_m": 3,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": "",
+      "population": 211997
+    },
+    {
+      "code": "14.71",
+      "name": "Kota Pekanbaru",
+      "type": "kota",
+      "capital": "Pekanbaru",
+      "latitude": 0.513419,
+      "longitude": 101.447022,
+      "elevation_m": 17,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 638.331,
+      "population": 1167599
+    },
+    {
+      "code": "14.72",
+      "name": "Kota Dumai",
+      "type": "kota",
+      "capital": "Dumai",
+      "latitude": 1.605411,
+      "longitude": 101.39166,
+      "elevation_m": 21,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2061.463,
+      "population": 355256
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "12 kabupaten/kota di Provinsi Riau dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 12 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 12 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 12 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

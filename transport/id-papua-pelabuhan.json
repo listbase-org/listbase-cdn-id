@@ -1,0 +1,216 @@
+{
+  "id": "id-papua-pelabuhan",
+  "name": "Pelabuhan Umum di Papua (20 pelabuhan)",
+  "title": "Pelabuhan Umum di Papua (20 pelabuhan)",
+  "description": "20 pelabuhan umum di Provinsi Papua, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "AGS",
+      "nama_pelabuhan": "Agats",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "AMA",
+      "nama_pelabuhan": "Amamapare",
+      "lokasi_kabupaten_kota": "MIMIKA",
+      "unit_kerja": "KUPP KELAS II AMAMAPARE",
+      "alamat_kantor": "Komp. Pelabuhan Amamapare Timika Papua 99900",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ANS",
+      "nama_pelabuhan": "Ansus",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ASI",
+      "nama_pelabuhan": "Asiki",
+      "lokasi_kabupaten_kota": "BOVEN DIGUL",
+      "unit_kerja": "KSOP KELAS IV MERAUKE",
+      "alamat_kantor": "Jl. Sabang No. 312 Merauke - Papua 99613",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ATY",
+      "nama_pelabuhan": "Atsy",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "BIK",
+      "nama_pelabuhan": "Biak",
+      "lokasi_kabupaten_kota": "BIAK NUMFOR",
+      "unit_kerja": "KSOP KELAS III BIAK",
+      "alamat_kantor": "Jl.Jendral Sudirman No. 53 Biak Papua 98115",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "BXD",
+      "nama_pelabuhan": "Bade",
+      "lokasi_kabupaten_kota": "MAPPI",
+      "unit_kerja": "KUPP KELAS III BADE",
+      "alamat_kantor": "Jl. Pelita No. 32 Distrik Edera; Bade Kab. Mappi-Papua 99653",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "BYN",
+      "nama_pelabuhan": "Bayun",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "DAI",
+      "nama_pelabuhan": "Dawai",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "EEI",
+      "nama_pelabuhan": "Eci",
+      "lokasi_kabupaten_kota": "MAPPI",
+      "unit_kerja": "KUPP KELAS III BADE",
+      "alamat_kantor": "Jl. Pelita No. 32 Distrik Edera; Bade Kab. Mappi-Papua 99653",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "IPM",
+      "nama_pelabuhan": "Poom",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "MKQ",
+      "nama_pelabuhan": "Merauke",
+      "lokasi_kabupaten_kota": "MERAUKE",
+      "unit_kerja": "KSOP KELAS IV MERAUKE",
+      "alamat_kantor": "Jl. Sabang No. 312 Merauke - Papua 99613",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "MMR",
+      "nama_pelabuhan": "Moor",
+      "lokasi_kabupaten_kota": "MAPPI",
+      "unit_kerja": "KUPP KELAS III BADE",
+      "alamat_kantor": "Jl. Pelita No. 32 Distrik Edera; Bade Kab. Mappi-Papua 99653",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "MMU",
+      "nama_pelabuhan": "Mumugu",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "NBX",
+      "nama_pelabuhan": "Nabire",
+      "lokasi_kabupaten_kota": "NABIRE",
+      "unit_kerja": "KUPP KELAS II NABIRE",
+      "alamat_kantor": "Jl. Pintu Masuk Pelabuhan No. 1 Nabire Papua 98851",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "PMK",
+      "nama_pelabuhan": "Pomako",
+      "lokasi_kabupaten_kota": "MIMIKA",
+      "unit_kerja": "KUPP KELAS II POMAKO I/POMAKO II",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Pomako Timika Papua 99910",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "POW",
+      "nama_pelabuhan": "Pulau Owi",
+      "lokasi_kabupaten_kota": "BIAK NUMFOR",
+      "unit_kerja": "KSOP KELAS III BIAK",
+      "alamat_kantor": "Jl.Jendral Sudirman No. 53 Biak Papua 98115",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "WRN",
+      "nama_pelabuhan": "Waren",
+      "lokasi_kabupaten_kota": "WAROPEN",
+      "unit_kerja": "KUPP KELAS III WAREN",
+      "alamat_kantor": "Jl. Infres Waren Ureifaisei Waren Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ZRI",
+      "nama_pelabuhan": "Serui",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ZRM",
+      "nama_pelabuhan": "Sarmi",
+      "lokasi_kabupaten_kota": "SARMI",
+      "unit_kerja": "KUPP KELAS III SARMI",
+      "alamat_kantor": "Jl. Brasilsdi No. 1 Sarmi Kota Papua 99373",
+      "provinsi": "Papua"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Papua (20 pelabuhan) - Unduh Gratis",
+    "description": "20 pelabuhan umum di Provinsi Papua, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 20 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Papua (20 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Papua (20 pelabuhan) — 20 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 20 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

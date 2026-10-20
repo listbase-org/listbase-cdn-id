@@ -1,0 +1,128 @@
+{
+  "id": "id-kalimantan-tengah-pelabuhan",
+  "name": "Pelabuhan Umum di Kalimantan Tengah (9 pelabuhan)",
+  "title": "Pelabuhan Umum di Kalimantan Tengah (9 pelabuhan)",
+  "description": "9 pelabuhan umum di Provinsi Kalimantan Tengah, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "IBM",
+      "nama_pelabuhan": "Batanjung",
+      "lokasi_kabupaten_kota": "KAPUAS",
+      "unit_kerja": "KSOP KELAS IV PULANG PISAU",
+      "alamat_kantor": "Jl. Samudera No. 137 Rt. XIII Pulang Pisau Kalimantan Tengah 73561",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "KAY",
+      "nama_pelabuhan": "Kuala Jelay",
+      "lokasi_kabupaten_kota": "SUKAMARA",
+      "unit_kerja": "KSOP KELAS IV SUKAMARA",
+      "alamat_kantor": "Jl. Pelabuhan No. 14 Sukamara Kalimantan Tengah 74172",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "KPE",
+      "nama_pelabuhan": "Kuala Pembuang",
+      "lokasi_kabupaten_kota": "SERUYAN",
+      "unit_kerja": "KSOP KELAS III TELUK SIGINTUNG",
+      "alamat_kantor": "Jl. AIS Nasution Kuala Pembuang Kalimantan Tengah 74211",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "PLB",
+      "nama_pelabuhan": "Pangkalan Bun",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN BARAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN BUN",
+      "alamat_kantor": "Jl. Pangeran Antasari Komp. Pelabuhan Pangkalan Bun Kalimantan Tengah",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "PPS",
+      "nama_pelabuhan": "Pulang Pisau",
+      "lokasi_kabupaten_kota": "PULANG PISAU",
+      "unit_kerja": "KSOP KELAS IV PULANG PISAU",
+      "alamat_kantor": "Jl. Samudera No. 137 Rt. XIII Pulang Pisau Kalimantan Tengah 73561",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "SAA",
+      "nama_pelabuhan": "Sukamara",
+      "lokasi_kabupaten_kota": "SUKAMARA",
+      "unit_kerja": "KSOP KELAS IV SUKAMARA",
+      "alamat_kantor": "Jl. Pelabuhan No. 14 Sukamara Kalimantan Tengah 74172",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "SMA",
+      "nama_pelabuhan": "Samuda",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN TIMUR",
+      "unit_kerja": "KSOP KELAS V SAMUDA",
+      "alamat_kantor": "Jl. H.M. Noor No .5 Rt.01/Rw.01 Samuda Kalimantan Tengah 74363",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "SMQ",
+      "nama_pelabuhan": "Sampit",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN TIMUR",
+      "unit_kerja": "KSOP KELAS III SAMPIT",
+      "alamat_kantor": "Jl. Iskandar No. 3 Sampit Kota Waringin Timur Kalimantan Tengah 74322",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "TTN",
+      "nama_pelabuhan": "Teluk Sigintung/Seruyan",
+      "lokasi_kabupaten_kota": "SERUYAN",
+      "unit_kerja": "KSOP KELAS III TELUK SIGINTUNG",
+      "alamat_kantor": "Jl. AIS Nasution Kuala Pembuang Kalimantan Tengah 74211",
+      "provinsi": "Kalimantan Tengah"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Kalimantan Tengah (9 pelabuhan) - Unduh Gratis",
+    "description": "9 pelabuhan umum di Provinsi Kalimantan Tengah, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Kalimantan Tengah (9 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Kalimantan Tengah (9 pelabuhan) — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

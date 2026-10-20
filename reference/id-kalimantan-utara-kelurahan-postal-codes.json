@@ -1,0 +1,4336 @@
+{
+  "id": "id-kalimantan-utara-kelurahan-postal-codes",
+  "name": "Daftar Kode Pos per Kelurahan/Desa di Kalimantan Utara",
+  "title": "Daftar Kode Pos per Kelurahan/Desa di Kalimantan Utara",
+  "description": "Daftar 475 kode pos tingkat kelurahan/desa di Provinsi Kalimantan Utara (kode BPS 65). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 475,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kelurahan_name",
+      "label": "Kelurahan Name",
+      "type": "string"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "77111",
+      "kelurahan_name": "Karang Anyar",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77111",
+      "kelurahan_name": "Karang Anyar Pantai",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77111",
+      "kelurahan_name": "Karang Harapan",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77112",
+      "kelurahan_name": "Karang Balik",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77112",
+      "kelurahan_name": "Karang Rejo",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77113",
+      "kelurahan_name": "Kampung Satu (Skip)",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77113",
+      "kelurahan_name": "Pamusian",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77113",
+      "kelurahan_name": "Selumit",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77113",
+      "kelurahan_name": "Selumit Pantai",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77114",
+      "kelurahan_name": "Sebengkok",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77115",
+      "kelurahan_name": "Gunung Lingkas",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77115",
+      "kelurahan_name": "Mamburungan Timur",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77115",
+      "kelurahan_name": "Pantai Amal",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77116",
+      "kelurahan_name": "Juata Krikil / Kerikil",
+      "kecamatan_name": "Tarakan Utara",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77116",
+      "kelurahan_name": "Juata Laut",
+      "kecamatan_name": "Tarakan Utara",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77116",
+      "kelurahan_name": "Juata Permai",
+      "kecamatan_name": "Tarakan Utara",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77123",
+      "kelurahan_name": "Kampung Enam",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77124",
+      "kelurahan_name": "Kampung Empat",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77125",
+      "kelurahan_name": "Mamburungan",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77126",
+      "kelurahan_name": "Lingkas Ujung",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_name": "Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Badan Bikis",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Bebakung",
+      "kecamatan_name": "Betayau",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Bebatu",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Buang Baru (Buong Baru)",
+      "kecamatan_name": "Betayau",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Gunawan",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Kujau",
+      "kecamatan_name": "Betayau",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Limbu Sedulun / Sidulun",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Maning",
+      "kecamatan_name": "Betayau",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Mendelutung (Menjelutung)",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Mendupe / Mendopu",
+      "kecamatan_name": "Betayau",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Periuk",
+      "kecamatan_name": "Betayau",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Rian",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Sebawang",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Sebidai / Sebiday",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Sedulun",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Seludau",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Sengkong",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Sepala Dalung (Sesayap Dalung)",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Seputuk",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Sesayap / Sepala",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Tideng Pale",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77152",
+      "kelurahan_name": "Tideng Pale Timur",
+      "kecamatan_name": "Sesayap",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Berang",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Kebinu",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Mekatif",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Pala",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Semamu",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Simau",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77155",
+      "kelurahan_name": "Long Sulit",
+      "kecamatan_name": "Mentarang Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77211",
+      "kelurahan_name": "Antutan",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77211",
+      "kelurahan_name": "Gunung Putih",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77211",
+      "kelurahan_name": "Pejalin",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77211",
+      "kelurahan_name": "Tanjung Palas Ilir / Hilir",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77211",
+      "kelurahan_name": "Tanjung Selor Ulu / Hulu",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Apung",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Bumi Rahayu",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Gunung Sari",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Gunung Seriang",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Jelarai Selor",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Tanjung Selor Ilir / Hilir",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Tanjung Selor Timur",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77212",
+      "kelurahan_name": "Tengkapak",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77214",
+      "kelurahan_name": "Karang Anyar",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77214",
+      "kelurahan_name": "Teras Baru",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77214",
+      "kelurahan_name": "Teras Nawang",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Ardi Mulya",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Binai",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Karang Agung",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Kelubir",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Mangkupadi",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Panca Agung",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Pimping",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Pura Sajau",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Ruhui Rahayu",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Sajau",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Sajau Timur",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Tanah Kuning",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Tanjung Agung",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Tanjung Palas Ulu / Hulu",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77215",
+      "kelurahan_name": "Wono Mulyo",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77216",
+      "kelurahan_name": "Salim Batu",
+      "kecamatan_name": "Tanjung Palas Tengah",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77216",
+      "kelurahan_name": "Silva Rahayu",
+      "kecamatan_name": "Tanjung Palas Tengah",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77216",
+      "kelurahan_name": "Tanjung Buka",
+      "kecamatan_name": "Tanjung Palas Tengah",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77216",
+      "kelurahan_name": "Tanjung Palas Tengah",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77217",
+      "kelurahan_name": "Long Beluah",
+      "kecamatan_name": "Tanjung Palas Barat",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77217",
+      "kelurahan_name": "Long Pari",
+      "kecamatan_name": "Tanjung Palas Barat",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77217",
+      "kelurahan_name": "Long Sam",
+      "kecamatan_name": "Tanjung Palas Barat",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77217",
+      "kelurahan_name": "Mara Hilir",
+      "kecamatan_name": "Tanjung Palas Barat",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77217",
+      "kelurahan_name": "Mara Satu",
+      "kecamatan_name": "Tanjung Palas Barat",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Lepak Aru",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Bang",
+      "kecamatan_name": "Peso Hilir / Ilir",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Bang Hulu",
+      "kecamatan_name": "Peso Hilir / Ilir",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Bia",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Buang",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Lasan",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Leju",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Lembu",
+      "kecamatan_name": "Peso Hilir / Ilir",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Lian",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Peleban",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Peso",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Telenjau",
+      "kecamatan_name": "Peso Hilir / Ilir",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Tungu",
+      "kecamatan_name": "Peso Hilir / Ilir",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Long Yiin / Pelaah",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Muara Pengean",
+      "kecamatan_name": "Peso",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77261",
+      "kelurahan_name": "Naha Aya",
+      "kecamatan_name": "Peso Hilir / Ilir",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Ambalat",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Anjar Arip (Anjararef)",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Bambang",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Bekiliu",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Bunau",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Kelincawan",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Kelising (Keliising)",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Kelumbunan (Kelembunan)",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Kendari",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Keriting",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Liu Agu (Liagu)",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Maritam",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Paru Abang",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Pentian",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Punan Dulau",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Pungit",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Sekatak Bengara",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Sekatak Buji",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Tenggiling",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Terindak",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Turung",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77263",
+      "kelurahan_name": "Ujang",
+      "kecamatan_name": "Sekatak",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77281",
+      "kelurahan_name": "Pulau Bunyu Barat",
+      "kecamatan_name": "Pulau Bunyu",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77281",
+      "kelurahan_name": "Pulau Bunyu Selatan",
+      "kecamatan_name": "Pulau Bunyu",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77281",
+      "kelurahan_name": "Pulau Bunyu Timur",
+      "kecamatan_name": "Pulau Bunyu",
+      "regency_name": "Bulungan (Bulongan)",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Atap",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Binanun",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Butas Bagu",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Katul",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Labuk",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Liuk Bulu",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Lubakan",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Lubok Buat",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Mambulu",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Manuk Bungkul",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Pagaluyon",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Pagar",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Pelaju (Plaju)",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Pulau Keras",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Sabuluan",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Saduman",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Sambungan",
+      "kecamatan_name": "Tana Lia (Tanah Lia)",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Tagul",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Tanah Merah",
+      "kecamatan_name": "Tana Lia (Tanah Lia)",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Tengku Dacing",
+      "kecamatan_name": "Tana Lia (Tanah Lia)",
+      "regency_name": "Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Tepian",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Tujung",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77453",
+      "kelurahan_name": "Tulang",
+      "kecamatan_name": "Sembakung",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Ba Liku",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Ba Sikor",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Binuang (Ba Binuang)",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Buduk Kinangan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Buduk Kubul",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Buduk Tumu",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Bungayan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Cinglat",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Kampung Baru",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Lembada",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Lembudud",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Lepatar",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Liang Alig",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Liang Bua",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Liang Butan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Liang Lunuk",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Liang Tuer",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Liang Turan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Bawan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Berayang",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Bia Dung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Birar",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Budung",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Kabid",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Katung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Kelupan  /  Klupan",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Mangan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Matung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Mutan",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Nawang",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Nuat",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Padi",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Pasia",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Puak",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Pupung",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Rian",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Rungan",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Rupan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Sepayang",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Tenem",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Tugul",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Long Umung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Ma Libu",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Amai",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Api",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Betung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Butal",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Dalan",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Delung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Ibang",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Inan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Kaber",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Kebuan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Kemut",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Kidang",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Lidung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Lutut",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Malade (Pa Melade)",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Matung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Mering",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Milau",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Mulak",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Nado",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Padi",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Pala",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Pani",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Pawan",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Payak",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Pirit",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Putuk",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Rangeb (Parangeb)",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Raye",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Rupai",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Sing",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Sire (Pasire)",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Tera",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Terutun",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Umung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Upan",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Urang",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Urud",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Pa Yalau",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Sembudud",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Sinar Baru",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Tang Badui",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Tang Paye",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Wa Laya",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Wa Yagung",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77456",
+      "kelurahan_name": "Wa Yanud",
+      "kecamatan_name": "Krayan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Batung",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Bokok",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Bulan Bulan",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Bulu Laun Hilir",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Bulu Laun Hulu",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Bulu Luan Hulu",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Bulu Mengelom",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Dabulon (Dubulon)",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Deralon",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Duyan",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Jukup",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Kabungalor",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Kalam Buku",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Kalampising",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Kalisun",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Kuyo",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Labang",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Labuk",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Lagas",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Langgason",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Lepaga",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Liang",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Libang",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Likos",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Limpakon",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Linsayung",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Lintong",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Long Bulu",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Mamanis",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Mansalong",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Nainsid",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Nan Sapan",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Nantukidan",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Ngawol",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Pa Lemumut",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Pa Loo",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Paluan",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Panas",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Patal I (Satu)",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Patal II (Dua)",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Payang",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Podong",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Pulu Bulawan",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Salan",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Saludan",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Samunti",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sanal",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sangkup",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sapuyan",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sasibu",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sedalit",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sedongon",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Semalat",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Semata",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Siawang",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sibalu",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sinampala Dua",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sinampala Satu",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sumalumung",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sumantipal",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sumentobol",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Sungoi",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Suyadon",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Taluan",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tambalang Hilir",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tambalang Ulu",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tanjung Hilir",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tanjung Hulu",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tantalujuk",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tantu Libing",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tau Lumbis",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tetagas",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tubel Alung (Ubel Alung)",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tubus",
+      "kecamatan_name": "Lumbis",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tukulen (Tukulon)",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Tumatalas",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77457",
+      "kelurahan_name": "Ubel Sulok",
+      "kecamatan_name": "Lumbis Ogong",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Apas",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Bebanas",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Binusan",
+      "kecamatan_name": "Nunukan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Blatikon (Belatikan)",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Harapan",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Kekayap",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Kulunsayan (Kalun Sayan)",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Kunyit",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Lulu",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Mansapa",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Melasu Baru",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Naputi",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Nunukan Barat",
+      "kecamatan_name": "Nunukan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Nunukan Selatan",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Nunukan Tengah",
+      "kecamatan_name": "Nunukan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Nunukan Timur",
+      "kecamatan_name": "Nunukan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Nunukan Utara",
+      "kecamatan_name": "Nunukan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Pembeliangan",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Salang",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Samaenre Semaja",
+      "kecamatan_name": "Sei Menggaris",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Sebuku I (Sanur)",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Sebuku II (Makmur)",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Sekaduyan Taka",
+      "kecamatan_name": "Sei Menggaris",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Sekikilan",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Selisun",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Semunad",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Srinanti",
+      "kecamatan_name": "Sei Menggaris",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Sujau",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tabur Lestari",
+      "kecamatan_name": "Sei Menggaris",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tanjung Harapan",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tau Baru",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tembalang",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tetaban",
+      "kecamatan_name": "Sebuku",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tinampak I",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77482",
+      "kelurahan_name": "Tinampak II",
+      "kecamatan_name": "Tulin Onsoi",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Aji Kuning",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Balansiku",
+      "kecamatan_name": "Sebatik",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Bambangan",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Binalawan",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Bukit Aru Indah",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Bukit Harapan",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Lapri",
+      "kecamatan_name": "Sebatik Utara",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Liang Bunyu",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Maspul",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Padaidi",
+      "kecamatan_name": "Sebatik",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Seberang",
+      "kecamatan_name": "Sebatik Utara",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Sei / Sungai Nyamuk",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Sei / Sungai Pancang",
+      "kecamatan_name": "Sebatik Utara",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Sei Limau",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Setabu",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Sungai Manurung",
+      "kecamatan_name": "Sebatik",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Tanjung Aru",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Tanjung Harapan",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77483",
+      "kelurahan_name": "Tanjung Karang",
+      "kecamatan_name": "Sebatik",
+      "regency_name": "Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Batu Kajang",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Batu Lidung",
+      "kecamatan_name": "Malinau Kota",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Belayan",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Bila Bekayuk",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Gong Solok",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Halanga",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Kaliamok",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Kelapis",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Kuala Lapang",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Laban Nyarit",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Langap",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Adiu",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Bila",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Jalan",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Kenipe",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Lake",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Loreh",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Long Rat",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Lubok Manis",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Luso",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Malinau Hilir",
+      "kecamatan_name": "Malinau Kota",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Malinau Hulu",
+      "kecamatan_name": "Malinau Kota",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Malinau Kota",
+      "kecamatan_name": "Malinau Kota",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Malinau Seberang",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Metut",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Nahakramo Baru",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Nunuk Tanah Kibang",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Paya Seturan",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Pelencau",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Pelita Kanaan",
+      "kecamatan_name": "Malinau Kota",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Punan Bengalun",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Punan Gong Solok",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Punan Long Adiu",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Punan Mirau",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Punan Rian",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Punan Setarap",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Putat",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Respen Tubu",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Salap",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Semanggaris",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Sembuak Warot / Warod",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Sempayang",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Sengayan",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Sentaban",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Seruyung",
+      "kecamatan_name": "Malinau Utara",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Sesua",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Setarap",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Setulang",
+      "kecamatan_name": "Malinau Selatan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Tanjung Keranjang",
+      "kecamatan_name": "Malinau Kota",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Tanjung Lapang",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Tanjung Nanga",
+      "kecamatan_name": "Malinau Selatan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77554",
+      "kelurahan_name": "Taras",
+      "kecamatan_name": "Malinau Barat",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Harapan Maju",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Lidung Kemenci",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Bisai",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Gafid",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Liku",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Nyau",
+      "kecamatan_name": "Sungai Tubu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Pada",
+      "kecamatan_name": "Sungai Tubu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Ranau",
+      "kecamatan_name": "Sungai Tubu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Long Titi",
+      "kecamatan_name": "Sungai Tubu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Mentarang Baru",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Paking",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Pulau Sapi",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Rian Tubu",
+      "kecamatan_name": "Sungai Tubu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77555",
+      "kelurahan_name": "Temalang",
+      "kecamatan_name": "Mentarang",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Apau Ping Mading",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Lame",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Alango",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Aran",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Atua / Long Kemuat",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Belaka Pitau",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Bena",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Berini Mararian",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Jelet",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Ketaman",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Paliran",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Pua",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Pujungan",
+      "kecamatan_name": "Pujungan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Tabulo / Tebulo",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77562",
+      "kelurahan_name": "Long Uli",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77571",
+      "kelurahan_name": "Data Dian",
+      "kecamatan_name": "Kayan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77571",
+      "kelurahan_name": "Long Metun (Long Metun II)",
+      "kecamatan_name": "Kayan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77571",
+      "kelurahan_name": "Long Pipa",
+      "kecamatan_name": "Kayan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77571",
+      "kelurahan_name": "Metun (Long Metun I)",
+      "kecamatan_name": "Kayan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77571",
+      "kelurahan_name": "Sei / Sungai Anai",
+      "kecamatan_name": "Kayan Hilir",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77572",
+      "kelurahan_name": "Long Betaoh",
+      "kecamatan_name": "Kayan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77572",
+      "kelurahan_name": "Long Nawang",
+      "kecamatan_name": "Kayan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77572",
+      "kelurahan_name": "Long Payau",
+      "kecamatan_name": "Kayan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77572",
+      "kelurahan_name": "Long Temunyat / Temuyat",
+      "kecamatan_name": "Kayan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77572",
+      "kelurahan_name": "Nawang Baru",
+      "kecamatan_name": "Kayan Hulu",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Agung Baru",
+      "kecamatan_name": "Sungai Boh",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Data Baru",
+      "kecamatan_name": "Sungai Boh",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Dumu Mahak",
+      "kecamatan_name": "Sungai Boh",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Lidung Payau",
+      "kecamatan_name": "Kayan Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Long Ampung",
+      "kecamatan_name": "Kayan Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Long Lebusan",
+      "kecamatan_name": "Sungai Boh",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Long Top",
+      "kecamatan_name": "Sungai Boh",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Long Uro",
+      "kecamatan_name": "Kayan Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Mahak Baru",
+      "kecamatan_name": "Sungai Boh",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Metulang",
+      "kecamatan_name": "Kayan Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    },
+    {
+      "postal_code": "77573",
+      "kelurahan_name": "Sungai Barang",
+      "kecamatan_name": "Kayan Selatan",
+      "regency_name": "Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "province_name_en": "North Kalimantan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos per Kelurahan/Desa di Kalimantan Utara - Unduh Gratis",
+    "description": "Daftar 475 kode pos tingkat kelurahan/desa di Provinsi Kalimantan Utara (kode BPS 65). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan. Berisi 475 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos per Kelurahan/Desa di Kalimantan Utara | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos per Kelurahan/Desa di Kalimantan Utara — 475 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 475 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

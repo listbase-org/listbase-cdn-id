@@ -1,0 +1,118 @@
+{
+  "id": "id-bali-airports",
+  "name": "Bandar Udara — Bali",
+  "title": "Bandar Udara — Bali",
+  "description": "Bandar udara di Provinsi Bali, Indonesia (Airports in Bali Province, Indonesia — 1 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WADD",
+      "iata": "DPS",
+      "name_en": "Ngurah Rai International Airport",
+      "name_slug": "ngurah-rai-international-airport",
+      "city_en": "Kelanabian",
+      "city_slug": "kelanabian",
+      "province_en": "Bali",
+      "province_slug": "bali",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 36,
+      "lat": -8.7458582,
+      "lon": 115.167339,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Bali - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Bali, Indonesia (Airports in Bali Province, Indonesia — 1 record(s).) Berisi 1 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Bali | ListBase",
+    "seo_description": "Unduh Bandar Udara — Bali — 1 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 1 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

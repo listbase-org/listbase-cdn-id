@@ -1,0 +1,952 @@
+{
+  "id": "id-bali-postal-codes",
+  "name": "Daftar Kode Pos di Bali",
+  "title": "Daftar Kode Pos di Bali",
+  "description": "Daftar 112 kode pos di Provinsi Bali (kode BPS 51). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "80112",
+      "kecamatan_name": "Denpasar Barat",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80113",
+      "kecamatan_name": "Denpasar Barat",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80114",
+      "kecamatan_name": "Denpasar Barat",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80117",
+      "kecamatan_name": "Denpasar Barat",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80119",
+      "kecamatan_name": "Denpasar Barat",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80121",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80122",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80123",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80124",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80125",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80126",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80127",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80128",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80129",
+      "kecamatan_name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80221",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80222",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80223",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80224",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80225",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80226",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80227",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80228",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80229",
+      "kecamatan_name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80232",
+      "kecamatan_name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80234",
+      "kecamatan_name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80235",
+      "kecamatan_name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80236",
+      "kecamatan_name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80237",
+      "kecamatan_name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80238",
+      "kecamatan_name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency_name": "Kota Denpasar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80351",
+      "kecamatan_name": "Mengwi",
+      "regency_code": "51.03",
+      "regency_name": "Kabupaten Badung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80352",
+      "kecamatan_name": "Abiansemal",
+      "regency_code": "51.03",
+      "regency_name": "Kabupaten Badung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80353",
+      "kecamatan_name": "Petang",
+      "regency_code": "51.03",
+      "regency_name": "Kabupaten Badung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80361",
+      "kecamatan_name": "Kuta",
+      "regency_code": "51.03",
+      "regency_name": "Kabupaten Badung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80363",
+      "kecamatan_name": "Kuta Selatan",
+      "regency_code": "51.03",
+      "regency_name": "Kabupaten Badung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80365",
+      "kecamatan_name": "Kuta Utara",
+      "regency_code": "51.03",
+      "regency_name": "Kabupaten Badung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80511",
+      "kecamatan_name": "Gianyar",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80512",
+      "kecamatan_name": "Gianyar",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80513",
+      "kecamatan_name": "Gianyar",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80514",
+      "kecamatan_name": "Gianyar",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80515",
+      "kecamatan_name": "Gianyar",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80519",
+      "kecamatan_name": "Gianyar",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80552",
+      "kecamatan_name": "Tampaksiring",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80561",
+      "kecamatan_name": "Tegalallang",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80571",
+      "kecamatan_name": "Ubud",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80572",
+      "kecamatan_name": "Payangan",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80581",
+      "kecamatan_name": "Blahbatuh",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80582",
+      "kecamatan_name": "Sukawati",
+      "regency_code": "51.04",
+      "regency_name": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80611",
+      "kecamatan_name": "Bangli",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80612",
+      "kecamatan_name": "Bangli",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80613",
+      "kecamatan_name": "Bangli",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80614",
+      "kecamatan_name": "Bangli",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80619",
+      "kecamatan_name": "Bangli",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80652",
+      "kecamatan_name": "Kintamani",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80661",
+      "kecamatan_name": "Susut",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80671",
+      "kecamatan_name": "Tembuku",
+      "regency_code": "51.06",
+      "regency_name": "Kabupaten Bangli",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80711",
+      "kecamatan_name": "Klungkung",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80712",
+      "kecamatan_name": "Klungkung",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80713",
+      "kecamatan_name": "Klungkung",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80714",
+      "kecamatan_name": "Klungkung",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80716",
+      "kecamatan_name": "Klungkung",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80719",
+      "kecamatan_name": "Klungkung",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80752",
+      "kecamatan_name": "Banjarangkan",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80761",
+      "kecamatan_name": "Dawan",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80771",
+      "kecamatan_name": "Nusa Penida",
+      "regency_code": "51.05",
+      "regency_name": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80812",
+      "kecamatan_name": "Karangasem",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80813",
+      "kecamatan_name": "Karangasem",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80819",
+      "kecamatan_name": "Karangasem",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80852",
+      "kecamatan_name": "Abang",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80853",
+      "kecamatan_name": "Kubu",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80861",
+      "kecamatan_name": "Bebandem",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80862",
+      "kecamatan_name": "Selat",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80863",
+      "kecamatan_name": "Rendang",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80864",
+      "kecamatan_name": "Sidemen",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "80871",
+      "kecamatan_name": "Manggis",
+      "regency_code": "51.07",
+      "regency_name": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81111",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81112",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81113",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81114",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81115",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81116",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81117",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81118",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81119",
+      "kecamatan_name": "Buleleng",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81152",
+      "kecamatan_name": "Banjar",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81153",
+      "kecamatan_name": "Seririt",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81155",
+      "kecamatan_name": "Gerokgak",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81161",
+      "kecamatan_name": "Sukasada",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81171",
+      "kecamatan_name": "Sawan",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81172",
+      "kecamatan_name": "Kubutambahan",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "81173",
+      "kecamatan_name": "Tejakula",
+      "regency_code": "51.08",
+      "regency_name": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82111",
+      "kecamatan_name": "Tabanan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82112",
+      "kecamatan_name": "Tabanan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82113",
+      "kecamatan_name": "Tabanan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82114",
+      "kecamatan_name": "Tabanan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82115",
+      "kecamatan_name": "Tabanan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82119",
+      "kecamatan_name": "Tabanan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82152",
+      "kecamatan_name": "Penebel",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82161",
+      "kecamatan_name": "Kerambitan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82162",
+      "kecamatan_name": "Selemadeg",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82163",
+      "kecamatan_name": "Pupuan",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82171",
+      "kecamatan_name": "Kediri",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82181",
+      "kecamatan_name": "Marga",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82191",
+      "kecamatan_name": "Baturiti",
+      "regency_code": "51.02",
+      "regency_name": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82211",
+      "kecamatan_name": "Jembrana",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82216",
+      "kecamatan_name": "Jembrana",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82217",
+      "kecamatan_name": "Jembrana",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82218",
+      "kecamatan_name": "Jembrana",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82219",
+      "kecamatan_name": "Jembrana",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82251",
+      "kecamatan_name": "Negara",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82252",
+      "kecamatan_name": "Melaya",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82261",
+      "kecamatan_name": "Mendoyo",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    },
+    {
+      "postal_code": "82262",
+      "kecamatan_name": "Pekutatan",
+      "regency_code": "51.01",
+      "regency_name": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province_name": "Bali"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos di Bali - Unduh Gratis",
+    "description": "Daftar 112 kode pos di Provinsi Bali (kode BPS 51). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022). Berisi 112 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos di Bali | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos di Bali — 112 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 112 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

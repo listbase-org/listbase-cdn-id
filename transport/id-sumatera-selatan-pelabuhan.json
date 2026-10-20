@@ -1,0 +1,96 @@
+{
+  "id": "id-sumatera-selatan-pelabuhan",
+  "name": "Pelabuhan Umum di Sumatera Selatan (5 pelabuhan)",
+  "title": "Pelabuhan Umum di Sumatera Selatan (5 pelabuhan)",
+  "description": "5 pelabuhan umum di Provinsi Sumatera Selatan, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "ING",
+      "nama_pelabuhan": "Boom Baru/Palembang",
+      "lokasi_kabupaten_kota": "KOTA PALEMBANG",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "KGG",
+      "nama_pelabuhan": "Karang Agung",
+      "lokasi_kabupaten_kota": "BANYUASIN",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "KTI",
+      "nama_pelabuhan": "Kertapati",
+      "lokasi_kabupaten_kota": "KOTA PALEMBANG",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "SGG",
+      "nama_pelabuhan": "Sungsang",
+      "lokasi_kabupaten_kota": "BANYUASIN",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "TGP",
+      "nama_pelabuhan": "Tanjung Api-Api",
+      "lokasi_kabupaten_kota": "BANYUASIN",
+      "unit_kerja": "PEMBANGUNAN FASILITAS PELABUHAN TANJUNG API-API",
+      "alamat_kantor": "Kab. Banyuasin; Rimau Sungsang; Palembang; Kabupaten Banyu Asin; Sumatera Selatan 30971",
+      "provinsi": "Sumatera Selatan"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Sumatera Selatan (5 pelabuhan) - Unduh Gratis",
+    "description": "5 pelabuhan umum di Provinsi Sumatera Selatan, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Sumatera Selatan (5 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Sumatera Selatan (5 pelabuhan) — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

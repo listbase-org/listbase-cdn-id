@@ -1,0 +1,471 @@
+{
+  "id": "id-jawa-barat-islands",
+  "name": "Daftar Pulau di Provinsi Jawa Barat",
+  "title": "Daftar Pulau di Provinsi Jawa Barat",
+  "description": "Daftar pulau di Provinsi Jawa Barat, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 30 pulau.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "coordinate_dms",
+      "label": "Coordinate Dms",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "is_populated",
+      "label": "Is Populated",
+      "type": "boolean"
+    },
+    {
+      "key": "is_outermost_small",
+      "label": "Is Outermost Small",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "code": "32.02.40001",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Cipamungguan",
+      "coordinate_dms": "07°22'50.56\" S 106°29'36.72\" E",
+      "latitude": -7.380711,
+      "longitude": 106.493533,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40002",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Gotor",
+      "coordinate_dms": "07°11'11.19\" S 106°25'03.81\" E",
+      "latitude": -7.186442,
+      "longitude": 106.417725,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40003",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Karang Beulah",
+      "coordinate_dms": "07°14'46.06\" S 106°22'38.23\" E",
+      "latitude": -7.246128,
+      "longitude": 106.377286,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40004",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Karanghantu",
+      "coordinate_dms": "07°12'31.40\" S 106°22'52.88\" E",
+      "latitude": -7.208722,
+      "longitude": 106.381356,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40005",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Kunti",
+      "coordinate_dms": "07°11'03.06\" S 106°26'04.03\" E",
+      "latitude": -7.184183,
+      "longitude": 106.434453,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40006",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Mandra",
+      "coordinate_dms": "07°10'53.00\" S 106°26'48.40\" E",
+      "latitude": -7.181389,
+      "longitude": 106.446778,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40007",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Manuk",
+      "coordinate_dms": "07°11'02.88\" S 106°26'33.12\" E",
+      "latitude": -7.184133,
+      "longitude": 106.442533,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40008",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Manukratu",
+      "coordinate_dms": "07°22'35.09\" S 106°29'16.80\" E",
+      "latitude": -7.376414,
+      "longitude": 106.488,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.02.40009",
+      "regency_code": "32.02",
+      "regency_name": "Kabupaten Sukabumi",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Pandanlaut",
+      "coordinate_dms": "07°22'41.45\" S 106°29'24.03\" E",
+      "latitude": -7.378181,
+      "longitude": 106.490008,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.03.40001",
+      "regency_code": "32.03",
+      "regency_name": "Kabupaten Cianjur",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Bunut",
+      "coordinate_dms": "07°25'22.41\" S 106°47'40.64\" E",
+      "latitude": -7.422892,
+      "longitude": 106.794622,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.03.40002",
+      "regency_code": "32.03",
+      "regency_name": "Kabupaten Cianjur",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Bunut Kidul",
+      "coordinate_dms": "07°25'32.17\" S 106°47'40.23\" E",
+      "latitude": -7.425603,
+      "longitude": 106.794508,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.03.40003",
+      "regency_code": "32.03",
+      "regency_name": "Kabupaten Cianjur",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Bunut Kulon",
+      "coordinate_dms": "07°25'23.62\" S 106°47'37.30\" E",
+      "latitude": -7.423228,
+      "longitude": 106.793694,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.03.40004",
+      "regency_code": "32.03",
+      "regency_name": "Kabupaten Cianjur",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Citoe",
+      "coordinate_dms": "07°24'52.53\" S 106°47'32.00\" E",
+      "latitude": -7.414592,
+      "longitude": 106.792222,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.05.40001",
+      "regency_code": "32.05",
+      "regency_name": "Kabupaten Garut",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Karangganjor",
+      "coordinate_dms": "07°44'19.46\" S 107°54'23.34\" E",
+      "latitude": -7.738739,
+      "longitude": 107.906483,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.05.40002",
+      "regency_code": "32.05",
+      "regency_name": "Kabupaten Garut",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Karangkakapak",
+      "coordinate_dms": "07°44'24.74\" S 107°55'08.39\" E",
+      "latitude": -7.740206,
+      "longitude": 107.918997,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.06.40001",
+      "regency_code": "32.06",
+      "regency_name": "Kabupaten Tasikmalaya",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Batukolotok",
+      "coordinate_dms": "07°49'00.43\" S 108°17'54.61\" E",
+      "latitude": -7.816786,
+      "longitude": 108.298503,
+      "is_populated": false,
+      "is_outermost_small": true
+    },
+    {
+      "code": "32.06.40002",
+      "regency_code": "32.06",
+      "regency_name": "Kabupaten Tasikmalaya",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Dua",
+      "coordinate_dms": "07°48'06.19\" S 108°15'49.05\" E",
+      "latitude": -7.801719,
+      "longitude": 108.263625,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.06.40003",
+      "regency_code": "32.06",
+      "regency_name": "Kabupaten Tasikmalaya",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Kolotok",
+      "coordinate_dms": "07°49'07.64\" S 108°19'19.56\" E",
+      "latitude": -7.818789,
+      "longitude": 108.3221,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.06.40004",
+      "regency_code": "32.06",
+      "regency_name": "Kabupaten Tasikmalaya",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Nusamanuk",
+      "coordinate_dms": "07°49'12.98\" S 108°19'21.62\" E",
+      "latitude": -7.820272,
+      "longitude": 108.322672,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.06.40005",
+      "regency_code": "32.06",
+      "regency_name": "Kabupaten Tasikmalaya",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Nusa Manuk",
+      "coordinate_dms": "07°49'09.36\" S 108°19'20.63\" E",
+      "latitude": -7.819267,
+      "longitude": 108.322397,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.12.40001",
+      "regency_code": "32.12",
+      "regency_name": "Kabupaten Indramayu",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Biawak",
+      "coordinate_dms": "05°55'47.00\" S 108°22'48.00\" E",
+      "latitude": -5.929722,
+      "longitude": 108.38,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.12.40002",
+      "regency_code": "32.12",
+      "regency_name": "Kabupaten Indramayu",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Candikian",
+      "coordinate_dms": "05°48'24.10\" S 108°27'18.79\" E",
+      "latitude": -5.806694,
+      "longitude": 108.455219,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.12.40003",
+      "regency_code": "32.12",
+      "regency_name": "Kabupaten Indramayu",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Gosongtengah",
+      "coordinate_dms": "05°52'06.71\" S 108°24'21.53\" E",
+      "latitude": -5.868531,
+      "longitude": 108.405981,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40001",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Balekambang",
+      "coordinate_dms": "07°46'57.97\" S 108°30'11.25\" E",
+      "latitude": -7.782769,
+      "longitude": 108.503125,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40002",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Batununggul",
+      "coordinate_dms": "07°45'14.43\" S 108°30'23.61\" E",
+      "latitude": -7.754008,
+      "longitude": 108.506558,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40003",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Batupayung",
+      "coordinate_dms": "07°46'31.55\" S 108°30'20.69\" E",
+      "latitude": -7.775431,
+      "longitude": 108.505747,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40004",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Batupayung Leutik",
+      "coordinate_dms": "07°47'30.43\" S 108°29'54.69\" E",
+      "latitude": -7.791786,
+      "longitude": 108.498525,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40005",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Manggar",
+      "coordinate_dms": "07°47'16.15\" S 108°30'02.78\" E",
+      "latitude": -7.787819,
+      "longitude": 108.500772,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40006",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Sebrotan",
+      "coordinate_dms": "07°47'19.00\" S 108°30'01.00\" E",
+      "latitude": -7.788611,
+      "longitude": 108.500278,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "32.18.40007",
+      "regency_code": "32.18",
+      "regency_name": "Kabupaten Pangandaran",
+      "province_code": "32",
+      "province_name": "Jawa Barat",
+      "name": "Pulau Sodonggede",
+      "coordinate_dms": "07°47'37.82\" S 108°29'48.08\" E",
+      "latitude": -7.793839,
+      "longitude": 108.496689,
+      "is_populated": false,
+      "is_outermost_small": false
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pulau di Provinsi Jawa Barat - Unduh Gratis",
+    "description": "Daftar pulau di Provinsi Jawa Barat, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 30 pulau. Berisi 30 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Pulau di Provinsi Jawa Barat | ListBase",
+    "seo_description": "Unduh Daftar Pulau di Provinsi Jawa Barat — 30 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 30 rekaman / 11 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

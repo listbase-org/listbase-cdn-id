@@ -1,0 +1,88 @@
+{
+  "id": "id-papua-barat-regencies",
+  "name": "Daftar Kabupaten dan Kota di Papua Barat",
+  "title": "Daftar Kabupaten dan Kota di Papua Barat",
+  "description": "Daftar kabupaten dan kota di Provinsi Papua Barat dengan kode wilayah Kepmendagri. Total 7 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "92.02",
+      "name": "Kabupaten Manokwari",
+      "type": "Kabupaten",
+      "slug": "kabupaten-manokwari"
+    },
+    {
+      "code": "92.03",
+      "name": "Kabupaten Fak Fak",
+      "type": "Kabupaten",
+      "slug": "kabupaten-fak-fak"
+    },
+    {
+      "code": "92.06",
+      "name": "Kabupaten Teluk Bintuni",
+      "type": "Kabupaten",
+      "slug": "kabupaten-teluk-bintuni"
+    },
+    {
+      "code": "92.07",
+      "name": "Kabupaten Teluk Wondama",
+      "type": "Kabupaten",
+      "slug": "kabupaten-teluk-wondama"
+    },
+    {
+      "code": "92.08",
+      "name": "Kabupaten Kaimana",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kaimana"
+    },
+    {
+      "code": "92.11",
+      "name": "Kabupaten Manokwari Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-manokwari-selatan"
+    },
+    {
+      "code": "92.12",
+      "name": "Kabupaten Pegunungan Arfak",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pegunungan-arfak"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Papua Barat - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Papua Barat dengan kode wilayah Kepmendagri. Total 7 kabupaten/kota. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Papua Barat | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Papua Barat — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

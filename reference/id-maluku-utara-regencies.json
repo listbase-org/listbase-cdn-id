@@ -1,0 +1,106 @@
+{
+  "id": "id-maluku-utara-regencies",
+  "name": "Daftar Kabupaten dan Kota di Maluku Utara",
+  "title": "Daftar Kabupaten dan Kota di Maluku Utara",
+  "description": "Daftar kabupaten dan kota di Provinsi Maluku Utara dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "82.01",
+      "name": "Kabupaten Halmahera Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-halmahera-barat"
+    },
+    {
+      "code": "82.02",
+      "name": "Kabupaten Halmahera Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-halmahera-tengah"
+    },
+    {
+      "code": "82.03",
+      "name": "Kabupaten Halmahera Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-halmahera-utara"
+    },
+    {
+      "code": "82.04",
+      "name": "Kabupaten Halmahera Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-halmahera-selatan"
+    },
+    {
+      "code": "82.05",
+      "name": "Kabupaten Kepulauan Sula",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepulauan-sula"
+    },
+    {
+      "code": "82.06",
+      "name": "Kabupaten Halmahera Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-halmahera-timur"
+    },
+    {
+      "code": "82.07",
+      "name": "Kabupaten Pulau Morotai",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pulau-morotai"
+    },
+    {
+      "code": "82.08",
+      "name": "Kabupaten Pulau Taliabu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pulau-taliabu"
+    },
+    {
+      "code": "82.71",
+      "name": "Kota Ternate",
+      "type": "Kota",
+      "slug": "kota-ternate"
+    },
+    {
+      "code": "82.72",
+      "name": "Kota Tidore Kepulauan",
+      "type": "Kota",
+      "slug": "kota-tidore-kepulauan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Maluku Utara - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Maluku Utara dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Maluku Utara | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Maluku Utara — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

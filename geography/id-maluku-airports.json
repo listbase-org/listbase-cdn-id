@@ -1,0 +1,254 @@
+{
+  "id": "id-maluku-airports",
+  "name": "Bandar Udara — Maluku",
+  "title": "Bandar Udara — Maluku",
+  "description": "Bandar udara di Provinsi Maluku, Indonesia (Airports in Maluku Province, Indonesia — 9 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAPA",
+      "iata": "AHI",
+      "name_en": "Amahai",
+      "name_slug": "amahai",
+      "city_en": "Amahai",
+      "city_slug": "amahai",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 59,
+      "lat": -3.3478518,
+      "lon": 128.9274633,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPC",
+      "iata": "NDA",
+      "name_en": "Bandanaira",
+      "name_slug": "bandanaira",
+      "city_en": "Werinama",
+      "city_slug": "werinama",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 52,
+      "lat": -4.5213589,
+      "lon": 129.9046933,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPM",
+      "iata": "JIO",
+      "name_en": "Jos Orno Imsula Airport",
+      "name_slug": "jos-orno-imsula-airport",
+      "city_en": "Tiakur",
+      "city_slug": "tiakur",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 13,
+      "lat": -8.140556,
+      "lon": 127.907222,
+      "timezone": "America/Los_Angeles",
+      "has_iata": true
+    },
+    {
+      "icao": "WASE",
+      "iata": "KEQ",
+      "name_en": "Kebar",
+      "name_slug": "kebar",
+      "city_en": "Dobo",
+      "city_slug": "dobo",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2050,
+      "lat": -5.833333,
+      "lon": 134.83333,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPR",
+      "iata": "NAM",
+      "name_en": "Namlea",
+      "name_slug": "namlea",
+      "city_en": "Namlea",
+      "city_slug": "namlea",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -3.3,
+      "lon": 127.1,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPG",
+      "iata": "NRE",
+      "name_en": "Namrole",
+      "name_slug": "namrole",
+      "city_en": "Leksula",
+      "city_slug": "leksula",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 19,
+      "lat": -3.8553334,
+      "lon": 126.7005098,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPP",
+      "iata": "AMQ",
+      "name_en": "Pattimura Airport",
+      "name_slug": "pattimura-airport",
+      "city_en": "Amahusu",
+      "city_slug": "amahusu",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 49,
+      "lat": -3.7111152,
+      "lon": 128.0878877,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPI",
+      "iata": "SXK",
+      "name_en": "Saumlaki Olilit Airport",
+      "name_slug": "saumlaki-olilit-airport",
+      "city_en": "Tual",
+      "city_slug": "tual",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 170,
+      "lat": -7.966667,
+      "lon": 131.31667,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPV",
+      "iata": "WBA",
+      "name_en": "Wahai",
+      "name_slug": "wahai",
+      "city_en": "Wahai",
+      "city_slug": "wahai",
+      "province_en": "Maluku",
+      "province_slug": "maluku",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 488,
+      "lat": -2.8114998,
+      "lon": 129.4855085,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Maluku - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Maluku, Indonesia (Airports in Maluku Province, Indonesia — 9 record(s).) Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Maluku | ListBase",
+    "seo_description": "Unduh Bandar Udara — Maluku — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

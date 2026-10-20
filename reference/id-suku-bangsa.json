@@ -1,0 +1,1474 @@
+{
+  "id": "id-suku-bangsa",
+  "name": "Suku Bangsa Indonesia per Provinsi",
+  "title": "Suku Bangsa Indonesia per Provinsi",
+  "description": "Suku bangsa/etnis yang mendiami tiap provinsi di Indonesia, dengan wilayah persebaran bila tercantum di sumber.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 238,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Aceh",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Gayo",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Aneuk Jamee",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Singkil",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Alas",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Tamiang",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Kluet",
+      "wilayah": "",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Suku Melayu",
+      "wilayah": "Pesisir Timur, terutama di kabupaten Deli Serdang, Serdang Bedagai, dan Langkat",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Batak Karo",
+      "wilayah": "Kabupaten Karo",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Batak Toba",
+      "wilayah": "Kabupaten Tapanuli Utara, Kabupaten Humbang Hasundutan, Kabupaten Samosir, Kabupaten Toba Samosir",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Batak Mandailing",
+      "wilayah": "Kabupaten Mandailing Natal",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Batak Angkola",
+      "wilayah": "Kabupaten Tapanuli Selatan dan Kabupaten Padang Lawas",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Batak Simalungun",
+      "wilayah": "Kabupaten Simalungun",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Batak Pakpak",
+      "wilayah": "Kabupaten Dairi dan Kabupaten Pakpak Barat",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Nias",
+      "wilayah": "Pulau Nias",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Minangkabau",
+      "wilayah": "Kota Medan, Kabupaten Batubara, Pesisir barat",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Aceh",
+      "wilayah": "Kota Medan",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "Pesisir timur",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "Perkotaan pesisir timur & barat.",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "suku minangkabau",
+      "wilayah": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "suku batak mandailing",
+      "wilayah": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "suku mentawai",
+      "wilayah": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "suku nias",
+      "wilayah": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "suku jawa",
+      "wilayah": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "suku minangkabau",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku melayu",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku banjar",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku batak",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku jawa",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku Makasar",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku Mandailing",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku Sakai",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku Talang Mamak",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku Laut",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "suku Kualam",
+      "wilayah": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Suku Kubu",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Suku Anak Dalam",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "suku melayu",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "suku Minangkabau",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "suku jawa",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "suku Batak",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "suku Sunda",
+      "wilayah": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Suku Melayu",
+      "wilayah": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "suku Komering",
+      "wilayah": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "suku Sunda",
+      "wilayah": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "suku Minangkabau",
+      "wilayah": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Suku Rejang",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "suku Serawai",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "suku melayu Bengkulu",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "suku Lembak",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "suku Minangkabau",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "suku Sunda",
+      "wilayah": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Suku Lampung",
+      "wilayah": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "suku Sunda",
+      "wilayah": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "suku Minangkabau",
+      "wilayah": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Suku Melayu",
+      "wilayah": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "suku Jawa",
+      "wilayah": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "suku Bugis",
+      "wilayah": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "suku Madura",
+      "wilayah": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Suku Melayu",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "suku Jawa",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "suku Bugis",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "suku minangkabau",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "suku Batak",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "suku Banjar",
+      "wilayah": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Suku Betawi",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "suku Sunda",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "suku Batak",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "suku Minang",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "suku Melayu",
+      "wilayah": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Suku Sunda",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "suku Betawi",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "suku Cirebon",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "suku Batak",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "suku Minangkabau",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Suku Sunda",
+      "wilayah": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Suku Sunda",
+      "wilayah": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Suku Madura",
+      "wilayah": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Suku Osing",
+      "wilayah": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Suku Lampung",
+      "wilayah": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Suku Sunda",
+      "wilayah": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Suku Minangkabau",
+      "wilayah": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Suku Bali",
+      "wilayah": "",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Suku Baliaga",
+      "wilayah": "",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Suku Madura",
+      "wilayah": "",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Suku Sasak",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Suku Bima",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Suku Sumbawa",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Suku Bali",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Suku Indo-Arya",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Suku Atoni atau Dawan",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Manggarai",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Sumba",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Lamaholot",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Belu",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Rote",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Lio",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Suku Melayu",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Dayak",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Madura",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Sunda",
+      "wilayah": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Suku Dayak",
+      "wilayah": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Suku Banjar",
+      "wilayah": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Suku Madura",
+      "wilayah": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Suku Banjar",
+      "wilayah": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Suku Madura",
+      "wilayah": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Suku Dayak Meratus",
+      "wilayah": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Banjar",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Dayak",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Kutai",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Madura",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Suku Minahasa",
+      "wilayah": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Suku Sangir",
+      "wilayah": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Suku Mongondow",
+      "wilayah": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Suku Gorontalo",
+      "wilayah": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Suku Kaili",
+      "wilayah": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Suku Pamona",
+      "wilayah": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Suku Gorontalo",
+      "wilayah": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Suku Mori",
+      "wilayah": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Makassar",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Mandar",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Toraja",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Duri",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Pattinjo",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Bone",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Endekan",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Pattae",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Kajang/Konjo",
+      "wilayah": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Suku Buton",
+      "wilayah": "",
+      "provinsi": "Sulaeesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Sulaeesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Suku Tolaki",
+      "wilayah": "",
+      "provinsi": "Sulaeesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Suku Muna",
+      "wilayah": "",
+      "provinsi": "Sulaeesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Suku Gorontalo",
+      "wilayah": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Suku Suwawa",
+      "wilayah": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Suku Atinggola",
+      "wilayah": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Suku Bone",
+      "wilayah": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Suku Mongondow",
+      "wilayah": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Suku Mandar",
+      "wilayah": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Suku Toraja",
+      "wilayah": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Suku Makassar",
+      "wilayah": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Suku Alef'uru",
+      "wilayah": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Suku Eropa",
+      "wilayah": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Suku Arab",
+      "wilayah": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Suku Buton",
+      "wilayah": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Suku Minahasa",
+      "wilayah": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Suku Module",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Pagu",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Ternate",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Makian Barat",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Kao",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Tidore",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Buli",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Patani",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Maba",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Sawai",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Weda",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Gne",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Makian Timur",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Kayoa",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Bacan",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Sula",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Ange",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Siboyo",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Kadai",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Galela",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Tobelo",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Loloda",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Tobaru",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Sahu",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Bangsa Arab DAN Eropa",
+      "wilayah": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Suku Arfak",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Doteri",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Kuri",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Simuri",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Irarutu",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Moscona",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Mairasi",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Kambouw",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Onim",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Maibrat",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Tehit",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Imeko",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Moi",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Tipin",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Maya",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Biak",
+      "wilayah": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Suku Aitinyo",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Aefak",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Asmat",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Agast",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Dani",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Ayamaru",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Mandacan",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Kambouw",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Serui",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Mee",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Amungme",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Kamoro",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Jawa",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Makassar",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Bugis",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Buton",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Batak",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Minahasa",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Huli",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Suku Tionghoa",
+      "wilayah": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    }
+  ],
+  "meta": {
+    "title": "Suku Bangsa Indonesia per Provinsi - Unduh Gratis",
+    "description": "Suku bangsa/etnis yang mendiami tiap provinsi di Indonesia, dengan wilayah persebaran bila tercantum di sumber. Berisi 238 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Suku Bangsa Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Suku Bangsa Indonesia per Provinsi — 238 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 238 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

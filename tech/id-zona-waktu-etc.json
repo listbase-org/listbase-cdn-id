@@ -1,0 +1,72 @@
+{
+  "id": "id-zona-waktu-etc",
+  "name": "Zona waktu — Etc (2)",
+  "title": "Zona waktu — Etc (2)",
+  "description": "Zona waktu yang pengenal IANA-nya diawali 'Etc/', dengan nama dalam bahasa Indonesia.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Etc/UTC",
+      "wilayah": "Etc",
+      "kota": "",
+      "nama_standar": "Waktu Universal Terkoordinasi",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Etc/Unknown",
+      "wilayah": "Etc",
+      "kota": "Lokasi Tidak Dikenal",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu — Etc (2) - Unduh Gratis",
+    "description": "Zona waktu yang pengenal IANA-nya diawali 'Etc/', dengan nama dalam bahasa Indonesia. Berisi 2 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu — Etc (2) | ListBase",
+    "seo_description": "Unduh Zona waktu — Etc (2) — 2 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 2 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "id": "finance-hs-codes",
+  "name": "Dataset Bab Kode HS (Harmonized System)",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chapter",
+      "label": "Chapter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "section_name",
+      "label": "Section Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chapter": "01",
+      "name": "Hewan hidup",
+      "section": "I",
+      "section_name": "Hewan Hidup; Produk Hewan",
+      "examples": "Kuda, sapi, domba, unggas"
+    },
+    {
+      "chapter": "02",
+      "name": "Daging dan jeroan yang dapat dimakan",
+      "section": "I",
+      "section_name": "Hewan Hidup; Produk Hewan",
+      "examples": "Daging sapi, daging babi, daging domba, daging unggas"
+    },
+    {
+      "chapter": "03",
+      "name": "Ikan dan krustasea",
+      "section": "I",
+      "section_name": "Hewan Hidup; Produk Hewan",
+      "examples": "Ikan, udang, lobster, cumi-cumi"
+    },
+    {
+      "chapter": "04",
+      "name": "Produk susu; telur; madu",
+      "section": "I",
+      "section_name": "Hewan Hidup; Produk Hewan",
+      "examples": "Susu, keju, telur, madu"
+    },
+    {
+      "chapter": "05",
+      "name": "Produk asal hewan lainnya",
+      "section": "I",
+      "section_name": "Hewan Hidup; Produk Hewan",
+      "examples": "Tulang, tanduk, gading, bulu"
+    },
+    {
+      "chapter": "06",
+      "name": "Pohon hidup dan tanaman lainnya",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Tanaman, umbi, bunga potong"
+    },
+    {
+      "chapter": "07",
+      "name": "Sayuran yang dapat dimakan",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Kentang, tomat, bawang"
+    },
+    {
+      "chapter": "08",
+      "name": "Buah dan kacang-kacangan yang dapat dimakan",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Apel, jeruk, pisang, almond"
+    },
+    {
+      "chapter": "09",
+      "name": "Kopi, teh, rempah-rempah",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Kopi, teh, lada, vanila"
+    },
+    {
+      "chapter": "10",
+      "name": "Serealia",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Gandum, beras, jagung, jelai"
+    },
+    {
+      "chapter": "11",
+      "name": "Produk industri penggilingan",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Tepung, pati, malt"
+    },
+    {
+      "chapter": "12",
+      "name": "Biji minyak dan buah berminyak",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Kedelai, kacang tanah, biji bunga matahari"
+    },
+    {
+      "chapter": "13",
+      "name": "Lak, getah, damar",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Getah alami, damar, getah tanaman"
+    },
+    {
+      "chapter": "14",
+      "name": "Bahan anyaman nabati",
+      "section": "II",
+      "section_name": "Produk Nabati",
+      "examples": "Bambu, rotan, alang-alang"
+    },
+    {
+      "chapter": "15",
+      "name": "Lemak dan minyak hewani atau nabati",
+      "section": "III",
+      "section_name": "Lemak Hewani atau Nabati",
+      "examples": "Minyak zaitun, minyak sawit, mentega, margarin"
+    },
+    {
+      "chapter": "16",
+      "name": "Olahan daging atau ikan",
+      "section": "IV",
+      "section_name": "Bahan Makanan Olahan",
+      "examples": "Sosis, ikan kalengan, ekstrak daging"
+    },
+    {
+      "chapter": "17",
+      "name": "Gula dan kembang gula",
+      "section": "IV",
+      "section_name": "Bahan Makanan Olahan",
+      "examples": "Gula, permen, cokelat"
+    },
+    {
+      "chapter": "18",
+      "name": "Kakao dan olahan kakao",
+      "section": "IV",
+      "section_name": "Bahan Makanan Olahan",
+      "examples": "Biji kakao, bubuk kakao, cokelat"
+    },
+    {
+      "chapter": "19",
+      "name": "Olahan serealia, tepung",
+      "section": "IV",
+      "section_name": "Bahan Makanan Olahan",
+      "examples": "Roti, pasta, kue, bolu"
+    },
+    {
+      "chapter": "20",
+      "name": "Olahan sayuran, buah-buahan",
+      "section": "IV",
+      "section_name": "Bahan Makanan Olahan",
+      "examples": "Sayuran kalengan, jus buah, selai"
+    },
+    {
+      "chapter": "21",
+      "name": "Sediaan makanan yang dapat dimakan lain-lain",
+      "section": "IV",
+      "section_name": "Makanan Olahan",
+      "examples": "Saus, sup, es krim, ragi"
+    },
+    {
+      "chapter": "22",
+      "name": "Minuman, minuman beralkohol dan cuka",
+      "section": "IV",
+      "section_name": "Makanan Olahan",
+      "examples": "Air, anggur, bir, wiski, cuka"
+    },
+    {
+      "chapter": "23",
+      "name": "Residu dari industri makanan",
+      "section": "IV",
+      "section_name": "Makanan Olahan",
+      "examples": "Pakan hewan, dedak, bungkil minyak"
+    },
+    {
+      "chapter": "24",
+      "name": "Tembakau dan pengganti hasil pabrikan",
+      "section": "IV",
+      "section_name": "Makanan Olahan",
+      "examples": "Rokok, cerutu, tembakau"
+    },
+    {
+      "chapter": "25",
+      "name": "Garam; belerang; tanah dan batu",
+      "section": "V",
+      "section_name": "Produk Mineral",
+      "examples": "Garam, pasir, kerikil, marmer, gipsum"
+    },
+    {
+      "chapter": "26",
+      "name": "Bijih, terak dan abu",
+      "section": "V",
+      "section_name": "Produk Mineral",
+      "examples": "Bijih besi, bijih tembaga, abu"
+    },
+    {
+      "chapter": "27",
+      "name": "Bahan bakar mineral dan minyak",
+      "section": "V",
+      "section_name": "Produk Mineral",
+      "examples": "Batu bara, minyak bumi, gas alam"
+    },
+    {
+      "chapter": "28",
+      "name": "Bahan kimia anorganik",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Asam, oksida, garam, gas langka"
+    },
+    {
+      "chapter": "29",
+      "name": "Bahan kimia organik",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Hidrokarbon, alkohol, asam"
+    },
+    {
+      "chapter": "30",
+      "name": "Produk farmasi",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Obat-obatan, vaksin, perban"
+    },
+    {
+      "chapter": "31",
+      "name": "Pupuk",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Pupuk nitrogen, fosfat, kalium"
+    },
+    {
+      "chapter": "32",
+      "name": "Ekstrak penyamak atau pewarna",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Pewarna, cat, tinta, dempul"
+    },
+    {
+      "chapter": "33",
+      "name": "Minyak atsiri dan kosmetik",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Parfum, riasan, sampo, sabun"
+    },
+    {
+      "chapter": "34",
+      "name": "Sabun, lilin, lilin",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Sabun, deterjen, lilin, semir"
+    },
+    {
+      "chapter": "35",
+      "name": "Zat albuminoid; lem",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Gelatin, lem, enzim"
+    },
+    {
+      "chapter": "36",
+      "name": "Bahan peledak; korek api; piroteknik",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Bahan peledak, korek api, kembang api"
+    },
+    {
+      "chapter": "37",
+      "name": "Barang fotografi",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Film, pelat fotografi, bahan kimia"
+    },
+    {
+      "chapter": "38",
+      "name": "Produk kimia lain-lain",
+      "section": "VI",
+      "section_name": "Produk Kimia",
+      "examples": "Insektisida, herbisida, antibeku"
+    },
+    {
+      "chapter": "39",
+      "name": "Plastik dan artikelnya",
+      "section": "VII",
+      "section_name": "Plastik dan Karet",
+      "examples": "Lembaran plastik, pipa, wadah"
+    },
+    {
+      "chapter": "40",
+      "name": "Karet dan artikelnya",
+      "section": "VII",
+      "section_name": "Plastik dan Karet",
+      "examples": "Ban, tabung karet, sarung tangan"
+    },
+    {
+      "chapter": "41",
+      "name": "Kulit mentah dan kulit jadi, kulit",
+      "section": "VIII",
+      "section_name": "Kulit dan Barang Perjalanan",
+      "examples": "Kulit, kulit mentah, kulit binatang"
+    },
+    {
+      "chapter": "42",
+      "name": "Barang dari kulit; barang perjalanan",
+      "section": "VIII",
+      "section_name": "Kulit dan Barang Perjalanan",
+      "examples": "Tas, dompet, ikat pinggang, koper"
+    },
+    {
+      "chapter": "43",
+      "name": "Kulit berbulu dan bulu tiruan",
+      "section": "VIII",
+      "section_name": "Kulit dan Barang Perjalanan",
+      "examples": "Jaket bulu, hiasan bulu"
+    },
+    {
+      "chapter": "44",
+      "name": "Kayu dan barang dari kayu",
+      "section": "IX",
+      "section_name": "Kayu dan Produk Kayu",
+      "examples": "Kayu gergajian, kayu lapis, bagian furnitur"
+    },
+    {
+      "chapter": "45",
+      "name": "Gabus dan barang dari gabus",
+      "section": "IX",
+      "section_name": "Kayu dan Produk Kayu",
+      "examples": "Sumbat gabus, lembaran gabus"
+    },
+    {
+      "chapter": "46",
+      "name": "Barang anyaman jerami, keranjang",
+      "section": "IX",
+      "section_name": "Kayu dan Produk Kayu",
+      "examples": "Keranjang, tikar, anyaman"
+    },
+    {
+      "chapter": "47",
+      "name": "Bubur kayu atau bahan berserat",
+      "section": "X",
+      "section_name": "Bubur Kertas dan Kertas",
+      "examples": "Bubur kayu, bubur kertas"
+    },
+    {
+      "chapter": "48",
+      "name": "Kertas dan karton",
+      "section": "X",
+      "section_name": "Bubur Kertas dan Kertas",
+      "examples": "Kertas, karton, kotak"
+    },
+    {
+      "chapter": "49",
+      "name": "Buku cetak, surat kabar",
+      "section": "X",
+      "section_name": "Bubur Kertas dan Kertas",
+      "examples": "Buku, majalah, peta, perangko"
+    },
+    {
+      "chapter": "50",
+      "name": "Sutra",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Benang sutra, kain sutra"
+    },
+    {
+      "chapter": "51",
+      "name": "Wol dan rambut hewan",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Benang wol, kain wol"
+    },
+    {
+      "chapter": "52",
+      "name": "Kapas",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Benang kapas, kain katun"
+    },
+    {
+      "chapter": "53",
+      "name": "Serat tekstil nabati lainnya",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Kain rami, kain goni, kain yute"
+    },
+    {
+      "chapter": "54",
+      "name": "Filamen buatan",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Filamen nilon, poliester"
+    },
+    {
+      "chapter": "55",
+      "name": "Serat staple buatan",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Serat staple sintetis, benang"
+    },
+    {
+      "chapter": "56",
+      "name": "Isian, felt, bukan tenunan",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Isian, felt, tali, benang"
+    },
+    {
+      "chapter": "57",
+      "name": "Karpet dan penutup lantai tekstil",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Karpet, permadani, alas kaki"
+    },
+    {
+      "chapter": "58",
+      "name": "Kain tenun khusus",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Permadani, renda, sulaman"
+    },
+    {
+      "chapter": "59",
+      "name": "Kain tekstil yang diresapi",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Kain berlapis, benang ban"
+    },
+    {
+      "chapter": "60",
+      "name": "Kain rajutan atau kaitan",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Kain rajutan"
+    },
+    {
+      "chapter": "61",
+      "name": "Pakaian rajutan dan aksesoris",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Sweater, Kaos, kaus kaki"
+    },
+    {
+      "chapter": "62",
+      "name": "Pakaian tenunan dan aksesoris",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Jas, kemeja, gaun, mantel"
+    },
+    {
+      "chapter": "63",
+      "name": "Barang tekstil jadi lainnya",
+      "section": "XI",
+      "section_name": "Tekstil",
+      "examples": "Selimut, gorden, tas, tenda"
+    },
+    {
+      "chapter": "64",
+      "name": "Alas kaki",
+      "section": "XII",
+      "section_name": "Alas Kaki dan Penutup Kepala",
+      "examples": "Sepatu, bot, sandal, sandal jepit"
+    },
+    {
+      "chapter": "65",
+      "name": "Penutup kepala",
+      "section": "XII",
+      "section_name": "Alas Kaki dan Penutup Kepala",
+      "examples": "Topi, topi, helm"
+    },
+    {
+      "chapter": "66",
+      "name": "Payung, tongkat jalan",
+      "section": "XII",
+      "section_name": "Alas Kaki dan Penutup Kepala",
+      "examples": "Payung, tongkat, cambuk"
+    },
+    {
+      "chapter": "67",
+      "name": "Bulu yang disiapkan; bunga buatan",
+      "section": "XII",
+      "section_name": "Alas Kaki dan Penutup Kepala",
+      "examples": "Bunga buatan, wig"
+    },
+    {
+      "chapter": "68",
+      "name": "Barang dari batu, semen",
+      "section": "XIII",
+      "section_name": "Batu, Keramik, Kaca",
+      "examples": "Ubin batu, produk semen"
+    },
+    {
+      "chapter": "69",
+      "name": "Produk keramik",
+      "section": "XIII",
+      "section_name": "Batu, Keramik, Kaca",
+      "examples": "Batu bata, ubin, tembikar, porselen"
+    },
+    {
+      "chapter": "70",
+      "name": "Kaca dan barang dari kaca",
+      "section": "XIII",
+      "section_name": "Batu, Keramik, Kaca",
+      "examples": "Botol kaca, cermin, barang pecah belah"
+    },
+    {
+      "chapter": "71",
+      "name": "Mutiara, batu mulia, logam mulia",
+      "section": "XIV",
+      "section_name": "Logam dan Batu Mulia",
+      "examples": "Berlian, emas, perak, perhiasan"
+    },
+    {
+      "chapter": "72",
+      "name": "Besi dan baja",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Besi, baja, feroalloy"
+    },
+    {
+      "chapter": "73",
+      "name": "Barang dari besi atau baja",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Pipa baja, wadah, kawat"
+    },
+    {
+      "chapter": "74",
+      "name": "Tembaga dan barang daripadanya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Kawat tembaga, tabung, pelat"
+    },
+    {
+      "chapter": "75",
+      "name": "Nikel dan barang daripadanya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Batangan nikel, pelat, kawat"
+    },
+    {
+      "chapter": "76",
+      "name": "Aluminium dan barang daripadanya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Lembaran aluminium, foil, kaleng"
+    },
+    {
+      "chapter": "78",
+      "name": "Timbal dan barang daripadanya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Pelat timbal, lembaran, pipa"
+    },
+    {
+      "chapter": "79",
+      "name": "Seng dan barang daripadanya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Pelat seng, batangan, bubuk"
+    },
+    {
+      "chapter": "80",
+      "name": "Timah dan barang daripadanya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Batangan timah, pelat, foil"
+    },
+    {
+      "chapter": "81",
+      "name": "Logam dasar lainnya",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Tungsten, titanium, molibdenum"
+    },
+    {
+      "chapter": "82",
+      "name": "Perkakas dari logam dasar",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Pisau, gunting, perkakas tangan"
+    },
+    {
+      "chapter": "83",
+      "name": "Berbagai barang dari logam dasar",
+      "section": "XV",
+      "section_name": "Logam Dasar",
+      "examples": "Kunci, perlengkapan, brankas, bel"
+    },
+    {
+      "chapter": "84",
+      "name": "Reaktor nuklir, boiler, mesin",
+      "section": "XVI",
+      "section_name": "Mesin",
+      "examples": "Mesin, pompa, komputer, unit AC"
+    },
+    {
+      "chapter": "85",
+      "name": "Mesin dan peralatan listrik",
+      "section": "XVI",
+      "section_name": "Mesin",
+      "examples": "Telepon, TV, motor, baterai"
+    },
+    {
+      "chapter": "86",
+      "name": "Lokomotif kereta api, sarana perkeretaapian",
+      "section": "XVII",
+      "section_name": "Kendaraan",
+      "examples": "Kereta api, trem, gerbong kereta"
+    },
+    {
+      "chapter": "87",
+      "name": "Kendaraan selain kereta api",
+      "section": "XVII",
+      "section_name": "Kendaraan",
+      "examples": "Mobil, truk, sepeda motor, sepeda"
+    },
+    {
+      "chapter": "88",
+      "name": "Pesawat terbang, pesawat ruang angkasa",
+      "section": "XVII",
+      "section_name": "Kendaraan",
+      "examples": "Pesawat terbang, helikopter, drone"
+    },
+    {
+      "chapter": "89",
+      "name": "Kapal, perahu",
+      "section": "XVII",
+      "section_name": "Kendaraan",
+      "examples": "Kapal, yacht, perahu"
+    },
+    {
+      "chapter": "90",
+      "name": "Instrumen optik, medis, pengukuran",
+      "section": "XVIII",
+      "section_name": "Instrumen",
+      "examples": "Kamera, perangkat medis, sensor"
+    },
+    {
+      "chapter": "91",
+      "name": "Jam dan arloji",
+      "section": "XVIII",
+      "section_name": "Instrumen",
+      "examples": "Arloji, jam, bagian jam"
+    },
+    {
+      "chapter": "92",
+      "name": "Alat musik",
+      "section": "XVIII",
+      "section_name": "Instrumen",
+      "examples": "Piano, gitar, drum"
+    },
+    {
+      "chapter": "93",
+      "name": "Senjata dan amunisi",
+      "section": "XIX",
+      "section_name": "Senjata dan Amunisi",
+      "examples": "Senjata, amunisi, bagian"
+    },
+    {
+      "chapter": "94",
+      "name": "Furnitur; alas tidur; lampu",
+      "section": "XX",
+      "section_name": "Barang Serba-serbi",
+      "examples": "Kursi, tempat tidur, lampu, bangunan prefabrikasi"
+    },
+    {
+      "chapter": "95",
+      "name": "Mainan, permainan, peralatan olahraga",
+      "section": "XX",
+      "section_name": "Barang Serba-serbi",
+      "examples": "Mainan, video game, perlengkapan olahraga"
+    },
+    {
+      "chapter": "96",
+      "name": "Berbagai barang manufaktur lainnya",
+      "section": "XX",
+      "section_name": "Barang Serba-serbi",
+      "examples": "Pulpen, kancing, korek api, sapu"
+    },
+    {
+      "chapter": "97",
+      "name": "Karya seni, barang antik",
+      "section": "XXI",
+      "section_name": "Karya Seni",
+      "examples": "Lukisan, patung, barang antik"
+    },
+    {
+      "chapter": "98",
+      "name": "Ketentuan klasifikasi khusus",
+      "section": "XXII",
+      "section_name": "Khusus",
+      "examples": "Ketentuan khusus nasional"
+    },
+    {
+      "chapter": "99",
+      "name": "Ketentuan impor khusus",
+      "section": "XXII",
+      "section_name": "Khusus",
+      "examples": "Impor sementara, re-impor"
+    }
+  ],
+  "meta": {
+    "seo_title": "Daftar Bab Kode HS - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 98 Bab Kode HS lengkap dengan deskripsi, bagian, dan contoh. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Bab Kode HS (Harmonized System)",
+    "description": "Dataset komprehensif ini menyediakan semua 98 bab Kode Sistem Harmonisasi (HS), penting untuk perdagangan internasional dan klasifikasi bea cukai. Setiap catatan mencakup nomor bab, deskripsi, detail bagian, dan contoh ilustratif.",
+    "key_takeaways": [
+      "Akses semua 98 Bab Kode HS resmi, yang sangat diperlukan untuk perdagangan global.",
+      "Jelajahi deskripsi rinci, klasifikasi bagian, dan contoh praktis untuk setiap bab.",
+      "Unduh seluruh daftar Bab Sistem Harmonisasi secara instan dalam berbagai format.",
+      "Manfaatkan data terstruktur untuk deklarasi bea cukai, pencarian tarif, dan analisis pasar."
+    ],
+    "keywords": [
+      "daftar bab kode hs excel",
+      "dataset harmonized system",
+      "klasifikasi perdagangan internasional csv",
+      "kode bea cukai unduh gratis",
+      "data tarif perdagangan"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk mengotomatiskan klasifikasi produk dan analisis data perdagangan.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan membuat Pivot Tables untuk penelitian tarif, pelaporan kepatuhan, atau intelijen pasar.",
+      "Cetak versi **PDF** untuk referensi offline cepat, pengajaran di kelas, atau sebagai panduan meja yang praktis untuk pialang bea cukai.",
+      "Integrasikan dataset ini ke dalam platform ERP atau e-commerce Anda untuk mengkategorikan produk secara akurat dan merampingkan pengiriman internasional."
+    ]
+  },
+  "record_count": 98,
+  "title": "Dataset Bab Kode HS (Harmonized System)"
+}

@@ -1,0 +1,244 @@
+{
+  "id": "id-kalimantan-tengah-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Kalimantan Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Kalimantan Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "14 kabupaten/kota di Provinsi Kalimantan Tengah dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "62.01",
+      "name": "Kabupaten Kotawaringin Barat",
+      "type": "kabupaten",
+      "capital": "Pangkalan Bun",
+      "latitude": -2.692217,
+      "longitude": 111.634341,
+      "elevation_m": 21,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 9475.854,
+      "population": 294602
+    },
+    {
+      "code": "62.02",
+      "name": "Kabupaten Kotawaringin Timur",
+      "type": "kabupaten",
+      "capital": "Sampit",
+      "latitude": -2.537536,
+      "longitude": 112.941011,
+      "elevation_m": 8,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 15541.88,
+      "population": 454515
+    },
+    {
+      "code": "62.03",
+      "name": "Kabupaten Kapuas",
+      "type": "kabupaten",
+      "capital": "Kuala Kapuas",
+      "latitude": -2.964466,
+      "longitude": 114.416134,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 17033.54,
+      "population": 417854
+    },
+    {
+      "code": "62.04",
+      "name": "Kabupaten Barito Selatan",
+      "type": "kabupaten",
+      "capital": "Buntok",
+      "latitude": -1.718999,
+      "longitude": 114.845131,
+      "elevation_m": 10,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6267.084,
+      "population": 137914
+    },
+    {
+      "code": "62.05",
+      "name": "Kabupaten Barito Utara",
+      "type": "kabupaten",
+      "capital": "Muara Teweh",
+      "latitude": -0.952075,
+      "longitude": 114.898454,
+      "elevation_m": 32,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 9984.808,
+      "population": 159848
+    },
+    {
+      "code": "62.06",
+      "name": "Kabupaten Katingan",
+      "type": "kabupaten",
+      "capital": "\tKasongan",
+      "latitude": -1.880719,
+      "longitude": 113.399176,
+      "elevation_m": 24,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 20380.503,
+      "population": 181963
+    },
+    {
+      "code": "62.07",
+      "name": "Kabupaten Seruyan",
+      "type": "kabupaten",
+      "capital": "Kuala Pembuang",
+      "latitude": -3.413843,
+      "longitude": 112.541704,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 15211.714,
+      "population": 159849
+    },
+    {
+      "code": "62.08",
+      "name": "Kabupaten Sukamara",
+      "type": "kabupaten",
+      "capital": "Sukamara",
+      "latitude": -2.760534,
+      "longitude": 111.17663,
+      "elevation_m": 22,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3310.13,
+      "population": 67234
+    },
+    {
+      "code": "62.09",
+      "name": "Kabupaten Lamandau",
+      "type": "kabupaten",
+      "capital": "Nanga Bulik",
+      "latitude": -2.184822,
+      "longitude": 111.42762,
+      "elevation_m": 31,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 7632.394,
+      "population": 114257
+    },
+    {
+      "code": "62.10",
+      "name": "Kabupaten Gunung Mas",
+      "type": "kabupaten",
+      "capital": "Kuala Kurun",
+      "latitude": -1.127259,
+      "longitude": 113.843872,
+      "elevation_m": 90,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 9305.756,
+      "population": 134482
+    },
+    {
+      "code": "62.11",
+      "name": "Kabupaten Pulang Pisau",
+      "type": "kabupaten",
+      "capital": "Pulang Pisau",
+      "latitude": -2.716435,
+      "longitude": 114.30473,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 9650.158,
+      "population": 144663
+    },
+    {
+      "code": "62.12",
+      "name": "Kabupaten Murung Raya",
+      "type": "kabupaten",
+      "capital": "Puruk Cahu",
+      "latitude": -0.640207,
+      "longitude": 114.568746,
+      "elevation_m": 56,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 23575.328,
+      "population": 124291
+    },
+    {
+      "code": "62.13",
+      "name": "Kabupaten Barito Timur",
+      "type": "kabupaten",
+      "capital": "Tamiang Layang",
+      "latitude": -2.115345,
+      "longitude": 115.169201,
+      "elevation_m": 26,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3212.515,
+      "population": 118665
+    },
+    {
+      "code": "62.71",
+      "name": "Kota Palangkaraya",
+      "type": "kota",
+      "capital": "Palangka Raya",
+      "latitude": -2.173996,
+      "longitude": 113.88027,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2848.699,
+      "population": 315153
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Kalimantan Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "14 kabupaten/kota di Provinsi Kalimantan Tengah dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 14 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Kalimantan Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Kalimantan Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 14 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 14 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

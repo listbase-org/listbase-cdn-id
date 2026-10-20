@@ -1,0 +1,280 @@
+{
+  "id": "id-sulawesi-tenggara-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sulawesi Tenggara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sulawesi Tenggara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "17 kabupaten/kota di Provinsi Sulawesi Tenggara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "74.01",
+      "name": "Kabupaten Kolaka",
+      "type": "kabupaten",
+      "capital": "Kolaka",
+      "latitude": -4.060809,
+      "longitude": 121.616119,
+      "elevation_m": 16,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2958.87,
+      "population": 257733
+    },
+    {
+      "code": "74.02",
+      "name": "Kabupaten Konawe",
+      "type": "kabupaten",
+      "capital": "Unaaha",
+      "latitude": -3.854234,
+      "longitude": 122.042727,
+      "elevation_m": 41,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5352.922,
+      "population": 269128
+    },
+    {
+      "code": "74.03",
+      "name": "Kabupaten Muna",
+      "type": "kabupaten",
+      "capital": "Raha",
+      "latitude": -4.797871,
+      "longitude": 122.718959,
+      "elevation_m": 37,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1856.91,
+      "population": 233470
+    },
+    {
+      "code": "74.04",
+      "name": "Kabupaten Buton",
+      "type": "kabupaten",
+      "capital": "Pasarwajo",
+      "latitude": -5.495774,
+      "longitude": 122.840139,
+      "elevation_m": 42,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1664.982,
+      "population": 122024
+    },
+    {
+      "code": "74.05",
+      "name": "Kabupaten Konawe Selatan",
+      "type": "kabupaten",
+      "capital": "Andolo",
+      "latitude": -4.332036,
+      "longitude": 122.281315,
+      "elevation_m": 120,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4234.214,
+      "population": 332389
+    },
+    {
+      "code": "74.06",
+      "name": "Kabupaten Bombana",
+      "type": "kabupaten",
+      "capital": "Rumbia",
+      "latitude": -4.747235,
+      "longitude": 122.011093,
+      "elevation_m": 11,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3291.922,
+      "population": 168055
+    },
+    {
+      "code": "74.07",
+      "name": "Kabupaten Wakatobi",
+      "type": "kabupaten",
+      "capital": "Wangi-Wangi",
+      "latitude": -5.3283,
+      "longitude": 23.538901,
+      "elevation_m": 556,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 450.8,
+      "population": 118793
+    },
+    {
+      "code": "74.08",
+      "name": "Kabupaten Kolaka Utara",
+      "type": "kabupaten",
+      "capital": "Lasusua",
+      "latitude": -3.490135,
+      "longitude": 120.887528,
+      "elevation_m": 45,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2931.677,
+      "population": 143604
+    },
+    {
+      "code": "74.09",
+      "name": "Kabupaten Konawe Utara",
+      "type": "kabupaten",
+      "capital": "Wanggudu",
+      "latitude": -3.512353,
+      "longitude": 122.110732,
+      "elevation_m": 22,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4219.214,
+      "population": 83449
+    },
+    {
+      "code": "74.10",
+      "name": "Kabupaten Buton Utara",
+      "type": "kabupaten",
+      "capital": "Buranga",
+      "latitude": -4.801007,
+      "longitude": 122.983095,
+      "elevation_m": 61,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1752.37,
+      "population": 74718
+    },
+    {
+      "code": "74.11",
+      "name": "Kabupaten Kolaka Timur",
+      "type": "kabupaten",
+      "capital": "Tirawuta",
+      "latitude": -4.00051,
+      "longitude": 121.86195,
+      "elevation_m": 213,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3992.531,
+      "population": 130691
+    },
+    {
+      "code": "74.12",
+      "name": "Kabupaten Konawe Kepulauan",
+      "type": "kabupaten",
+      "capital": "Langara",
+      "latitude": -4.052608,
+      "longitude": 122.988585,
+      "elevation_m": 8,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 704.184,
+      "population": 44091
+    },
+    {
+      "code": "74.13",
+      "name": "Kabupaten Muna Barat",
+      "type": "kabupaten",
+      "capital": "Sawerigadi",
+      "latitude": -4.791714,
+      "longitude": 122.494184,
+      "elevation_m": 19,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 816.717,
+      "population": 91571
+    },
+    {
+      "code": "74.14",
+      "name": "Kabupaten Buton Tengah",
+      "type": "kabupaten",
+      "capital": "Labungkari",
+      "latitude": -5.316414,
+      "longitude": 122.531979,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 835.562,
+      "population": 121745
+    },
+    {
+      "code": "74.15",
+      "name": "Kabupaten Buton Selatan",
+      "type": "kabupaten",
+      "capital": "Batauga",
+      "latitude": -5.608165,
+      "longitude": 122.600622,
+      "elevation_m": 11,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 516.479,
+      "population": 102881
+    },
+    {
+      "code": "74.71",
+      "name": "Kota Kendari",
+      "type": "kota",
+      "capital": "Kendari",
+      "latitude": -3.972902,
+      "longitude": 122.511741,
+      "elevation_m": 15,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 265.845,
+      "population": 366454
+    },
+    {
+      "code": "74.72",
+      "name": "Kota Bau Bau",
+      "type": "kota",
+      "capital": "Bau-Bau",
+      "latitude": -5.485072,
+      "longitude": 122.584799,
+      "elevation_m": 132,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 294.104,
+      "population": 163793
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sulawesi Tenggara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "17 kabupaten/kota di Provinsi Sulawesi Tenggara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 17 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sulawesi Tenggara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sulawesi Tenggara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 17 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 17 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

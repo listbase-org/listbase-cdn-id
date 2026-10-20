@@ -1,0 +1,196 @@
+{
+  "id": "id-maluku-utara-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Maluku Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Maluku Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "10 kabupaten/kota di Provinsi Maluku Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "82.01",
+      "name": "Kabupaten Halmahera Barat",
+      "type": "kabupaten",
+      "capital": "Jailolo",
+      "latitude": 1.080468,
+      "longitude": 127.480155,
+      "elevation_m": 27,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2237.391,
+      "population": 139764
+    },
+    {
+      "code": "82.02",
+      "name": "Kabupaten Halmahera Tengah",
+      "type": "kabupaten",
+      "capital": "Weda",
+      "latitude": 0.330424,
+      "longitude": 127.870251,
+      "elevation_m": 41,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2272.261,
+      "population": 106500
+    },
+    {
+      "code": "82.03",
+      "name": "Kabupaten Halmahera Utara",
+      "type": "kabupaten",
+      "capital": "Tobelo",
+      "latitude": 1.728187,
+      "longitude": 127.992197,
+      "elevation_m": 37,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 3402.937,
+      "population": 206233
+    },
+    {
+      "code": "82.04",
+      "name": "Kabupaten Halmahera Selatan",
+      "type": "kabupaten",
+      "capital": "Labuha",
+      "latitude": -0.645475,
+      "longitude": 127.504984,
+      "elevation_m": 91,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 8102,
+      "population": 258564
+    },
+    {
+      "code": "82.05",
+      "name": "Kabupaten Kepulauan Sula",
+      "type": "kabupaten",
+      "capital": "Sanana",
+      "latitude": -2.006978,
+      "longitude": 125.964145,
+      "elevation_m": 25,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 1777.021,
+      "population": 100635
+    },
+    {
+      "code": "82.06",
+      "name": "Kabupaten Halmahera Timur",
+      "type": "kabupaten",
+      "capital": "Maba",
+      "latitude": 0.677443,
+      "longitude": 128.284084,
+      "elevation_m": 16,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 6487.633,
+      "population": 100473
+    },
+    {
+      "code": "82.07",
+      "name": "Kabupaten Pulau Morotai",
+      "type": "kabupaten",
+      "capital": "Daruba",
+      "latitude": 2.013297,
+      "longitude": 128.283718,
+      "elevation_m": 16,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2337.256,
+      "population": 82913
+    },
+    {
+      "code": "82.08",
+      "name": "Kabupaten Pulau Taliabu",
+      "type": "kabupaten",
+      "capital": "Bobong",
+      "latitude": -1.947444,
+      "longitude": 124.387216,
+      "elevation_m": 7,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2984.011,
+      "population": 66361
+    },
+    {
+      "code": "82.71",
+      "name": "Kota Ternate",
+      "type": "kota",
+      "capital": "Ternate",
+      "latitude": 0.785751,
+      "longitude": 127.387846,
+      "elevation_m": 8,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 162.04,
+      "population": 210836
+    },
+    {
+      "code": "82.72",
+      "name": "Kota Tidore Kepulauan",
+      "type": "kota",
+      "capital": "Tidore Kepulauan",
+      "latitude": 0.671565,
+      "longitude": 127.446723,
+      "elevation_m": 30,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 1703.427,
+      "population": 121952
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Maluku Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "10 kabupaten/kota di Provinsi Maluku Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Maluku Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Maluku Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

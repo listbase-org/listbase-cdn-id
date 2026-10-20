@@ -1,0 +1,169 @@
+{
+  "id": "id-west-kalimantan-airports",
+  "name": "Bandar Udara — West Kalimantan",
+  "title": "Bandar Udara — West Kalimantan",
+  "description": "Bandar udara di Provinsi West Kalimantan, Indonesia (Airports in West Kalimantan Province, Indonesia — 4 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIOK",
+      "iata": "KTG",
+      "name_en": "Ketapang Airport",
+      "name_slug": "ketapang-airport",
+      "city_en": "Ketapang",
+      "city_slug": "ketapang",
+      "province_en": "West Kalimantan",
+      "province_slug": "west-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 46,
+      "lat": -1.833333,
+      "lon": 109.98333,
+      "timezone": "Asia/Pontianak",
+      "has_iata": true
+    },
+    {
+      "icao": "WIOG",
+      "iata": "NPO",
+      "name_en": "Nangapinoh",
+      "name_slug": "nangapinoh",
+      "city_en": "Kenyau",
+      "city_slug": "kenyau",
+      "province_en": "West Kalimantan",
+      "province_slug": "west-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 82,
+      "lat": -0.3484114,
+      "lon": 111.7457851,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WIDO",
+      "iata": "NTX",
+      "name_en": "Natuna Ranai",
+      "name_slug": "natuna-ranai",
+      "city_en": "Pemangkat",
+      "city_slug": "pemangkat",
+      "province_en": "West Kalimantan",
+      "province_slug": "west-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 170,
+      "lat": 3.9101259,
+      "lon": 108.3880053,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIOO",
+      "iata": "PNK",
+      "name_en": "Supadio International Airport",
+      "name_slug": "supadio-international-airport",
+      "city_en": "Pontianak",
+      "city_slug": "pontianak",
+      "province_en": "West Kalimantan",
+      "province_slug": "west-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 49,
+      "lat": -0.14735,
+      "lon": 109.40533,
+      "timezone": "Asia/Pontianak",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — West Kalimantan - Unduh Gratis",
+    "description": "Bandar udara di Provinsi West Kalimantan, Indonesia (Airports in West Kalimantan Province, Indonesia — 4 record(s).) Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — West Kalimantan | ListBase",
+    "seo_description": "Unduh Bandar Udara — West Kalimantan — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

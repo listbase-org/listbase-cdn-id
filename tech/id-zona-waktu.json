@@ -1,0 +1,936 @@
+{
+  "id": "id-zona-waktu",
+  "name": "Zona waktu dunia (IANA / CLDR bahasa Indonesia)",
+  "title": "Zona waktu dunia (IANA / CLDR bahasa Indonesia)",
+  "description": "Pengenal zona waktu IANA dan nama kota representatif dalam bahasa Indonesia dari locale id di CLDR. 'wilayah' adalah segmen pertama pengenal.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Algiers",
+      "wilayah": "Africa",
+      "kota": "Aljir",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Asmera",
+      "wilayah": "Africa",
+      "kota": "Asmara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Cairo",
+      "wilayah": "Africa",
+      "kota": "Kairo",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/El_Aaiun",
+      "wilayah": "Africa",
+      "kota": "El Aaiún",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Lome",
+      "wilayah": "Africa",
+      "kota": "Lomé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Ndjamena",
+      "wilayah": "Africa",
+      "kota": "N’Djamena",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Sao_Tome",
+      "wilayah": "Africa",
+      "kota": "São Tomé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Anguilla",
+      "wilayah": "America",
+      "kota": "Anguila",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Araguaina",
+      "wilayah": "America",
+      "kota": "Araguaína",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "wilayah": "America",
+      "kota": "Río Gallegos",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Argentina/Tucuman",
+      "wilayah": "America",
+      "kota": "Tucumán",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Asuncion",
+      "wilayah": "America",
+      "kota": "Asunción",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Bahia_Banderas",
+      "wilayah": "America",
+      "kota": "Bahia Banderas",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Belem",
+      "wilayah": "America",
+      "kota": "Belém",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Bogota",
+      "wilayah": "America",
+      "kota": "Bogotá",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Cancun",
+      "wilayah": "America",
+      "kota": "Cancun",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Ciudad_Juarez",
+      "wilayah": "America",
+      "kota": "Ciudad Juarez",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Coral_Harbour",
+      "wilayah": "America",
+      "kota": "Atikokan",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Cordoba",
+      "wilayah": "America",
+      "kota": "Córdoba",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Costa_Rica",
+      "wilayah": "America",
+      "kota": "Kosta Rika",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Cuiaba",
+      "wilayah": "America",
+      "kota": "Cuiabá",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Curacao",
+      "wilayah": "America",
+      "kota": "Curaçao",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Dominica",
+      "wilayah": "America",
+      "kota": "Dominika",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Eirunepe",
+      "wilayah": "America",
+      "kota": "Eirunepé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Godthab",
+      "wilayah": "America",
+      "kota": "Nuuk",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Indiana/Knox",
+      "wilayah": "America",
+      "kota": "Knox, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Indiana/Marengo",
+      "wilayah": "America",
+      "kota": "Marengo, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Indiana/Petersburg",
+      "wilayah": "America",
+      "kota": "Petersburg, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Indiana/Tell_City",
+      "wilayah": "America",
+      "kota": "Tell City, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Indiana/Vevay",
+      "wilayah": "America",
+      "kota": "Vevay, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Indiana/Vincennes",
+      "wilayah": "America",
+      "kota": "Vincennes, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Indiana/Winamac",
+      "wilayah": "America",
+      "kota": "Winamac, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Kentucky/Monticello",
+      "wilayah": "America",
+      "kota": "Monticello, Kentucky",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Lower_Princes",
+      "wilayah": "America",
+      "kota": "Lower Prince’s Quarter",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Maceio",
+      "wilayah": "America",
+      "kota": "Maceió",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Martinique",
+      "wilayah": "America",
+      "kota": "Martinik",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Mazatlan",
+      "wilayah": "America",
+      "kota": "Mazatlán",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Merida",
+      "wilayah": "America",
+      "kota": "Merida",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Mexico_City",
+      "wilayah": "America",
+      "kota": "Ciudad de México",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Miquelon",
+      "wilayah": "America",
+      "kota": "Saint-Pierre",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Noronha",
+      "wilayah": "America",
+      "kota": "Fernando de Noronha",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/North_Dakota/Beulah",
+      "wilayah": "America",
+      "kota": "Beulah, Dakota Utara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/North_Dakota/Center",
+      "wilayah": "America",
+      "kota": "Center, Dakota Utara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "wilayah": "America",
+      "kota": "New Salem, Dakota Utara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Santarem",
+      "wilayah": "America",
+      "kota": "Santarém",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Sao_Paulo",
+      "wilayah": "America",
+      "kota": "São Paulo",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Scoresbysund",
+      "wilayah": "America",
+      "kota": "Ittoqqortoormiit",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/St_Barthelemy",
+      "wilayah": "America",
+      "kota": "St. Barthélemy",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/St_Johns",
+      "wilayah": "America",
+      "kota": "St. John’s",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/St_Kitts",
+      "wilayah": "America",
+      "kota": "St. Kitts",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/St_Lucia",
+      "wilayah": "America",
+      "kota": "St. Lucia",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/St_Thomas",
+      "wilayah": "America",
+      "kota": "St. Thomas",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/St_Vincent",
+      "wilayah": "America",
+      "kota": "St. Vincent",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Antarctica/DumontDUrville",
+      "wilayah": "Antarctica",
+      "kota": "Dumont-d’Urville",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Antarctica/Syowa",
+      "wilayah": "Antarctica",
+      "kota": "Showa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Asia/Aqtau",
+      "wilayah": "Asia",
+      "kota": "Aktau",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Asia/Aqtobe",
+      "wilayah": "Asia",
+      "kota": "Aktobe",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Asia/Calcutta",
+      "wilayah": "Asia",
+      "kota": "Kolkata",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "Asia/Colombo",
+      "wilayah": "Asia",
+      "kota": "Kolombo",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "Asia/Damascus",
+      "wilayah": "Asia",
+      "kota": "Damaskus",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Asia/Hovd",
+      "wilayah": "Asia",
+      "kota": "Khovd",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Asia/Jerusalem",
+      "wilayah": "Asia",
+      "kota": "Yerusalem",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Katmandu",
+      "wilayah": "Asia",
+      "kota": "Kathmandu",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Macau",
+      "wilayah": "Asia",
+      "kota": "Makau",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Muscat",
+      "wilayah": "Asia",
+      "kota": "Muskat",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Nicosia",
+      "wilayah": "Asia",
+      "kota": "Nikosia",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Qostanay",
+      "wilayah": "Asia",
+      "kota": "Kostanay",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Rangoon",
+      "wilayah": "Asia",
+      "kota": "Rangoon",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Saigon",
+      "wilayah": "Asia",
+      "kota": "Ho Chi Minh",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Singapore",
+      "wilayah": "Asia",
+      "kota": "Singapura",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Tehran",
+      "wilayah": "Asia",
+      "kota": "Teheran",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Urumqi",
+      "wilayah": "Asia",
+      "kota": "Ürümqi",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Atlantic/Canary",
+      "wilayah": "Atlantic",
+      "kota": "Canarias",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Atlantic/Cape_Verde",
+      "wilayah": "Atlantic",
+      "kota": "Tanjung Verde",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Atlantic/Faeroe",
+      "wilayah": "Atlantic",
+      "kota": "Faroe",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Atlantic/South_Georgia",
+      "wilayah": "Atlantic",
+      "kota": "Georgia Selatan",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Atlantic/St_Helena",
+      "wilayah": "Atlantic",
+      "kota": "St. Helena",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Etc/UTC",
+      "wilayah": "Etc",
+      "kota": "",
+      "nama_standar": "Waktu Universal Terkoordinasi",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Etc/Unknown",
+      "wilayah": "Etc",
+      "kota": "Lokasi Tidak Dikenal",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Europe/Athens",
+      "wilayah": "Europe",
+      "kota": "Athena",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Europe/Belgrade",
+      "wilayah": "Europe",
+      "kota": "Beograd",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Europe/Busingen",
+      "wilayah": "Europe",
+      "kota": "Büsingen",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "Europe/Chisinau",
+      "wilayah": "Europe",
+      "kota": "Kishinev",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "Europe/Copenhagen",
+      "wilayah": "Europe",
+      "kota": "Kopenhagen",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "Europe/Dublin",
+      "wilayah": "Europe",
+      "kota": "",
+      "nama_standar": "",
+      "nama_musim_panas": "Waktu Standar Irlandia"
+    },
+    {
+      "id": 86,
+      "tz_id": "Europe/Isle_of_Man",
+      "wilayah": "Europe",
+      "kota": "Pulau Man",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "Europe/Kiev",
+      "wilayah": "Europe",
+      "kota": "Kiev",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "Europe/London",
+      "wilayah": "Europe",
+      "kota": "",
+      "nama_standar": "",
+      "nama_musim_panas": "Waktu Musim Panas Inggris"
+    },
+    {
+      "id": 89,
+      "tz_id": "Europe/Luxembourg",
+      "wilayah": "Europe",
+      "kota": "Luksemburg",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "Europe/Monaco",
+      "wilayah": "Europe",
+      "kota": "Monako",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "Europe/Moscow",
+      "wilayah": "Europe",
+      "kota": "Moskwa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "Europe/Prague",
+      "wilayah": "Europe",
+      "kota": "Praha",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "Europe/Rome",
+      "wilayah": "Europe",
+      "kota": "Roma",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "Europe/Tirane",
+      "wilayah": "Europe",
+      "kota": "Tirana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "Europe/Vatican",
+      "wilayah": "Europe",
+      "kota": "Vatikan",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "Europe/Vienna",
+      "wilayah": "Europe",
+      "kota": "Wina",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "Europe/Warsaw",
+      "wilayah": "Europe",
+      "kota": "Warsawa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "Indian/Comoro",
+      "wilayah": "Indian",
+      "kota": "Komoro",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "Indian/Mahe",
+      "wilayah": "Indian",
+      "kota": "Mahé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "Indian/Maldives",
+      "wilayah": "Indian",
+      "kota": "Maladewa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "Indian/Reunion",
+      "wilayah": "Indian",
+      "kota": "Réunion",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "Pacific/Enderbury",
+      "wilayah": "Pacific",
+      "kota": "Pulau Canton",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "Pacific/Galapagos",
+      "wilayah": "Pacific",
+      "kota": "Galápagos",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "Pacific/Guadalcanal",
+      "wilayah": "Pacific",
+      "kota": "Guadalkanal",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "Pacific/Honolulu",
+      "wilayah": "Pacific",
+      "kota": "Honolulu",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "Pacific/Noumea",
+      "wilayah": "Pacific",
+      "kota": "Nouméa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "Pacific/Ponape",
+      "wilayah": "Pacific",
+      "kota": "Pohnpei",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "Pacific/Truk",
+      "wilayah": "Pacific",
+      "kota": "Chuuk",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "Pacific/Wake",
+      "wilayah": "Pacific",
+      "kota": "Pulau Wake",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "Pacific/Wallis",
+      "wilayah": "Pacific",
+      "kota": "Wallis & Futuna",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu dunia (IANA / CLDR bahasa Indonesia) - Unduh Gratis",
+    "description": "Pengenal zona waktu IANA dan nama kota representatif dalam bahasa Indonesia dari locale id di CLDR. 'wilayah' adalah segmen pertama pengenal. Berisi 110 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu dunia (IANA / CLDR bahasa Indonesia) | ListBase",
+    "seo_description": "Unduh Zona waktu dunia (IANA / CLDR bahasa Indonesia) — 110 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 110 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

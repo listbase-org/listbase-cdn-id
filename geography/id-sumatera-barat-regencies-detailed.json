@@ -1,0 +1,304 @@
+{
+  "id": "id-sumatera-barat-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sumatera Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sumatera Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "19 kabupaten/kota di Provinsi Sumatera Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "13.01",
+      "name": "Kabupaten Pesisir Selatan",
+      "type": "kabupaten",
+      "capital": "Painan",
+      "latitude": -1.348016,
+      "longitude": 100.577717,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6045.676,
+      "population": 533786
+    },
+    {
+      "code": "13.02",
+      "name": "Kabupaten Solok",
+      "type": "kabupaten",
+      "capital": "Arosuka",
+      "latitude": -0.951571,
+      "longitude": 100.621364,
+      "elevation_m": 1026,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3590.404,
+      "population": 413075
+    },
+    {
+      "code": "13.03",
+      "name": "Kabupaten Sijunjung",
+      "type": "kabupaten",
+      "capital": "Muaro Sijunjung",
+      "latitude": -0.665781,
+      "longitude": 100.94461,
+      "elevation_m": 157,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3150.58,
+      "population": 247323
+    },
+    {
+      "code": "13.04",
+      "name": "Kabupaten Tanah Datar",
+      "type": "kabupaten",
+      "capital": "Batusangkar",
+      "latitude": -0.474365,
+      "longitude": 100.623418,
+      "elevation_m": 415,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1377.186,
+      "population": 382674
+    },
+    {
+      "code": "13.05",
+      "name": "Kabupaten Padang Pariaman",
+      "type": "kabupaten",
+      "capital": "Parit Malintang",
+      "latitude": -0.620998,
+      "longitude": 100.306542,
+      "elevation_m": 81,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1341.879,
+      "population": 458310
+    },
+    {
+      "code": "13.06",
+      "name": "Kabupaten Agam",
+      "type": "kabupaten",
+      "capital": "Lubuk Basung",
+      "latitude": -0.315193,
+      "longitude": 100.029656,
+      "elevation_m": 89,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2225.34,
+      "population": 533254
+    },
+    {
+      "code": "13.07",
+      "name": "Kabupaten Lima Puluh Kota",
+      "type": "kabupaten",
+      "capital": "Sarilamak",
+      "latitude": -0.152394,
+      "longitude": 100.660738,
+      "elevation_m": 526,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3273.405,
+      "population": 402788
+    },
+    {
+      "code": "13.08",
+      "name": "Kabupaten Pasaman",
+      "type": "kabupaten",
+      "capital": "Lubuk Sikaping",
+      "latitude": 0.140391,
+      "longitude": 100.166987,
+      "elevation_m": 449,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3902.444,
+      "population": 313837
+    },
+    {
+      "code": "13.09",
+      "name": "Kabupaten Kepulauan Mentawai",
+      "type": "kabupaten",
+      "capital": "Tuapejat",
+      "latitude": -2.054156,
+      "longitude": 99.58047,
+      "elevation_m": 67,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5973.917,
+      "population": 97837
+    },
+    {
+      "code": "13.10",
+      "name": "Kabupaten Dharmasraya",
+      "type": "kabupaten",
+      "capital": "Pulau Punjung",
+      "latitude": -0.952986,
+      "longitude": 101.494113,
+      "elevation_m": 120,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2920.925,
+      "population": 242192
+    },
+    {
+      "code": "13.11",
+      "name": "Kabupaten Solok Selatan",
+      "type": "kabupaten",
+      "capital": "Padang Aro",
+      "latitude": -1.556221,
+      "longitude": 101.239503,
+      "elevation_m": 559,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3282.144,
+      "population": 181525
+    },
+    {
+      "code": "13.12",
+      "name": "Kabupaten Pasaman Barat",
+      "type": "kabupaten",
+      "capital": "Simpang Ampek",
+      "latitude": 0.110378,
+      "longitude": 99.827787,
+      "elevation_m": 72,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3851.883,
+      "population": 454053
+    },
+    {
+      "code": "13.71",
+      "name": "Kota Padang",
+      "type": "kota",
+      "capital": "Padang",
+      "latitude": -0.875877,
+      "longitude": 100.387288,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 694.315,
+      "population": 946982
+    },
+    {
+      "code": "13.72",
+      "name": "Kota Solok",
+      "type": "kota",
+      "capital": "Solok",
+      "latitude": -0.799481,
+      "longitude": 100.652782,
+      "elevation_m": 389,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 58.72,
+      "population": 85553
+    },
+    {
+      "code": "13.73",
+      "name": "Kota Sawahlunto",
+      "type": "kota",
+      "capital": "Sawahlunto",
+      "latitude": -0.675037,
+      "longitude": 100.767501,
+      "elevation_m": 358,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 231.945,
+      "population": 68559
+    },
+    {
+      "code": "13.74",
+      "name": "Kota Padang Panjang",
+      "type": "kota",
+      "capital": "Padangpanjang",
+      "latitude": -0.462119,
+      "longitude": 100.390399,
+      "elevation_m": 757,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 23.56,
+      "population": 63895
+    },
+    {
+      "code": "13.75",
+      "name": "Kota Bukittinggi",
+      "type": "kota",
+      "capital": "Bukittinggi",
+      "latitude": -0.285465,
+      "longitude": 100.367807,
+      "elevation_m": 936,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 24.173,
+      "population": 141804
+    },
+    {
+      "code": "13.76",
+      "name": "Kota Payakumbuh",
+      "type": "kota",
+      "capital": "Payakumbuh",
+      "latitude": -0.222518,
+      "longitude": 100.631978,
+      "elevation_m": 509,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 74.552,
+      "population": 149077
+    },
+    {
+      "code": "13.77",
+      "name": "Kota Pariaman",
+      "type": "kota",
+      "capital": "Pariaman",
+      "latitude": -0.62899,
+      "longitude": 100.137713,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 64.626,
+      "population": 103835
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sumatera Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "19 kabupaten/kota di Provinsi Sumatera Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 19 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sumatera Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sumatera Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 19 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 19 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

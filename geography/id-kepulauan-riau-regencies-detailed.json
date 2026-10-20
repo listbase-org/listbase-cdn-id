@@ -1,0 +1,160 @@
+{
+  "id": "id-kepulauan-riau-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Kepulauan Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Kepulauan Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "7 kabupaten/kota di Provinsi Kepulauan Riau dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "21.01",
+      "name": "Kabupaten Bintan",
+      "type": "kabupaten",
+      "capital": "Bandar Seri Bentan",
+      "latitude": 1.086704,
+      "longitude": 104.502145,
+      "elevation_m": 21,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1311.868,
+      "population": 180404
+    },
+    {
+      "code": "21.02",
+      "name": "Kabupaten Karimun",
+      "type": "kabupaten",
+      "capital": "Tanjung Balai Karimun",
+      "latitude": 1.032978,
+      "longitude": 103.375781,
+      "elevation_m": 13,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 916.331,
+      "population": 273946
+    },
+    {
+      "code": "21.03",
+      "name": "Kabupaten Natuna",
+      "type": "kabupaten",
+      "capital": "Ranai",
+      "latitude": 3.923444,
+      "longitude": 108.336932,
+      "elevation_m": 73,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1978.01,
+      "population": 84325
+    },
+    {
+      "code": "21.04",
+      "name": "Kabupaten Lingga",
+      "type": "kabupaten",
+      "capital": "Daik",
+      "latitude": -0.209993,
+      "longitude": 104.604659,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2173.63,
+      "population": 101039
+    },
+    {
+      "code": "21.05",
+      "name": "Kabupaten Kepulauan Anambas",
+      "type": "kabupaten",
+      "capital": "Tarempa",
+      "latitude": 3.214546,
+      "longitude": 106.248702,
+      "elevation_m": 148,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 620.622,
+      "population": 50922
+    },
+    {
+      "code": "21.71",
+      "name": "Kota Batam",
+      "type": "kota",
+      "capital": "Batam",
+      "latitude": 1.128745,
+      "longitude": 104.055333,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1020.28,
+      "population": 1342038
+    },
+    {
+      "code": "21.72",
+      "name": "Kota Tanjung Pinang",
+      "type": "kota",
+      "capital": "Tanjungpinang",
+      "latitude": 0.965343,
+      "longitude": 104.440987,
+      "elevation_m": 65,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 149.634,
+      "population": 239216
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Kepulauan Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "7 kabupaten/kota di Provinsi Kepulauan Riau dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Kepulauan Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Kepulauan Riau (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,5144 @@
+{
+  "id": "id-pelabuhan",
+  "name": "Pelabuhan Umum Indonesia (636 pelabuhan)",
+  "title": "Pelabuhan Umum Indonesia (636 pelabuhan)",
+  "description": "636 pelabuhan umum (port) di Indonesia dari Kementerian Perhubungan, snapshot 2021-08-20 dari simpel.dephub.go.id. Setiap record berisi kode pelabuhan, nama, lokasi kabupaten/kota, unit kerja pengelola (KSOP/KUPP/UPP), alamat kantor, dan provinsi (inferensi dari alamat).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 636,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "AAT",
+      "nama_pelabuhan": "Adaut",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "AAU",
+      "nama_pelabuhan": "Atapupu",
+      "lokasi_kabupaten_kota": "BELU",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ABA",
+      "nama_pelabuhan": "Air Buaya",
+      "lokasi_kabupaten_kota": "BURU",
+      "unit_kerja": "KUPP KELAS II NAMLEA",
+      "alamat_kantor": "Jl.Dermaga Pelabuhan Namlea Kabupaten Buru Maluku 97571",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ABL",
+      "nama_pelabuhan": "Ambalau",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ABS",
+      "nama_pelabuhan": "Air Bangis",
+      "lokasi_kabupaten_kota": "PASAMAN BARAT",
+      "unit_kerja": "KSOP KELAS II TELUK BAYUR",
+      "alamat_kantor": "Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "AEA",
+      "nama_pelabuhan": "Probolinggo",
+      "lokasi_kabupaten_kota": "PROBOLINGGO",
+      "unit_kerja": "KSOP KELAS IV PROBOLINGGO",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "AGS",
+      "nama_pelabuhan": "Agats",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "AGU",
+      "nama_pelabuhan": "Awerange/Barru",
+      "lokasi_kabupaten_kota": "LUWU TIMUR",
+      "unit_kerja": "UPP KELAS III AWARENGE/BARRU",
+      "alamat_kantor": "Jl. Pelabuhan No.57 Awarenge Kab. Barru Sulawesi Selatan 90752",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "kode_pelabuhan": "AHI",
+      "nama_pelabuhan": "Amahai",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ALO",
+      "nama_pelabuhan": "Anyer Lor",
+      "lokasi_kabupaten_kota": "SERANG",
+      "unit_kerja": "KUPP KELAS III ANYER LOR",
+      "alamat_kantor": "SERANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "AMA",
+      "nama_pelabuhan": "Amamapare",
+      "lokasi_kabupaten_kota": "MIMIKA",
+      "unit_kerja": "KUPP KELAS II AMAMAPARE",
+      "alamat_kantor": "Komp. Pelabuhan Amamapare Timika Papua 99900",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "AMP",
+      "nama_pelabuhan": "Ampenan",
+      "lokasi_kabupaten_kota": "LOMBOK BARAT",
+      "unit_kerja": "KUPP KELAS III PAMENANG/TANJUNG",
+      "alamat_kantor": "LOMBOK BARAT",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "AMQ",
+      "nama_pelabuhan": "Ambon",
+      "lokasi_kabupaten_kota": "KOTA AMBON",
+      "unit_kerja": "KSOP KELAS I AMBON",
+      "alamat_kantor": "Jl.Yos Komp.Pelabuhan Ambon Maluku 97126",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ANS",
+      "nama_pelabuhan": "Ansus",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "APN",
+      "nama_pelabuhan": "Ampana",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "APU",
+      "nama_pelabuhan": "Pasapuat",
+      "lokasi_kabupaten_kota": "KEPULAUAN MENTAWAI",
+      "unit_kerja": "KUPP KELAS III SIKAKAP",
+      "alamat_kantor": "MENTAWAI",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ARE",
+      "nama_pelabuhan": "Pare-Pare",
+      "lokasi_kabupaten_kota": "KOTA PARE-PARE",
+      "unit_kerja": "KSOP KELAS III PARE-PARE",
+      "alamat_kantor": "Jl.Tarakan; Komplek Pelabuhan Cappa Ujung Parepare Sulawesi Selatan 91112",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "kode_pelabuhan": "ASG",
+      "nama_pelabuhan": "Arwala / Sutilarang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ASI",
+      "nama_pelabuhan": "Asiki",
+      "lokasi_kabupaten_kota": "BOVEN DIGUL",
+      "unit_kerja": "KSOP KELAS IV MERAUKE",
+      "alamat_kantor": "Jl. Sabang No. 312 Merauke - Papua 99613",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ASM",
+      "nama_pelabuhan": "Mangga Dua",
+      "lokasi_kabupaten_kota": "KOTA TERNATE",
+      "unit_kerja": "KSOP KELAS II TERNATE",
+      "alamat_kantor": "Jl. Jend. Ahmad Yani Kompleks Pelabuhan Ahmad Yani Ternate Maluku Utara 97724",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "ASO",
+      "nama_pelabuhan": "Pasokan",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ATY",
+      "nama_pelabuhan": "Atsy",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "AUG",
+      "nama_pelabuhan": "Amurang",
+      "lokasi_kabupaten_kota": "MINAHASA SELATAN",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "AYU",
+      "nama_pelabuhan": "Pasangkayu",
+      "lokasi_kabupaten_kota": "MAMUJU UTARA",
+      "unit_kerja": "KUPP KELAS III BELANG-BELANG",
+      "alamat_kantor": "Jl. Pelabuhan Sumatera No. 3 Belang-belang Sulbar 91561",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BAA",
+      "nama_pelabuhan": "Baranusa",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KUPP KELAS III BARANUSA",
+      "alamat_kantor": "Jl.Komp. Pelabuhan Baranusa Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BAD",
+      "nama_pelabuhan": "Badas",
+      "lokasi_kabupaten_kota": "SUMBAWA",
+      "unit_kerja": "KSOP KELAS IV BADAS",
+      "alamat_kantor": "Jl. Raya Pelabuhan Badas Sumbawa Besar Nusa Tenggara Barat 84351",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "BAE",
+      "nama_pelabuhan": "Bajoe",
+      "lokasi_kabupaten_kota": "BONE",
+      "unit_kerja": "KUPP KELAS II BAJOE",
+      "alamat_kantor": "Jl. Pelabuhan No.21 Bajoe Kab. Bone Sulsel 92781 Telp. 0481-21436; Fax. 0481-2911962 upp.bajoe@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BAG",
+      "nama_pelabuhan": "Baing",
+      "lokasi_kabupaten_kota": "SUMBA TIMUR",
+      "unit_kerja": "KSOP KELAS IV WAINGAPU",
+      "alamat_kantor": "Jl. Nangamesi No. 11 Waingapu Nusa Tenggara Timur 87110",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BAT",
+      "nama_pelabuhan": "Bataka",
+      "lokasi_kabupaten_kota": "HALMAHERA BARAT",
+      "unit_kerja": "KUPP KELAS III JAILOLO",
+      "alamat_kantor": "Jl. Pelabuhan jailolo Kab. Halmahera Barat; Maluku Utara 97752",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "BBE",
+      "nama_pelabuhan": "Bulukumba/Lappe'e",
+      "lokasi_kabupaten_kota": "BULUKUMBA",
+      "unit_kerja": "KUPP KELAS II BULUKUMBA",
+      "alamat_kantor": "Jl. Pelabuhan Leppe'e No. 1 Bulu Kumba Sulsel 92511",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BBG",
+      "nama_pelabuhan": "Babang",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BBI",
+      "nama_pelabuhan": "Banabungi Pasarwajo",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BBM",
+      "nama_pelabuhan": "Bau-Bau/Murhum",
+      "lokasi_kabupaten_kota": "KOTA BAU-BAU",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BBN",
+      "nama_pelabuhan": "Bumbulan",
+      "lokasi_kabupaten_kota": "POHUWATO",
+      "unit_kerja": "UPP KELAS III TILAMUTA",
+      "alamat_kantor": "Jl. Pelabuhan No. 106 Kec. Tilamuta Kab. Boalemo Gorontalo 96263",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "BBU",
+      "nama_pelabuhan": "Biu",
+      "lokasi_kabupaten_kota": "SABU RAIJUA",
+      "unit_kerja": "KUPP KELAS III SEBA",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BCI",
+      "nama_pelabuhan": "Bicoli",
+      "lokasi_kabupaten_kota": "HALMAHERA TIMUR",
+      "unit_kerja": "KUPP KELAS III BULI",
+      "alamat_kantor": "Jl;. Pelabuhan Buli Kec. Maba Kab. Halmahera Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BDG",
+      "nama_pelabuhan": "Budong-Budong",
+      "lokasi_kabupaten_kota": "MAMUJU",
+      "unit_kerja": "KUPP KELAS III BELANG-BELANG",
+      "alamat_kantor": "Jl. Pelabuhan Sumatera No. 3 Belang-belang Sulbar 91561",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BDJ",
+      "nama_pelabuhan": "Banjarmasin",
+      "lokasi_kabupaten_kota": "KOTA BANJARMASIN",
+      "unit_kerja": "KSOP KELAS I BANJARMASIN",
+      "alamat_kantor": "Jl. Duyung Raya Komp. Lumba-lumba No. 45 Banjarmasin Kalimantan Selatan 70119",
+      "provinsi": "Kalimantan Selatan"
+    },
+    {
+      "kode_pelabuhan": "BEE",
+      "nama_pelabuhan": "Bere - Bere",
+      "lokasi_kabupaten_kota": "PULAU MOROTAI",
+      "unit_kerja": "KUPP KELAS III DARUBA",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Imam Lastori Kab. Pulau Morotai Prov. Malut 97771",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BEL",
+      "nama_pelabuhan": "Belang-Belang",
+      "lokasi_kabupaten_kota": "MAMUJU",
+      "unit_kerja": "KUPP KELAS III BELANG-BELANG",
+      "alamat_kantor": "Jl. Pelabuhan Sumatera No. 3 Belang-belang Sulbar 91561",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BEN",
+      "nama_pelabuhan": "Benete",
+      "lokasi_kabupaten_kota": "SUMBAWA BARAT",
+      "unit_kerja": "KUPP KELAS II BENETE",
+      "alamat_kantor": "Jl. Pelabuhan Benete Kec.Maluku Kab. Sumbawa Barat Nusa Tenggara Barat 84357",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "BEO",
+      "nama_pelabuhan": "Beo",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BGA",
+      "nama_pelabuhan": "Bojonegara",
+      "lokasi_kabupaten_kota": "SERANG",
+      "unit_kerja": "KUPP KELAS III BOJONEGARA",
+      "alamat_kantor": "SERANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BGG",
+      "nama_pelabuhan": "Banggai",
+      "lokasi_kabupaten_kota": "BANGGAI KEPULAUAN",
+      "unit_kerja": "KUPP KELAS II BANGGAI",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Banggai Kab. Banggai Kepulauan Sulteng 94791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BGN",
+      "nama_pelabuhan": "Bantaeng",
+      "lokasi_kabupaten_kota": "JENEPONTO",
+      "unit_kerja": "KUPP KELAS III JENEPONTO",
+      "alamat_kantor": "Jl. Dermaga Desa Bungeng Kec. Batang Kab. Jeneponto Sulsel 92361",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BHS",
+      "nama_pelabuhan": "Buhias",
+      "lokasi_kabupaten_kota": "SITARO",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BIG",
+      "nama_pelabuhan": "Bastiong",
+      "lokasi_kabupaten_kota": "KOTA TERNATE",
+      "unit_kerja": "KSOP KELAS II TERNATE",
+      "alamat_kantor": "Jl. Jend. Ahmad Yani Kompleks Pelabuhan Ahmad Yani Ternate Maluku Utara 97724",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "BIK",
+      "nama_pelabuhan": "Biak",
+      "lokasi_kabupaten_kota": "BIAK NUMFOR",
+      "unit_kerja": "KSOP KELAS III BIAK",
+      "alamat_kantor": "Jl.Jendral Sudirman No. 53 Biak Papua 98115",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "BIT",
+      "nama_pelabuhan": "Bitung",
+      "lokasi_kabupaten_kota": "KOTA BITUNG",
+      "unit_kerja": "KSOP KELAS II BITUNG",
+      "alamat_kantor": "Jl. Ir. Soekarno No. 4 Bitung Sulawesi Utara 95225",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BJU",
+      "nama_pelabuhan": "Tanjung Wangi",
+      "lokasi_kabupaten_kota": "BANYUWANGI",
+      "unit_kerja": "KSOP MENENG/TANJUNG WANGI",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BKE",
+      "nama_pelabuhan": "Bukide",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BKI",
+      "nama_pelabuhan": "Bengkalis",
+      "lokasi_kabupaten_kota": "BENGKALIS",
+      "unit_kerja": "KSOP KELAS IV BENGKALIS",
+      "alamat_kantor": "Jl. A. Yani No. 5 Rt. 01/Rw. 01 Bengkalis - Riau 28712",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "BKS",
+      "nama_pelabuhan": "Pulau Baai",
+      "lokasi_kabupaten_kota": "BENGKULU",
+      "unit_kerja": "KSOP KELAS III PULAU BAAI",
+      "alamat_kantor": "Jl. Ir. Rustandi Sugianto Pulau Baai Bengkulu 38216",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "BLA",
+      "nama_pelabuhan": "Bula",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BLG",
+      "nama_pelabuhan": "Belang",
+      "lokasi_kabupaten_kota": "MINAHASA TENGGARA",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "BLT",
+      "nama_pelabuhan": "Manggar",
+      "lokasi_kabupaten_kota": "BELITUNG TIMUR",
+      "unit_kerja": "KUPP KELAS III MANGGAR",
+      "alamat_kantor": "Jl. Jend. Sudirman No. 74 Rt.27",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BLU",
+      "nama_pelabuhan": "Belinyu",
+      "lokasi_kabupaten_kota": "BANGKA",
+      "unit_kerja": "KSOP KELAS IV PANGKAL BALAM",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BLW",
+      "nama_pelabuhan": "Belawan",
+      "lokasi_kabupaten_kota": "KOTA MEDAN",
+      "unit_kerja": "OP UTAMA BELAWAN",
+      "alamat_kantor": "JL. Suar No. 1 Pelabuhan Belawan Medan; Sumut - 20411",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BLY",
+      "nama_pelabuhan": "Buli",
+      "lokasi_kabupaten_kota": "HALMAHERA TIMUR",
+      "unit_kerja": "KUPP KELAS III BULI",
+      "alamat_kantor": "Jl;. Pelabuhan Buli Kec. Maba Kab. Halmahera Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BMU",
+      "nama_pelabuhan": "Bima",
+      "lokasi_kabupaten_kota": "BIMA",
+      "unit_kerja": "KSOP KELAS IV BIMA",
+      "alamat_kantor": "Jl. Martadinata No. 1 Bima - Nusa Tenggara Barat 84114",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "BNA",
+      "nama_pelabuhan": "Benjina",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BNO",
+      "nama_pelabuhan": "Banemo",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BNQ",
+      "nama_pelabuhan": "Brondong",
+      "lokasi_kabupaten_kota": "LAMONGAN",
+      "unit_kerja": "UPP KELAS III BRONDONG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sedayulawas Kec. Brondong Lamongan; Jawa Timur - 662814",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "BNU",
+      "nama_pelabuhan": "Bungku",
+      "lokasi_kabupaten_kota": "MOROWALI",
+      "unit_kerja": "UPP KELAS III KOLONEDALE",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kolonedale Sulteng 94671",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BOA",
+      "nama_pelabuhan": "Benoa",
+      "lokasi_kabupaten_kota": "KOTA DENPASAR",
+      "unit_kerja": "KSOP KELAS II BENOA",
+      "alamat_kantor": "Jl. Raya Pelabuhan Benoa; Denpasar Bali 80223",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "BOK",
+      "nama_pelabuhan": "Binongko",
+      "lokasi_kabupaten_kota": "KOTA BAU-BAU",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BOR",
+      "nama_pelabuhan": "Bonerate",
+      "lokasi_kabupaten_kota": "LUWU UTARA",
+      "unit_kerja": "KUPP KELAS III JAMPEA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Benteng Jampea Sulsel",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BPA",
+      "nama_pelabuhan": "Batu Panjang",
+      "lokasi_kabupaten_kota": "BENGKALIS",
+      "unit_kerja": "KUPP KELAS III BATU PANJANG",
+      "alamat_kantor": "BENGKALIS",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BPN",
+      "nama_pelabuhan": "Balikpapan",
+      "lokasi_kabupaten_kota": "KOTA BALIKPAPAN",
+      "unit_kerja": "KSOP KELAS I BALIKPAPAN",
+      "alamat_kantor": "Jl. Yos Sudarso No. 1 Balikpapan Kalimantan Timur 76111",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "BRE",
+      "nama_pelabuhan": "Brebes",
+      "lokasi_kabupaten_kota": "BREBES",
+      "unit_kerja": "KUPP KELAS III BREBES",
+      "alamat_kantor": "BREBES",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BRG",
+      "nama_pelabuhan": "Balauring",
+      "lokasi_kabupaten_kota": "LEMBATA",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BRO",
+      "nama_pelabuhan": "Baa",
+      "lokasi_kabupaten_kota": "ROTENDAO",
+      "unit_kerja": "KUPP KELAS III BAA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Ba'a - Rote NTT",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BRS",
+      "nama_pelabuhan": "Barus",
+      "lokasi_kabupaten_kota": "TAPANULI TENGAH",
+      "unit_kerja": "KUPP KELAS III BARUS",
+      "alamat_kantor": "Jl. Yos Sudarso No. 02 Kel. Pasar Batu Grigis Barus; Kab. Tapanuli Tengah Sumatera Utara 22564",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "BSI",
+      "nama_pelabuhan": "Bisui",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BSO",
+      "nama_pelabuhan": "Biringkasi",
+      "lokasi_kabupaten_kota": "PANGKAJENE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS II MACCINI BAJI",
+      "alamat_kantor": "Jl. Pelabuhan BiringKasie Pengkeb Sulsel 90651",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BTA",
+      "nama_pelabuhan": "Batutua",
+      "lokasi_kabupaten_kota": "ROTENDAO",
+      "unit_kerja": "KUPP KELAS III BAA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Ba'a - Rote NTT",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BTG",
+      "nama_pelabuhan": "Batang",
+      "lokasi_kabupaten_kota": "BATANG",
+      "unit_kerja": "KUPP KELAS III BATANG",
+      "alamat_kantor": "BATANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BTS",
+      "nama_pelabuhan": "Batu Atas",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BTU",
+      "nama_pelabuhan": "Binanatu",
+      "lokasi_kabupaten_kota": "SUMBA BARAT",
+      "unit_kerja": "KUPP KELAS III WAIKELO",
+      "alamat_kantor": "Jl. Waikelo Kec. Luara Kab. Sumba Barat Waikelo; Nusa Tenggara Timur - 87254",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BUB",
+      "nama_pelabuhan": "Baturube",
+      "lokasi_kabupaten_kota": "MOROWALI",
+      "unit_kerja": "UPP KELAS III KOLONEDALE",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kolonedale Sulteng 94671",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BUD",
+      "nama_pelabuhan": "Bunta",
+      "lokasi_kabupaten_kota": "BANGGAI",
+      "unit_kerja": "KUPP KELAS III BUNTA",
+      "alamat_kantor": "Jl. RA. Kartini No. 42 Bunta Sulteng 94753",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BUG",
+      "nama_pelabuhan": "Sangsit",
+      "lokasi_kabupaten_kota": "BULELENG",
+      "unit_kerja": "KUPP KELAS III BULELENG",
+      "alamat_kantor": "Jl. Pabean Sangsit Singaraja Buleleng; Bali - 81171",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "BUH",
+      "nama_pelabuhan": "Batu Merah",
+      "lokasi_kabupaten_kota": "KOTA AMBON",
+      "unit_kerja": "KSOP KELAS I AMBON",
+      "alamat_kantor": "Jl.Yos Komp.Pelabuhan Ambon Maluku 97126",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BUM",
+      "nama_pelabuhan": "Batu Enam",
+      "lokasi_kabupaten_kota": "ROKAN HILIR",
+      "unit_kerja": "KUPP KELAS III SINABOI",
+      "alamat_kantor": "BENGKALIS",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BUR",
+      "nama_pelabuhan": "Batam/Batu Ampar",
+      "lokasi_kabupaten_kota": "KOTA BATAM",
+      "unit_kerja": "KSOP KELAS III BATAM (KANPEL BATAM)",
+      "alamat_kantor": "Batam",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BUS",
+      "nama_pelabuhan": "Busua",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BUT",
+      "nama_pelabuhan": "Tanjung Buton",
+      "lokasi_kabupaten_kota": "SIAK",
+      "unit_kerja": "KSOP KELAS III SUNGAI PAKNING",
+      "alamat_kantor": "bengkalis",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "BWB",
+      "nama_pelabuhan": "Banyu Wangi/ Boom",
+      "lokasi_kabupaten_kota": "BANYUWANGI",
+      "unit_kerja": "KUPP KELAS III KETAPANG",
+      "alamat_kantor": "Jl. Jend. Gatot Subroto No. 2 Komplek Pelabuhan LCM Ketapang Banyuwangi Jawa Timur - 68401",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "BWN",
+      "nama_pelabuhan": "Bawean",
+      "lokasi_kabupaten_kota": "GRESIK",
+      "unit_kerja": "KUPP KELAS III SANGKAPURA/BAWEAN",
+      "alamat_kantor": "Jl Beringinan No. 1 Sangka Pura Jawa Timur 61181",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "BXD",
+      "nama_pelabuhan": "Bade",
+      "lokasi_kabupaten_kota": "MAPPI",
+      "unit_kerja": "KUPP KELAS III BADE",
+      "alamat_kantor": "Jl. Pelita No. 32 Distrik Edera; Bade Kab. Mappi-Papua 99653",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "BYG",
+      "nama_pelabuhan": "Batu Goyang",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BYK",
+      "nama_pelabuhan": "Pulau Banyak",
+      "lokasi_kabupaten_kota": "ACEH SINGKIL",
+      "unit_kerja": "KUPP KELAS III SINGKIL",
+      "alamat_kantor": "Jl. Utama No. 20 Pulo Sarok Singkil; Kab. Aceh Singkil 24785",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "BYN",
+      "nama_pelabuhan": "Bayun",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "BYQ",
+      "nama_pelabuhan": "Bunyu",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KUPP KELAS III PULAU BUNYU",
+      "alamat_kantor": "Jl. Dermaga No. 2 Pulau Bunyu Kec. Bunyu Kab. Bulungan; Kalimantan Utara 77181",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "kode_pelabuhan": "CBN",
+      "nama_pelabuhan": "Cirebon",
+      "lokasi_kabupaten_kota": "CIREBON",
+      "unit_kerja": "KSOP KELAS II CIREBON",
+      "alamat_kantor": "Jl. Donggala No. 3 Cirebon Jawa Barat 45112",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "kode_pelabuhan": "CEB",
+      "nama_pelabuhan": "Celukan Bawang",
+      "lokasi_kabupaten_kota": "BULELENG",
+      "unit_kerja": "KSOP KELAS IV CELUKAN BAWANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 36 Celukan Bawang Bali 81155",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "CLG",
+      "nama_pelabuhan": "Calang",
+      "lokasi_kabupaten_kota": "ACEH JAYA",
+      "unit_kerja": "KUPP KELAS III CALANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 9 Calang Kab Aceh Java Nanggroe Aceh Darussalam 23654 Telp.0654-2210219; Fax. 0654-7000890 Email : upp.calang@gmail.com / uppcalang@dephub.go.id",
+      "provinsi": "Nanggroe Aceh Darussalam"
+    },
+    {
+      "kode_pelabuhan": "CLI",
+      "nama_pelabuhan": "Calabai",
+      "lokasi_kabupaten_kota": "DOMPU",
+      "unit_kerja": "KUPP KELAS III CALABAI",
+      "alamat_kantor": "Jl. Raya Pelabuhan Calabahi; Kab. Dompu PO.BOX. 123 Dompu Nusa Tenggara Barat 84200",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "CON",
+      "nama_pelabuhan": "Carocok Painan",
+      "lokasi_kabupaten_kota": "PESISIR SELATAN",
+      "unit_kerja": "KSOP KELAS II TELUK BAYUR",
+      "alamat_kantor": "Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "CRI",
+      "nama_pelabuhan": "Carik",
+      "lokasi_kabupaten_kota": "LOMBOK UTARA",
+      "unit_kerja": "KUPP KELAS II PEMENANG/ TANJUNG",
+      "alamat_kantor": "Jl. Pariwisata Gili Indah Pemenang Kab. Lombok Utara; Pemenang NTB 83352",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "CTS",
+      "nama_pelabuhan": "Cituis",
+      "lokasi_kabupaten_kota": "TANGERANG",
+      "unit_kerja": "KUPP KELAS III KARANGANTU",
+      "alamat_kantor": "SERANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "CXP",
+      "nama_pelabuhan": "Cilacap",
+      "lokasi_kabupaten_kota": "CILACAP",
+      "unit_kerja": "KSOP KELAS II CILACAP",
+      "alamat_kantor": "Jl. Niaga No. 9 Cilacap Jawa Tengah 53213",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "kode_pelabuhan": "DAA",
+      "nama_pelabuhan": "Dama",
+      "lokasi_kabupaten_kota": "HALMAHERA UTARA",
+      "unit_kerja": "KUPP KELAS I TOBELO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Tobelo Kab. Halmahera Utara Prov. Maluku Utara",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "DAI",
+      "nama_pelabuhan": "Dawai",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "DAN",
+      "nama_pelabuhan": "Sukadana",
+      "lokasi_kabupaten_kota": "KOTA SINGKAWANG",
+      "unit_kerja": "KUPP KELAS III TELUK MELANO",
+      "alamat_kantor": "Jl. Gusti Aplos No. 93 Rt.8/Rw;III Kalbar 78853",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "DAR",
+      "nama_pelabuhan": "Dawera/Dawelor",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "DAS",
+      "nama_pelabuhan": "Dabo Singkep",
+      "lokasi_kabupaten_kota": "LINGGA",
+      "unit_kerja": "KUPP KELAS III DABO SINGKEP",
+      "alamat_kantor": "DABO SINGKEP - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "DJJ",
+      "nama_pelabuhan": "Jayapura",
+      "lokasi_kabupaten_kota": "JAYAPURA",
+      "unit_kerja": "KSOP KELAS II JAYAPURA",
+      "alamat_kantor": "JL.Koti No;9 Jayapura 99221",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "DMK",
+      "nama_pelabuhan": "Dompak",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS II TANJUNG PINANG",
+      "alamat_kantor": "Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "DMR",
+      "nama_pelabuhan": "Damar",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "DNA",
+      "nama_pelabuhan": "Teluk Palu",
+      "lokasi_kabupaten_kota": "DONGGALA",
+      "unit_kerja": "KSOP KELAS II TELUK PALUXXXXX",
+      "alamat_kantor": "Jl. Mutiara No.4 Donggala",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "DOB",
+      "nama_pelabuhan": "Dobo",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "DOF",
+      "nama_pelabuhan": "Dofa",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "DOU",
+      "nama_pelabuhan": "Dorosagu",
+      "lokasi_kabupaten_kota": "HALMAHERA TIMUR",
+      "unit_kerja": "KUPP KELAS III BULI",
+      "alamat_kantor": "Jl;. Pelabuhan Buli Kec. Maba Kab. Halmahera Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "DPE",
+      "nama_pelabuhan": "Depapre",
+      "lokasi_kabupaten_kota": "JAYAPURA",
+      "unit_kerja": "KSOP KELAS II JAYAPURA",
+      "alamat_kantor": "JL.Koti No;9 Jayapura 99221",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "DPN",
+      "nama_pelabuhan": "Dapalan",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "DRA",
+      "nama_pelabuhan": "Daruba",
+      "lokasi_kabupaten_kota": "PULAU MOROTAI",
+      "unit_kerja": "KUPP KELAS III DARUBA",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Imam Lastori Kab. Pulau Morotai Prov. Malut 97771",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "DRE",
+      "nama_pelabuhan": "Darume",
+      "lokasi_kabupaten_kota": "HALMAHERA UTARA",
+      "unit_kerja": "KUPP KELAS I TOBELO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Tobelo Kab. Halmahera Utara Prov. Maluku Utara",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "DUM",
+      "nama_pelabuhan": "Dumai",
+      "lokasi_kabupaten_kota": "KOTA DUMAI",
+      "unit_kerja": "KSOP KELAS I DUMAI",
+      "alamat_kantor": "Jl. Yos Sudarso No. 9 Dumai Riau 28814",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "DWD",
+      "nama_pelabuhan": "Dawi-dawi",
+      "lokasi_kabupaten_kota": "KOLAKA",
+      "unit_kerja": "KUPP KELAS III POMALAA",
+      "alamat_kantor": "Jl.Protokol No1 Pomala; Kab. Kolaka Prov. Sulawesi Tenggara 93562 (0405) 310241",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "EEI",
+      "nama_pelabuhan": "Eci",
+      "lokasi_kabupaten_kota": "MAPPI",
+      "unit_kerja": "KUPP KELAS III BADE",
+      "alamat_kantor": "Jl. Pelita No. 32 Distrik Edera; Bade Kab. Mappi-Papua 99653",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "EGU",
+      "nama_pelabuhan": "Segun",
+      "lokasi_kabupaten_kota": "SORONG SELATAN",
+      "unit_kerja": "KUPP KELAS III TAMINABUAN",
+      "alamat_kantor": "Jl. Pelabuhan Teminibuan Kab. Sorang Selatan Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "ELT",
+      "nama_pelabuhan": "Elat",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ENE",
+      "nama_pelabuhan": "Ende",
+      "lokasi_kabupaten_kota": "ENDE",
+      "unit_kerja": "KSOP KELAS IV ENDE",
+      "alamat_kantor": "Jl. Adi Sucipto Ippi Ende NTT 86316",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ENO",
+      "nama_pelabuhan": "Kuala Enok",
+      "lokasi_kabupaten_kota": "INDRAGIRI HILIR",
+      "unit_kerja": "KSOP KELAS IV KUALA ENOK",
+      "alamat_kantor": "riau",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "ERE",
+      "nama_pelabuhan": "Ereke",
+      "lokasi_kabupaten_kota": "BUTON UTARA",
+      "unit_kerja": "KUPP KELAS II RAHA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Raha Sulawesi Tenggara 93611",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "ERY",
+      "nama_pelabuhan": "Eray",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ESG",
+      "nama_pelabuhan": "Essang",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "FAI",
+      "nama_pelabuhan": "Fani",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "FKQ",
+      "nama_pelabuhan": "Fak-fak",
+      "lokasi_kabupaten_kota": "FAKFAK",
+      "unit_kerja": "KSOP KELAS V FAK-FAK",
+      "alamat_kantor": "Jl.Izak Telussa No.1 Fak Fak Papua Barat 98611",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "FOI",
+      "nama_pelabuhan": "Fogi",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "FTA",
+      "nama_pelabuhan": "Falabisahaya",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "GEG",
+      "nama_pelabuhan": "Giliketapang",
+      "lokasi_kabupaten_kota": "PROBOLINGGO",
+      "unit_kerja": "KSOP KELAS IV PROBOLINGGO",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "GER",
+      "nama_pelabuhan": "Geser",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "GGR",
+      "nama_pelabuhan": "Galesong",
+      "lokasi_kabupaten_kota": "JENEPONTO",
+      "unit_kerja": "KUPP KELAS III JENEPONTO",
+      "alamat_kantor": "Jl. Dermaga Desa Bungeng Kec. Batang Kab. Jeneponto Sulsel 92361",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "GIL",
+      "nama_pelabuhan": "Gilimanuk",
+      "lokasi_kabupaten_kota": "JEMBRANA",
+      "unit_kerja": "KUPP KELAS II GILIMANUK",
+      "alamat_kantor": "Jl. Parkir Manauver No. 5 Gilimanuk Kab. Jembrana; Bali - 82253",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "GLX",
+      "nama_pelabuhan": "Galela",
+      "lokasi_kabupaten_kota": "HALMAHERA UTARA",
+      "unit_kerja": "KUPP KELAS I TOBELO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Tobelo Kab. Halmahera Utara Prov. Maluku Utara",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "GMM",
+      "nama_pelabuhan": "Manu/Gamumu",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "GMR",
+      "nama_pelabuhan": "Gorom",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "GNG",
+      "nama_pelabuhan": "Garongkong",
+      "lokasi_kabupaten_kota": "BARRU",
+      "unit_kerja": "UPP KELAS III AWARENGE/BARRU",
+      "alamat_kantor": "Jl. Pelabuhan No.57 Awarenge Kab. Barru Sulawesi Selatan 90752",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "kode_pelabuhan": "GNN",
+      "nama_pelabuhan": "Glimandangin",
+      "lokasi_kabupaten_kota": "SAMPANG",
+      "unit_kerja": "UPP KELAS II BRANTA",
+      "alamat_kantor": "Jl. Pelabuhan Branta No. 1; Tlanakan Pamekasan - 69371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "GNS",
+      "nama_pelabuhan": "Gunung Sitoli",
+      "lokasi_kabupaten_kota": "KOTA GUNUNGSITOLI",
+      "unit_kerja": "KSOP KELAS IV SITOLI",
+      "alamat_kantor": "Jl. Yos Sudarso No. 194 Km. 2 Pelabuhan Angin Gunung Sitoli Sumatera Utara 22812",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "GRE",
+      "nama_pelabuhan": "Gresik",
+      "lokasi_kabupaten_kota": "GRESIK",
+      "unit_kerja": "KSOP KELAS II GRESIK",
+      "alamat_kantor": "Jl. Yos Sudarso No. 36 Gresik Jawa Timur 61114",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "GRY",
+      "nama_pelabuhan": "Talaga Raya",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "GTO",
+      "nama_pelabuhan": "Gorontalo",
+      "lokasi_kabupaten_kota": "GORONTALO",
+      "unit_kerja": "KSOP KELAS III GORONTALO",
+      "alamat_kantor": "Jl.Manyor Dullah Kota Gorontalo .Gorontalo 96118",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "HUU",
+      "nama_pelabuhan": "Hatu Piru",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IAU",
+      "nama_pelabuhan": "amahaii",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IBG",
+      "nama_pelabuhan": "Boipinang",
+      "lokasi_kabupaten_kota": "KOLAKA",
+      "unit_kerja": "KUPP KELAS III POMALAA",
+      "alamat_kantor": "Jl.Protokol No1 Pomala; Kab. Kolaka Prov. Sulawesi Tenggara 93562 (0405) 310241",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "IBI",
+      "nama_pelabuhan": "Bagan siapi-api",
+      "lokasi_kabupaten_kota": "ROKAN HILIR",
+      "unit_kerja": "KSOP KELAS IV BAGAN SIAPI-API",
+      "alamat_kantor": "Jl. Syahbandar No. 4/B Bagan Siapiapi Telp. 0767-21264; Fax. 0767-23150 adpelbagansiapiapi@yahoo.com",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IBJ",
+      "nama_pelabuhan": "Bintuhan/Linau",
+      "lokasi_kabupaten_kota": "KAUR",
+      "unit_kerja": "KUPP KELAS II LINAU/BINTUHAN",
+      "alamat_kantor": "Jl. Pelabuhan Linau Bintuhan Kab. Kaur Bengkulu 38565",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "IBL",
+      "nama_pelabuhan": "Buano",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IBM",
+      "nama_pelabuhan": "Batanjung",
+      "lokasi_kabupaten_kota": "KAPUAS",
+      "unit_kerja": "KSOP KELAS IV PULANG PISAU",
+      "alamat_kantor": "Jl. Samudera No. 137 Rt. XIII Pulang Pisau Kalimantan Tengah 73561",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "IBP",
+      "nama_pelabuhan": "Banten/Cigading",
+      "lokasi_kabupaten_kota": "KOTA CILEGON",
+      "unit_kerja": "KSOP KELAS I BANTEN",
+      "alamat_kantor": "Jl. Yos Sudarso No. 120 Merak Banten 42438",
+      "provinsi": "Banten"
+    },
+    {
+      "kode_pelabuhan": "IBQ",
+      "nama_pelabuhan": "Bemo",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IBS",
+      "nama_pelabuhan": "Biaro",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IBX",
+      "nama_pelabuhan": "Bagan Asahan",
+      "lokasi_kabupaten_kota": "ASAHAN",
+      "unit_kerja": "KSOP KELAS IV TANJUNG BALAI ASAHAN",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Nibung 21351",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IGY",
+      "nama_pelabuhan": "Gudang Arang",
+      "lokasi_kabupaten_kota": "KOTA AMBON",
+      "unit_kerja": "KSOP KELAS I AMBON",
+      "alamat_kantor": "Jl.Yos Komp.Pelabuhan Ambon Maluku 97126",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IIA",
+      "nama_pelabuhan": "Indari",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IIH",
+      "nama_pelabuhan": "Bulaa",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "III",
+      "nama_pelabuhan": "Idi",
+      "lokasi_kabupaten_kota": "ACEH TIMUR",
+      "unit_kerja": "KUPP KELAS III IDI",
+      "alamat_kantor": "Jl.Petua Husen Komp. Pelabuhan No.1 Kec Idie Rayeuk Kab Aceh Timur 24454",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "IKD",
+      "nama_pelabuhan": "Kotabunan",
+      "lokasi_kabupaten_kota": "BOLAANG MONGONDO",
+      "unit_kerja": "KUPP KELAS III KOTABUNAN",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Kotabaru Kec. Kotabunan Kab. Bomlang Kotabunan Sulut 95782",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IKL",
+      "nama_pelabuhan": "Ketapang",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III KETAPANG",
+      "alamat_kantor": "Jl. Jend. Gatot Subroto No. 2 Komplek Pelabuhan LCM Ketapang Banyuwangi Jawa Timur - 68401",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "IKR",
+      "nama_pelabuhan": "Kepulauan Seribu",
+      "lokasi_kabupaten_kota": "KEPULAUAN SERIBU",
+      "unit_kerja": "KSOP KELAS IV KEPULAUAN SERIBU",
+      "alamat_kantor": "jakarta",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "IKU",
+      "nama_pelabuhan": "Korido",
+      "lokasi_kabupaten_kota": "BIAK NUMFOR",
+      "unit_kerja": "KUPP KELAS III KORIDO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Korido Supiori Selatan",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ILT",
+      "nama_pelabuhan": "lamakera",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "IMC",
+      "nama_pelabuhan": "Mangoli",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "IME",
+      "nama_pelabuhan": "Muara Siberut/Simailepet",
+      "lokasi_kabupaten_kota": "KEPULAUAN MENTAWAI",
+      "unit_kerja": "KUPP KELAS III MUARA SIBERUT",
+      "alamat_kantor": "Kepulauan Mentawai-Sumatera Barat",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "IMG",
+      "nama_pelabuhan": "Mantangisi",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IMH",
+      "nama_pelabuhan": "Melonguane",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "IML",
+      "nama_pelabuhan": "Maloy",
+      "lokasi_kabupaten_kota": "KUTAI TIMUR",
+      "unit_kerja": "KUPP KELAS II SANGATTA",
+      "alamat_kantor": "Jl. Pelabuhan No ;6 Sangatta .Kab .Kutai Timur Kaliamntan Timur 75612",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IMM",
+      "nama_pelabuhan": "Munte/Luwu Utara",
+      "lokasi_kabupaten_kota": "LUWU UTARA",
+      "unit_kerja": "KUPP KELAS III MALILI",
+      "alamat_kantor": "Jl. Jend. Sudirman No. 16 Kec. Malili Kab. Luwu Timur Sulsel 91981",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IMS",
+      "nama_pelabuhan": "Mesuji/OKI",
+      "lokasi_kabupaten_kota": "OGAN KOMERING ILIR",
+      "unit_kerja": "KUPP KELAS III SUNGAI LUMPUR",
+      "alamat_kantor": "OGAN KOMERING ILIR",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IMW",
+      "nama_pelabuhan": "Marunda",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KUPP KELAS IV MARUNDA",
+      "alamat_kantor": "Jl. Jayapura No. 1 KBN Marunda Cilincing Jakarta Utara 141210",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "ING",
+      "nama_pelabuhan": "Boom Baru/Palembang",
+      "lokasi_kabupaten_kota": "KOTA PALEMBANG",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "INL",
+      "nama_pelabuhan": "Natal / Sikara-kara",
+      "lokasi_kabupaten_kota": "MANDAILING NATAL",
+      "unit_kerja": "KUPP KELAS III BATAHAN",
+      "alamat_kantor": "Mandailing Natal-Sumatera Utara",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "IPC",
+      "nama_pelabuhan": "Pulau Laut",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "IPI",
+      "nama_pelabuhan": "Ippi",
+      "lokasi_kabupaten_kota": "ENDE",
+      "unit_kerja": "KSOP KELAS IV ENDE",
+      "alamat_kantor": "Jl. Adi Sucipto Ippi Ende NTT 86316",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IPL",
+      "nama_pelabuhan": "Pemalang",
+      "lokasi_kabupaten_kota": "PEKALONGAN",
+      "unit_kerja": "KUPP KELAS II PEKALONGAN",
+      "alamat_kantor": "KOTA PEKALONGAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IPM",
+      "nama_pelabuhan": "Poom",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "IPW",
+      "nama_pelabuhan": "Pawi",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "IPZ",
+      "nama_pelabuhan": "Ambo",
+      "lokasi_kabupaten_kota": "MAMUJU",
+      "unit_kerja": "KUPP KELAS I MAMUJU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 2 Mamuju Kab. Mamuju Sulbar 91511",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IRU",
+      "nama_pelabuhan": "Indramayu",
+      "lokasi_kabupaten_kota": "INDRAMAYU",
+      "unit_kerja": "KUPP KELAS III INDRAMAYU",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ISA",
+      "nama_pelabuhan": "Seba",
+      "lokasi_kabupaten_kota": "SABU RAIJUA",
+      "unit_kerja": "KUPP KELAS III SEBA",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ISG",
+      "nama_pelabuhan": "Sapudi",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III SAPUDI",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Gawam Sapudi Kab. Sumenep Madura Jawa Timur 69483",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "ISK",
+      "nama_pelabuhan": "Sagea",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITF",
+      "nama_pelabuhan": "Tanjung Tiram/Karimun",
+      "lokasi_kabupaten_kota": "KARIMUN",
+      "unit_kerja": "KSOP KELAS I TANJUNG BALAI KARIMUN",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITG",
+      "nama_pelabuhan": "Teor",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ITI",
+      "nama_pelabuhan": "Belitung",
+      "lokasi_kabupaten_kota": "BELITUNG",
+      "unit_kerja": "KSOP KELAS IV TANJUNG PANDAN",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Tanjung Pandan Belitung 33411",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITK",
+      "nama_pelabuhan": "Tobilota",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ITL",
+      "nama_pelabuhan": "tulehuu",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ITM",
+      "nama_pelabuhan": "Tana Paser/Pondong",
+      "lokasi_kabupaten_kota": "PASER",
+      "unit_kerja": "KUPP KELAS II TANAH GROGOT/TANA PASER",
+      "alamat_kantor": "Jl. Negara ;Desa Pondong Kec;Kuaro;Kab Paser Kalimantan Timur 76211",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "ITN",
+      "nama_pelabuhan": "Tanjung Uban / Teluk Sasah",
+      "lokasi_kabupaten_kota": "KEPULAUAN RIAU",
+      "unit_kerja": "KUPP KELAS I TANJUNG UBAN",
+      "alamat_kantor": "KOTA TANJUNG PINANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITO",
+      "nama_pelabuhan": "Tinombo",
+      "lokasi_kabupaten_kota": "PARIGI MOUTONG",
+      "unit_kerja": "KUPP KELAS III PARIGI",
+      "alamat_kantor": "Jl. Pelabuhan Parigi No. 92 Kec. Parigi Kab. Donggala Parigi Palu Sulteng 94371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITP",
+      "nama_pelabuhan": "Tanjung Batu/Kotabaru",
+      "lokasi_kabupaten_kota": "KOTA BANJAR BARU",
+      "unit_kerja": "KUPP KELAS III TANJUNG BATU",
+      "alamat_kantor": "Jl. Pangeran Arga Kusuma No. 2 Kec. Kelumpang Tengah Kab. Kotabaru Tanjung Batu; Kalsel - 72164",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITS",
+      "nama_pelabuhan": "Toyando",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ITV",
+      "nama_pelabuhan": "Taddan",
+      "lokasi_kabupaten_kota": "PAMEKASAN",
+      "unit_kerja": "UPP KELAS II BRANTA",
+      "alamat_kantor": "Jl. Pelabuhan Branta No. 1; Tlanakan Pamekasan - 69371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ITW",
+      "nama_pelabuhan": "Tepeleo/Tapaleo",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IUZ",
+      "nama_pelabuhan": "Ujung Jampea",
+      "lokasi_kabupaten_kota": "KEPULAUAN SELAYAR",
+      "unit_kerja": "KUPP KELAS III JAMPEA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Benteng Jampea Sulsel",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "IWI",
+      "nama_pelabuhan": "Ilwaki",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IWN",
+      "nama_pelabuhan": "Inawatan",
+      "lokasi_kabupaten_kota": "SORONG SELATAN",
+      "unit_kerja": "KUPP KELAS III TAMINABUAN",
+      "alamat_kantor": "Jl. Pelabuhan Teminibuan Kab. Sorang Selatan Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "JAM",
+      "nama_pelabuhan": "Penajam Paser",
+      "lokasi_kabupaten_kota": "KUTAI TIMUR",
+      "unit_kerja": "KUPP KELAS II TANAH GROGOT/TANA PASER",
+      "alamat_kantor": "Jl. Negara ;Desa Pondong Kec;Kuaro;Kab Paser Kalimantan Timur 76211",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "JEO",
+      "nama_pelabuhan": "Jeneponto",
+      "lokasi_kabupaten_kota": "JENEPONTO",
+      "unit_kerja": "KUPP KELAS III JENEPONTO",
+      "alamat_kantor": "Jl. Dermaga Desa Bungeng Kec. Batang Kab. Jeneponto Sulsel 92361",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "JEP",
+      "nama_pelabuhan": "Jepara",
+      "lokasi_kabupaten_kota": "JEPARA",
+      "unit_kerja": "KUPP KELAS II JEPARA",
+      "alamat_kantor": "JEPARA",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "JGN",
+      "nama_pelabuhan": "Yenggarbun",
+      "lokasi_kabupaten_kota": "SUPIORI",
+      "unit_kerja": "KUPP KELAS III KORIDO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Korido Supiori Selatan",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "JIO",
+      "nama_pelabuhan": "Jailolo",
+      "lokasi_kabupaten_kota": "HALMAHERA BARAT",
+      "unit_kerja": "KUPP KELAS III JAILOLO",
+      "alamat_kantor": "Jl. Pelabuhan jailolo Kab. Halmahera Barat; Maluku Utara 97752",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "JNT",
+      "nama_pelabuhan": "Jinato",
+      "lokasi_kabupaten_kota": "PANGKAJENE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III JAMPEA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Benteng Jampea Sulsel",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "JWA",
+      "nama_pelabuhan": "Juwana",
+      "lokasi_kabupaten_kota": "PATI",
+      "unit_kerja": "KUPP KELAS III JUWANA",
+      "alamat_kantor": "PATI",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KAE",
+      "nama_pelabuhan": "Kabare",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "KAN",
+      "nama_pelabuhan": "Kolonedale",
+      "lokasi_kabupaten_kota": "MOROWALI",
+      "unit_kerja": "UPP KELAS III KOLONEDALE",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kolonedale Sulteng 94671",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KAO",
+      "nama_pelabuhan": "Kawaluso",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KAT",
+      "nama_pelabuhan": "Kalianget",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KSOP KELAS IV KALIANGET",
+      "alamat_kantor": "Jl. Komplek Pelabuhan No. 02 Kalianget Sumenep Jawa Timur 69471",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "KAY",
+      "nama_pelabuhan": "Kuala Jelay",
+      "lokasi_kabupaten_kota": "SUKAMARA",
+      "unit_kerja": "KSOP KELAS IV SUKAMARA",
+      "alamat_kantor": "Jl. Pelabuhan No. 14 Sukamara Kalimantan Tengah 74172",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "KBD",
+      "nama_pelabuhan": "Kobisadar",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KBE",
+      "nama_pelabuhan": "Kereng Bengkirai",
+      "lokasi_kabupaten_kota": "KOTA PALANGKA RAYA",
+      "unit_kerja": "KUPP KELAS II RANGGA ILUNG",
+      "alamat_kantor": "Jl. Matal No. 18 Kereng Bengkirai Palangkaraya Kalteng 73111",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KBH",
+      "nama_pelabuhan": "Kalabahi",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KSOP KELAS IV KALABAHI",
+      "alamat_kantor": "Jl. R.E Marthadinata No. 7 Komp. Pelabuhan Kalabahi - Alor NTT 85813 Telp/Fax. 0386-21417 ksop_kalabahi@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KDA",
+      "nama_pelabuhan": "Kaledupa",
+      "lokasi_kabupaten_kota": "WAKATOBI",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KDI",
+      "nama_pelabuhan": "Kendari",
+      "lokasi_kabupaten_kota": "KENDARI",
+      "unit_kerja": "KSOP KELAS II KENDARI",
+      "alamat_kantor": "Jl.Jendral Sudirman NO .68 Rt.01 /Rw.01 Kendari Sulawesi Tenggara 93127",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "KDL",
+      "nama_pelabuhan": "Kendal",
+      "lokasi_kabupaten_kota": "KENDAL",
+      "unit_kerja": "KSOP KELAS I TANJUNG EMAS SEMARANG",
+      "alamat_kantor": "Jl. Yos Sudarso No. 30 Kel. Tanjung Emas Kec. Semarang Jateng 50174 Telp/Fax. 024-3852335 ksoptanjungemas@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KDW",
+      "nama_pelabuhan": "Kendawangan",
+      "lokasi_kabupaten_kota": "KETAPANG",
+      "unit_kerja": "KUPP KELAS III KENDAWANGAN",
+      "alamat_kantor": "Jl. Rahadi Usman No. 1 Kec. Kendawangan; Ketapang-Kalbar 788862",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KEK",
+      "nama_pelabuhan": "Kresek/Kronjo",
+      "lokasi_kabupaten_kota": "TANGERANG",
+      "unit_kerja": "KUPP KELAS III KARANGANTU",
+      "alamat_kantor": "SERANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KEM",
+      "nama_pelabuhan": "Kempo",
+      "lokasi_kabupaten_kota": "DOMPU",
+      "unit_kerja": "KUPP KELAS III CALABAI",
+      "alamat_kantor": "Jl. Raya Pelabuhan Calabahi; Kab. Dompu PO.BOX. 123 Dompu Nusa Tenggara Barat 84200",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "KGG",
+      "nama_pelabuhan": "Karang Agung",
+      "lokasi_kabupaten_kota": "BANYUASIN",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "KGQ",
+      "nama_pelabuhan": "Kuala Gaung",
+      "lokasi_kabupaten_kota": "ROKAN HILIR",
+      "unit_kerja": "KUPP KELAS III KUALA GAUNG",
+      "alamat_kantor": "INDRAGIRI HILIR",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KIA",
+      "nama_pelabuhan": "Karimata",
+      "lokasi_kabupaten_kota": "SAMBAS",
+      "unit_kerja": "KUPP KELAS III TELUK MELANO",
+      "alamat_kantor": "Jl. Gusti Aplos No. 93 Rt.8/Rw;III Kalbar 78853",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KIE",
+      "nama_pelabuhan": "Kasipute",
+      "lokasi_kabupaten_kota": "BOMBANA",
+      "unit_kerja": "KUPP KELAS III POMALAA",
+      "alamat_kantor": "Jl.Protokol No1 Pomala; Kab. Kolaka Prov. Sulawesi Tenggara 93562 (0405) 310241",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "KII",
+      "nama_pelabuhan": "Kotiti",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KJA",
+      "nama_pelabuhan": "Karimun Jawa",
+      "lokasi_kabupaten_kota": "JEPARA",
+      "unit_kerja": "KUPP KELAS III KARIMUN JAWA",
+      "alamat_kantor": "JEPARA",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KKG",
+      "nama_pelabuhan": "Kahakitang",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KKK",
+      "nama_pelabuhan": "P. Kalukalukuang",
+      "lokasi_kabupaten_kota": "BONE",
+      "unit_kerja": "KUPP KELAS II MACCINI BAJI",
+      "alamat_kantor": "Jl. Pelabuhan BiringKasie Pengkeb Sulsel 90651",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KKO",
+      "nama_pelabuhan": "Kao",
+      "lokasi_kabupaten_kota": "HALMAHERA UTARA",
+      "unit_kerja": "KUPP KELAS I TOBELO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Tobelo Kab. Halmahera Utara Prov. Maluku Utara",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "KLM",
+      "nama_pelabuhan": "Kalama",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KLT",
+      "nama_pelabuhan": "Kalatoa",
+      "lokasi_kabupaten_kota": "PANGKAJENE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III JAMPEA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Benteng Jampea Sulsel",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KMD",
+      "nama_pelabuhan": "Komodo",
+      "lokasi_kabupaten_kota": "MANGGARAI BARAT",
+      "unit_kerja": "KUPP KELAS II LABUHAN BAJO",
+      "alamat_kantor": "Jl. Yos Sudarso Labuan Bajo NTT 86554",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KME",
+      "nama_pelabuhan": "Kuala Mendahara",
+      "lokasi_kabupaten_kota": "TANJUNG JABUNG TIMUR",
+      "unit_kerja": "KUPP KELAS III MENDAHARA",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KND",
+      "nama_pelabuhan": "Kalianda",
+      "lokasi_kabupaten_kota": "LAMPUNG SELATAN",
+      "unit_kerja": "KUPP KELAS III TELUK BETUNG",
+      "alamat_kantor": "BANDAR LAMPUNG",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "KNG",
+      "nama_pelabuhan": "Kaimana",
+      "lokasi_kabupaten_kota": "KAIMANA",
+      "unit_kerja": "KUPP KELAS III KAIMANA",
+      "alamat_kantor": "Jl. Pelabuhan Kaimana; Kaimana Papua Barat 98654",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "KNN",
+      "nama_pelabuhan": "Kangean",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III PELABUHAN SAPEKEN",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Sapeken Suminto; Madura Jatim",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KNP",
+      "nama_pelabuhan": "Kintap",
+      "lokasi_kabupaten_kota": "TANAH LAUT",
+      "unit_kerja": "KUPP KELAS III KINTAP",
+      "alamat_kantor": "Jl. Batu Anting Desa Kintap Kecil Kec. Kintap Kab. Tanah Laut; Kalsel - 70883",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KNU",
+      "nama_pelabuhan": "Karangantu",
+      "lokasi_kabupaten_kota": "SERANG",
+      "unit_kerja": "KUPP KELAS III KARANGANTU",
+      "alamat_kantor": "SERANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KNY",
+      "nama_pelabuhan": "Kolbano",
+      "lokasi_kabupaten_kota": "TIMOR TENGAH SELATAN",
+      "unit_kerja": "KSOP KELAS V TENAU KUPANG",
+      "alamat_kantor": "Jl. Yos Sudarso No. 27 Tenau Kupang NTT 85351",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KOB",
+      "nama_pelabuhan": "Kobror",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KOG",
+      "nama_pelabuhan": "Kroing",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KOK",
+      "nama_pelabuhan": "Kokas",
+      "lokasi_kabupaten_kota": "FAKFAK",
+      "unit_kerja": "UPP KELAS III KOKAS",
+      "alamat_kantor": "Jl. Rumagesan Komp. Pelabuhan No. 1 Kab. Fak-fak Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "KOL",
+      "nama_pelabuhan": "Kolaka",
+      "lokasi_kabupaten_kota": "KOLAKA",
+      "unit_kerja": "UPP KELAS III KOLAKA",
+      "alamat_kantor": "Jl. Dermaga No. 1; Kolaka Sultra 93512",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KON",
+      "nama_pelabuhan": "Kakorotan",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KPE",
+      "nama_pelabuhan": "Kuala Pembuang",
+      "lokasi_kabupaten_kota": "SERUYAN",
+      "unit_kerja": "KSOP KELAS III TELUK SIGINTUNG",
+      "alamat_kantor": "Jl. AIS Nasution Kuala Pembuang Kalimantan Tengah 74211",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "KRN",
+      "nama_pelabuhan": "Keramaian",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III MASALEMBO",
+      "alamat_kantor": "Jl. Raya Pelabuhan No. 1 Masalembu; Sumenep; Jawa Timur - 69492",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "KSI",
+      "nama_pelabuhan": "Kesui",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KSO",
+      "nama_pelabuhan": "Kalbut",
+      "lokasi_kabupaten_kota": "SITUBONDO",
+      "unit_kerja": "KUPP KELAS III KALBUT",
+      "alamat_kantor": "Jl. Pelabuhan Kalbut Situbondo; Jawa Timur - 68363",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "KTB",
+      "nama_pelabuhan": "Kotabaru",
+      "lokasi_kabupaten_kota": "BARU",
+      "unit_kerja": "KSOP KELAS III KOTA BARU",
+      "alamat_kantor": "Jl. Pangeran Indera Kesuma Jaya Komp. Pelabuhan Panjang Kota Baru - Kalsel 72113",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KTI",
+      "nama_pelabuhan": "Kertapati",
+      "lokasi_kabupaten_kota": "KOTA PALEMBANG",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "KTJ",
+      "nama_pelabuhan": "Kuala Tanjung",
+      "lokasi_kabupaten_kota": "BATU BARA",
+      "unit_kerja": "KSOP KELAS III KUALA TANJUNG",
+      "alamat_kantor": "Jl. Pelabuhan Kuala Tanjung Kec. Sei Suka Kab. Batu Bara Sumatera Utara 21257",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "KTK",
+      "nama_pelabuhan": "Kuala Tungkal",
+      "lokasi_kabupaten_kota": "TANJUNG JABUNG BARAT",
+      "unit_kerja": "KSOP KELAS IV KUALA TUNGKAL",
+      "alamat_kantor": "Jl. Kesejahteraan No. 86 Rt.19 Kuala Tungkal Kab. Tanjung Jabung Barat Jambi 36513",
+      "provinsi": "Jambi"
+    },
+    {
+      "kode_pelabuhan": "KTN",
+      "nama_pelabuhan": "Karatung",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KTP",
+      "nama_pelabuhan": "Sukabangun Ketapang",
+      "lokasi_kabupaten_kota": "KETAPANG",
+      "unit_kerja": "KSOP KELAS IV KETAPANG",
+      "alamat_kantor": "Jl. Gajah Mada No. 542 Komplek Pelabuhan Sukabangun Ketapang Kalimantan Barat 78851",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "kode_pelabuhan": "KTT",
+      "nama_pelabuhan": "Kadatua",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KTU",
+      "nama_pelabuhan": "Kairatu",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KUA",
+      "nama_pelabuhan": "Kuala Langsa",
+      "lokasi_kabupaten_kota": "KOTA LANGSA",
+      "unit_kerja": "KSOP KELAS IV KUALA LANGSA",
+      "alamat_kantor": "Jl. Pelabuhan No. 04 Kuala Langsa NAD 24451 Telp. 0641-23459; Fax. 0641-21663 Email : ad_klgs@yahoo.com / ksopkualalangsa@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KUJ",
+      "nama_pelabuhan": "Kuala Semboja/Sebulu",
+      "lokasi_kabupaten_kota": "KUTAI KERTANEGARA",
+      "unit_kerja": "KUPP KELAS III KUALA SEMBOJA",
+      "alamat_kantor": "Jl. Balikpapan Handil II No. 2 Rt. V Kuala Semboja Kaltim 75277",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KUM",
+      "nama_pelabuhan": "Kumai",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN BARAT",
+      "unit_kerja": "KSOP KELAS IV KUMAI",
+      "alamat_kantor": "Jl. Bendahara No. 230 Kumai Kab. Kotawaringin Barat - Kalteng 74181",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KUR",
+      "nama_pelabuhan": "Kur",
+      "lokasi_kabupaten_kota": "KAB. TUAL",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KWG",
+      "nama_pelabuhan": "Kwandang",
+      "lokasi_kabupaten_kota": "GORONTALO UTARA",
+      "unit_kerja": "UPP KELAS III KWANDANG",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Desa Moluo Kec. Kwandang Gorontalo 96252",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "KWO",
+      "nama_pelabuhan": "Kawio",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "KWU",
+      "nama_pelabuhan": "Moa",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KXR",
+      "nama_pelabuhan": "Kisar",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KYD",
+      "nama_pelabuhan": "Kayuadi",
+      "lokasi_kabupaten_kota": "PANGKAJENE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III JAMPEA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Benteng Jampea Sulsel",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "KYU",
+      "nama_pelabuhan": "Kalibaru",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KSOP KELAS V KALIBARU",
+      "alamat_kantor": "Jl. Raya Pelabuhan Kalibaru No. 1 Jakut 14140",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LAJ",
+      "nama_pelabuhan": "Labuhan",
+      "lokasi_kabupaten_kota": "PANDEGLANG",
+      "unit_kerja": "KUPP KELAS III PELABUHAN LABUHAN",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LBH",
+      "nama_pelabuhan": "Labuha",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LBO",
+      "nama_pelabuhan": "Labuan Bajo",
+      "lokasi_kabupaten_kota": "MANGGARAI BARAT",
+      "unit_kerja": "KUPP KELAS II LABUHAN BAJO",
+      "alamat_kantor": "Jl. Yos Sudarso Labuan Bajo NTT 86554",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LEA",
+      "nama_pelabuhan": "Loleo Jaya",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "UPP KELAS III OGOAMAS",
+      "alamat_kantor": "Jl. Pelabuhan No. 7 Kec. Sojol Utara Kab. Donggala Sulteng",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LEI",
+      "nama_pelabuhan": "Leti",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LEK",
+      "nama_pelabuhan": "Leok",
+      "lokasi_kabupaten_kota": "BUOL",
+      "unit_kerja": "UPP KELAS III LEOK",
+      "alamat_kantor": "Jl. Syarif Mansyur No. 356 Kel. Leok 1 Kec. Biau Kab. Buol Sulteng 94563",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LFA",
+      "nama_pelabuhan": "Maidi",
+      "lokasi_kabupaten_kota": "KOTA TIDORE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LGI",
+      "nama_pelabuhan": "Lagundi",
+      "lokasi_kabupaten_kota": "LAMPUNG SELATAN",
+      "unit_kerja": "KUPP KELAS III TELUK BETUNG",
+      "alamat_kantor": "BANDAR LAMPUNG",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "LGN",
+      "nama_pelabuhan": "Lirang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LHA",
+      "nama_pelabuhan": "Lahewa",
+      "lokasi_kabupaten_kota": "NIAS UTARA",
+      "unit_kerja": "KUPP KELAS III LAHEWA",
+      "alamat_kantor": "Jl. Bowo No. 1 Kel. Pasar Lahewa Kab. Nias Utara; Suamtera Utara 22853",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LHJ",
+      "nama_pelabuhan": "Labuhan Haji",
+      "lokasi_kabupaten_kota": "LOMBOK TIMUR",
+      "unit_kerja": "KUPP KELAS III LABUHAN LOMBOK",
+      "alamat_kantor": "Jl. Khayangan Labuhan Lombok Kec. Pringgabaya Kab. Lombok; Timur Nusa Tenggara Barat - 83655",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "LIG",
+      "nama_pelabuhan": "Teluk Leidong",
+      "lokasi_kabupaten_kota": "LABUAN BATU UTARA",
+      "unit_kerja": "KUPP KELAS III LEIDONG",
+      "alamat_kantor": "Jl. Bondar No. 79 Liendong Sumatera Utara 21475 Telp. 0623-71071; Fax. 0623-71371 Email : upplaeidong@gmail.com / uppleidong@dephub.go.id",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "LKA",
+      "nama_pelabuhan": "Larantuka",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "LKK",
+      "nama_pelabuhan": "Legon Bajak",
+      "lokasi_kabupaten_kota": "JEPARA",
+      "unit_kerja": "KUPP KELAS III KARIMUN JAWA",
+      "alamat_kantor": "JEPARA",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LKO",
+      "nama_pelabuhan": "Tanah Ampo",
+      "lokasi_kabupaten_kota": "KARANG ASEM",
+      "unit_kerja": "KSOP KELAS IV PADANG BAI",
+      "alamat_kantor": "Jl. Didalam Areal Pelabuhan Penyebrangan Padangbai; Bali 80872",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "LKS",
+      "nama_pelabuhan": "Lerokis",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LLD",
+      "nama_pelabuhan": "Kedi",
+      "lokasi_kabupaten_kota": "HALMAHERA BARAT",
+      "unit_kerja": "KUPP KELAS III JAILOLO",
+      "alamat_kantor": "Jl. Pelabuhan jailolo Kab. Halmahera Barat; Maluku Utara 97752",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "LLL",
+      "nama_pelabuhan": "Lasalimu",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LLO",
+      "nama_pelabuhan": "Labuhan Lombok",
+      "lokasi_kabupaten_kota": "LOMBOK TIMUR",
+      "unit_kerja": "KUPP KELAS III LABUHAN LOMBOK",
+      "alamat_kantor": "Jl. Khayangan Labuhan Lombok Kec. Pringgabaya Kab. Lombok; Timur Nusa Tenggara Barat - 83655",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "LMA",
+      "nama_pelabuhan": "Labuhan Maringgai",
+      "lokasi_kabupaten_kota": "LAMPUNG TIMUR",
+      "unit_kerja": "KUPP KELAS III LABUHAN MARINGGAI",
+      "alamat_kantor": "Muara Gading Mas Labuhan Maringgai Lampung Timur;",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "LMR",
+      "nama_pelabuhan": "Lembar",
+      "lokasi_kabupaten_kota": "LOMBOK BARAT",
+      "unit_kerja": "KSOP KELAS III LEMBAR",
+      "alamat_kantor": "Jl. Raya Pelabuhan Lembar; Lombok Barat - NTB 83364",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LNA",
+      "nama_pelabuhan": "Langara",
+      "lokasi_kabupaten_kota": "KONAWE UTARA",
+      "unit_kerja": "UPP KELAS III LAPUKO",
+      "alamat_kantor": "Jl. Pelabuhan No. 25 Langara 93393 P. Wawoni Kab. Konawe Sulawesi Tenggara",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "LNB",
+      "nama_pelabuhan": "Liana Banggai",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LOR",
+      "nama_pelabuhan": "Lakor",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LPG",
+      "nama_pelabuhan": "Lipang",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "LPI",
+      "nama_pelabuhan": "Lampia",
+      "lokasi_kabupaten_kota": "LUWU TIMUR",
+      "unit_kerja": "KUPP KELAS III MALILI",
+      "alamat_kantor": "Jl. Jend. Sudirman No. 16 Kec. Malili Kab. Luwu Timur Sulsel 91981",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LPO",
+      "nama_pelabuhan": "Lapuko",
+      "lokasi_kabupaten_kota": "KONAWE SELATAN",
+      "unit_kerja": "UPP KELAS III LAPUKO",
+      "alamat_kantor": "Jl. Pelabuhan No. 25 Langara 93393 P. Wawoni Kab. Konawe Sulawesi Tenggara",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "LQA",
+      "nama_pelabuhan": "Leksula",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LQR",
+      "nama_pelabuhan": "Lakara",
+      "lokasi_kabupaten_kota": "KONAWE SELATAN",
+      "unit_kerja": "UPP KELAS III LAPUKO",
+      "alamat_kantor": "Jl. Pelabuhan No. 25 Langara 93393 P. Wawoni Kab. Konawe Sulawesi Tenggara",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "LRG",
+      "nama_pelabuhan": "Lirung",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "LRN",
+      "nama_pelabuhan": "Lurang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LRT",
+      "nama_pelabuhan": "Larat",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LSG",
+      "nama_pelabuhan": "Loseng",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "LSW",
+      "nama_pelabuhan": "Lhokseumawe/Kreung Geukeh",
+      "lokasi_kabupaten_kota": "ACEH UTARA",
+      "unit_kerja": "KSOP KELAS IV LHOKSEUMAWE",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Lhoksumawe 24315 Telp/Fax. 0645-43485 Email : adpel_lsm3@yahoo.co.id / ksoplhokseumawe@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LTG",
+      "nama_pelabuhan": "Letung",
+      "lokasi_kabupaten_kota": "KEPULAUAN ANAMBAS",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "LTU",
+      "nama_pelabuhan": "Lhok Tuan",
+      "lokasi_kabupaten_kota": "KOTA BONTANG",
+      "unit_kerja": "KUPP KELAS I LHOK TUAN",
+      "alamat_kantor": "Gedung Shipping Lt.1 PT Pupuk Kalimantan Timur -Bontang 75313",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "LUG",
+      "nama_pelabuhan": "Likupang",
+      "lokasi_kabupaten_kota": "MINAHSA UTARA",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "LUK",
+      "nama_pelabuhan": "Labuhan Uki",
+      "lokasi_kabupaten_kota": "BOLAANG MONGONDO",
+      "unit_kerja": "KUPP KELAS III LABUHAN UKI/INEBONTO",
+      "alamat_kantor": "Jl. Pelabuhan No. 128 Desa Labuhan Uki Kec. Loka Kab. Bolaang Mongondow Sulut 95761",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LUU",
+      "nama_pelabuhan": "Lameluru",
+      "lokasi_kabupaten_kota": "KONAWE UTARA",
+      "unit_kerja": "UPP KELAS III LAPUKO",
+      "alamat_kantor": "Jl. Pelabuhan No. 25 Langara 93393 P. Wawoni Kab. Konawe Sulawesi Tenggara",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "LUW",
+      "nama_pelabuhan": "Luwuk",
+      "lokasi_kabupaten_kota": "BANGGAI",
+      "unit_kerja": "KUPP KELAS II LUWUK",
+      "alamat_kantor": "Jl. Yos Sudarso No. 1 Kel. Karaton Kec. Luwuk Kab. Banggai Sulteng 94715",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LWE",
+      "nama_pelabuhan": "Lewoleba",
+      "lokasi_kabupaten_kota": "LEMBATA",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "LWI",
+      "nama_pelabuhan": "Laiwui",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS III LAIWUI",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Jikotamo Malut 97792",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "LWL",
+      "nama_pelabuhan": "Lawele",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MAF",
+      "nama_pelabuhan": "Maffa",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MAJ",
+      "nama_pelabuhan": "Majene",
+      "lokasi_kabupaten_kota": "MAJENE",
+      "unit_kerja": "KUPP KELAS III MAJENE",
+      "alamat_kantor": "Jl. Ammana Wewang No. 21 Kab. Majene Sulbar 91411",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MAK",
+      "nama_pelabuhan": "Makassar",
+      "lokasi_kabupaten_kota": "KOTA MAKASAR",
+      "unit_kerja": "KANTOR OTORITAS PELABUHAN UTAMA MAKASSAR",
+      "alamat_kantor": "Jl. Madura No. 1 Makasar - 90173 Telp. 0411-3616444; 3632881; 3632882; Fax. 0411-3616444 Email : op_makassar@yahoo.com / opIV_mks@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MAT",
+      "nama_pelabuhan": "Marampit",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MBA",
+      "nama_pelabuhan": "Muara Baru",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KSOP KELAS V MUARA BARU",
+      "alamat_kantor": "Jl. Muara Baru Ujung Pelabuhan Perikanan Samudra Muara Baru; Jakut 14440",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MBF",
+      "nama_pelabuhan": "Malbufa",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "MBG",
+      "nama_pelabuhan": "Marabombang",
+      "lokasi_kabupaten_kota": "PINRANG",
+      "unit_kerja": "KUPP KELAS II BANGGAI",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Banggai Kab. Banggai Kepulauan Sulteng 94791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MBN",
+      "nama_pelabuhan": "Marabatuan",
+      "lokasi_kabupaten_kota": "BARU",
+      "unit_kerja": "KUPP KELAS III SEI DANAU/SATUI",
+      "alamat_kantor": "Jl. Kuripan No. 5 Rt.24Sungai Danau Satui Kab. Tanah Bumbu Sungai Danau Satui; Kalsel 72175",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MCO",
+      "nama_pelabuhan": "Tanjung Moco",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS II TANJUNG PINANG",
+      "alamat_kantor": "Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "MDA",
+      "nama_pelabuhan": "Midai",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "MDC",
+      "nama_pelabuhan": "Manado",
+      "lokasi_kabupaten_kota": "KOTA MANADO",
+      "unit_kerja": "KSOP KELAS III MANADO",
+      "alamat_kantor": "Jl. Pelabuhan Manado; Sulawesi Utara 95111 Telp. 0431-867054; Fax. 0431-859721 Email : adpel_manado@yahoo.com / ksop_manado@dephub.go.id",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MEA",
+      "nama_pelabuhan": "Mega",
+      "lokasi_kabupaten_kota": "TAMBRAUW",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "MEE",
+      "nama_pelabuhan": "Malenge",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MEH",
+      "nama_pelabuhan": "Menanga",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MEI",
+      "nama_pelabuhan": "Menui",
+      "lokasi_kabupaten_kota": "MOROWALI",
+      "unit_kerja": "UPP KELAS III KOLONEDALE",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kolonedale Sulteng 94671",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MEJ",
+      "nama_pelabuhan": "Mesuji/Lampung",
+      "lokasi_kabupaten_kota": "MESUJI",
+      "unit_kerja": "KUPP KELAS III LABUHAN MESUJI",
+      "alamat_kantor": "LAMPUNG UTARA",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "MEL",
+      "nama_pelabuhan": "Pulau Mules",
+      "lokasi_kabupaten_kota": "MANGGARAI",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MEN",
+      "nama_pelabuhan": "Pemenang",
+      "lokasi_kabupaten_kota": "LOMBOK UTARA",
+      "unit_kerja": "KUPP KELAS II PEMENANG/ TANJUNG",
+      "alamat_kantor": "Jl. Pariwisata Gili Indah Pemenang Kab. Lombok Utara; Pemenang NTB 83352",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MEQ",
+      "nama_pelabuhan": "Meulaboh",
+      "lokasi_kabupaten_kota": "ACEH BARAT",
+      "unit_kerja": "KSOP KELAS IV MEULABOH",
+      "alamat_kantor": "Jl. T. Chik Ditiro No. 17 Meulaboh; Aceh Barat NAD 23611 Telp/Fax. 0655- 7551443 Email : adpelmeulaboh@yahoo.com / ksopmeulaboh@dephub.go.id",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "MGA",
+      "nama_pelabuhan": "Menggala",
+      "lokasi_kabupaten_kota": "TULANG BAWANG",
+      "unit_kerja": "KUPP KELAS III MENGGALA",
+      "alamat_kantor": "TULANG BAWANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MGR",
+      "nama_pelabuhan": "Mangarang",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MGS",
+      "nama_pelabuhan": "Miangas",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MHE",
+      "nama_pelabuhan": "Mahaleta",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MIG",
+      "nama_pelabuhan": "Manitingting",
+      "lokasi_kabupaten_kota": "HALMAHERA TIMUR",
+      "unit_kerja": "KUPP KELAS III BULI",
+      "alamat_kantor": "Jl;. Pelabuhan Buli Kec. Maba Kab. Halmahera Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MII",
+      "nama_pelabuhan": "Maccini Baji",
+      "lokasi_kabupaten_kota": "BULUKUMBA",
+      "unit_kerja": "KUPP KELAS II MACCINI BAJI",
+      "alamat_kantor": "Jl. Pelabuhan BiringKasie Pengkeb Sulsel 90651",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MJU",
+      "nama_pelabuhan": "Mamuju",
+      "lokasi_kabupaten_kota": "MAMUJU",
+      "unit_kerja": "KUPP KELAS I MAMUJU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 2 Mamuju Kab. Mamuju Sulbar 91511",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MKA",
+      "nama_pelabuhan": "Muara Angke",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KSOP KELAS IV MUARA ANGKE",
+      "alamat_kantor": "Jl. Dermaga No. 1 Pelabuhan Muara Angke Jakut 14450",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MKH",
+      "nama_pelabuhan": "Makalehi",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MKI",
+      "nama_pelabuhan": "Malakoni/P. Enggano",
+      "lokasi_kabupaten_kota": "BENGKULU UTARA",
+      "unit_kerja": "KUPP KELAS III MALAKONI-ENGGANO",
+      "alamat_kantor": "BENGKULU SELATAN",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "MKQ",
+      "nama_pelabuhan": "Merauke",
+      "lokasi_kabupaten_kota": "MERAUKE",
+      "unit_kerja": "KSOP KELAS IV MERAUKE",
+      "alamat_kantor": "Jl. Sabang No. 312 Merauke - Papua 99613",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "MKT",
+      "nama_pelabuhan": "Munte/Likupang Barat",
+      "lokasi_kabupaten_kota": "MINAHSA UTARA",
+      "unit_kerja": "UPP KELAS III LIKUPANG",
+      "alamat_kantor": "Jl. Raya Manado Likupang Sulawesi Utara 95375",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MKW",
+      "nama_pelabuhan": "Manokwari",
+      "lokasi_kabupaten_kota": "MANOKWARI",
+      "unit_kerja": "KSOP KELAS IV MANOKWARI",
+      "alamat_kantor": "Jl.Banjarmasin No 6 Monokwari Papua Barat 98311",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "MKX",
+      "nama_pelabuhan": "Makian",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MLA",
+      "nama_pelabuhan": "Teluk Malala",
+      "lokasi_kabupaten_kota": "DONGGALA",
+      "unit_kerja": "UPP KELAS III OGOAMAS",
+      "alamat_kantor": "Jl. Pelabuhan No. 7 Kec. Sojol Utara Kab. Donggala Sulteng",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MLD",
+      "nama_pelabuhan": "Tarakan",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KSOP KELAS III TARAKAN",
+      "alamat_kantor": "Jl. Yos Sudarso No. 8 Lingkas Ujug Tarakan Kalimantan Utara 77126",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "kode_pelabuhan": "MLE",
+      "nama_pelabuhan": "Mandopolo/Jojame",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS III LAIWUI",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Jikotamo Malut 97792",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MLG",
+      "nama_pelabuhan": "Maligano",
+      "lokasi_kabupaten_kota": "MUNA",
+      "unit_kerja": "KUPP KELAS II RAHA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Raha Sulawesi Tenggara 93611",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "MLH",
+      "nama_pelabuhan": "Malahayati",
+      "lokasi_kabupaten_kota": "ACEH BESAR",
+      "unit_kerja": "KSOP KELAS IV MALAHAYATI",
+      "alamat_kantor": "Jl. Patimura No. 89 Kel. Sukaramai Blower; Banda Aceh Telp/Fax. 0651-48555 Email : adpelmalahayati@yahoo.com / ksopmalahayati@dephub.go.id",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "MLI",
+      "nama_pelabuhan": "Malili (Sungai)",
+      "lokasi_kabupaten_kota": "LUWU TIMUR",
+      "unit_kerja": "KUPP KELAS III MALILI",
+      "alamat_kantor": "Jl. Jend. Sudirman No. 16 Kec. Malili Kab. Luwu Timur Sulsel 91981",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MLO",
+      "nama_pelabuhan": "Malarko",
+      "lokasi_kabupaten_kota": "KARIMUN",
+      "unit_kerja": "KSOP KELAS I TANJUNG BALAI KARIMUN",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MLS",
+      "nama_pelabuhan": "Marlasi",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MLW",
+      "nama_pelabuhan": "Molawe",
+      "lokasi_kabupaten_kota": "KONAWE UTARA",
+      "unit_kerja": "UPP KELAS III LAPUKO",
+      "alamat_kantor": "Jl. Pelabuhan No. 25 Langara 93393 P. Wawoni Kab. Konawe Sulawesi Tenggara",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "MMA",
+      "nama_pelabuhan": "Maumbawa",
+      "lokasi_kabupaten_kota": "NGADA",
+      "unit_kerja": "KSOP KELAS IV ENDE",
+      "alamat_kantor": "Jl. Adi Sucipto Ippi Ende NTT 86316",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MMO",
+      "nama_pelabuhan": "Mamboro",
+      "lokasi_kabupaten_kota": "SUMBA TENGAH",
+      "unit_kerja": "KUPP KELAS III WAIKELO",
+      "alamat_kantor": "Jl. Waikelo Kec. Luara Kab. Sumba Barat Waikelo; Nusa Tenggara Timur - 87254",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MMR",
+      "nama_pelabuhan": "Moor",
+      "lokasi_kabupaten_kota": "MAPPI",
+      "unit_kerja": "KUPP KELAS III BADE",
+      "alamat_kantor": "Jl. Pelita No. 32 Distrik Edera; Bade Kab. Mappi-Papua 99653",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "MMU",
+      "nama_pelabuhan": "Mumugu",
+      "lokasi_kabupaten_kota": "ASMAT",
+      "unit_kerja": "KUPP KELAS III AGATS",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 1 Agats Kab. Asmat Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "MNB",
+      "nama_pelabuhan": "Teluk Melano/Teluk Batang",
+      "lokasi_kabupaten_kota": "KAYONG UTARA",
+      "unit_kerja": "KUPP KELAS III TELUK MELANO",
+      "alamat_kantor": "Jl. Gusti Aplos No. 93 Rt.8/Rw;III Kalbar 78853",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MNP",
+      "nama_pelabuhan": "Manipa",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MOF",
+      "nama_pelabuhan": "Maumere /Laurentius Say",
+      "lokasi_kabupaten_kota": "SIKA",
+      "unit_kerja": "KSOP KELAS IV LAURENTIUS SAY/MAUMERE",
+      "alamat_kantor": "Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MOI",
+      "nama_pelabuhan": "Moti",
+      "lokasi_kabupaten_kota": "KOTA TERNATE",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MOT",
+      "nama_pelabuhan": "Marapokot",
+      "lokasi_kabupaten_kota": "NAGEKO",
+      "unit_kerja": "KUPP KELAS III MARAPOKOT",
+      "alamat_kantor": "Jl. Pelabuhan Marapokot No. 01 Marapokot Nusa Tenggara Timur 86472",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MOU",
+      "nama_pelabuhan": "Moru",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KUPP KELAS III BARANUSA",
+      "alamat_kantor": "Jl.Komp. Pelabuhan Baranusa Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MPC",
+      "nama_pelabuhan": "Muko-Muko",
+      "lokasi_kabupaten_kota": "MUKO-MUKO",
+      "unit_kerja": "KUPP KELAS II LINAU/BINTUHAN",
+      "alamat_kantor": "Jl. Pelabuhan Linau Bintuhan Kab. Kaur Bengkulu 38565",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "MPG",
+      "nama_pelabuhan": "Muara Padang",
+      "lokasi_kabupaten_kota": "KOTA PADANG",
+      "unit_kerja": "KSOP KELAS II TELUK BAYUR",
+      "alamat_kantor": "Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "MPH",
+      "nama_pelabuhan": "Mempawah",
+      "lokasi_kabupaten_kota": "KETAPANG",
+      "unit_kerja": "KSOP KELAS II PONTIANAK",
+      "alamat_kantor": "Jl. Rahadi Usman No. 2 Pontianak Kalimantan Barat",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "kode_pelabuhan": "MRE",
+      "nama_pelabuhan": "Marore",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MRG",
+      "nama_pelabuhan": "Maritaing",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KUPP KELAS III BARANUSA",
+      "alamat_kantor": "Jl.Komp. Pelabuhan Baranusa Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MRL",
+      "nama_pelabuhan": "Marsela",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MRP",
+      "nama_pelabuhan": "Mataritip",
+      "lokasi_kabupaten_kota": "BERAU",
+      "unit_kerja": "KUPP KELAS II TANJUNG REDEP",
+      "alamat_kantor": "Jl. P. Antasari No. 27 Rt.01/Rw.01 Tanjung Redep Kaltim 77312",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MRT",
+      "nama_pelabuhan": "Meranti/Dorak",
+      "lokasi_kabupaten_kota": "PULAU MERANTI",
+      "unit_kerja": "KSOP KELAS IV SELAT PANJANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 2 Selat Panjang Riau 28753",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "MSI",
+      "nama_pelabuhan": "Masalembo",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III MASALEMBO",
+      "alamat_kantor": "Jl. Raya Pelabuhan No. 1 Masalembu; Sumenep; Jawa Timur - 69492",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "MSK",
+      "nama_pelabuhan": "Muara Sabak",
+      "lokasi_kabupaten_kota": "TANJUNG JABUNG TIMUR",
+      "unit_kerja": "KSOP KELAS IV MUARA SABAK",
+      "alamat_kantor": "Jl. Syahbandar No. 5 Jambi",
+      "provinsi": "Jambi"
+    },
+    {
+      "kode_pelabuhan": "MSN",
+      "nama_pelabuhan": "Mansinam",
+      "lokasi_kabupaten_kota": "MANOKWARI",
+      "unit_kerja": "KSOP KELAS IV MANOKWARI",
+      "alamat_kantor": "Jl.Banjarmasin No 6 Monokwari Papua Barat 98311",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "MSR",
+      "nama_pelabuhan": "Matasiri",
+      "lokasi_kabupaten_kota": "BARU",
+      "unit_kerja": "KUPP KELAS III SEI DANAU/SATUI",
+      "alamat_kantor": "Jl. Kuripan No. 5 Rt.24Sungai Danau Satui Kab. Tanah Bumbu Sungai Danau Satui; Kalsel 72175",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MTT",
+      "nama_pelabuhan": "Matutuang",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "MUE",
+      "nama_pelabuhan": "Maurole",
+      "lokasi_kabupaten_kota": "ENDE",
+      "unit_kerja": "KSOP KELAS IV ENDE",
+      "alamat_kantor": "Jl. Adi Sucipto Ippi Ende NTT 86316",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MUG",
+      "nama_pelabuhan": "Moutong",
+      "lokasi_kabupaten_kota": "PARIGI MOUTONG",
+      "unit_kerja": "KUPP KELAS III PARIGI",
+      "alamat_kantor": "Jl. Pelabuhan Parigi No. 92 Kec. Parigi Kab. Donggala Parigi Palu Sulteng 94371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "MUI",
+      "nama_pelabuhan": "Matui",
+      "lokasi_kabupaten_kota": "HALMAHERA BARAT",
+      "unit_kerja": "KUPP KELAS III JAILOLO",
+      "alamat_kantor": "Jl. Pelabuhan jailolo Kab. Halmahera Barat; Maluku Utara 97752",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "MUO",
+      "nama_pelabuhan": "Muntok",
+      "lokasi_kabupaten_kota": "BANGKA BARAT",
+      "unit_kerja": "KSOP KELAS IV MUNTOK",
+      "alamat_kantor": "Jl. Yos Sudarso No. 1 Muntok Bangka Belitung 33311",
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "kode_pelabuhan": "NAB",
+      "nama_pelabuhan": "Teminabuan",
+      "lokasi_kabupaten_kota": "SORONG SELATAN",
+      "unit_kerja": "KUPP KELAS III TAMINABUAN",
+      "alamat_kantor": "Jl. Pelabuhan Teminibuan Kab. Sorang Selatan Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "NAM",
+      "nama_pelabuhan": "Namlea",
+      "lokasi_kabupaten_kota": "BURU",
+      "unit_kerja": "KUPP KELAS II NAMLEA",
+      "alamat_kantor": "Jl.Dermaga Pelabuhan Namlea Kabupaten Buru Maluku 97571",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "NBX",
+      "nama_pelabuhan": "Nabire",
+      "lokasi_kabupaten_kota": "NABIRE",
+      "unit_kerja": "KUPP KELAS II NABIRE",
+      "alamat_kantor": "Jl. Pintu Masuk Pelabuhan No. 1 Nabire Papua 98851",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "NDA",
+      "nama_pelabuhan": "Banda Naira",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KSOP KELAS IV BANDA NAIRA",
+      "alamat_kantor": "Jl.Pelabuhan Banda Naira Kab Maluku Tengah 97543",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "NGG",
+      "nama_pelabuhan": "Anggrek",
+      "lokasi_kabupaten_kota": "GORONTALO UTARA",
+      "unit_kerja": "UPP KELAS II ANGGREK",
+      "alamat_kantor": "Jl. Pelabuhan Anggrek Desa Ilangara Kec. Anggrek Kab. Gorontalo Utara 96252",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "NIG",
+      "nama_pelabuhan": "Ngalipaeng",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "NIP",
+      "nama_pelabuhan": "Nipah Panjang",
+      "lokasi_kabupaten_kota": "TANJUNG JABUNG TIMUR",
+      "unit_kerja": "KUPP KELAS III NIPAH PANJANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kec. Nipah Panjang Kab. Tanjung Jabung Timur Jambi 36571",
+      "provinsi": "Jambi"
+    },
+    {
+      "kode_pelabuhan": "NIU",
+      "nama_pelabuhan": "Naikliu",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "NOO",
+      "nama_pelabuhan": "Ndao",
+      "lokasi_kabupaten_kota": "ROTENDAO",
+      "unit_kerja": "KUPP KELAS III BAA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Ba'a - Rote NTT",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "NPA",
+      "nama_pelabuhan": "Papela",
+      "lokasi_kabupaten_kota": "ROTENDAO",
+      "unit_kerja": "KUPP KELAS III BAA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Ba'a - Rote NTT",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "NPE",
+      "nama_pelabuhan": "Nusa Penida (Toyapakeh)",
+      "lokasi_kabupaten_kota": "KLUNGKUNG",
+      "unit_kerja": "KUPP KELAS II NUSA PENIDA",
+      "alamat_kantor": "Jl. Desa Ped Kec. Nusa Peninda Kab. Klungkung - Bali",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "NRE",
+      "nama_pelabuhan": "Namrole",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "NTI",
+      "nama_pelabuhan": "Bintuni",
+      "lokasi_kabupaten_kota": "TELUK BINTUNI",
+      "unit_kerja": "KUPP KELAS II BINTUNI",
+      "alamat_kantor": "Jl. Raya Umum Bintuni Manokwari Papua Barat 98364",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "NUN",
+      "nama_pelabuhan": "Nunbaun Sabu (Namosain)",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ONG",
+      "nama_pelabuhan": "Poopongan",
+      "lokasi_kabupaten_kota": "MAMUJU",
+      "unit_kerja": "KUPP KELAS I MAMUJU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 2 Mamuju Kab. Mamuju Sulbar 91511",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ONN",
+      "nama_pelabuhan": "Oswald Siahaan/Labuhan Angin",
+      "lokasi_kabupaten_kota": "TAPANULI TENGAH",
+      "unit_kerja": "KUPP KELAS III BARUS",
+      "alamat_kantor": "Jl. Yos Sudarso No. 02 Kel. Pasar Batu Grigis Barus; Kab. Tapanuli Tengah Sumatera Utara 22564",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "ONR",
+      "nama_pelabuhan": "Kataloka/Ondor",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "OOS",
+      "nama_pelabuhan": "Ogoamas",
+      "lokasi_kabupaten_kota": "DONGGALA",
+      "unit_kerja": "UPP KELAS III OGOAMAS",
+      "alamat_kantor": "Jl. Pelabuhan No. 7 Kec. Sojol Utara Kab. Donggala Sulteng",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "OPI",
+      "nama_pelabuhan": "Oepoli",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ORA",
+      "nama_pelabuhan": "Oransbari",
+      "lokasi_kabupaten_kota": "MANOKWARI",
+      "unit_kerja": "KUPP KELAS III ORANSBARI",
+      "alamat_kantor": "Jl. Pelabuhan Oransbari Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "PAB",
+      "nama_pelabuhan": "P. Sabutung",
+      "lokasi_kabupaten_kota": "BONE",
+      "unit_kerja": "KUPP KELAS II MACCINI BAJI",
+      "alamat_kantor": "Jl. Pelabuhan BiringKasie Pengkeb Sulsel 90651",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PAE",
+      "nama_pelabuhan": "Palue",
+      "lokasi_kabupaten_kota": "SIKA",
+      "unit_kerja": "KSOP KELAS IV LAURENTIUS SAY/MAUMERE",
+      "alamat_kantor": "Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "PAH",
+      "nama_pelabuhan": "Paloh/Sakura",
+      "lokasi_kabupaten_kota": "SAMBAS",
+      "unit_kerja": "KUPP KELAS III PALOH/SAKURA",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Merbau Paloh Kab. Sambas Laimantan Barat 79466",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PAR",
+      "nama_pelabuhan": "Para",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "PAZ",
+      "nama_pelabuhan": "Pasuruan",
+      "lokasi_kabupaten_kota": "PASURUAN",
+      "unit_kerja": "KSOP KELAS V PASURUAN",
+      "alamat_kantor": "Jl. Yos Sudarso No. 158 Pasuruan Jatim 67126",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PBI",
+      "nama_pelabuhan": "Padang Bai",
+      "lokasi_kabupaten_kota": "KARANG ASEM",
+      "unit_kerja": "KSOP KELAS IV PADANG BAI",
+      "alamat_kantor": "Jl. Didalam Areal Pelabuhan Penyebrangan Padangbai; Bali 80872",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "PCE",
+      "nama_pelabuhan": "Pantai Cermin",
+      "lokasi_kabupaten_kota": "SERDANG BEDAGAI",
+      "unit_kerja": "KUPP KELAS III PANTAI CERMIN",
+      "alamat_kantor": "Jl. HT Rizal Nudin No.465 Pantai Cermin 20987 Telp/Fax 061-7970102 Email : upppantaicermin@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PCI",
+      "nama_pelabuhan": "Pacitan",
+      "lokasi_kabupaten_kota": "PACITAN",
+      "unit_kerja": "UPP KELAS III BRONDONG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sedayulawas Kec. Brondong Lamongan; Jawa Timur - 662814",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "PDD",
+      "nama_pelabuhan": "Pangkalan Dodek",
+      "lokasi_kabupaten_kota": "BATU BARA",
+      "unit_kerja": "KUPP KELAS III PANGKALAN DODEK",
+      "alamat_kantor": "Jl. Pelabuhan Desa Nenas Siau Batubara; Suamtera Utara 21258 Telp/Fax. 0622-5892962; 5892970 Email : kanpelpangkalandodek@yahoo.co.id / upppangkalandodek@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PDE",
+      "nama_pelabuhan": "Pulau Ende",
+      "lokasi_kabupaten_kota": "ENDE",
+      "unit_kerja": "KSOP KELAS IV ENDE",
+      "alamat_kantor": "Jl. Adi Sucipto Ippi Ende NTT 86316",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PDR",
+      "nama_pelabuhan": "Pangandaran",
+      "lokasi_kabupaten_kota": "SUKABUMI",
+      "unit_kerja": "KUPP KELAS III PANGANDARAN",
+      "alamat_kantor": "INDRAMAYU",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PEA",
+      "nama_pelabuhan": "Petta",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "PEE",
+      "nama_pelabuhan": "Pehe",
+      "lokasi_kabupaten_kota": "SITARO",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PEI",
+      "nama_pelabuhan": "Polewali",
+      "lokasi_kabupaten_kota": "POLEWALI MANDAR",
+      "unit_kerja": "KUPP KELAS II SILOPO",
+      "alamat_kantor": "Jl. Bahari I No. 1 Polewali Sulbar 91311",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PEL",
+      "nama_pelabuhan": "Pelita",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PES",
+      "nama_pelabuhan": "P. Sebesi",
+      "lokasi_kabupaten_kota": "LAMPUNG SELATAN",
+      "unit_kerja": "KUPP KELAS III TELUK BETUNG",
+      "alamat_kantor": "BANDAR LAMPUNG",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "PEX",
+      "nama_pelabuhan": "Pekalongan",
+      "lokasi_kabupaten_kota": "PEKALONGAN",
+      "unit_kerja": "KUPP KELAS II PEKALONGAN",
+      "alamat_kantor": "KOTA PEKALONGAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PGB",
+      "nama_pelabuhan": "P. Gebe",
+      "lokasi_kabupaten_kota": "HALMAHERA TIMUR",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PGM",
+      "nama_pelabuhan": "Pagimana",
+      "lokasi_kabupaten_kota": "BANGGAI",
+      "unit_kerja": "KUPP KELAS III PAGIMANA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kc. Pagimana Kab. Banggai- Sulteng 94752",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PGX",
+      "nama_pelabuhan": "Pangkal Balam",
+      "lokasi_kabupaten_kota": "KOTA PANGKAL PINANG",
+      "unit_kerja": "KSOP KELAS IV PANGKAL BALAM",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PHI",
+      "nama_pelabuhan": "Pelaihari/Swarangan",
+      "lokasi_kabupaten_kota": "TANAH LAUT",
+      "unit_kerja": "KUPP KELAS III KINTAP",
+      "alamat_kantor": "Jl. Batu Anting Desa Kintap Kecil Kec. Kintap Kab. Tanah Laut; Kalsel - 70883",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PIN",
+      "nama_pelabuhan": "Panipahan",
+      "lokasi_kabupaten_kota": "ROKAN HILIR",
+      "unit_kerja": "KUPP KELAS III PANIPAHAN",
+      "alamat_kantor": "BENGKALIS",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PIO",
+      "nama_pelabuhan": "Pattirobajo",
+      "lokasi_kabupaten_kota": "BONE",
+      "unit_kerja": "KUPP KELAS III PATTIROBAJO",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kec. Sibulue Kab. Bone Sulsel 92781",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PJM",
+      "nama_pelabuhan": "Jampea",
+      "lokasi_kabupaten_kota": "KEPULAUAN SELAYAR",
+      "unit_kerja": "KUPP KELAS III JAMPEA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Benteng Jampea Sulsel",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PJN",
+      "nama_pelabuhan": "Pekajang",
+      "lokasi_kabupaten_kota": "LINGGA",
+      "unit_kerja": "KUPP KELAS III DABO SINGKEP",
+      "alamat_kantor": "DABO SINGKEP - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "PKA",
+      "nama_pelabuhan": "Pulau Kampai",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KUPP KELAS III PULAU KAMPAI",
+      "alamat_kantor": "LANGKAT - SUMATERA UTARA",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "PKR",
+      "nama_pelabuhan": "Pangkalan Brandan",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN SUSU",
+      "alamat_kantor": "Jl. Pelabuhan No. 05 Pangkalan Susu Langkat Sumatera Utara 20858",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "PKS",
+      "nama_pelabuhan": "Pangkalan Susu",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN SUSU",
+      "alamat_kantor": "Jl. Pelabuhan No. 05 Pangkalan Susu Langkat Sumatera Utara 20858",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "PLB",
+      "nama_pelabuhan": "Pangkalan Bun",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN BARAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN BUN",
+      "alamat_kantor": "Jl. Pangeran Antasari Komp. Pelabuhan Pangkalan Bun Kalimantan Tengah",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "PLH",
+      "nama_pelabuhan": "Paleleh",
+      "lokasi_kabupaten_kota": "BUOL",
+      "unit_kerja": "UPP KELAS III LEOK",
+      "alamat_kantor": "Jl. Syarif Mansyur No. 356 Kel. Leok 1 Kec. Biau Kab. Buol Sulteng 94563",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PLI",
+      "nama_pelabuhan": "Palipi",
+      "lokasi_kabupaten_kota": "MAJENE",
+      "unit_kerja": "KUPP KELAS III MAJENE",
+      "alamat_kantor": "Jl. Ammana Wewang No. 21 Kab. Majene Sulbar 91411",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PLY",
+      "nama_pelabuhan": "Pulau Kayoa",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PMI",
+      "nama_pelabuhan": "Pegatan Mendawai",
+      "lokasi_kabupaten_kota": "KATINGAN",
+      "unit_kerja": "KSOP KELAS V PEGATAN MENDAWAI",
+      "alamat_kantor": "Jl. Merdeka No 2 Pegatan Mendawai Klateng 74463",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PMK",
+      "nama_pelabuhan": "Pomako",
+      "lokasi_kabupaten_kota": "MIMIKA",
+      "unit_kerja": "KUPP KELAS II POMAKO I/POMAKO II",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Pomako Timika Papua 99910",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "PMN",
+      "nama_pelabuhan": "Pamanukan/Blanakan",
+      "lokasi_kabupaten_kota": "SUBANG",
+      "unit_kerja": "KUPP KELAS III PELABUHAN PAMANUKAN",
+      "alamat_kantor": "PAMANUKAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PNI",
+      "nama_pelabuhan": "Paniti",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PNJ",
+      "nama_pelabuhan": "Panjang",
+      "lokasi_kabupaten_kota": "BANDAR LAMPUNG",
+      "unit_kerja": "KSOP KELAS I PANJANG",
+      "alamat_kantor": "Jl. Yos Sudarso No. 34A Panjang Bandar Lampung; Lampung 35241",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "PNK",
+      "nama_pelabuhan": "Pontianak",
+      "lokasi_kabupaten_kota": "PONTIANAK",
+      "unit_kerja": "KSOP KELAS II PONTIANAK",
+      "alamat_kantor": "Jl. Rahadi Usman No. 2 Pontianak Kalimantan Barat",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "kode_pelabuhan": "POA",
+      "nama_pelabuhan": "Pota",
+      "lokasi_kabupaten_kota": "MANGGARAI TIMUR",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "POJ",
+      "nama_pelabuhan": "Palopo/Tg. Ringgit",
+      "lokasi_kabupaten_kota": "KOTA PALOPO",
+      "unit_kerja": "KUPP KELAS II PALOPO",
+      "alamat_kantor": "LUWU",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "POW",
+      "nama_pelabuhan": "Pulau Owi",
+      "lokasi_kabupaten_kota": "BIAK NUMFOR",
+      "unit_kerja": "KSOP KELAS III BIAK",
+      "alamat_kantor": "Jl.Jendral Sudirman No. 53 Biak Papua 98115",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "PPE",
+      "nama_pelabuhan": "Pasipalele",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PPI",
+      "nama_pelabuhan": "Popolii",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PPM",
+      "nama_pelabuhan": "Pam",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "PPS",
+      "nama_pelabuhan": "Pulang Pisau",
+      "lokasi_kabupaten_kota": "PULANG PISAU",
+      "unit_kerja": "KSOP KELAS IV PULANG PISAU",
+      "alamat_kantor": "Jl. Samudera No. 137 Rt. XIII Pulang Pisau Kalimantan Tengah 73561",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "PQR",
+      "nama_pelabuhan": "Pekanbaru",
+      "lokasi_kabupaten_kota": "KOTA PEKANBARU",
+      "unit_kerja": "KSOP KELAS III PEKANBARU",
+      "alamat_kantor": "Jl. Kampung Dalam I Rt.01/05 Pekanbaru - Riau 28152",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "PRA",
+      "nama_pelabuhan": "Palabuhanratu",
+      "lokasi_kabupaten_kota": "SUKABUMI",
+      "unit_kerja": "KUPP KELAS III PELABUHAN RATU",
+      "alamat_kantor": "SUKABUMI",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PRI",
+      "nama_pelabuhan": "Parigi",
+      "lokasi_kabupaten_kota": "PARIGI MOUTONG",
+      "unit_kerja": "KUPP KELAS III PARIGI",
+      "alamat_kantor": "Jl. Pelabuhan Parigi No. 92 Kec. Parigi Kab. Donggala Parigi Palu Sulteng 94371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PRJ",
+      "nama_pelabuhan": "Pigaraja",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PRN",
+      "nama_pelabuhan": "Panarukan",
+      "lokasi_kabupaten_kota": "SITUBONDO",
+      "unit_kerja": "KSOP KELAS IV PANARUKAN",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Panurukan; Jatim - 68351",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PSJ",
+      "nama_pelabuhan": "Poso",
+      "lokasi_kabupaten_kota": "POSO",
+      "unit_kerja": "KUPP KELAS III POSO",
+      "alamat_kantor": "Jl. Pattimura No 3 Poso Sulawesi Tengah 94616",
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "kode_pelabuhan": "PSN",
+      "nama_pelabuhan": "Pasean",
+      "lokasi_kabupaten_kota": "PAMEKASAN",
+      "unit_kerja": "KUPP KELAS III TELAGA BIRU",
+      "alamat_kantor": "Jl. Pelabuhan No. 54 Telagabiru Bangkalan Jawa Timur 69156",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "PTA",
+      "nama_pelabuhan": "Teluk Air / Padang Tikar",
+      "lokasi_kabupaten_kota": "KUBU RAYA",
+      "unit_kerja": "KSOP KELAS III PADANG TIKAR",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kec. Batu Amper Kab. Kubu Raya Pontianak Kalimantan Barat 78385",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "kode_pelabuhan": "PTB",
+      "nama_pelabuhan": "Pulau Tabuan",
+      "lokasi_kabupaten_kota": "TANGGAMUS",
+      "unit_kerja": "KUPP KELAS III KOTA AGUNG",
+      "alamat_kantor": "LAMPUNG SELATAN",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "PTE",
+      "nama_pelabuhan": "Pulau Tello",
+      "lokasi_kabupaten_kota": "NIAS SELATAN",
+      "unit_kerja": "KUPP KELAS III PULAU TELLO",
+      "alamat_kantor": "PULAU TELLO - NIAS SELATAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PTI",
+      "nama_pelabuhan": "Patani",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PTK",
+      "nama_pelabuhan": "Parit Rempak",
+      "lokasi_kabupaten_kota": "KEPULAUAN RIAU",
+      "unit_kerja": "KSOP KELAS I TANJUNG BALAI KARIMUN",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PTL",
+      "nama_pelabuhan": "Pantoloan",
+      "lokasi_kabupaten_kota": "KOTA PALU",
+      "unit_kerja": "KSOP KELAS II TELUK PALUXXXXX",
+      "alamat_kantor": "Jl. Mutiara No.4 Donggala",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PTM",
+      "nama_pelabuhan": "Patimban",
+      "lokasi_kabupaten_kota": "SUBANG",
+      "unit_kerja": "KUPP KELAS III PELABUHAN PAMANUKAN",
+      "alamat_kantor": "PAMANUKAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PTT",
+      "nama_pelabuhan": "Pamatata",
+      "lokasi_kabupaten_kota": "KEPULAUAN SELAYAR",
+      "unit_kerja": "UPP KELAS III SELAYAR",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 anteng Selayar Sulsel 92812",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "PUA",
+      "nama_pelabuhan": "Pulau Salura",
+      "lokasi_kabupaten_kota": "SUMBA TIMUR",
+      "unit_kerja": "KSOP KELAS IV WAINGAPU",
+      "alamat_kantor": "Jl. Nangamesi No. 11 Waingapu Nusa Tenggara Timur 87110",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "PUN",
+      "nama_pelabuhan": "Pulau Seluan",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "PYH",
+      "nama_pelabuhan": "Gita Payahe",
+      "lokasi_kabupaten_kota": "KOTA TIDORE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "RAM",
+      "nama_pelabuhan": "Tanjung Tiram/Batubara",
+      "lokasi_kabupaten_kota": "BATU BARA",
+      "unit_kerja": "KUPP TANJUNG TIRAM",
+      "alamat_kantor": "ASAHAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "RAQ",
+      "nama_pelabuhan": "Raha",
+      "lokasi_kabupaten_kota": "MUNA",
+      "unit_kerja": "KUPP KELAS II RAHA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Raha Sulawesi Tenggara 93611",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "kode_pelabuhan": "RAS",
+      "nama_pelabuhan": "P. Raas",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III SAPUDI",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Gawam Sapudi Kab. Sumenep Madura Jawa Timur 69483",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "RBG",
+      "nama_pelabuhan": "Rembang",
+      "lokasi_kabupaten_kota": "REMBANG",
+      "unit_kerja": "KUPP KELAS III PELABUHAN REMBANG",
+      "alamat_kantor": "REMBANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "RCI",
+      "nama_pelabuhan": "Rengat/Kuala Cinaku",
+      "lokasi_kabupaten_kota": "INDRAGIRI HULU",
+      "unit_kerja": "KSOP KELAS IV RENGAT/KUALA CINAKU",
+      "alamat_kantor": "Jl. Ahmad Yani No. 10 Rengat Inhu - Riau 29319 Telp. 0769-323355; Fax. 0769-323466 ksoprengat@dephub.go.id",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "REO",
+      "nama_pelabuhan": "Reo",
+      "lokasi_kabupaten_kota": "MANGGARAI",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "RGG",
+      "nama_pelabuhan": "Rangga Ilung",
+      "lokasi_kabupaten_kota": "BARITO SELATAN",
+      "unit_kerja": "KSOP KELAS IV KUMAI",
+      "alamat_kantor": "Jl. Bendahara No. 230 Kumai Kab. Kotawaringin Barat - Kalteng 74181",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "RIA",
+      "nama_pelabuhan": "Raijua",
+      "lokasi_kabupaten_kota": "SABU RAIJUA",
+      "unit_kerja": "KUPP KELAS III SEBA",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "RIG",
+      "nama_pelabuhan": "Riung",
+      "lokasi_kabupaten_kota": "NGADA",
+      "unit_kerja": "KUPP KELAS III MARAPOKOT",
+      "alamat_kantor": "Jl. Pelabuhan Marapokot No. 01 Marapokot Nusa Tenggara Timur 86472",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "RIS",
+      "nama_pelabuhan": "Rainis",
+      "lokasi_kabupaten_kota": "KEPULAUAN TALAUD",
+      "unit_kerja": "KUPP KELAS III MELONGUANE",
+      "alamat_kantor": "Jl Komp. Pelabuhan Lirung Kec. Lirung Kab. Talaud; Lirung Sulawesi Utara 95871",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "RMG",
+      "nama_pelabuhan": "Hila/Romang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "RNE",
+      "nama_pelabuhan": "Sluke",
+      "lokasi_kabupaten_kota": "REMBANG",
+      "unit_kerja": "KUPP KELAS III PELABUHAN REMBANG",
+      "alamat_kantor": "REMBANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "RNI",
+      "nama_pelabuhan": "Ranai",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "RSK",
+      "nama_pelabuhan": "Ransiki",
+      "lokasi_kabupaten_kota": "MANOKWARI",
+      "unit_kerja": "KUPP KELAS III ORANSBARI",
+      "alamat_kantor": "Jl. Pelabuhan Oransbari Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "RUH",
+      "nama_pelabuhan": "Saparua/Haria",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SAA",
+      "nama_pelabuhan": "Sukamara",
+      "lokasi_kabupaten_kota": "SUKAMARA",
+      "unit_kerja": "KSOP KELAS IV SUKAMARA",
+      "alamat_kantor": "Jl. Pelabuhan No. 14 Sukamara Kalimantan Tengah 74172",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "SAG",
+      "nama_pelabuhan": "Sampang",
+      "lokasi_kabupaten_kota": "SAMPANG",
+      "unit_kerja": "UPP KELAS II BRANTA",
+      "alamat_kantor": "Jl. Pelabuhan Branta No. 1; Tlanakan Pamekasan - 69371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SAI",
+      "nama_pelabuhan": "P. Sailus",
+      "lokasi_kabupaten_kota": "PANGKAJENE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS II MACCINI BAJI",
+      "alamat_kantor": "Jl. Pelabuhan BiringKasie Pengkeb Sulsel 90651",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SAL",
+      "nama_pelabuhan": "Salakan",
+      "lokasi_kabupaten_kota": "BANGGAI KEPULAUAN",
+      "unit_kerja": "KUPP KELAS II BANGGAI",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Banggai Kab. Banggai Kepulauan Sulteng 94791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SAP",
+      "nama_pelabuhan": "Sape",
+      "lokasi_kabupaten_kota": "BIMA",
+      "unit_kerja": "KUPP KELAS III SAPE",
+      "alamat_kantor": "Jl. Pelabuhan Niaga No. 1 Sape Bima Kab. Bima Nusa Tenggara Barat",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "SBD",
+      "nama_pelabuhan": "Sibadeh",
+      "lokasi_kabupaten_kota": "ACEH SELATAN",
+      "unit_kerja": "KUPP KELAS III TAPAK TUAN",
+      "alamat_kantor": "ACEH SELATAN",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "SBE",
+      "nama_pelabuhan": "Sei Berombang",
+      "lokasi_kabupaten_kota": "LABUAN BATU",
+      "unit_kerja": "KUPP KELAS III SEI BEROMBANG",
+      "alamat_kantor": "Jl. Syahbandar No. 86 Sei Barombong Sumatera Utara 21473",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "SBG",
+      "nama_pelabuhan": "Sabang",
+      "lokasi_kabupaten_kota": "KOTA SABANG",
+      "unit_kerja": "KSOP KELAS IV SABANG",
+      "alamat_kantor": "Jl. Malahayati No. 82 Sabang NAD 23512 Telp. 0652-21016; Fax. 0652-21017 Email : adpelsabang@yahoo.co.id / ksopsabang@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SBO",
+      "nama_pelabuhan": "Sibigo",
+      "lokasi_kabupaten_kota": "SIMEULUE",
+      "unit_kerja": "KUPP KELAS III SINABANG",
+      "alamat_kantor": "Jl. Naional No. 212 Sinabang NAD 23691",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SDI",
+      "nama_pelabuhan": "Sadai",
+      "lokasi_kabupaten_kota": "BANGKA SELATAN",
+      "unit_kerja": "KUPP KELAS III TOBOALI",
+      "alamat_kantor": "BANGKA",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SDQ",
+      "nama_pelabuhan": "Tanjung Sidupa",
+      "lokasi_kabupaten_kota": "GORONTALO UTARA",
+      "unit_kerja": "KUPP KELAS III LABUHAN UKI/INEBONTO",
+      "alamat_kantor": "Jl. Pelabuhan No. 128 Desa Labuhan Uki Kec. Loka Kab. Bolaang Mongondow Sulut 95761",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SDU",
+      "nama_pelabuhan": "Sedanau",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SEG",
+      "nama_pelabuhan": "Serongga",
+      "lokasi_kabupaten_kota": "BARU",
+      "unit_kerja": "KUPP KELAS III TANJUNG BATU",
+      "alamat_kantor": "Jl. Pangeran Arga Kusuma No. 2 Kec. Kelumpang Tengah Kab. Kotabaru Tanjung Batu; Kalsel - 72164",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SEI",
+      "nama_pelabuhan": "Sebuku",
+      "lokasi_kabupaten_kota": "BARU",
+      "unit_kerja": "KUPP KELAS III SEBUKU",
+      "alamat_kantor": "Jl. Raya Batulicin RT.010/002 Batu Licin Tanah Bumbu; Kalsel - 72171",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SEL",
+      "nama_pelabuhan": "Sebalang",
+      "lokasi_kabupaten_kota": "LAMPUNG SELATAN",
+      "unit_kerja": "KUPP KELAS III TELUK BETUNG",
+      "alamat_kantor": "BANDAR LAMPUNG",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "SEO",
+      "nama_pelabuhan": "Sepo",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SEQ",
+      "nama_pelabuhan": "Sungai Pakning",
+      "lokasi_kabupaten_kota": "BENGKALIS",
+      "unit_kerja": "KSOP KELAS III SUNGAI PAKNING",
+      "alamat_kantor": "bengkalis",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SET",
+      "nama_pelabuhan": "Seget",
+      "lokasi_kabupaten_kota": "SORONG",
+      "unit_kerja": "KUPP KELAS III TAMINABUAN",
+      "alamat_kantor": "Jl. Pelabuhan Teminibuan Kab. Sorang Selatan Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "SFI",
+      "nama_pelabuhan": "Sofifi",
+      "lokasi_kabupaten_kota": "KOTA TIDORE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SGG",
+      "nama_pelabuhan": "Sungsang",
+      "lokasi_kabupaten_kota": "BANYUASIN",
+      "unit_kerja": "KSOP KELAS II PALEMBANG",
+      "alamat_kantor": "Banyuasin-Sumatera Selatan",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "SGQ",
+      "nama_pelabuhan": "Sangatta",
+      "lokasi_kabupaten_kota": "KUTAI TIMUR",
+      "unit_kerja": "KUPP KELAS II SANGATTA",
+      "alamat_kantor": "Jl. Pelabuhan No ;6 Sangatta .Kab .Kutai Timur Kaliamntan Timur 75612",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SII",
+      "nama_pelabuhan": "Sigli",
+      "lokasi_kabupaten_kota": "PIDIE",
+      "unit_kerja": "KSOP KELAS IV MALAHAYATI",
+      "alamat_kantor": "Jl. Patimura No. 89 Kel. Sukaramai Blower; Banda Aceh Telp/Fax. 0651-48555 Email : adpelmalahayati@yahoo.com / ksopmalahayati@dephub.go.id",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "SIK",
+      "nama_pelabuhan": "Sikakap",
+      "lokasi_kabupaten_kota": "KEPULAUAN MENTAWAI",
+      "unit_kerja": "KUPP KELAS III SIKAKAP",
+      "alamat_kantor": "MENTAWAI",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SIO",
+      "nama_pelabuhan": "Soasio/Goto",
+      "lokasi_kabupaten_kota": "KOTA TIDORE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SIUB",
+      "nama_pelabuhan": "Siuban",
+      "lokasi_kabupaten_kota": "KEPULAUAN MENTAWAI",
+      "unit_kerja": "KUPP KELAS III SIUBAN",
+      "alamat_kantor": "MENTAWAI",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SJI",
+      "nama_pelabuhan": "Sinjai/Larea-rea",
+      "lokasi_kabupaten_kota": "SINJAI",
+      "unit_kerja": "KUPP KELAS III SINJAI",
+      "alamat_kantor": "Jl. Halim Perdana Kusuma Sinjai Sulsel 92614",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SKA",
+      "nama_pelabuhan": "Saketa",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SKB",
+      "nama_pelabuhan": "Pokai",
+      "lokasi_kabupaten_kota": "KEPULAUAN MENTAWAI",
+      "unit_kerja": "KUPP KELAS III MUARA SIBERUT",
+      "alamat_kantor": "Kepulauan Mentawai-Sumatera Barat",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "SKE",
+      "nama_pelabuhan": "Sunda Kelapa",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KSOP KELAS III SUNDA KELAPA",
+      "alamat_kantor": "Jl. Raya Baruna No. 2 Pelabuhan Sunda Kelapa Jakarta Utara 14430",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "SKI",
+      "nama_pelabuhan": "Sangkulirang",
+      "lokasi_kabupaten_kota": "KUTAI TIMUR",
+      "unit_kerja": "KUPP KELAS III SANGKULIRANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 20 Sankulirang Kaltim 75384",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SKJ",
+      "nama_pelabuhan": "Sei Kolak Kijang",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS III KIJANG",
+      "alamat_kantor": "Jl. Pelabuhan Sri Bayintan No. 9 Kijang - Kepri 29151 Telp. 0771-463765; Fax. 0771-61561 ksopkijang@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SKL",
+      "nama_pelabuhan": "Sikeli",
+      "lokasi_kabupaten_kota": "BOMBANA",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SKM",
+      "nama_pelabuhan": "Saukorem",
+      "lokasi_kabupaten_kota": "MANOKWARI",
+      "unit_kerja": "KSOP KELAS IV MANOKWARI",
+      "alamat_kantor": "Jl.Banjarmasin No 6 Monokwari Papua Barat 98311",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "SKW",
+      "nama_pelabuhan": "Singkawang",
+      "lokasi_kabupaten_kota": "SAMBAS",
+      "unit_kerja": "KSOP KELAS IV SINTETE/ PEMANGKAT",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sintete Pemangkat Prov. Kalimantan Barat 79453",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "kode_pelabuhan": "SLG",
+      "nama_pelabuhan": "Sibolga",
+      "lokasi_kabupaten_kota": "KOTA SIBOLGA",
+      "unit_kerja": "KSOP KELAS IV SIBOLGA",
+      "alamat_kantor": "Jl. Horas Pelabuhan Sibolga; Sibolga Sumatera Utara 22532",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "SLJ",
+      "nama_pelabuhan": "Selat Panjang",
+      "lokasi_kabupaten_kota": "PULAU MERANTI",
+      "unit_kerja": "KSOP KELAS IV SELAT PANJANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 2 Selat Panjang Riau 28753",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "SLU",
+      "nama_pelabuhan": "Sungai Lumpur",
+      "lokasi_kabupaten_kota": "OGAN KOMERING ILIR",
+      "unit_kerja": "KUPP KELAS III SUNGAI LUMPUR",
+      "alamat_kantor": "OGAN KOMERING ILIR",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SMA",
+      "nama_pelabuhan": "Samuda",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN TIMUR",
+      "unit_kerja": "KSOP KELAS V SAMUDA",
+      "alamat_kantor": "Jl. H.M. Noor No .5 Rt.01/Rw.01 Samuda Kalimantan Tengah 74363",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "SME",
+      "nama_pelabuhan": "Subaim",
+      "lokasi_kabupaten_kota": "HALMAHERA TIMUR",
+      "unit_kerja": "KUPP KELAS III BULI",
+      "alamat_kantor": "Jl;. Pelabuhan Buli Kec. Maba Kab. Halmahera Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SMQ",
+      "nama_pelabuhan": "Sampit",
+      "lokasi_kabupaten_kota": "KOTAWARINGIN TIMUR",
+      "unit_kerja": "KSOP KELAS III SAMPIT",
+      "alamat_kantor": "Jl. Iskandar No. 3 Sampit Kota Waringin Timur Kalimantan Tengah 74322",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "SMU",
+      "nama_pelabuhan": "Pulau Sambu",
+      "lokasi_kabupaten_kota": "KOTA BATAM",
+      "unit_kerja": "KSOP KELAS III PULAU SAMBU",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SNE",
+      "nama_pelabuhan": "Sintete",
+      "lokasi_kabupaten_kota": "SAMBAS",
+      "unit_kerja": "KSOP KELAS IV SINTETE/ PEMANGKAT",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sintete Pemangkat Prov. Kalimantan Barat 79453",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "kode_pelabuhan": "SNG",
+      "nama_pelabuhan": "Sinabang",
+      "lokasi_kabupaten_kota": "SIMEULUE",
+      "unit_kerja": "KUPP KELAS III SINABANG",
+      "alamat_kantor": "Jl. Naional No. 212 Sinabang NAD 23691",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SNI",
+      "nama_pelabuhan": "Sinaboi",
+      "lokasi_kabupaten_kota": "ROKAN HILIR",
+      "unit_kerja": "KUPP KELAS III SINABOI",
+      "alamat_kantor": "BENGKALIS",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SNL",
+      "nama_pelabuhan": "Singkil",
+      "lokasi_kabupaten_kota": "ACEH SINGKIL",
+      "unit_kerja": "KUPP KELAS III SINGKIL",
+      "alamat_kantor": "Jl. Utama No. 20 Pulo Sarok Singkil; Kab. Aceh Singkil 24785",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "SNP",
+      "nama_pelabuhan": "Branta",
+      "lokasi_kabupaten_kota": "PAMEKASAN",
+      "unit_kerja": "UPP KELAS II BRANTA",
+      "alamat_kantor": "Jl. Pelabuhan Branta No. 1; Tlanakan Pamekasan - 69371",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SNYK",
+      "nama_pelabuhan": "Sungai Nyamuk/Sebatik",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KUPP KELAS III SUNGAI NYAMUK",
+      "alamat_kantor": "Jl. Dermaga Sungai Nyamuk No. 1 Kec. Sebatik Kab. Nunukan 77483",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SOK",
+      "nama_pelabuhan": "Saonek",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "SOQ",
+      "nama_pelabuhan": "Sorong",
+      "lokasi_kabupaten_kota": "SORONG",
+      "unit_kerja": "KSOP KELAS I SORONG",
+      "alamat_kantor": "Jl.Jendral A; Yani No 19 Sorong Papua Barat 98413",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "SOU",
+      "nama_pelabuhan": "Siompu",
+      "lokasi_kabupaten_kota": "BUTON",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SPK",
+      "nama_pelabuhan": "P. Sapuka",
+      "lokasi_kabupaten_kota": "PANGKAJENE KEPULAUAN",
+      "unit_kerja": "KUPP KELAS II MACCINI BAJI",
+      "alamat_kantor": "Jl. Pelabuhan BiringKasie Pengkeb Sulsel 90651",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SPN",
+      "nama_pelabuhan": "Sapeken",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III PELABUHAN SAPEKEN",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Sapeken Suminto; Madura Jatim",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SQN",
+      "nama_pelabuhan": "Sanana",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "SQQ",
+      "nama_pelabuhan": "Tanjung Selor Kayu / Kayan I",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KUPP KELAS II TANJUNG SELOR",
+      "alamat_kantor": "Jl. Jend Sudirman Rt.VIII No. 16 Tanjung Selor Kalimantan Utara 77212",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "kode_pelabuhan": "SRG",
+      "nama_pelabuhan": "Tanjung Emas",
+      "lokasi_kabupaten_kota": "SEMARANG",
+      "unit_kerja": "KSOP KELAS I TANJUNG EMAS SEMARANG",
+      "alamat_kantor": "Jl. Yos Sudarso No. 30 Kel. Tanjung Emas Kec. Semarang Jateng 50174 Telp/Fax. 024-3852335 ksoptanjungemas@dephub.go.id",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SRI",
+      "nama_pelabuhan": "Samarinda",
+      "lokasi_kabupaten_kota": "KOTA SAMARINDA",
+      "unit_kerja": "KSOP KELAS II SAMARINDA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 2 Samarinda Kalimantan Timur 75113",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "SRS",
+      "nama_pelabuhan": "Serasan",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SRU",
+      "nama_pelabuhan": "Sirombu",
+      "lokasi_kabupaten_kota": "NIAS BARAT",
+      "unit_kerja": "KUPP KELAS III SIROMBU",
+      "alamat_kantor": "SIROMBU - NIAS BARAT",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SRX",
+      "nama_pelabuhan": "Seira",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SSR",
+      "nama_pelabuhan": "Sausapor",
+      "lokasi_kabupaten_kota": "TAMBRAUW",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "STA",
+      "nama_pelabuhan": "Selat Lampa",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SUB",
+      "nama_pelabuhan": "Tanjung Perak",
+      "lokasi_kabupaten_kota": "KOTA SURABAYA",
+      "unit_kerja": "KANTOR SYAHBANDAR UTAMA TANJUNG PERAK SURABAYA",
+      "alamat_kantor": "Jl. Kalimas Baru No. 194 Surabaya Jawa Timur 60165",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "SUI",
+      "nama_pelabuhan": "Subi",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SUQ",
+      "nama_pelabuhan": "Sungai Guntung",
+      "lokasi_kabupaten_kota": "INDRAGIRI HILIR",
+      "unit_kerja": "KUPP KELAS III SUNGAI GUNTUNG",
+      "alamat_kantor": "INDRAGIRI HILIR",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SUR",
+      "nama_pelabuhan": "Satui/Batu licin",
+      "lokasi_kabupaten_kota": "TANAH BUMBU",
+      "unit_kerja": "KUPP KELAS III SEI DANAU/SATUI",
+      "alamat_kantor": "Jl. Kuripan No. 5 Rt.24Sungai Danau Satui Kab. Tanah Bumbu Sungai Danau Satui; Kalsel 72175",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SUS",
+      "nama_pelabuhan": "Susoh",
+      "lokasi_kabupaten_kota": "ACEH BARAT DAYA",
+      "unit_kerja": "KUPP KELAS III SUSOH",
+      "alamat_kantor": "Jl. Datuk Digaduang No.167 Susoh; Nanggroe Aceh Darussalam 23765",
+      "provinsi": "Nanggroe Aceh Darussalam"
+    },
+    {
+      "kode_pelabuhan": "SWA",
+      "nama_pelabuhan": "Siwa/Bangsalae",
+      "lokasi_kabupaten_kota": "WAJO",
+      "unit_kerja": "KUPP KELAS III SIWA",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Kec. Pitumpanua Kab. Wajo Siwa Sulsel 90992",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SWG",
+      "nama_pelabuhan": "Sawang",
+      "lokasi_kabupaten_kota": "SITARO",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "SWU",
+      "nama_pelabuhan": "Serwaru",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SXK",
+      "nama_pelabuhan": "Saumlaki",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SYG",
+      "nama_pelabuhan": "Senayang",
+      "lokasi_kabupaten_kota": "LINGGA",
+      "unit_kerja": "KUPP KELAS III SENAYANG",
+      "alamat_kantor": "SENAYANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SYP",
+      "nama_pelabuhan": "Sesayap",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KSOP KELAS III TARAKAN",
+      "alamat_kantor": "Jl. Yos Sudarso No. 8 Lingkas Ujug Tarakan Kalimantan Utara 77126",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "kode_pelabuhan": "TAA",
+      "nama_pelabuhan": "Tilamuta",
+      "lokasi_kabupaten_kota": "BOALEMO",
+      "unit_kerja": "UPP KELAS III TILAMUTA",
+      "alamat_kantor": "Jl. Pelabuhan No. 106 Kec. Tilamuta Kab. Boalemo Gorontalo 96263",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "TAG",
+      "nama_pelabuhan": "Kota Agung",
+      "lokasi_kabupaten_kota": "TANGGAMUS",
+      "unit_kerja": "KUPP KELAS III KOTA AGUNG",
+      "alamat_kantor": "LAMPUNG SELATAN",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "TAI",
+      "nama_pelabuhan": "Tanjung Satai",
+      "lokasi_kabupaten_kota": "KAYONG UTARA",
+      "unit_kerja": "KUPP KELAS III TELUK MELANO",
+      "alamat_kantor": "Jl. Gusti Aplos No. 93 Rt.8/Rw;III Kalbar 78853",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TBD",
+      "nama_pelabuhan": "Tanjung Batu Kundur",
+      "lokasi_kabupaten_kota": "KARIMUN",
+      "unit_kerja": "KUPP KELAS II TANJUNG BATU KUNDUR",
+      "alamat_kantor": "Jl. Pemuda No. 21 Tanjung Batu Kota Kec. Kundur; Kab. Karimun Kepulauan Riau 29662 Telp. 0779-21020; Fax. 0779-21001 upptanjungbatukundur@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "TBE",
+      "nama_pelabuhan": "Tanjung Beringin",
+      "lokasi_kabupaten_kota": "SERDANG BEDAGAI",
+      "unit_kerja": "KUPP KELAS II TANJUNG BERINGIN",
+      "alamat_kantor": "ASAHAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TBG",
+      "nama_pelabuhan": "Teluk Betung",
+      "lokasi_kabupaten_kota": "BANDAR LAMPUNG",
+      "unit_kerja": "KUPP KELAS III TELUK BETUNG",
+      "alamat_kantor": "BANDAR LAMPUNG",
+      "provinsi": "Lampung"
+    },
+    {
+      "kode_pelabuhan": "TBL",
+      "nama_pelabuhan": "Toboali",
+      "lokasi_kabupaten_kota": "BANGKA SELATAN",
+      "unit_kerja": "KUPP KELAS III TOBOALI",
+      "alamat_kantor": "BANGKA",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TBO",
+      "nama_pelabuhan": "Tobelo",
+      "lokasi_kabupaten_kota": "HALMAHERA UTARA",
+      "unit_kerja": "KUPP KELAS I TOBELO",
+      "alamat_kantor": "Jl. Pelabuhan No.1 Tobelo Kab. Halmahera Utara Prov. Maluku Utara",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "TBY",
+      "nama_pelabuhan": "Teluk Bayur",
+      "lokasi_kabupaten_kota": "KOTA PADANG",
+      "unit_kerja": "KSOP KELAS II TELUK BAYUR",
+      "alamat_kantor": "Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "TDA",
+      "nama_pelabuhan": "Teluk Dalam",
+      "lokasi_kabupaten_kota": "NIAS SELATAN",
+      "unit_kerja": "KUPP KELAS III TELUK DALAM NIAS",
+      "alamat_kantor": "NIAS SELATAN",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TEE",
+      "nama_pelabuhan": "Tabarfane",
+      "lokasi_kabupaten_kota": "KAB. TUAL",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TEG",
+      "nama_pelabuhan": "Tegal",
+      "lokasi_kabupaten_kota": "TEGAL",
+      "unit_kerja": "KSOP KELAS IV TEGAL",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TEI",
+      "nama_pelabuhan": "Ternate",
+      "lokasi_kabupaten_kota": "KOTA TERNATE",
+      "unit_kerja": "KSOP KELAS II TERNATE",
+      "alamat_kantor": "Jl. Jend. Ahmad Yani Kompleks Pelabuhan Ahmad Yani Ternate Maluku Utara 97724",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "TEK",
+      "nama_pelabuhan": "Parlimbungan Ketek",
+      "lokasi_kabupaten_kota": "MANDAILING NATAL",
+      "unit_kerja": "KUPP KELAS III BATAHAN",
+      "alamat_kantor": "Mandailing Natal-Sumatera Utara",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "TFE",
+      "nama_pelabuhan": "Tifure",
+      "lokasi_kabupaten_kota": "KOTA TERNATE",
+      "unit_kerja": "KUPP KELAS III SOA-SIU",
+      "alamat_kantor": "Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TFG",
+      "nama_pelabuhan": "Teluk Tapang",
+      "lokasi_kabupaten_kota": "PASAMAN BARAT",
+      "unit_kerja": "KSOP KELAS II TELUK BAYUR",
+      "alamat_kantor": "Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "kode_pelabuhan": "TGL",
+      "nama_pelabuhan": "Tagulandang",
+      "lokasi_kabupaten_kota": "SITARO",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TGP",
+      "nama_pelabuhan": "Tanjung Api-Api",
+      "lokasi_kabupaten_kota": "BANYUASIN",
+      "unit_kerja": "PEMBANGUNAN FASILITAS PELABUHAN TANJUNG API-API",
+      "alamat_kantor": "Kab. Banyuasin; Rimau Sungsang; Palembang; Kabupaten Banyu Asin; Sumatera Selatan 30971",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "kode_pelabuhan": "TGU",
+      "nama_pelabuhan": "Telaga Biru",
+      "lokasi_kabupaten_kota": "BANGKALAN",
+      "unit_kerja": "KUPP KELAS III TELAGA BIRU",
+      "alamat_kantor": "Jl. Pelabuhan No. 54 Telagabiru Bangkalan Jawa Timur 69156",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "THA",
+      "nama_pelabuhan": "Tahuna",
+      "lokasi_kabupaten_kota": "KEPULAUAN SANGIHE",
+      "unit_kerja": "KUPP KELAS II TAHUNA",
+      "alamat_kantor": "Jl.Pelabuhan Tahuna No.1 Kab .Kepl.Sangihe Tahuna Sulawesi Utara 95851",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "kode_pelabuhan": "THH",
+      "nama_pelabuhan": "Tuhaha",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TJB",
+      "nama_pelabuhan": "Tanjung Balai Karimun",
+      "lokasi_kabupaten_kota": "KARIMUN",
+      "unit_kerja": "KSOP KELAS I TANJUNG BALAI KARIMUN",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TJP",
+      "nama_pelabuhan": "Tanjung Pakis",
+      "lokasi_kabupaten_kota": "LAMONGAN",
+      "unit_kerja": "UPP KELAS III BRONDONG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sedayulawas Kec. Brondong Lamongan; Jawa Timur - 662814",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "TJQ",
+      "nama_pelabuhan": "Tanjung Pandan",
+      "lokasi_kabupaten_kota": "BELITUNG",
+      "unit_kerja": "KSOP KELAS IV TANJUNG PANDAN",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Tanjung Pandan Belitung 33411",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TKM",
+      "nama_pelabuhan": "Tutu Kembong",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TLA",
+      "nama_pelabuhan": "Tanjung Laut",
+      "lokasi_kabupaten_kota": "KOTA BONTANG",
+      "unit_kerja": "KUPP KELAS I TANJUNG LAUT",
+      "alamat_kantor": "Jl. Pelabuahan No.28 Rt.10 Tanjung Laut Indah Bontang Kalimantan Timur 75321",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "TLI",
+      "nama_pelabuhan": "Toli-toli",
+      "lokasi_kabupaten_kota": "TOLI-TOLI",
+      "unit_kerja": "KSOP KELAS IV TOLI-TOLI",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Tolo-toli Sulawesi Tengah 94500",
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "kode_pelabuhan": "TLN",
+      "nama_pelabuhan": "Tembilahan",
+      "lokasi_kabupaten_kota": "INDRAGIRI HULU",
+      "unit_kerja": "KSOP KELAS IV TEMBILAHAN",
+      "alamat_kantor": "Jl. Jend. Sudirman No. 75 Tembilahan Kab. Indragiri Hilir - Riau 29212 Telp/Fax. 0768-22033 Email : ksoptembilahan@gmail.com",
+      "provinsi": "Riau"
+    },
+    {
+      "kode_pelabuhan": "TMD",
+      "nama_pelabuhan": "Tanjung Medang",
+      "lokasi_kabupaten_kota": "BENGKALIS",
+      "unit_kerja": "KUPP KELAS III TANJUNG MEDANG",
+      "alamat_kantor": "BENGKALIS",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TMP",
+      "nama_pelabuhan": "Tarempa",
+      "lokasi_kabupaten_kota": "KEPULAUAN ANAMBAS",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "TNJ",
+      "nama_pelabuhan": "Tanjung Pinang",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS II TANJUNG PINANG",
+      "alamat_kantor": "Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "TNL",
+      "nama_pelabuhan": "Taniwel",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TNU",
+      "nama_pelabuhan": "Talang Duku",
+      "lokasi_kabupaten_kota": "MUARO JAMBI",
+      "unit_kerja": "KSOP KELAS III TALANG DUKU",
+      "alamat_kantor": "Jl. Raya Pelabuhan Km. 9 Talang Dukuh - Jambi 36381 Telp. 0741-22844; 22020; Fax. 0741-25280 ksopjambi@dephub.go.id",
+      "provinsi": "Jambi"
+    },
+    {
+      "kode_pelabuhan": "TOK",
+      "nama_pelabuhan": "Torosik",
+      "lokasi_kabupaten_kota": "BOLAANG MONGONDO SELATAN",
+      "unit_kerja": "KUPP KELAS III KOTABUNAN",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Kotabaru Kec. Kotabunan Kab. Bomlang Kotabunan Sulut 95782",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TPA",
+      "nama_pelabuhan": "Tepa",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TPK",
+      "nama_pelabuhan": "Tapaktuan",
+      "lokasi_kabupaten_kota": "ACEH SELATAN",
+      "unit_kerja": "KUPP KELAS III TAPAK TUAN",
+      "alamat_kantor": "ACEH SELATAN",
+      "provinsi": "Aceh"
+    },
+    {
+      "kode_pelabuhan": "TPR",
+      "nama_pelabuhan": "Tanjung Priok",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KANTOR SYAHBANDAR UTAMA TANJUNG PRIOK",
+      "alamat_kantor": "Jl. Padamarang No. 4 Tanjung Priok Jakarta Utara 14310",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "TPT",
+      "nama_pelabuhan": "Tua Pejat",
+      "lokasi_kabupaten_kota": "KEPULAUAN MENTAWAI",
+      "unit_kerja": "KUPP KELAS III SIUBAN",
+      "alamat_kantor": "MENTAWAI",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TPU",
+      "nama_pelabuhan": "Tanjung Pura",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN SUSU",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TQG",
+      "nama_pelabuhan": "Tangkiang",
+      "lokasi_kabupaten_kota": "BANGGAI",
+      "unit_kerja": "KUPP KELAS II LUWUK",
+      "alamat_kantor": "Jl. Yos Sudarso No. 1 Kel. Karaton Kec. Luwuk Kab. Banggai Sulteng 94715",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TQO",
+      "nama_pelabuhan": "Tikong",
+      "lokasi_kabupaten_kota": "KEPULAUAN SULA",
+      "unit_kerja": "KUPP KELAS II SANANA",
+      "alamat_kantor": "Jl.Komplek Pelabuhan Sanana Maluku Utara 97795",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "kode_pelabuhan": "TQP",
+      "nama_pelabuhan": "Kupang",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KSOP KELAS V TENAU KUPANG",
+      "alamat_kantor": "Jl. Yos Sudarso No. 27 Tenau Kupang NTT 85351",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TRE",
+      "nama_pelabuhan": "Tanjung Redeb",
+      "lokasi_kabupaten_kota": "BERAU",
+      "unit_kerja": "KUPP KELAS II TANJUNG REDEP",
+      "alamat_kantor": "Jl. P. Antasari No. 27 Rt.01/Rw.01 Tanjung Redep Kaltim 77312",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TRQ",
+      "nama_pelabuhan": "Tanjung Berakit",
+      "lokasi_kabupaten_kota": "KEPULAUAN RIAU",
+      "unit_kerja": "KUPP KELAS I TANJUNG UBAN",
+      "alamat_kantor": "KOTA TANJUNG PINANG",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TSH",
+      "nama_pelabuhan": "Tanjung Balai Asahan",
+      "lokasi_kabupaten_kota": "ASAHAN",
+      "unit_kerja": "KSOP KELAS IV TANJUNG BALAI ASAHAN",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Nibung 21351",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TSL",
+      "nama_pelabuhan": "Tanjung Sarang Elang",
+      "lokasi_kabupaten_kota": "LABUAN BATU",
+      "unit_kerja": "KUPP KELAS III TANJUNG SARANG",
+      "alamat_kantor": "LABUHAN BATU",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TSX",
+      "nama_pelabuhan": "Tanjung Santan",
+      "lokasi_kabupaten_kota": "KUTAI KERTANEGARA",
+      "unit_kerja": "KUPP KELAS III TANJUNG SANTAN",
+      "alamat_kantor": "Jl. Chevron Tanjung Santan Terminal Balik papan P.O BOX276",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "TTK",
+      "nama_pelabuhan": "Nunukan/Tunon Taka",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KSOP KELAS IV NUNUKAN",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 142 Nunukan - Kalimantan Timur 77482",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "TTN",
+      "nama_pelabuhan": "Teluk Sigintung/Seruyan",
+      "lokasi_kabupaten_kota": "SERUYAN",
+      "unit_kerja": "KSOP KELAS III TELUK SIGINTUNG",
+      "alamat_kantor": "Jl. AIS Nasution Kuala Pembuang Kalimantan Tengah 74211",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "kode_pelabuhan": "TUA",
+      "nama_pelabuhan": "Tual",
+      "lokasi_kabupaten_kota": "KAB. TUAL",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TUH",
+      "nama_pelabuhan": "Tulehu",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "UAA",
+      "nama_pelabuhan": "Una-Una",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "UIA",
+      "nama_pelabuhan": "Eray/Upisera",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "UJB",
+      "nama_pelabuhan": "Ujung Jabung",
+      "lokasi_kabupaten_kota": "TANJUNG JABUNG TIMUR",
+      "unit_kerja": "KUPP KELAS III MENDAHARA",
+      "alamat_kantor": "-",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "UOA",
+      "nama_pelabuhan": "Belopa",
+      "lokasi_kabupaten_kota": "KEPULAUAN SELAYAR",
+      "unit_kerja": "KUPP KELAS II PALOPO",
+      "alamat_kantor": "LUWU",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "USI",
+      "nama_pelabuhan": "Ulu Siau",
+      "lokasi_kabupaten_kota": "SITARO",
+      "unit_kerja": "KUPP KELAS III ULU SIAU",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Ulu Siau Kel. Tatahadeng Kec. Siau Timur Kep. Tagulandang; Biaro Sultra 95861",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WAK",
+      "nama_pelabuhan": "Wakai",
+      "lokasi_kabupaten_kota": "TOJO UNA-UNA",
+      "unit_kerja": "KUPP KELAS III AMPANA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 25 Ampana Sulteng 94683",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WAM",
+      "nama_pelabuhan": "Terong/Waiwerang",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WBA",
+      "nama_pelabuhan": "Wahai",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WCI",
+      "nama_pelabuhan": "Wanci",
+      "lokasi_kabupaten_kota": "WAKATOBI",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WDI",
+      "nama_pelabuhan": "Wendesi",
+      "lokasi_kabupaten_kota": "TELUK WONDAMA",
+      "unit_kerja": "UPP KELAS III WASIOR",
+      "alamat_kantor": "Jl. Kuri Pasai No. 1 Rt.1/Rw.1 Wasior Papua Barat 98362",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "WDO",
+      "nama_pelabuhan": "Wulandoni",
+      "lokasi_kabupaten_kota": "LEMBATA",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WED",
+      "nama_pelabuhan": "Weda",
+      "lokasi_kabupaten_kota": "HALMAHERA TENGAH",
+      "unit_kerja": "KUPP KELAS III PULAU GEBE/WEDA",
+      "alamat_kantor": "Jl. Pulau Fao Kec. Pilau Gebe Kab. Halmahera Tengah Komp. Pelabuhan Gebe; Malut",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WGK",
+      "nama_pelabuhan": "Wamengkoli",
+      "lokasi_kabupaten_kota": "KOLAKA",
+      "unit_kerja": "KUPP KELAS I BAU-BAU",
+      "alamat_kantor": "Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WGP",
+      "nama_pelabuhan": "Waingapu",
+      "lokasi_kabupaten_kota": "SUMBA TIMUR",
+      "unit_kerja": "KSOP KELAS IV WAINGAPU",
+      "alamat_kantor": "Jl. Nangamesi No. 11 Waingapu Nusa Tenggara Timur 87110",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WIA",
+      "nama_pelabuhan": "Waigama",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "WIE",
+      "nama_pelabuhan": "Waiwole",
+      "lokasi_kabupaten_kota": "MANGGARAI TIMUR",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WII",
+      "nama_pelabuhan": "Wini",
+      "lokasi_kabupaten_kota": "TIMOR TENGAH UTARA",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WIO",
+      "nama_pelabuhan": "Waikelo",
+      "lokasi_kabupaten_kota": "SUMBA BARAT DAYA",
+      "unit_kerja": "KUPP KELAS III WAIKELO",
+      "alamat_kantor": "Jl. Waikelo Kec. Luara Kab. Sumba Barat Waikelo; Nusa Tenggara Timur - 87254",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WNI",
+      "nama_pelabuhan": "Wonreli",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WNQ",
+      "nama_pelabuhan": "Wani",
+      "lokasi_kabupaten_kota": "DONGGALA",
+      "unit_kerja": "KUPP KELAS III WANI",
+      "alamat_kantor": "Jl. Pelabuhan No. 6 Wani Sulteng 94352",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WOA",
+      "nama_pelabuhan": "Waworada",
+      "lokasi_kabupaten_kota": "BIMA",
+      "unit_kerja": "KUPP KELAS III SAPE",
+      "alamat_kantor": "Jl. Pelabuhan Niaga No. 1 Sape Bima Kab. Bima Nusa Tenggara Barat",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "WRG",
+      "nama_pelabuhan": "Wuring",
+      "lokasi_kabupaten_kota": "SIKA",
+      "unit_kerja": "KSOP KELAS IV LAURENTIUS SAY/MAUMERE",
+      "alamat_kantor": "Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WRN",
+      "nama_pelabuhan": "Waren",
+      "lokasi_kabupaten_kota": "WAROPEN",
+      "unit_kerja": "KUPP KELAS III WAREN",
+      "alamat_kantor": "Jl. Infres Waren Ureifaisei Waren Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "WRS",
+      "nama_pelabuhan": "Waisarisa",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WSA",
+      "nama_pelabuhan": "Waisai",
+      "lokasi_kabupaten_kota": "RAJA AMPAT",
+      "unit_kerja": "KUPP KELAS II RAJA AMPAT",
+      "alamat_kantor": "Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "WSR",
+      "nama_pelabuhan": "Wasior",
+      "lokasi_kabupaten_kota": "TELUK WONDAMA",
+      "unit_kerja": "UPP KELAS III WASIOR",
+      "alamat_kantor": "Jl. Kuri Pasai No. 1 Rt.1/Rw.1 Wasior Papua Barat 98362",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "kode_pelabuhan": "WUR",
+      "nama_pelabuhan": "Wulur",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WUU",
+      "nama_pelabuhan": "Watunohu",
+      "lokasi_kabupaten_kota": "KOLAKA UTARA",
+      "unit_kerja": "UPP KELAS III KOLAKA",
+      "alamat_kantor": "Jl. Dermaga No. 1; Kolaka Sultra 93512",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WWN",
+      "nama_pelabuhan": "Waiwadan",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WWR",
+      "nama_pelabuhan": "Waiwuring",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WYA",
+      "nama_pelabuhan": "Wayaua",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "WYB",
+      "nama_pelabuhan": "Wayabula/Posi-Posi",
+      "lokasi_kabupaten_kota": "PULAU MOROTAI",
+      "unit_kerja": "KUPP KELAS III DARUBA",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Imam Lastori Kab. Pulau Morotai Prov. Malut 97771",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "YAR",
+      "nama_pelabuhan": "Selayar/Benteng/Rauf Rahman",
+      "lokasi_kabupaten_kota": "KEPULAUAN SELAYAR",
+      "unit_kerja": "UPP KELAS III SELAYAR",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 anteng Selayar Sulsel 92812",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "YBA",
+      "nama_pelabuhan": "Yaba",
+      "lokasi_kabupaten_kota": "HALMAHERA SELATAN",
+      "unit_kerja": "KUPP KELAS II LABUHA/BABANG",
+      "alamat_kantor": "Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791",
+      "provinsi": ""
+    },
+    {
+      "kode_pelabuhan": "ZRI",
+      "nama_pelabuhan": "Serui",
+      "lokasi_kabupaten_kota": "KEPULAUAN YAPEN",
+      "unit_kerja": "KUPP KELAS II SERUI",
+      "alamat_kantor": "Jl. Moh. Hatta No. 2 Serui Papua 98201",
+      "provinsi": "Papua"
+    },
+    {
+      "kode_pelabuhan": "ZRM",
+      "nama_pelabuhan": "Sarmi",
+      "lokasi_kabupaten_kota": "SARMI",
+      "unit_kerja": "KUPP KELAS III SARMI",
+      "alamat_kantor": "Jl. Brasilsdi No. 1 Sarmi Kota Papua 99373",
+      "provinsi": "Papua"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum Indonesia (636 pelabuhan) - Unduh Gratis",
+    "description": "636 pelabuhan umum (port) di Indonesia dari Kementerian Perhubungan, snapshot 2021-08-20 dari simpel.dephub.go.id. Setiap record berisi kode pelabuhan, nama, lokasi kabupaten/kota, unit kerja pengelola (KSOP/KUPP/UPP), alamat kantor, dan provinsi (inferensi dari alamat). Berisi 636 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum Indonesia (636 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum Indonesia (636 pelabuhan) — 636 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 636 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

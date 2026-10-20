@@ -1,0 +1,94 @@
+{
+  "id": "id-banten-regencies",
+  "name": "Daftar Kabupaten dan Kota di Banten",
+  "title": "Daftar Kabupaten dan Kota di Banten",
+  "description": "Daftar kabupaten dan kota di Provinsi Banten dengan kode wilayah Kepmendagri. Total 8 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "36.01",
+      "name": "Kabupaten Pandeglang",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pandeglang"
+    },
+    {
+      "code": "36.02",
+      "name": "Kabupaten Lebak",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lebak"
+    },
+    {
+      "code": "36.03",
+      "name": "Kabupaten Tangerang",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tangerang"
+    },
+    {
+      "code": "36.04",
+      "name": "Kabupaten Serang",
+      "type": "Kabupaten",
+      "slug": "kabupaten-serang"
+    },
+    {
+      "code": "36.71",
+      "name": "Kota Tangerang",
+      "type": "Kota",
+      "slug": "kota-tangerang"
+    },
+    {
+      "code": "36.72",
+      "name": "Kota Cilegon",
+      "type": "Kota",
+      "slug": "kota-cilegon"
+    },
+    {
+      "code": "36.73",
+      "name": "Kota Serang",
+      "type": "Kota",
+      "slug": "kota-serang"
+    },
+    {
+      "code": "36.74",
+      "name": "Kota Tangerang Selatan",
+      "type": "Kota",
+      "slug": "kota-tangerang-selatan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Banten - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Banten dengan kode wilayah Kepmendagri. Total 8 kabupaten/kota. Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Banten | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Banten — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

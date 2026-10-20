@@ -1,0 +1,187 @@
+{
+  "id": "id-satuan-ukuran-energy",
+  "name": "Satuan ukuran — kategori 'energy' (14)",
+  "title": "Satuan ukuran — kategori 'energy' (14)",
+  "description": "Satuan ukuran kategori 'energy' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategori": "energy",
+      "nama": "becquerel",
+      "singkatan": "Bq",
+      "bentuk_sempit": "Bq",
+      "pola": "{0} becquerel"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategori": "energy",
+      "nama": "satuan panas Britania",
+      "singkatan": "BTU",
+      "bentuk_sempit": "BTU",
+      "pola": "{0} satuan panas Britania"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategori": "energy",
+      "nama": "BTU-IT",
+      "singkatan": "BTU-IT",
+      "bentuk_sempit": "BTU-IT",
+      "pola": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategori": "energy",
+      "nama": "kalori",
+      "singkatan": "kal",
+      "bentuk_sempit": "kal",
+      "pola": "{0} kalori"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategori": "energy",
+      "nama": "kalori [IT]",
+      "singkatan": "kal-IT",
+      "bentuk_sempit": "kal-IT",
+      "pola": "{0} kalori [IT]"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategori": "energy",
+      "nama": "elektronvolt",
+      "singkatan": "elektronvolt",
+      "bentuk_sempit": "eV",
+      "pola": "{0} elektronvolt"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategori": "energy",
+      "nama": "Kalori",
+      "singkatan": "Kal",
+      "bentuk_sempit": "Kal",
+      "pola": "{0} Kalori"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategori": "energy",
+      "nama": "gray",
+      "singkatan": "Gy",
+      "bentuk_sempit": "Gy",
+      "pola": "{0} gray"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategori": "energy",
+      "nama": "joule",
+      "singkatan": "joule",
+      "bentuk_sempit": "joule",
+      "pola": "{0} joule"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategori": "energy",
+      "nama": "kilokalori",
+      "singkatan": "kkal",
+      "bentuk_sempit": "kkal",
+      "pola": "{0} kilokalori"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategori": "energy",
+      "nama": "kilojoule",
+      "singkatan": "kilojoule",
+      "bentuk_sempit": "kJ",
+      "pola": "{0} kilojoule"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategori": "energy",
+      "nama": "kilowatt-jam",
+      "singkatan": "kW-jam",
+      "bentuk_sempit": "kWh",
+      "pola": "{0} kilowatt-jam"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategori": "energy",
+      "nama": "sievert",
+      "singkatan": "Sv",
+      "bentuk_sempit": "Sv",
+      "pola": "{0} sievert"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategori": "energy",
+      "nama": "therm AS",
+      "singkatan": "therm AS",
+      "bentuk_sempit": "therm AS",
+      "pola": "{0} therm AS"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'energy' (14) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'energy' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 14 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'energy' (14) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'energy' (14) — 14 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 14 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

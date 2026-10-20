@@ -1,0 +1,112 @@
+{
+  "id": "id-maluku-regencies",
+  "name": "Daftar Kabupaten dan Kota di Maluku",
+  "title": "Daftar Kabupaten dan Kota di Maluku",
+  "description": "Daftar kabupaten dan kota di Provinsi Maluku dengan kode wilayah Kepmendagri. Total 11 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "81.01",
+      "name": "Kabupaten Maluku Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-maluku-tengah"
+    },
+    {
+      "code": "81.02",
+      "name": "Kabupaten Maluku Tenggara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-maluku-tenggara"
+    },
+    {
+      "code": "81.03",
+      "name": "Kabupaten Kepulauan Tanimbar",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepulauan-tanimbar"
+    },
+    {
+      "code": "81.04",
+      "name": "Kabupaten Buru",
+      "type": "Kabupaten",
+      "slug": "kabupaten-buru"
+    },
+    {
+      "code": "81.05",
+      "name": "Kabupaten Seram Bagian Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-seram-bagian-timur"
+    },
+    {
+      "code": "81.06",
+      "name": "Kabupaten Seram Bagian Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-seram-bagian-barat"
+    },
+    {
+      "code": "81.07",
+      "name": "Kabupaten Kepulauan Aru",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepulauan-aru"
+    },
+    {
+      "code": "81.08",
+      "name": "Kabupaten Maluku Barat Daya",
+      "type": "Kabupaten",
+      "slug": "kabupaten-maluku-barat-daya"
+    },
+    {
+      "code": "81.09",
+      "name": "Kabupaten Buru Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-buru-selatan"
+    },
+    {
+      "code": "81.71",
+      "name": "Kota Ambon",
+      "type": "Kota",
+      "slug": "kota-ambon"
+    },
+    {
+      "code": "81.72",
+      "name": "Kota Tual",
+      "type": "Kota",
+      "slug": "kota-tual"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Maluku - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Maluku dengan kode wilayah Kepmendagri. Total 11 kabupaten/kota. Berisi 11 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Maluku | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Maluku — 11 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 11 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

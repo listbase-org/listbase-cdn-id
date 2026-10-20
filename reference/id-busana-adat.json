@@ -1,0 +1,160 @@
+{
+  "id": "id-busana-adat",
+  "name": "Busana Adat Indonesia per Provinsi",
+  "title": "Busana Adat Indonesia per Provinsi",
+  "description": "Pakaian/busana adat tradisional tiap provinsi di Indonesia beserta deskripsi singkat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "deskripsi",
+      "label": "Deskripsi",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Ulee Balang",
+      "deskripsi": "Pakaian tradisional aceh biasa disebut Ulee Balang. Pakaian tersebut biasanya digunakan oleh para raja dan keluarganya.",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Ulos",
+      "deskripsi": "Pakaian tradisional Sumatera Utara biasa disebut dengan Ulos. Pakaian adat Ulos dianggap oleh masyarakat suku Batak Karo sebagai ajimat yang mempunyai daya magis tertentu.",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Bundo Kanduang",
+      "deskripsi": "Pakaian tradisional Sumatera Barat di bagi menjadi 2 yaitu Pakaian Penghulu dan Pakaian Adat Bundo Kanduang yang terdapat di daerah Minangkabau Sumatra Barat.",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "teluk belanga",
+      "deskripsi": "Untuk pakaian pria, baju yang dipakai adalah baju Melayu berupa atasan yang disebut teluk belanga. Untuk perempuan, pakaian yang dipakai berupa baju kurung, kain, dan selendang.",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Pakaian Adat Melayu",
+      "deskripsi": "Pakaian adat melayu Jambi biasanya lebih mewah daripada pakaian yang digunakan sehari-hari karena disulam dengan benang emas dan dihiasi dengan berbagai hiasan untuk kelengkapannya.",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Aesan Gede",
+      "deskripsi": "Pakaian tradisional masyarakat Sumatera Selatan biasa disebut dengan nama Aaesan Gede. Baju adat ini terinspirasi dari zaman kerajaan Sriwijaya yang dulunya berjaya di daerah Sumatera Selatan.",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Pakaian Adat Melayu Bengkulu",
+      "deskripsi": "Pakaian Adat Pria terdiri atas jas, sarung, celana panjang, alas kaki yang dilengkapi dengan tutup kepala dan sebuah keris. Pakaian Adat Wanita Bengkulu mengenakan baju kurung berlengan panjang, bertabur corak-corak, sulaman emas berbentuk lempengan-lempengan bulat seperti uang logam.",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Pakaian Adat Tulang Bawang",
+      "deskripsi": "Pakaian tradisional Lampung biasanya di dominasi oleh warna putih dengan diselingi motif warna merah dan kuning keemasan sehingga terkesan putih bersih namun tetap terlihat elegan.",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Pakaian Adat Paksian dan Sungkon",
+      "deskripsi": "Pengantin perempuan biasanya memakai baju kurung berwarna merah yang berbahan kain sutra. Kepala mempelai wanita biasanya memakai mahkota yang biasa disebut dengan nama Paksian. Sedangkan pengantin pria menggunakan Sorban atau yang biasa disebut masyarakat Bangka Belitung sebagai Sungkon.",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Teluk Belanga dan Baju Kurung",
+      "deskripsi": "Untuk pakaian pria, baju yang dipakai adalah baju Melayu berupa atasan yang mirip seperti kemeja tetapi tidak memiliki potongan. Untuk perempuan, pakaian yang dipakai berupa baju kurung, kain, dan selendang.",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Pakaian Adat Betawi",
+      "deskripsi": "Pakaian yang digunakan pengantin pria, yang terdiri dari: sorban, jubah panjang dan celana panjang banyak dipengaruhi oleh kebudayaan Arab. Sedangkan pada pakaian pengantin wanita yang menggunakan syangko (penutup muka), baju model encim dan rok panjang memperlihatkan adanya pengaruh kebudayaan Cina",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Kebaya",
+      "deskripsi": "Pakaian untuk laki-laki pada umumnya adalah baju takwa dan celana warna hitam, dilengkapi dengan kain dodot dan tutup kepala bendo terbuat dari kain batik halus bermotif sama dengan kain dodot. Untuk kesempatan resmi, pakaian perempuan Priangan dilengkapi dengan sehelai selendang berwarna sama dengan kebaya dan alas kakinya berupa sandal selop.",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Kebaya dan Jawi Jangkep",
+      "deskripsi": "Salah satu contoh pakaian upacara yang biasa dipakai dikalangan keraton adalah baju kebaya menggunakan peniti renteng, dipadukan dengan kain sinjang atau jarik corak batik. Bagian kepala rambutnya digelung (sanggul), dan dilengkapi dengan perhiasan yang dipakai seperti subang (anting-anting), cincin, kalung, gelang, serta kipas. pakaian bagi kaum laki-laki, khususnya kerabat keraton adalah memakai baju beskap kembang-kembang atau motif bunga lainnya. Pada kepala memakai destar (blankon), kain samping jarik, stagen untuk mengikat kain samping, keris dan alas kaki (cemila). Pakaian ini dinamakan Jawi Jangkep, yaitu pakaian laki-laki Jawa lengkap dengan keris.",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Beskap dan Surjan",
+      "deskripsi": "Secara keseluruhan seperangkat pakaian terdiri dari bagian atas, bagian tengah, dan bagian bawah. Bagian atas meliputi tutup kepala(Blangkon untuk laki-laki) dan tata rias rambut (Sanggul, Konde,); bagian tengah terdiri dari baju (Surjan untuk laki-laki, dan Kebaya untuk perempuan), dan perhiasan (aksesori); serta bagian bawah berupa alas kaki. Penggolongan pakaian tersebut harus berdasarkan jenis kelamin, usia, dan status sosial.",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Pesa’an",
+      "deskripsi": "Pakaian priaterkesan sederhana karena hanya berupa kaos bergaris merah putih dan celana longgar. Untuk wanita biasa menggunakan kebaya. Ciri khas dari kebaya adalah penggunaan kutang polos dengan warna cerah yang mencolok. Sehingga keindahan tubuh si pemakai akan terlihat jelas.",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "baju pangsi dan celana komprang",
+      "deskripsi": "Baju yang dikenakan masyarakat Banten sering disebut dengan baju pangsi. Sementara celananya disebut dengan celana komprang yang panjangnya sebatas mata kaki atau sampai betis.",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Busana Agung",
+      "deskripsi": "Busana Agung mempunyai beberapa variasi tergantung tempat, waktu dan keadaan. Kain yang digunakan dalam pakain adat Bali yang satu ni adalah wastra wali khusus untuk upacara atau wastra putih sebagai simbol kesucian.",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Pakaian Adat Nusa Tenggara Barat",
+      "deskripsi": "",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Pakaian Adat Nusa Tenggara Timur",
+      "deskripsi": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    }
+  ],
+  "meta": {
+    "title": "Busana Adat Indonesia per Provinsi - Unduh Gratis",
+    "description": "Pakaian/busana adat tradisional tiap provinsi di Indonesia beserta deskripsi singkat. Berisi 19 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Busana Adat Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Busana Adat Indonesia per Provinsi — 19 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 19 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

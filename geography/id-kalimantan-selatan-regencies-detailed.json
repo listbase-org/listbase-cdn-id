@@ -1,0 +1,232 @@
+{
+  "id": "id-kalimantan-selatan-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Kalimantan Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Kalimantan Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "13 kabupaten/kota di Provinsi Kalimantan Selatan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "63.01",
+      "name": "Kabupaten Tanah Laut",
+      "type": "kabupaten",
+      "capital": "Pelaihari",
+      "latitude": -3.799467,
+      "longitude": 114.782551,
+      "elevation_m": 25,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3841.157,
+      "population": 369818
+    },
+    {
+      "code": "63.02",
+      "name": "Kabupaten Kotabaru",
+      "type": "kabupaten",
+      "capital": "Kotabaru",
+      "latitude": -3.236239,
+      "longitude": 116.227975,
+      "elevation_m": 8,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 9345.91,
+      "population": 332787
+    },
+    {
+      "code": "63.03",
+      "name": "Kabupaten Banjar",
+      "type": "kabupaten",
+      "capital": "Martapura",
+      "latitude": -3.408735,
+      "longitude": 114.848156,
+      "elevation_m": 13,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4588.37,
+      "population": 590393
+    },
+    {
+      "code": "63.04",
+      "name": "Kabupaten Barito Kuala",
+      "type": "kabupaten",
+      "capital": "Marabahan",
+      "latitude": -2.978339,
+      "longitude": 114.765795,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2425.829,
+      "population": 329799
+    },
+    {
+      "code": "63.05",
+      "name": "Kabupaten Tapin",
+      "type": "kabupaten",
+      "capital": "Rantau",
+      "latitude": -2.932106,
+      "longitude": 115.163298,
+      "elevation_m": 9,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2155.939,
+      "population": 202061
+    },
+    {
+      "code": "63.06",
+      "name": "Kabupaten Hulu Sungai Selatan",
+      "type": "kabupaten",
+      "capital": "Kandangan",
+      "latitude": -2.78651,
+      "longitude": 115.265945,
+      "elevation_m": 18,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1697.224,
+      "population": 239471
+    },
+    {
+      "code": "63.07",
+      "name": "Kabupaten Hulu Sungai Tengah",
+      "type": "kabupaten",
+      "capital": "Barabai",
+      "latitude": -2.584768,
+      "longitude": 115.384532,
+      "elevation_m": 17,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1573.538,
+      "population": 271505
+    },
+    {
+      "code": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara",
+      "type": "kabupaten",
+      "capital": "Amuntai",
+      "latitude": -2.418873,
+      "longitude": 115.254335,
+      "elevation_m": 14,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 907.491,
+      "population": 238250
+    },
+    {
+      "code": "63.09",
+      "name": "Kabupaten Tabalong",
+      "type": "kabupaten",
+      "capital": "Tanjung",
+      "latitude": -2.164354,
+      "longitude": 115.382357,
+      "elevation_m": 24,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3473.069,
+      "population": 267787
+    },
+    {
+      "code": "63.10",
+      "name": "Kabupaten Tanah Bumbu",
+      "type": "kabupaten",
+      "capital": "Batulicin",
+      "latitude": -3.48324,
+      "longitude": 115.946814,
+      "elevation_m": 30,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4884.861,
+      "population": 357221
+    },
+    {
+      "code": "63.11",
+      "name": "Kabupaten Balangan",
+      "type": "kabupaten",
+      "capital": "Paringin",
+      "latitude": -2.363568,
+      "longitude": 115.471082,
+      "elevation_m": 55,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1828.513,
+      "population": 138950
+    },
+    {
+      "code": "63.71",
+      "name": "Kota Banjarmasin",
+      "type": "kota",
+      "capital": "Banjarmasin",
+      "latitude": -3.327491,
+      "longitude": 114.588999,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 98.372,
+      "population": 681693
+    },
+    {
+      "code": "63.72",
+      "name": "Kota Banjarbaru",
+      "type": "kota",
+      "capital": "Banjarbaru",
+      "latitude": -3.438617,
+      "longitude": 114.831061,
+      "elevation_m": 31,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 305.153,
+      "population": 285546
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Kalimantan Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "13 kabupaten/kota di Provinsi Kalimantan Selatan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 13 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Kalimantan Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Kalimantan Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 13 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 13 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

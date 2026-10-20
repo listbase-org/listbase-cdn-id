@@ -1,0 +1,133 @@
+{
+  "id": "id-satuan-ukuran-graphics",
+  "name": "Satuan ukuran — kategori 'graphics' (8)",
+  "title": "Satuan ukuran — kategori 'graphics' (8)",
+  "description": "Satuan ukuran kategori 'graphics' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "kategori": "graphics",
+      "nama": "dot",
+      "singkatan": "dot",
+      "bentuk_sempit": "dot",
+      "pola": "{0} dot"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategori": "graphics",
+      "nama": "dot per sentimeter",
+      "singkatan": "dpcm",
+      "bentuk_sempit": "dpcm",
+      "pola": "{0} dot per sentimeter"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "kategori": "graphics",
+      "nama": "dot per inci",
+      "singkatan": "dpi",
+      "bentuk_sempit": "dpi",
+      "pola": "{0} dot per inci"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "kategori": "graphics",
+      "nama": "em tipografis",
+      "singkatan": "em",
+      "bentuk_sempit": "em",
+      "pola": "{0} em"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "kategori": "graphics",
+      "nama": "megapiksel",
+      "singkatan": "megapiksel",
+      "bentuk_sempit": "MP",
+      "pola": "{0} megapiksel"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "kategori": "graphics",
+      "nama": "piksel",
+      "singkatan": "piksel",
+      "bentuk_sempit": "px",
+      "pola": "{0} piksel"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategori": "graphics",
+      "nama": "piksel per sentimeter",
+      "singkatan": "ppcm",
+      "bentuk_sempit": "ppcm",
+      "pola": "{0} piksel per sentimeter"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategori": "graphics",
+      "nama": "piksel per inci",
+      "singkatan": "ppi",
+      "bentuk_sempit": "ppi",
+      "pola": "{0} piksel per inci"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'graphics' (8) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'graphics' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'graphics' (8) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'graphics' (8) — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

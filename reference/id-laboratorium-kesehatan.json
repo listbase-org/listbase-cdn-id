@@ -1,0 +1,1352 @@
+{
+  "id": "id-laboratorium-kesehatan",
+  "name": "Laboratorium pemeriksaan kesehatan di Indonesia — Pusdatin Kemenkes",
+  "title": "Laboratorium pemeriksaan kesehatan di Indonesia — Pusdatin Kemenkes",
+  "description": "Daftar laboratorium pemeriksaan yang terdaftar pada Pusat Data dan Informasi Kementerian Kesehatan Republik Indonesia, dengan provinsi, alamat, kontak dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "nama_lab",
+      "label": "Nama Lab",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "kontak_phone",
+      "label": "Kontak Phone",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama_lab": "TIRTA",
+      "provinsi": "NA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BALAI LITBANG ACEH",
+      "provinsi": "ACEH",
+      "alamat": "Jl. Biomedis No.9, Bada, Kec. Ingin Jaya, Kabupaten Aceh Besar, Aceh 23371, Indonesia",
+      "kontak_phone": "(0651) 8070189",
+      "latitude": 5.509367,
+      "longitude": 95.364281
+    },
+    {
+      "nama_lab": "LAB FK UNSYIAH",
+      "provinsi": "ACEH",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUP SANGLAH DENPASAR",
+      "provinsi": "BALI",
+      "alamat": "Jl. Diponegoro, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113, Indonesia",
+      "kontak_phone": "(0361) 227912",
+      "latitude": -8.6757835,
+      "longitude": 115.2109771
+    },
+    {
+      "nama_lab": "LAB BIOMOL UNIV WARMADEWA",
+      "provinsi": "BALI",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BLK PROVINSI BALI",
+      "provinsi": "BALI",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS UNIVERSITAS UDAYANA",
+      "provinsi": "BALI",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD TANGERANG",
+      "provinsi": "BANTEN",
+      "alamat": "Jl. Jend. Ahmad Yani, RT.005/RW.003, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117, Indonesia",
+      "kontak_phone": "(021) 5523507",
+      "latitude": -6.2266509,
+      "longitude": 106.5861338
+    },
+    {
+      "nama_lab": "RS SILOAM LIPPO VILLAGE",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD DRAJAT PRAWIRANEGARA",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB FK UNIVERSITAS PELITA HARAPAN",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA SERANG",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA CILEGON",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA PAMULANG",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS KRAKATAU MEDIKA",
+      "provinsi": "BANTEN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RSUD  BENGKULU",
+      "provinsi": "BENGKULU",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BTKL JOGYA",
+      "provinsi": "DI YOGYAKARTA",
+      "alamat": "Jl. Wiyoro Lor Jl. Wiyoro Kidul No.21, Wirono, Baturetno, Kec. Banguntapan, Bantul, Daerah Istimewa Yogyakarta 55197, Indonesia",
+      "kontak_phone": "(0274) 371588",
+      "latitude": -7.8209947,
+      "longitude": 110.4128499
+    },
+    {
+      "nama_lab": "RSU SARDJITO",
+      "provinsi": "DI YOGYAKARTA",
+      "alamat": "Jl. Kesehatan No.1, Senolowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia",
+      "kontak_phone": "(0274) 631190",
+      "latitude": -7.768611,
+      "longitude": 110.3712802
+    },
+    {
+      "nama_lab": "RS PEND UGM",
+      "provinsi": "DI YOGYAKARTA",
+      "alamat": "Jl. Kronggohan, Kranggahan I, Trihanggo, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55291, Indonesia",
+      "kontak_phone": "(0274) 4530404",
+      "latitude": -7.7428692,
+      "longitude": 110.3482328
+    },
+    {
+      "nama_lab": "BBVET WATES",
+      "provinsi": "DI YOGYAKARTA",
+      "alamat": "Komplek bbvet Jl. Raya Yogya – Wates Km. 27, TP 18, Gn. Gempal, Giri Peni, Wates, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55651",
+      "kontak_phone": "(0274) 773168",
+      "latitude": -7.866693,
+      "longitude": 110.168174
+    },
+    {
+      "nama_lab": "LAB FK UNIVERSITAS MUHAMMADIYAH YOGYAKARTA (UMY)",
+      "provinsi": "DI YOGYAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BBLK JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Percetakan Negara II No.23B\nRT.8/RW.10, Johar Baru\nKec. Johar Baru\nKota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10560, Indonesia",
+      "kontak_phone": "(021) 4212524",
+      "latitude": -6.1899106,
+      "longitude": 106.8561624
+    },
+    {
+      "nama_lab": "BBTKL JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Balai Rakyat No.2, RT.12/RW.1, Cakung Tim., Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13910, Indonesia",
+      "kontak_phone": "(021) 46824247",
+      "latitude": -6.2444586,
+      "longitude": 106.898918
+    },
+    {
+      "nama_lab": "LABKESDA DKI",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jalan Rawasari Selatan No.2 RT.16/RW.02, Cempaka Putih Timur, Cempaka Putih, RT.16/RW.2, Cemp. Putih Tim., Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10510, Indonesia",
+      "kontak_phone": "(021) 4247404",
+      "latitude": -6.1846804,
+      "longitude": 106.8698769
+    },
+    {
+      "nama_lab": "LBM EIJKMAN",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Rumah Sakit Cipto Mangunkusumo, Jl. Pangeran Diponegoro No.69, RW.5, Kenari, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430, Indonesia",
+      "kontak_phone": "(021) 3917131",
+      "latitude": -6.1978731,
+      "longitude": 106.8440477
+    },
+    {
+      "nama_lab": "LITBANGKES",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Percetakan Negara No.29, RT.23/RW.7, Johar Baru, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10560, Indonesia",
+      "kontak_phone": "(021) 4261088",
+      "latitude": -6.1887105,
+      "longitude": 106.8573962
+    },
+    {
+      "nama_lab": "DEPARTEMEN MIKROBIOLOGI FK UNIVERSITAS INDONESIA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl.Pegangsaan Timur 16, Cikini, RT.1/RW.1, Pegangsaan, Kec. Menteng, Central Jakarta, Daerah Khusus Ibukota Jakarta 10320",
+      "kontak_phone": "(021) 3160491",
+      "latitude": -6.197688,
+      "longitude": 106.842048
+    },
+    {
+      "nama_lab": "RS PENDIDIKAN UNIVERSITAS INDONESIA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+      "kontak_phone": "(021) 50829292",
+      "latitude": -6.372,
+      "longitude": 106.829754
+    },
+    {
+      "nama_lab": "RS MEDISTRA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Gatot Subroto No.Kav 59, RT.1/RW.4, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+      "kontak_phone": "(021) 5210200",
+      "latitude": -6.239641,
+      "longitude": 106.833871
+    },
+    {
+      "nama_lab": "RSPAD GATOT SUBROTO",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Abdul Rahman Saleh Raya No.24, RT.10/RW.5, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
+      "kontak_phone": "(021) 3441008",
+      "latitude": -6.17599,
+      "longitude": 106.838319
+    },
+    {
+      "nama_lab": "PUSAT PENGEMBANGAN PENGUJIAN OBAT DAN MAKANAN NASIONAL (PPPOMN) JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. As'syafiiyah No.133, RT.3/RW.3, Cilangkap, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13870",
+      "kontak_phone": "(021) 84304047",
+      "latitude": -6.187533,
+      "longitude": 106.859678
+    },
+    {
+      "nama_lab": "RS PELNI JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Lantai 3, Gedung Poliklinik RS Pelni, RT.13/RW.1, Slipi, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11410",
+      "kontak_phone": "0896-3001-6286",
+      "latitude": -6.193036,
+      "longitude": 106.805639
+    },
+    {
+      "nama_lab": "RS PERTAMINA PUSAT",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Kyai Maja No.43, RT.4/RW.8, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120",
+      "kontak_phone": "(021) 7219000",
+      "latitude": -6.239778,
+      "longitude": 106.793736
+    },
+    {
+      "nama_lab": "RS PERTAMINA JAYA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. Jend. Ahmad Yani No.2, RT.2/RW.7, Cemp. Putih Tim., Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10510",
+      "kontak_phone": "(021) 4211911",
+      "latitude": -6.172998,
+      "longitude": 106.876813
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KALBE FARMA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS POLRI",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUP FATMAWATI",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS KANKER DHARMAIS",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS ISLAM CEMPAKA PUTIH",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSPI SULIANTI SAROSO",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS JANTUNG HARAPAN KITA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD TARAKAN JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB FK UNIVERSITAS ATMA JAYA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB FK UNIVERSITAS TRISAKTI",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB WISMA ATLET",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "Jl. HBR Motik, Kebon Kosong, Kemayoran, Jakarta Pusat, Jakarta, Indonesia",
+      "kontak_phone": "(+62 878-8923-9158)",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA CIKINI",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS BHAYANGKARA SUKANTO",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB DIAGNOSE RS BUNDA JAKARTA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSAU DR. ESNAWAN ANTARIKSA",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS AL MINTOHARDJO",
+      "provinsi": "DKI JAKARTA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BALAI POM GORONTALO",
+      "provinsi": "GORONTALO",
+      "alamat": "South Toto, Kabila, Bone Bolango Regency, Gorontalo 96128",
+      "kontak_phone": "+62 813-9225-0909",
+      "latitude": 0.564838,
+      "longitude": 123.093194
+    },
+    {
+      "nama_lab": "BALAI POM DI JAMBI",
+      "provinsi": "JAMBI",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS PEND UNIVERSITAS PADJAJARAN",
+      "provinsi": "JAWA BARAT",
+      "alamat": "Jl. Prof. Eyckman No.38, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161, Indonesia",
+      "kontak_phone": "(022) 2038114",
+      "latitude": -6.9127233,
+      "longitude": 107.6516809
+    },
+    {
+      "nama_lab": "LABKESDA PROV JAWA BARAT",
+      "provinsi": "JAWA BARAT",
+      "alamat": "Jl. Sederhana No.3 - 5, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161, Indonesia",
+      "kontak_phone": "(022) 2033918",
+      "latitude": -6.8953532,
+      "longitude": 107.5958356
+    },
+    {
+      "nama_lab": "LAB TERPADU IPB",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "08128433208",
+      "latitude": -6.600257,
+      "longitude": 106.805917
+    },
+    {
+      "nama_lab": "BBVET SUBANG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "Jl. Terusan Garuda RT. 33/11, Wera Sari, Kel. Dangdeur, Dangdeur, Kec. Subang, Kabupaten Subang, Jawa Barat 41211",
+      "kontak_phone": "(0260) 7423178",
+      "latitude": -6.55965,
+      "longitude": 107.73307
+    },
+    {
+      "nama_lab": "LABKESDA KOTA BEKASI",
+      "provinsi": "JAWA BARAT",
+      "alamat": "Jl. Komodo Raya No.1, RT.002/RW.004, Kayuringin Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17144",
+      "kontak_phone": "",
+      "latitude": -6.233163,
+      "longitude": 106.980689
+    },
+    {
+      "nama_lab": "LAB BBLITVET BOGOR",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS SILOAM GROUP JATIASIH",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS AWAL BROS BEKASI",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA KARAWANG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB LIPI CIBINONG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS PARU DR. M GOENAWAN",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD CIBINONG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS CITRA ARAFIQ",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA KABUPATEN BEKASI",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS KABUPATEN KARAWANG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS HEWAN CIKOLE",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD WALED CIREBON",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB UNIVERSITAS SWADAYA GUNUNG JATI (UNSWAGATI)",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "POLTEKKES SUMEDANG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB SENTRAL UNPAD",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS BHAYANGKARA BRIMOB",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA KABUPATEN BANDUNG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA KABUPATEN BANDUNG BARAT",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA KABUPATEN PANGANDARAN",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA DEPOK",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS BHAYANGKARA BRIMOB",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RSUD CIBINONG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA BUAH BATU",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA CIHAMPELAS",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA DEPOK",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB KIMIA FARMA DIPONEGORO",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUP DR HASAN SADIKIN BANDUNG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA SUMEDANG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BAPELKES CIKARANG",
+      "provinsi": "JAWA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "B2P2VRP SALATIGA",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "Jl. Hasanudin No.123, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50721, Indonesia",
+      "kontak_phone": "(0298) 312107",
+      "latitude": -7.3474388,
+      "longitude": 110.4883883
+    },
+    {
+      "nama_lab": "RSU KARIADI SEMARANG",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "Jl. DR. Sutomo No.16, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244, Indonesia",
+      "kontak_phone": "(024) 8413476",
+      "latitude": -6.9944749,
+      "longitude": 110.4054256
+    },
+    {
+      "nama_lab": "RS PENDIDIKAN UNIVERSITAS DIPONEGORO",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "Jl. Professor Haji Soedarto S.H, Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50275, Indonesia",
+      "kontak_phone": "(024) 76928020",
+      "latitude": -7.0479526,
+      "longitude": 110.4417835
+    },
+    {
+      "nama_lab": "RS UNIVERSITAS NEGERI SEBELAS MARET (UNS)",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "Jl. A. Yani No.200, Dusun II, Makamhaji, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57161",
+      "kontak_phone": "(0271) 6775000",
+      "latitude": -7.558649,
+      "longitude": 110.773397
+    },
+    {
+      "nama_lab": "RS MOEWARDI",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "Jl. Kolonel Sutarto, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",
+      "kontak_phone": "(0271) 634634",
+      "latitude": -7.557899,
+      "longitude": 110.842689
+    },
+    {
+      "nama_lab": "RSUD KMRT WONGSONEGORO",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS MARGONO SOEKARJO",
+      "provinsi": "JAWA TENGAH",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BBLK SURABAYA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. Karang Menjangan No.18, Airlangga, Kec. Gubeng, Kota SBY, Jawa Timur 60286, Indonesia",
+      "kontak_phone": "(031) 5020306",
+      "latitude": -7.2683318,
+      "longitude": 112.758098
+    },
+    {
+      "nama_lab": "BTKL SURABAYA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. Sidoluhur No.12, Kemayoran, Kec. Krembangan, Kota SBY, Jawa Timur 60175, Indonesia",
+      "kontak_phone": "(031) 3540189",
+      "latitude": -7.2415109,
+      "longitude": 112.7281176
+    },
+    {
+      "nama_lab": "RSU DR. SOETOMO",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. Mayjen Prof. Dr. Moestopo No.6-8, Airlangga, Kec. Gubeng, Kota SBY, Jawa Timur 60286, Indonesia",
+      "kontak_phone": "(031) 5501078",
+      "latitude": -7.2680171,
+      "longitude": 112.7563052
+    },
+    {
+      "nama_lab": "RS UNIVERSITAS AIRLANGGA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. Dharmahusada Permai, Mulyorejo, Kec. Mulyorejo, Kota SBY, Jawa Timur 60115",
+      "kontak_phone": "(031) 59173993",
+      "latitude": -7.270002,
+      "longitude": 112.7833533
+    },
+    {
+      "nama_lab": "RS UNIVERSITAS BRAWIJAYA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. Soekarno - Hatta, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141, Indonesia",
+      "kontak_phone": "(0341) 403000",
+      "latitude": -7.9412222,
+      "longitude": 112.6193423
+    },
+    {
+      "nama_lab": "ITD UNAIR",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Kampus C, Jl. Unair, Mulyorejo, Gubeng, Surabaya, Jawa Timur 60286",
+      "kontak_phone": "(031) 5992445 EXT. 5992446",
+      "latitude": -7.268699,
+      "longitude": 112.785841
+    },
+    {
+      "nama_lab": "RS LAVALETTE",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. W.R. Supratman No.10, Rampal Celaket, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+      "kontak_phone": "(0341) 470805",
+      "latitude": -7.965489,
+      "longitude": 112.638339
+    },
+    {
+      "nama_lab": "RS PELABUHAN SURABAYA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "Jl. Prapat Kurung Selatan No.1, Tanjung Perak, Kec. Pabean Cantian, Kota SBY, Jawa Timur 60165",
+      "kontak_phone": "(031) 3294801",
+      "latitude": -7.209043,
+      "longitude": 112.734156
+    },
+    {
+      "nama_lab": "RS SAIFUL ANWAR MALANG",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB FK UNIVERSITAS JEMBER",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA PROBOLINGGO",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RSUD DR R. SOSODORO DJATIKOESOEMO BOJONEGORO",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS NASIONAL HOSPITAL SURABAYA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS PREMIER SURABAYA",
+      "provinsi": "JAWA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSU TANJUNG PURA PONTIANAK",
+      "provinsi": "KALIMANTAN BARAT",
+      "alamat": "Jl. Profesor Dokter H. Hadari Nawawi, Bansir Laut, Kec. Pontianak Tenggara, Kota Pontianak, Kalimantan Barat 78115, Indonesia",
+      "kontak_phone": "(0561) 576242",
+      "latitude": -0.0365728,
+      "longitude": 109.3239804
+    },
+    {
+      "nama_lab": "LABKESDA PROV KALIMANTAN BARAT",
+      "provinsi": "KALIMANTAN BARAT",
+      "alamat": "Jl. D.A.Hadi No.7, Akcaya, Kec. Pontianak Sel., Kota Pontianak, Kalimantan Barat 78121, Indonesia",
+      "kontak_phone": "(0565) 24435",
+      "latitude": -0.0503818,
+      "longitude": 109.3342363
+    },
+    {
+      "nama_lab": "BBTKL BANJAR BARU",
+      "provinsi": "KALIMANTAN SELATAN",
+      "alamat": "Jalan H. Mistar Cokrokusumo No.2A, Banjar Baru Utara, Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru, Kalimantan Selatan 70714, Indonesia",
+      "kontak_phone": "(0511) 4780343",
+      "latitude": -3.4412619,
+      "longitude": 114.8422518
+    },
+    {
+      "nama_lab": "RS PERTAMINA BALIKPAPAN",
+      "provinsi": "KALIMANTAN TIMUR",
+      "alamat": "Jl. Jenderal Sudirman No.1, Prapatan, Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76111",
+      "kontak_phone": "(0542) 734021",
+      "latitude": -1.27891,
+      "longitude": 116.817894
+    },
+    {
+      "nama_lab": "RSUD ABDUL WAHAB SJAHRANIE SAMARINDA",
+      "provinsi": "KALIMANTAN TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB FK UNIVERSITAS MULAWARMAN",
+      "provinsi": "KALIMANTAN TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RS KANUJOSO DJATIWIBOWO",
+      "provinsi": "KALIMANTAN TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA PROV KALIMANTAN TIMUR",
+      "provinsi": "KALIMANTAN TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA BANGKA BELITUNG",
+      "provinsi": "KEPULAUAN BANGKA BELITUNG",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BTKL BATAM",
+      "provinsi": "KEPULAUAN RIAU",
+      "alamat": "Sungai Binti, Kec. Sagulung, Kota Batam, Kepulauan Riau 29472",
+      "kontak_phone": "(0778) 8075096",
+      "latitude": 1.023512,
+      "longitude": 103.935423
+    },
+    {
+      "nama_lab": "RSUD TANJUNG PINANG",
+      "provinsi": "KEPULAUAN RIAU",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BBVET LAMPUNG",
+      "provinsi": "LAMPUNG",
+      "alamat": "Jl. Untung Suropati No.2, Labuhan Ratu, Kec. Kedaton, Kota Bandar Lampung, Lampung 35142",
+      "kontak_phone": "(0721) 701851",
+      "latitude": -5.375352,
+      "longitude": 105.251741
+    },
+    {
+      "nama_lab": "RSU MULUK BANDAR LAMPUNG",
+      "provinsi": "LAMPUNG",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA LAMPUNG",
+      "provinsi": "LAMPUNG",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BALAI BESAR POM DI LAMPUNG",
+      "provinsi": "LAMPUNG",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BTKL PP AMBON",
+      "provinsi": "MALUKU",
+      "alamat": "Soya, Sirimau, Kota Ambon, Maluku, Indonesia",
+      "kontak_phone": "(0911) 311377",
+      "latitude": -3.6989748,
+      "longitude": 128.2039053
+    },
+    {
+      "nama_lab": "BALAI POM AMBON",
+      "provinsi": "MALUKU",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD PROVINSI NTB MATARAM",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "alamat": "Jl. Prabu Rangkasari, Dasan Cermen, Kec. Sandubaya, Kota Mataram, Nusa Tenggara Bar. 84371, Indonesia",
+      "kontak_phone": "(0370) 7502424",
+      "latitude": -8.6074062,
+      "longitude": 116.1308487
+    },
+    {
+      "nama_lab": "RS UNIVERSITAS MATARAM",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "alamat": "Jl. Prabu Rangkasari, Dasan Cermen, Kec. Sandubaya, Kota Mataram, Nusa Tenggara Bar. 84371",
+      "kontak_phone": "(0370) 7502424",
+      "latitude": -8.589775,
+      "longitude": 116.093919
+    },
+    {
+      "nama_lab": "LAB TECHNOPARK SUMBAWA",
+      "provinsi": "NUSA TENGGARA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD WZ YOHANES KUPANG",
+      "provinsi": "NUSA TENGGARA TIMUR",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BALAI LITBANG PAPUA",
+      "provinsi": "PAPUA",
+      "alamat": "Bayangkara, North Jayapura, Jayapura City, Papua, Indonesia",
+      "kontak_phone": "(0967) 585015",
+      "latitude": -2.5356485,
+      "longitude": 140.695131
+    },
+    {
+      "nama_lab": "RSUD TIMIKA",
+      "provinsi": "PAPUA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BLK JAYAPURA",
+      "provinsi": "PAPUA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BLK PAPUA",
+      "provinsi": "PAPUA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BALAI POM JAYAPURA",
+      "provinsi": "PAPUA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSUD SORONG",
+      "provinsi": "PAPUA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS PEND ARIFIN ACHMAD PKU",
+      "provinsi": "RIAU",
+      "alamat": "Jl. Diponegoro No.2, Sumahilang, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28156, Indonesia",
+      "kontak_phone": "(0761) 21618",
+      "latitude": 0.5072067,
+      "longitude": 101.4338533
+    },
+    {
+      "nama_lab": "LABKESDA KABUPATEN SIAK",
+      "provinsi": "RIAU",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RSUD PROV SULAWESI BARAT",
+      "provinsi": "SULAWESI BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LAB RSUD PROVINSI MAMUJU",
+      "provinsi": "SULAWESI BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BALAI POM MAMUJU",
+      "provinsi": "SULAWESI BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BBLK MAKASSAR",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "Jl. Perintis Kemerdekaan KM.11, Tamalanrea, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245, Indonesia",
+      "kontak_phone": "(0411) 586458",
+      "latitude": -5.131471,
+      "longitude": 119.4934506
+    },
+    {
+      "nama_lab": "RSUP WAHIDIN SUHIROHUSODO MAKSSAR",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "11, Jl. Perintis Kemerdekaan No.KM, Tamalanrea Jaya, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245, Indonesia",
+      "kontak_phone": "(0411) 584677",
+      "latitude": -5.1348171,
+      "longitude": 119.4913552
+    },
+    {
+      "nama_lab": "RS PEND UNIVERSITAS HASANUDDIN MAKASSAR",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "Jl. Perintis Kemerdekaan No.KM 11, Tamalanrea Indah, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245, Indonesia",
+      "kontak_phone": "(0411) 591331",
+      "latitude": -5.1319963,
+      "longitude": 119.4436584
+    },
+    {
+      "nama_lab": "BBVET MAROS",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "Jl. DR. Ratulangi, Allepolea, Kec. Lau, Kabupaten Maros, Sulawesi Selatan 90514",
+      "kontak_phone": "+62 813-5541-5063",
+      "latitude": -4.979242,
+      "longitude": 119.574506
+    },
+    {
+      "nama_lab": "BALAI POM MAKASSAR",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA SOPPENG",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BBTKL MAKASSAR",
+      "provinsi": "SULAWESI SELATAN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "LABKESDA SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RSU P DR. KANDAU MANADO",
+      "provinsi": "SULAWESI UTARA",
+      "alamat": "Jl. Raya Tanawangko No.56, Malalayang Satu Barat, Kec. Malalayang, Kota Manado, Sulawesi Utara, Indonesia",
+      "kontak_phone": "(0431) 8383058",
+      "latitude": 1.4535364,
+      "longitude": 124.8059836
+    },
+    {
+      "nama_lab": "BTKL PP MANADO",
+      "provinsi": "SULAWESI UTARA",
+      "alamat": "Paniki Bawah, Kec. Mapanget, Kota Manado, Sulawesi Utara",
+      "kontak_phone": "NA",
+      "latitude": 1.5310174,
+      "longitude": 124.915498
+    },
+    {
+      "nama_lab": "BALAI POM MANADO",
+      "provinsi": "SULAWESI UTARA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "PUSAT DIAGNOSTIK DAN RISET PENYAKIT INFEKSI FK UNIVERSITAS ANDALAS",
+      "provinsi": "SUMATERA BARAT",
+      "alamat": "Jl. Universitas Andalas, Limau Manis, Kec. Pauh, Kota Padang, Sumatera Barat 25176, Indonesia",
+      "kontak_phone": "(0751) 8465000",
+      "latitude": -0.9209506,
+      "longitude": 100.4549227
+    },
+    {
+      "nama_lab": "BBVET BUKITTINGGI",
+      "provinsi": "SUMATERA BARAT",
+      "alamat": "Jl. Raya Bukittinggi - Payakumbuh, Tabek Panjang, Kec. Baso, Kabupaten Agam, Sumatera Barat 26192",
+      "kontak_phone": "+62 821-2644-2910",
+      "latitude": -0.9209506,
+      "longitude": 100.4549227
+    },
+    {
+      "nama_lab": "BAPELKES PADANG",
+      "provinsi": "SUMATERA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BLK PADANG PANJANG",
+      "provinsi": "SUMATERA BARAT",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "BBLK PALEMBANG",
+      "provinsi": "SUMATERA SELATAN",
+      "alamat": "Jl. Inspektur Yazid No.2, Sekip Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30126, Indonesia",
+      "kontak_phone": "(0711) 352683",
+      "latitude": -2.9695104,
+      "longitude": 104.7488832
+    },
+    {
+      "nama_lab": "RSU MUHAMMAD HUSEIN PALEMBANG",
+      "provinsi": "SUMATERA SELATAN",
+      "alamat": "RW. 5, Jl. Jend. Sudirman KM.3,5, Sekip Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30126, Indonesia",
+      "kontak_phone": "(0711) 354088",
+      "latitude": -2.9661217,
+      "longitude": 104.7480311
+    },
+    {
+      "nama_lab": "RS PUSRI",
+      "provinsi": "SUMATERA SELATAN",
+      "alamat": "Komp. PT PUSRI, Jl. May Zen, Sei Selayur, Kec. Kalidoni, Kota Palembang, Sumatera Selatan 30118",
+      "kontak_phone": "(0711) 721313",
+      "latitude": -2.970237,
+      "longitude": 104.801372
+    },
+    {
+      "nama_lab": "LABKESDA LAHAT",
+      "provinsi": "SUMATERA SELATAN",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "nama_lab": "RS UNIV USU",
+      "provinsi": "SUMATERA UTARA",
+      "alamat": "Jl. Dr. Mansyur No.66, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154, Indonesia",
+      "kontak_phone": "(061) 8218928",
+      "latitude": 3.5678254,
+      "longitude": 98.655205
+    },
+    {
+      "nama_lab": "RSUP ADAM MALIK",
+      "provinsi": "SUMATERA UTARA",
+      "alamat": "Jl. Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20136",
+      "kontak_phone": "(061) 8360143",
+      "latitude": 3.518676,
+      "longitude": 98.609239
+    },
+    {
+      "nama_lab": "FK USU",
+      "provinsi": "SUMATERA UTARA",
+      "alamat": "",
+      "kontak_phone": "",
+      "latitude": "",
+      "longitude": ""
+    }
+  ],
+  "meta": {
+    "title": "Laboratorium pemeriksaan kesehatan di Indonesia — Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar laboratorium pemeriksaan yang terdaftar pada Pusat Data dan Informasi Kementerian Kesehatan Republik Indonesia, dengan provinsi, alamat, kontak dan koordinat. Berisi 162 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Laboratorium pemeriksaan kesehatan di Indonesia — Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Laboratorium pemeriksaan kesehatan di Indonesia — Pusdatin Kemenkes — 162 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 162 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "id-nusa-tenggara-barat-regencies",
+  "name": "Daftar Kabupaten dan Kota di Nusa Tenggara Barat",
+  "title": "Daftar Kabupaten dan Kota di Nusa Tenggara Barat",
+  "description": "Daftar kabupaten dan kota di Provinsi Nusa Tenggara Barat dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "52.01",
+      "name": "Kabupaten Lombok Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lombok-barat"
+    },
+    {
+      "code": "52.02",
+      "name": "Kabupaten Lombok Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lombok-tengah"
+    },
+    {
+      "code": "52.03",
+      "name": "Kabupaten Lombok Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lombok-timur"
+    },
+    {
+      "code": "52.04",
+      "name": "Kabupaten Sumbawa",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sumbawa"
+    },
+    {
+      "code": "52.05",
+      "name": "Kabupaten Dompu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-dompu"
+    },
+    {
+      "code": "52.06",
+      "name": "Kabupaten Bima",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bima"
+    },
+    {
+      "code": "52.07",
+      "name": "Kabupaten Sumbawa Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sumbawa-barat"
+    },
+    {
+      "code": "52.08",
+      "name": "Kabupaten Lombok Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lombok-utara"
+    },
+    {
+      "code": "52.71",
+      "name": "Kota Mataram",
+      "type": "Kota",
+      "slug": "kota-mataram"
+    },
+    {
+      "code": "52.72",
+      "name": "Kota Bima",
+      "type": "Kota",
+      "slug": "kota-bima"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Nusa Tenggara Barat - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Nusa Tenggara Barat dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Nusa Tenggara Barat | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Nusa Tenggara Barat — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

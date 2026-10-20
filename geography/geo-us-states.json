@@ -1,0 +1,579 @@
+{
+  "id": "geo-us-states",
+  "name": "Dataset Data Komprehensif Negara Bagian AS",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "State Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital City (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_sq_mi",
+      "label": "Area (sq mi)",
+      "type": "number"
+    },
+    {
+      "key": "statehood_year",
+      "label": "Statehood Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "region": "Selatan",
+      "division": "Pusat Selatan Timur",
+      "population": 5024279,
+      "area_sq_mi": 52420,
+      "statehood_year": 1819
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "region": "Barat",
+      "division": "Pasifik",
+      "population": 733391,
+      "area_sq_mi": 665384,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 7151502,
+      "area_sq_mi": 113990,
+      "statehood_year": 1912
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "region": "Selatan",
+      "division": "Pusat Selatan Barat",
+      "population": 3011524,
+      "area_sq_mi": 53179,
+      "statehood_year": 1836
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "region": "Barat",
+      "division": "Pasifik",
+      "population": 39538223,
+      "area_sq_mi": 163695,
+      "statehood_year": 1850
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 5773714,
+      "area_sq_mi": 104094,
+      "statehood_year": 1876
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "region": "Timur Laut",
+      "division": "New England",
+      "population": 3605944,
+      "area_sq_mi": 5543,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 989948,
+      "area_sq_mi": 2489,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 21538187,
+      "area_sq_mi": 65758,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 10711908,
+      "area_sq_mi": 59425,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "region": "Barat",
+      "division": "Pasifik",
+      "population": 1455271,
+      "area_sq_mi": 10932,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 1839106,
+      "area_sq_mi": 83569,
+      "statehood_year": 1890
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "region": "Midwest",
+      "division": "Pusat Utara Timur",
+      "population": 12812508,
+      "area_sq_mi": 57914,
+      "statehood_year": 1818
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "region": "Midwest",
+      "division": "Pusat Utara Timur",
+      "population": 6785528,
+      "area_sq_mi": 36420,
+      "statehood_year": 1816
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "region": "Midwest",
+      "division": "Pusat Utara Barat",
+      "population": 3190369,
+      "area_sq_mi": 56273,
+      "statehood_year": 1846
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "region": "Midwest",
+      "division": "Pusat Utara Barat",
+      "population": 2937880,
+      "area_sq_mi": 82278,
+      "statehood_year": 1861
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "region": "Selatan",
+      "division": "Pusat Selatan Timur",
+      "population": 4505836,
+      "area_sq_mi": 40408,
+      "statehood_year": 1792
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "region": "Selatan",
+      "division": "Pusat Selatan Barat",
+      "population": 4657757,
+      "area_sq_mi": 52378,
+      "statehood_year": 1812
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "region": "Timur Laut",
+      "division": "New England",
+      "population": 1362359,
+      "area_sq_mi": 35380,
+      "statehood_year": 1820
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 6177224,
+      "area_sq_mi": 12406,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "region": "Timur Laut",
+      "division": "New England",
+      "population": 7029917,
+      "area_sq_mi": 10554,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "region": "Barat Tengah",
+      "division": "Timur Laut Tengah",
+      "population": 10077331,
+      "area_sq_mi": 96714,
+      "statehood_year": 1837
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "region": "Barat Tengah",
+      "division": "Barat Laut Tengah",
+      "population": 5706494,
+      "area_sq_mi": 86936,
+      "statehood_year": 1858
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "region": "Selatan",
+      "division": "Timur Selatan Tengah",
+      "population": 2961279,
+      "area_sq_mi": 48432,
+      "statehood_year": 1817
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "region": "Barat Tengah",
+      "division": "Barat Laut Tengah",
+      "population": 6154913,
+      "area_sq_mi": 69707,
+      "statehood_year": 1821
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 1084225,
+      "area_sq_mi": 147040,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "region": "Barat Tengah",
+      "division": "Barat Laut Tengah",
+      "population": 1961504,
+      "area_sq_mi": 77348,
+      "statehood_year": 1867
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 3104614,
+      "area_sq_mi": 110572,
+      "statehood_year": 1864
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "region": "Timur Laut",
+      "division": "New England",
+      "population": 1377529,
+      "area_sq_mi": 9349,
+      "statehood_year": 1788
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "region": "Timur Laut",
+      "division": "Atlantik Tengah",
+      "population": 9288994,
+      "area_sq_mi": 8723,
+      "statehood_year": 1787
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 2117522,
+      "area_sq_mi": 121590,
+      "statehood_year": 1912
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "region": "Timur Laut",
+      "division": "Atlantik Tengah",
+      "population": 20201249,
+      "area_sq_mi": 54555,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Carolina Utara",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 10439388,
+      "area_sq_mi": 53819,
+      "statehood_year": 1789
+    },
+    {
+      "name": "Dakota Utara",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "region": "Barat Tengah",
+      "division": "Barat Laut Tengah",
+      "population": 779094,
+      "area_sq_mi": 70698,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "region": "Barat Tengah",
+      "division": "Timur Laut Tengah",
+      "population": 11799448,
+      "area_sq_mi": 44826,
+      "statehood_year": 1803
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "region": "Selatan",
+      "division": "Barat Selatan Tengah",
+      "population": 3959353,
+      "area_sq_mi": 69899,
+      "statehood_year": 1907
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "region": "Barat",
+      "division": "Pasifik",
+      "population": 4237256,
+      "area_sq_mi": 98379,
+      "statehood_year": 1859
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "region": "Timur Laut",
+      "division": "Atlantik Tengah",
+      "population": 13002700,
+      "area_sq_mi": 46054,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "region": "Timur Laut",
+      "division": "New England",
+      "population": 1097379,
+      "area_sq_mi": 1545,
+      "statehood_year": 1790
+    },
+    {
+      "name": "Carolina Selatan",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 5118425,
+      "area_sq_mi": 32020,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Dakota Selatan",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "region": "Midwest",
+      "division": "Barat Laut Tengah",
+      "population": 886667,
+      "area_sq_mi": 77116,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "region": "Selatan",
+      "division": "Timur Selatan Tengah",
+      "population": 6910840,
+      "area_sq_mi": 42144,
+      "statehood_year": 1796
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "region": "Selatan",
+      "division": "Barat Selatan Tengah",
+      "population": 29145505,
+      "area_sq_mi": 268596,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake City",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 3271616,
+      "area_sq_mi": 84897,
+      "statehood_year": 1896
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "region": "Timur Laut",
+      "division": "New England",
+      "population": 643077,
+      "area_sq_mi": 9616,
+      "statehood_year": 1791
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 8631393,
+      "area_sq_mi": 42775,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "region": "Barat",
+      "division": "Pasifik",
+      "population": 7614893,
+      "area_sq_mi": 71298,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Virginia Barat",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "region": "Selatan",
+      "division": "Atlantik Selatan",
+      "population": 1793716,
+      "area_sq_mi": 24230,
+      "statehood_year": 1863
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "region": "Midwest",
+      "division": "Timur Laut Tengah",
+      "population": 5893718,
+      "area_sq_mi": 65496,
+      "statehood_year": 1848
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "region": "Barat",
+      "division": "Pegunungan",
+      "population": 576851,
+      "area_sq_mi": 97813,
+      "statehood_year": 1890
+    }
+  ],
+  "meta": {
+    "seo_title": "Data Negara Bagian AS - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis data 50 negara bagian AS: nama, ibu kota, populasi, wilayah & lainnya. Tersedia dalam Excel, CSV, PDF untuk analisis, edukasi & pengembangan.",
+    "title": "Dataset Data Komprehensif Negara Bagian AS",
+    "description": "Dataset ini menyediakan informasi rinci untuk semua 50 Negara Bagian Amerika Serikat, termasuk nama, singkatan, ibu kota, wilayah, divisi, populasi, luas area, dan tahun pembentukan negara bagian. Ini menawarkan sumber daya yang berharga untuk analisis geografis dan demografis.",
+    "key_takeaways": [
+      "Akses data demografi dan geografis utama untuk semua 50 negara bagian AS.",
+      "Jelajahi nama negara bagian, ibu kota, wilayah, populasi, dan luas daratan.",
+      "Unduh data komprehensif negara bagian AS yang siap digunakan segera dalam berbagai format.",
+      "Manfaatkan informasi akurat untuk proyek pendidikan, penelitian, dan pengembangan."
+    ],
+    "keywords": [
+      "data negara bagian AS gratis",
+      "fakta amerika serikat excel",
+      "ibu kota negara bagian AS csv",
+      "data populasi 50 negara bagian",
+      "wilayah AS pdf",
+      "unduh informasi negara bagian AS"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk analisis geografis atau mengembangkan aplikasi dengan data tingkat negara bagian.",
+      "Gunakan file **Excel** untuk membuat Pivot Table, memfilter negara bagian berdasarkan wilayah atau populasi, dan membuat laporan tentang tren demografi dan geografis AS.",
+      "Cetak versi **PDF** untuk referensi kelas, presentasi pendidikan, atau akses cepat offline ke fakta dan angka negara bagian AS.",
+      "Analisis sejarah pembentukan negara bagian AS, perubahan populasi, dan demografi regional untuk penelitian atau proyek akademis."
+    ]
+  },
+  "record_count": 50,
+  "title": "Dataset Data Komprehensif Negara Bagian AS"
+}

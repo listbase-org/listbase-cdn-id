@@ -1,0 +1,600 @@
+{
+  "id": "id-maluku-pelabuhan",
+  "name": "Pelabuhan Umum di Maluku (68 pelabuhan)",
+  "title": "Pelabuhan Umum di Maluku (68 pelabuhan)",
+  "description": "68 pelabuhan umum di Provinsi Maluku, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "AAT",
+      "nama_pelabuhan": "Adaut",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ABA",
+      "nama_pelabuhan": "Air Buaya",
+      "lokasi_kabupaten_kota": "BURU",
+      "unit_kerja": "KUPP KELAS II NAMLEA",
+      "alamat_kantor": "Jl.Dermaga Pelabuhan Namlea Kabupaten Buru Maluku 97571",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ABL",
+      "nama_pelabuhan": "Ambalau",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "AHI",
+      "nama_pelabuhan": "Amahai",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "AMQ",
+      "nama_pelabuhan": "Ambon",
+      "lokasi_kabupaten_kota": "KOTA AMBON",
+      "unit_kerja": "KSOP KELAS I AMBON",
+      "alamat_kantor": "Jl.Yos Komp.Pelabuhan Ambon Maluku 97126",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ASG",
+      "nama_pelabuhan": "Arwala / Sutilarang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BLA",
+      "nama_pelabuhan": "Bula",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BNA",
+      "nama_pelabuhan": "Benjina",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BUH",
+      "nama_pelabuhan": "Batu Merah",
+      "lokasi_kabupaten_kota": "KOTA AMBON",
+      "unit_kerja": "KSOP KELAS I AMBON",
+      "alamat_kantor": "Jl.Yos Komp.Pelabuhan Ambon Maluku 97126",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "BYG",
+      "nama_pelabuhan": "Batu Goyang",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "DAR",
+      "nama_pelabuhan": "Dawera/Dawelor",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "DMR",
+      "nama_pelabuhan": "Damar",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "DOB",
+      "nama_pelabuhan": "Dobo",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ELT",
+      "nama_pelabuhan": "Elat",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ERY",
+      "nama_pelabuhan": "Eray",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "FOI",
+      "nama_pelabuhan": "Fogi",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "GER",
+      "nama_pelabuhan": "Geser",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "GMR",
+      "nama_pelabuhan": "Gorom",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "HUU",
+      "nama_pelabuhan": "Hatu Piru",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IAU",
+      "nama_pelabuhan": "amahaii",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IBL",
+      "nama_pelabuhan": "Buano",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IBQ",
+      "nama_pelabuhan": "Bemo",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "UPP KELAS III AMAHAI",
+      "alamat_kantor": "Jl. Christina Martha Tiahahu Komp. Pelabuhan Amahai Maluku 97511",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IGY",
+      "nama_pelabuhan": "Gudang Arang",
+      "lokasi_kabupaten_kota": "KOTA AMBON",
+      "unit_kerja": "KSOP KELAS I AMBON",
+      "alamat_kantor": "Jl.Yos Komp.Pelabuhan Ambon Maluku 97126",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IIH",
+      "nama_pelabuhan": "Bulaa",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ITG",
+      "nama_pelabuhan": "Teor",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ITL",
+      "nama_pelabuhan": "tulehuu",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ITS",
+      "nama_pelabuhan": "Toyando",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "IWI",
+      "nama_pelabuhan": "Ilwaki",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KBD",
+      "nama_pelabuhan": "Kobisadar",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KOB",
+      "nama_pelabuhan": "Kobror",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KOG",
+      "nama_pelabuhan": "Kroing",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KSI",
+      "nama_pelabuhan": "Kesui",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KTU",
+      "nama_pelabuhan": "Kairatu",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KUR",
+      "nama_pelabuhan": "Kur",
+      "lokasi_kabupaten_kota": "KAB. TUAL",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KWU",
+      "nama_pelabuhan": "Moa",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "KXR",
+      "nama_pelabuhan": "Kisar",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LEI",
+      "nama_pelabuhan": "Leti",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LGN",
+      "nama_pelabuhan": "Lirang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LKS",
+      "nama_pelabuhan": "Lerokis",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LOR",
+      "nama_pelabuhan": "Lakor",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LQA",
+      "nama_pelabuhan": "Leksula",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LRN",
+      "nama_pelabuhan": "Lurang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "LRT",
+      "nama_pelabuhan": "Larat",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MHE",
+      "nama_pelabuhan": "Mahaleta",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MLS",
+      "nama_pelabuhan": "Marlasi",
+      "lokasi_kabupaten_kota": "KEPULAUAN ARU",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MNP",
+      "nama_pelabuhan": "Manipa",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "MRL",
+      "nama_pelabuhan": "Marsela",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "NAM",
+      "nama_pelabuhan": "Namlea",
+      "lokasi_kabupaten_kota": "BURU",
+      "unit_kerja": "KUPP KELAS II NAMLEA",
+      "alamat_kantor": "Jl.Dermaga Pelabuhan Namlea Kabupaten Buru Maluku 97571",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "NDA",
+      "nama_pelabuhan": "Banda Naira",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KSOP KELAS IV BANDA NAIRA",
+      "alamat_kantor": "Jl.Pelabuhan Banda Naira Kab Maluku Tengah 97543",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "NRE",
+      "nama_pelabuhan": "Namrole",
+      "lokasi_kabupaten_kota": "BURU SELATAN",
+      "unit_kerja": "KUPP KELAS III NAMROLE",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Leksula; Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "ONR",
+      "nama_pelabuhan": "Kataloka/Ondor",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN TIMUR",
+      "unit_kerja": "KUPP KELAS III GESER",
+      "alamat_kantor": "Jl. Pelabuhan Geser; Seram Bagian Timur- Maluku 97594",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "RMG",
+      "nama_pelabuhan": "Hila/Romang",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "RUH",
+      "nama_pelabuhan": "Saparua/Haria",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SRX",
+      "nama_pelabuhan": "Seira",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SWU",
+      "nama_pelabuhan": "Serwaru",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "SXK",
+      "nama_pelabuhan": "Saumlaki",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TEE",
+      "nama_pelabuhan": "Tabarfane",
+      "lokasi_kabupaten_kota": "KAB. TUAL",
+      "unit_kerja": "KUPP KELAS II DOBO",
+      "alamat_kantor": "Jl.Pelabuhan No. 3 Dobo Maluku 97662",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "THH",
+      "nama_pelabuhan": "Tuhaha",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TKM",
+      "nama_pelabuhan": "Tutu Kembong",
+      "lokasi_kabupaten_kota": "MALUKU TENGGARA BARAT",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TNL",
+      "nama_pelabuhan": "Taniwel",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TPA",
+      "nama_pelabuhan": "Tepa",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TUA",
+      "nama_pelabuhan": "Tual",
+      "lokasi_kabupaten_kota": "KAB. TUAL",
+      "unit_kerja": "KUPP KELAS II TUAL",
+      "alamat_kantor": "Jl.Pidnang Armau No1 Komp.Pelabuhan Tual Maluku 97613",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "TUH",
+      "nama_pelabuhan": "Tulehu",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS II TULEHU",
+      "alamat_kantor": "Jl.Pelabuhan Hurmala Tulehu Maluku 97582",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "UIA",
+      "nama_pelabuhan": "Eray/Upisera",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "KUPP KELAS II SAUMLAKI",
+      "alamat_kantor": "Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WBA",
+      "nama_pelabuhan": "Wahai",
+      "lokasi_kabupaten_kota": "MALUKU TENGAH",
+      "unit_kerja": "KUPP KELAS III BULA",
+      "alamat_kantor": "Jl. Pelabuhan Teluk Hatiling Wahai Maluku 97557",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WNI",
+      "nama_pelabuhan": "Wonreli",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WRS",
+      "nama_pelabuhan": "Waisarisa",
+      "lokasi_kabupaten_kota": "SERAM BAGIAN BARAT",
+      "unit_kerja": "KUPP KELAS III KAIRATU",
+      "alamat_kantor": "Jl. Kompleks PT. IMJ; Waisarisa Maluku",
+      "provinsi": "Maluku"
+    },
+    {
+      "kode_pelabuhan": "WUR",
+      "nama_pelabuhan": "Wulur",
+      "lokasi_kabupaten_kota": "MALUKU BARAT DAYA",
+      "unit_kerja": "UPP KELAS III WONRELI",
+      "alamat_kantor": "Jl. Pelabuhan Wonreli Maluku 97653",
+      "provinsi": "Maluku"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Maluku (68 pelabuhan) - Unduh Gratis",
+    "description": "68 pelabuhan umum di Provinsi Maluku, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 68 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Maluku (68 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Maluku (68 pelabuhan) — 68 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 68 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

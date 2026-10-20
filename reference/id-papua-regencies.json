@@ -1,0 +1,100 @@
+{
+  "id": "id-papua-regencies",
+  "name": "Daftar Kabupaten dan Kota di Papua",
+  "title": "Daftar Kabupaten dan Kota di Papua",
+  "description": "Daftar kabupaten dan kota di Provinsi Papua dengan kode wilayah Kepmendagri. Total 9 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "91.03",
+      "name": "Kabupaten Jayapura",
+      "type": "Kabupaten",
+      "slug": "kabupaten-jayapura"
+    },
+    {
+      "code": "91.05",
+      "name": "Kabupaten Kepulauan Yapen",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepulauan-yapen"
+    },
+    {
+      "code": "91.06",
+      "name": "Kabupaten Biak Numfor",
+      "type": "Kabupaten",
+      "slug": "kabupaten-biak-numfor"
+    },
+    {
+      "code": "91.10",
+      "name": "Kabupaten Sarmi",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sarmi"
+    },
+    {
+      "code": "91.11",
+      "name": "Kabupaten Keerom",
+      "type": "Kabupaten",
+      "slug": "kabupaten-keerom"
+    },
+    {
+      "code": "91.15",
+      "name": "Kabupaten Waropen",
+      "type": "Kabupaten",
+      "slug": "kabupaten-waropen"
+    },
+    {
+      "code": "91.19",
+      "name": "Kabupaten Supiori",
+      "type": "Kabupaten",
+      "slug": "kabupaten-supiori"
+    },
+    {
+      "code": "91.20",
+      "name": "Kabupaten Mamberamo Raya",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mamberamo-raya"
+    },
+    {
+      "code": "91.71",
+      "name": "Kota Jayapura",
+      "type": "Kota",
+      "slug": "kota-jayapura"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Papua - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Papua dengan kode wilayah Kepmendagri. Total 9 kabupaten/kota. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Papua | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Papua — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

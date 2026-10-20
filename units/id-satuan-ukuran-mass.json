@@ -1,0 +1,214 @@
+{
+  "id": "id-satuan-ukuran-mass",
+  "name": "Satuan ukuran — kategori 'mass' (17)",
+  "title": "Satuan ukuran — kategori 'mass' (17)",
+  "description": "Satuan ukuran kategori 'mass' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategori": "mass",
+      "nama": "karat",
+      "singkatan": "karat",
+      "bentuk_sempit": "karat",
+      "pola": "{0} karat"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategori": "mass",
+      "nama": "dalton",
+      "singkatan": "dalton",
+      "bentuk_sempit": "Da",
+      "pola": "{0} dalton"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategori": "mass",
+      "nama": "massa Bumi",
+      "singkatan": "massa Bumi",
+      "bentuk_sempit": "M⊕",
+      "pola": "{0} massa Bumi"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategori": "mass",
+      "nama": "fun [JP]",
+      "singkatan": "fun [JP]",
+      "bentuk_sempit": "fun [JP]",
+      "pola": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategori": "mass",
+      "nama": "grain",
+      "singkatan": "grain",
+      "bentuk_sempit": "gr",
+      "pola": "{0} grain"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategori": "mass",
+      "nama": "gram",
+      "singkatan": "gram",
+      "bentuk_sempit": "gram",
+      "pola": "{0} gram"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategori": "mass",
+      "nama": "kilogram",
+      "singkatan": "kg",
+      "bentuk_sempit": "kg",
+      "pola": "{0} kilogram"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategori": "mass",
+      "nama": "mikrogram",
+      "singkatan": "μg",
+      "bentuk_sempit": "μg",
+      "pola": "{0} mikrogram"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategori": "mass",
+      "nama": "miligram",
+      "singkatan": "mg",
+      "bentuk_sempit": "mg",
+      "pola": "{0} miligram"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategori": "mass",
+      "nama": "ounce",
+      "singkatan": "oz",
+      "bentuk_sempit": "oz",
+      "pola": "{0} ounce"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategori": "mass",
+      "nama": "troy ons",
+      "singkatan": "oz troy",
+      "bentuk_sempit": "oz t",
+      "pola": "{0} troy ons"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategori": "mass",
+      "nama": "pound",
+      "singkatan": "pound",
+      "bentuk_sempit": "lb",
+      "pola": "{0} pound"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategori": "mass",
+      "nama": "slug",
+      "singkatan": "slug",
+      "bentuk_sempit": "slug",
+      "pola": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategori": "mass",
+      "nama": "massa Matahari",
+      "singkatan": "massa Matahari",
+      "bentuk_sempit": "M☉",
+      "pola": "{0} massa Matahari"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategori": "mass",
+      "nama": "stone",
+      "singkatan": "stone",
+      "bentuk_sempit": "stone",
+      "pola": "{0} stone"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategori": "mass",
+      "nama": "ton Amerika Serikat",
+      "singkatan": "ton AS",
+      "bentuk_sempit": "ton",
+      "pola": "{0} ton Amerika Serikat"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategori": "mass",
+      "nama": "metrik ton",
+      "singkatan": "t",
+      "bentuk_sempit": "t",
+      "pola": "{0} metrik ton"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'mass' (17) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'mass' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 17 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'mass' (17) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'mass' (17) — 17 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 17 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

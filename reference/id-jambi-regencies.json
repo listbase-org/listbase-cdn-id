@@ -1,0 +1,112 @@
+{
+  "id": "id-jambi-regencies",
+  "name": "Daftar Kabupaten dan Kota di Jambi",
+  "title": "Daftar Kabupaten dan Kota di Jambi",
+  "description": "Daftar kabupaten dan kota di Provinsi Jambi dengan kode wilayah Kepmendagri. Total 11 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "15.01",
+      "name": "Kabupaten Kerinci",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kerinci"
+    },
+    {
+      "code": "15.02",
+      "name": "Kabupaten Merangin",
+      "type": "Kabupaten",
+      "slug": "kabupaten-merangin"
+    },
+    {
+      "code": "15.03",
+      "name": "Kabupaten Sarolangun",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sarolangun"
+    },
+    {
+      "code": "15.04",
+      "name": "Kabupaten Batanghari",
+      "type": "Kabupaten",
+      "slug": "kabupaten-batanghari"
+    },
+    {
+      "code": "15.05",
+      "name": "Kabupaten Muaro Jambi",
+      "type": "Kabupaten",
+      "slug": "kabupaten-muaro-jambi"
+    },
+    {
+      "code": "15.06",
+      "name": "Kabupaten Tanjung Jabung Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tanjung-jabung-barat"
+    },
+    {
+      "code": "15.07",
+      "name": "Kabupaten Tanjung Jabung Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tanjung-jabung-timur"
+    },
+    {
+      "code": "15.08",
+      "name": "Kabupaten Bungo",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bungo"
+    },
+    {
+      "code": "15.09",
+      "name": "Kabupaten Tebo",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tebo"
+    },
+    {
+      "code": "15.71",
+      "name": "Kota Jambi",
+      "type": "Kota",
+      "slug": "kota-jambi"
+    },
+    {
+      "code": "15.72",
+      "name": "Kota Sungai Penuh",
+      "type": "Kota",
+      "slug": "kota-sungai-penuh"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Jambi - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Jambi dengan kode wilayah Kepmendagri. Total 11 kabupaten/kota. Berisi 11 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Jambi | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Jambi — 11 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 11 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

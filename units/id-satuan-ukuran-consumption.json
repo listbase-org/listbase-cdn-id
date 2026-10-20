@@ -1,0 +1,97 @@
+{
+  "id": "id-satuan-ukuran-consumption",
+  "name": "Satuan ukuran — kategori 'consumption' (4)",
+  "title": "Satuan ukuran — kategori 'consumption' (4)",
+  "description": "Satuan ukuran kategori 'consumption' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategori": "consumption",
+      "nama": "liter per 100 kilometer",
+      "singkatan": "L/100 km",
+      "bentuk_sempit": "L/100 km",
+      "pola": "{0} liter per 100 kilometer"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategori": "consumption",
+      "nama": "liter per kilometer",
+      "singkatan": "liter/km",
+      "bentuk_sempit": "L/km",
+      "pola": "{0} liter per kilometer"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategori": "consumption",
+      "nama": "mil per galon",
+      "singkatan": "mil/gal",
+      "bentuk_sempit": "mpg",
+      "pola": "{0} mil per galon"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategori": "consumption",
+      "nama": "mil per galon Imp.",
+      "singkatan": "mil/gal Imp.",
+      "bentuk_sempit": "mpg UK",
+      "pola": "{0} mil per galon Imp."
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'consumption' (4) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'consumption' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'consumption' (4) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'consumption' (4) — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "id": "id-bulan-kalender",
+  "name": "Nama bulan menurut kalender (CLDR bahasa Indonesia)",
+  "title": "Nama bulan menurut kalender (CLDR bahasa Indonesia)",
+  "description": "Nama bulan dari enam kalender (gregorian, buddhis, tionghoa, dangi, ibrani, islam) — dalam locale id di CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalender",
+      "label": "Kalender",
+      "type": "string"
+    },
+    {
+      "key": "bulan_kode",
+      "label": "Bulan Kode",
+      "type": "number"
+    },
+    {
+      "key": "bulan_num",
+      "label": "Bulan Num",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalender": "gregorian",
+      "bulan_kode": "1",
+      "bulan_num": 1,
+      "nama": "Januari",
+      "singkatan": "Jan"
+    },
+    {
+      "id": 2,
+      "kalender": "gregorian",
+      "bulan_kode": "2",
+      "bulan_num": 2,
+      "nama": "Februari",
+      "singkatan": "Feb"
+    },
+    {
+      "id": 3,
+      "kalender": "gregorian",
+      "bulan_kode": "3",
+      "bulan_num": 3,
+      "nama": "Maret",
+      "singkatan": "Mar"
+    },
+    {
+      "id": 4,
+      "kalender": "gregorian",
+      "bulan_kode": "4",
+      "bulan_num": 4,
+      "nama": "April",
+      "singkatan": "Apr"
+    },
+    {
+      "id": 5,
+      "kalender": "gregorian",
+      "bulan_kode": "5",
+      "bulan_num": 5,
+      "nama": "Mei",
+      "singkatan": "Mei"
+    },
+    {
+      "id": 6,
+      "kalender": "gregorian",
+      "bulan_kode": "6",
+      "bulan_num": 6,
+      "nama": "Juni",
+      "singkatan": "Jun"
+    },
+    {
+      "id": 7,
+      "kalender": "gregorian",
+      "bulan_kode": "7",
+      "bulan_num": 7,
+      "nama": "Juli",
+      "singkatan": "Jul"
+    },
+    {
+      "id": 8,
+      "kalender": "gregorian",
+      "bulan_kode": "8",
+      "bulan_num": 8,
+      "nama": "Agustus",
+      "singkatan": "Agu"
+    },
+    {
+      "id": 9,
+      "kalender": "gregorian",
+      "bulan_kode": "9",
+      "bulan_num": 9,
+      "nama": "September",
+      "singkatan": "Sep"
+    },
+    {
+      "id": 10,
+      "kalender": "gregorian",
+      "bulan_kode": "10",
+      "bulan_num": 10,
+      "nama": "Oktober",
+      "singkatan": "Okt"
+    },
+    {
+      "id": 11,
+      "kalender": "gregorian",
+      "bulan_kode": "11",
+      "bulan_num": 11,
+      "nama": "November",
+      "singkatan": "Nov"
+    },
+    {
+      "id": 12,
+      "kalender": "gregorian",
+      "bulan_kode": "12",
+      "bulan_num": 12,
+      "nama": "Desember",
+      "singkatan": "Des"
+    },
+    {
+      "id": 13,
+      "kalender": "buddhist",
+      "bulan_kode": "1",
+      "bulan_num": 1,
+      "nama": "Januari",
+      "singkatan": "Jan"
+    },
+    {
+      "id": 14,
+      "kalender": "buddhist",
+      "bulan_kode": "2",
+      "bulan_num": 2,
+      "nama": "Februari",
+      "singkatan": "Feb"
+    },
+    {
+      "id": 15,
+      "kalender": "buddhist",
+      "bulan_kode": "3",
+      "bulan_num": 3,
+      "nama": "Maret",
+      "singkatan": "Mar"
+    },
+    {
+      "id": 16,
+      "kalender": "buddhist",
+      "bulan_kode": "4",
+      "bulan_num": 4,
+      "nama": "April",
+      "singkatan": "Apr"
+    },
+    {
+      "id": 17,
+      "kalender": "buddhist",
+      "bulan_kode": "5",
+      "bulan_num": 5,
+      "nama": "Mei",
+      "singkatan": "Mei"
+    },
+    {
+      "id": 18,
+      "kalender": "buddhist",
+      "bulan_kode": "6",
+      "bulan_num": 6,
+      "nama": "Juni",
+      "singkatan": "Jun"
+    },
+    {
+      "id": 19,
+      "kalender": "buddhist",
+      "bulan_kode": "7",
+      "bulan_num": 7,
+      "nama": "Juli",
+      "singkatan": "Jul"
+    },
+    {
+      "id": 20,
+      "kalender": "buddhist",
+      "bulan_kode": "8",
+      "bulan_num": 8,
+      "nama": "Agustus",
+      "singkatan": "Agu"
+    },
+    {
+      "id": 21,
+      "kalender": "buddhist",
+      "bulan_kode": "9",
+      "bulan_num": 9,
+      "nama": "September",
+      "singkatan": "Sep"
+    },
+    {
+      "id": 22,
+      "kalender": "buddhist",
+      "bulan_kode": "10",
+      "bulan_num": 10,
+      "nama": "Oktober",
+      "singkatan": "Okt"
+    },
+    {
+      "id": 23,
+      "kalender": "buddhist",
+      "bulan_kode": "11",
+      "bulan_num": 11,
+      "nama": "November",
+      "singkatan": "Nov"
+    },
+    {
+      "id": 24,
+      "kalender": "buddhist",
+      "bulan_kode": "12",
+      "bulan_num": 12,
+      "nama": "Desember",
+      "singkatan": "Des"
+    },
+    {
+      "id": 25,
+      "kalender": "chinese",
+      "bulan_kode": "1",
+      "bulan_num": 1,
+      "nama": "1",
+      "singkatan": "1"
+    },
+    {
+      "id": 26,
+      "kalender": "chinese",
+      "bulan_kode": "2",
+      "bulan_num": 2,
+      "nama": "2",
+      "singkatan": "2"
+    },
+    {
+      "id": 27,
+      "kalender": "chinese",
+      "bulan_kode": "3",
+      "bulan_num": 3,
+      "nama": "3",
+      "singkatan": "3"
+    },
+    {
+      "id": 28,
+      "kalender": "chinese",
+      "bulan_kode": "4",
+      "bulan_num": 4,
+      "nama": "4",
+      "singkatan": "4"
+    },
+    {
+      "id": 29,
+      "kalender": "chinese",
+      "bulan_kode": "5",
+      "bulan_num": 5,
+      "nama": "5",
+      "singkatan": "5"
+    },
+    {
+      "id": 30,
+      "kalender": "chinese",
+      "bulan_kode": "6",
+      "bulan_num": 6,
+      "nama": "6",
+      "singkatan": "6"
+    },
+    {
+      "id": 31,
+      "kalender": "chinese",
+      "bulan_kode": "7",
+      "bulan_num": 7,
+      "nama": "7",
+      "singkatan": "7"
+    },
+    {
+      "id": 32,
+      "kalender": "chinese",
+      "bulan_kode": "8",
+      "bulan_num": 8,
+      "nama": "8",
+      "singkatan": "8"
+    },
+    {
+      "id": 33,
+      "kalender": "chinese",
+      "bulan_kode": "9",
+      "bulan_num": 9,
+      "nama": "9",
+      "singkatan": "9"
+    },
+    {
+      "id": 34,
+      "kalender": "chinese",
+      "bulan_kode": "10",
+      "bulan_num": 10,
+      "nama": "10",
+      "singkatan": "10"
+    },
+    {
+      "id": 35,
+      "kalender": "chinese",
+      "bulan_kode": "11",
+      "bulan_num": 11,
+      "nama": "11",
+      "singkatan": "11"
+    },
+    {
+      "id": 36,
+      "kalender": "chinese",
+      "bulan_kode": "12",
+      "bulan_num": 12,
+      "nama": "12",
+      "singkatan": "12"
+    },
+    {
+      "id": 37,
+      "kalender": "dangi",
+      "bulan_kode": "1",
+      "bulan_num": 1,
+      "nama": "1",
+      "singkatan": "1"
+    },
+    {
+      "id": 38,
+      "kalender": "dangi",
+      "bulan_kode": "2",
+      "bulan_num": 2,
+      "nama": "2",
+      "singkatan": "2"
+    },
+    {
+      "id": 39,
+      "kalender": "dangi",
+      "bulan_kode": "3",
+      "bulan_num": 3,
+      "nama": "3",
+      "singkatan": "3"
+    },
+    {
+      "id": 40,
+      "kalender": "dangi",
+      "bulan_kode": "4",
+      "bulan_num": 4,
+      "nama": "4",
+      "singkatan": "4"
+    },
+    {
+      "id": 41,
+      "kalender": "dangi",
+      "bulan_kode": "5",
+      "bulan_num": 5,
+      "nama": "5",
+      "singkatan": "5"
+    },
+    {
+      "id": 42,
+      "kalender": "dangi",
+      "bulan_kode": "6",
+      "bulan_num": 6,
+      "nama": "6",
+      "singkatan": "6"
+    },
+    {
+      "id": 43,
+      "kalender": "dangi",
+      "bulan_kode": "7",
+      "bulan_num": 7,
+      "nama": "7",
+      "singkatan": "7"
+    },
+    {
+      "id": 44,
+      "kalender": "dangi",
+      "bulan_kode": "8",
+      "bulan_num": 8,
+      "nama": "8",
+      "singkatan": "8"
+    },
+    {
+      "id": 45,
+      "kalender": "dangi",
+      "bulan_kode": "9",
+      "bulan_num": 9,
+      "nama": "9",
+      "singkatan": "9"
+    },
+    {
+      "id": 46,
+      "kalender": "dangi",
+      "bulan_kode": "10",
+      "bulan_num": 10,
+      "nama": "10",
+      "singkatan": "10"
+    },
+    {
+      "id": 47,
+      "kalender": "dangi",
+      "bulan_kode": "11",
+      "bulan_num": 11,
+      "nama": "11",
+      "singkatan": "11"
+    },
+    {
+      "id": 48,
+      "kalender": "dangi",
+      "bulan_kode": "12",
+      "bulan_num": 12,
+      "nama": "12",
+      "singkatan": "12"
+    },
+    {
+      "id": 49,
+      "kalender": "hebrew",
+      "bulan_kode": "1",
+      "bulan_num": 1,
+      "nama": "Tishri",
+      "singkatan": "Tishri"
+    },
+    {
+      "id": 50,
+      "kalender": "hebrew",
+      "bulan_kode": "2",
+      "bulan_num": 2,
+      "nama": "Heshvan",
+      "singkatan": "Heshvan"
+    },
+    {
+      "id": 51,
+      "kalender": "hebrew",
+      "bulan_kode": "3",
+      "bulan_num": 3,
+      "nama": "Kislev",
+      "singkatan": "Kislev"
+    },
+    {
+      "id": 52,
+      "kalender": "hebrew",
+      "bulan_kode": "4",
+      "bulan_num": 4,
+      "nama": "Tevet",
+      "singkatan": "Tevet"
+    },
+    {
+      "id": 53,
+      "kalender": "hebrew",
+      "bulan_kode": "5",
+      "bulan_num": 5,
+      "nama": "Shevat",
+      "singkatan": "Shevat"
+    },
+    {
+      "id": 54,
+      "kalender": "hebrew",
+      "bulan_kode": "6",
+      "bulan_num": 6,
+      "nama": "Adar I",
+      "singkatan": "Adar I"
+    },
+    {
+      "id": 55,
+      "kalender": "hebrew",
+      "bulan_kode": "7",
+      "bulan_num": 7,
+      "nama": "Adar",
+      "singkatan": "Adar"
+    },
+    {
+      "id": 56,
+      "kalender": "hebrew",
+      "bulan_kode": "7-yeartype-leap",
+      "bulan_num": "",
+      "nama": "Adar II",
+      "singkatan": "Adar II"
+    },
+    {
+      "id": 57,
+      "kalender": "hebrew",
+      "bulan_kode": "8",
+      "bulan_num": 8,
+      "nama": "Nisan",
+      "singkatan": "Nisan"
+    },
+    {
+      "id": 58,
+      "kalender": "hebrew",
+      "bulan_kode": "9",
+      "bulan_num": 9,
+      "nama": "Iyar",
+      "singkatan": "Iyar"
+    },
+    {
+      "id": 59,
+      "kalender": "hebrew",
+      "bulan_kode": "10",
+      "bulan_num": 10,
+      "nama": "Sivan",
+      "singkatan": "Sivan"
+    },
+    {
+      "id": 60,
+      "kalender": "hebrew",
+      "bulan_kode": "11",
+      "bulan_num": 11,
+      "nama": "Tamuz",
+      "singkatan": "Tamuz"
+    },
+    {
+      "id": 61,
+      "kalender": "hebrew",
+      "bulan_kode": "12",
+      "bulan_num": 12,
+      "nama": "Av",
+      "singkatan": "Av"
+    },
+    {
+      "id": 62,
+      "kalender": "hebrew",
+      "bulan_kode": "13",
+      "bulan_num": 13,
+      "nama": "Elul",
+      "singkatan": "Elul"
+    },
+    {
+      "id": 63,
+      "kalender": "islamic",
+      "bulan_kode": "1",
+      "bulan_num": 1,
+      "nama": "Muharam",
+      "singkatan": "Muh."
+    },
+    {
+      "id": 64,
+      "kalender": "islamic",
+      "bulan_kode": "2",
+      "bulan_num": 2,
+      "nama": "Safar",
+      "singkatan": "Saf."
+    },
+    {
+      "id": 65,
+      "kalender": "islamic",
+      "bulan_kode": "3",
+      "bulan_num": 3,
+      "nama": "Rabiulawal",
+      "singkatan": "Rab. Awal"
+    },
+    {
+      "id": 66,
+      "kalender": "islamic",
+      "bulan_kode": "4",
+      "bulan_num": 4,
+      "nama": "Rabiulakhir",
+      "singkatan": "Rab. Akhir"
+    },
+    {
+      "id": 67,
+      "kalender": "islamic",
+      "bulan_kode": "5",
+      "bulan_num": 5,
+      "nama": "Jumadilawal",
+      "singkatan": "Jum. Awal"
+    },
+    {
+      "id": 68,
+      "kalender": "islamic",
+      "bulan_kode": "6",
+      "bulan_num": 6,
+      "nama": "Jumadilakhir",
+      "singkatan": "Jum. Akhir"
+    },
+    {
+      "id": 69,
+      "kalender": "islamic",
+      "bulan_kode": "7",
+      "bulan_num": 7,
+      "nama": "Rajab",
+      "singkatan": "Raj."
+    },
+    {
+      "id": 70,
+      "kalender": "islamic",
+      "bulan_kode": "8",
+      "bulan_num": 8,
+      "nama": "Syakban",
+      "singkatan": "Sya."
+    },
+    {
+      "id": 71,
+      "kalender": "islamic",
+      "bulan_kode": "9",
+      "bulan_num": 9,
+      "nama": "Ramadan",
+      "singkatan": "Ram."
+    },
+    {
+      "id": 72,
+      "kalender": "islamic",
+      "bulan_kode": "10",
+      "bulan_num": 10,
+      "nama": "Syawal",
+      "singkatan": "Syaw."
+    },
+    {
+      "id": 73,
+      "kalender": "islamic",
+      "bulan_kode": "11",
+      "bulan_num": 11,
+      "nama": "Zulkaidah",
+      "singkatan": "Zulka."
+    },
+    {
+      "id": 74,
+      "kalender": "islamic",
+      "bulan_kode": "12",
+      "bulan_num": 12,
+      "nama": "Zulhijah",
+      "singkatan": "Zulhi."
+    }
+  ],
+  "meta": {
+    "title": "Nama bulan menurut kalender (CLDR bahasa Indonesia) - Unduh Gratis",
+    "description": "Nama bulan dari enam kalender (gregorian, buddhis, tionghoa, dangi, ibrani, islam) — dalam locale id di CLDR. Berisi 74 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Nama bulan menurut kalender (CLDR bahasa Indonesia) | ListBase",
+    "seo_description": "Unduh Nama bulan menurut kalender (CLDR bahasa Indonesia) — 74 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 74 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

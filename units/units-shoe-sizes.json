@@ -1,0 +1,413 @@
+{
+  "id": "units-shoe-sizes",
+  "name": "Dataset Bagan Konversi Ukuran Sepatu Internasional",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "us",
+      "label": "US Size",
+      "type": "number"
+    },
+    {
+      "key": "uk",
+      "label": "UK Size",
+      "type": "number"
+    },
+    {
+      "key": "eu",
+      "label": "EU Size",
+      "type": "number"
+    },
+    {
+      "key": "cm",
+      "label": "Foot Length (cm)",
+      "type": "number"
+    },
+    {
+      "key": "inches",
+      "label": "Foot Length (in)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Pria",
+      "us": 6,
+      "uk": 5.5,
+      "eu": 38.5,
+      "cm": 24,
+      "inches": 9.45
+    },
+    {
+      "category": "Pria",
+      "us": 6.5,
+      "uk": 6,
+      "eu": 39,
+      "cm": 24.5,
+      "inches": 9.65
+    },
+    {
+      "category": "Pria",
+      "us": 7,
+      "uk": 6.5,
+      "eu": 40,
+      "cm": 25,
+      "inches": 9.84
+    },
+    {
+      "category": "Pria",
+      "us": 7.5,
+      "uk": 7,
+      "eu": 40.5,
+      "cm": 25.5,
+      "inches": 10.04
+    },
+    {
+      "category": "Pria",
+      "us": 8,
+      "uk": 7.5,
+      "eu": 41,
+      "cm": 26,
+      "inches": 10.24
+    },
+    {
+      "category": "Pria",
+      "us": 8.5,
+      "uk": 8,
+      "eu": 42,
+      "cm": 26.5,
+      "inches": 10.43
+    },
+    {
+      "category": "Pria",
+      "us": 9,
+      "uk": 8.5,
+      "eu": 42.5,
+      "cm": 27,
+      "inches": 10.63
+    },
+    {
+      "category": "Pria",
+      "us": 9.5,
+      "uk": 9,
+      "eu": 43,
+      "cm": 27.5,
+      "inches": 10.83
+    },
+    {
+      "category": "Pria",
+      "us": 10,
+      "uk": 9.5,
+      "eu": 44,
+      "cm": 28,
+      "inches": 11.02
+    },
+    {
+      "category": "Pria",
+      "us": 10.5,
+      "uk": 10,
+      "eu": 44.5,
+      "cm": 28.5,
+      "inches": 11.22
+    },
+    {
+      "category": "Pria",
+      "us": 11,
+      "uk": 10.5,
+      "eu": 45,
+      "cm": 29,
+      "inches": 11.42
+    },
+    {
+      "category": "Pria",
+      "us": 11.5,
+      "uk": 11,
+      "eu": 45.5,
+      "cm": 29.5,
+      "inches": 11.61
+    },
+    {
+      "category": "Pria",
+      "us": 12,
+      "uk": 11.5,
+      "eu": 46,
+      "cm": 30,
+      "inches": 11.81
+    },
+    {
+      "category": "Pria",
+      "us": 13,
+      "uk": 12.5,
+      "eu": 47,
+      "cm": 31,
+      "inches": 12.2
+    },
+    {
+      "category": "Pria",
+      "us": 14,
+      "uk": 13.5,
+      "eu": 48,
+      "cm": 32,
+      "inches": 12.6
+    },
+    {
+      "category": "Pria",
+      "us": 15,
+      "uk": 14.5,
+      "eu": 49,
+      "cm": 33,
+      "inches": 12.99
+    },
+    {
+      "category": "Wanita",
+      "us": 5,
+      "uk": 2.5,
+      "eu": 35,
+      "cm": 22,
+      "inches": 8.66
+    },
+    {
+      "category": "Wanita",
+      "us": 5.5,
+      "uk": 3,
+      "eu": 35.5,
+      "cm": 22.5,
+      "inches": 8.86
+    },
+    {
+      "category": "Wanita",
+      "us": 6,
+      "uk": 3.5,
+      "eu": 36,
+      "cm": 23,
+      "inches": 9.06
+    },
+    {
+      "category": "Wanita",
+      "us": 6.5,
+      "uk": 4,
+      "eu": 37,
+      "cm": 23.5,
+      "inches": 9.25
+    },
+    {
+      "category": "Wanita",
+      "us": 7,
+      "uk": 4.5,
+      "eu": 37.5,
+      "cm": 24,
+      "inches": 9.45
+    },
+    {
+      "category": "Wanita",
+      "us": 7.5,
+      "uk": 5,
+      "eu": 38,
+      "cm": 24.5,
+      "inches": 9.65
+    },
+    {
+      "category": "Wanita",
+      "us": 8,
+      "uk": 5.5,
+      "eu": 38.5,
+      "cm": 25,
+      "inches": 9.84
+    },
+    {
+      "category": "Wanita",
+      "us": 8.5,
+      "uk": 6,
+      "eu": 39,
+      "cm": 25.5,
+      "inches": 10.04
+    },
+    {
+      "category": "Wanita",
+      "us": 9,
+      "uk": 6.5,
+      "eu": 40,
+      "cm": 26,
+      "inches": 10.24
+    },
+    {
+      "category": "Wanita",
+      "us": 9.5,
+      "uk": 7,
+      "eu": 40.5,
+      "cm": 26.5,
+      "inches": 10.43
+    },
+    {
+      "category": "Wanita",
+      "us": 10,
+      "uk": 7.5,
+      "eu": 41,
+      "cm": 27,
+      "inches": 10.63
+    },
+    {
+      "category": "Wanita",
+      "us": 10.5,
+      "uk": 8,
+      "eu": 42,
+      "cm": 27.5,
+      "inches": 10.83
+    },
+    {
+      "category": "Wanita",
+      "us": 11,
+      "uk": 8.5,
+      "eu": 42.5,
+      "cm": 28,
+      "inches": 11.02
+    },
+    {
+      "category": "Wanita",
+      "us": 12,
+      "uk": 9.5,
+      "eu": 43,
+      "cm": 29,
+      "inches": 11.42
+    },
+    {
+      "category": "Anak-anak",
+      "us": 1,
+      "uk": 0.5,
+      "eu": 16,
+      "cm": 9.5,
+      "inches": 3.74
+    },
+    {
+      "category": "Anak-anak",
+      "us": 2,
+      "uk": 1,
+      "eu": 17,
+      "cm": 10.5,
+      "inches": 4.13
+    },
+    {
+      "category": "Anak-anak",
+      "us": 3,
+      "uk": 2,
+      "eu": 18,
+      "cm": 11,
+      "inches": 4.33
+    },
+    {
+      "category": "Anak-anak",
+      "us": 4,
+      "uk": 3,
+      "eu": 19,
+      "cm": 11.5,
+      "inches": 4.53
+    },
+    {
+      "category": "Anak-anak",
+      "us": 5,
+      "uk": 4,
+      "eu": 20,
+      "cm": 12.5,
+      "inches": 4.92
+    },
+    {
+      "category": "Anak-anak",
+      "us": 6,
+      "uk": 5,
+      "eu": 22,
+      "cm": 13,
+      "inches": 5.12
+    },
+    {
+      "category": "Anak-anak",
+      "us": 7,
+      "uk": 6,
+      "eu": 23,
+      "cm": 14,
+      "inches": 5.51
+    },
+    {
+      "category": "Anak-anak",
+      "us": 8,
+      "uk": 7,
+      "eu": 24,
+      "cm": 15,
+      "inches": 5.91
+    },
+    {
+      "category": "Anak-anak",
+      "us": 9,
+      "uk": 8,
+      "eu": 25,
+      "cm": 15.5,
+      "inches": 6.1
+    },
+    {
+      "category": "Anak-anak",
+      "us": 10,
+      "uk": 9,
+      "eu": 27,
+      "cm": 16.5,
+      "inches": 6.5
+    },
+    {
+      "category": "Anak-anak",
+      "us": 11,
+      "uk": 10,
+      "eu": 28,
+      "cm": 17.5,
+      "inches": 6.89
+    },
+    {
+      "category": "Anak-anak",
+      "us": 12,
+      "uk": 11,
+      "eu": 30,
+      "cm": 18.5,
+      "inches": 7.28
+    },
+    {
+      "category": "Anak-anak",
+      "us": 13,
+      "uk": 12,
+      "eu": 31,
+      "cm": 19.5,
+      "inches": 7.68
+    }
+  ],
+  "meta": {
+    "seo_title": "Bagan Ukuran Sepatu Internasional - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis Bagan Ukuran Sepatu Internasional dengan 43 data untuk pria, wanita, & anak-anak. Konversi ukuran US, UK, EU & panjang kaki. Tersedia dalam format Excel, CSV, PDF.",
+    "title": "Dataset Bagan Konversi Ukuran Sepatu Internasional",
+    "description": "Dataset ini menyediakan bagan konversi ukuran sepatu internasional yang komprehensif, merinci ukuran di seluruh standar US, UK, dan EU, bersama dengan panjang kaki yang sesuai dalam sentimeter dan inci untuk pria, wanita, dan anak-anak.",
+    "key_takeaways": [
+      "Akses bagan rujukan silang ukuran sepatu US, UK, dan EU untuk pria, wanita, dan anak-anak.",
+      "Bandingkan panjang kaki dalam sentimeter dan inci dengan berbagai ukuran sepatu internasional.",
+      "Unduh 43 data akurat untuk membantu belanja sepatu online atau manufaktur.",
+      "Manfaatkan data yang akurat untuk konversi dan perbandingan ukuran sepatu global."
+    ],
+    "keywords": [
+      "bagan ukuran sepatu internasional",
+      "konversi ukuran sepatu excel",
+      "ukuran sepatu us uk eu",
+      "panjang kaki chart csv",
+      "konverter ukuran sepatu pdf",
+      "ukuran sepatu pria wanita anak"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke dalam database platform e-commerce Anda atau skrip Python untuk menyediakan konversi ukuran sepatu yang dinamis bagi pelanggan internasional.",
+      "Gunakan file **Excel** untuk membuat Pivot Tables guna menganalisis preferensi ukuran regional atau untuk cepat menemukan ukuran yang setara menggunakan VLOOKUP untuk manajemen inventaris.",
+      "Cetak versi **PDF** untuk panduan referensi yang praktis di toko ritel, untuk penggunaan pribadi, atau sebagai sumber daya pendidikan di kelas desain mode.",
+      "Integrasikan dataset ini ke dalam aplikasi seluler untuk membantu pengguna dengan cepat menemukan ukuran sepatu yang benar saat berbelanja secara internasional."
+    ]
+  },
+  "record_count": 43,
+  "title": "Dataset Bagan Konversi Ukuran Sepatu Internasional"
+}

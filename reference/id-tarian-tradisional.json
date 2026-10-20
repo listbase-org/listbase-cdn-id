@@ -1,0 +1,371 @@
+{
+  "id": "id-tarian-tradisional",
+  "name": "Tarian Tradisional Indonesia per Provinsi",
+  "title": "Tarian Tradisional Indonesia per Provinsi",
+  "description": "Daftar tarian adat/tradisional Indonesia (tari daerah) dikelompokkan per provinsi.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Tari Guel",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Tari Meuseukat",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Tari Saman",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Tari Seudati",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Tari Karo",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Tari Serampang Dua Belas",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Tari Tor-tor",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Tari Seudati",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Tari Payung",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Tari Piring",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Tari Randai",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Tari Mak Yong",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Tari Zapin",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Tari Joged Lambak",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Tari Selampit Delapan",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Tari Sekapur Sirih",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Tari Kisan",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Tari Putri Bekhusek",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Tari Gending Sriwijaya",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Tari Tanggai",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Tari Rodat Cempako",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Tari Andun",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Tari Tabot",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Tari Kejai",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Tari Sembah",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Tari Melinting",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Tari Bedana",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Tari Campak",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Tari Sepen",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Tari Selamat Datang",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Tari Joged Dangkong",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Tari Melemang",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Tari Kipas Mendu",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Tari Yapong",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Tari Samrah",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Tari Topeng",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Tari Jaipong",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Tari Merak",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Tari Topeng Kuncaran",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Tari Ketuk Tilu",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Tari Gambyong",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Tari Gatotkaca Gandrung",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Tari Bugis Kembar",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Tari Serimpi",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Tari Kelono Topeng",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Tari Gambir Anom",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Tari Bondan",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Tari Serial Ramayana",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Tari Gandrung Banyuwangi",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Tari Remo",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Tari Reog",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Tari Jaran Kepang",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Tari Rampak Bedug",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Tari Cukin",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Tari Cokek",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Tari Janger",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Tari Pendet",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Tari Kecak",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Tari Legong",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Tari Cupak Gerantang",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Tari Gandrung",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Tari Rudat",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Tari Cerana",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Tari Likurai",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Tari Perang",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Tari Bidu",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    }
+  ],
+  "meta": {
+    "title": "Tarian Tradisional Indonesia per Provinsi - Unduh Gratis",
+    "description": "Daftar tarian adat/tradisional Indonesia (tari daerah) dikelompokkan per provinsi. Berisi 66 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Tarian Tradisional Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Tarian Tradisional Indonesia per Provinsi — 66 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 66 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

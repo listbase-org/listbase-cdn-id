@@ -1,0 +1,184 @@
+{
+  "id": "id-papua-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Papua (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Papua (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "9 kabupaten/kota di Provinsi Papua dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "91.03",
+      "name": "Kabupaten Jayapura",
+      "type": "kabupaten",
+      "capital": "Sentani",
+      "latitude": -2.549872,
+      "longitude": 140.477103,
+      "elevation_m": 140,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 14081.935,
+      "population": 203772
+    },
+    {
+      "code": "91.05",
+      "name": "Kabupaten Kepulauan Yapen",
+      "type": "kabupaten",
+      "capital": "Serui",
+      "latitude": -1.874067,
+      "longitude": 136.237078,
+      "elevation_m": 16,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2425.374,
+      "population": 116214
+    },
+    {
+      "code": "91.06",
+      "name": "Kabupaten Biak Numfor",
+      "type": "kabupaten",
+      "capital": "Biak",
+      "latitude": -1.170709,
+      "longitude": 136.090193,
+      "elevation_m": 18,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2258.863,
+      "population": 150318
+    },
+    {
+      "code": "91.10",
+      "name": "Kabupaten Sarmi",
+      "type": "kabupaten",
+      "capital": "Sarmi",
+      "latitude": -1.868573,
+      "longitude": 138.744226,
+      "elevation_m": 9,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": "",
+      "population": 45084
+    },
+    {
+      "code": "91.11",
+      "name": "Kabupaten Keerom",
+      "type": "kabupaten",
+      "capital": "Waris",
+      "latitude": -2.908725,
+      "longitude": 140.773341,
+      "elevation_m": 49,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 9526.315,
+      "population": 74332
+    },
+    {
+      "code": "91.15",
+      "name": "Kabupaten Waropen",
+      "type": "kabupaten",
+      "capital": "Botawa",
+      "latitude": -2.240841,
+      "longitude": 136.37945,
+      "elevation_m": 13,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 10781.037,
+      "population": 38840
+    },
+    {
+      "code": "91.19",
+      "name": "Kabupaten Supiori",
+      "type": "kabupaten",
+      "capital": "Sorendiweri",
+      "latitude": -0.730682,
+      "longitude": 135.732642,
+      "elevation_m": 10,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 660.681,
+      "population": 27965
+    },
+    {
+      "code": "91.20",
+      "name": "Kabupaten Mamberamo Raya",
+      "type": "kabupaten",
+      "capital": "Burmeso",
+      "latitude": -2.370806,
+      "longitude": 138.049868,
+      "elevation_m": 260,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": "",
+      "population": 41036
+    },
+    {
+      "code": "91.71",
+      "name": "Kota Jayapura",
+      "type": "kota",
+      "capital": "Jayapura",
+      "latitude": -2.562626,
+      "longitude": 140.692633,
+      "elevation_m": 95,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 835.439,
+      "population": 404799
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Papua (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "9 kabupaten/kota di Provinsi Papua dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Papua (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Papua (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

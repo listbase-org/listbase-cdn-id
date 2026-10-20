@@ -1,0 +1,172 @@
+{
+  "id": "id-papua-pegunungan-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Papua Pegunungan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Papua Pegunungan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "8 kabupaten/kota di Provinsi Papua Pegunungan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "95.01",
+      "name": "Kabupaten Jayawijaya",
+      "type": "kabupaten",
+      "capital": "Wamena",
+      "latitude": -4.099307,
+      "longitude": 138.943149,
+      "elevation_m": 1663,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2629.01,
+      "population": 276288
+    },
+    {
+      "code": "95.02",
+      "name": "Kabupaten Pegunungan Bintang",
+      "type": "kabupaten",
+      "capital": "Oksibil",
+      "latitude": -4.890903,
+      "longitude": 140.639925,
+      "elevation_m": 1458,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 13751.915,
+      "population": 114581
+    },
+    {
+      "code": "95.03",
+      "name": "Kabupaten Yahukimo",
+      "type": "kabupaten",
+      "capital": "Sumohai",
+      "latitude": -4.88695,
+      "longitude": 139.520518,
+      "elevation_m": 75,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 16365.938,
+      "population": 356021
+    },
+    {
+      "code": "95.04",
+      "name": "Kabupaten Tolikara",
+      "type": "kabupaten",
+      "capital": "Karubaga",
+      "latitude": -3.682251,
+      "longitude": 138.473485,
+      "elevation_m": 1578,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 4285.333,
+      "population": 252031
+    },
+    {
+      "code": "95.05",
+      "name": "Kabupaten Mamberamo Tengah",
+      "type": "kabupaten",
+      "capital": "Kobakma",
+      "latitude": -3.671617,
+      "longitude": 139.060763,
+      "elevation_m": 1044,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 4101.486,
+      "population": 50128
+    },
+    {
+      "code": "95.06",
+      "name": "Kabupaten Yalimo",
+      "type": "kabupaten",
+      "capital": "Elelim",
+      "latitude": -3.778853,
+      "longitude": 139.383157,
+      "elevation_m": 449,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 3148.308,
+      "population": 105374
+    },
+    {
+      "code": "95.07",
+      "name": "Kabupaten Lanny Jaya",
+      "type": "kabupaten",
+      "capital": "Tiom",
+      "latitude": -3.923599,
+      "longitude": 138.449584,
+      "elevation_m": 2139,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 2339.775,
+      "population": 203922
+    },
+    {
+      "code": "95.08",
+      "name": "Kabupaten Nduga",
+      "type": "kabupaten",
+      "capital": "Kenyam",
+      "latitude": -4.406941,
+      "longitude": 138.239355,
+      "elevation_m": 458,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 5886.891,
+      "population": 112173
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Papua Pegunungan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "8 kabupaten/kota di Provinsi Papua Pegunungan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Papua Pegunungan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Papua Pegunungan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

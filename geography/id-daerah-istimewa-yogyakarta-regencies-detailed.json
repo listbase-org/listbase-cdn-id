@@ -1,0 +1,136 @@
+{
+  "id": "id-daerah-istimewa-yogyakarta-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Daerah Istimewa Yogyakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Daerah Istimewa Yogyakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "5 kabupaten/kota di Provinsi Daerah Istimewa Yogyakarta dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34.01",
+      "name": "Kabupaten Kulon Progo",
+      "type": "kabupaten",
+      "capital": "Wates",
+      "latitude": -7.857809,
+      "longitude": 110.159161,
+      "elevation_m": 24,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 576.803,
+      "population": 444994
+    },
+    {
+      "code": "34.02",
+      "name": "Kabupaten Bantul",
+      "type": "kabupaten",
+      "capital": "Bantul",
+      "latitude": -7.88619,
+      "longitude": 110.327838,
+      "elevation_m": 48,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 511.527,
+      "population": 980269
+    },
+    {
+      "code": "34.03",
+      "name": "Kabupaten Gunungkidul",
+      "type": "kabupaten",
+      "capital": "Wonosari",
+      "latitude": -7.96408,
+      "longitude": 110.601538,
+      "elevation_m": 174,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1475.465,
+      "population": 776926
+    },
+    {
+      "code": "34.04",
+      "name": "Kabupaten Sleman",
+      "type": "kabupaten",
+      "capital": "Sleman",
+      "latitude": -7.716547,
+      "longitude": 110.355773,
+      "elevation_m": 207,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 573.749,
+      "population": 1125571
+    },
+    {
+      "code": "34.71",
+      "name": "Kota Yogyakarta",
+      "type": "kota",
+      "capital": "Yogyakarta",
+      "latitude": -7.799905,
+      "longitude": 110.391371,
+      "elevation_m": 110,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 32.819,
+      "population": 415605
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Daerah Istimewa Yogyakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "5 kabupaten/kota di Provinsi Daerah Istimewa Yogyakarta dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Daerah Istimewa Yogyakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Daerah Istimewa Yogyakarta (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

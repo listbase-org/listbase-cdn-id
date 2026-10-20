@@ -1,0 +1,88 @@
+{
+  "id": "id-bengkulu-pelabuhan",
+  "name": "Pelabuhan Umum di Bengkulu (4 pelabuhan)",
+  "title": "Pelabuhan Umum di Bengkulu (4 pelabuhan)",
+  "description": "4 pelabuhan umum di Provinsi Bengkulu, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BKS",
+      "nama_pelabuhan": "Pulau Baai",
+      "lokasi_kabupaten_kota": "BENGKULU",
+      "unit_kerja": "KSOP KELAS III PULAU BAAI",
+      "alamat_kantor": "Jl. Ir. Rustandi Sugianto Pulau Baai Bengkulu 38216",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "IBJ",
+      "nama_pelabuhan": "Bintuhan/Linau",
+      "lokasi_kabupaten_kota": "KAUR",
+      "unit_kerja": "KUPP KELAS II LINAU/BINTUHAN",
+      "alamat_kantor": "Jl. Pelabuhan Linau Bintuhan Kab. Kaur Bengkulu 38565",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "MKI",
+      "nama_pelabuhan": "Malakoni/P. Enggano",
+      "lokasi_kabupaten_kota": "BENGKULU UTARA",
+      "unit_kerja": "KUPP KELAS III MALAKONI-ENGGANO",
+      "alamat_kantor": "BENGKULU SELATAN",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "kode_pelabuhan": "MPC",
+      "nama_pelabuhan": "Muko-Muko",
+      "lokasi_kabupaten_kota": "MUKO-MUKO",
+      "unit_kerja": "KUPP KELAS II LINAU/BINTUHAN",
+      "alamat_kantor": "Jl. Pelabuhan Linau Bintuhan Kab. Kaur Bengkulu 38565",
+      "provinsi": "Bengkulu"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Bengkulu (4 pelabuhan) - Unduh Gratis",
+    "description": "4 pelabuhan umum di Provinsi Bengkulu, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Bengkulu (4 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Bengkulu (4 pelabuhan) — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

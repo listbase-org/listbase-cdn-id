@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "Dataset Tabel Aturan Kelarutan Komprehensif",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility (EN)",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "Nitrat",
+      "formula": "NO₃⁻",
+      "solubility": "Larut",
+      "exceptions": "Tidak ada - semua nitrat larut",
+      "category": "Selalu Larut",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "Asetat",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "Larut",
+      "exceptions": "Perak asetat sedikit larut",
+      "category": "Selalu Larut",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "Klorat",
+      "formula": "ClO₃⁻",
+      "solubility": "Larut",
+      "exceptions": "Tidak ada - semua klorat larut",
+      "category": "Selalu Larut",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "Perklorat",
+      "formula": "ClO₄⁻",
+      "solubility": "Larut",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ sedikit larut",
+      "category": "Selalu Larut",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "Ion Logam Alkali",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "Larut",
+      "exceptions": "Tidak ada - semua garam Golongan 1 larut",
+      "category": "Selalu Larut",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "Amonium",
+      "formula": "NH₄⁺",
+      "solubility": "Larut",
+      "exceptions": "Tidak ada - semua garam amonium larut",
+      "category": "Selalu Larut",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "Halida (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "Sebagian besar larut",
+      "exceptions": "Halida Ag⁺, Pb²⁺, Hg₂²⁺ tidak larut",
+      "category": "Larut dengan Pengecualian",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "Fluorida",
+      "formula": "F⁻",
+      "solubility": "Sebagian besar larut",
+      "exceptions": "Fluorida Golongan 2 (MgF₂, CaF₂, BaF₂) dan PbF₂ tidak larut",
+      "category": "Larut dengan Pengecualian",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "Sulfat",
+      "formula": "SO₄²⁻",
+      "solubility": "Sebagian besar larut",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ tidak larut atau sedikit larut",
+      "category": "Larut dengan Pengecualian",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "Karbonat",
+      "formula": "CO₃²⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Karbonat logam alkali dan amonium larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "Fosfat",
+      "formula": "PO₄³⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Fosfat logam alkali dan amonium larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "Kromat",
+      "formula": "CrO₄²⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Kromat logam alkali dan amonium larut; MgCrO₄, CaCrO₄ larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "Sulfida",
+      "formula": "S²⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Sulfida logam alkali, alkali tanah, dan amonium larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "Hidroksida",
+      "formula": "OH⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Hidroksida logam alkali larut; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ sedikit larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "Oksida",
+      "formula": "O²⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Oksida logam alkali bereaksi dengan air membentuk hidroksida yang larut; CaO, SrO, BaO sedikit larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "Sulfit",
+      "formula": "SO₃²⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Sulfit logam alkali dan amonium larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "Oksalat",
+      "formula": "C₂O₄²⁻",
+      "solubility": "Sebagian besar tidak larut",
+      "exceptions": "Oksalat logam alkali dan amonium larut",
+      "category": "Tidak larut dengan Pengecualian",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "Perak Klorida",
+      "formula": "AgCl",
+      "solubility": "Tidak larut",
+      "exceptions": "Larut dalam larutan NH₃ membentuk [Ag(NH₃)₂]⁺",
+      "category": "Endapan Umum",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Perak Bromida",
+      "formula": "AgBr",
+      "solubility": "Tidak larut",
+      "exceptions": "Kurang larut daripada AgCl",
+      "category": "Endapan Umum",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "Perak Iodida",
+      "formula": "AgI",
+      "solubility": "Tidak larut",
+      "exceptions": "Halida perak yang paling tidak larut",
+      "category": "Endapan Umum",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "Timbal(II) Klorida",
+      "formula": "PbCl₂",
+      "solubility": "Sedikit Larut",
+      "exceptions": "Lebih larut dalam air panas",
+      "category": "Endapan Umum",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Timbal(II) Iodida",
+      "formula": "PbI₂",
+      "solubility": "Tidak Larut",
+      "exceptions": "Lebih larut dalam air panas (demo hujan emas)",
+      "category": "Endapan Umum",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Timbal(II) Sulfat",
+      "formula": "PbSO₄",
+      "solubility": "Tidak Larut",
+      "exceptions": "Larut dalam H₂SO₄ pekat",
+      "category": "Endapan Umum",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "Barium Sulfat",
+      "formula": "BaSO₄",
+      "solubility": "Tidak Larut",
+      "exceptions": "Sangat tidak larut - digunakan dalam pencitraan medis",
+      "category": "Endapan Umum",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Kalsium Karbonat",
+      "formula": "CaCO₃",
+      "solubility": "Tidak Larut",
+      "exceptions": "Larut dalam asam; lebih larut dalam air kaya CO₂",
+      "category": "Endapan Umum",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Kalsium Sulfat",
+      "formula": "CaSO₄",
+      "solubility": "Sedikit Larut",
+      "exceptions": "Gipsum, plester Paris",
+      "category": "Endapan Umum",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Besi(III) Hidroksida",
+      "formula": "Fe(OH)₃",
+      "solubility": "Tidak Larut",
+      "exceptions": "Larut dalam asam",
+      "category": "Endapan Umum",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "Tembaga(II) Hidroksida",
+      "formula": "Cu(OH)₂",
+      "solubility": "Tidak Larut",
+      "exceptions": "Larut dalam NH₃ membentuk [Cu(NH₃)₄]²⁺ (biru tua)",
+      "category": "Endapan Umum",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "Magnesium Hidroksida",
+      "formula": "Mg(OH)₂",
+      "solubility": "Sedikit Larut",
+      "exceptions": "Susu Magnesia - antasida",
+      "category": "Endapan Umum",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "Aluminium Hidroksida",
+      "formula": "Al(OH)₃",
+      "solubility": "Tidak Larut",
+      "exceptions": "Amfoter - larut dalam asam dan basa",
+      "category": "Endapan Umum",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "Seng Hidroksida",
+      "formula": "Zn(OH)₂",
+      "solubility": "Tidak Larut",
+      "exceptions": "Amfoter - larut dalam kelebihan NaOH",
+      "category": "Endapan Umum",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabel Aturan Kelarutan - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh dataset Tabel Aturan Kelarutan komprehensif ini secara gratis (31 catatan). Tersedia dalam format Excel, CSV, dan PDF untuk pelajar & profesional kimia.",
+    "title": "Dataset Tabel Aturan Kelarutan Komprehensif",
+    "description": "Dataset ini menyediakan tabel rinci aturan kelarutan untuk senyawa ionik umum, termasuk rumus, status kelarutan, pengecualian, dan contoh ilustratif. Ini adalah sumber daya penting untuk studi dan penelitian kimia.",
+    "key_takeaways": [
+      "Akses 31 aturan kelarutan utama untuk berbagai ion dan senyawa.",
+      "Jelajahi pengecualian dan catatan terperinci untuk setiap pedoman kelarutan.",
+      "Unduh referensi siap pakai untuk tugas kuliah dan pekerjaan laboratorium kimia.",
+      "Dapatkan contoh praktis senyawa yang larut dan tidak larut."
+    ],
+    "keywords": [
+      "tabel aturan kelarutan excel",
+      "bagan kelarutan kimia csv",
+      "kelarutan senyawa ionik pdf",
+      "dataset referensi kimia",
+      "unduh data kelarutan",
+      "panduan kelarutan"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk analisis terprogram dan integrasi ke dalam aplikasi pendidikan.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan membuat laporan khusus untuk tugas kimia atau analisis data laboratorium.",
+      "Cetak versi **PDF** untuk bagan referensi praktis dan offline di ruang kelas atau selama eksperimen lab.",
+      "Manfaatkan dataset ini untuk memverifikasi kelarutan berbagai senyawa dengan cepat untuk prediksi reaksi kimia dan desain eksperimen."
+    ]
+  },
+  "record_count": 31,
+  "title": "Dataset Tabel Aturan Kelarutan Komprehensif"
+}

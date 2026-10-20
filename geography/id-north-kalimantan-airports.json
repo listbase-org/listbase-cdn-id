@@ -1,0 +1,220 @@
+{
+  "id": "id-north-kalimantan-airports",
+  "name": "Bandar Udara — North Kalimantan",
+  "title": "Bandar Udara — North Kalimantan",
+  "description": "Bandar udara di Provinsi North Kalimantan, Indonesia (Airports in North Kalimantan Province, Indonesia — 7 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "",
+      "iata": "NAF",
+      "name_en": "Banaina",
+      "name_slug": "banaina",
+      "city_en": "Long Beluah",
+      "city_slug": "long-beluah",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 321,
+      "lat": 2.75,
+      "lon": 117.05,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAQQ",
+      "iata": "TRK",
+      "name_en": "Juwata International Airport",
+      "name_slug": "juwata-international-airport",
+      "city_en": "Tarakan",
+      "city_slug": "tarakan",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 23,
+      "lat": 3.327222,
+      "lon": 117.56528,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WALP",
+      "iata": "LPU",
+      "name_en": "Long Apung",
+      "name_slug": "long-apung",
+      "city_en": "Longnawang",
+      "city_slug": "longnawang",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2086,
+      "lat": 1.7056919,
+      "lon": 114.9709374,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WALB",
+      "iata": "LBW",
+      "name_en": "Long Bawan",
+      "name_slug": "long-bawan",
+      "city_en": "Sungaiboh",
+      "city_slug": "sungaiboh",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 3165,
+      "lat": 0.583333,
+      "lon": 115.166664,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAQA",
+      "iata": "NNX",
+      "name_en": "Nunukan Airport",
+      "name_slug": "nunukan-airport",
+      "city_en": "Binalawan",
+      "city_slug": "binalawan",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 55,
+      "lat": 4.1342504,
+      "lon": 117.6694051,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAQM",
+      "iata": "LNU",
+      "name_en": "Robert Atty Bessing Airport",
+      "name_slug": "robert-atty-bessing-airport",
+      "city_en": "Mensalong",
+      "city_slug": "mensalong",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 29,
+      "lat": 3.575278,
+      "lon": 116.619722,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WALG",
+      "iata": "TJS",
+      "name_en": "Tanjung Selor",
+      "name_slug": "tanjung-selor",
+      "city_en": "Tanjung Palas",
+      "city_slug": "tanjung-palas",
+      "province_en": "North Kalimantan",
+      "province_slug": "north-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 10,
+      "lat": 2.8377109,
+      "lon": 117.3740726,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — North Kalimantan - Unduh Gratis",
+    "description": "Bandar udara di Provinsi North Kalimantan, Indonesia (Airports in North Kalimantan Province, Indonesia — 7 record(s).) Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — North Kalimantan | ListBase",
+    "seo_description": "Unduh Bandar Udara — North Kalimantan — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

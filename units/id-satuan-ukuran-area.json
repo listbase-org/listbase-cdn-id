@@ -1,0 +1,178 @@
+{
+  "id": "id-satuan-ukuran-area",
+  "name": "Satuan ukuran — kategori 'area' (13)",
+  "title": "Satuan ukuran — kategori 'area' (13)",
+  "description": "Satuan ukuran kategori 'area' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategori": "area",
+      "nama": "ekar",
+      "singkatan": "ekar",
+      "bentuk_sempit": "ekar",
+      "pola": "{0} ekar"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategori": "area",
+      "nama": "bu [JP]",
+      "singkatan": "bu [JP]",
+      "bentuk_sempit": "bu [JP]",
+      "pola": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategori": "area",
+      "nama": "cho [JP]",
+      "singkatan": "cho [JP]",
+      "bentuk_sempit": "cho [JP]",
+      "pola": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategori": "area",
+      "nama": "dunam",
+      "singkatan": "dunam",
+      "bentuk_sempit": "dunam",
+      "pola": "{0} dunam"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategori": "area",
+      "nama": "hektare",
+      "singkatan": "hektare",
+      "bentuk_sempit": "hektare",
+      "pola": "{0} hektare"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategori": "area",
+      "nama": "se [JP]",
+      "singkatan": "se [JP]",
+      "bentuk_sempit": "se [JP]",
+      "pola": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategori": "area",
+      "nama": "sentimeter persegi",
+      "singkatan": "cm²",
+      "bentuk_sempit": "cm²",
+      "pola": "{0} sentimeter persegi"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategori": "area",
+      "nama": "kaki persegi",
+      "singkatan": "kaki persegi",
+      "bentuk_sempit": "ft²",
+      "pola": "{0} kaki persegi"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategori": "area",
+      "nama": "inci persegi",
+      "singkatan": "inci²",
+      "bentuk_sempit": "in²",
+      "pola": "{0} inci persegi"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategori": "area",
+      "nama": "kilometer persegi",
+      "singkatan": "km²",
+      "bentuk_sempit": "km²",
+      "pola": "{0} kilometer persegi"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategori": "area",
+      "nama": "meter persegi",
+      "singkatan": "meter²",
+      "bentuk_sempit": "meter²",
+      "pola": "{0} meter persegi"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategori": "area",
+      "nama": "mil persegi",
+      "singkatan": "mil persegi",
+      "bentuk_sempit": "mi²",
+      "pola": "{0} mil persegi"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategori": "area",
+      "nama": "yard persegi",
+      "singkatan": "yard²",
+      "bentuk_sempit": "yd²",
+      "pola": "{0} yard persegi"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'area' (13) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'area' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 13 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'area' (13) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'area' (13) — 13 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 13 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

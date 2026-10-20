@@ -1,0 +1,322 @@
+{
+  "id": "id-west-papua-airports",
+  "name": "Bandar Udara — West Papua",
+  "title": "Bandar Udara — West Papua",
+  "description": "Bandar udara di Provinsi West Papua, Indonesia (Airports in West Papua Province, Indonesia — 13 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WASG",
+      "iata": "AGD",
+      "name_en": "Anggi",
+      "name_slug": "anggi",
+      "city_en": "Warmare",
+      "city_slug": "warmare",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 6627,
+      "lat": -1.383333,
+      "lon": 133.86667,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASA",
+      "iata": "AYW",
+      "name_en": "Ayawasi",
+      "name_slug": "ayawasi",
+      "city_en": "Aifat",
+      "city_slug": "aifat",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1840,
+      "lat": -1.2,
+      "lon": 132.5,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASB",
+      "iata": "NTI",
+      "name_en": "Bintuni",
+      "name_slug": "bintuni",
+      "city_en": "Babo",
+      "city_slug": "babo",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -2.333333,
+      "lon": 133.25,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASI",
+      "iata": "INX",
+      "name_en": "Inanwatan",
+      "name_slug": "inanwatan",
+      "city_en": "Inanwatan",
+      "city_slug": "inanwatan",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 82,
+      "lat": -2.166667,
+      "lon": 132.23334,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASK",
+      "iata": "KNG",
+      "name_en": "Kaimana Airport",
+      "name_slug": "kaimana-airport",
+      "city_en": "Kaimana",
+      "city_slug": "kaimana",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 19,
+      "lat": -3.65,
+      "lon": 133.75,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASU",
+      "iata": "KBX",
+      "name_en": "Kambuaya",
+      "name_slug": "kambuaya",
+      "city_en": "Ayamaru",
+      "city_slug": "ayamaru",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1422,
+      "lat": -1,
+      "lon": 132.25,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASN",
+      "iata": "RJM",
+      "name_en": "Marinda Airport",
+      "name_slug": "marinda-airport",
+      "city_en": "Saonek",
+      "city_slug": "saonek",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 65,
+      "lat": -0.4286519,
+      "lon": 130.7730971,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASM",
+      "iata": "RDE",
+      "name_en": "Merdey",
+      "name_slug": "merdey",
+      "city_en": "Merdey",
+      "city_slug": "merdey",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 344,
+      "lat": -1.5913163,
+      "lon": 133.2972909,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASC",
+      "iata": "RSK",
+      "name_en": "Ransiki",
+      "name_slug": "ransiki",
+      "city_en": "Ransiki",
+      "city_slug": "ransiki",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 114,
+      "lat": -1.4952691,
+      "lon": 134.1726687,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAUU",
+      "iata": "MKW",
+      "name_en": "Rendani Airport",
+      "name_slug": "rendani-airport",
+      "city_en": "Manokwari",
+      "city_slug": "manokwari",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 42,
+      "lat": -0.8915625,
+      "lon": 134.0491056,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WASS",
+      "iata": "SOQ",
+      "name_en": "Sorong Airport",
+      "name_slug": "sorong-airport",
+      "city_en": "Sorong",
+      "city_slug": "sorong",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 42,
+      "lat": -0.8931468,
+      "lon": 131.2870152,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "ZKL",
+      "name_en": "Steenkool",
+      "name_slug": "steenkool",
+      "city_en": "Bintuni",
+      "city_slug": "bintuni",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1133,
+      "lat": -2.102778,
+      "lon": 133.51666,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAST",
+      "iata": "TXM",
+      "name_en": "Teminabuan",
+      "name_slug": "teminabuan",
+      "city_en": "Teminabuan",
+      "city_slug": "teminabuan",
+      "province_en": "West Papua",
+      "province_slug": "west-papua",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 141,
+      "lat": -1.4453588,
+      "lon": 132.0208114,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — West Papua - Unduh Gratis",
+    "description": "Bandar udara di Provinsi West Papua, Indonesia (Airports in West Papua Province, Indonesia — 13 record(s).) Berisi 13 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — West Papua | ListBase",
+    "seo_description": "Unduh Bandar Udara — West Papua — 13 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 13 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

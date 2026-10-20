@@ -1,0 +1,568 @@
+{
+  "id": "id-jambi-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Jambi — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Jambi — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Jambi menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH KOLONEL ABUNDJANI/BANGKO",
+      "kode_rs": "1502014",
+      "tempat_tidur": 203,
+      "telepon": "(0746) 21459",
+      "alamat": "JL. KESEHATAN NO.20, PEMATANG KANDIS, BANGKO, KABUPATEN MERANGIN, JAMBI 37312",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MERANGIN, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -2.061537,
+      "longitude": 102.275636
+    },
+    {
+      "nama": "RS UMUM DAERAH PROF. DR. H.  CHATIB QUZWAIN",
+      "kode_rs": "1503036",
+      "tempat_tidur": 139,
+      "telepon": "(0745) 7392359",
+      "alamat": "JL. TRANS SUMATERA NO.KM.09, BUKIT, PELAWAN, KABUPATEN SAROLANGUN, JAMBI 37482",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SAROLANGUN, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -2.374012,
+      "longitude": 102.714538
+    },
+    {
+      "nama": "RS SILOAM JAMBI",
+      "kode_rs": "1571147",
+      "tempat_tidur": 102,
+      "telepon": "(0741) 5919000",
+      "alamat": "JL. SOEKARNO-HATTA, PAAL MERAH, KEC. JAMBI SEL., KOTA JAMBI, JAMBI 36139",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.628511,
+      "longitude": 103.635691
+    },
+    {
+      "nama": "RS UMUM DAERAH H. HANAFIE",
+      "kode_rs": "1509013",
+      "tempat_tidur": 209,
+      "telepon": "",
+      "alamat": "JL. TEUKU UMAR 88  MUARA BUNGO",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.5094,
+      "longitude": 101.961
+    },
+    {
+      "nama": "RS UMUM DAERAH MAYJEN H. A. THALIB",
+      "kode_rs": "1501012",
+      "tempat_tidur": 177,
+      "telepon": "",
+      "alamat": "KOTO TINGGI, SUNGAI PENUH, KOTA SUNGAI PENUH, JAMBI 37152",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KERINCI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -2.058507,
+      "longitude": 101.391242
+    },
+    {
+      "nama": "RS UMUM DAERAH NURDIN HAMZAH",
+      "kode_rs": "1506011",
+      "tempat_tidur": 58,
+      "telepon": "",
+      "alamat": "BAR.,, PARIT CULUM I, KEC. SABAK BAR., KABUPATEN TANJUNG JABUNG TIMUR, JAMBI 36764",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "TANJUNG JABUNG TIMUR, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.238346,
+      "longitude": 103.824406
+    },
+    {
+      "nama": "RS UMUM DAERAH HAJI ABDOEL MADJID BATOE",
+      "kode_rs": "1504015",
+      "tempat_tidur": 148,
+      "telepon": "(0743) 21043",
+      "alamat": "RENGAS CONDONG, MUARA BULIAN, KABUPATEN BATANG HARI, JAMBI 36612",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BATANGHARI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.703095,
+      "longitude": 103.26615
+    },
+    {
+      "nama": "RS UMUM DAERAH SULTAN THAHA SAIFUDDIN",
+      "kode_rs": "1508013",
+      "tempat_tidur": 158,
+      "telepon": "(0744) 21727",
+      "alamat": "JALAN MUARA BUNGO - JAMBI DESA BOGOREJO KELURAHAN TEBING TINGGI, BEDARO RAMPAK, TEBO TENGAH, KABUPATEN TEBO, JAMBI 37573",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "TEBO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.469011,
+      "longitude": 102.428087
+    },
+    {
+      "nama": "RS UMUM DAERAH AHMAD RIPIN",
+      "kode_rs": "1505016",
+      "tempat_tidur": 108,
+      "telepon": "",
+      "alamat": "BUKIT BALING, SEKERNAN, KABUPATEN MUARO JAMBI, JAMBI 36381",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.453649,
+      "longitude": 103.518231
+    },
+    {
+      "nama": "RS UMUM DAERAH KH. DAUD ARIF",
+      "kode_rs": "1507010",
+      "tempat_tidur": 106,
+      "telepon": "(0742) 21621",
+      "alamat": "TUNGKAL II, TUNGKAL ILIR, KABUPATEN TANJUNG JABUNG BARAT, JAMBI 36514",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "TANJUNG JABUNG BARAT, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -0.824123,
+      "longitude": 103.469113
+    },
+    {
+      "nama": "RS BHAYANGKARA JAMBI",
+      "kode_rs": "1571034",
+      "tempat_tidur": 93,
+      "telepon": "(0741) 34409",
+      "alamat": "JL. RADEN MATTAHER NO.3, RAJAWALI, KEC. PS. JAMBI, KOTA JAMBI, JAMBI 36361",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.589148,
+      "longitude": 103.617994
+    },
+    {
+      "nama": "RS UMUM DAERAH H. ABDUL MANAP",
+      "kode_rs": "1571158",
+      "tempat_tidur": 194,
+      "telepon": "(0741) 670459",
+      "alamat": "JL. SK.RD.SYAHBUDDIN,KEC.ALAM BARAJO, LKR. SEL., KEC. JAMBI SEL., KOTA JAMBI, JAMBI 36125",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.640913,
+      "longitude": 103.579803
+    },
+    {
+      "nama": "RS UMUM DAERAH RADEN MATTAHER JAMBI",
+      "kode_rs": "1571012",
+      "tempat_tidur": 338,
+      "telepon": "(0741) 61692",
+      "alamat": "JL. LETJEN SUPRAPTO NO.31, TELANAIPURA, KEC. TELANAIPURA, KOTA JAMBI, JAMBI 36361",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.602827,
+      "longitude": 103.580223
+    },
+    {
+      "nama": "RS UMUM PERMATA HATI",
+      "kode_rs": "1509028",
+      "tempat_tidur": 67,
+      "telepon": "(0747) 7331122",
+      "alamat": "JL.LEBAI HASAN, RT 06/02, SUNGAI PINANG, MUARA BUNGO",
+      "tipe": "RS",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.488646,
+      "longitude": 102.103011
+    },
+    {
+      "nama": "RS MITRA",
+      "kode_rs": "1571168",
+      "tempat_tidur": 49,
+      "telepon": "07413041377",
+      "alamat": "JL. JENDERAL BASUKI RAHMAT NO 77",
+      "tipe": "RS",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.6318,
+      "longitude": 103.605846
+    },
+    {
+      "nama": "RS UMUM KAMBANG",
+      "kode_rs": "1571162",
+      "tempat_tidur": 59,
+      "telepon": "(0741) 61714",
+      "alamat": "JALAN KOLONEL AMIR HAMZAH NO. 53, SEI KAMBANG, TELANAIPURA, SELAMAT",
+      "tipe": "RS",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.616783,
+      "longitude": 103.589622
+    },
+    {
+      "nama": "RS ROYAL PRIMA",
+      "kode_rs": "1504017",
+      "tempat_tidur": 137,
+      "telepon": "(0741) 41010",
+      "alamat": "JL. RADEN WIJAYA RT 35 KEBON KOPI KEC JAMBI SELATAN",
+      "tipe": "RS",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.640274,
+      "longitude": 103.623926
+    },
+    {
+      "nama": "RS ANDIMAS",
+      "kode_rs": "1502018",
+      "tempat_tidur": 20,
+      "telepon": "081366889296",
+      "alamat": "JALAN SAPTA MARGA RT 021 RW 003 KELURAHAN PEMATANG KANDIS KECAMATAN BANGKO KAB. MERANGIN",
+      "tipe": "",
+      "wilayah": "MERANGIN, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -2.051012,
+      "longitude": 102.273598
+    },
+    {
+      "nama": "RS BERSAUDARA MANDIRI",
+      "kode_rs": "1509024",
+      "tempat_tidur": 13,
+      "telepon": "(0747) 323535",
+      "alamat": "JL. LINTAS SUMATERA KM.04, MUARA BUNGO, LEBAN, RANTAU PANDAN, LEBAN, RANTAU PANDAN, KABUPATEN BUNGO, JAMBI 37261",
+      "tipe": "",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.63985,
+      "longitude": 101.89024
+    },
+    {
+      "nama": "RS RAUDHAH BANGKO",
+      "kode_rs": "1502015",
+      "tempat_tidur": 58,
+      "telepon": "(0746) 322834",
+      "alamat": "JL. LINTAS TENGAH SUMATERA NO.KM. 01, PEMATANG KANDIS, BANGKO, KABUPATEN MERANGIN, JAMBI 37313",
+      "tipe": "",
+      "wilayah": "MERANGIN, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -2.071682,
+      "longitude": 102.274308
+    },
+    {
+      "nama": "RS UMUM DAERAH SUNGAI GELAM",
+      "kode_rs": "1505028",
+      "tempat_tidur": 46,
+      "telepon": "081366040764",
+      "alamat": "JL. KETALING KM. 21 SUNGAI GELAM",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.749738,
+      "longitude": 103.844948
+    },
+    {
+      "nama": "RS ISLAM ARAFAH",
+      "kode_rs": "1571159",
+      "tempat_tidur": 87,
+      "telepon": "(0741) 667966",
+      "alamat": "JL. MPU GANDRING NO.1 SOLOK SIPIN",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.602889,
+      "longitude": 103.601936
+    },
+    {
+      "nama": "RS TK. IV DR. BRATANATA",
+      "kode_rs": "1571023",
+      "tempat_tidur": 194,
+      "telepon": "(0741) 34212",
+      "alamat": "JL. RADEN MATTAHER NO.33, SULANJANA, KEC. JAMBI TIM., KOTA JAMBI, JAMBI 36123",
+      "tipe": "",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.593123,
+      "longitude": 103.618404
+    },
+    {
+      "nama": "RS UMUM ERNI MEDIKA",
+      "kode_rs": "1571165",
+      "tempat_tidur": 29,
+      "telepon": "0823-8075-8262",
+      "alamat": "JL. BERLIN RT 12 NO.21 KEL. TALANG BAKUNG",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.638035,
+      "longitude": 103.652866
+    },
+    {
+      "nama": "RS LANGIT GOLDEN MEDIKA",
+      "kode_rs": "1503039",
+      "tempat_tidur": 44,
+      "telepon": "0823-7343-6004",
+      "alamat": "AUR, SAROLANGUN SUB-DISTRICT, SAROLANGUN REGENCY, JAMBI 37481",
+      "tipe": "",
+      "wilayah": "SAROLANGUN, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -2.30249888,
+      "longitude": 102.70618525
+    },
+    {
+      "nama": "RS UMUM DAERAH SURYAH KHAIRUDDIN",
+      "kode_rs": "1507013",
+      "tempat_tidur": 24,
+      "telepon": "",
+      "alamat": "JL. LINTAS TIMUR  KEC. MERLUNG, KAB. TANJUNG JABUNG BARAT",
+      "tipe": "",
+      "wilayah": "TANJUNG JABUNG BARAT, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.27088,
+      "longitude": 103.058076
+    },
+    {
+      "nama": "RS UMUM BAITURAHIM JAMBI",
+      "kode_rs": "1571163",
+      "tempat_tidur": 99,
+      "telepon": "(0741) 35165",
+      "alamat": "JALAN PROFESOR, JL. PROF. DR. MOH. YAMIN NO.30, LB. BANDUNG, KEC. JELUTUNG, KOTA JAMBI, JAMBI 36124",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.605953,
+      "longitude": 103.605346
+    },
+    {
+      "nama": "RS MITRA MEDIKA BATANG HARI",
+      "kode_rs": "1504018",
+      "tempat_tidur": 61,
+      "telepon": "(0743) 21777",
+      "alamat": "JL. GAJAH MADA KEL. TERATAI KEC. MUARA BULIAN",
+      "tipe": "",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.693367,
+      "longitude": 103.269504
+    },
+    {
+      "nama": "RS UMUM SETIA BUDI",
+      "kode_rs": "1508002",
+      "tempat_tidur": 25,
+      "telepon": "(0747)31215",
+      "alamat": "JL. PAHLAWAN RT. 001 RW. 005 KELURAHAN WIROTHO AGUNG KECAMATAN RIMBO BUJANG",
+      "tipe": "",
+      "wilayah": "TEBO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.309151,
+      "longitude": 102.10726
+    },
+    {
+      "nama": "RS UMUM RIMBO MEDIKA",
+      "kode_rs": "1571164",
+      "tempat_tidur": 17,
+      "telepon": "(0741) 582030",
+      "alamat": "JL. KAPTEN PATTIMURA NO. 58, RT.02, KENALI BESAR, KEC. KOTA BARU, KOTA JAMBI, JAMBI 36129",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.619325,
+      "longitude": 103.555807
+    },
+    {
+      "nama": "RS MERANGIN MEDICAL CENTRE",
+      "kode_rs": "1502019",
+      "tempat_tidur": 20,
+      "telepon": "0823-5452-8191",
+      "alamat": "JLN. LINTAS SUMATERA KM 03, LINGK. MENSAWANG NO.KEL, DUSUN BANGKO, BANGKO, KABUPATEN MERANGIN, JAMBI 37313",
+      "tipe": "",
+      "wilayah": "MERANGIN, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -6.289316,
+      "longitude": 107.082965
+    },
+    {
+      "nama": "RS JIWA DAERAH PROVINSI JAMBI",
+      "kode_rs": "1571136",
+      "tempat_tidur": 290,
+      "telepon": "(0741) 580254",
+      "alamat": "JL. DR. PURWADI NO.KM. 9,5, KENALI BESAR, ALAM BARAJO, KOTA JAMBI, JAMBI 36129",
+      "tipe": "",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.614376,
+      "longitude": 103.551787
+    },
+    {
+      "nama": "RS JABAL RAHMAH MEDIKA",
+      "kode_rs": "1509031",
+      "tempat_tidur": 49,
+      "telepon": "0821-8032-0001",
+      "alamat": "JL. RM THAHER RT. 015 RW. 005 KEL. CADIKA KEC. RIMBO TENGAH, JAMBI 37211",
+      "tipe": "",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.514156,
+      "longitude": 102.108668
+    },
+    {
+      "nama": "RS UMUM DAERAH H. ABDURRAHMAN SAYOETI",
+      "kode_rs": "1571169",
+      "tempat_tidur": 14,
+      "telepon": "",
+      "alamat": "JL. KH. HASAN ANANG NO. 33 KEL. OLAK KEMANG KEC. DANAU TELUK KOTA JAMBI, JAMBI, JAMBI 36262",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.580914,
+      "longitude": 103.601949
+    },
+    {
+      "nama": "RS SENTRAL MEDIKA",
+      "kode_rs": "1509016",
+      "tempat_tidur": 40,
+      "telepon": "(0747) 22207",
+      "alamat": "IAJL. RANGKAYO HITAM RT. 20 RW.07 KELURAHAN JAYA SETIA",
+      "tipe": "",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.500099,
+      "longitude": 102.13075
+    },
+    {
+      "nama": "RS IBU DAN ANAK HAJI ABDUL MALIK",
+      "kode_rs": "1509027",
+      "tempat_tidur": 26,
+      "telepon": "7477331231",
+      "alamat": "JLN. H. SYAMSIR NO.5 B, SUNGAI PINANG, BUNGO DANI, MUARA, BUNGO, JAMBI 37213",
+      "tipe": "",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.481352,
+      "longitude": 102.107539
+    },
+    {
+      "nama": "RS IBU DAN ANAK MOELIA",
+      "kode_rs": "1509029",
+      "tempat_tidur": 18,
+      "telepon": "(0747) 7331854",
+      "alamat": "JL. PANGERAN DIPONEGORO, PASIR PUTIH, RIMBO TENGAH, KABUPATEN BUNGO, JAMBI 37211",
+      "tipe": "",
+      "wilayah": "BUNGO, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.501286,
+      "longitude": 102.117972
+    },
+    {
+      "nama": "RS IBU DAN ANAK ANNISA",
+      "kode_rs": "1571161",
+      "tempat_tidur": 55,
+      "telepon": "(021) 8974855",
+      "alamat": "JL. KABIA NO.4 RT. 01 KEBUN HANDIL",
+      "tipe": "",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -6.327225,
+      "longitude": 107.124713
+    },
+    {
+      "nama": "RS UMUM SANTA THERESIA",
+      "kode_rs": "1571045",
+      "tempat_tidur": 86,
+      "telepon": "(0741) 23119",
+      "alamat": "JL. DOKTER SUTOMO NO.19, PS. JAMBI, KEC. PS. JAMBI, KOTA JAMBI, JAMBI 36123",
+      "tipe": "",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.592021,
+      "longitude": 103.617241
+    },
+    {
+      "nama": "RS UMUM MAYANG MEDICAL CENTRE",
+      "kode_rs": "1571067",
+      "tempat_tidur": 99,
+      "telepon": "NA",
+      "alamat": "JL. IR.H. JUANDA NO.56 SIMP III SIPIN, JAMBI",
+      "tipe": "NA",
+      "wilayah": "KOTA JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.62309292,
+      "longitude": 103.58821096
+    },
+    {
+      "nama": "RS UMUM DAERAH SUNGAI BAHAR",
+      "kode_rs": "1505027",
+      "tempat_tidur": 61,
+      "telepon": "NA",
+      "alamat": "JL. SOEKARNO HATTA DESA SUKA MAKMUR KECAMATAN SUNGAI BAHAR KABUPATEN MUARO JAMBI",
+      "tipe": "NA",
+      "wilayah": "MUARO JAMBI, JAMBI",
+      "provinsi": "JAMBI",
+      "latitude": -1.9502,
+      "longitude": 103.47
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Jambi — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Jambi menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 41 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Jambi — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Jambi — data Pusdatin Kemenkes — 41 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 41 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

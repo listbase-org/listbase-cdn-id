@@ -1,0 +1,152 @@
+{
+  "id": "id-north-sulawesi-airports",
+  "name": "Bandar Udara — North Sulawesi",
+  "title": "Bandar Udara — North Sulawesi",
+  "description": "Bandar udara di Provinsi North Sulawesi, Indonesia (Airports in North Sulawesi Province, Indonesia — 3 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAMN",
+      "iata": "MNA",
+      "name_en": "Melangguane",
+      "name_slug": "melangguane",
+      "city_en": "Lirung",
+      "city_slug": "lirung",
+      "province_en": "North Sulawesi",
+      "province_slug": "north-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 219,
+      "lat": 4.05,
+      "lon": 126.7,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMH",
+      "iata": "NAH",
+      "name_en": "Naha",
+      "name_slug": "naha",
+      "city_en": "Enemawira",
+      "city_slug": "enemawira",
+      "province_en": "North Sulawesi",
+      "province_slug": "north-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 3.716667,
+      "lon": 125.36667,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMM",
+      "iata": "MDC",
+      "name_en": "Sam Ratulangi International Airport",
+      "name_slug": "sam-ratulangi-international-airport",
+      "city_en": "Tatelu",
+      "city_slug": "tatelu",
+      "province_en": "North Sulawesi",
+      "province_slug": "north-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 282,
+      "lat": 1.5504689,
+      "lon": 124.9251646,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — North Sulawesi - Unduh Gratis",
+    "description": "Bandar udara di Provinsi North Sulawesi, Indonesia (Airports in North Sulawesi Province, Indonesia — 3 record(s).) Berisi 3 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — North Sulawesi | ListBase",
+    "seo_description": "Unduh Bandar Udara — North Sulawesi — 3 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 3 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

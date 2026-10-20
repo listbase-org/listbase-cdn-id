@@ -1,0 +1,3064 @@
+{
+  "id": "id-aceh-postal-codes",
+  "name": "Daftar Kode Pos di Aceh",
+  "title": "Daftar Kode Pos di Aceh",
+  "description": "Daftar 376 kode pos di Provinsi Aceh (kode BPS 11). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 376,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "23111",
+      "kecamatan_name": "Syiah Kuala",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23112",
+      "kecamatan_name": "Syiah Kuala",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23113",
+      "kecamatan_name": "Syiah Kuala",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23114",
+      "kecamatan_name": "Syiah Kuala",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23115",
+      "kecamatan_name": "Syiah Kuala",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23116",
+      "kecamatan_name": "Syiah Kuala",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23117",
+      "kecamatan_name": "Ulee Kareng",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23118",
+      "kecamatan_name": "Ulee Kareng",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23119",
+      "kecamatan_name": "Ulee Kareng",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23121",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23122",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23123",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23124",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23125",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23126",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23127",
+      "kecamatan_name": "Kuta Alam",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23128",
+      "kecamatan_name": "Kuta Raja",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23129",
+      "kecamatan_name": "Kuta Raja",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23231",
+      "kecamatan_name": "Meuraxa",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23232",
+      "kecamatan_name": "Meuraxa",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23233",
+      "kecamatan_name": "Meuraxa",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23234",
+      "kecamatan_name": "Meuraxa",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23235",
+      "kecamatan_name": "Jaya Baru",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23236",
+      "kecamatan_name": "Jaya Baru",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23237",
+      "kecamatan_name": "Jaya Baru",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23238",
+      "kecamatan_name": "Banda Raya",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23239",
+      "kecamatan_name": "Banda Raya",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23241",
+      "kecamatan_name": "Baiturrahman",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23242",
+      "kecamatan_name": "Baiturrahman",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23243",
+      "kecamatan_name": "Baiturrahman",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23244",
+      "kecamatan_name": "Baiturrahman",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23246",
+      "kecamatan_name": "Lueng Bata",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23247",
+      "kecamatan_name": "Lueng Bata",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23248",
+      "kecamatan_name": "Lueng Bata",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23249",
+      "kecamatan_name": "Lueng Bata",
+      "regency_code": "11.71",
+      "regency_name": "Kota Banda Aceh",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23351",
+      "kecamatan_name": "Peukan Bada",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23352",
+      "kecamatan_name": "Darul Imarah",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23353",
+      "kecamatan_name": "Lhoknga",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23354",
+      "kecamatan_name": "Lhoong",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23355",
+      "kecamatan_name": "Leupung",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23361",
+      "kecamatan_name": "Sukamakmur",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23362",
+      "kecamatan_name": "Montasik",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23363",
+      "kecamatan_name": "Indrapuri",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23364",
+      "kecamatan_name": "Kuta Malaka",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23365",
+      "kecamatan_name": "Simpang Tiga",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23366",
+      "kecamatan_name": "Darul Kamal",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23367",
+      "kecamatan_name": "Krueng Barona Jaya",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23368",
+      "kecamatan_name": "Blang Bintang",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23371",
+      "kecamatan_name": "Ingin Jaya",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23372",
+      "kecamatan_name": "Kuta Baro",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23373",
+      "kecamatan_name": "Darussalam",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23374",
+      "kecamatan_name": "Baitussalam",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23381",
+      "kecamatan_name": "Mesjid Raya",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23385",
+      "kecamatan_name": "Indrapuri",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23391",
+      "kecamatan_name": "Pulo Aceh",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23512",
+      "kecamatan_name": "Sukakarya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23514",
+      "kecamatan_name": "Sukakarya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23515",
+      "kecamatan_name": "Sukakarya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23516",
+      "kecamatan_name": "Sukakarya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23518",
+      "kecamatan_name": "Sukakarya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23521",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23522",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23523",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23524",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23525",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23526",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23527",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23528",
+      "kecamatan_name": "Sukajaya",
+      "regency_code": "11.72",
+      "regency_name": "Kota Sabang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23641",
+      "kecamatan_name": "Pasie Raya",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23643",
+      "kecamatan_name": "Darul Hikmah",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23644",
+      "kecamatan_name": "Indra Jaya",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23652",
+      "kecamatan_name": "Samatiga",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23653",
+      "kecamatan_name": "Teunom",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23654",
+      "kecamatan_name": "Krueng Sabee",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23655",
+      "kecamatan_name": "Setia Bhakti",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23656",
+      "kecamatan_name": "Sampoiniet",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23657",
+      "kecamatan_name": "Jaya",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23659",
+      "kecamatan_name": "Arongan Lambalek",
+      "regency_code": "11.16",
+      "regency_name": "Kabupaten Aceh Tamiang",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23661",
+      "kecamatan_name": "Kuala",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23662",
+      "kecamatan_name": "Darul Makmur",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23663",
+      "kecamatan_name": "Tripa Makmur",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23664",
+      "kecamatan_name": "Tadu Raya",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23665",
+      "kecamatan_name": "Kuala Pesisir",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23671",
+      "kecamatan_name": "Seunagan",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23672",
+      "kecamatan_name": "Beutong",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23673",
+      "kecamatan_name": "Seunagan Timur",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23674",
+      "kecamatan_name": "Suka Makmue",
+      "regency_code": "11.15",
+      "regency_name": "Kabupaten Nagan Raya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23681",
+      "kecamatan_name": "Kaway XVI",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23682",
+      "kecamatan_name": "Woyla",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23683",
+      "kecamatan_name": "Sungai Mas",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23684",
+      "kecamatan_name": "Woyla Timur",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23685",
+      "kecamatan_name": "Woyla Barat",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23686",
+      "kecamatan_name": "Bubon",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23687",
+      "kecamatan_name": "Meureubo",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23688",
+      "kecamatan_name": "Pante Ceureumen",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23689",
+      "kecamatan_name": "Panton Reu",
+      "regency_code": "11.07",
+      "regency_name": "Kabupaten Pidie",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23711",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23712",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23713",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23714",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23715",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23716",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23717",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23718",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23719",
+      "kecamatan_name": "Tapaktuan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23741",
+      "kecamatan_name": "Lembah Sabil",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23742",
+      "kecamatan_name": "Setia",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23743",
+      "kecamatan_name": "Jeumpa",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23752",
+      "kecamatan_name": "Samadua",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23753",
+      "kecamatan_name": "Sawang",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23754",
+      "kecamatan_name": "Meukek",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23755",
+      "kecamatan_name": "Pasi Raja",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23756",
+      "kecamatan_name": "Kluet Tengah",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23757",
+      "kecamatan_name": "Labuhan Haji Barat",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23758",
+      "kecamatan_name": "Labuhan Haji Timur",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23761",
+      "kecamatan_name": "Labuhan Haji",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23762",
+      "kecamatan_name": "Manggeng",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23763",
+      "kecamatan_name": "Tangan-Tangan",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23764",
+      "kecamatan_name": "Blang Pidie",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23765",
+      "kecamatan_name": "Susoh",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23766",
+      "kecamatan_name": "Kuala Batee",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23767",
+      "kecamatan_name": "Babah Rot",
+      "regency_code": "11.12",
+      "regency_name": "Kabupaten Aceh Barat Daya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23771",
+      "kecamatan_name": "Kluet Utara",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23772",
+      "kecamatan_name": "Kluet Selatan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23773",
+      "kecamatan_name": "Bakongan",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23774",
+      "kecamatan_name": "Trumon",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23775",
+      "kecamatan_name": "Trumon Tengah",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23776",
+      "kecamatan_name": "Trumon Timur",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23777",
+      "kecamatan_name": "Bakongan Timur",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23778",
+      "kecamatan_name": "Kota Bahagia",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23779",
+      "kecamatan_name": "Kluet Timur",
+      "regency_code": "11.03",
+      "regency_name": "Kabupaten Aceh Timur",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23891",
+      "kecamatan_name": "Simeulue Timur",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23892",
+      "kecamatan_name": "Simeulue Barat",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23893",
+      "kecamatan_name": "Salang",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23894",
+      "kecamatan_name": "Simeulue Tengah",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23895",
+      "kecamatan_name": "Teupah Selatan",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23896",
+      "kecamatan_name": "Teupah Barat",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23897",
+      "kecamatan_name": "Teluk Dalam",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23898",
+      "kecamatan_name": "Alapan",
+      "regency_code": "11.01",
+      "regency_name": "Kabupaten Aceh Selatan",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23911",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23913",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23914",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23915",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23916",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23917",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23919",
+      "kecamatan_name": "Kota Jantho",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23951",
+      "kecamatan_name": "Seulimeum",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23952",
+      "kecamatan_name": "Lembah Seulawah",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "23955",
+      "kecamatan_name": "Kota Cot Glie",
+      "regency_code": "11.08",
+      "regency_name": "Kabupaten Aceh Utara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24111",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24112",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24113",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24114",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24115",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24116",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24117",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24118",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24119",
+      "kecamatan_name": "Kota Sigli",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24151",
+      "kecamatan_name": "Pidie",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24152",
+      "kecamatan_name": "Batee",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24153",
+      "kecamatan_name": "Muara Tiga",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24154",
+      "kecamatan_name": "Grong-grong",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24161",
+      "kecamatan_name": "Padang Tiji",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24162",
+      "kecamatan_name": "Delima",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24163",
+      "kecamatan_name": "Mila",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24164",
+      "kecamatan_name": "Sakti",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24165",
+      "kecamatan_name": "Keumala",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24166",
+      "kecamatan_name": "Tangse",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24167",
+      "kecamatan_name": "Geumpang",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24168",
+      "kecamatan_name": "Mane",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24169",
+      "kecamatan_name": "Titeue",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24171",
+      "kecamatan_name": "Indra Jaya",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24172",
+      "kecamatan_name": "Peukan Baro",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24173",
+      "kecamatan_name": "Mutiara",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24174",
+      "kecamatan_name": "Tiro/Truseb",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24175",
+      "kecamatan_name": "Glumpang Baro",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24176",
+      "kecamatan_name": "Mutiara Timur",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24181",
+      "kecamatan_name": "Simpang Tiga",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24182",
+      "kecamatan_name": "Kembang Tanjong",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24183",
+      "kecamatan_name": "Geulumpang Tiga",
+      "regency_code": "11.09",
+      "regency_name": "Kabupaten Simeulue",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24184",
+      "kecamatan_name": "Bandar Baru",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24185",
+      "kecamatan_name": "Trienggadeng",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24186",
+      "kecamatan_name": "Meureudu",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24187",
+      "kecamatan_name": "Ulim",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24188",
+      "kecamatan_name": "Bandar Dua",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24191",
+      "kecamatan_name": "Panteraja",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24192",
+      "kecamatan_name": "Meurah Dua",
+      "regency_code": "11.18",
+      "regency_name": "Kabupaten Pidie Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24211",
+      "kecamatan_name": "Kota Juang",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24219",
+      "kecamatan_name": "Kota Juang",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24252",
+      "kecamatan_name": "Juli",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24253",
+      "kecamatan_name": "Peusangan Selatan",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24254",
+      "kecamatan_name": "Peusangan Siblah Krueng",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24255",
+      "kecamatan_name": "Makmur",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24256",
+      "kecamatan_name": "Gandapura",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24257",
+      "kecamatan_name": "Kuta Blang",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24258",
+      "kecamatan_name": "Jangka",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24259",
+      "kecamatan_name": "Kuala",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24261",
+      "kecamatan_name": "Peusangan",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24262",
+      "kecamatan_name": "Peudada",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24263",
+      "kecamatan_name": "Jeunieb",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24264",
+      "kecamatan_name": "Samalanga",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24265",
+      "kecamatan_name": "Simpang Mamplam",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24266",
+      "kecamatan_name": "Pandrah",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24267",
+      "kecamatan_name": "Peulimbang",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24269",
+      "kecamatan_name": "Jeumpa",
+      "regency_code": "11.10",
+      "regency_name": "Kabupaten Aceh Singkil",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24311",
+      "kecamatan_name": "Banda Sakti",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24312",
+      "kecamatan_name": "Banda Sakti",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24313",
+      "kecamatan_name": "Banda Sakti",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24314",
+      "kecamatan_name": "Banda Sakti",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24315",
+      "kecamatan_name": "Banda Sakti",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24319",
+      "kecamatan_name": "Banda Sakti",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24352",
+      "kecamatan_name": "Muara Dua",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24353",
+      "kecamatan_name": "Muara Satu",
+      "regency_code": "11.74",
+      "regency_name": "Kota Langsa",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24354",
+      "kecamatan_name": "Dewantara",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24355",
+      "kecamatan_name": "Muara Batu",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24361",
+      "kecamatan_name": "Nisam Antara",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24362",
+      "kecamatan_name": "Banda Baro",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24371",
+      "kecamatan_name": "Kuta Makmur",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24372",
+      "kecamatan_name": "Meurah Mulia",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24373",
+      "kecamatan_name": "Syamtalira Bayu",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24374",
+      "kecamatan_name": "Samudera",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24375",
+      "kecamatan_name": "Blang Mangat",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24376",
+      "kecamatan_name": "Nisam",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24377",
+      "kecamatan_name": "Sawang",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24378",
+      "kecamatan_name": "Simpang Kramat",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24379",
+      "kecamatan_name": "Geuredong Pase",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24381",
+      "kecamatan_name": "Syamtalira Aron",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24382",
+      "kecamatan_name": "Lhoksukon",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24383",
+      "kecamatan_name": "Cot Girek",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24385",
+      "kecamatan_name": "Tanah Luas",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24386",
+      "kecamatan_name": "Matangkuli",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24387",
+      "kecamatan_name": "Paya Bakong",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24388",
+      "kecamatan_name": "Nibong",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24389",
+      "kecamatan_name": "Pirak Timur",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24391",
+      "kecamatan_name": "Tanah Pasir",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24392",
+      "kecamatan_name": "Baktiya",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24393",
+      "kecamatan_name": "Seunuddon",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24395",
+      "kecamatan_name": "Langkahan",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24396",
+      "kecamatan_name": "Baktiya Barat",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24397",
+      "kecamatan_name": "Lapang",
+      "regency_code": "11.11",
+      "regency_name": "Kabupaten Bireuen",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24411",
+      "kecamatan_name": "Langsa Kota",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24412",
+      "kecamatan_name": "Langsa Kota",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24414",
+      "kecamatan_name": "Langsa Kota",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24416",
+      "kecamatan_name": "Langsa Kota",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24421",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24422",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24423",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24425",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24426",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24427",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24428",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24429",
+      "kecamatan_name": "Langsa Lama",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24431",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24432",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24433",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24434",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24435",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24436",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24437",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24438",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24439",
+      "kecamatan_name": "Langsa Barat",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24441",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24442",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24443",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24444",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24445",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24446",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24447",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24448",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24449",
+      "kecamatan_name": "Langsa Baro",
+      "regency_code": "11.73",
+      "regency_name": "Kota Lhokseumawe",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24451",
+      "kecamatan_name": "Langsa Timur",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24452",
+      "kecamatan_name": "Rantau Selamat",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24453",
+      "kecamatan_name": "Peureulak",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24454",
+      "kecamatan_name": "Idi Rayeuk",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24455",
+      "kecamatan_name": "Darul Aman",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24456",
+      "kecamatan_name": "Nurussalam",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24457",
+      "kecamatan_name": "Julok",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24458",
+      "kecamatan_name": "Simpang Ulim",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24459",
+      "kecamatan_name": "Madat",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24461",
+      "kecamatan_name": "Serbajadi",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24462",
+      "kecamatan_name": "Peunaron",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24463",
+      "kecamatan_name": "Simpang Jernih",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24464",
+      "kecamatan_name": "Birem Bayeun",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24465",
+      "kecamatan_name": "Sungai Raya",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24466",
+      "kecamatan_name": "Peureulak Timur",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24467",
+      "kecamatan_name": "Peureulak Barat",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24468",
+      "kecamatan_name": "Rantau Peureulak",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24469",
+      "kecamatan_name": "Peudawa",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24471",
+      "kecamatan_name": "Manyak Payed",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24472",
+      "kecamatan_name": "Bendahara",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24473",
+      "kecamatan_name": "Seruway",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24474",
+      "kecamatan_name": "Rantau",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24475",
+      "kecamatan_name": "Sekerak",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24476",
+      "kecamatan_name": "Karang Baru",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24477",
+      "kecamatan_name": "Tenggulun",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24478",
+      "kecamatan_name": "Tamiang Hulu",
+      "regency_code": "11.14",
+      "regency_name": "Kabupaten Aceh Jaya",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24481",
+      "kecamatan_name": "Idi Timur",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24482",
+      "kecamatan_name": "Darul Ihsan",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24483",
+      "kecamatan_name": "Idi Tunong",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24484",
+      "kecamatan_name": "Banda Alam",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24486",
+      "kecamatan_name": "Darul Falah",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24487",
+      "kecamatan_name": "Pante Bidari",
+      "regency_code": "11.05",
+      "regency_name": "Kabupaten Aceh Barat",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24511",
+      "kecamatan_name": "Laut Tawar",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24512",
+      "kecamatan_name": "Laut Tawar",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24513",
+      "kecamatan_name": "Laut Tawar",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24514",
+      "kecamatan_name": "Laut Tawar",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24515",
+      "kecamatan_name": "Laut Tawar",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24516",
+      "kecamatan_name": "Laut Tawar",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24527",
+      "kecamatan_name": "Kebayakan",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24528",
+      "kecamatan_name": "Kebayakan",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24529",
+      "kecamatan_name": "Kebayakan",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24552",
+      "kecamatan_name": "Bebesen",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24553",
+      "kecamatan_name": "Timang gajah",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24555",
+      "kecamatan_name": "Kute Panang",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24556",
+      "kecamatan_name": "Ketol",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24561",
+      "kecamatan_name": "Pegasing",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24562",
+      "kecamatan_name": "Silih Nara",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24563",
+      "kecamatan_name": "Linge",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24564",
+      "kecamatan_name": "Bies",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24565",
+      "kecamatan_name": "Celala",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24566",
+      "kecamatan_name": "Rusip Antara",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24571",
+      "kecamatan_name": "Bintang",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24572",
+      "kecamatan_name": "Atu Lintang",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24573",
+      "kecamatan_name": "Jagong Jeget",
+      "regency_code": "11.06",
+      "regency_name": "Kabupaten Aceh Besar",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24581",
+      "kecamatan_name": "Bukit",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24582",
+      "kecamatan_name": "Bandar",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24583",
+      "kecamatan_name": "Permata",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24584",
+      "kecamatan_name": "Mesidah",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24585",
+      "kecamatan_name": "Syiah Utama",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24586",
+      "kecamatan_name": "Bener Kelipah",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24591",
+      "kecamatan_name": "Wih Pesam",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24592",
+      "kecamatan_name": "Gajah Putih",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24593",
+      "kecamatan_name": "Pintu Rime Gayo",
+      "regency_code": "11.17",
+      "regency_name": "Kabupaten Bener Meriah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24611",
+      "kecamatan_name": "Babussalam",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24619",
+      "kecamatan_name": "Babussalam",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24652",
+      "kecamatan_name": "Badar",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24653",
+      "kecamatan_name": "Blangkejeren",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24654",
+      "kecamatan_name": "Rikit Gaib",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24655",
+      "kecamatan_name": "Kutapanjang",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24656",
+      "kecamatan_name": "Terangun",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24657",
+      "kecamatan_name": "Teripe Jaya",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24658",
+      "kecamatan_name": "Blangjerango",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24659",
+      "kecamatan_name": "Pantan Cuaca",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24661",
+      "kecamatan_name": "Lawe Alas",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24662",
+      "kecamatan_name": "Tanoh Alas",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24663",
+      "kecamatan_name": "Babul Rahmah",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24664",
+      "kecamatan_name": "Leuser",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24665",
+      "kecamatan_name": "Darul Hasanah",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24671",
+      "kecamatan_name": "Bambel",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24672",
+      "kecamatan_name": "Lawe Sumur",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24673",
+      "kecamatan_name": "Lawe Sigala-Gala",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24674",
+      "kecamatan_name": "Babul Makmur",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24675",
+      "kecamatan_name": "Semadam",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24676",
+      "kecamatan_name": "Bukit Tusam",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24677",
+      "kecamatan_name": "Lawe Bulan",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24678",
+      "kecamatan_name": "Deleng Pokhkisen",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24679",
+      "kecamatan_name": "Ketambe",
+      "regency_code": "11.04",
+      "regency_name": "Kabupaten Aceh Tengah",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24682",
+      "kecamatan_name": "Dabun Gelang",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24683",
+      "kecamatan_name": "Puteri Betung",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24684",
+      "kecamatan_name": "Pining",
+      "regency_code": "11.13",
+      "regency_name": "Kabupaten Gayo Lues",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24771",
+      "kecamatan_name": "Danau Paris",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24772",
+      "kecamatan_name": "Suro Makmur",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24773",
+      "kecamatan_name": "Singkohor",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24774",
+      "kecamatan_name": "Kota Baharu",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24783",
+      "kecamatan_name": "Simpang Kanan",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24784",
+      "kecamatan_name": "Gunung Meriah",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24785",
+      "kecamatan_name": "Singkil",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24787",
+      "kecamatan_name": "Singkil Utara",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24788",
+      "kecamatan_name": "Kuala Baru",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24791",
+      "kecamatan_name": "Pulau Banyak",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24792",
+      "kecamatan_name": "Pulau Banyak Barat",
+      "regency_code": "11.02",
+      "regency_name": "Kabupaten Aceh Tenggara",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24881",
+      "kecamatan_name": "Penanggalan",
+      "regency_code": "11.75",
+      "regency_name": "Kota Subulussalam",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24882",
+      "kecamatan_name": "Simpang Kiri",
+      "regency_code": "11.75",
+      "regency_name": "Kota Subulussalam",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24883",
+      "kecamatan_name": "Sultan Daulat",
+      "regency_code": "11.75",
+      "regency_name": "Kota Subulussalam",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24884",
+      "kecamatan_name": "Rundeng",
+      "regency_code": "11.75",
+      "regency_name": "Kota Subulussalam",
+      "province_code": "11",
+      "province_name": "Aceh"
+    },
+    {
+      "postal_code": "24885",
+      "kecamatan_name": "Longkib",
+      "regency_code": "11.75",
+      "regency_name": "Kota Subulussalam",
+      "province_code": "11",
+      "province_name": "Aceh"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos di Aceh - Unduh Gratis",
+    "description": "Daftar 376 kode pos di Provinsi Aceh (kode BPS 11). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022). Berisi 376 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos di Aceh | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos di Aceh — 376 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 376 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

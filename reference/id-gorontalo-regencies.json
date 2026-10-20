@@ -1,0 +1,82 @@
+{
+  "id": "id-gorontalo-regencies",
+  "name": "Daftar Kabupaten dan Kota di Gorontalo",
+  "title": "Daftar Kabupaten dan Kota di Gorontalo",
+  "description": "Daftar kabupaten dan kota di Provinsi Gorontalo dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "75.01",
+      "name": "Kabupaten Gorontalo",
+      "type": "Kabupaten",
+      "slug": "kabupaten-gorontalo"
+    },
+    {
+      "code": "75.02",
+      "name": "Kabupaten Boalemo",
+      "type": "Kabupaten",
+      "slug": "kabupaten-boalemo"
+    },
+    {
+      "code": "75.03",
+      "name": "Kabupaten Bone Bolango",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bone-bolango"
+    },
+    {
+      "code": "75.04",
+      "name": "Kabupaten Pohuwato",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pohuwato"
+    },
+    {
+      "code": "75.05",
+      "name": "Kabupaten Gorontalo Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-gorontalo-utara"
+    },
+    {
+      "code": "75.71",
+      "name": "Kota Gorontalo",
+      "type": "Kota",
+      "slug": "kota-gorontalo"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Gorontalo - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Gorontalo dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Gorontalo | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Gorontalo — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,2781 @@
+{
+  "id": "id-dinas-kesehatan",
+  "name": "Id Dinas Kesehatan",
+  "title": "Id Dinas Kesehatan",
+  "description": "Daftar Dinas Kesehatan di seluruh Indonesia",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 548,
+  "columns": [
+    {
+      "key": "kode_kab",
+      "label": "Kode Kab",
+      "type": "number"
+    },
+    {
+      "key": "kode_instansi",
+      "label": "Kode Instansi",
+      "type": "number"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_kab": "1171",
+      "kode_instansi": "11",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI ACEH"
+    },
+    {
+      "kode_kab": "1101",
+      "kode_instansi": "1101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH SELATAN"
+    },
+    {
+      "kode_kab": "1102",
+      "kode_instansi": "1102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH TENGGARA"
+    },
+    {
+      "kode_kab": "1103",
+      "kode_instansi": "1103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH TIMUR"
+    },
+    {
+      "kode_kab": "1104",
+      "kode_instansi": "1104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH TENGAH"
+    },
+    {
+      "kode_kab": "1105",
+      "kode_instansi": "1105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH BARAT"
+    },
+    {
+      "kode_kab": "1106",
+      "kode_instansi": "1106",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH BESAR"
+    },
+    {
+      "kode_kab": "1107",
+      "kode_instansi": "1107",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PIDIE"
+    },
+    {
+      "kode_kab": "1108",
+      "kode_instansi": "1108",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH UTARA"
+    },
+    {
+      "kode_kab": "1109",
+      "kode_instansi": "1109",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIMEULUE"
+    },
+    {
+      "kode_kab": "1110",
+      "kode_instansi": "1110",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH SINGKIL"
+    },
+    {
+      "kode_kab": "1111",
+      "kode_instansi": "1111",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BIREUEN"
+    },
+    {
+      "kode_kab": "1112",
+      "kode_instansi": "1112",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH BARAT DAYA"
+    },
+    {
+      "kode_kab": "1113",
+      "kode_instansi": "1113",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GAYO LUES"
+    },
+    {
+      "kode_kab": "1114",
+      "kode_instansi": "1114",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH JAYA"
+    },
+    {
+      "kode_kab": "1115",
+      "kode_instansi": "1115",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NAGAN RAYA"
+    },
+    {
+      "kode_kab": "1116",
+      "kode_instansi": "1116",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ACEH TAMIANG"
+    },
+    {
+      "kode_kab": "1117",
+      "kode_instansi": "1117",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BENER MERIAH"
+    },
+    {
+      "kode_kab": "1118",
+      "kode_instansi": "1118",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PIDIE JAYA"
+    },
+    {
+      "kode_kab": "1171",
+      "kode_instansi": "1171",
+      "unit_kerja": "DINAS KESEHATAN KOTA BANDA ACEH"
+    },
+    {
+      "kode_kab": "1172",
+      "kode_instansi": "1172",
+      "unit_kerja": "DINAS KESEHATAN KOTA SABANG"
+    },
+    {
+      "kode_kab": "1173",
+      "kode_instansi": "1173",
+      "unit_kerja": "DINAS KESEHATAN KOTA LHOKSEUMAWE"
+    },
+    {
+      "kode_kab": "1174",
+      "kode_instansi": "1174",
+      "unit_kerja": "DINAS KESEHATAN KOTA LANGSA"
+    },
+    {
+      "kode_kab": "1175",
+      "kode_instansi": "1175",
+      "unit_kerja": "DINAS KESEHATAN KOTA SUBULUSSALAM"
+    },
+    {
+      "kode_kab": "1271",
+      "kode_instansi": "12",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SUMATERA UTARA"
+    },
+    {
+      "kode_kab": "1201",
+      "kode_instansi": "1201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TAPANULI TENGAH"
+    },
+    {
+      "kode_kab": "1202",
+      "kode_instansi": "1202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TAPANULI UTARA"
+    },
+    {
+      "kode_kab": "1203",
+      "kode_instansi": "1203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TAPANULI SELATAN"
+    },
+    {
+      "kode_kab": "1204",
+      "kode_instansi": "1204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NIAS"
+    },
+    {
+      "kode_kab": "1205",
+      "kode_instansi": "1205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LANGKAT"
+    },
+    {
+      "kode_kab": "1206",
+      "kode_instansi": "1206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KARO"
+    },
+    {
+      "kode_kab": "1207",
+      "kode_instansi": "1207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DELI SERDANG"
+    },
+    {
+      "kode_kab": "1208",
+      "kode_instansi": "1208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIMALUNGUN"
+    },
+    {
+      "kode_kab": "1209",
+      "kode_instansi": "1209",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ASAHAN"
+    },
+    {
+      "kode_kab": "1210",
+      "kode_instansi": "1210",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LABUHANBATU"
+    },
+    {
+      "kode_kab": "1211",
+      "kode_instansi": "1211",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DAIRI"
+    },
+    {
+      "kode_kab": "1212",
+      "kode_instansi": "1212",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TOBA SAMOSIR"
+    },
+    {
+      "kode_kab": "1213",
+      "kode_instansi": "1213",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MANDAILING NATAL"
+    },
+    {
+      "kode_kab": "1214",
+      "kode_instansi": "1214",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NIAS SELATAN"
+    },
+    {
+      "kode_kab": "1215",
+      "kode_instansi": "1215",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PAKPAK BHARAT"
+    },
+    {
+      "kode_kab": "1216",
+      "kode_instansi": "1216",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HUMBANG HASUNDUTAN"
+    },
+    {
+      "kode_kab": "1217",
+      "kode_instansi": "1217",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SAMOSIR"
+    },
+    {
+      "kode_kab": "1218",
+      "kode_instansi": "1218",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SERDANG BEDAGAI"
+    },
+    {
+      "kode_kab": "1219",
+      "kode_instansi": "1219",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BATU BARA"
+    },
+    {
+      "kode_kab": "1220",
+      "kode_instansi": "1220",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PADANG LAWAS UTARA"
+    },
+    {
+      "kode_kab": "1221",
+      "kode_instansi": "1221",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PADANG LAWAS"
+    },
+    {
+      "kode_kab": "1222",
+      "kode_instansi": "1222",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LABUHANBATU SELATAN"
+    },
+    {
+      "kode_kab": "1223",
+      "kode_instansi": "1223",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LABUHANBATU UTARA"
+    },
+    {
+      "kode_kab": "1224",
+      "kode_instansi": "1224",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NIAS UTARA"
+    },
+    {
+      "kode_kab": "1225",
+      "kode_instansi": "1225",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NIAS BARAT"
+    },
+    {
+      "kode_kab": "1271",
+      "kode_instansi": "1271",
+      "unit_kerja": "DINAS KESEHATAN KOTA MEDAN"
+    },
+    {
+      "kode_kab": "1272",
+      "kode_instansi": "1272",
+      "unit_kerja": "DINAS KESEHATAN KOTA PEMATANGSIANTAR"
+    },
+    {
+      "kode_kab": "1273",
+      "kode_instansi": "1273",
+      "unit_kerja": "DINAS KESEHATAN KOTA SIBOLGA"
+    },
+    {
+      "kode_kab": "1274",
+      "kode_instansi": "1274",
+      "unit_kerja": "DINAS KESEHATAN KOTA TANJUNG BALAI"
+    },
+    {
+      "kode_kab": "1275",
+      "kode_instansi": "1275",
+      "unit_kerja": "DINAS KESEHATAN KOTA BINJAI"
+    },
+    {
+      "kode_kab": "1276",
+      "kode_instansi": "1276",
+      "unit_kerja": "DINAS KESEHATAN KOTA TEBING TINGGI"
+    },
+    {
+      "kode_kab": "1277",
+      "kode_instansi": "1277",
+      "unit_kerja": "DINAS KESEHATAN KOTA PADANG SIDEMPUAN"
+    },
+    {
+      "kode_kab": "1278",
+      "kode_instansi": "1278",
+      "unit_kerja": "DINAS KESEHATAN KOTA GUNUNGSITOLI"
+    },
+    {
+      "kode_kab": "1371",
+      "kode_instansi": "13",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SUMATERA BARAT"
+    },
+    {
+      "kode_kab": "1301",
+      "kode_instansi": "1301",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PESISIR SELATAN"
+    },
+    {
+      "kode_kab": "1302",
+      "kode_instansi": "1302",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SOLOK"
+    },
+    {
+      "kode_kab": "1303",
+      "kode_instansi": "1303",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIJUNJUNG"
+    },
+    {
+      "kode_kab": "1304",
+      "kode_instansi": "1304",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANAH DATAR"
+    },
+    {
+      "kode_kab": "1305",
+      "kode_instansi": "1305",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PADANG PARIAMAN"
+    },
+    {
+      "kode_kab": "1306",
+      "kode_instansi": "1306",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN AGAM"
+    },
+    {
+      "kode_kab": "1307",
+      "kode_instansi": "1307",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LIMA PULUH KOTA"
+    },
+    {
+      "kode_kab": "1308",
+      "kode_instansi": "1308",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PASAMAN"
+    },
+    {
+      "kode_kab": "1309",
+      "kode_instansi": "1309",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN MENTAWAI"
+    },
+    {
+      "kode_kab": "1310",
+      "kode_instansi": "1310",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DHARMASRAYA"
+    },
+    {
+      "kode_kab": "1311",
+      "kode_instansi": "1311",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SOLOK SELATAN"
+    },
+    {
+      "kode_kab": "1312",
+      "kode_instansi": "1312",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PASAMAN BARAT"
+    },
+    {
+      "kode_kab": "1371",
+      "kode_instansi": "1371",
+      "unit_kerja": "DINAS KESEHATAN KOTA PADANG"
+    },
+    {
+      "kode_kab": "1372",
+      "kode_instansi": "1372",
+      "unit_kerja": "DINAS KESEHATAN KOTA SOLOK"
+    },
+    {
+      "kode_kab": "1373",
+      "kode_instansi": "1373",
+      "unit_kerja": "DINAS KESEHATAN KOTA SAWAHLUNTO"
+    },
+    {
+      "kode_kab": "1374",
+      "kode_instansi": "1374",
+      "unit_kerja": "DINAS KESEHATAN KOTA PADANG PANJANG"
+    },
+    {
+      "kode_kab": "1375",
+      "kode_instansi": "1375",
+      "unit_kerja": "DINAS KESEHATAN KOTA BUKITTINGGI"
+    },
+    {
+      "kode_kab": "1376",
+      "kode_instansi": "1376",
+      "unit_kerja": "DINAS KESEHATAN KOTA PAYAKUMBUH"
+    },
+    {
+      "kode_kab": "1377",
+      "kode_instansi": "1377",
+      "unit_kerja": "DINAS KESEHATAN KOTA PARIAMAN"
+    },
+    {
+      "kode_kab": "1471",
+      "kode_instansi": "14",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI RIAU"
+    },
+    {
+      "kode_kab": "1401",
+      "kode_instansi": "1401",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KAMPAR"
+    },
+    {
+      "kode_kab": "1402",
+      "kode_instansi": "1402",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN INDRAGIRI HULU"
+    },
+    {
+      "kode_kab": "1403",
+      "kode_instansi": "1403",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BENGKALIS"
+    },
+    {
+      "kode_kab": "1404",
+      "kode_instansi": "1404",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN INDRAGIRI HILIR"
+    },
+    {
+      "kode_kab": "1405",
+      "kode_instansi": "1405",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PELALAWAN"
+    },
+    {
+      "kode_kab": "1406",
+      "kode_instansi": "1406",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ROKAN HULU"
+    },
+    {
+      "kode_kab": "1407",
+      "kode_instansi": "1407",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ROKAN HILIR"
+    },
+    {
+      "kode_kab": "1408",
+      "kode_instansi": "1408",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIAK"
+    },
+    {
+      "kode_kab": "1409",
+      "kode_instansi": "1409",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUANTAN SINGINGI"
+    },
+    {
+      "kode_kab": "1410",
+      "kode_instansi": "1410",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN MERANTI"
+    },
+    {
+      "kode_kab": "1471",
+      "kode_instansi": "1471",
+      "unit_kerja": "DINAS KESEHATAN KOTA PEKANBARU"
+    },
+    {
+      "kode_kab": "1472",
+      "kode_instansi": "1472",
+      "unit_kerja": "DINAS KESEHATAN KOTA DUMAI"
+    },
+    {
+      "kode_kab": "1571",
+      "kode_instansi": "15",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI JAMBI"
+    },
+    {
+      "kode_kab": "1501",
+      "kode_instansi": "1501",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KERINCI"
+    },
+    {
+      "kode_kab": "1502",
+      "kode_instansi": "1502",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MERANGIN"
+    },
+    {
+      "kode_kab": "1503",
+      "kode_instansi": "1503",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SAROLANGUN"
+    },
+    {
+      "kode_kab": "1504",
+      "kode_instansi": "1504",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BATANGHARI"
+    },
+    {
+      "kode_kab": "1505",
+      "kode_instansi": "1505",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUARO JAMBI"
+    },
+    {
+      "kode_kab": "1506",
+      "kode_instansi": "1506",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANJUNG JABUNG BARAT"
+    },
+    {
+      "kode_kab": "1507",
+      "kode_instansi": "1507",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANJUNG JABUNG TIMUR"
+    },
+    {
+      "kode_kab": "1508",
+      "kode_instansi": "1508",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BUNGO"
+    },
+    {
+      "kode_kab": "1509",
+      "kode_instansi": "1509",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TEBO"
+    },
+    {
+      "kode_kab": "1571",
+      "kode_instansi": "1571",
+      "unit_kerja": "DINAS KESEHATAN KOTA JAMBI"
+    },
+    {
+      "kode_kab": "1572",
+      "kode_instansi": "1572",
+      "unit_kerja": "DINAS KESEHATAN KOTA SUNGAI PENUH"
+    },
+    {
+      "kode_kab": "1671",
+      "kode_instansi": "16",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SUMATERA SELATAN"
+    },
+    {
+      "kode_kab": "1601",
+      "kode_instansi": "1601",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN OGAN KOMERING ULU"
+    },
+    {
+      "kode_kab": "1602",
+      "kode_instansi": "1602",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN OGAN KOMERING ILIR"
+    },
+    {
+      "kode_kab": "1603",
+      "kode_instansi": "1603",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUARA ENIM"
+    },
+    {
+      "kode_kab": "1604",
+      "kode_instansi": "1604",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAHAT"
+    },
+    {
+      "kode_kab": "1605",
+      "kode_instansi": "1605",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUSI RAWAS"
+    },
+    {
+      "kode_kab": "1606",
+      "kode_instansi": "1606",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUSI BANYUASIN"
+    },
+    {
+      "kode_kab": "1607",
+      "kode_instansi": "1607",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANYUASIN"
+    },
+    {
+      "kode_kab": "1608",
+      "kode_instansi": "1608",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN OGAN KOMERING ULU TIMUR"
+    },
+    {
+      "kode_kab": "1609",
+      "kode_instansi": "1609",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN OGAN KOMERING ULU SELATAN"
+    },
+    {
+      "kode_kab": "1610",
+      "kode_instansi": "1610",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN OGAN ILIR"
+    },
+    {
+      "kode_kab": "1611",
+      "kode_instansi": "1611",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN EMPAT LAWANG"
+    },
+    {
+      "kode_kab": "1612",
+      "kode_instansi": "1612",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+      "kode_kab": "1613",
+      "kode_instansi": "1613",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUSI RAWAS UTARA"
+    },
+    {
+      "kode_kab": "1671",
+      "kode_instansi": "1671",
+      "unit_kerja": "DINAS KESEHATAN KOTA PALEMBANG"
+    },
+    {
+      "kode_kab": "1672",
+      "kode_instansi": "1672",
+      "unit_kerja": "DINAS KESEHATAN KOTA PAGAR ALAM"
+    },
+    {
+      "kode_kab": "1673",
+      "kode_instansi": "1673",
+      "unit_kerja": "DINAS KESEHATAN KOTA LUBUK LINGGAU"
+    },
+    {
+      "kode_kab": "1674",
+      "kode_instansi": "1674",
+      "unit_kerja": "DINAS KESEHATAN KOTA PRABUMULIH"
+    },
+    {
+      "kode_kab": "1771",
+      "kode_instansi": "17",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI BENGKULU"
+    },
+    {
+      "kode_kab": "1701",
+      "kode_instansi": "1701",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BENGKULU SELATAN"
+    },
+    {
+      "kode_kab": "1702",
+      "kode_instansi": "1702",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN REJANG LEBONG"
+    },
+    {
+      "kode_kab": "1703",
+      "kode_instansi": "1703",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BENGKULU UTARA"
+    },
+    {
+      "kode_kab": "1704",
+      "kode_instansi": "1704",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KAUR"
+    },
+    {
+      "kode_kab": "1705",
+      "kode_instansi": "1705",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SELUMA"
+    },
+    {
+      "kode_kab": "1706",
+      "kode_instansi": "1706",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUKO MUKO"
+    },
+    {
+      "kode_kab": "1707",
+      "kode_instansi": "1707",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LEBONG"
+    },
+    {
+      "kode_kab": "1708",
+      "kode_instansi": "1708",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPAHIANG"
+    },
+    {
+      "kode_kab": "1709",
+      "kode_instansi": "1709",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BENGKULU TENGAH"
+    },
+    {
+      "kode_kab": "1771",
+      "kode_instansi": "1771",
+      "unit_kerja": "DINAS KESEHATAN KOTA BENGKULU"
+    },
+    {
+      "kode_kab": "1871",
+      "kode_instansi": "18",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI LAMPUNG"
+    },
+    {
+      "kode_kab": "1801",
+      "kode_instansi": "1801",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMPUNG SELATAN"
+    },
+    {
+      "kode_kab": "1802",
+      "kode_instansi": "1802",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMPUNG TENGAH"
+    },
+    {
+      "kode_kab": "1803",
+      "kode_instansi": "1803",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMPUNG UTARA"
+    },
+    {
+      "kode_kab": "1804",
+      "kode_instansi": "1804",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMPUNG BARAT"
+    },
+    {
+      "kode_kab": "1805",
+      "kode_instansi": "1805",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TULANG BAWANG"
+    },
+    {
+      "kode_kab": "1806",
+      "kode_instansi": "1806",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANGGAMUS"
+    },
+    {
+      "kode_kab": "1807",
+      "kode_instansi": "1807",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMPUNG TIMUR"
+    },
+    {
+      "kode_kab": "1808",
+      "kode_instansi": "1808",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN WAY KANAN"
+    },
+    {
+      "kode_kab": "1809",
+      "kode_instansi": "1809",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PESAWARAN"
+    },
+    {
+      "kode_kab": "1810",
+      "kode_instansi": "1810",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PRINGSEWU"
+    },
+    {
+      "kode_kab": "1811",
+      "kode_instansi": "1811",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MESUJI"
+    },
+    {
+      "kode_kab": "1812",
+      "kode_instansi": "1812",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TULANG BAWANG BARAT"
+    },
+    {
+      "kode_kab": "1813",
+      "kode_instansi": "1813",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PESISIR BARAT"
+    },
+    {
+      "kode_kab": "1871",
+      "kode_instansi": "1871",
+      "unit_kerja": "DINAS KESEHATAN KOTA BANDAR LAMPUNG"
+    },
+    {
+      "kode_kab": "1872",
+      "kode_instansi": "1872",
+      "unit_kerja": "DINAS KESEHATAN KOTA METRO"
+    },
+    {
+      "kode_kab": "1971",
+      "kode_instansi": "19",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KEPULAUAN BANGKA BELITUNG"
+    },
+    {
+      "kode_kab": "1901",
+      "kode_instansi": "1901",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGKA"
+    },
+    {
+      "kode_kab": "1902",
+      "kode_instansi": "1902",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BELITUNG"
+    },
+    {
+      "kode_kab": "1903",
+      "kode_instansi": "1903",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGKA SELATAN"
+    },
+    {
+      "kode_kab": "1904",
+      "kode_instansi": "1904",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGKA TENGAH"
+    },
+    {
+      "kode_kab": "1905",
+      "kode_instansi": "1905",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGKA BARAT"
+    },
+    {
+      "kode_kab": "1906",
+      "kode_instansi": "1906",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BELITUNG TIMUR"
+    },
+    {
+      "kode_kab": "1971",
+      "kode_instansi": "1971",
+      "unit_kerja": "DINAS KESEHATAN KOTA PANGKAL PINANG"
+    },
+    {
+      "kode_kab": "2172",
+      "kode_instansi": "21",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KEPULAUAN RIAU"
+    },
+    {
+      "kode_kab": "2101",
+      "kode_instansi": "2101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BINTAN"
+    },
+    {
+      "kode_kab": "2102",
+      "kode_instansi": "2102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KARIMUN"
+    },
+    {
+      "kode_kab": "2103",
+      "kode_instansi": "2103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NATUNA"
+    },
+    {
+      "kode_kab": "2104",
+      "kode_instansi": "2104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LINGGA"
+    },
+    {
+      "kode_kab": "2105",
+      "kode_instansi": "2105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN ANAMBAS"
+    },
+    {
+      "kode_kab": "2171",
+      "kode_instansi": "2171",
+      "unit_kerja": "DINAS KESEHATAN KOTA BATAM"
+    },
+    {
+      "kode_kab": "2172",
+      "kode_instansi": "2172",
+      "unit_kerja": "DINAS KESEHATAN KOTA TANJUNG PINANG"
+    },
+    {
+      "kode_kab": "3171",
+      "kode_instansi": "31",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI DKI JAKARTA"
+    },
+    {
+      "kode_kab": "3101",
+      "kode_instansi": "3101",
+      "unit_kerja": "SUKU DINAS KESEHATAN KEPULAUAN SERIBU"
+    },
+    {
+      "kode_kab": "3171",
+      "kode_instansi": "3171",
+      "unit_kerja": "SUKU DINAS KESEHATAN JAKARTA PUSAT"
+    },
+    {
+      "kode_kab": "3172",
+      "kode_instansi": "3172",
+      "unit_kerja": "SUKU DINAS KESEHATAN JAKARTA UTARA"
+    },
+    {
+      "kode_kab": "3173",
+      "kode_instansi": "3173",
+      "unit_kerja": "SUKU DINAS KESEHATAN JAKARTA BARAT"
+    },
+    {
+      "kode_kab": "3174",
+      "kode_instansi": "3174",
+      "unit_kerja": "SUKU DINAS KESEHATAN JAKARTA SELATAN"
+    },
+    {
+      "kode_kab": "3175",
+      "kode_instansi": "3175",
+      "unit_kerja": "SUKU DINAS KESEHATAN JAKARTA TIMUR"
+    },
+    {
+      "kode_kab": "3273",
+      "kode_instansi": "32",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI JAWA BARAT"
+    },
+    {
+      "kode_kab": "3201",
+      "kode_instansi": "3201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOGOR"
+    },
+    {
+      "kode_kab": "3202",
+      "kode_instansi": "3202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUKABUMI"
+    },
+    {
+      "kode_kab": "3203",
+      "kode_instansi": "3203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN CIANJUR"
+    },
+    {
+      "kode_kab": "3204",
+      "kode_instansi": "3204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANDUNG"
+    },
+    {
+      "kode_kab": "3205",
+      "kode_instansi": "3205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GARUT"
+    },
+    {
+      "kode_kab": "3206",
+      "kode_instansi": "3206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TASIKMALAYA"
+    },
+    {
+      "kode_kab": "3207",
+      "kode_instansi": "3207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN CIAMIS"
+    },
+    {
+      "kode_kab": "3208",
+      "kode_instansi": "3208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUNINGAN"
+    },
+    {
+      "kode_kab": "3209",
+      "kode_instansi": "3209",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN CIREBON"
+    },
+    {
+      "kode_kab": "3210",
+      "kode_instansi": "3210",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAJALENGKA"
+    },
+    {
+      "kode_kab": "3211",
+      "kode_instansi": "3211",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMEDANG"
+    },
+    {
+      "kode_kab": "3212",
+      "kode_instansi": "3212",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN INDRAMAYU"
+    },
+    {
+      "kode_kab": "3213",
+      "kode_instansi": "3213",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUBANG"
+    },
+    {
+      "kode_kab": "3214",
+      "kode_instansi": "3214",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PURWAKARTA"
+    },
+    {
+      "kode_kab": "3215",
+      "kode_instansi": "3215",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KARAWANG"
+    },
+    {
+      "kode_kab": "3216",
+      "kode_instansi": "3216",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BEKASI"
+    },
+    {
+      "kode_kab": "3217",
+      "kode_instansi": "3217",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANDUNG BARAT"
+    },
+    {
+      "kode_kab": "3218",
+      "kode_instansi": "3218",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PANGANDARAN"
+    },
+    {
+      "kode_kab": "3271",
+      "kode_instansi": "3271",
+      "unit_kerja": "DINAS KESEHATAN KOTA BOGOR"
+    },
+    {
+      "kode_kab": "3272",
+      "kode_instansi": "3272",
+      "unit_kerja": "DINAS KESEHATAN KOTA SUKABUMI"
+    },
+    {
+      "kode_kab": "3273",
+      "kode_instansi": "3273",
+      "unit_kerja": "DINAS KESEHATAN KOTA BANDUNG"
+    },
+    {
+      "kode_kab": "3274",
+      "kode_instansi": "3274",
+      "unit_kerja": "DINAS KESEHATAN KOTA CIREBON"
+    },
+    {
+      "kode_kab": "3275",
+      "kode_instansi": "3275",
+      "unit_kerja": "DINAS KESEHATAN KOTA BEKASI"
+    },
+    {
+      "kode_kab": "3276",
+      "kode_instansi": "3276",
+      "unit_kerja": "DINAS KESEHATAN KOTA DEPOK"
+    },
+    {
+      "kode_kab": "3277",
+      "kode_instansi": "3277",
+      "unit_kerja": "DINAS KESEHATAN KOTA CIMAHI"
+    },
+    {
+      "kode_kab": "3278",
+      "kode_instansi": "3278",
+      "unit_kerja": "DINAS KESEHATAN KOTA TASIKMALAYA"
+    },
+    {
+      "kode_kab": "3279",
+      "kode_instansi": "3279",
+      "unit_kerja": "DINAS KESEHATAN KOTA BANJAR"
+    },
+    {
+      "kode_kab": "3374",
+      "kode_instansi": "33",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI JAWA TENGAH"
+    },
+    {
+      "kode_kab": "3301",
+      "kode_instansi": "3301",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN CILACAP"
+    },
+    {
+      "kode_kab": "3302",
+      "kode_instansi": "3302",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANYUMAS"
+    },
+    {
+      "kode_kab": "3303",
+      "kode_instansi": "3303",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PURBALINGGA"
+    },
+    {
+      "kode_kab": "3304",
+      "kode_instansi": "3304",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANJARNEGARA"
+    },
+    {
+      "kode_kab": "3305",
+      "kode_instansi": "3305",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEBUMEN"
+    },
+    {
+      "kode_kab": "3306",
+      "kode_instansi": "3306",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PURWOREJO"
+    },
+    {
+      "kode_kab": "3307",
+      "kode_instansi": "3307",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN WONOSOBO"
+    },
+    {
+      "kode_kab": "3308",
+      "kode_instansi": "3308",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAGELANG"
+    },
+    {
+      "kode_kab": "3309",
+      "kode_instansi": "3309",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOYOLALI"
+    },
+    {
+      "kode_kab": "3310",
+      "kode_instansi": "3310",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KLATEN"
+    },
+    {
+      "kode_kab": "3311",
+      "kode_instansi": "3311",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUKOHARJO"
+    },
+    {
+      "kode_kab": "3312",
+      "kode_instansi": "3312",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN WONOGIRI"
+    },
+    {
+      "kode_kab": "3313",
+      "kode_instansi": "3313",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KARANGANYAR"
+    },
+    {
+      "kode_kab": "3314",
+      "kode_instansi": "3314",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SRAGEN"
+    },
+    {
+      "kode_kab": "3315",
+      "kode_instansi": "3315",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GROBOGAN"
+    },
+    {
+      "kode_kab": "3316",
+      "kode_instansi": "3316",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BLORA"
+    },
+    {
+      "kode_kab": "3317",
+      "kode_instansi": "3317",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN REMBANG"
+    },
+    {
+      "kode_kab": "3318",
+      "kode_instansi": "3318",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PATI"
+    },
+    {
+      "kode_kab": "3319",
+      "kode_instansi": "3319",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUDUS"
+    },
+    {
+      "kode_kab": "3320",
+      "kode_instansi": "3320",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JEPARA"
+    },
+    {
+      "kode_kab": "3321",
+      "kode_instansi": "3321",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DEMAK"
+    },
+    {
+      "kode_kab": "3322",
+      "kode_instansi": "3322",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SEMARANG"
+    },
+    {
+      "kode_kab": "3323",
+      "kode_instansi": "3323",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TEMANGGUNG"
+    },
+    {
+      "kode_kab": "3324",
+      "kode_instansi": "3324",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KENDAL"
+    },
+    {
+      "kode_kab": "3325",
+      "kode_instansi": "3325",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BATANG"
+    },
+    {
+      "kode_kab": "3326",
+      "kode_instansi": "3326",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PEKALONGAN"
+    },
+    {
+      "kode_kab": "3327",
+      "kode_instansi": "3327",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PEMALANG"
+    },
+    {
+      "kode_kab": "3328",
+      "kode_instansi": "3328",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TEGAL"
+    },
+    {
+      "kode_kab": "3329",
+      "kode_instansi": "3329",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BREBES"
+    },
+    {
+      "kode_kab": "3371",
+      "kode_instansi": "3371",
+      "unit_kerja": "DINAS KESEHATAN KOTA MAGELANG"
+    },
+    {
+      "kode_kab": "3372",
+      "kode_instansi": "3372",
+      "unit_kerja": "DINAS KESEHATAN KOTA SURAKARTA"
+    },
+    {
+      "kode_kab": "3373",
+      "kode_instansi": "3373",
+      "unit_kerja": "DINAS KESEHATAN KOTA SALATIGA"
+    },
+    {
+      "kode_kab": "3374",
+      "kode_instansi": "3374",
+      "unit_kerja": "DINAS KESEHATAN KOTA SEMARANG"
+    },
+    {
+      "kode_kab": "3375",
+      "kode_instansi": "3375",
+      "unit_kerja": "DINAS KESEHATAN KOTA PEKALONGAN"
+    },
+    {
+      "kode_kab": "3376",
+      "kode_instansi": "3376",
+      "unit_kerja": "DINAS KESEHATAN KOTA TEGAL"
+    },
+    {
+      "kode_kab": "3471",
+      "kode_instansi": "34",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI DAERAH ISTIMEWA YOGYAKARTA"
+    },
+    {
+      "kode_kab": "3401",
+      "kode_instansi": "3401",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KULON PROGO"
+    },
+    {
+      "kode_kab": "3402",
+      "kode_instansi": "3402",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANTUL"
+    },
+    {
+      "kode_kab": "3403",
+      "kode_instansi": "3403",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GUNUNGKIDUL"
+    },
+    {
+      "kode_kab": "3404",
+      "kode_instansi": "3404",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SLEMAN"
+    },
+    {
+      "kode_kab": "3471",
+      "kode_instansi": "3471",
+      "unit_kerja": "DINAS KESEHATAN KOTA YOGYAKARTA"
+    },
+    {
+      "kode_kab": "3578",
+      "kode_instansi": "35",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI JAWA TIMUR"
+    },
+    {
+      "kode_kab": "3501",
+      "kode_instansi": "3501",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PACITAN"
+    },
+    {
+      "kode_kab": "3502",
+      "kode_instansi": "3502",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PONOROGO"
+    },
+    {
+      "kode_kab": "3503",
+      "kode_instansi": "3503",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TRENGGALEK"
+    },
+    {
+      "kode_kab": "3504",
+      "kode_instansi": "3504",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TULUNGAGUNG"
+    },
+    {
+      "kode_kab": "3505",
+      "kode_instansi": "3505",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BLITAR"
+    },
+    {
+      "kode_kab": "3506",
+      "kode_instansi": "3506",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEDIRI"
+    },
+    {
+      "kode_kab": "3507",
+      "kode_instansi": "3507",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MALANG"
+    },
+    {
+      "kode_kab": "3508",
+      "kode_instansi": "3508",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LUMAJANG"
+    },
+    {
+      "kode_kab": "3509",
+      "kode_instansi": "3509",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JEMBER"
+    },
+    {
+      "kode_kab": "3510",
+      "kode_instansi": "3510",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANYUWANGI"
+    },
+    {
+      "kode_kab": "3511",
+      "kode_instansi": "3511",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BONDOWOSO"
+    },
+    {
+      "kode_kab": "3512",
+      "kode_instansi": "3512",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SITUBONDO"
+    },
+    {
+      "kode_kab": "3513",
+      "kode_instansi": "3513",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PROBOLINGGO"
+    },
+    {
+      "kode_kab": "3514",
+      "kode_instansi": "3514",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PASURUAN"
+    },
+    {
+      "kode_kab": "3515",
+      "kode_instansi": "3515",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIDOARJO"
+    },
+    {
+      "kode_kab": "3516",
+      "kode_instansi": "3516",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MOJOKERTO"
+    },
+    {
+      "kode_kab": "3517",
+      "kode_instansi": "3517",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JOMBANG"
+    },
+    {
+      "kode_kab": "3518",
+      "kode_instansi": "3518",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NGANJUK"
+    },
+    {
+      "kode_kab": "3519",
+      "kode_instansi": "3519",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MADIUN"
+    },
+    {
+      "kode_kab": "3520",
+      "kode_instansi": "3520",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAGETAN"
+    },
+    {
+      "kode_kab": "3521",
+      "kode_instansi": "3521",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NGAWI"
+    },
+    {
+      "kode_kab": "3522",
+      "kode_instansi": "3522",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOJONEGORO"
+    },
+    {
+      "kode_kab": "3523",
+      "kode_instansi": "3523",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TUBAN"
+    },
+    {
+      "kode_kab": "3524",
+      "kode_instansi": "3524",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMONGAN"
+    },
+    {
+      "kode_kab": "3525",
+      "kode_instansi": "3525",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GRESIK"
+    },
+    {
+      "kode_kab": "3526",
+      "kode_instansi": "3526",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGKALAN"
+    },
+    {
+      "kode_kab": "3527",
+      "kode_instansi": "3527",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SAMPANG"
+    },
+    {
+      "kode_kab": "3528",
+      "kode_instansi": "3528",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PAMEKASAN"
+    },
+    {
+      "kode_kab": "3529",
+      "kode_instansi": "3529",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMENEP"
+    },
+    {
+      "kode_kab": "3571",
+      "kode_instansi": "3571",
+      "unit_kerja": "DINAS KESEHATAN KOTA KEDIRI"
+    },
+    {
+      "kode_kab": "3572",
+      "kode_instansi": "3572",
+      "unit_kerja": "DINAS KESEHATAN KOTA BLITAR"
+    },
+    {
+      "kode_kab": "3573",
+      "kode_instansi": "3573",
+      "unit_kerja": "DINAS KESEHATAN KOTA MALANG"
+    },
+    {
+      "kode_kab": "3574",
+      "kode_instansi": "3574",
+      "unit_kerja": "DINAS KESEHATAN KOTA PROBOLINGGO"
+    },
+    {
+      "kode_kab": "3575",
+      "kode_instansi": "3575",
+      "unit_kerja": "DINAS KESEHATAN KOTA PASURUAN"
+    },
+    {
+      "kode_kab": "3576",
+      "kode_instansi": "3576",
+      "unit_kerja": "DINAS KESEHATAN KOTA MOJOKERTO"
+    },
+    {
+      "kode_kab": "3577",
+      "kode_instansi": "3577",
+      "unit_kerja": "DINAS KESEHATAN KOTA MADIUN"
+    },
+    {
+      "kode_kab": "3578",
+      "kode_instansi": "3578",
+      "unit_kerja": "DINAS KESEHATAN KOTA SURABAYA"
+    },
+    {
+      "kode_kab": "3579",
+      "kode_instansi": "3579",
+      "unit_kerja": "DINAS KESEHATAN KOTA BATU"
+    },
+    {
+      "kode_kab": "3673",
+      "kode_instansi": "36",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI BANTEN"
+    },
+    {
+      "kode_kab": "3601",
+      "kode_instansi": "3601",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PANDEGLANG"
+    },
+    {
+      "kode_kab": "3602",
+      "kode_instansi": "3602",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LEBAK"
+    },
+    {
+      "kode_kab": "3603",
+      "kode_instansi": "3603",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANGERANG"
+    },
+    {
+      "kode_kab": "3604",
+      "kode_instansi": "3604",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SERANG"
+    },
+    {
+      "kode_kab": "3671",
+      "kode_instansi": "3671",
+      "unit_kerja": "DINAS KESEHATAN KOTA TANGERANG"
+    },
+    {
+      "kode_kab": "3672",
+      "kode_instansi": "3672",
+      "unit_kerja": "DINAS KESEHATAN KOTA CILEGON"
+    },
+    {
+      "kode_kab": "3673",
+      "kode_instansi": "3673",
+      "unit_kerja": "DINAS KESEHATAN KOTA SERANG"
+    },
+    {
+      "kode_kab": "3674",
+      "kode_instansi": "3674",
+      "unit_kerja": "DINAS KESEHATAN KOTA TANGERANG SELATAN"
+    },
+    {
+      "kode_kab": "5171",
+      "kode_instansi": "51",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI BALI"
+    },
+    {
+      "kode_kab": "5101",
+      "kode_instansi": "5101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JEMBRANA"
+    },
+    {
+      "kode_kab": "5102",
+      "kode_instansi": "5102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TABANAN"
+    },
+    {
+      "kode_kab": "5103",
+      "kode_instansi": "5103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BADUNG"
+    },
+    {
+      "kode_kab": "5104",
+      "kode_instansi": "5104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GIANYAR"
+    },
+    {
+      "kode_kab": "5105",
+      "kode_instansi": "5105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KLUNGKUNG"
+    },
+    {
+      "kode_kab": "5106",
+      "kode_instansi": "5106",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGLI"
+    },
+    {
+      "kode_kab": "5107",
+      "kode_instansi": "5107",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KARANGASEM"
+    },
+    {
+      "kode_kab": "5108",
+      "kode_instansi": "5108",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BULELENG"
+    },
+    {
+      "kode_kab": "5171",
+      "kode_instansi": "5171",
+      "unit_kerja": "DINAS KESEHATAN KOTA DENPASAR"
+    },
+    {
+      "kode_kab": "5271",
+      "kode_instansi": "52",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI NUSA TENGGARA BARAT"
+    },
+    {
+      "kode_kab": "5201",
+      "kode_instansi": "5201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LOMBOK BARAT"
+    },
+    {
+      "kode_kab": "5202",
+      "kode_instansi": "5202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LOMBOK TENGAH"
+    },
+    {
+      "kode_kab": "5203",
+      "kode_instansi": "5203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LOMBOK TIMUR"
+    },
+    {
+      "kode_kab": "5204",
+      "kode_instansi": "5204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMBAWA"
+    },
+    {
+      "kode_kab": "5205",
+      "kode_instansi": "5205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DOMPU"
+    },
+    {
+      "kode_kab": "5206",
+      "kode_instansi": "5206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BIMA"
+    },
+    {
+      "kode_kab": "5207",
+      "kode_instansi": "5207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMBAWA BARAT"
+    },
+    {
+      "kode_kab": "5208",
+      "kode_instansi": "5208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LOMBOK UTARA"
+    },
+    {
+      "kode_kab": "5271",
+      "kode_instansi": "5271",
+      "unit_kerja": "DINAS KESEHATAN KOTA MATARAM"
+    },
+    {
+      "kode_kab": "5272",
+      "kode_instansi": "5272",
+      "unit_kerja": "DINAS KESEHATAN KOTA BIMA"
+    },
+    {
+      "kode_kab": "5371",
+      "kode_instansi": "53",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI NUSA TENGGARA TIMUR"
+    },
+    {
+      "kode_kab": "5301",
+      "kode_instansi": "5301",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUPANG"
+    },
+    {
+      "kode_kab": "5302",
+      "kode_instansi": "5302",
+      "unit_kerja": "DINAS KESEHATAN KAB TIMOR TENGAH SELATAN"
+    },
+    {
+      "kode_kab": "5303",
+      "kode_instansi": "5303",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TIMOR TENGAH UTARA"
+    },
+    {
+      "kode_kab": "5304",
+      "kode_instansi": "5304",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BELU"
+    },
+    {
+      "kode_kab": "5305",
+      "kode_instansi": "5305",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ALOR"
+    },
+    {
+      "kode_kab": "5306",
+      "kode_instansi": "5306",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN FLORES TIMUR"
+    },
+    {
+      "kode_kab": "5307",
+      "kode_instansi": "5307",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIKKA"
+    },
+    {
+      "kode_kab": "5308",
+      "kode_instansi": "5308",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ENDE"
+    },
+    {
+      "kode_kab": "5309",
+      "kode_instansi": "5309",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NGADA"
+    },
+    {
+      "kode_kab": "5310",
+      "kode_instansi": "5310",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MANGGARAI"
+    },
+    {
+      "kode_kab": "5311",
+      "kode_instansi": "5311",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMBA TIMUR"
+    },
+    {
+      "kode_kab": "5312",
+      "kode_instansi": "5312",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMBA BARAT"
+    },
+    {
+      "kode_kab": "5313",
+      "kode_instansi": "5313",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LEMBATA"
+    },
+    {
+      "kode_kab": "5314",
+      "kode_instansi": "5314",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ROTE NDAO"
+    },
+    {
+      "kode_kab": "5315",
+      "kode_instansi": "5315",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MANGGARAI BARAT"
+    },
+    {
+      "kode_kab": "5316",
+      "kode_instansi": "5316",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NAGEKEO"
+    },
+    {
+      "kode_kab": "5317",
+      "kode_instansi": "5317",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMBA TENGAH"
+    },
+    {
+      "kode_kab": "5318",
+      "kode_instansi": "5318",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUMBA BARAT DAYA"
+    },
+    {
+      "kode_kab": "5319",
+      "kode_instansi": "5319",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MANGGARAI TIMUR"
+    },
+    {
+      "kode_kab": "5320",
+      "kode_instansi": "5320",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SABU RAIJUA"
+    },
+    {
+      "kode_kab": "5321",
+      "kode_instansi": "5321",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MALAKA"
+    },
+    {
+      "kode_kab": "5371",
+      "kode_instansi": "5371",
+      "unit_kerja": "DINAS KESEHATAN KOTA KUPANG"
+    },
+    {
+      "kode_kab": "6171",
+      "kode_instansi": "61",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KALIMANTAN BARAT"
+    },
+    {
+      "kode_kab": "6101",
+      "kode_instansi": "6101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SAMBAS"
+    },
+    {
+      "kode_kab": "6102",
+      "kode_instansi": "6102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MEMPAWAH"
+    },
+    {
+      "kode_kab": "6103",
+      "kode_instansi": "6103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SANGGAU"
+    },
+    {
+      "kode_kab": "6104",
+      "kode_instansi": "6104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KETAPANG"
+    },
+    {
+      "kode_kab": "6105",
+      "kode_instansi": "6105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SINTANG"
+    },
+    {
+      "kode_kab": "6106",
+      "kode_instansi": "6106",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KAPUAS HULU"
+    },
+    {
+      "kode_kab": "6107",
+      "kode_instansi": "6107",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BENGKAYANG"
+    },
+    {
+      "kode_kab": "6108",
+      "kode_instansi": "6108",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LANDAK"
+    },
+    {
+      "kode_kab": "6109",
+      "kode_instansi": "6109",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SEKADAU"
+    },
+    {
+      "kode_kab": "6110",
+      "kode_instansi": "6110",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MELAWI"
+    },
+    {
+      "kode_kab": "6111",
+      "kode_instansi": "6111",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KAYONG UTARA"
+    },
+    {
+      "kode_kab": "6112",
+      "kode_instansi": "6112",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUBU RAYA"
+    },
+    {
+      "kode_kab": "6171",
+      "kode_instansi": "6171",
+      "unit_kerja": "DINAS KESEHATAN KOTA PONTIANAK"
+    },
+    {
+      "kode_kab": "6172",
+      "kode_instansi": "6172",
+      "unit_kerja": "DINAS KESEHATAN KOTA SINGKAWANG"
+    },
+    {
+      "kode_kab": "6271",
+      "kode_instansi": "62",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KALIMANTAN TENGAH"
+    },
+    {
+      "kode_kab": "6201",
+      "kode_instansi": "6201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KOTAWARINGIN BARAT"
+    },
+    {
+      "kode_kab": "6202",
+      "kode_instansi": "6202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KOTAWARINGIN TIMUR"
+    },
+    {
+      "kode_kab": "6203",
+      "kode_instansi": "6203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KAPUAS"
+    },
+    {
+      "kode_kab": "6204",
+      "kode_instansi": "6204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BARITO SELATAN"
+    },
+    {
+      "kode_kab": "6205",
+      "kode_instansi": "6205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BARITO UTARA"
+    },
+    {
+      "kode_kab": "6206",
+      "kode_instansi": "6206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KATINGAN"
+    },
+    {
+      "kode_kab": "6207",
+      "kode_instansi": "6207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SERUYAN"
+    },
+    {
+      "kode_kab": "6208",
+      "kode_instansi": "6208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUKAMARA"
+    },
+    {
+      "kode_kab": "6209",
+      "kode_instansi": "6209",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LAMANDAU"
+    },
+    {
+      "kode_kab": "6210",
+      "kode_instansi": "6210",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GUNUNG MAS"
+    },
+    {
+      "kode_kab": "6211",
+      "kode_instansi": "6211",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PULANG PISAU"
+    },
+    {
+      "kode_kab": "6212",
+      "kode_instansi": "6212",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MURUNG RAYA"
+    },
+    {
+      "kode_kab": "6213",
+      "kode_instansi": "6213",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BARITO TIMUR"
+    },
+    {
+      "kode_kab": "6271",
+      "kode_instansi": "6271",
+      "unit_kerja": "DINAS KESEHATAN KOTA PALANGKARAYA"
+    },
+    {
+      "kode_kab": "6371",
+      "kode_instansi": "63",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KALIMANTAN SELATAN"
+    },
+    {
+      "kode_kab": "6301",
+      "kode_instansi": "6301",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANAH LAUT"
+    },
+    {
+      "kode_kab": "6302",
+      "kode_instansi": "6302",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KOTABARU"
+    },
+    {
+      "kode_kab": "6303",
+      "kode_instansi": "6303",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANJAR"
+    },
+    {
+      "kode_kab": "6304",
+      "kode_instansi": "6304",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BARITO KUALA"
+    },
+    {
+      "kode_kab": "6305",
+      "kode_instansi": "6305",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TAPIN"
+    },
+    {
+      "kode_kab": "6306",
+      "kode_instansi": "6306",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HULU SUNGAI SELATAN"
+    },
+    {
+      "kode_kab": "6307",
+      "kode_instansi": "6307",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HULU SUNGAI TENGAH"
+    },
+    {
+      "kode_kab": "6308",
+      "kode_instansi": "6308",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HULU SUNGAI UTARA"
+    },
+    {
+      "kode_kab": "6309",
+      "kode_instansi": "6309",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TABALONG"
+    },
+    {
+      "kode_kab": "6310",
+      "kode_instansi": "6310",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANAH BUMBU"
+    },
+    {
+      "kode_kab": "6311",
+      "kode_instansi": "6311",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BALANGAN"
+    },
+    {
+      "kode_kab": "6371",
+      "kode_instansi": "6371",
+      "unit_kerja": "DINAS KESEHATAN KOTA BANJARMASIN"
+    },
+    {
+      "kode_kab": "6372",
+      "kode_instansi": "6372",
+      "unit_kerja": "DINAS KESEHATAN KOTA BANJARBARU"
+    },
+    {
+      "kode_kab": "6472",
+      "kode_instansi": "64",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KALIMANTAN TIMUR"
+    },
+    {
+      "kode_kab": "6401",
+      "kode_instansi": "6401",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PASER"
+    },
+    {
+      "kode_kab": "6402",
+      "kode_instansi": "6402",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUTAI KARTANEGARA"
+    },
+    {
+      "kode_kab": "6403",
+      "kode_instansi": "6403",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BERAU"
+    },
+    {
+      "kode_kab": "6407",
+      "kode_instansi": "6407",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUTAI BARAT"
+    },
+    {
+      "kode_kab": "6408",
+      "kode_instansi": "6408",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KUTAI TIMUR"
+    },
+    {
+      "kode_kab": "6409",
+      "kode_instansi": "6409",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PENAJAM PASER UTARA"
+    },
+    {
+      "kode_kab": "6411",
+      "kode_instansi": "6411",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAHAKAM ULU"
+    },
+    {
+      "kode_kab": "6471",
+      "kode_instansi": "6471",
+      "unit_kerja": "DINAS KESEHATAN KOTA BALIKPAPAN"
+    },
+    {
+      "kode_kab": "6472",
+      "kode_instansi": "6472",
+      "unit_kerja": "DINAS KESEHATAN KOTA SAMARINDA"
+    },
+    {
+      "kode_kab": "6474",
+      "kode_instansi": "6474",
+      "unit_kerja": "DINAS KESEHATAN KOTA BONTANG"
+    },
+    {
+      "kode_kab": "6501",
+      "kode_instansi": "65",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI KALIMANTAN UTARA"
+    },
+    {
+      "kode_kab": "6501",
+      "kode_instansi": "6501",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BULUNGAN"
+    },
+    {
+      "kode_kab": "6502",
+      "kode_instansi": "6502",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MALINAU"
+    },
+    {
+      "kode_kab": "6503",
+      "kode_instansi": "6503",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NUNUKAN"
+    },
+    {
+      "kode_kab": "6504",
+      "kode_instansi": "6504",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANA TIDUNG"
+    },
+    {
+      "kode_kab": "6571",
+      "kode_instansi": "6571",
+      "unit_kerja": "DINAS KESEHATAN KOTA TARAKAN"
+    },
+    {
+      "kode_kab": "7171",
+      "kode_instansi": "71",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SULAWESI UTARA"
+    },
+    {
+      "kode_kab": "7101",
+      "kode_instansi": "7101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOLAANG MONGONDOW"
+    },
+    {
+      "kode_kab": "7102",
+      "kode_instansi": "7102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MINAHASA"
+    },
+    {
+      "kode_kab": "7103",
+      "kode_instansi": "7103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN SANGIHE"
+    },
+    {
+      "kode_kab": "7104",
+      "kode_instansi": "7104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN TALAUD"
+    },
+    {
+      "kode_kab": "7105",
+      "kode_instansi": "7105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MINAHASA SELATAN"
+    },
+    {
+      "kode_kab": "7106",
+      "kode_instansi": "7106",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MINAHASA UTARA"
+    },
+    {
+      "kode_kab": "7107",
+      "kode_instansi": "7107",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MINAHASA TENGGARA"
+    },
+    {
+      "kode_kab": "7108",
+      "kode_instansi": "7108",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOLAANG MONGONDOW UTARA"
+    },
+    {
+      "kode_kab": "7109",
+      "kode_instansi": "7109",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN SIAU TAGULANDANG BIARO"
+    },
+    {
+      "kode_kab": "7110",
+      "kode_instansi": "7110",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOLAANG MONGONDOW TIMUR"
+    },
+    {
+      "kode_kab": "7111",
+      "kode_instansi": "7111",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOLAANG MONGONDOW SELATAN"
+    },
+    {
+      "kode_kab": "7171",
+      "kode_instansi": "7171",
+      "unit_kerja": "DINAS KESEHATAN KOTA MANADO"
+    },
+    {
+      "kode_kab": "7172",
+      "kode_instansi": "7172",
+      "unit_kerja": "DINAS KESEHATAN KOTA BITUNG"
+    },
+    {
+      "kode_kab": "7173",
+      "kode_instansi": "7173",
+      "unit_kerja": "DINAS KESEHATAN KOTA TOMOHON"
+    },
+    {
+      "kode_kab": "7174",
+      "kode_instansi": "7174",
+      "unit_kerja": "DINAS KESEHATAN KOTA KOTAMOBAGU"
+    },
+    {
+      "kode_kab": "7271",
+      "kode_instansi": "72",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SULAWESI TENGAH"
+    },
+    {
+      "kode_kab": "7201",
+      "kode_instansi": "7201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGGAI"
+    },
+    {
+      "kode_kab": "7202",
+      "kode_instansi": "7202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN POSO"
+    },
+    {
+      "kode_kab": "7203",
+      "kode_instansi": "7203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DONGGALA"
+    },
+    {
+      "kode_kab": "7204",
+      "kode_instansi": "7204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TOLI TOLI"
+    },
+    {
+      "kode_kab": "7205",
+      "kode_instansi": "7205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BUOL"
+    },
+    {
+      "kode_kab": "7206",
+      "kode_instansi": "7206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MOROWALI"
+    },
+    {
+      "kode_kab": "7207",
+      "kode_instansi": "7207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGGAI KEPULAUAN"
+    },
+    {
+      "kode_kab": "7208",
+      "kode_instansi": "7208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PARIGI MOUTONG"
+    },
+    {
+      "kode_kab": "7209",
+      "kode_instansi": "7209",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TOJO UNA UNA"
+    },
+    {
+      "kode_kab": "7210",
+      "kode_instansi": "7210",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIGI"
+    },
+    {
+      "kode_kab": "7211",
+      "kode_instansi": "7211",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANGGAI LAUT"
+    },
+    {
+      "kode_kab": "7212",
+      "kode_instansi": "7212",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MOROWALI UTARA"
+    },
+    {
+      "kode_kab": "7271",
+      "kode_instansi": "7271",
+      "unit_kerja": "DINAS KESEHATAN KOTA PALU"
+    },
+    {
+      "kode_kab": "7371",
+      "kode_instansi": "73",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SULAWESI SELATAN"
+    },
+    {
+      "kode_kab": "7301",
+      "kode_instansi": "7301",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN SELAYAR"
+    },
+    {
+      "kode_kab": "7302",
+      "kode_instansi": "7302",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BULUKUMBA"
+    },
+    {
+      "kode_kab": "7303",
+      "kode_instansi": "7303",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BANTAENG"
+    },
+    {
+      "kode_kab": "7304",
+      "kode_instansi": "7304",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JENEPONTO"
+    },
+    {
+      "kode_kab": "7305",
+      "kode_instansi": "7305",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TAKALAR"
+    },
+    {
+      "kode_kab": "7306",
+      "kode_instansi": "7306",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GOWA"
+    },
+    {
+      "kode_kab": "7307",
+      "kode_instansi": "7307",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SINJAI"
+    },
+    {
+      "kode_kab": "7308",
+      "kode_instansi": "7308",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BONE"
+    },
+    {
+      "kode_kab": "7309",
+      "kode_instansi": "7309",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAROS"
+    },
+    {
+      "kode_kab": "7310",
+      "kode_instansi": "7310",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PANGKAJENE KEPULAUAN"
+    },
+    {
+      "kode_kab": "7311",
+      "kode_instansi": "7311",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BARRU"
+    },
+    {
+      "kode_kab": "7312",
+      "kode_instansi": "7312",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SOPPENG"
+    },
+    {
+      "kode_kab": "7313",
+      "kode_instansi": "7313",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN WAJO"
+    },
+    {
+      "kode_kab": "7314",
+      "kode_instansi": "7314",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SIDENRENG RAPPANG"
+    },
+    {
+      "kode_kab": "7315",
+      "kode_instansi": "7315",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PINRANG"
+    },
+    {
+      "kode_kab": "7316",
+      "kode_instansi": "7316",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ENREKANG"
+    },
+    {
+      "kode_kab": "7317",
+      "kode_instansi": "7317",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LUWU"
+    },
+    {
+      "kode_kab": "7318",
+      "kode_instansi": "7318",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TANA TORAJA"
+    },
+    {
+      "kode_kab": "7322",
+      "kode_instansi": "7322",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LUWU UTARA"
+    },
+    {
+      "kode_kab": "7324",
+      "kode_instansi": "7324",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LUWU TIMUR"
+    },
+    {
+      "kode_kab": "7326",
+      "kode_instansi": "7326",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TORAJA UTARA"
+    },
+    {
+      "kode_kab": "7371",
+      "kode_instansi": "7371",
+      "unit_kerja": "DINAS KESEHATAN KOTA MAKASSAR"
+    },
+    {
+      "kode_kab": "7372",
+      "kode_instansi": "7372",
+      "unit_kerja": "DINAS KESEHATAN KOTA PARE PARE"
+    },
+    {
+      "kode_kab": "7373",
+      "kode_instansi": "7373",
+      "unit_kerja": "DINAS KESEHATAN KOTA PALOPO"
+    },
+    {
+      "kode_kab": "7471",
+      "kode_instansi": "74",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SULAWESI TENGGARA"
+    },
+    {
+      "kode_kab": "7401",
+      "kode_instansi": "7401",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KOLAKA"
+    },
+    {
+      "kode_kab": "7402",
+      "kode_instansi": "7402",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KONAWE"
+    },
+    {
+      "kode_kab": "7403",
+      "kode_instansi": "7403",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUNA"
+    },
+    {
+      "kode_kab": "7404",
+      "kode_instansi": "7404",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BUTON"
+    },
+    {
+      "kode_kab": "7405",
+      "kode_instansi": "7405",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KONAWE SELATAN"
+    },
+    {
+      "kode_kab": "7406",
+      "kode_instansi": "7406",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOMBANA"
+    },
+    {
+      "kode_kab": "7407",
+      "kode_instansi": "7407",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN WAKATOBI"
+    },
+    {
+      "kode_kab": "7408",
+      "kode_instansi": "7408",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KOLAKA UTARA"
+    },
+    {
+      "kode_kab": "7409",
+      "kode_instansi": "7409",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KONAWE UTARA"
+    },
+    {
+      "kode_kab": "7410",
+      "kode_instansi": "7410",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BUTON UTARA"
+    },
+    {
+      "kode_kab": "7411",
+      "kode_instansi": "7411",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KOLAKA TIMUR"
+    },
+    {
+      "kode_kab": "7412",
+      "kode_instansi": "7412",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KONAWE KEPULAUAN"
+    },
+    {
+      "kode_kab": "7413",
+      "kode_instansi": "7413",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MUNA BARAT"
+    },
+    {
+      "kode_kab": "7414",
+      "kode_instansi": "7414",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BUTON TENGAH"
+    },
+    {
+      "kode_kab": "7415",
+      "kode_instansi": "7415",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BUTON SELATAN"
+    },
+    {
+      "kode_kab": "7471",
+      "kode_instansi": "7471",
+      "unit_kerja": "DINAS KESEHATAN KOTA KENDARI"
+    },
+    {
+      "kode_kab": "7472",
+      "kode_instansi": "7472",
+      "unit_kerja": "DINAS KESEHATAN KOTA BAU BAU"
+    },
+    {
+      "kode_kab": "7571",
+      "kode_instansi": "75",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI GORONTALO"
+    },
+    {
+      "kode_kab": "7501",
+      "kode_instansi": "7501",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GORONTALO"
+    },
+    {
+      "kode_kab": "7502",
+      "kode_instansi": "7502",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOALEMO"
+    },
+    {
+      "kode_kab": "7503",
+      "kode_instansi": "7503",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BONE BOLANGO"
+    },
+    {
+      "kode_kab": "7504",
+      "kode_instansi": "7504",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PAHUWATO"
+    },
+    {
+      "kode_kab": "7505",
+      "kode_instansi": "7505",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN GORONTALO UTARA"
+    },
+    {
+      "kode_kab": "7571",
+      "kode_instansi": "7571",
+      "unit_kerja": "DINAS KESEHATAN KOTA GORONTALO"
+    },
+    {
+      "kode_kab": "7602",
+      "kode_instansi": "76",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI SULAWESI BARAT"
+    },
+    {
+      "kode_kab": "7601",
+      "kode_instansi": "7601",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PASANGKAYU"
+    },
+    {
+      "kode_kab": "7602",
+      "kode_instansi": "7602",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAMUJU"
+    },
+    {
+      "kode_kab": "7603",
+      "kode_instansi": "7603",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAMASA"
+    },
+    {
+      "kode_kab": "7604",
+      "kode_instansi": "7604",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN POLEWALI MANDAR"
+    },
+    {
+      "kode_kab": "7605",
+      "kode_instansi": "7605",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAJENE"
+    },
+    {
+      "kode_kab": "7606",
+      "kode_instansi": "7606",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAMUJU TENGAH"
+    },
+    {
+      "kode_kab": "8171",
+      "kode_instansi": "81",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI MALUKU"
+    },
+    {
+      "kode_kab": "8101",
+      "kode_instansi": "8101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MALUKU TENGAH"
+    },
+    {
+      "kode_kab": "8102",
+      "kode_instansi": "8102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MALUKU TENGGARA"
+    },
+    {
+      "kode_kab": "8103",
+      "kode_instansi": "8103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN TANIMBAR"
+    },
+    {
+      "kode_kab": "8104",
+      "kode_instansi": "8104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BURU"
+    },
+    {
+      "kode_kab": "8105",
+      "kode_instansi": "8105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SERAM BAGIAN TIMUR"
+    },
+    {
+      "kode_kab": "8106",
+      "kode_instansi": "8106",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SERAM BAGIAN BARAT"
+    },
+    {
+      "kode_kab": "8107",
+      "kode_instansi": "8107",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN ARU"
+    },
+    {
+      "kode_kab": "8108",
+      "kode_instansi": "8108",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MALUKU BARAT DAYA"
+    },
+    {
+      "kode_kab": "8109",
+      "kode_instansi": "8109",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BURU SELATAN"
+    },
+    {
+      "kode_kab": "8171",
+      "kode_instansi": "8171",
+      "unit_kerja": "DINAS KESEHATAN KOTA AMBON"
+    },
+    {
+      "kode_kab": "8172",
+      "kode_instansi": "8172",
+      "unit_kerja": "DINAS KESEHATAN KOTA TUAL"
+    },
+    {
+      "kode_kab": "8272",
+      "kode_instansi": "82",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI MALUKU UTARA"
+    },
+    {
+      "kode_kab": "8201",
+      "kode_instansi": "8201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HALMAHERA BARAT"
+    },
+    {
+      "kode_kab": "8202",
+      "kode_instansi": "8202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HALMAHERA TENGAH"
+    },
+    {
+      "kode_kab": "8203",
+      "kode_instansi": "8203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HALMAHERA UTARA"
+    },
+    {
+      "kode_kab": "8204",
+      "kode_instansi": "8204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HALMAHERA SELATAN"
+    },
+    {
+      "kode_kab": "8205",
+      "kode_instansi": "8205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN SULA"
+    },
+    {
+      "kode_kab": "8206",
+      "kode_instansi": "8206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN HALMAHERA TIMUR"
+    },
+    {
+      "kode_kab": "8207",
+      "kode_instansi": "8207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PULAU MOROTAI"
+    },
+    {
+      "kode_kab": "8208",
+      "kode_instansi": "8208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PULAU TALIABU"
+    },
+    {
+      "kode_kab": "8271",
+      "kode_instansi": "8271",
+      "unit_kerja": "DINAS KESEHATAN KOTA TERNATE"
+    },
+    {
+      "kode_kab": "8272",
+      "kode_instansi": "8272",
+      "unit_kerja": "DINAS KESEHATAN KOTA TIDORE KEPULAUAN"
+    },
+    {
+      "kode_kab": "9171",
+      "kode_instansi": "91",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI PAPUA"
+    },
+    {
+      "kode_kab": "9101",
+      "kode_instansi": "9101",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MERAUKE"
+    },
+    {
+      "kode_kab": "9102",
+      "kode_instansi": "9102",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JAYAWIJAYA"
+    },
+    {
+      "kode_kab": "9103",
+      "kode_instansi": "9103",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN JAYAPURA"
+    },
+    {
+      "kode_kab": "9104",
+      "kode_instansi": "9104",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NABIRE"
+    },
+    {
+      "kode_kab": "9105",
+      "kode_instansi": "9105",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEPULAUAN YAPEN"
+    },
+    {
+      "kode_kab": "9106",
+      "kode_instansi": "9106",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BIAK NUMFOR"
+    },
+    {
+      "kode_kab": "9107",
+      "kode_instansi": "9107",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PUNCAK JAYA"
+    },
+    {
+      "kode_kab": "9108",
+      "kode_instansi": "9108",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PANIAI"
+    },
+    {
+      "kode_kab": "9109",
+      "kode_instansi": "9109",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MIMIKA"
+    },
+    {
+      "kode_kab": "9110",
+      "kode_instansi": "9110",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SARMI"
+    },
+    {
+      "kode_kab": "9111",
+      "kode_instansi": "9111",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KEEROM"
+    },
+    {
+      "kode_kab": "9112",
+      "kode_instansi": "9112",
+      "unit_kerja": "DINAS KESEHATAN KAB PEGUNUNGAN BINTANG"
+    },
+    {
+      "kode_kab": "9113",
+      "kode_instansi": "9113",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN YAHUKIMO"
+    },
+    {
+      "kode_kab": "9114",
+      "kode_instansi": "9114",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TOLIKARA"
+    },
+    {
+      "kode_kab": "9115",
+      "kode_instansi": "9115",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN WAROPEN"
+    },
+    {
+      "kode_kab": "9116",
+      "kode_instansi": "9116",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN BOVEN DIGOEL"
+    },
+    {
+      "kode_kab": "9117",
+      "kode_instansi": "9117",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAPPI"
+    },
+    {
+      "kode_kab": "9118",
+      "kode_instansi": "9118",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN ASMAT"
+    },
+    {
+      "kode_kab": "9119",
+      "kode_instansi": "9119",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SUPIORI"
+    },
+    {
+      "kode_kab": "9120",
+      "kode_instansi": "9120",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAMBERAMO RAYA"
+    },
+    {
+      "kode_kab": "9121",
+      "kode_instansi": "9121",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAMBERAMO TENGAH"
+    },
+    {
+      "kode_kab": "9122",
+      "kode_instansi": "9122",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN YALIMO"
+    },
+    {
+      "kode_kab": "9123",
+      "kode_instansi": "9123",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN LANNY JAYA"
+    },
+    {
+      "kode_kab": "9124",
+      "kode_instansi": "9124",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN NDUGA"
+    },
+    {
+      "kode_kab": "9125",
+      "kode_instansi": "9125",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PUNCAK"
+    },
+    {
+      "kode_kab": "9126",
+      "kode_instansi": "9126",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DOGIYAI"
+    },
+    {
+      "kode_kab": "9127",
+      "kode_instansi": "9127",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN INTAN JAYA"
+    },
+    {
+      "kode_kab": "9128",
+      "kode_instansi": "9128",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN DEIYAI"
+    },
+    {
+      "kode_kab": "9171",
+      "kode_instansi": "9171",
+      "unit_kerja": "DINAS KESEHATAN KOTA JAYAPURA"
+    },
+    {
+      "kode_kab": "9202",
+      "kode_instansi": "92",
+      "unit_kerja": "DINAS KESEHATAN PROVINSI PAPUA BARAT"
+    },
+    {
+      "kode_kab": "9201",
+      "kode_instansi": "9201",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SORONG"
+    },
+    {
+      "kode_kab": "9202",
+      "kode_instansi": "9202",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MANOKWARI"
+    },
+    {
+      "kode_kab": "9203",
+      "kode_instansi": "9203",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN FAK FAK"
+    },
+    {
+      "kode_kab": "9204",
+      "kode_instansi": "9204",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN SORONG SELATAN"
+    },
+    {
+      "kode_kab": "9205",
+      "kode_instansi": "9205",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN RAJA AMPAT"
+    },
+    {
+      "kode_kab": "9206",
+      "kode_instansi": "9206",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TELUK BINTUNI"
+    },
+    {
+      "kode_kab": "9207",
+      "kode_instansi": "9207",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TELUK WONDAMA"
+    },
+    {
+      "kode_kab": "9208",
+      "kode_instansi": "9208",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN KAIMANA"
+    },
+    {
+      "kode_kab": "9209",
+      "kode_instansi": "9209",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN TAMBRAUW"
+    },
+    {
+      "kode_kab": "9210",
+      "kode_instansi": "9210",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MAYBRAT"
+    },
+    {
+      "kode_kab": "9211",
+      "kode_instansi": "9211",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN MANOKWARI SELATAN"
+    },
+    {
+      "kode_kab": "9212",
+      "kode_instansi": "9212",
+      "unit_kerja": "DINAS KESEHATAN KABUPATEN PEGUNUNGAN ARFAK"
+    },
+    {
+      "kode_kab": "9271",
+      "kode_instansi": "9271",
+      "unit_kerja": "DINAS KESEHATAN KOTA SORONG"
+    }
+  ],
+  "meta": {
+    "title": "Id Dinas Kesehatan - Unduh Gratis",
+    "description": "Daftar Dinas Kesehatan di seluruh Indonesia Berisi 548 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Id Dinas Kesehatan | ListBase",
+    "seo_description": "Unduh Id Dinas Kesehatan — 548 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 548 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

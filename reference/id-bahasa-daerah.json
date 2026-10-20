@@ -1,0 +1,786 @@
+{
+  "id": "id-bahasa-daerah",
+  "name": "Bahasa Daerah Indonesia per Provinsi",
+  "title": "Bahasa Daerah Indonesia per Provinsi",
+  "description": "Bahasa daerah yang dituturkan di tiap provinsi di Indonesia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Aceh",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Gayo",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Aneuk Jamee",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Singkil",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Alas",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Tamiang",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Kluet",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Devayan",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Sigulai",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Pakpak",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Haloban",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Lekon",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Nias",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "batak",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "karo",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "angkola",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "nias",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Pakpak",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Simalungun",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Mandailing",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Minangkabau",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Melayu",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Minangkabau",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Melayu",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Minangkabau",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Melayu",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Kerinci",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Minangkabau",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Melayu",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Banjar",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Sunda",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Bugis",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Rejang",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Melayu Bengkulu",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Serawai",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Pasemah",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Kaur",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Enggano",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Lampung",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Sunda",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Bali",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Melayu Bangka",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Melayu Belitung",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Tionghoa",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Melayu Riau",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Hokkien",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Betawi",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Tionghoa",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Sunda",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Minangkabau",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Batak",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Inggris",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Sunda",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Cirebonan",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Cirebon dialek Indramayu",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Melayu dialek Betawi",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Sunda",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Tiochiu",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Mandarin",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Madura",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Osing",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Sunda",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Jawa Banten",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Betawi",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Bali",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Jawa",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Sasak",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Madura",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Sasak",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Dayak",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Melayu",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Tionghoa",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "Banjar",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Dayak",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "Banjar",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Bakumpai",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Bukit",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Dusun Deyah",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Maanyan,",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Indonesia",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "Banjar",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Dayak",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Kutai",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Pamona",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Mori",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Kaili",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Makasar",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Bugis",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Toraja",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Mandar",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Luwu",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sulaeesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Suwawa",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Atinggola",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Mandar",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Bugis",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Toraja",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Makassar",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Dialek Melayu Ambon",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Tulehu",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Kai",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Banda",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Seith",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Yamdena",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Kisar",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Dammar",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Paulohy",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Dawera-Daweloor",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Makassar",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Melayu Maluku Utara",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "24 Bahasa Daerah",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "268 Bahasa Daerah",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "indonesia",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    }
+  ],
+  "meta": {
+    "title": "Bahasa Daerah Indonesia per Provinsi - Unduh Gratis",
+    "description": "Bahasa daerah yang dituturkan di tiap provinsi di Indonesia. Berisi 149 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bahasa Daerah Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Bahasa Daerah Indonesia per Provinsi — 149 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 149 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

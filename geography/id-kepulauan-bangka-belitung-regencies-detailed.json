@@ -1,0 +1,160 @@
+{
+  "id": "id-kepulauan-bangka-belitung-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Kepulauan Bangka Belitung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Kepulauan Bangka Belitung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "7 kabupaten/kota di Provinsi Kepulauan Bangka Belitung dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "19.01",
+      "name": "Kabupaten Bangka",
+      "type": "kabupaten",
+      "capital": "Sungai Liat",
+      "latitude": -1.887311,
+      "longitude": 106.104827,
+      "elevation_m": 26,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3011.435,
+      "population": 337755
+    },
+    {
+      "code": "19.02",
+      "name": "Kabupaten Belitung",
+      "type": "kabupaten",
+      "capital": "Tanjung Pandan",
+      "latitude": -2.742308,
+      "longitude": 107.654315,
+      "elevation_m": 37,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2266.107,
+      "population": 192405
+    },
+    {
+      "code": "19.03",
+      "name": "Kabupaten Bangka Selatan",
+      "type": "kabupaten",
+      "capital": "Toboali",
+      "latitude": -3.019747,
+      "longitude": 106.511747,
+      "elevation_m": 31,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3595.446,
+      "population": 216079
+    },
+    {
+      "code": "19.04",
+      "name": "Kabupaten Bangka Tengah",
+      "type": "kabupaten",
+      "capital": "Koba",
+      "latitude": -2.515349,
+      "longitude": 106.415894,
+      "elevation_m": 20,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2253.854,
+      "population": 210684
+    },
+    {
+      "code": "19.05",
+      "name": "Kabupaten Bangka Barat",
+      "type": "kabupaten",
+      "capital": "Muntok",
+      "latitude": -2.05861,
+      "longitude": 105.201381,
+      "elevation_m": 37,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2853.411,
+      "population": 217859
+    },
+    {
+      "code": "19.06",
+      "name": "Kabupaten Belitung Timur",
+      "type": "kabupaten",
+      "capital": "Manggar",
+      "latitude": -2.883346,
+      "longitude": 108.239304,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2585.734,
+      "population": 132495
+    },
+    {
+      "code": "19.71",
+      "name": "Kota Pangkal Pinang",
+      "type": "kota",
+      "capital": "Pangkalpinang",
+      "latitude": -2.140979,
+      "longitude": 106.115914,
+      "elevation_m": 15,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 104.238,
+      "population": 242285
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Kepulauan Bangka Belitung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "7 kabupaten/kota di Provinsi Kepulauan Bangka Belitung dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Kepulauan Bangka Belitung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Kepulauan Bangka Belitung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

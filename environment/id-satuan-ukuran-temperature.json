@@ -1,0 +1,106 @@
+{
+  "id": "id-satuan-ukuran-temperature",
+  "name": "Satuan ukuran — kategori 'temperature' (5)",
+  "title": "Satuan ukuran — kategori 'temperature' (5)",
+  "description": "Satuan ukuran kategori 'temperature' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategori": "temperature",
+      "nama": "derajat Celsius",
+      "singkatan": "°C",
+      "bentuk_sempit": "°C",
+      "pola": "{0} derajat Celsius"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategori": "temperature",
+      "nama": "derajat Fahrenheit",
+      "singkatan": "°F",
+      "bentuk_sempit": "°F",
+      "pola": "{0} derajat Fahrenheit"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategori": "temperature",
+      "nama": "°",
+      "singkatan": "°",
+      "bentuk_sempit": "°",
+      "pola": "{0}°"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategori": "temperature",
+      "nama": "kelvin",
+      "singkatan": "K",
+      "bentuk_sempit": "K",
+      "pola": "{0} kelvin"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategori": "temperature",
+      "nama": "°R",
+      "singkatan": "°R",
+      "bentuk_sempit": "°R",
+      "pola": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'temperature' (5) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'temperature' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'temperature' (5) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'temperature' (5) — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

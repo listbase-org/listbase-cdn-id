@@ -1,0 +1,203 @@
+{
+  "id": "id-central-java-airports",
+  "name": "Bandar Udara — Central Java",
+  "title": "Bandar Udara — Central Java",
+  "description": "Bandar udara di Provinsi Central Java, Indonesia (Airports in Central Java Province, Indonesia — 6 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAHS",
+      "iata": "SRG",
+      "name_en": "Achmad Yani International Airport",
+      "name_slug": "achmad-yani-international-airport",
+      "city_en": "Semarang",
+      "city_slug": "semarang",
+      "province_en": "Central Java",
+      "province_slug": "central-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 22,
+      "lat": -6.979155,
+      "lon": 110.37855,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WAHQ",
+      "iata": "SOC",
+      "name_en": "Adi Sumarmo International Airport",
+      "name_slug": "adi-sumarmo-international-airport",
+      "city_en": "Colomadu",
+      "city_slug": "colomadu",
+      "province_en": "Central Java",
+      "province_slug": "central-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 367,
+      "lat": -7.51583,
+      "lon": 110.75667,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WARC",
+      "iata": "CPF",
+      "name_en": "Cepu",
+      "name_slug": "cepu",
+      "city_en": "Cepu",
+      "city_slug": "cepu",
+      "province_en": "Central Java",
+      "province_slug": "central-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 88,
+      "lat": -7.15,
+      "lon": 111.583336,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WICP",
+      "iata": "PWL",
+      "name_en": "Purwokerto",
+      "name_slug": "purwokerto",
+      "city_en": "Tipar",
+      "city_slug": "tipar",
+      "province_en": "Central Java",
+      "province_slug": "central-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 242,
+      "lat": -7.466667,
+      "lon": 109.15,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "NKD",
+      "name_en": "Sinak",
+      "name_slug": "sinak",
+      "city_en": "Batang",
+      "city_slug": "batang",
+      "province_en": "Central Java",
+      "province_slug": "central-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 505,
+      "lat": -5.85,
+      "lon": 110.46667,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WIHL",
+      "iata": "CXP",
+      "name_en": "Tunggul Wulung",
+      "name_slug": "tunggul-wulung",
+      "city_en": "Karangbadar Kidul",
+      "city_slug": "karangbadar-kidul",
+      "province_en": "Central Java",
+      "province_slug": "central-java",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 32,
+      "lat": -7.733333,
+      "lon": 109,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Central Java - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Central Java, Indonesia (Airports in Central Java Province, Indonesia — 6 record(s).) Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Central Java | ListBase",
+    "seo_description": "Unduh Bandar Udara — Central Java — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

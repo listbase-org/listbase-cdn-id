@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "Dataset Sistem Satuan Internasional (Satuan SI)",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "meter",
+      "symbol": "m",
+      "quantity": "panjang",
+      "type": "Base Unit",
+      "definition": "Jarak yang ditempuh cahaya dalam 1/299.792.458 detik",
+      "dimension": "L"
+    },
+    {
+      "name": "kilogram",
+      "symbol": "kg",
+      "quantity": "massa",
+      "type": "Base Unit",
+      "definition": "Didefinisikan oleh konstanta Planck h = 6.62607015×10⁻³⁴ J·s",
+      "dimension": "M"
+    },
+    {
+      "name": "detik",
+      "symbol": "s",
+      "quantity": "waktu",
+      "type": "Base Unit",
+      "definition": "9.192.631.770 periode radiasi sesium-133",
+      "dimension": "T"
+    },
+    {
+      "name": "ampere",
+      "symbol": "A",
+      "quantity": "arus listrik",
+      "type": "Base Unit",
+      "definition": "Didefinisikan oleh muatan elementer e = 1.602176634×10⁻¹⁹ C",
+      "dimension": "I"
+    },
+    {
+      "name": "kelvin",
+      "symbol": "K",
+      "quantity": "suhu termodinamika",
+      "type": "Base Unit",
+      "definition": "Didefinisikan oleh konstanta Boltzmann k = 1.380649×10⁻²³ J/K",
+      "dimension": "Θ"
+    },
+    {
+      "name": "mol",
+      "symbol": "mol",
+      "quantity": "jumlah zat",
+      "type": "Base Unit",
+      "definition": "Tepat 6.02214076×10²³ entitas elementer",
+      "dimension": "N"
+    },
+    {
+      "name": "kandela",
+      "symbol": "cd",
+      "quantity": "intensitas cahaya",
+      "type": "Base Unit",
+      "definition": "Efisiensi cahaya Kcd = 683 lm/W pada 540 THz",
+      "dimension": "J"
+    },
+    {
+      "name": "hertz",
+      "symbol": "Hz",
+      "quantity": "frekuensi",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "newton",
+      "symbol": "N",
+      "quantity": "gaya",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "pascal",
+      "symbol": "Pa",
+      "quantity": "tekanan, tegangan",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "joule",
+      "symbol": "J",
+      "quantity": "energi, usaha, panas",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "watt",
+      "symbol": "W",
+      "quantity": "daya, fluks radiasi",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "coulomb",
+      "symbol": "C",
+      "quantity": "muatan listrik",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "volt",
+      "symbol": "V",
+      "quantity": "potensial listrik",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "kapasitansi",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "ohm",
+      "symbol": "Ω",
+      "quantity": "hambatan listrik",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "siemens",
+      "symbol": "S",
+      "quantity": "konduktansi listrik",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "fluks magnetik",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "kerapatan fluks magnetik",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "henry",
+      "symbol": "H",
+      "quantity": "induktansi",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "derajat Celsius",
+      "symbol": "°C",
+      "quantity": "suhu",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "lumen",
+      "symbol": "lm",
+      "quantity": "fluks cahaya",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "lux",
+      "symbol": "lx",
+      "quantity": "iluminansi",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "becquerel",
+      "symbol": "Bq",
+      "quantity": "radioaktivitas",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (peluruhan per detik)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "gray",
+      "symbol": "Gy",
+      "quantity": "dosis serap",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "sievert",
+      "symbol": "Sv",
+      "quantity": "dosis ekuivalen",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "katal",
+      "symbol": "kat",
+      "quantity": "aktivitas katalitik",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "radian",
+      "symbol": "rad",
+      "quantity": "sudut bidang",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (nirmatra)",
+      "dimension": "1"
+    },
+    {
+      "name": "steradian",
+      "symbol": "sr",
+      "quantity": "sudut padat",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (nirmatra)",
+      "dimension": "1"
+    },
+    {
+      "name": "kueta",
+      "symbol": "Q",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "ronna",
+      "symbol": "R",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "yotta",
+      "symbol": "Y",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "zetta",
+      "symbol": "Z",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "eksa",
+      "symbol": "E",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "peta",
+      "symbol": "P",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "tera",
+      "symbol": "T",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "giga",
+      "symbol": "G",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "mega",
+      "symbol": "M",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "kilo",
+      "symbol": "k",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "hekto",
+      "symbol": "h",
+      "quantity": "awalan SI",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "Awalan SI",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Satuan SI & Definisi - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh 53 Satuan SI dengan definisi, simbol, dan dimensi secara gratis. Tersedia dalam format Excel, CSV, dan PDF untuk sains, pendidikan, dan pengembangan.",
+    "title": "Dataset Sistem Satuan Internasional (Satuan SI)",
+    "description": "Dataset komprehensif ini berisi 53 satuan SI dasar dan turunan, termasuk nama, simbol, kuantitas, jenis, definisi, dan dimensinya. Ini adalah sumber daya penting untuk sains, teknik, dan pendidikan.",
+    "key_takeaways": [
+      "Akses 53 Satuan SI komprehensif, termasuk satuan dasar dan turunan.",
+      "Jelajahi definisi, simbol, kuantitas, dan dimensi yang tepat untuk setiap satuan.",
+      "Unduh data satuan dalam format Excel, CSV yang fleksibel, atau PDF yang dapat dicetak.",
+      "Manfaatkan informasi satuan SI yang akurat untuk penelitian ilmiah dan materi pendidikan."
+    ],
+    "keywords": [
+      "daftar satuan si excel",
+      "sistem satuan internasional csv",
+      "definisi satuan dasar turunan",
+      "unduh data sistem metrik",
+      "dimensi kuantitas fisik",
+      "sumber daya pendidikan sains"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke dalam database SQL atau skrip Python Anda untuk mendukung aplikasi ilmiah atau alat konversi satuan.",
+      "Gunakan file **Excel** untuk membuat Pivot Tables, memfilter satuan berdasarkan jenis, atau menghasilkan laporan khusus untuk proyek teknik dan penelitian.",
+      "Cetak versi **PDF** untuk referensi kelas, poster pendidikan, atau konsultasi offline cepat selama eksperimen laboratorium.",
+      "Referensi dataset ini untuk memastikan akurasi dan konsistensi dalam proyek apa pun yang membutuhkan satuan pengukuran yang tepat dan definisi fundamentalnya."
+    ]
+  },
+  "record_count": 53,
+  "title": "Dataset Sistem Satuan Internasional (Satuan SI)"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "id-zona-waktu-africa",
+  "name": "Zona waktu — Africa (7)",
+  "title": "Zona waktu — Africa (7)",
+  "description": "Zona waktu yang pengenal IANA-nya diawali 'Africa/', dengan nama dalam bahasa Indonesia.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Algiers",
+      "wilayah": "Africa",
+      "kota": "Aljir",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Asmera",
+      "wilayah": "Africa",
+      "kota": "Asmara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Cairo",
+      "wilayah": "Africa",
+      "kota": "Kairo",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/El_Aaiun",
+      "wilayah": "Africa",
+      "kota": "El Aaiún",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Lome",
+      "wilayah": "Africa",
+      "kota": "Lomé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Ndjamena",
+      "wilayah": "Africa",
+      "kota": "N’Djamena",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Sao_Tome",
+      "wilayah": "Africa",
+      "kota": "São Tomé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu — Africa (7) - Unduh Gratis",
+    "description": "Zona waktu yang pengenal IANA-nya diawali 'Africa/', dengan nama dalam bahasa Indonesia. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu — Africa (7) | ListBase",
+    "seo_description": "Unduh Zona waktu — Africa (7) — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

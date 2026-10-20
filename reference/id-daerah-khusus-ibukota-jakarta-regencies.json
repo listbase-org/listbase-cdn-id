@@ -1,0 +1,82 @@
+{
+  "id": "id-daerah-khusus-ibukota-jakarta-regencies",
+  "name": "Daftar Kabupaten dan Kota di Daerah Khusus Ibukota Jakarta",
+  "title": "Daftar Kabupaten dan Kota di Daerah Khusus Ibukota Jakarta",
+  "description": "Daftar kabupaten dan kota di Provinsi Daerah Khusus Ibukota Jakarta dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "31.01",
+      "name": "Kabupaten Administrasi Kepulauan Seribu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-administrasi-kepulauan-seribu"
+    },
+    {
+      "code": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat",
+      "type": "Kota",
+      "slug": "kota-administrasi-jakarta-pusat"
+    },
+    {
+      "code": "31.72",
+      "name": "Kota Administrasi Jakarta Utara",
+      "type": "Kota",
+      "slug": "kota-administrasi-jakarta-utara"
+    },
+    {
+      "code": "31.73",
+      "name": "Kota Administrasi Jakarta Barat",
+      "type": "Kota",
+      "slug": "kota-administrasi-jakarta-barat"
+    },
+    {
+      "code": "31.74",
+      "name": "Kota Administrasi Jakarta Selatan",
+      "type": "Kota",
+      "slug": "kota-administrasi-jakarta-selatan"
+    },
+    {
+      "code": "31.75",
+      "name": "Kota Administrasi Jakarta Timur",
+      "type": "Kota",
+      "slug": "kota-administrasi-jakarta-timur"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Daerah Khusus Ibukota Jakarta - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Daerah Khusus Ibukota Jakarta dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Daerah Khusus Ibukota Jakarta | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Daerah Khusus Ibukota Jakarta — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

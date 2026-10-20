@@ -1,0 +1,295 @@
+{
+  "id": "science-ph-scale",
+  "name": "Dataset Referensi Skala pH & Properti Kimia",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "substance",
+      "label": "Substance (EN)",
+      "type": "string"
+    },
+    {
+      "key": "ph",
+      "label": "pH Value",
+      "type": "number"
+    },
+    {
+      "key": "h_concentration",
+      "label": "[H⁺] Concentration (mol/L)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "nature",
+      "label": "Nature (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "substance": "Asam Aki (H₂SO₄)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Asam Kuat",
+      "nature": "Sangat Korosif"
+    },
+    {
+      "substance": "Asam Klorida (HCl)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Asam Kuat",
+      "nature": "Sangat Korosif"
+    },
+    {
+      "substance": "Asam Lambung",
+      "ph": 1,
+      "h_concentration": "10⁻¹",
+      "category": "Asam Kuat",
+      "nature": "Korosif"
+    },
+    {
+      "substance": "Air Lemon",
+      "ph": 2,
+      "h_concentration": "10⁻²",
+      "category": "Asam Kuat",
+      "nature": "Asam"
+    },
+    {
+      "substance": "Cuka",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Asam Kuat",
+      "nature": "Asam"
+    },
+    {
+      "substance": "Coca-Cola",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Asam Kuat",
+      "nature": "Asam"
+    },
+    {
+      "substance": "Jus Jeruk",
+      "ph": 3.5,
+      "h_concentration": "3.2×10⁻⁴",
+      "category": "Asam Lemah",
+      "nature": "Sedikit Asam"
+    },
+    {
+      "substance": "Jus Tomat",
+      "ph": 4,
+      "h_concentration": "10⁻⁴",
+      "category": "Asam Lemah",
+      "nature": "Sedikit Asam"
+    },
+    {
+      "substance": "Bir",
+      "ph": 4.5,
+      "h_concentration": "3.2×10⁻⁵",
+      "category": "Asam Lemah",
+      "nature": "Sedikit Asam"
+    },
+    {
+      "substance": "Kopi Hitam",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Asam Lemah",
+      "nature": "Sedikit Asam"
+    },
+    {
+      "substance": "Hujan Asam",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Asam Lemah",
+      "nature": "Lingkungan"
+    },
+    {
+      "substance": "Pisang",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Asam Lemah",
+      "nature": "Sedikit Asam"
+    },
+    {
+      "substance": "Air Hujan Normal",
+      "ph": 5.6,
+      "h_concentration": "2.5×10⁻⁶",
+      "category": "Asam Lemah",
+      "nature": "Alami"
+    },
+    {
+      "substance": "Susu",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Asam Lemah",
+      "nature": "Hampir Netral"
+    },
+    {
+      "substance": "Air Liur",
+      "ph": 6.8,
+      "h_concentration": "1.6×10⁻⁷",
+      "category": "Asam Lemah",
+      "nature": "Hampir Netral"
+    },
+    {
+      "substance": "Air Murni",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Netral",
+      "nature": "Netral"
+    },
+    {
+      "substance": "Darah",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Netral",
+      "nature": "Sedikit Basa"
+    },
+    {
+      "substance": "Putih Telur",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Basa Lemah",
+      "nature": "Sedikit Basa"
+    },
+    {
+      "substance": "Air Laut",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Basa Lemah",
+      "nature": "Sedikit Basa"
+    },
+    {
+      "substance": "Soda Kue (NaHCO₃)",
+      "ph": 8.5,
+      "h_concentration": "3.2×10⁻⁹",
+      "category": "Basa Lemah",
+      "nature": "Sedikit Basa"
+    },
+    {
+      "substance": "Pasta gigi",
+      "ph": 9,
+      "h_concentration": "10⁻⁹",
+      "category": "Basa lemah",
+      "nature": "Bersifat basa"
+    },
+    {
+      "substance": "Susu Magnesia",
+      "ph": 10.5,
+      "h_concentration": "3.2×10⁻¹¹",
+      "category": "Basa lemah",
+      "nature": "Bersifat basa"
+    },
+    {
+      "substance": "Amonia (NH₃)",
+      "ph": 11,
+      "h_concentration": "10⁻¹¹",
+      "category": "Basa sedang",
+      "nature": "Kaustik"
+    },
+    {
+      "substance": "Air sabun",
+      "ph": 12,
+      "h_concentration": "10⁻¹²",
+      "category": "Basa kuat",
+      "nature": "Kaustik"
+    },
+    {
+      "substance": "Pemutih (NaClO)",
+      "ph": 12.5,
+      "h_concentration": "3.2×10⁻¹³",
+      "category": "Basa kuat",
+      "nature": "Korosif"
+    },
+    {
+      "substance": "Pembersih oven",
+      "ph": 13,
+      "h_concentration": "10⁻¹³",
+      "category": "Basa kuat",
+      "nature": "Sangat Korosif"
+    },
+    {
+      "substance": "Pembersih saluran air",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Basa kuat",
+      "nature": "Sangat Korosif"
+    },
+    {
+      "substance": "Natrium Hidroksida (NaOH)",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Basa kuat",
+      "nature": "Sangat Korosif"
+    },
+    {
+      "substance": "Tanah sehat",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Lingkungan",
+      "nature": "Optimal untuk sebagian besar tanaman"
+    },
+    {
+      "substance": "Kolam renang (Ideal)",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Lingkungan",
+      "nature": "Aman untuk berenang"
+    },
+    {
+      "substance": "Akuarium (Air tawar)",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Lingkungan",
+      "nature": "Optimal untuk ikan"
+    },
+    {
+      "substance": "Kulit manusia",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Biologis",
+      "nature": "Mantel asam"
+    },
+    {
+      "substance": "Urine manusia",
+      "ph": 6,
+      "h_concentration": "10⁻⁶",
+      "category": "Biologis",
+      "nature": "Bervariasi (4.5-8)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Data Skala pH Referensi - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh 33 entri referensi skala pH untuk berbagai zat. Dapatkan nilai pH, konsentrasi H⁺, & kategori. Gratis dalam format Excel, CSV, & PDF.",
+    "title": "Dataset Referensi Skala pH & Properti Kimia",
+    "description": "Dataset ini menyediakan referensi komprehensif 33 zat, mencantumkan nilai pH, konsentrasi ion hidrogen, kategori keasaman/kebasaan, dan sifatnya.",
+    "key_takeaways": [
+      "Akses daftar kurasi 33 zat umum dengan nilai pH-nya.",
+      "Jelajahi konsentrasi ion hidrogen ([H⁺]) dan kategorikan zat berdasarkan keasaman/kebasaan.",
+      "Unduh data referensi kimia esensial dalam berbagai format yang nyaman.",
+      "Pahami sifat berbagai zat, dari sangat korosif hingga netral."
+    ],
+    "keywords": [
+      "skala pH referensi excel",
+      "data asam basa pH csv",
+      "nilai pH zat unduh",
+      "konsentrasi H+ kimia",
+      "zat basa asam daftar",
+      "dataset pH gratis pdf"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database atau skrip Python Anda untuk penelitian kimia, analisis data, atau membangun aplikasi pendidikan terkait pH.",
+      "Gunakan file **Excel** untuk menyaring, mengurutkan, dan menganalisis nilai pH dan konsentrasi untuk pelaporan laboratorium, proyek akademik, atau membuat bagan perbandingan.",
+      "Cetak versi **PDF** untuk referensi cepat offline di kelas kimia, laboratorium, atau untuk panduan belajar dan presentasi pendidikan.",
+      "Manfaatkan dataset ini untuk memperkaya konten pendidikan, mengembangkan kuis, atau mendemonstrasikan spektrum pH zat sehari-hari kepada siswa."
+    ]
+  },
+  "record_count": 33,
+  "title": "Dataset Referensi Skala pH & Properti Kimia"
+}

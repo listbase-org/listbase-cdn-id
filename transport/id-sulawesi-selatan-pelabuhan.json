@@ -1,0 +1,80 @@
+{
+  "id": "id-sulawesi-selatan-pelabuhan",
+  "name": "Pelabuhan Umum di Sulawesi Selatan (3 pelabuhan)",
+  "title": "Pelabuhan Umum di Sulawesi Selatan (3 pelabuhan)",
+  "description": "3 pelabuhan umum di Provinsi Sulawesi Selatan, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "AGU",
+      "nama_pelabuhan": "Awerange/Barru",
+      "lokasi_kabupaten_kota": "LUWU TIMUR",
+      "unit_kerja": "UPP KELAS III AWARENGE/BARRU",
+      "alamat_kantor": "Jl. Pelabuhan No.57 Awarenge Kab. Barru Sulawesi Selatan 90752",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "kode_pelabuhan": "ARE",
+      "nama_pelabuhan": "Pare-Pare",
+      "lokasi_kabupaten_kota": "KOTA PARE-PARE",
+      "unit_kerja": "KSOP KELAS III PARE-PARE",
+      "alamat_kantor": "Jl.Tarakan; Komplek Pelabuhan Cappa Ujung Parepare Sulawesi Selatan 91112",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "kode_pelabuhan": "GNG",
+      "nama_pelabuhan": "Garongkong",
+      "lokasi_kabupaten_kota": "BARRU",
+      "unit_kerja": "UPP KELAS III AWARENGE/BARRU",
+      "alamat_kantor": "Jl. Pelabuhan No.57 Awarenge Kab. Barru Sulawesi Selatan 90752",
+      "provinsi": "Sulawesi Selatan"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Sulawesi Selatan (3 pelabuhan) - Unduh Gratis",
+    "description": "3 pelabuhan umum di Provinsi Sulawesi Selatan, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 3 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Sulawesi Selatan (3 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Sulawesi Selatan (3 pelabuhan) — 3 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 3 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

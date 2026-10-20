@@ -1,0 +1,148 @@
+{
+  "id": "id-sulawesi-barat-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sulawesi Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sulawesi Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "6 kabupaten/kota di Provinsi Sulawesi Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "76.01",
+      "name": "Kabupaten Pasangkayu",
+      "type": "kabupaten",
+      "capital": "Pasangkayu",
+      "latitude": -1.173745,
+      "longitude": 119.377237,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2901.704,
+      "population": 183376
+    },
+    {
+      "code": "76.02",
+      "name": "Kabupaten Mamuju",
+      "type": "kabupaten",
+      "capital": "Mamuju",
+      "latitude": -2.689749,
+      "longitude": 118.884534,
+      "elevation_m": 31,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4942.041,
+      "population": 288382
+    },
+    {
+      "code": "76.03",
+      "name": "Kabupaten Mamasa",
+      "type": "kabupaten",
+      "capital": "Mamasa",
+      "latitude": -2.955625,
+      "longitude": 119.362864,
+      "elevation_m": 1108,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3016.13,
+      "population": 167611
+    },
+    {
+      "code": "76.04",
+      "name": "Kabupaten Polewali Mandar",
+      "type": "kabupaten",
+      "capital": "Polewali",
+      "latitude": -3.407717,
+      "longitude": 119.311154,
+      "elevation_m": 10,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2074.191,
+      "population": 492339
+    },
+    {
+      "code": "76.05",
+      "name": "Kabupaten Majene",
+      "type": "kabupaten",
+      "capital": "Banggae",
+      "latitude": -3.548096,
+      "longitude": 118.959294,
+      "elevation_m": 26,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 900.525,
+      "population": 190223
+    },
+    {
+      "code": "76.06",
+      "name": "Kabupaten Mamuju Tengah",
+      "type": "kabupaten",
+      "capital": "Tobadak",
+      "latitude": -2.081919,
+      "longitude": 119.301015,
+      "elevation_m": 12,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2756.076,
+      "population": 144810
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sulawesi Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "6 kabupaten/kota di Provinsi Sulawesi Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sulawesi Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sulawesi Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

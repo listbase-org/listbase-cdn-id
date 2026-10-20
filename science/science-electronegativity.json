@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "Dataset Tabel Elektronegativitas (Skala Pauling)",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "Hidrogen",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "Nonlogam",
+      "trend": "Referensi"
+    },
+    {
+      "symbol": "He",
+      "name": "Helium",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "Gas Mulia",
+      "trend": "Tidak Berlaku - Gas mulia"
+    },
+    {
+      "symbol": "Li",
+      "name": "Litium",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "Logam Alkali",
+      "trend": "Terendah dalam periode"
+    },
+    {
+      "symbol": "Be",
+      "name": "Berilium",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "Logam Alkali Tanah",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "B",
+      "name": "Boron",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "Metaloid",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "C",
+      "name": "Karbon",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "Nonlogam",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "N",
+      "name": "Nitrogen",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "Nonlogam",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "O",
+      "name": "Oksigen",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "Nonlogam",
+      "trend": "Tertinggi kedua"
+    },
+    {
+      "symbol": "F",
+      "name": "Fluor",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Elemen paling elektronegatif"
+    },
+    {
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "Gas Mulia",
+      "trend": "Tidak Berlaku - Gas mulia"
+    },
+    {
+      "symbol": "Na",
+      "name": "Natrium",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "Logam Alkali",
+      "trend": "Terendah dalam periode"
+    },
+    {
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "Logam Alkali Tanah",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Al",
+      "name": "Aluminium",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "Logam Pascatransisi",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Si",
+      "name": "Silikon",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "Metaloid",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "P",
+      "name": "Fosfor",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "Nonlogam",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "S",
+      "name": "Belerang",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "Nonlogam",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Cl",
+      "name": "Klorin",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Tertinggi dalam periode"
+    },
+    {
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "Gas Mulia",
+      "trend": "Tidak Berlaku - Gas mulia"
+    },
+    {
+      "symbol": "K",
+      "name": "Kalium",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "Logam Alkali",
+      "trend": "Terendah dalam periode"
+    },
+    {
+      "symbol": "Ca",
+      "name": "Kalsium",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "Logam Alkali Tanah",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Sc",
+      "name": "Skandium",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Ti",
+      "name": "Titanium",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "V",
+      "name": "Vanadium",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Cr",
+      "name": "Kromium",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Mn",
+      "name": "Mangan",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Fe",
+      "name": "Besi",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Co",
+      "name": "Kobalt",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Ni",
+      "name": "Nikel",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Cu",
+      "name": "Tembaga",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Zn",
+      "name": "Seng",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Ga",
+      "name": "Galium",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "Logam Pascatransisi",
+      "trend": "Pascatransisi"
+    },
+    {
+      "symbol": "Ge",
+      "name": "Germanium",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "Metaloid",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "As",
+      "name": "Arsen",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "Metaloid",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Se",
+      "name": "Selenium",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "Nonlogam",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Br",
+      "name": "Bromin",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Tertinggi dalam periode"
+    },
+    {
+      "symbol": "Kr",
+      "name": "Kripton",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "Gas Mulia",
+      "trend": "Gas mulia dengan nilai EN"
+    },
+    {
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "Logam Alkali",
+      "trend": "Terendah dalam periode"
+    },
+    {
+      "symbol": "Sr",
+      "name": "Stronsium",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "Logam Alkali Tanah",
+      "trend": "Meningkat sepanjang periode"
+    },
+    {
+      "symbol": "Y",
+      "name": "Itrium",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Zr",
+      "name": "Zirkonium",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Nb",
+      "name": "Niobium",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Mo",
+      "name": "Molibdenum",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Tc",
+      "name": "Teknesium",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Ru",
+      "name": "Rutenium",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Pd",
+      "name": "Paladium",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Ag",
+      "name": "Perak",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Cd",
+      "name": "Kadmium",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "In",
+      "name": "Indium",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "Logam Pasca-Transisi",
+      "trend": "Pasca-transisi"
+    },
+    {
+      "symbol": "Sn",
+      "name": "Timah",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "Logam Pasca-Transisi",
+      "trend": "Meningkat di sepanjang periode"
+    },
+    {
+      "symbol": "Sb",
+      "name": "Antimon",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "Metaloid",
+      "trend": "Meningkat di sepanjang periode"
+    },
+    {
+      "symbol": "Te",
+      "name": "Telurium",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "Metaloid",
+      "trend": "Meningkat di sepanjang periode"
+    },
+    {
+      "symbol": "I",
+      "name": "Iodium",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Tertinggi dalam periode (golongan utama)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "Xenon",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "Gas Mulia",
+      "trend": "Gas mulia dengan nilai EN"
+    },
+    {
+      "symbol": "Cs",
+      "name": "Sesium",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "Logam Alkali",
+      "trend": "Elemen EN terendah kedua"
+    },
+    {
+      "symbol": "Ba",
+      "name": "Barium",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "Logam Alkali Tanah",
+      "trend": "EN rendah"
+    },
+    {
+      "symbol": "Au",
+      "name": "Emas",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "Logam Transisi",
+      "trend": "EN tinggi untuk logam"
+    },
+    {
+      "symbol": "Hg",
+      "name": "Raksa",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "Logam Transisi",
+      "trend": "Zona logam transisi"
+    },
+    {
+      "symbol": "Pb",
+      "name": "Timbal",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "Logam Pasca-Transisi",
+      "trend": "Pasca-transisi"
+    },
+    {
+      "symbol": "Bi",
+      "name": "Bismut",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "Logam Pasca-Transisi",
+      "trend": "Pasca-transisi"
+    },
+    {
+      "symbol": "At",
+      "name": "Astatin",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Halogen radioaktif"
+    },
+    {
+      "symbol": "Fr",
+      "name": "Fransium",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "Logam alkali",
+      "trend": "Unsur dengan elektronegativitas terendah"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabel Elektronegativitas (Skala Pauling) - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis: Tabel Elektronegativitas (Skala Pauling) untuk 62 unsur kimia. Jelajahi sifat atom & tren. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Tabel Elektronegativitas (Skala Pauling)",
+    "description": "Dataset ini menyediakan nilai elektronegativitas (Skala Pauling) untuk 62 unsur kimia, termasuk nomor atom, periode, golongan, dan kategori unsur. Ideal untuk mahasiswa, peneliti, dan pendidik kimia.",
+    "key_takeaways": [
+      "Akses data elektronegativitas Pauling untuk 62 unsur.",
+      "Jelajahi sifat atom dan tren periodik secara detail.",
+      "Unduh data komprehensif dalam format Excel, CSV, atau PDF untuk analisis.",
+      "Dapatkan wawasan tentang ikatan kimia dan reaktivitas."
+    ],
+    "keywords": [
+      "tabel elektronegativitas pauling",
+      "data unsur kimia",
+      "sifat atom dataset",
+      "nilai elektronegativitas excel",
+      "tren periodik csv",
+      "data kimia gratis"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk melakukan analisis data kustom tentang tren elektronegativitas dan sifat unsur kimia.",
+      "Gunakan file **Excel** untuk membuat Pivot Table, memfilter unsur berdasarkan golongan atau kategori, dan menghasilkan laporan untuk penelitian akademis atau tugas kelas.",
+      "Cetak versi **PDF** sebagai panduan referensi cepat, offline di laboratorium kimia, ruang kelas, atau untuk presentasi tentang karakteristik atom.",
+      "Manfaatkan dataset ini untuk memahami tren periodik elektronegativitas dan memprediksi perilaku ikatan kimia dalam berbagai senyawa."
+    ]
+  },
+  "record_count": 62,
+  "title": "Dataset Tabel Elektronegativitas (Skala Pauling)"
+}

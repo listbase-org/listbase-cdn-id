@@ -1,0 +1,428 @@
+{
+  "id": "tech-http-codes",
+  "name": "HTTP Status Codes Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Status Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Status Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 100,
+      "name": "Lanjutkan",
+      "category": "Informasi",
+      "description": "Server telah menerima header permintaan dan klien harus melanjutkan untuk mengirimkan badan permintaan."
+    },
+    {
+      "code": 101,
+      "name": "Pengalihan Protokol",
+      "category": "Informasi",
+      "description": "Pemohon telah meminta server untuk mengalihkan protokol dan server telah menyetujuinya."
+    },
+    {
+      "code": 102,
+      "name": "Sedang Diproses",
+      "category": "Informasi",
+      "description": "Server telah menerima dan sedang memproses permintaan, tetapi belum ada respons yang tersedia."
+    },
+    {
+      "code": 103,
+      "name": "Petunjuk Awal",
+      "category": "Informasi",
+      "description": "Digunakan untuk mengembalikan beberapa header respons sebelum pesan HTTP akhir."
+    },
+    {
+      "code": 200,
+      "name": "OK",
+      "category": "Sukses",
+      "description": "Permintaan berhasil. Makna tergantung pada metode HTTP yang digunakan."
+    },
+    {
+      "code": 201,
+      "name": "Dibuat",
+      "category": "Sukses",
+      "description": "Permintaan berhasil dan sumber daya baru dibuat sebagai hasilnya."
+    },
+    {
+      "code": 202,
+      "name": "Diterima",
+      "category": "Sukses",
+      "description": "Permintaan telah diterima tetapi belum ditindaklanjuti."
+    },
+    {
+      "code": 203,
+      "name": "Informasi Tidak Berwenang",
+      "category": "Sukses",
+      "description": "Metadata yang dikembalikan tidak persis sama dengan yang tersedia dari server asal."
+    },
+    {
+      "code": 204,
+      "name": "Tanpa Konten",
+      "category": "Sukses",
+      "description": "Tidak ada konten untuk dikirimkan untuk permintaan ini, tetapi header mungkin berguna."
+    },
+    {
+      "code": 205,
+      "name": "Atur Ulang Konten",
+      "category": "Sukses",
+      "description": "Memberi tahu agen pengguna untuk mengatur ulang dokumen yang mengirimkan permintaan ini."
+    },
+    {
+      "code": 206,
+      "name": "Konten Sebagian",
+      "category": "Sukses",
+      "description": "Digunakan ketika header Range dikirim dari klien untuk meminta hanya sebagian dari sumber daya."
+    },
+    {
+      "code": 207,
+      "name": "Multi-Status",
+      "category": "Sukses",
+      "description": "Menyampaikan informasi tentang beberapa sumber daya, untuk situasi di mana beberapa kode status mungkin sesuai."
+    },
+    {
+      "code": 208,
+      "name": "Sudah Dilaporkan",
+      "category": "Sukses",
+      "description": "Digunakan di dalam respons DAV: propstat untuk menghindari enumerasi berulang terhadap anggota internal."
+    },
+    {
+      "code": 226,
+      "name": "IM Digunakan",
+      "category": "Sukses",
+      "description": "Server telah memenuhi permintaan GET dan responsnya adalah representasi dari hasilnya."
+    },
+    {
+      "code": 300,
+      "name": "Banyak Pilihan",
+      "category": "Pengalihan",
+      "description": "Permintaan memiliki lebih dari satu kemungkinan respons. Agen pengguna harus memilih salah satunya."
+    },
+    {
+      "code": 301,
+      "name": "Dipindahkan Permanen",
+      "category": "Pengalihan",
+      "description": "URL sumber daya yang diminta telah diubah secara permanen. URL baru diberikan dalam respons."
+    },
+    {
+      "code": 302,
+      "name": "Ditemukan",
+      "category": "Pengalihan",
+      "description": "URI sumber daya yang diminta telah diubah sementara. Perubahan lebih lanjut mungkin akan dilakukan di masa mendatang."
+    },
+    {
+      "code": 303,
+      "name": "Lihat Lainnya",
+      "category": "Pengalihan",
+      "description": "Server mengirim respons ini untuk mengarahkan klien agar mendapatkan sumber daya yang diminta di URI lain dengan permintaan GET."
+    },
+    {
+      "code": 304,
+      "name": "Tidak Dimodifikasi",
+      "category": "Pengalihan",
+      "description": "Digunakan untuk tujuan caching. Ini memberitahu klien bahwa respons belum dimodifikasi."
+    },
+    {
+      "code": 305,
+      "name": "Gunakan Proxy",
+      "category": "Pengalihan",
+      "description": "Usang. Didefinisikan untuk menunjukkan bahwa respons yang diminta harus diakses oleh proxy."
+    },
+    {
+      "code": 307,
+      "name": "Pengalihan Sementara",
+      "category": "Pengalihan",
+      "description": "Server mengirim respons ini untuk mengarahkan klien agar mendapatkan sumber daya yang diminta di URI lain dengan metode yang sama."
+    },
+    {
+      "code": 308,
+      "name": "Pengalihan Permanen",
+      "category": "Pengalihan",
+      "description": "Sumber daya sekarang secara permanen terletak di URI lain, yang ditentukan oleh header Location."
+    },
+    {
+      "code": 400,
+      "name": "Permintaan Buruk",
+      "category": "Kesalahan Klien",
+      "description": "Server tidak dapat atau tidak akan memproses permintaan karena sesuatu yang dianggap sebagai kesalahan klien."
+    },
+    {
+      "code": 401,
+      "name": "Tidak Sah",
+      "category": "Kesalahan Klien",
+      "description": "Klien harus mengautentikasi dirinya sendiri untuk mendapatkan respons yang diminta."
+    },
+    {
+      "code": 402,
+      "name": "Pembayaran Diperlukan",
+      "category": "Kesalahan Klien",
+      "description": "Dicadangkan untuk penggunaan di masa mendatang. Tujuan awalnya adalah untuk sistem pembayaran digital."
+    },
+    {
+      "code": 403,
+      "name": "Terlarang",
+      "category": "Kesalahan Klien",
+      "description": "Klien tidak memiliki hak akses ke konten; server menolak untuk memberikan sumber daya yang diminta."
+    },
+    {
+      "code": 404,
+      "name": "Tidak Ditemukan",
+      "category": "Kesalahan Klien",
+      "description": "Server tidak dapat menemukan sumber daya yang diminta. Ini juga bisa berarti titik akhir valid tetapi sumber daya tidak ada."
+    },
+    {
+      "code": 405,
+      "name": "Metode Tidak Diizinkan",
+      "category": "Kesalahan Klien",
+      "description": "Metode permintaan diketahui oleh server tetapi tidak didukung oleh sumber daya target."
+    },
+    {
+      "code": 406,
+      "name": "Tidak Dapat Diterima",
+      "category": "Kesalahan Klien",
+      "description": "Server tidak dapat menghasilkan respons yang cocok dengan daftar nilai yang dapat diterima yang didefinisikan dalam header permintaan."
+    },
+    {
+      "code": 407,
+      "name": "Autentikasi Proxy Diperlukan",
+      "category": "Kesalahan Klien",
+      "description": "Mirip dengan 401 Tidak Sah, tetapi autentikasi perlu dilakukan oleh proxy."
+    },
+    {
+      "code": 408,
+      "name": "Waktu Permintaan Habis",
+      "category": "Kesalahan Klien",
+      "description": "Server ingin memutus koneksi yang tidak digunakan ini."
+    },
+    {
+      "code": 409,
+      "name": "Konflik",
+      "category": "Kesalahan Klien",
+      "description": "Respons ini dikirim ketika permintaan berkonflik dengan keadaan server saat ini."
+    },
+    {
+      "code": 410,
+      "name": "Hilang",
+      "category": "Kesalahan Klien",
+      "description": "Konten yang diminta telah dihapus secara permanen dari server, tanpa alamat penerusan."
+    },
+    {
+      "code": 411,
+      "name": "Panjang Diperlukan",
+      "category": "Kesalahan Klien",
+      "description": "Server menolak permintaan karena bidang header Content-Length tidak ditentukan dan server memerlukannya."
+    },
+    {
+      "code": 412,
+      "name": "Prasyarat Gagal",
+      "category": "Kesalahan Klien",
+      "description": "Klien telah menunjukkan prasyarat dalam headernya yang tidak dipenuhi oleh server."
+    },
+    {
+      "code": 413,
+      "name": "Payload Terlalu Besar",
+      "category": "Kesalahan Klien",
+      "description": "Entitas permintaan lebih besar dari batas yang ditentukan oleh server."
+    },
+    {
+      "code": 414,
+      "name": "URI Terlalu Panjang",
+      "category": "Kesalahan Klien",
+      "description": "URI yang diminta oleh klien lebih panjang dari yang bersedia ditafsirkan oleh server."
+    },
+    {
+      "code": 415,
+      "name": "Jenis Media Tidak Didukung",
+      "category": "Kesalahan Klien",
+      "description": "Format media data yang diminta tidak didukung oleh server."
+    },
+    {
+      "code": 416,
+      "name": "Rentang Tidak Terpenuhi",
+      "category": "Kesalahan Klien",
+      "description": "Rentang yang ditentukan oleh bidang header Range dalam permintaan tidak dapat dipenuhi."
+    },
+    {
+      "code": 417,
+      "name": "Ekspektasi Gagal",
+      "category": "Kesalahan Klien",
+      "description": "Ekspektasi yang ditunjukkan oleh bidang header permintaan Expect tidak dapat dipenuhi oleh server."
+    },
+    {
+      "code": 418,
+      "name": "Saya Teko",
+      "category": "Kesalahan Klien",
+      "description": "Server menolak upaya untuk menyeduh kopi dengan teko."
+    },
+    {
+      "code": 421,
+      "name": "Permintaan Salah Arah",
+      "category": "Kesalahan Klien",
+      "description": "Permintaan diarahkan ke server yang tidak dapat menghasilkan respons."
+    },
+    {
+      "code": 422,
+      "name": "Entitas Tidak Dapat Diproses",
+      "category": "Kesalahan Klien",
+      "description": "Permintaan diformat dengan baik tetapi tidak dapat diikuti karena kesalahan semantik."
+    },
+    {
+      "code": 423,
+      "name": "Terkunci",
+      "category": "Kesalahan Klien",
+      "description": "Sumber daya yang sedang diakses terkunci."
+    },
+    {
+      "code": 424,
+      "name": "Dependensi Gagal",
+      "category": "Kesalahan Klien",
+      "description": "Permintaan gagal karena kegagalan permintaan sebelumnya."
+    },
+    {
+      "code": 425,
+      "name": "Terlalu Cepat",
+      "category": "Kesalahan Klien",
+      "description": "Menunjukkan bahwa server tidak bersedia mengambil risiko memproses permintaan yang mungkin diputar ulang."
+    },
+    {
+      "code": 426,
+      "name": "Peningkatan Diperlukan",
+      "category": "Kesalahan Klien",
+      "description": "Server menolak untuk melakukan permintaan menggunakan protokol saat ini tetapi mungkin setelah klien melakukan peningkatan."
+    },
+    {
+      "code": 428,
+      "name": "Prasyarat Diperlukan",
+      "category": "Kesalahan Klien",
+      "description": "Server asal memerlukan permintaan untuk bersifat kondisional."
+    },
+    {
+      "code": 429,
+      "name": "Terlalu Banyak Permintaan",
+      "category": "Kesalahan Klien",
+      "description": "Pengguna telah mengirim terlalu banyak permintaan dalam jangka waktu tertentu (pembatasan laju)."
+    },
+    {
+      "code": 431,
+      "name": "Bidang Header Permintaan Terlalu Besar",
+      "category": "Kesalahan Klien",
+      "description": "Server tidak bersedia memproses permintaan karena bidang headernya terlalu besar."
+    },
+    {
+      "code": 451,
+      "name": "Tidak Tersedia Karena Alasan Hukum",
+      "category": "Kesalahan Klien",
+      "description": "Agen pengguna meminta sumber daya yang tidak dapat disediakan secara hukum."
+    },
+    {
+      "code": 500,
+      "name": "Kesalahan Server Internal",
+      "category": "Kesalahan Server",
+      "description": "Server telah menghadapi situasi yang tidak tahu bagaimana menanganinya."
+    },
+    {
+      "code": 501,
+      "name": "Tidak Diimplementasikan",
+      "category": "Kesalahan Server",
+      "description": "Metode permintaan tidak didukung oleh server dan tidak dapat ditangani."
+    },
+    {
+      "code": 502,
+      "name": "Gerbang Buruk",
+      "category": "Kesalahan Server",
+      "description": "Server, saat bekerja sebagai gateway, mendapatkan respons yang tidak valid yang diperlukan untuk menangani permintaan."
+    },
+    {
+      "code": 503,
+      "name": "Layanan Tidak Tersedia",
+      "category": "Kesalahan Server",
+      "description": "Server tidak siap untuk menangani permintaan. Penyebab umum adalah pemeliharaan atau kelebihan beban."
+    },
+    {
+      "code": 504,
+      "name": "Batas Waktu Gerbang",
+      "category": "Kesalahan Server",
+      "description": "Server bertindak sebagai gateway dan tidak dapat mendapatkan respons tepat waktu."
+    },
+    {
+      "code": 505,
+      "name": "Versi HTTP Tidak Didukung",
+      "category": "Kesalahan Server",
+      "description": "Versi HTTP yang digunakan dalam permintaan tidak didukung oleh server."
+    },
+    {
+      "code": 506,
+      "name": "Varian Juga Bernegosiasi",
+      "category": "Kesalahan Server",
+      "description": "Server memiliki kesalahan konfigurasi internal."
+    },
+    {
+      "code": 507,
+      "name": "Penyimpanan Tidak Cukup",
+      "category": "Kesalahan Server",
+      "description": "Server tidak dapat menyimpan representasi yang diperlukan untuk menyelesaikan permintaan."
+    },
+    {
+      "code": 508,
+      "name": "Lingkaran Terdeteksi",
+      "category": "Kesalahan Server",
+      "description": "Server mendeteksi loop tak terbatas saat memproses permintaan."
+    },
+    {
+      "code": 510,
+      "name": "Tidak Diperpanjang",
+      "category": "Kesalahan Server",
+      "description": "Diperlukan ekstensi lebih lanjut pada permintaan agar server dapat memenuhinya."
+    },
+    {
+      "code": 511,
+      "name": "Otentikasi Jaringan Diperlukan",
+      "category": "Kesalahan Server",
+      "description": "Menunjukkan bahwa klien perlu mengotentikasi untuk mendapatkan akses jaringan."
+    }
+  ],
+  "meta": {
+    "seo_title": "HTTP Status Codes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download HTTP Status Codes with 62 records. Available in Excel, CSV, and PDF formats.",
+    "title": "HTTP Status Codes Dataset",
+    "description": "HTTP Status Codes containing 62 records.",
+    "key_takeaways": [
+      "Access 62 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "http status codes excel",
+      "http status codes csv download",
+      "http status codes data",
+      "http status codes list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 62,
+  "title": "HTTP Status Codes Dataset"
+}

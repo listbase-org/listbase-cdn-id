@@ -1,0 +1,3552 @@
+{
+  "id": "id-destinasi-wisata",
+  "name": "Destinasi Wisata Indonesia (437 tempat)",
+  "title": "Destinasi Wisata Indonesia (437 tempat)",
+  "description": "437 destinasi wisata Indonesia — nama, kategori (Budaya, Taman Hiburan, Cagar Alam, Bahari, Pusat Perbelanjaan, Tempat Ibadah), kota, harga, dan rating",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 437,
+  "columns": [
+    {
+      "key": "place_id",
+      "label": "Place Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "price",
+      "label": "Price",
+      "type": "number"
+    },
+    {
+      "key": "rating",
+      "label": "Rating",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "place_id": "1",
+      "name": "Monumen Nasional",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "20000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "2",
+      "name": "Kota Tua",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "3",
+      "name": "Dunia Fantasi",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "270000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "4",
+      "name": "Taman Mini Indonesia Indah (TMII)",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "5",
+      "name": "Atlantis Water Adventure",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "94000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "6",
+      "name": "Taman Impian Jaya Ancol",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "25000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "7",
+      "name": "Kebun Binatang Ragunan",
+      "category": "Cagar Alam",
+      "city": "Jakarta",
+      "price": "4000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "8",
+      "name": "Ocean Ecopark",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "180000",
+      "rating": "4"
+    },
+    {
+      "place_id": "9",
+      "name": "Pelabuhan Marina",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "175000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "10",
+      "name": "Pulau Tidung",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "150000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "11",
+      "name": "Pulau Bidadari",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "12",
+      "name": "Pulau Pari",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "150000",
+      "rating": "4"
+    },
+    {
+      "place_id": "13",
+      "name": "Pulau Pramuka",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "14",
+      "name": "Pulau Pelangi",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "900000",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "15",
+      "name": "Pasar Seni",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "16",
+      "name": "Jembatan Kota Intan",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "17",
+      "name": "Museum Fatahillah",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "18",
+      "name": "Museum Bank Indonesia",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "19",
+      "name": "Kidzania",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "185000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "20",
+      "name": "Museum Taman Prasasti",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "21",
+      "name": "Museum Wayang",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "22",
+      "name": "Masjid Istiqlal",
+      "category": "Tempat Ibadah",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "23",
+      "name": "Gereja Katedral",
+      "category": "Tempat Ibadah",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "24",
+      "name": "Museum Nasional",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "25",
+      "name": "Pasar Tanah Abang",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4"
+    },
+    {
+      "place_id": "26",
+      "name": "Pecinan Glodok",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "27",
+      "name": "Sea World",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "115000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "28",
+      "name": "Wisata Agro Edukatif Istana Susu Cibugary",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "35000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "29",
+      "name": "Wisata Kuliner Pecenongan",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "5"
+    },
+    {
+      "place_id": "30",
+      "name": "Taman Menteng",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "31",
+      "name": "Wisata Alam Mangrove Angke",
+      "category": "Cagar Alam",
+      "city": "Jakarta",
+      "price": "25000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "32",
+      "name": "Setu Babakan",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "33",
+      "name": "Taman Suropati",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "34",
+      "name": "Pasar Taman Puring",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "35",
+      "name": "Grand Indonesia Mall",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "36",
+      "name": "Skyrink - Mall Taman Anggrek",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "110000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "37",
+      "name": "Bumi Perkemahan Cibubur",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "38",
+      "name": "Istana Negara Republik Indonesia",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "39",
+      "name": "Museum Macan (Modern and Contemporary Art in Nusantara)",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "100000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "40",
+      "name": "Galeri Nasional Indonesia",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "41",
+      "name": "Museum Bahari Jakarta",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "42",
+      "name": "Museum Seni Rupa dan Kramik",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "43",
+      "name": "The Escape Hunt",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "70000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "44",
+      "name": "Monumen Selamat Datang",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "45",
+      "name": "Jakarta Aquarium dan Safari",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "185000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "46",
+      "name": "Pulau Semak Daun",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "40000",
+      "rating": "4"
+    },
+    {
+      "place_id": "47",
+      "name": "Taman Situ Lembang",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "48",
+      "name": "Taman Ismail Marzuki",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "49",
+      "name": "Galeri Indonesia Kaya",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "50",
+      "name": "Museum Joang 45",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4"
+    },
+    {
+      "place_id": "51",
+      "name": "Jakarta Planetarium",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "12000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "52",
+      "name": "Kampung Cina",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "15000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "53",
+      "name": "Rumah Sipitung",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "54",
+      "name": "Taman Agrowisata Cilangkap",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "55",
+      "name": "Klenteng Jin De Yuan",
+      "category": "Tempat Ibadah",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "56",
+      "name": "Pantai Ancol",
+      "category": "Bahari",
+      "city": "Jakarta",
+      "price": "25000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "57",
+      "name": "Taman Lapangan Banteng",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "58",
+      "name": "Taman Ayodya",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "59",
+      "name": "Museum Sumpah Pemuda",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "60",
+      "name": "Museum Tekstil",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "61",
+      "name": "Tugu Proklamasi",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "62",
+      "name": "Taman Legenda Keong Emas",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "30000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "63",
+      "name": "Museum Kebangkitan Nasional",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "64",
+      "name": "Museum Sasmita Loka Ahmad Yani",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "2000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "65",
+      "name": "Museum Basoeki Abdullah",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "1000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "66",
+      "name": "Museum Layang-layang",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "67",
+      "name": "Margasatwa Muara Angke",
+      "category": "Cagar Alam",
+      "city": "Jakarta",
+      "price": "25000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "68",
+      "name": "Pasar Petak Sembilan",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "69",
+      "name": "Freedom Library",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "5"
+    },
+    {
+      "place_id": "70",
+      "name": "Perpustakaan Nasional",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "71",
+      "name": "Cibubur Garden Diary (Cibugary)",
+      "category": "Cagar Alam",
+      "city": "Jakarta",
+      "price": "50000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "72",
+      "name": "Waterboom PIK (Pantai Indah Kapuk)",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "300000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "73",
+      "name": "Museum Perangko",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "74",
+      "name": "Museum Tengah Kebun",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "75",
+      "name": "SnowBay Waterpark",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "180000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "76",
+      "name": "Taman Cattleya",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "20000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "77",
+      "name": "Taman Hutan Tebet",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "78",
+      "name": "Hutan Kota Srengseng",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "1000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "79",
+      "name": "Taman Spathodea",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "80",
+      "name": "Plaza Indonesia",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "81",
+      "name": "Mall Thamrin City",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "82",
+      "name": "Museum Satria Mandala",
+      "category": "Budaya",
+      "city": "Jakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "83",
+      "name": "Alive Museum Ancol",
+      "category": "Taman Hiburan",
+      "city": "Jakarta",
+      "price": "200000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "84",
+      "name": "Kawasan Kuliner BSM",
+      "category": "Pusat Perbelanjaan",
+      "city": "Jakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "85",
+      "name": "Taman Pintar Yogyakarta",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "6000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "86",
+      "name": "Keraton Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "15000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "87",
+      "name": "Sindu Kusuma Edupark (SKE)",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "20000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "88",
+      "name": "Museum Benteng Vredeburg Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "89",
+      "name": "De Mata Museum Jogja",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "50000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "90",
+      "name": "Kampung Wisata Taman Sari",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "91",
+      "name": "Situs Warungboto",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "92",
+      "name": "Nol Kilometer Jl.Malioboro",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "93",
+      "name": "Gembira Loka Zoo",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "60000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "94",
+      "name": "Sumur Gumuling",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "7000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "95",
+      "name": "Desa Wisata Sungai Code Jogja Kota",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "5"
+    },
+    {
+      "place_id": "96",
+      "name": "Alun Alun Selatan Yogyakarta",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "97",
+      "name": "Monumen Yogya Kembali",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "15000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "98",
+      "name": "Taman Pelangi Yogyakarta",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "15000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "99",
+      "name": "Kampung Wisata Kadipaten",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "100",
+      "name": "Taman Budaya Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "101",
+      "name": "Kampung Wisata Sosro Menduran",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4"
+    },
+    {
+      "place_id": "102",
+      "name": "Monumen Batik Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "40000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "103",
+      "name": "Tugu Pal Putih Jogja",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "104",
+      "name": "Tebing Breksi",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "105",
+      "name": "Candi Donotirto",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "106",
+      "name": "Kawasan Malioboro",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "107",
+      "name": "Bangsal Pagelaran",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "108",
+      "name": "Embung Tambakboyo",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "109",
+      "name": "Hutan Pinus Pengger",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "110",
+      "name": "Monumen Serangan Umum 1 Maret",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "111",
+      "name": "Puncak Pinus Becici",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "112",
+      "name": "Bukit Bintang Yogyakarta",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "25000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "113",
+      "name": "Gedung Agung Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "114",
+      "name": "The Lost World Castle",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "30000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "115",
+      "name": "Monumen Sanapati",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "15000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "116",
+      "name": "Jurang Tembelan Kanigoro",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "2500",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "117",
+      "name": "The World Landmarks - Merapi Park Yogyakarta",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "22000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "118",
+      "name": "Museum Sonobudoyo Unit I",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "119",
+      "name": "Lava Bantal",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "120",
+      "name": "Bukit Panguk Kediwung",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "250000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "121",
+      "name": "Candi Prambanan",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "50000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "122",
+      "name": "Watu Goyang",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "2500",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "123",
+      "name": "Kampung Wisata Rejowinangun",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "124",
+      "name": "Kauman Pakualaman Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "5"
+    },
+    {
+      "place_id": "125",
+      "name": "Alun-alun Utara Keraton Yogyakarta",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "126",
+      "name": "Pantai Goa Cemara",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "4000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "127",
+      "name": "Blue Lagoon Jogja",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "128",
+      "name": "Gumuk Pasir Parangkusumo",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "129",
+      "name": "Bukit Lintang Sewu",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "2000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "130",
+      "name": "Studio Alam Gamplong",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "131",
+      "name": "Watu Lumbung",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "132",
+      "name": "Air Terjun Kedung Pedut",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "20000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "133",
+      "name": "Puncak Kebun Buah Mangunan",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "134",
+      "name": "Desa Wisata Gamplong",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "135",
+      "name": "Kawasan Wisata Sosrowijayan",
+      "category": "Pusat Perbelanjaan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4"
+    },
+    {
+      "place_id": "136",
+      "name": "Grojogan Watu Purbo Bangunrejo",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "137",
+      "name": "Wisata Alam Kalibiru",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "138",
+      "name": "Jogja Exotarium",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "139",
+      "name": "Puncak Gunung Api Purba - Nglanggeran",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "140",
+      "name": "Bendung Lepen",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "141",
+      "name": "Bunker Kaliadem Merapi",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "142",
+      "name": "Ledok Sambi",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "143",
+      "name": "Seribu Batu Songgo Langit",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "2000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "144",
+      "name": "Goa Jomblang",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "500000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "145",
+      "name": "Desa Wisata Rumah Domes/Teletubbies",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "146",
+      "name": "Bukit Wisata Pulepayung",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "147",
+      "name": "Bentara Budaya Yogyakarta (BBY)",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "148",
+      "name": "Goa Rancang Kencono",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "149",
+      "name": "Goa Cerme",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "150",
+      "name": "Wisata Kraton Jogja",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "7000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "151",
+      "name": "Desa Wisata Kelor",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "152",
+      "name": "Pantai Patihan",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "153",
+      "name": "Pantai Kukup",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4"
+    },
+    {
+      "place_id": "154",
+      "name": "Pantai Ngrawe (Mesra)",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "155",
+      "name": "Pantai Ngobaran",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "156",
+      "name": "Pantai Pulang Sawal",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "157",
+      "name": "Pantai Baron",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "158",
+      "name": "Pantai Pok Tunggal",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "159",
+      "name": "Hutan Pinus Asri",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "2500",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "160",
+      "name": "Pasar Kebon Empring Bintaran",
+      "category": "Pusat Perbelanjaan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "161",
+      "name": "Bukit Paralayang, Watugupit",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "162",
+      "name": "Kampung Wisata Dipowinatan",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "220000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "163",
+      "name": "Watu Mabur Mangunan",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "2500",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "164",
+      "name": "Pintoe Langit Dahromo",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "2500",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "165",
+      "name": "Green Village Gedangsari",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "2000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "166",
+      "name": "Kebun Teh Nglinggo",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "6000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "167",
+      "name": "Geoforest Watu Payung Turunan",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "168",
+      "name": "Pantai Timang",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "169",
+      "name": "Puncak Segoro",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "170",
+      "name": "Candi Borobudur",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "50000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "171",
+      "name": "Candi Ijo",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "172",
+      "name": "Pantai Indrayanti",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "173",
+      "name": "Pantai Nglambor",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "174",
+      "name": "Pasar Beringharjo",
+      "category": "Pusat Perbelanjaan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "175",
+      "name": "Museum Ullen Sentalu",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "100000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "176",
+      "name": "Museum Gunung Merapi",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "177",
+      "name": "Pantai Parangtritis",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "178",
+      "name": "Goa Pindul",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "40000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "179",
+      "name": "Candi Ratu Boko",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "75000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "180",
+      "name": "Pantai Depok Jogja",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "181",
+      "name": "Pantai Sundak",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "182",
+      "name": "Hutan Mangrove Kulon Progo",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "183",
+      "name": "Jogja Bay Pirates Adventure Waterpark",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "150000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "184",
+      "name": "Pantai Sepanjang",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "185",
+      "name": "Pantai Krakal",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "186",
+      "name": "Pantai Glagah",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "187",
+      "name": "Pantai Siung",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "188",
+      "name": "Pantai Sadranan",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "189",
+      "name": "Pantai Nguluran",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "190",
+      "name": "Pantai Samas",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "4000",
+      "rating": "4"
+    },
+    {
+      "place_id": "191",
+      "name": "Pantai Drini",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "192",
+      "name": "Air Terjun Sri Gethuk",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "193",
+      "name": "Candi Sewu",
+      "category": "Budaya",
+      "city": "Yogyakarta",
+      "price": "50000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "194",
+      "name": "Pantai Wediombo",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "195",
+      "name": "Pantai Jogan",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "196",
+      "name": "Pantai Ngrenehan",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "197",
+      "name": "Pantai Jungwok",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "198",
+      "name": "Pantai Greweng",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "199",
+      "name": "Pantai Sedahan",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "200",
+      "name": "Pantai Watu Kodok",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "201",
+      "name": "Pantai Kesirat",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "202",
+      "name": "Pantai Ngandong",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "203",
+      "name": "Galaxy Waterpark Jogja",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "40000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "204",
+      "name": "Desa Wisata Pulesari",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "205",
+      "name": "Desa Wisata Tembi",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "50000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "206",
+      "name": "Wisata Kaliurang",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "8000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "207",
+      "name": "Heha Sky View",
+      "category": "Taman Hiburan",
+      "city": "Yogyakarta",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "208",
+      "name": "Taman Sungai Mudal",
+      "category": "Cagar Alam",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "209",
+      "name": "Pantai Sanglen",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "210",
+      "name": "Pantai Congot",
+      "category": "Bahari",
+      "city": "Yogyakarta",
+      "price": "3000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "211",
+      "name": "GunungTangkuban perahu",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "30000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "212",
+      "name": "Jalan Braga",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "213",
+      "name": "Gedung Sate",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "214",
+      "name": "Trans Studio Bandung",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "280000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "215",
+      "name": "Taman Hutan Raya Ir. H. Djuanda",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "216",
+      "name": "Farm House Susu Lembang",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "30000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "217",
+      "name": "Kebun Binatang Bandung",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "4"
+    },
+    {
+      "place_id": "218",
+      "name": "Kawah Putih",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "81000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "219",
+      "name": "Tebing Karaton",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "220",
+      "name": "Dusun Bambu",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "221",
+      "name": "Museum Geologi Bandung",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "2000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "222",
+      "name": "Museum Konferensi Asia Afrika",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "223",
+      "name": "Masjid Raya Bandung",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "224",
+      "name": "Dago Dreampark",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "40000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "225",
+      "name": "Orchid Forest Cikole",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "226",
+      "name": "Kawasan Punclut",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "227",
+      "name": "Alun-Alun Kota Bandung",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "228",
+      "name": "Museum Sri Baduga",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "3000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "229",
+      "name": "Rabbit Town",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "45000",
+      "rating": "4"
+    },
+    {
+      "place_id": "230",
+      "name": "Stone Garden Citatah",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "30000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "231",
+      "name": "The Great Asia Africa",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "232",
+      "name": "Bukit Moko",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "233",
+      "name": "Gunung Papandayan",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "30000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "234",
+      "name": "Amazing Art World",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "75000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "235",
+      "name": "Gua Belanda",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "236",
+      "name": "Taman Balai Kota Bandung",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "237",
+      "name": "Panghegar Waterboom Bandung",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "75000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "238",
+      "name": "Gunung Manglayang",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "7500",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "239",
+      "name": "Lembang Park & Zoo",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "240",
+      "name": "Taman Lalu Lintas Ade Irma Suryani Nasution",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "7000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "241",
+      "name": "Lawangwangi Creative Space",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "242",
+      "name": "Curug Dago",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "12000",
+      "rating": "4"
+    },
+    {
+      "place_id": "243",
+      "name": "Kampung Korea Bandung",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "244",
+      "name": "Kampung Batu Malakasari",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "245",
+      "name": "Jendela Alam",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "246",
+      "name": "Curug Tilu Leuwi Opat",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "247",
+      "name": "Kiara Artha Park",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "248",
+      "name": "NuArt Sculpture Park",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "249",
+      "name": "Upside Down World Bandung",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "100000",
+      "rating": "4"
+    },
+    {
+      "place_id": "250",
+      "name": "Pesona Nirwana Waterpark & Cottages",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "251",
+      "name": "Taman Lansia",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "252",
+      "name": "Kampoeng Tulip",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "3.8"
+    },
+    {
+      "place_id": "253",
+      "name": "Selasar Sunaryo Art Space",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "254",
+      "name": "Teras Cikapundung BBWS",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "255",
+      "name": "Museum Barli",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "256",
+      "name": "Wisata Batu Kuda",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "257",
+      "name": "Monumen Bandung Lautan Api",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "258",
+      "name": "Museum Gedung Sate",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "259",
+      "name": "Monumen Perjuangan Rakyat Jawa Barat",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "260",
+      "name": "Museum Pos Indonesia",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "261",
+      "name": "Ciwangun Indah Camp Official",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "262",
+      "name": "Wot Batu",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "263",
+      "name": "Curug Batu Templek",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "264",
+      "name": "Gereja Katedral Santo Petrus Bandung",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "265",
+      "name": "Museum Mandala Wangsit Siliwangi",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "266",
+      "name": "Caringin Tilu",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "267",
+      "name": "Panama Park 825",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "268",
+      "name": "Sudut Pandang Bandung",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "269",
+      "name": "Bumi Perkemahan Batu Kuda",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "7500",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "270",
+      "name": "Bukit Bintang",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "271",
+      "name": "Taman Vanda",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "272",
+      "name": "Taman Budaya Jawa Barat",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "273",
+      "name": "Curug Bugbrug",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "7500",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "274",
+      "name": "Babakan Siliwangi City Forest Path Bandung",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "275",
+      "name": "Curug Cipanas",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "3.9"
+    },
+    {
+      "place_id": "276",
+      "name": "Taman Jomblo",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "277",
+      "name": "Peta Park",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "278",
+      "name": "Masjid Daarut Tauhiid Bandung",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.9"
+    },
+    {
+      "place_id": "279",
+      "name": "Masjid Agung Trans Studio Bandung",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "280",
+      "name": "Gereja Tiberias Indonesia Bandung",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.9"
+    },
+    {
+      "place_id": "281",
+      "name": "Tektona Waterpark",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "60000",
+      "rating": "3.8"
+    },
+    {
+      "place_id": "282",
+      "name": "Curug Cilengkrang",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "7500",
+      "rating": "4"
+    },
+    {
+      "place_id": "283",
+      "name": "Jembatan Pasupati",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "284",
+      "name": "Pasar Baru",
+      "category": "Pusat Perbelanjaan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "285",
+      "name": "Taman Sejarah Bandung",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "286",
+      "name": "Roemah Seni Sarasvati",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "287",
+      "name": "Puspa Iptek Sundial",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "288",
+      "name": "Masjid Salman ITB",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "289",
+      "name": "Curug Aseupan",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "290",
+      "name": "Museum Pendidikan Nasional",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "291",
+      "name": "Water Park Bandung Indah",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4"
+    },
+    {
+      "place_id": "292",
+      "name": "Curug Anom",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "293",
+      "name": "Taman Badak",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "294",
+      "name": "Taman Film",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "295",
+      "name": "Museum Nike Ardilla",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "296",
+      "name": "Batununggal Indah Club",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "70000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "297",
+      "name": "Mountain View Golf Club",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "375000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "298",
+      "name": "Gunung Lalakon",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "299",
+      "name": "Sendang Geulis Kahuripan",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "300",
+      "name": "Sanghyang Heuleut",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "301",
+      "name": "Lereng Anteng Panoramic Coffee Place",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "302",
+      "name": "Masjid Pusdai",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "303",
+      "name": "Masjid Al-Imtizaj",
+      "category": "Tempat Ibadah",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "304",
+      "name": "Situ Cileunca",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "2500",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "305",
+      "name": "Sunrise Point Cukul",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "306",
+      "name": "Sungai Palayangan",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "150000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "307",
+      "name": "Perkebunan Teh Malabar",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "308",
+      "name": "Pemandian Air Panas Ciater",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "309",
+      "name": "Observatorium Bosscha",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "310",
+      "name": "Taman Bunga Cihideung",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "311",
+      "name": "The Lodge Maribaya",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "25000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "312",
+      "name": "Taman Hutan Raya Ir. H. Juanda",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "11000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "313",
+      "name": "Taman Begonia",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "314",
+      "name": "Tafso Barn",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "315",
+      "name": "Curug Luhur Waterfall",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "316",
+      "name": "Curug Malela",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "317",
+      "name": "Curug Cimahi",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "318",
+      "name": "Situ Patenggang",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "319",
+      "name": "Kawah Rengganis Cibuni",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "5000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "320",
+      "name": "Pemandian Air Panas Cimanggu",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "23000",
+      "rating": "3.9"
+    },
+    {
+      "place_id": "321",
+      "name": "Glamping Lakeside Rancabali",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "30000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "322",
+      "name": "Bukit Jamur",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "323",
+      "name": "Kebun Tanaman Obat Sari Alam",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.9"
+    },
+    {
+      "place_id": "324",
+      "name": "Happyfarm Ciwidey",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "325",
+      "name": "Saung Angklung Mang Udjo",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "75000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "326",
+      "name": "Taman Kupu-Kupu Cihanjuang",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4"
+    },
+    {
+      "place_id": "327",
+      "name": "Taman Miniatur Kereta Api",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "328",
+      "name": "Gua Pawon",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "329",
+      "name": "Bukit Gantole Cililin",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "330",
+      "name": "Bandros City Tour",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "40000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "331",
+      "name": "Kyotoku Floating Market",
+      "category": "Budaya",
+      "city": "Bandung",
+      "price": "175000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "332",
+      "name": "Rainbow Garden",
+      "category": "Cagar Alam",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "333",
+      "name": "Kota Mini",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "334",
+      "name": "Chingu Cafe Little Seoul",
+      "category": "Taman Hiburan",
+      "city": "Bandung",
+      "price": "50000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "335",
+      "name": "Candi Gedong Songo",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "336",
+      "name": "Grand Maerakaca",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "337",
+      "name": "Kampung Pelangi",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "3000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "338",
+      "name": "Lawang Sewu",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "339",
+      "name": "Sam Poo Kong Temple",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "35000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "340",
+      "name": "Desa Wisata Lembah Kalipancur",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "3.9"
+    },
+    {
+      "place_id": "341",
+      "name": "Hutan Wisata Tinjomoyo Semarang",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "3000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "342",
+      "name": "Taman Kasmaran",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "3000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "343",
+      "name": "Pantai Baruna",
+      "category": "Bahari",
+      "city": "Semarang",
+      "price": "3000",
+      "rating": "4"
+    },
+    {
+      "place_id": "344",
+      "name": "Pantai Marina",
+      "category": "Bahari",
+      "city": "Semarang",
+      "price": "3000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "345",
+      "name": "Kampoeng Djadhoel Semarang",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "346",
+      "name": "Indonesia Kaya Park",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "347",
+      "name": "Taman Pandanaran",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "348",
+      "name": "Pura Giri Natha",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "20000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "349",
+      "name": "Wisata Mangrove Tapak",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "350",
+      "name": "Pantai Cipta",
+      "category": "Bahari",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "4"
+    },
+    {
+      "place_id": "351",
+      "name": "Old City 3D Trick Art Museum",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "50000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "352",
+      "name": "GPIB Immanuel Semarang (Gereja Blenduk)",
+      "category": "Tempat Ibadah",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "353",
+      "name": "Taman Srigunting",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "354",
+      "name": "Semarang Contemporary Art Gallery",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "355",
+      "name": "Umbul Sidomukti",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "75000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "356",
+      "name": "Saloka Theme Park",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "150000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "357",
+      "name": "Wisata Alam Wana Wisata Penggaron",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "358",
+      "name": "Masjid Kapal Semarang",
+      "category": "Tempat Ibadah",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "359",
+      "name": "Taman Bunga Celosia",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "25000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "360",
+      "name": "Air Terjun Kali Pancur",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "361",
+      "name": "Wisata Kampung Krisan Clapar",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "362",
+      "name": "Danau Rawa Pening",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "363",
+      "name": "Pantai Maron",
+      "category": "Bahari",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "3.4"
+    },
+    {
+      "place_id": "364",
+      "name": "Water Blaster Bukit Candi Golf",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "80000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "365",
+      "name": "Waduk Jatibarang",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "2500",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "366",
+      "name": "Tirto Argo Siwarak",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "20000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "367",
+      "name": "Wisata Lereng Kelir",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "7000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "368",
+      "name": "Kampoeng Rawa",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "3000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "369",
+      "name": "Monumen Palagan Ambarawa",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "7500",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "370",
+      "name": "Benteng Pendem",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "371",
+      "name": "Wisata Eling Bening",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "25000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "372",
+      "name": "Gua Maria Kerep Ambarawa",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "2000",
+      "rating": "4.8"
+    },
+    {
+      "place_id": "373",
+      "name": "Museum Kereta Ambarawa",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "374",
+      "name": "Hutan Pinus Kayon",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "6000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "375",
+      "name": "Kota Lama Semarang",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "376",
+      "name": "Semarang Chinatown",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "30000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "377",
+      "name": "La Kana Chapel",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "35000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "378",
+      "name": "Jembatan Biru Ambarawa",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "379",
+      "name": "Goa Rong",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "380",
+      "name": "Masjid Agung Ungaran",
+      "category": "Tempat Ibadah",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "381",
+      "name": "Tugu Muda Semarang",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "382",
+      "name": "Kampoeng Kopi Banaran",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "200000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "383",
+      "name": "Taman Tabanas",
+      "category": "Taman Hiburan",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "384",
+      "name": "Kampung Tematik Jawi",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "385",
+      "name": "Kampung Batik Gedong Semarang",
+      "category": "Budaya",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "386",
+      "name": "Air Terjun Semirang",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "9000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "387",
+      "name": "Obyek Wisata Goa Kreo",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "5500",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "388",
+      "name": "Watu Gunung Ungaran",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "25000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "389",
+      "name": "Brown Canyon",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "0",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "390",
+      "name": "Durian Gardens and Tourism Education Watu Simbar",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "5000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "391",
+      "name": "Flower Farm Setiya Aji",
+      "category": "Cagar Alam",
+      "city": "Semarang",
+      "price": "7500",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "392",
+      "name": "Ekowisata Mangrove Wonorejo",
+      "category": "Cagar Alam",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "393",
+      "name": "Taman Harmoni Keputih",
+      "category": "Cagar Alam",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "394",
+      "name": "Air Mancur Menari",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "35000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "395",
+      "name": "Taman Prestasi",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "396",
+      "name": "Monumen Kapal Selam",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "15000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "397",
+      "name": "Taman Kunang-Kunang",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "398",
+      "name": "Taman Buah Surabaya",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "399",
+      "name": "Taman Pelangi",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "400",
+      "name": "Hutan Bambu Keputih",
+      "category": "Cagar Alam",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "401",
+      "name": "Taman Keputran",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "402",
+      "name": "Food Junction Grand Pakuwon",
+      "category": "Pusat Perbelanjaan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "403",
+      "name": "Taman Barunawati",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "404",
+      "name": "Kenjeran Park",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "35000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "405",
+      "name": "Surabaya North Quay",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "50000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "406",
+      "name": "Kebun Bibit Wonorejo",
+      "category": "Cagar Alam",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "407",
+      "name": "Taman Ekspresi Dan Perpustakaan",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "408",
+      "name": "Kebun Binatang Surabaya",
+      "category": "Cagar Alam",
+      "city": "Surabaya",
+      "price": "15000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "409",
+      "name": "Rumah Batik",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "410",
+      "name": "Ciputra Waterpark",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "95000",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "411",
+      "name": "Masjid Muhammad Cheng Hoo",
+      "category": "Tempat Ibadah",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "412",
+      "name": "Masjid Nasional Al-Akbar",
+      "category": "Tempat Ibadah",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.9"
+    },
+    {
+      "place_id": "413",
+      "name": "Museum TNI AL Loka Jala Crana",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "2000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "414",
+      "name": "Jembatan Merah",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "415",
+      "name": "Museum De Javasche Bank",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "5000",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "416",
+      "name": "Keraton Surabaya",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "417",
+      "name": "Klenteng Sanggar Agung",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "10000",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "418",
+      "name": "Museum Sepuluh Nopember Kota Surabaya",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "5000",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "419",
+      "name": "Monumen Tugu Pahlawan",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "420",
+      "name": "Surabaya Museum (Gedung Siola)",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.5"
+    },
+    {
+      "place_id": "421",
+      "name": "Museum Kesehatan Dr. Adhyatma",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "10000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "422",
+      "name": "Monumen Jalesveva Jayamahe",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "423",
+      "name": "Patung Sura dan Buaya",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "424",
+      "name": "Pantai Ria Kenjeran",
+      "category": "Bahari",
+      "city": "Surabaya",
+      "price": "15000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "425",
+      "name": "Waterpark Kenjeran Surabaya",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "35000",
+      "rating": "4.1"
+    },
+    {
+      "place_id": "426",
+      "name": "Balai Kota Surabaya",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.7"
+    },
+    {
+      "place_id": "427",
+      "name": "Patung Buddha Empat Rupa",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.3"
+    },
+    {
+      "place_id": "428",
+      "name": "Monumen Bambu Runcing Surabaya",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "429",
+      "name": "House of Sampoerna",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "430",
+      "name": "Atlantis Land Surabaya",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "125000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "431",
+      "name": "Taman Hiburan Rakyat",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "5000",
+      "rating": "4.2"
+    },
+    {
+      "place_id": "432",
+      "name": "Taman Mundu",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "433",
+      "name": "Museum Mpu Tantular",
+      "category": "Budaya",
+      "city": "Surabaya",
+      "price": "2000",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "434",
+      "name": "Taman Bungkul",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "435",
+      "name": "Taman Air Mancur Menari Kenjeran",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.4"
+    },
+    {
+      "place_id": "436",
+      "name": "Taman Flora Bratang Surabaya",
+      "category": "Taman Hiburan",
+      "city": "Surabaya",
+      "price": "0",
+      "rating": "4.6"
+    },
+    {
+      "place_id": "437",
+      "name": "Gereja Perawan Maria Tak Berdosa Surabaya",
+      "category": "Tempat Ibadah",
+      "city": "Surabaya",
+      "price": "10000",
+      "rating": "4.8"
+    }
+  ],
+  "meta": {
+    "title": "Destinasi Wisata Indonesia (437 tempat) - Unduh Gratis",
+    "description": "437 destinasi wisata Indonesia — nama, kategori (Budaya, Taman Hiburan, Cagar Alam, Bahari, Pusat Perbelanjaan, Tempat Ibadah), kota, harga, dan rating Berisi 437 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Destinasi Wisata Indonesia (437 tempat) | ListBase",
+    "seo_description": "Unduh Destinasi Wisata Indonesia (437 tempat) — 437 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 437 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

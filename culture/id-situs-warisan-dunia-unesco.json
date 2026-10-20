@@ -1,0 +1,226 @@
+{
+  "id": "id-situs-warisan-dunia-unesco",
+  "name": "Situs Warisan Dunia UNESCO di Indonesia",
+  "title": "Situs Warisan Dunia UNESCO di Indonesia",
+  "description": "Daftar situs Warisan Dunia UNESCO yang berada di Indonesia",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Borobudur Temple Compounds",
+      "category": "Cultural",
+      "date_inscribed": 1991,
+      "criteria": "(i)(ii)(vi)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -7.60778,
+      "longitude": 110.20361,
+      "short_description": "This famous Buddhist temple, dating from the 8th and 9th centuries, is located in central Java. It was built in three tiers: a pyramidal base with five concentric square terraces, the trunk of a cone with three circular platforms and, at the top, a monumental stupa. The walls and balustrades are decorated with fine low reliefs, covering a total surface area of 2,500 m 2 . Around the circular platforms are 72 openwork stupas, each containing a statue of the Buddha. The monument was restored with UNESCO's help in the 1970s.",
+      "id_number": 592,
+      "url": "https://whc.unesco.org/en/list/592"
+    },
+    {
+      "name": "Komodo National Park",
+      "category": "Natural",
+      "date_inscribed": 1991,
+      "criteria": "(vii)(x)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -8.54333,
+      "longitude": 119.48944,
+      "short_description": "These volcanic islands are inhabited by a population of around 5,700 giant lizards, whose appearance and aggressive behaviour have led to them being called 'Komodo dragons'. They exist nowhere else in the world and are of great interest to scientists studying the theory of evolution. The rugged hillsides of dry savannah and pockets of thorny green vegetation contrast starkly with the brilliant white sandy beaches and the blue waters surging over coral.",
+      "id_number": 609,
+      "url": "https://whc.unesco.org/en/list/609"
+    },
+    {
+      "name": "Prambanan Temple Compounds",
+      "category": "Cultural",
+      "date_inscribed": 1991,
+      "criteria": "(i)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -7.75222,
+      "longitude": 110.49167,
+      "short_description": "Built in the 10th century, this is the largest temple compound dedicated to Shiva in Indonesia. Rising above the centre of the last of these concentric squares are three temples decorated with reliefs illustrating the epic of the Ramayana , dedicated to the three great Hindu divinities (Shiva, Vishnu and Brahma) and three temples dedicated to the animals who serve them.",
+      "id_number": 642,
+      "url": "https://whc.unesco.org/en/list/642"
+    },
+    {
+      "name": "Ujung Kulon National Park",
+      "category": "Natural",
+      "date_inscribed": 1991,
+      "criteria": "(vii)(x)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -6.75,
+      "longitude": 105.333333,
+      "short_description": "This national park, located in the extreme south-western tip of Java on the Sunda shelf, includes the Ujung Kulon peninsula and several offshore islands and encompasses the natural reserve of Krakatoa. In addition to its natural beauty and geological interest – particularly for the study of inland volcanoes – it contains the largest remaining area of lowland rainforests in the Java plain. Several species of endangered plants and animals can be found there, the Javan rhinoceros being the most seriously under threat.",
+      "id_number": 608,
+      "url": "https://whc.unesco.org/en/list/608"
+    },
+    {
+      "name": "Sangiran Early Man Site",
+      "category": "Cultural",
+      "date_inscribed": 1996,
+      "criteria": "(iii)(vi)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -7.4,
+      "longitude": 110.816667,
+      "short_description": "Excavations here from 1936 to 1941 led to the discovery of the first hominid fossil at this site. Later, 50 fossils of Meganthropus palaeo and Pithecanthropus erectus/Homo erectus were found – half of all the world's known hominid fossils. Inhabited for the past one and a half million years, Sangiran is one of the key sites for the understanding of human evolution.",
+      "id_number": 593,
+      "url": "https://whc.unesco.org/en/list/593"
+    },
+    {
+      "name": "Lorentz National Park",
+      "category": "Natural",
+      "date_inscribed": 1999,
+      "criteria": "(viii)(ix)(x)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -4.75,
+      "longitude": 137.83333,
+      "short_description": "Lorentz National Park (2.35 million ha) is the largest protected area in South-East Asia. It is the only protected area in the world to incorporate a continuous, intact transect from snowcap to tropical marine environment, including extensive lowland wetlands. Located at the meeting-point of two colliding continental plates, the area has a complex geology with ongoing mountain formation as well as major sculpting by glaciation. The area also contains fossil sites which provide evidence of the evolution of life on New Guinea, a high level of endemism and the highest level of biodiversity in the region.",
+      "id_number": 955,
+      "url": "https://whc.unesco.org/en/list/955"
+    },
+    {
+      "name": "Tropical Rainforest Heritage of Sumatra",
+      "category": "Natural",
+      "date_inscribed": 2004,
+      "criteria": "(vii)(ix)(x)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -2.5,
+      "longitude": 101.5,
+      "short_description": "The 2.5 million hectare Tropical Rainforest Heritage of Sumatra site comprises three national parks: Gunung Leuser National Park, Kerinci Seblat National Park and Bukit Barisan Selatan National Park. The site holds the greatest potential for long-term conservation of the distinctive and diverse biota of Sumatra, including many endangered species. The protected area is home to an estimated 10,000 plant species, including 17 endemic genera; more than 200 mammal species; and some 580 bird species of which 465 are resident and 21 are endemic. Of the mammal species, 22 are Asian, not found elsewhere in the archipelago and 15 are confined to the Indonesian region, including the endemic Sumatran orang-utan. The site also provides biogeographic evidence of the evolution of the island.",
+      "id_number": 1167,
+      "url": "https://whc.unesco.org/en/list/1167"
+    },
+    {
+      "name": "Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy",
+      "category": "Cultural",
+      "date_inscribed": 2012,
+      "criteria": "(ii)(iii)(v)(vi)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -8.259167,
+      "longitude": 115.402778,
+      "short_description": "The cultural landscape of Bali consists of five rice terraces and their water temples that cover 19,500 ha. The temples are the focus of a cooperative water management system of canals and weirs, known as subak, that dates back to the 9th century. Included in the landscape is the 18th-century Royal Water Temple of Pura Taman Ayun, the largest and most impressive architectural edifice of its type on the island. The subak reflects the philosophical concept of Tri Hita Karana , which brings together the realms of the spirit, the human world and nature. This philosophy was born of the cultural exchange between Bali and India over the past 2,000 years and has shaped the landscape of Bali. The subak system of democratic and egalitarian farming practices has enabled the Balinese to become the most prolific rice growers in the archipelago despite the challenge of supporting a dense population.",
+      "id_number": 1194,
+      "url": "https://whc.unesco.org/en/list/1194"
+    },
+    {
+      "name": "Ombilin Coal Mining Heritage of Sawahlunto",
+      "category": "Cultural",
+      "date_inscribed": 2019,
+      "criteria": "(ii)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Indonesia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": -0.766626,
+      "longitude": 100.737883,
+      "short_description": "Built for the extraction, processing and transport of high-quality coal in an inaccessible region of Sumatra, this industrial site was developed by the Netherlands East Indies’ government in the globally important period of industrialisation from the late 19th to the beginning of the 20th century. The workforce was recruited from the local Minangkabau people and supplemented by Javanese and Chinese contract workers, and convict labourers from Dutch-controlled areas. It comprises the mining site and company town, coal storage facilities at the port of Emmahaven and the railway network linking the mines to the coastal facilities. The Ombilin Coal Mining Heritage was built as an integrated system that enabled the efficient deep-bore extraction, processing, transport and shipment of coal. It is also an outstanding testimony of exchange and fusion between local knowledge and practices and European technology.",
+      "id_number": 1610,
+      "url": "https://whc.unesco.org/en/list/1610"
+    }
+  ],
+  "meta": {
+    "title": "Situs Warisan Dunia UNESCO di Indonesia - Unduh Gratis",
+    "description": "Daftar situs Warisan Dunia UNESCO yang berada di Indonesia Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Situs Warisan Dunia UNESCO di Indonesia | ListBase",
+    "seo_description": "Unduh Situs Warisan Dunia UNESCO di Indonesia — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 13 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

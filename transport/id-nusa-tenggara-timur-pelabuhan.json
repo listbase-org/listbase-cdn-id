@@ -1,0 +1,344 @@
+{
+  "id": "id-nusa-tenggara-timur-pelabuhan",
+  "name": "Pelabuhan Umum di Nusa Tenggara Timur (36 pelabuhan)",
+  "title": "Pelabuhan Umum di Nusa Tenggara Timur (36 pelabuhan)",
+  "description": "36 pelabuhan umum di Provinsi Nusa Tenggara Timur, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "AAU",
+      "nama_pelabuhan": "Atapupu",
+      "lokasi_kabupaten_kota": "BELU",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BAA",
+      "nama_pelabuhan": "Baranusa",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KUPP KELAS III BARANUSA",
+      "alamat_kantor": "Jl.Komp. Pelabuhan Baranusa Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BAG",
+      "nama_pelabuhan": "Baing",
+      "lokasi_kabupaten_kota": "SUMBA TIMUR",
+      "unit_kerja": "KSOP KELAS IV WAINGAPU",
+      "alamat_kantor": "Jl. Nangamesi No. 11 Waingapu Nusa Tenggara Timur 87110",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BBU",
+      "nama_pelabuhan": "Biu",
+      "lokasi_kabupaten_kota": "SABU RAIJUA",
+      "unit_kerja": "KUPP KELAS III SEBA",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BRG",
+      "nama_pelabuhan": "Balauring",
+      "lokasi_kabupaten_kota": "LEMBATA",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "BTU",
+      "nama_pelabuhan": "Binanatu",
+      "lokasi_kabupaten_kota": "SUMBA BARAT",
+      "unit_kerja": "KUPP KELAS III WAIKELO",
+      "alamat_kantor": "Jl. Waikelo Kec. Luara Kab. Sumba Barat Waikelo; Nusa Tenggara Timur - 87254",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ILT",
+      "nama_pelabuhan": "lamakera",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ISA",
+      "nama_pelabuhan": "Seba",
+      "lokasi_kabupaten_kota": "SABU RAIJUA",
+      "unit_kerja": "KUPP KELAS III SEBA",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "ITK",
+      "nama_pelabuhan": "Tobilota",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "LKA",
+      "nama_pelabuhan": "Larantuka",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "LWE",
+      "nama_pelabuhan": "Lewoleba",
+      "lokasi_kabupaten_kota": "LEMBATA",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MEH",
+      "nama_pelabuhan": "Menanga",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MEL",
+      "nama_pelabuhan": "Pulau Mules",
+      "lokasi_kabupaten_kota": "MANGGARAI",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MMO",
+      "nama_pelabuhan": "Mamboro",
+      "lokasi_kabupaten_kota": "SUMBA TENGAH",
+      "unit_kerja": "KUPP KELAS III WAIKELO",
+      "alamat_kantor": "Jl. Waikelo Kec. Luara Kab. Sumba Barat Waikelo; Nusa Tenggara Timur - 87254",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MOF",
+      "nama_pelabuhan": "Maumere /Laurentius Say",
+      "lokasi_kabupaten_kota": "SIKA",
+      "unit_kerja": "KSOP KELAS IV LAURENTIUS SAY/MAUMERE",
+      "alamat_kantor": "Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MOT",
+      "nama_pelabuhan": "Marapokot",
+      "lokasi_kabupaten_kota": "NAGEKO",
+      "unit_kerja": "KUPP KELAS III MARAPOKOT",
+      "alamat_kantor": "Jl. Pelabuhan Marapokot No. 01 Marapokot Nusa Tenggara Timur 86472",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MOU",
+      "nama_pelabuhan": "Moru",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KUPP KELAS III BARANUSA",
+      "alamat_kantor": "Jl.Komp. Pelabuhan Baranusa Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "MRG",
+      "nama_pelabuhan": "Maritaing",
+      "lokasi_kabupaten_kota": "ALOR",
+      "unit_kerja": "KUPP KELAS III BARANUSA",
+      "alamat_kantor": "Jl.Komp. Pelabuhan Baranusa Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "NIU",
+      "nama_pelabuhan": "Naikliu",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "NUN",
+      "nama_pelabuhan": "Nunbaun Sabu (Namosain)",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "OPI",
+      "nama_pelabuhan": "Oepoli",
+      "lokasi_kabupaten_kota": "KUPANG",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "PAE",
+      "nama_pelabuhan": "Palue",
+      "lokasi_kabupaten_kota": "SIKA",
+      "unit_kerja": "KSOP KELAS IV LAURENTIUS SAY/MAUMERE",
+      "alamat_kantor": "Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "POA",
+      "nama_pelabuhan": "Pota",
+      "lokasi_kabupaten_kota": "MANGGARAI TIMUR",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "PUA",
+      "nama_pelabuhan": "Pulau Salura",
+      "lokasi_kabupaten_kota": "SUMBA TIMUR",
+      "unit_kerja": "KSOP KELAS IV WAINGAPU",
+      "alamat_kantor": "Jl. Nangamesi No. 11 Waingapu Nusa Tenggara Timur 87110",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "REO",
+      "nama_pelabuhan": "Reo",
+      "lokasi_kabupaten_kota": "MANGGARAI",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "RIA",
+      "nama_pelabuhan": "Raijua",
+      "lokasi_kabupaten_kota": "SABU RAIJUA",
+      "unit_kerja": "KUPP KELAS III SEBA",
+      "alamat_kantor": "Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "RIG",
+      "nama_pelabuhan": "Riung",
+      "lokasi_kabupaten_kota": "NGADA",
+      "unit_kerja": "KUPP KELAS III MARAPOKOT",
+      "alamat_kantor": "Jl. Pelabuhan Marapokot No. 01 Marapokot Nusa Tenggara Timur 86472",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WAM",
+      "nama_pelabuhan": "Terong/Waiwerang",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WDO",
+      "nama_pelabuhan": "Wulandoni",
+      "lokasi_kabupaten_kota": "LEMBATA",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WGP",
+      "nama_pelabuhan": "Waingapu",
+      "lokasi_kabupaten_kota": "SUMBA TIMUR",
+      "unit_kerja": "KSOP KELAS IV WAINGAPU",
+      "alamat_kantor": "Jl. Nangamesi No. 11 Waingapu Nusa Tenggara Timur 87110",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WIE",
+      "nama_pelabuhan": "Waiwole",
+      "lokasi_kabupaten_kota": "MANGGARAI TIMUR",
+      "unit_kerja": "KUPP KELAS II REO",
+      "alamat_kantor": "Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri; Nusa Tenggara Timur - 86592",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WII",
+      "nama_pelabuhan": "Wini",
+      "lokasi_kabupaten_kota": "TIMOR TENGAH UTARA",
+      "unit_kerja": "KUPP KELAS II ATAPUPU",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Atapupu Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WIO",
+      "nama_pelabuhan": "Waikelo",
+      "lokasi_kabupaten_kota": "SUMBA BARAT DAYA",
+      "unit_kerja": "KUPP KELAS III WAIKELO",
+      "alamat_kantor": "Jl. Waikelo Kec. Luara Kab. Sumba Barat Waikelo; Nusa Tenggara Timur - 87254",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WRG",
+      "nama_pelabuhan": "Wuring",
+      "lokasi_kabupaten_kota": "SIKA",
+      "unit_kerja": "KSOP KELAS IV LAURENTIUS SAY/MAUMERE",
+      "alamat_kantor": "Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WWN",
+      "nama_pelabuhan": "Waiwadan",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "kode_pelabuhan": "WWR",
+      "nama_pelabuhan": "Waiwuring",
+      "lokasi_kabupaten_kota": "FLORES TIMUR",
+      "unit_kerja": "KUPP KELAS II LARANTUKA",
+      "alamat_kantor": "Flores Timus-Nusa Tenggara Timur",
+      "provinsi": "Nusa Tenggara Timur"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Nusa Tenggara Timur (36 pelabuhan) - Unduh Gratis",
+    "description": "36 pelabuhan umum di Provinsi Nusa Tenggara Timur, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 36 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Nusa Tenggara Timur (36 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Nusa Tenggara Timur (36 pelabuhan) — 36 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 36 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "id-bengkulu-regencies",
+  "name": "Daftar Kabupaten dan Kota di Bengkulu",
+  "title": "Daftar Kabupaten dan Kota di Bengkulu",
+  "description": "Daftar kabupaten dan kota di Provinsi Bengkulu dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "17.01",
+      "name": "Kabupaten Bengkulu Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bengkulu-selatan"
+    },
+    {
+      "code": "17.02",
+      "name": "Kabupaten Rejang Lebong",
+      "type": "Kabupaten",
+      "slug": "kabupaten-rejang-lebong"
+    },
+    {
+      "code": "17.03",
+      "name": "Kabupaten Bengkulu Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bengkulu-utara"
+    },
+    {
+      "code": "17.04",
+      "name": "Kabupaten Kaur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kaur"
+    },
+    {
+      "code": "17.05",
+      "name": "Kabupaten Seluma",
+      "type": "Kabupaten",
+      "slug": "kabupaten-seluma"
+    },
+    {
+      "code": "17.06",
+      "name": "Kabupaten Mukomuko",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mukomuko"
+    },
+    {
+      "code": "17.07",
+      "name": "Kabupaten Lebong",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lebong"
+    },
+    {
+      "code": "17.08",
+      "name": "Kabupaten Kepahiang",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepahiang"
+    },
+    {
+      "code": "17.09",
+      "name": "Kabupaten Bengkulu Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bengkulu-tengah"
+    },
+    {
+      "code": "17.71",
+      "name": "Kota Bengkulu",
+      "type": "Kota",
+      "slug": "kota-bengkulu"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Bengkulu - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Bengkulu dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Bengkulu | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Bengkulu — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

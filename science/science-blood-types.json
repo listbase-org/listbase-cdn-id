@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "Dataset Bagan Kompatibilitas Golongan Darah Komprehensif",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To (EN)",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "Golongan Umum"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "Golongan Umum"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "Golongan Umum"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "Golongan Langka"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "Semua golongan (Penerima Universal)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "Golongan Langka"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "Golongan Langka"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Golongan Umum"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "Semua golongan (Donor Universal)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Donor Universal"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "Semua golongan (Donor Plasma Universal)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "Plasma"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "Hanya penerima Rh+",
+      "can_receive_from": "Baik Rh+ maupun Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Info Faktor Rh"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "Baik Rh+ maupun Rh-",
+      "can_receive_from": "Hanya Rh-",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Info Faktor Rh"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bagan Kompatibilitas Golongan Darah - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis dataset Bagan Kompatibilitas Golongan Darah. Jelajahi grup ABO, faktor Rh, dan aturan donor untuk 11 tipe darah. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Bagan Kompatibilitas Golongan Darah Komprehensif",
+    "description": "Dataset ini menyediakan bagan kompatibilitas rinci untuk semua golongan darah utama, termasuk kelompok ABO, faktor Rh, aturan donor/penerima, persentase populasi, antigen, dan antibodi. Ini mencakup 11 entri golongan darah unik.",
+    "key_takeaways": [
+      "Akses informasi penting tentang donor darah dan kompatibilitas transfusi.",
+      "Jelajahi persentase populasi dan detail ilmiah untuk 11 golongan darah.",
+      "Unduh data komprehensif tentang antigen, antibodi, dan klasifikasi ABO/Rh.",
+      "Gunakan bagan ini untuk tujuan pendidikan atau referensi perawatan kesehatan."
+    ],
+    "keywords": [
+      "bagan golongan darah",
+      "kompatibilitas darah",
+      "aturan donor darah",
+      "faktor Rh ABO",
+      "data golongan darah excel",
+      "unduh bagan darah pdf"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk penelitian medis atau pengembangan aplikasi kesehatan.",
+      "Gunakan file **Excel** untuk menyaring golongan darah, membuat Pivot Tables, dan menganalisis persentase populasi untuk laporan kesehatan masyarakat atau presentasi.",
+      "Cetak versi **PDF** untuk akses mudah di kantor medis, ruang kelas, atau sebagai panduan referensi cepat untuk pemahaman pribadi.",
+      "Manfaatkan dataset komprehensif ini untuk mengedukasi pasien, siswa, atau staf tentang kompleksitas transfusi darah dan kompatibilitas."
+    ]
+  },
+  "record_count": 11,
+  "title": "Dataset Bagan Kompatibilitas Golongan Darah Komprehensif"
+}

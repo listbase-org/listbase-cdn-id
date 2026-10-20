@@ -1,0 +1,1429 @@
+{
+  "id": "geo-demonyms",
+  "name": "Dataset Deminim Negara & Kode ISO Global",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_m",
+      "label": "Demonym (Male) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_f",
+      "label": "Demonym (Female) (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afghanistan",
+      "demonym_m": "Afgan",
+      "demonym_f": "Afgan"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "demonym_m": "Albania",
+      "demonym_f": "Albania"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Aljazair",
+      "demonym_m": "Aljazair",
+      "demonym_f": "Aljazair"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "demonym_m": "Andorra",
+      "demonym_f": "Andorra"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "demonym_m": "Angola",
+      "demonym_f": "Angola"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua dan Barbuda",
+      "demonym_m": "Antigua, Barbuda",
+      "demonym_f": "Antigua, Barbuda"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentina",
+      "demonym_m": "Argentina",
+      "demonym_f": "Argentina"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "demonym_m": "Armenia",
+      "demonym_f": "Armenia"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "demonym_m": "Australia",
+      "demonym_f": "Australia"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "demonym_m": "Austria",
+      "demonym_f": "Austria"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaijan",
+      "demonym_m": "Azerbaijan",
+      "demonym_f": "Azerbaijan"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahama",
+      "demonym_m": "Bahama",
+      "demonym_f": "Bahama"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrain",
+      "demonym_m": "Bahrain",
+      "demonym_f": "Bahrain"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesh",
+      "demonym_m": "Bangladesh",
+      "demonym_f": "Bangladesh"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "demonym_m": "Barbados",
+      "demonym_f": "Barbados"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "demonym_m": "Belarus",
+      "demonym_f": "Belarus"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgia",
+      "demonym_m": "Belgia",
+      "demonym_f": "Belgia"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "demonym_m": "Belize",
+      "demonym_f": "Belize"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "demonym_m": "Benin",
+      "demonym_f": "Benin"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "demonym_m": "Bhutan",
+      "demonym_f": "Bhutan"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivia",
+      "demonym_m": "Bolivia",
+      "demonym_f": "Bolivia"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosnia dan Herzegovina",
+      "demonym_m": "Bosnia, Herzegovina",
+      "demonym_f": "Bosnia, Herzegovina"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "demonym_m": "Motswana",
+      "demonym_f": "Motswana"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brasil",
+      "demonym_m": "Brasil",
+      "demonym_f": "Brasil"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "demonym_m": "Brunei",
+      "demonym_f": "Brunei"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaria",
+      "demonym_m": "Bulgaria",
+      "demonym_f": "Bulgaria"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "demonym_m": "Burkinabé",
+      "demonym_f": "Burkinabé"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "demonym_m": "Burundi",
+      "demonym_f": "Burundi"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboja",
+      "demonym_m": "Kamboja",
+      "demonym_f": "Kamboja"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "demonym_m": "Kamerun",
+      "demonym_f": "Kamerun"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "demonym_m": "Kanada",
+      "demonym_f": "Kanada"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Tanjung Verde",
+      "demonym_m": "Tanjung Verde",
+      "demonym_f": "Tanjung Verde"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Republik Afrika Tengah",
+      "demonym_m": "Afrika Tengah",
+      "demonym_f": "Afrika Tengah"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Chad",
+      "demonym_m": "Chad",
+      "demonym_f": "Chad"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chili",
+      "demonym_m": "Chili",
+      "demonym_f": "Chili"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Tiongkok",
+      "demonym_m": "Tiongkok",
+      "demonym_f": "Tiongkok"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombia",
+      "demonym_m": "Kolombia",
+      "demonym_f": "Kolombia"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komoro",
+      "demonym_m": "Komoro",
+      "demonym_f": "Komoro"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "demonym_m": "Kosta Rika",
+      "demonym_f": "Kosta Rika"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Kroasia",
+      "demonym_m": "Kroasia",
+      "demonym_f": "Kroasia"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "demonym_m": "Orang Kuba",
+      "demonym_f": "Orang Kuba"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Siprus",
+      "demonym_m": "Orang Siprus",
+      "demonym_f": "Orang Siprus"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Ceko",
+      "demonym_m": "Orang Ceko",
+      "demonym_f": "Orang Ceko"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Denmark",
+      "demonym_m": "Orang Denmark",
+      "demonym_f": "Orang Denmark"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Jibuti",
+      "demonym_m": "Orang Jibuti",
+      "demonym_f": "Orang Jibuti"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "demonym_m": "Orang Dominika",
+      "demonym_f": "Orang Dominika"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Republik Dominika",
+      "demonym_m": "Orang Dominika",
+      "demonym_f": "Orang Dominika"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Kongo DR",
+      "demonym_m": "Orang Kongo",
+      "demonym_f": "Orang Kongo"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekuador",
+      "demonym_m": "Orang Ekuador",
+      "demonym_f": "Orang Ekuador"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mesir",
+      "demonym_m": "Orang Mesir",
+      "demonym_f": "Orang Mesir"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "demonym_m": "Orang El Salvador",
+      "demonym_f": "Orang El Salvador"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Guinea Khatulistiwa",
+      "demonym_m": "Orang Guinea Khatulistiwa",
+      "demonym_f": "Orang Guinea Khatulistiwa"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritrea",
+      "demonym_m": "Orang Eritrea",
+      "demonym_f": "Orang Eritrea"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "demonym_m": "Orang Estonia",
+      "demonym_f": "Orang Estonia"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "demonym_m": "Orang Swazi",
+      "demonym_f": "Orang Swazi"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopia",
+      "demonym_m": "Orang Etiopia",
+      "demonym_f": "Orang Etiopia"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "demonym_m": "Orang Fiji",
+      "demonym_f": "Orang Fiji"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandia",
+      "demonym_m": "Orang Finlandia",
+      "demonym_f": "Orang Finlandia"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Prancis",
+      "demonym_m": "Orang Prancis",
+      "demonym_f": "Orang Prancis"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "demonym_m": "Orang Gabon",
+      "demonym_f": "Orang Gabon"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "demonym_m": "orang Gambia",
+      "demonym_f": "orang Gambia"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Georgia",
+      "demonym_m": "orang Georgia",
+      "demonym_f": "orang Georgia"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Jerman",
+      "demonym_m": "orang Jerman",
+      "demonym_f": "orang Jerman"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "demonym_m": "orang Ghana",
+      "demonym_f": "orang Ghana"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunani",
+      "demonym_m": "orang Yunani",
+      "demonym_f": "orang Yunani"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "demonym_m": "orang Grenada",
+      "demonym_f": "orang Grenada"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "demonym_m": "orang Guatemala",
+      "demonym_f": "orang Guatemala"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Guinea",
+      "demonym_m": "orang Guinea",
+      "demonym_f": "orang Guinea"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Guinea-Bissau",
+      "demonym_m": "orang Guinea-Bissau",
+      "demonym_f": "orang Guinea-Bissau"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "demonym_m": "orang Guyana",
+      "demonym_f": "orang Guyana"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "demonym_m": "orang Haiti",
+      "demonym_f": "orang Haiti"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "demonym_m": "orang Honduras",
+      "demonym_f": "orang Honduras"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Hongaria",
+      "demonym_m": "orang Hongaria",
+      "demonym_f": "orang Hongaria"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Islandia",
+      "demonym_m": "orang Islandia",
+      "demonym_f": "orang Islandia"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "India",
+      "demonym_m": "orang India",
+      "demonym_f": "orang India"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonesia",
+      "demonym_m": "orang Indonesia",
+      "demonym_f": "orang Indonesia"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "demonym_m": "orang Iran",
+      "demonym_f": "orang Iran"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "demonym_m": "orang Irak",
+      "demonym_f": "orang Irak"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irlandia",
+      "demonym_m": "orang Irlandia",
+      "demonym_f": "orang Irlandia"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Israel",
+      "demonym_m": "orang Israel",
+      "demonym_f": "orang Israel"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Italia",
+      "demonym_m": "Orang Italia",
+      "demonym_f": "Orang Italia"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Pantai Gading",
+      "demonym_m": "Orang Pantai Gading",
+      "demonym_f": "Orang Pantai Gading"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "demonym_m": "Orang Jamaika",
+      "demonym_f": "Orang Jamaika"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Jepang",
+      "demonym_m": "Orang Jepang",
+      "demonym_f": "Orang Jepang"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Yordania",
+      "demonym_m": "Orang Yordania",
+      "demonym_f": "Orang Yordania"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakhstan",
+      "demonym_m": "Orang Kazakhstan",
+      "demonym_f": "Orang Kazakhstan"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "demonym_m": "Orang Kenya",
+      "demonym_f": "Orang Kenya"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "demonym_m": "Orang Kiribati",
+      "demonym_f": "Orang Kiribati"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosovo",
+      "demonym_m": "Orang Kosovo",
+      "demonym_f": "Orang Kosovo"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwait",
+      "demonym_m": "Orang Kuwait",
+      "demonym_f": "Orang Kuwait"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kirgizstan",
+      "demonym_m": "Orang Kirgiz",
+      "demonym_f": "Orang Kirgiz"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "demonym_m": "Orang Laos",
+      "demonym_f": "Orang Laos"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Latvia",
+      "demonym_m": "Orang Latvia",
+      "demonym_f": "Orang Latvia"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lebanon",
+      "demonym_m": "Orang Lebanon",
+      "demonym_f": "Orang Lebanon"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "demonym_m": "Orang Mosotho",
+      "demonym_f": "Orang Mosotho"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "demonym_m": "Orang Liberia",
+      "demonym_f": "Orang Liberia"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "demonym_m": "Orang Libya",
+      "demonym_f": "Orang Libya"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "demonym_m": "Orang Liechtenstein",
+      "demonym_f": "Orang Liechtenstein"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Lituania",
+      "demonym_m": "Orang Lituania",
+      "demonym_f": "Orang Lituania"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luksemburg",
+      "demonym_m": "Orang Luksemburg",
+      "demonym_f": "Orang Luksemburg"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "demonym_m": "Orang Madagaskar",
+      "demonym_f": "Orang Madagaskar"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "demonym_m": "Orang Malawi",
+      "demonym_f": "Orang Malawi"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malaysia",
+      "demonym_m": "Orang Malaysia",
+      "demonym_f": "Orang Malaysia"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maladewa",
+      "demonym_m": "Orang Maladewa",
+      "demonym_f": "Orang Maladewa"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "demonym_m": "Orang Mali",
+      "demonym_f": "Orang Mali"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "demonym_m": "Orang Malta",
+      "demonym_f": "Orang Malta"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Kepulauan Marshall",
+      "demonym_m": "Orang Marshall",
+      "demonym_f": "Orang Marshall"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauritania",
+      "demonym_m": "Orang Mauritania",
+      "demonym_f": "Orang Mauritania"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "demonym_m": "Orang Mauritius",
+      "demonym_f": "Orang Mauritius"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksiko",
+      "demonym_m": "Orang Meksiko",
+      "demonym_f": "Orang Meksiko"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronesia",
+      "demonym_m": "Orang Mikronesia",
+      "demonym_f": "Orang Mikronesia"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "demonym_m": "Orang Moldova",
+      "demonym_f": "Orang Moldova"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "demonym_m": "Orang Monako",
+      "demonym_f": "Orang Monako"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolia",
+      "demonym_m": "Orang Mongolia",
+      "demonym_f": "Orang Mongolia"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Montenegro",
+      "demonym_m": "Orang Montenegro",
+      "demonym_f": "Orang Montenegro"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "demonym_m": "Orang Maroko",
+      "demonym_f": "Orang Maroko"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "demonym_m": "Orang Mozambik",
+      "demonym_f": "Orang Mozambik"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "demonym_m": "Orang Burma",
+      "demonym_f": "Orang Burma"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "demonym_m": "Orang Namibia",
+      "demonym_f": "Orang Namibia"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "demonym_m": "Orang Nauru",
+      "demonym_f": "Orang Nauru"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "demonym_m": "Nepal",
+      "demonym_f": "Nepal"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Belanda",
+      "demonym_m": "Belanda",
+      "demonym_f": "Belanda"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Selandia Baru",
+      "demonym_m": "Selandia Baru",
+      "demonym_f": "Selandia Baru"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "demonym_m": "Nikaragua",
+      "demonym_f": "Nikaragua"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "demonym_m": "Niger",
+      "demonym_f": "Niger"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "demonym_m": "Nigeria",
+      "demonym_f": "Nigeria"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Korea Utara",
+      "demonym_m": "Korea Utara",
+      "demonym_f": "Korea Utara"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Makedonia Utara",
+      "demonym_m": "Makedonia",
+      "demonym_f": "Makedonia"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norwegia",
+      "demonym_m": "Norwegia",
+      "demonym_f": "Norwegia"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "demonym_m": "Oman",
+      "demonym_f": "Oman"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "demonym_m": "Pakistan",
+      "demonym_f": "Pakistan"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "demonym_m": "Palau",
+      "demonym_f": "Palau"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "demonym_m": "Panama",
+      "demonym_f": "Panama"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Nugini",
+      "demonym_m": "Papua Nugini",
+      "demonym_f": "Papua Nugini"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "demonym_m": "Paraguay",
+      "demonym_f": "Paraguay"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "demonym_m": "Peru",
+      "demonym_f": "Peru"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipina",
+      "demonym_m": "Filipina",
+      "demonym_f": "Filipina"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polandia",
+      "demonym_m": "Polandia",
+      "demonym_f": "Polandia"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugal",
+      "demonym_m": "Portugal",
+      "demonym_f": "Portugal"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Qatar",
+      "demonym_m": "Qatar",
+      "demonym_f": "Qatar"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Republik Kongo",
+      "demonym_m": "Orang Kongo",
+      "demonym_f": "Orang Kongo"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumania",
+      "demonym_m": "Orang Rumania",
+      "demonym_f": "Orang Rumania"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusia",
+      "demonym_m": "Orang Rusia",
+      "demonym_f": "Orang Rusia"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "demonym_m": "Orang Rwanda",
+      "demonym_f": "Orang Rwanda"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts dan Nevis",
+      "demonym_m": "Orang Kittitian atau Nevisian",
+      "demonym_f": "Orang Kittitian atau Nevisian"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "demonym_m": "Orang Saint Lucia",
+      "demonym_f": "Orang Saint Lucia"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent dan Grenadines",
+      "demonym_m": "Orang Saint Vincent",
+      "demonym_f": "Orang Saint Vincent"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "demonym_m": "Orang Samoa",
+      "demonym_f": "Orang Samoa"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "demonym_m": "Orang San Marino",
+      "demonym_f": "Orang San Marino"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Sao Tome dan Principe",
+      "demonym_m": "Orang Sao Tome",
+      "demonym_f": "Orang Sao Tome"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Arab Saudi",
+      "demonym_m": "Orang Arab Saudi",
+      "demonym_f": "Orang Arab Saudi"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "demonym_m": "Orang Senegal",
+      "demonym_f": "Orang Senegal"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "demonym_m": "Orang Serbia",
+      "demonym_f": "Orang Serbia"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seychelles",
+      "demonym_m": "Orang Seychelles",
+      "demonym_f": "Orang Seychelles"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "demonym_m": "Orang Sierra Leone",
+      "demonym_f": "Orang Sierra Leone"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapura",
+      "demonym_m": "Orang Singapura",
+      "demonym_f": "Orang Singapura"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slowakia",
+      "demonym_m": "Orang Slowakia",
+      "demonym_f": "Orang Slowakia"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenia",
+      "demonym_m": "Orang Slovenia",
+      "demonym_f": "Orang Slovenia"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Kepulauan Solomon",
+      "demonym_m": "Orang Kepulauan Solomon",
+      "demonym_f": "Orang Kepulauan Solomon"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "demonym_m": "Orang Somalia",
+      "demonym_f": "Orang Somalia"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Afrika Selatan",
+      "demonym_m": "Afrika Selatan",
+      "demonym_f": "Afrika Selatan"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Korea Selatan",
+      "demonym_m": "Korea Selatan",
+      "demonym_f": "Korea Selatan"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Sudan Selatan",
+      "demonym_m": "Sudan Selatan",
+      "demonym_f": "Sudan Selatan"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Spanyol",
+      "demonym_m": "Spanyol",
+      "demonym_f": "Spanyol"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "demonym_m": "Sri Lanka",
+      "demonym_f": "Sri Lanka"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "demonym_m": "Sudan",
+      "demonym_f": "Sudan"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Suriname",
+      "demonym_m": "Suriname",
+      "demonym_f": "Suriname"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Swedia",
+      "demonym_m": "Swedia",
+      "demonym_f": "Swedia"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Swiss",
+      "demonym_m": "Swiss",
+      "demonym_f": "Swiss"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriah",
+      "demonym_m": "Suriah",
+      "demonym_f": "Suriah"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tajikistan",
+      "demonym_m": "Tajik",
+      "demonym_f": "Tajik"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "demonym_m": "Tanzania",
+      "demonym_f": "Tanzania"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Thailand",
+      "demonym_m": "Thailand",
+      "demonym_f": "Thailand"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor Leste",
+      "demonym_m": "Timor Leste",
+      "demonym_f": "Timor Leste"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "demonym_m": "Togo",
+      "demonym_f": "Togo"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "demonym_m": "Tonga",
+      "demonym_f": "Tonga"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad dan Tobago",
+      "demonym_m": "Trinidad",
+      "demonym_f": "Trinidad"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunisia",
+      "demonym_m": "Tunisia",
+      "demonym_f": "Tunisia"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turki",
+      "demonym_m": "Turki",
+      "demonym_f": "Turki"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "demonym_m": "Turkmen",
+      "demonym_f": "Turkmen"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "demonym_m": "Orang Tuvalu",
+      "demonym_f": "Orang Tuvalu"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "demonym_m": "Orang Uganda",
+      "demonym_f": "Orang Uganda"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "demonym_m": "Orang Ukraina",
+      "demonym_f": "Orang Ukraina"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Uni Emirat Arab",
+      "demonym_m": "Orang Emirat",
+      "demonym_f": "Orang Emirat"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Britania Raya",
+      "demonym_m": "Orang Britania",
+      "demonym_f": "Orang Britania"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Serikat",
+      "demonym_m": "Orang Amerika",
+      "demonym_f": "Orang Amerika"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "demonym_m": "Orang Uruguay",
+      "demonym_f": "Orang Uruguay"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "demonym_m": "Orang Uzbekistan",
+      "demonym_f": "Orang Uzbekistan"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "demonym_m": "Orang Vanuatu",
+      "demonym_f": "Orang Vanuatu"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Kota Vatikan",
+      "demonym_m": "Orang Vatikan",
+      "demonym_f": "Orang Vatikan"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "demonym_m": "Orang Venezuela",
+      "demonym_f": "Orang Venezuela"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "demonym_m": "Orang Vietnam",
+      "demonym_f": "Orang Vietnam"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yaman",
+      "demonym_m": "Orang Yaman",
+      "demonym_f": "Orang Yaman"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "demonym_m": "Orang Zambia",
+      "demonym_f": "Orang Zambia"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "demonym_m": "Orang Zimbabwe",
+      "demonym_f": "Orang Zimbabwe"
+    }
+  ],
+  "meta": {
+    "seo_title": "Daftar Deminim Negara - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh daftar lengkap 195 deminim negara (pria/wanita) dengan kode ISO. Akses gratis dalam format Excel, CSV, dan PDF untuk proyek data Anda.",
+    "title": "Dataset Deminim Negara & Kode ISO Global",
+    "description": "Dataset ini menyediakan daftar komprehensif 195 negara merdeka, merinci deminim pria dan wanita mereka bersama dengan kode ISO Alpha-2 dan Alpha-3.",
+    "key_takeaways": [
+      "Akses 195 catatan deminim negara, termasuk bentuk pria dan wanita.",
+      "Jelajahi negara-negara dengan kode ISO Alpha-2 dan Alpha-3 masing-masing.",
+      "Unduh data siap pakai untuk studi linguistik atau aplikasi geografis.",
+      "Manfaatkan informasi deminim yang akurat untuk berbagai kebutuhan penelitian dan pengembangan."
+    ],
+    "keywords": [
+      "daftar deminim negara",
+      "data deminim nasional",
+      "kode iso deminim",
+      "unduh deminim excel",
+      "data deminim csv",
+      "kata sifat negara"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk membangun aplikasi yang memerlukan terminologi spesifik negara.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan menganalisis tren deminim negara untuk penelitian linguistik atau pembuatan konten pendidikan.",
+      "Cetak versi **PDF** untuk panduan referensi cepat secara offline di kelas, agen terjemahan, atau perencanaan perjalanan.",
+      "Integrasikan data ini ke dalam situs web atau aplikasi seluler untuk memberikan istilah yang akurat secara budaya untuk identifikasi pengguna atau lokalisasi konten."
+    ]
+  },
+  "record_count": 195,
+  "title": "Dataset Deminim Negara & Kode ISO Global"
+}

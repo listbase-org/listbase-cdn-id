@@ -1,0 +1,244 @@
+{
+  "id": "id-sumatera-utara-regencies",
+  "name": "Daftar Kabupaten dan Kota di Sumatera Utara",
+  "title": "Daftar Kabupaten dan Kota di Sumatera Utara",
+  "description": "Daftar kabupaten dan kota di Provinsi Sumatera Utara dengan kode wilayah Kepmendagri. Total 33 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "12.01",
+      "name": "Kabupaten Tapanuli Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tapanuli-tengah"
+    },
+    {
+      "code": "12.02",
+      "name": "Kabupaten Tapanuli Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tapanuli-utara"
+    },
+    {
+      "code": "12.03",
+      "name": "Kabupaten Tapanuli Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tapanuli-selatan"
+    },
+    {
+      "code": "12.04",
+      "name": "Kabupaten Nias",
+      "type": "Kabupaten",
+      "slug": "kabupaten-nias"
+    },
+    {
+      "code": "12.05",
+      "name": "Kabupaten Langkat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-langkat"
+    },
+    {
+      "code": "12.06",
+      "name": "Kabupaten Karo",
+      "type": "Kabupaten",
+      "slug": "kabupaten-karo"
+    },
+    {
+      "code": "12.07",
+      "name": "Kabupaten Deli Serdang",
+      "type": "Kabupaten",
+      "slug": "kabupaten-deli-serdang"
+    },
+    {
+      "code": "12.08",
+      "name": "Kabupaten Simalungun",
+      "type": "Kabupaten",
+      "slug": "kabupaten-simalungun"
+    },
+    {
+      "code": "12.09",
+      "name": "Kabupaten Asahan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-asahan"
+    },
+    {
+      "code": "12.10",
+      "name": "Kabupaten Labuhanbatu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-labuhanbatu"
+    },
+    {
+      "code": "12.11",
+      "name": "Kabupaten Dairi",
+      "type": "Kabupaten",
+      "slug": "kabupaten-dairi"
+    },
+    {
+      "code": "12.12",
+      "name": "Kabupaten Toba",
+      "type": "Kabupaten",
+      "slug": "kabupaten-toba"
+    },
+    {
+      "code": "12.13",
+      "name": "Kabupaten Mandailing Natal",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mandailing-natal"
+    },
+    {
+      "code": "12.14",
+      "name": "Kabupaten Nias Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-nias-selatan"
+    },
+    {
+      "code": "12.15",
+      "name": "Kabupaten Pakpak Bharat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pakpak-bharat"
+    },
+    {
+      "code": "12.16",
+      "name": "Kabupaten Humbang Hasundutan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-humbang-hasundutan"
+    },
+    {
+      "code": "12.17",
+      "name": "Kabupaten Samosir",
+      "type": "Kabupaten",
+      "slug": "kabupaten-samosir"
+    },
+    {
+      "code": "12.18",
+      "name": "Kabupaten Serdang Bedagai",
+      "type": "Kabupaten",
+      "slug": "kabupaten-serdang-bedagai"
+    },
+    {
+      "code": "12.19",
+      "name": "Kabupaten Batu Bara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-batu-bara"
+    },
+    {
+      "code": "12.20",
+      "name": "Kabupaten Padang Lawas Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-padang-lawas-utara"
+    },
+    {
+      "code": "12.21",
+      "name": "Kabupaten Padang Lawas",
+      "type": "Kabupaten",
+      "slug": "kabupaten-padang-lawas"
+    },
+    {
+      "code": "12.22",
+      "name": "Kabupaten Labuhanbatu Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-labuhanbatu-selatan"
+    },
+    {
+      "code": "12.23",
+      "name": "Kabupaten Labuhanbatu Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-labuhanbatu-utara"
+    },
+    {
+      "code": "12.24",
+      "name": "Kabupaten Nias Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-nias-utara"
+    },
+    {
+      "code": "12.25",
+      "name": "Kabupaten Nias Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-nias-barat"
+    },
+    {
+      "code": "12.71",
+      "name": "Kota Medan",
+      "type": "Kota",
+      "slug": "kota-medan"
+    },
+    {
+      "code": "12.72",
+      "name": "Kota Pematangsiantar",
+      "type": "Kota",
+      "slug": "kota-pematangsiantar"
+    },
+    {
+      "code": "12.73",
+      "name": "Kota Sibolga",
+      "type": "Kota",
+      "slug": "kota-sibolga"
+    },
+    {
+      "code": "12.74",
+      "name": "Kota Tanjungbalai",
+      "type": "Kota",
+      "slug": "kota-tanjungbalai"
+    },
+    {
+      "code": "12.75",
+      "name": "Kota Binjai",
+      "type": "Kota",
+      "slug": "kota-binjai"
+    },
+    {
+      "code": "12.76",
+      "name": "Kota Tebing Tinggi",
+      "type": "Kota",
+      "slug": "kota-tebing-tinggi"
+    },
+    {
+      "code": "12.77",
+      "name": "Kota Padangsidimpuan",
+      "type": "Kota",
+      "slug": "kota-padangsidimpuan"
+    },
+    {
+      "code": "12.78",
+      "name": "Kota Gunungsitoli",
+      "type": "Kota",
+      "slug": "kota-gunungsitoli"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Sumatera Utara - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Sumatera Utara dengan kode wilayah Kepmendagri. Total 33 kabupaten/kota. Berisi 33 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Sumatera Utara | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Sumatera Utara — 33 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 33 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

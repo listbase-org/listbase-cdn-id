@@ -1,0 +1,364 @@
+{
+  "id": "id-bengkulu-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Bengkulu — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Bengkulu — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Bengkulu menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH BENGKULU TENGAH",
+      "kode_rs": "1709038",
+      "tempat_tidur": 70,
+      "telepon": "0736-7342598",
+      "alamat": "JL. RAYA BENGKULU - KEPAHIANG  KM.27,5 DESA DURIAN DEMANG KECAMATAN KARANG TINGGI KABUPATEN BENGKULU 38382",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BENGKULU TENGAH, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.73404,
+      "longitude": 102.44902
+    },
+    {
+      "nama": "RS UMUM DAERAH KAUR",
+      "kode_rs": "1704028",
+      "tempat_tidur": 117,
+      "telepon": "",
+      "alamat": "DESA CAHAYA BATIN KEC. SEMIDANG GUMAY KAB. KAUR",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KAUR, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -4.6945,
+      "longitude": 103.26
+    },
+    {
+      "nama": "RS UMUM DAERAH CURUP",
+      "kode_rs": "1702015",
+      "tempat_tidur": 168,
+      "telepon": "",
+      "alamat": "JL. BASUKI RAHMAT NO.10, DWI TUNGGAL, CURUP, KABUPATEN REJANG LEBONG, BENGKULU 39119",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "REJANG LEBONG, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.4574,
+      "longitude": 102.553
+    },
+    {
+      "nama": "RS UMUM DAERAH TAIS KABUPATEN SELUMA",
+      "kode_rs": "1705018",
+      "tempat_tidur": 61,
+      "telepon": "(0736) 91285",
+      "alamat": "JL.RAYA BENGKULU-MANNA KM.65, DESA SELEBAR, KEC.SELUMA TIMUR, SELEBAR, KEC. SELUMA, BENGKULU, 38878",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SELUMA, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -4.089589,
+      "longitude": 102.59577
+    },
+    {
+      "nama": "RS TK. IV BENGKULU",
+      "kode_rs": "1771040",
+      "tempat_tidur": 66,
+      "telepon": "0813-7945-2765",
+      "alamat": "JL. ZAINUL ARIFIN NO.27, TIM. INDAH, KEC. SINGARAN PATI, KOTA BENGKULU, BENGKULU 38225",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.817557,
+      "longitude": 102.309525
+    },
+    {
+      "nama": "RS BHAYANGKARA JITRA KOTA BENGKULU",
+      "kode_rs": "1771051",
+      "tempat_tidur": 149,
+      "telepon": "(0736) 21553",
+      "alamat": "JL. VETERAN NO.2, PS. JITRA, KEC. TLK. SEGARA, KOTA BENGKULU, BENGKULU 38113",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.792633,
+      "longitude": 102.255166
+    },
+    {
+      "nama": "RS UMUM DAERAH KEPAHIANG",
+      "kode_rs": "1708010",
+      "tempat_tidur": 170,
+      "telepon": "",
+      "alamat": "JL. BENGKULU - KEPAHIANG, PS. KEPAHIANG, KEC. KEPAHIANG, KABUPATEN KEPAHIANG, BENGKULU 39372",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KEPAHIANG, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.649408,
+      "longitude": 102.576089
+    },
+    {
+      "nama": "RS UMUM DAERAH LEBONG",
+      "kode_rs": "1707026",
+      "tempat_tidur": 81,
+      "telepon": "0852-6782-9488",
+      "alamat": "JALAN MUNING AGUNG, MUNING AGUNG, LEBONG SAKTI, KABUPATEN LEBONG, BENGKULU 39263",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LEBONG, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.137204,
+      "longitude": 102.25935
+    },
+    {
+      "nama": "RS UMUM DAERAH MUKOMUKO",
+      "kode_rs": "1706019",
+      "tempat_tidur": 127,
+      "telepon": "(0737) 71148",
+      "alamat": "JALAN DANAU NIBUNG, KOTA PRAJA, AIR MANJUNTO, KOTA PRAJA, KOTA MUKOMUKO, KABUPATEN MUKOMUKO, BENGKULU 38765",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MUKOMUKO, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -2.520584,
+      "longitude": 101.145002
+    },
+    {
+      "nama": "RS UMUM DAERAH HARAPAN DAN DOA",
+      "kode_rs": "1771002",
+      "tempat_tidur": 122,
+      "telepon": "0812-1269-7721",
+      "alamat": "JL. BASUKI RAHMAT, PADANG JATI, KEC. RATU SAMBAN, KOTA BENGKULU, BENGKULU 38222",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.796274,
+      "longitude": 102.267595
+    },
+    {
+      "nama": "RS UMUM DAERAH ARGA MAKMUR",
+      "kode_rs": "1703016",
+      "tempat_tidur": 182,
+      "telepon": "(0737) 521118",
+      "alamat": "JL. SITI KHODIJAH NO.8, KALI, ARMA JAYA, KABUPATEN BENGKULU UTARA, BENGKULU 38611",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "BENGKULU UTARA, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.438232,
+      "longitude": 102.190393
+    },
+    {
+      "nama": "RS UMUM DAERAH HASANUDDIN DAMRAH MANNA",
+      "kode_rs": "1701014",
+      "tempat_tidur": 156,
+      "telepon": "0853-8163-7684",
+      "alamat": "JL. RAYA PADANG PANJANG, PAGAR DEWA, KOTA MANNA, KABUPATEN BENGKULU SELATAN, BENGKULU 38515",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "BENGKULU SELATAN, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -4.442117,
+      "longitude": 102.896307
+    },
+    {
+      "nama": "RS UMUM DAERAH DR. M. YUNUS BENGKULU",
+      "kode_rs": "1771014",
+      "tempat_tidur": 347,
+      "telepon": "(0736) 52004",
+      "alamat": "JL. BHAYANGKARA, SIDOMULYO, KEC. GADING CEMP., KOTA BENGKULU, BENGKULU 38211",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.834289,
+      "longitude": 102.314092
+    },
+    {
+      "nama": "RS AS-SYIFA",
+      "kode_rs": "1701016",
+      "tempat_tidur": 58,
+      "telepon": "073921888",
+      "alamat": "JL. GERAK ALAM RT. 13 KELURAHAN KOTA MEDAN KECAMATAN KOTA MANNA",
+      "tipe": "RS",
+      "wilayah": "BENGKULU SELATAN, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -4.448688,
+      "longitude": 102.910573
+    },
+    {
+      "nama": "RS UMUM UMMI",
+      "kode_rs": "1771007",
+      "tempat_tidur": 53,
+      "telepon": "(0736) 24832",
+      "alamat": "JLN. HIBRIDA RAYA NO. 01 RT 23 RW 08",
+      "tipe": "",
+      "wilayah": "BENGKULU SELATAN, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.828107,
+      "longitude": 102.312459
+    },
+    {
+      "nama": "RSUD LAGITA",
+      "kode_rs": "1703046",
+      "tempat_tidur": 50,
+      "telepon": "",
+      "alamat": "URAI, KETAHUN, NORTH BENGKULU REGENCY, BENGKULU 38361",
+      "tipe": "",
+      "wilayah": "BENGKULU UTARA, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.379682,
+      "longitude": 101.849512
+    },
+    {
+      "nama": "RS TIARA SELLA",
+      "kode_rs": "1771062",
+      "tempat_tidur": 77,
+      "telepon": "(0736) 20350",
+      "alamat": "JL. LETJEN S PARMAN NO.61, ANGGUT BAWAH, KEC. GADING CEMP., KOTA BENGKULU, BENGKULU 38223",
+      "tipe": "",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.800293,
+      "longitude": 102.271482
+    },
+    {
+      "nama": "RS JIWA SOEPRAPTO PROVINSI BENGKULU",
+      "kode_rs": "1771025",
+      "tempat_tidur": 295,
+      "telepon": "(0736) 343339",
+      "alamat": "JL. BAKTI HUSADA, LKR. BARAT, KEC. GADING CEMP., KOTA BENGKULU, BENGKULU 38211",
+      "tipe": "",
+      "wilayah": "BENGKULU SELATAN, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.839634,
+      "longitude": 102.30075
+    },
+    {
+      "nama": "RS IBU DAN ANAK AL-BARRA",
+      "kode_rs": "1706020",
+      "tempat_tidur": 19,
+      "telepon": "",
+      "alamat": "",
+      "tipe": "",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": 0.211739,
+      "longitude": 99.816774
+    },
+    {
+      "nama": "RS RAFFLESIA BENGKULU",
+      "kode_rs": "1771036",
+      "tempat_tidur": 68,
+      "telepon": "(0736) 21710",
+      "alamat": "NO.10, PADANG JATI, RATU SAMBAN, PADANG JATI, KEC. RATU SAMBAN, KOTA BENGKULU, BENGKULU 38222",
+      "tipe": "",
+      "wilayah": "KOTA BENGKULU, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.796805,
+      "longitude": 102.270388
+    },
+    {
+      "nama": "RS GADING MEDIKA",
+      "kode_rs": "1771009",
+      "tempat_tidur": 112,
+      "telepon": "",
+      "alamat": "JL. CITANDUI NO. 34 KEL. LINGKAR BARAT KEC. GADING CEMPAKA",
+      "tipe": "",
+      "wilayah": "BENGKULU SELATAN, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.838457,
+      "longitude": 102.299838
+    },
+    {
+      "nama": "RS BERGERAK ENGGANO",
+      "kode_rs": "1703027",
+      "tempat_tidur": 10,
+      "telepon": "",
+      "alamat": "JL. RAYA MALAKONI, APOHO, ENGGANO, KABUPATEN BENGKULU UTARA, BENGKULU",
+      "tipe": "",
+      "wilayah": "BENGKULU UTARA, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -5.328136,
+      "longitude": 102.244652
+    },
+    {
+      "nama": "RS PEMBANTU CURUP BENGKULU",
+      "kode_rs": "1702034",
+      "tempat_tidur": 22,
+      "telepon": "NA",
+      "alamat": "JL. ZAINAL BAKTI CURUP PROPINSI BENGKULU",
+      "tipe": "NA",
+      "wilayah": "REJANG LEBONG, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.4664,
+      "longitude": 102.517
+    },
+    {
+      "nama": "RS HANA CHARITAS ARGA MAKMUR",
+      "kode_rs": "1703045",
+      "tempat_tidur": 63,
+      "telepon": "NA",
+      "alamat": "JL. IR. SOEKARNO NO.12 RAMA AGUNG ARGA MAKMUR, BENGKULU UTARA",
+      "tipe": "NA",
+      "wilayah": "BENGKULU UTARA, BENGKULU",
+      "provinsi": "BENGKULU",
+      "latitude": -3.442899,
+      "longitude": 102.178463
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Bengkulu — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Bengkulu menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 24 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Bengkulu — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Bengkulu — data Pusdatin Kemenkes — 24 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 24 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

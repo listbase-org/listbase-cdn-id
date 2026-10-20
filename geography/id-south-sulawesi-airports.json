@@ -1,0 +1,186 @@
+{
+  "id": "id-south-sulawesi-airports",
+  "name": "Bandar Udara — South Sulawesi",
+  "title": "Bandar Udara — South Sulawesi",
+  "description": "Bandar udara di Provinsi South Sulawesi, Indonesia (Airports in South Sulawesi Province, Indonesia — 5 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAFD",
+      "iata": "LLO",
+      "name_en": "Bua Airport",
+      "name_slug": "bua-airport",
+      "city_en": "Beringinjaya",
+      "city_slug": "beringinjaya",
+      "province_en": "South Sulawesi",
+      "province_slug": "south-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 13,
+      "lat": -3.0777591,
+      "lon": 120.2436144,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "MOH",
+      "name_en": "Maleo Airport",
+      "name_slug": "maleo-airport",
+      "city_en": "Malili",
+      "city_slug": "malili",
+      "province_en": "South Sulawesi",
+      "province_slug": "south-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 19,
+      "lat": -2.203333,
+      "lon": 121.660278,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAAM",
+      "iata": "MXB",
+      "name_en": "Masamba",
+      "name_slug": "masamba",
+      "city_en": "Masamba",
+      "city_slug": "masamba",
+      "province_en": "South Sulawesi",
+      "province_slug": "south-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 3172,
+      "lat": -2.333333,
+      "lon": 120.333336,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAAA",
+      "iata": "UPG",
+      "name_en": "Sultan Hasanuddin International Airport",
+      "name_slug": "sultan-hasanuddin-international-airport",
+      "city_en": "Makassar",
+      "city_slug": "makassar",
+      "province_en": "South Sulawesi",
+      "province_slug": "south-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 47,
+      "lat": -5.0766821,
+      "lon": 119.5530386,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAWT",
+      "iata": "TTR",
+      "name_en": "Tana Toraja",
+      "name_slug": "tana-toraja",
+      "city_en": "Tangratte",
+      "city_slug": "tangratte",
+      "province_en": "South Sulawesi",
+      "province_slug": "south-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2884,
+      "lat": -3.0460104,
+      "lon": 119.8234486,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — South Sulawesi - Unduh Gratis",
+    "description": "Bandar udara di Provinsi South Sulawesi, Indonesia (Airports in South Sulawesi Province, Indonesia — 5 record(s).) Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — South Sulawesi | ListBase",
+    "seo_description": "Unduh Bandar Udara — South Sulawesi — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

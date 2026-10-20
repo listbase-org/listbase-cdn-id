@@ -1,0 +1,446 @@
+{
+  "id": "id-provinces-population",
+  "name": "Jumlah Penduduk per Provinsi Indonesia — Pria, Wanita, Total, Kepadatan",
+  "title": "Jumlah Penduduk per Provinsi Indonesia — Pria, Wanita, Total, Kepadatan",
+  "description": "Jumlah penduduk per provinsi di Indonesia dengan rincian pria, wanita, total, dan kepadatan penduduk per km². Sumber data: Ditjen Dukcapil Kementerian Dalam Negeri (Data Kependudukan Semester I Bulan Desember 2024). Luas wilayah dari Badan Informasi Geospasial (BIG) Surat B-16.10/DIGD-BIG/IGD.04.04/12/2024.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_male",
+      "label": "Population Male",
+      "type": "number"
+    },
+    {
+      "key": "population_female",
+      "label": "Population Female",
+      "type": "number"
+    },
+    {
+      "key": "population_total",
+      "label": "Population Total",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11",
+      "name": "Aceh",
+      "population_male": 2815060,
+      "population_female": 2808419,
+      "population_total": 5623479,
+      "area_km2": 56835.019,
+      "density_per_km2": 98.94,
+      "slug": "aceh"
+    },
+    {
+      "code": "12",
+      "name": "Sumatera Utara",
+      "population_male": 7828098,
+      "population_female": 7812807,
+      "population_total": 15640905,
+      "area_km2": 72437.755,
+      "density_per_km2": 215.92,
+      "slug": "sumatera-utara"
+    },
+    {
+      "code": "13",
+      "name": "Sumatera Barat",
+      "population_male": 2923132,
+      "population_female": 2897227,
+      "population_total": 5820359,
+      "area_km2": 42107.674,
+      "density_per_km2": 138.23,
+      "slug": "sumatera-barat"
+    },
+    {
+      "code": "14",
+      "name": "Riau",
+      "population_male": 3625379,
+      "population_female": 3473918,
+      "population_total": 7099297,
+      "area_km2": 89900.78,
+      "density_per_km2": 78.97,
+      "slug": "riau"
+    },
+    {
+      "code": "15",
+      "name": "Jambi",
+      "population_male": 1952872,
+      "population_female": 1881567,
+      "population_total": 3834439,
+      "area_km2": 49023.037,
+      "density_per_km2": 78.22,
+      "slug": "jambi"
+    },
+    {
+      "code": "16",
+      "name": "Sumatera Selatan",
+      "population_male": 4616445,
+      "population_female": 4448245,
+      "population_total": 9064690,
+      "area_km2": 86771.918,
+      "density_per_km2": 104.47,
+      "slug": "sumatera-selatan"
+    },
+    {
+      "code": "17",
+      "name": "Bengkulu",
+      "population_male": 1086715,
+      "population_female": 1041242,
+      "population_total": 2127957,
+      "area_km2": 20122.21,
+      "density_per_km2": 105.75,
+      "slug": "bengkulu"
+    },
+    {
+      "code": "18",
+      "name": "Lampung",
+      "population_male": 4668816,
+      "population_female": 4475447,
+      "population_total": 9144263,
+      "area_km2": 33570.758,
+      "density_per_km2": 272.39,
+      "slug": "lampung"
+    },
+    {
+      "code": "19",
+      "name": "Kepulauan Bangka Belitung",
+      "population_male": 794861,
+      "population_female": 754701,
+      "population_total": 1549562,
+      "area_km2": 16670.225,
+      "density_per_km2": 92.95,
+      "slug": "kepulauan-bangka-belitung"
+    },
+    {
+      "code": "21",
+      "name": "Kepulauan Riau",
+      "population_male": 1155100,
+      "population_female": 1116790,
+      "population_total": 2271890,
+      "area_km2": 8170.375,
+      "density_per_km2": 278.06,
+      "slug": "kepulauan-riau"
+    },
+    {
+      "code": "31",
+      "name": "Daerah Khusus Ibukota Jakarta",
+      "population_male": 5537335,
+      "population_female": 5500881,
+      "population_total": 11038216,
+      "area_km2": "",
+      "density_per_km2": "",
+      "slug": "daerah-khusus-ibukota-jakarta"
+    },
+    {
+      "code": "32",
+      "name": "Jawa Barat",
+      "population_male": 25997794,
+      "population_female": 25318584,
+      "population_total": 51316378,
+      "area_km2": 37053.331,
+      "density_per_km2": 1384.93,
+      "slug": "jawa-barat"
+    },
+    {
+      "code": "33",
+      "name": "Jawa Tengah",
+      "population_male": 19340389,
+      "population_female": 19090256,
+      "population_total": 38430645,
+      "area_km2": 34347.428,
+      "density_per_km2": 1118.88,
+      "slug": "jawa-tengah"
+    },
+    {
+      "code": "34",
+      "name": "Daerah Istimewa Yogyakarta",
+      "population_male": 1853487,
+      "population_female": 1889878,
+      "population_total": 3743365,
+      "area_km2": 3170.363,
+      "density_per_km2": 1180.74,
+      "slug": "daerah-istimewa-yogyakarta"
+    },
+    {
+      "code": "35",
+      "name": "Jawa Timur",
+      "population_male": 20894359,
+      "population_female": 21025547,
+      "population_total": 41919906,
+      "area_km2": 48055.876,
+      "density_per_km2": 872.32,
+      "slug": "jawa-timur"
+    },
+    {
+      "code": "36",
+      "name": "Banten",
+      "population_male": 6543019,
+      "population_female": 6338355,
+      "population_total": 12881374,
+      "area_km2": 9355.763,
+      "density_per_km2": 1376.84,
+      "slug": "banten"
+    },
+    {
+      "code": "51",
+      "name": "Bali",
+      "population_male": 2193831,
+      "population_female": 2181432,
+      "population_total": 4375263,
+      "area_km2": 5582.827,
+      "density_per_km2": 783.7,
+      "slug": "bali"
+    },
+    {
+      "code": "52",
+      "name": "Nusa Tenggara Barat",
+      "population_male": 2870780,
+      "population_female": 2880515,
+      "population_total": 5751295,
+      "area_km2": 19631.991,
+      "density_per_km2": 292.96,
+      "slug": "nusa-tenggara-barat"
+    },
+    {
+      "code": "53",
+      "name": "Nusa Tenggara Timur",
+      "population_male": 2850092,
+      "population_female": 2850680,
+      "population_total": 5700772,
+      "area_km2": 46378.105,
+      "density_per_km2": 122.92,
+      "slug": "nusa-tenggara-timur"
+    },
+    {
+      "code": "61",
+      "name": "Kalimantan Barat",
+      "population_male": 2902699,
+      "population_female": 2743569,
+      "population_total": 5646268,
+      "area_km2": 147018.063,
+      "density_per_km2": 38.41,
+      "slug": "kalimantan-barat"
+    },
+    {
+      "code": "62",
+      "name": "Kalimantan Tengah",
+      "population_male": 1459913,
+      "population_female": 1365377,
+      "population_total": 2825290,
+      "area_km2": 153430.363,
+      "density_per_km2": 18.41,
+      "slug": "kalimantan-tengah"
+    },
+    {
+      "code": "63",
+      "name": "Kalimantan Selatan",
+      "population_male": 2176733,
+      "population_female": 2128548,
+      "population_total": 4305281,
+      "area_km2": 37125.426,
+      "density_per_km2": 115.97,
+      "slug": "kalimantan-selatan"
+    },
+    {
+      "code": "64",
+      "name": "Kalimantan Timur",
+      "population_male": 2138665,
+      "population_female": 1984638,
+      "population_total": 4123303,
+      "area_km2": 126951.758,
+      "density_per_km2": 32.48,
+      "slug": "kalimantan-timur"
+    },
+    {
+      "code": "65",
+      "name": "Kalimantan Utara",
+      "population_male": 403628,
+      "population_female": 366999,
+      "population_total": 770627,
+      "area_km2": 69900.886,
+      "density_per_km2": 11.02,
+      "slug": "kalimantan-utara"
+    },
+    {
+      "code": "71",
+      "name": "Sulawesi Utara",
+      "population_male": 1351734,
+      "population_female": 1293557,
+      "population_total": 2645291,
+      "area_km2": 14488.429,
+      "density_per_km2": 182.58,
+      "slug": "sulawesi-utara"
+    },
+    {
+      "code": "72",
+      "name": "Sulawesi Tengah",
+      "population_male": 1652891,
+      "population_female": 1566603,
+      "population_total": 3219494,
+      "area_km2": 61496.983,
+      "density_per_km2": 52.35,
+      "slug": "sulawesi-tengah"
+    },
+    {
+      "code": "73",
+      "name": "Sulawesi Selatan",
+      "population_male": 4729375,
+      "population_female": 4798901,
+      "population_total": 9528276,
+      "area_km2": 45323.975,
+      "density_per_km2": 210.23,
+      "slug": "sulawesi-selatan"
+    },
+    {
+      "code": "74",
+      "name": "Sulawesi Tenggara",
+      "population_male": 1427378,
+      "population_female": 1397211,
+      "population_total": 2824589,
+      "area_km2": 36139.303,
+      "density_per_km2": 78.16,
+      "slug": "sulawesi-tenggara"
+    },
+    {
+      "code": "75",
+      "name": "Gorontalo",
+      "population_male": 631495,
+      "population_female": 619465,
+      "population_total": 1250960,
+      "area_km2": 12024.982,
+      "density_per_km2": 104.03,
+      "slug": "gorontalo"
+    },
+    {
+      "code": "76",
+      "name": "Sulawesi Barat",
+      "population_male": 744533,
+      "population_female": 722208,
+      "population_total": 1466741,
+      "area_km2": 16590.667,
+      "density_per_km2": 88.41,
+      "slug": "sulawesi-barat"
+    },
+    {
+      "code": "81",
+      "name": "Maluku",
+      "population_male": 969012,
+      "population_female": 966574,
+      "population_total": 1935586,
+      "area_km2": 46133.832,
+      "density_per_km2": 41.96,
+      "slug": "maluku"
+    },
+    {
+      "code": "82",
+      "name": "Maluku Utara",
+      "population_male": 729780,
+      "population_female": 664451,
+      "population_total": 1394231,
+      "area_km2": 31465.977,
+      "density_per_km2": 44.31,
+      "slug": "maluku-utara"
+    },
+    {
+      "code": "91",
+      "name": "Papua",
+      "population_male": 574173,
+      "population_female": 528187,
+      "population_total": 1102360,
+      "area_km2": 81383.315,
+      "density_per_km2": 13.55,
+      "slug": "papua"
+    },
+    {
+      "code": "92",
+      "name": "Papua Barat",
+      "population_male": 297017,
+      "population_female": 279238,
+      "population_total": 576255,
+      "area_km2": 60308.59,
+      "density_per_km2": 9.56,
+      "slug": "papua-barat"
+    },
+    {
+      "code": "93",
+      "name": "Papua Selatan",
+      "population_male": 292552,
+      "population_female": 269668,
+      "population_total": 562220,
+      "area_km2": 117858.969,
+      "density_per_km2": 4.77,
+      "slug": "papua-selatan"
+    },
+    {
+      "code": "94",
+      "name": "Papua Tengah",
+      "population_male": 723511,
+      "population_female": 645601,
+      "population_total": 1369112,
+      "area_km2": 61079.587,
+      "density_per_km2": 22.42,
+      "slug": "papua-tengah"
+    },
+    {
+      "code": "95",
+      "name": "Papua Pegunungan",
+      "population_male": 786734,
+      "population_female": 683784,
+      "population_total": 1470518,
+      "area_km2": 52508.656,
+      "density_per_km2": 28.01,
+      "slug": "papua-pegunungan"
+    },
+    {
+      "code": "96",
+      "name": "Papua Barat Daya",
+      "population_male": 324005,
+      "population_female": 299181,
+      "population_total": 623186,
+      "area_km2": 39103.058,
+      "density_per_km2": 15.94,
+      "slug": "papua-barat-daya"
+    }
+  ],
+  "meta": {
+    "title": "Jumlah Penduduk per Provinsi Indonesia — Pria, Wanita, Total, Kepadatan - Unduh Gratis",
+    "description": "Jumlah penduduk per provinsi di Indonesia dengan rincian pria, wanita, total, dan kepadatan penduduk per km². Sumber data: Ditjen Dukcapil Kementerian Dalam Negeri (Data Kependudukan Semester I Bulan Desember 2024). Luas wilayah dari Badan Informasi Geospasial (BIG) Surat B-16.10/DIGD-BIG/IGD.04.04/12/2024. Berisi 38 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Jumlah Penduduk per Provinsi Indonesia — Pria, Wanita, Total, Kepadatan | ListBase",
+    "seo_description": "Unduh Jumlah Penduduk per Provinsi Indonesia — Pria, Wanita, Total, Kepadatan — 38 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 38 rekaman / 8 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "id-kalimantan-utara-regencies",
+  "name": "Daftar Kabupaten dan Kota di Kalimantan Utara",
+  "title": "Daftar Kabupaten dan Kota di Kalimantan Utara",
+  "description": "Daftar kabupaten dan kota di Provinsi Kalimantan Utara dengan kode wilayah Kepmendagri. Total 5 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "65.01",
+      "name": "Kabupaten Bulungan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bulungan"
+    },
+    {
+      "code": "65.02",
+      "name": "Kabupaten Malinau",
+      "type": "Kabupaten",
+      "slug": "kabupaten-malinau"
+    },
+    {
+      "code": "65.03",
+      "name": "Kabupaten Nunukan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-nunukan"
+    },
+    {
+      "code": "65.04",
+      "name": "Kabupaten Tana Tidung",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tana-tidung"
+    },
+    {
+      "code": "65.71",
+      "name": "Kota Tarakan",
+      "type": "Kota",
+      "slug": "kota-tarakan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Kalimantan Utara - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Kalimantan Utara dengan kode wilayah Kepmendagri. Total 5 kabupaten/kota. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Kalimantan Utara | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Kalimantan Utara — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

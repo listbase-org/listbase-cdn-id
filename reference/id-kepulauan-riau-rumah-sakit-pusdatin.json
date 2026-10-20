@@ -1,0 +1,496 @@
+{
+  "id": "id-kepulauan-riau-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Kepulauan Riau — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Kepulauan Riau — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Kepulauan Riau menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH TAREMPA",
+      "kode_rs": "2105005",
+      "tempat_tidur": 26,
+      "telepon": "",
+      "alamat": "JL. IMAM BONJOL NO. 61, TAREMPA, KEC. SIANTAN",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KEPULAUAN ANAMBAS, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 3.217648,
+      "longitude": 106.219017
+    },
+    {
+      "nama": "RS UMUM SANTA ELISABETH BATAM",
+      "kode_rs": "2071015",
+      "tempat_tidur": 101,
+      "telepon": "(0778) 457357",
+      "alamat": "JL. ANGGREK BLOK II LUBUK BAJA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.13593,
+      "longitude": 104.016152
+    },
+    {
+      "nama": "RS UMUM DAERAH RADEN SADJAT TERINTEGRASI",
+      "kode_rs": "0000003",
+      "tempat_tidur": 0,
+      "telepon": "(0773) 31218",
+      "alamat": "PANGKALAN TNI AU RADEN SADJAD(RSA) RANAI, KABUPATEN NATUNA, PROVINSI KEPULAUAN RIAU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "NATUNA, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 3.920234,
+      "longitude": 108.386823
+    },
+    {
+      "nama": "RS IBU DAN ANAK FRISDHY ANGEL",
+      "kode_rs": "2071057",
+      "tempat_tidur": 26,
+      "telepon": "(0778) 424901",
+      "alamat": "JALAN RADEN PATAH BLOK B NO. 1-3, LUBUK BAJA, LUBUK BAJA KOTA, KEC. LUBUK BAJA, KOTA BATAM, KEPULAUAN RIAU 29444",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.137349,
+      "longitude": 104.016648
+    },
+    {
+      "nama": "RS UMUM CHARIS MEDIKA",
+      "kode_rs": "2071037",
+      "tempat_tidur": 55,
+      "telepon": "(0778) 3582502",
+      "alamat": "JL. R.SUPRAPTO BLOK D 1-9",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.057501,
+      "longitude": 103.96547
+    },
+    {
+      "nama": "RS UMUM DAERAH PALMATAK",
+      "kode_rs": "2003125",
+      "tempat_tidur": 40,
+      "telepon": "0772-77231381",
+      "alamat": "JALAN DATUK LAMIN NO. 03 DESA PAYALAMAN",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KEPULAUAN ANAMBAS, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 3.94565,
+      "longitude": 108.143
+    },
+    {
+      "nama": "RS UMUM BHAKTI TIMAH",
+      "kode_rs": "2001045",
+      "tempat_tidur": 89,
+      "telepon": "(0717) 433027",
+      "alamat": "JALAN BUKIT BARU NO. 1, PANGKALPINANG, TAMAN BUNGA, GERUNGGANG, KABUPATEN BANGKA, KEPULAUAN BANGKA BELITUNG 33131",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KARIMUN, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": -2.114138,
+      "longitude": 106.109886
+    },
+    {
+      "nama": "RS UMUM DAERAH TANJUNG UBAN",
+      "kode_rs": "2002010",
+      "tempat_tidur": 111,
+      "telepon": "(0771) 482655",
+      "alamat": "JL. INDUN SURI – SIMPANG BUSUNG NO. 1, TANJUNG UBAN, TANJUNG PERMAI, SERI KUALA LOBAM, TJ. PERMAI, SERI KUALA LOBAM, KABUPATEN BINTAN, KEPULAUAN RIAU 29000",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BINTAN, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.050226,
+      "longitude": 104.252335
+    },
+    {
+      "nama": "RS UMUM DAERAH KOTA TANJUNG PINANG",
+      "kode_rs": "2072012",
+      "tempat_tidur": 150,
+      "telepon": "(0771) 313000",
+      "alamat": "JL. SUDIRMAN NO.- 795, TANJUNGPINANG BAR., KOTA TANJUNG PINANG, KEPULAUAN RIAU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA TANJUNGPINANG, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 0.925669,
+      "longitude": 104.442493
+    },
+    {
+      "nama": "RS UMUM CAMATHA SAHIDYA",
+      "kode_rs": "2071056",
+      "tempat_tidur": 100,
+      "telepon": "(0778) 371002",
+      "alamat": "JALAN JENDRAL AHMAD YANI NO. 8, KELURAHAN MUKA KUNING, KECAMATAN SEI BEDUK, KABIL, NONGSA, KABIL, KECAMATAN NONGSA, KOTA BATAM, KEPULAUAN RIAU 29433",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.073771,
+      "longitude": 104.025223
+    },
+    {
+      "nama": "RS BHAYANGKARA BATAM POLDA KEPRI",
+      "kode_rs": "2171061",
+      "tempat_tidur": 80,
+      "telepon": "(0778) 7760046",
+      "alamat": "JL. DANG MERDU KM 2 BATU BESAR NONGSA KOTA BATAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.14388,
+      "longitude": 104.12046
+    },
+    {
+      "nama": "RS IBU DAN ANAK KASIH SAYANG IBU",
+      "kode_rs": "2171063",
+      "tempat_tidur": 35,
+      "telepon": "(0778) 428800",
+      "alamat": "JL. RADEN PATAH NO.9, LUBUK BAJA KOTA, KEC. LUBUK BAJA, KOTA BATAM, KEPULAUAN RIAU 29444",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.126592,
+      "longitude": 104.030896
+    },
+    {
+      "nama": "RS UMUM DAERAH DABO KABUPATEN LINGGA",
+      "kode_rs": "2004012",
+      "tempat_tidur": 54,
+      "telepon": "NA",
+      "alamat": "JL. KESEHATAN NO.1, DABO SINGKEP KABUPATEN LINGGA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LINGGA, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": -0.5535,
+      "longitude": 104.481
+    },
+    {
+      "nama": "RS UMUM DAERAH BERGERAK JEMAJA",
+      "kode_rs": "2005002",
+      "tempat_tidur": 15,
+      "telepon": "",
+      "alamat": "PADANG MELANG DESA BATU BERAPIT, MAMPOK, JEMAJA, KABUPATEN KEPULAUAN ANAMBAS, KEPULAUAN RIAU 29792",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KEPULAUAN ANAMBAS, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 2.98873,
+      "longitude": 105.723481
+    },
+    {
+      "nama": "RS UMUM AL DR MIDIYATO S",
+      "kode_rs": "2072023",
+      "tempat_tidur": 141,
+      "telepon": "(0771) 21428",
+      "alamat": "JL. CIPTADI NO.1, TANJUNGPINANG KOTA, KOTA TANJUNG PINANG, KEPULAUAN RIAU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA TANJUNGPINANG, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 0.92632,
+      "longitude": 104.441335
+    },
+    {
+      "nama": "RS IBU DAN ANAK MUTIARA AINI",
+      "kode_rs": "2071048",
+      "tempat_tidur": 33,
+      "telepon": "NA",
+      "alamat": "JL. BATU AJI II BLOK A NO.01, KEL.BULIANG, KEC.BATU AJI - BATAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.04562,
+      "longitude": 104.03
+    },
+    {
+      "nama": "RS SANTA ELISABETH SEI LEKOP",
+      "kode_rs": "2171064",
+      "tempat_tidur": 60,
+      "telepon": "(0778) 3850268",
+      "alamat": "JL. SEI BINTI, KAV. SUNGAI LEKOP, KEL. SUNGAI LEKOP RT01/RW13, KEC. SAGULUNG",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.0237,
+      "longitude": 103.946009
+    },
+    {
+      "nama": "RS UMUM BUDI KEMULIAAN BATAM",
+      "kode_rs": "2071012",
+      "tempat_tidur": 205,
+      "telepon": "(0778) 454044",
+      "alamat": "JL. BUDI KEMULIAAN NO.1,BATAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.14757589,
+      "longitude": 104.01833347
+    },
+    {
+      "nama": "RS UMUM DAERAH ENCIK MARIYAM",
+      "kode_rs": "2004136",
+      "tempat_tidur": 50,
+      "telepon": "081372771583",
+      "alamat": "JL. MASJID SULTAN LINGGA NO. 46 KP. DARAT DAIK KABUPATEN LINGGA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "LINGGA, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": -0.1626,
+      "longitude": 104.636
+    },
+    {
+      "nama": "RS IBU DAN  ANAK GRIYA MEDIKA BATAM",
+      "kode_rs": "2071054",
+      "tempat_tidur": 25,
+      "telepon": "(0778) 473266",
+      "alamat": "KOMPLEK MEGA INDAH BLOK A3-4 DAN BLOK B1-4, JL. LAKSAMANA BINTAN, SUNGAI PANAS, KEC. BATAM KOTA, KOTA BATAM, KEPULAUAN RIAU 29444",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.128863,
+      "longitude": 104.031523
+    },
+    {
+      "nama": "RS UMUM DAERAH  KABUPATEN BINTAN",
+      "kode_rs": "2002002",
+      "tempat_tidur": 66,
+      "telepon": "",
+      "alamat": "TIM.,, KIJANG KOTA, BINTAN TIM., KABUPATEN BINTAN, KEPULAUAN RIAU 29151",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BINTAN, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.056618,
+      "longitude": 104.252433
+    },
+    {
+      "nama": "RS UMUM GRAHA HERMINE",
+      "kode_rs": "2071050",
+      "tempat_tidur": 106,
+      "telepon": "(0778) 363127",
+      "alamat": "KOMP. RUKO ASIH RAYA NO. 6-15 BATU AJI",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.045582,
+      "longitude": 103.973954
+    },
+    {
+      "nama": "RS UMUM HARAPAN BUNDA BATAM",
+      "kode_rs": "2071023",
+      "tempat_tidur": 113,
+      "telepon": "(0778) 457333",
+      "alamat": "JL. SERAYA NO. 1 BATAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.147654,
+      "longitude": 104.016642
+    },
+    {
+      "nama": "RS UMUM DAERAH NATUNA",
+      "kode_rs": "2003011",
+      "tempat_tidur": 98,
+      "telepon": "(0773) 31128",
+      "alamat": "JL. ALI MURTOPO, RANAI KOTA, BUNGURAN TIM., KABUPATEN NATUNA, KEPULAUAN RIAU 29783",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "NATUNA, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 3.936111,
+      "longitude": 108.365849
+    },
+    {
+      "nama": "RS KELUARGA HUSADA BATAM",
+      "kode_rs": "2171062",
+      "tempat_tidur": 58,
+      "telepon": "07784804597",
+      "alamat": "JL. TENGKU SULUNG ODESSA BLOK C1 NO. 12-16 KELURAHAN BELIAN KECAMATAN BATAM KOTA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.128175,
+      "longitude": 104.101572
+    },
+    {
+      "nama": "RS UMUM SOEDARSONO DARMOSOEWITO",
+      "kode_rs": "2071059",
+      "tempat_tidur": 100,
+      "telepon": "(0778) 711960",
+      "alamat": "JL. HANG KESTURI KM 4,5 KABIL BATAM",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.120846,
+      "longitude": 104.140631
+    },
+    {
+      "nama": "RS UMUM SANTA ELISABETH BATAM KOTA",
+      "kode_rs": "2071053",
+      "tempat_tidur": 140,
+      "telepon": "(0778) 457357",
+      "alamat": "JL. RAJA ALI KELANA, BELIAN BATAM KOTA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.1357623,
+      "longitude": 104.0143588
+    },
+    {
+      "nama": "RS UMUM AWAL BROS BATAM",
+      "kode_rs": "2071103",
+      "tempat_tidur": 195,
+      "telepon": "(0778) 431777",
+      "alamat": "JL. GAJAH MADA KAV.I BALOI",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.1236422,
+      "longitude": 104.01657823
+    },
+    {
+      "nama": "RS UMUM DAERAH PROVINSI KEPULAUAN RIAU TANJUNGPINA",
+      "kode_rs": "2072002",
+      "tempat_tidur": 140,
+      "telepon": "",
+      "alamat": "JL. W.R SUPRATMAN NO. 100 KM. 8 TANJUNGPINANG KEPULAUAN RIAU",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA TANJUNGPINANG, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 0.9235316,
+      "longitude": 104.4395887
+    },
+    {
+      "nama": "RS UMUM DAERAH EMBUNG FATIMAH KOTA BATAM",
+      "kode_rs": "2071114",
+      "tempat_tidur": 252,
+      "telepon": "(0778) 364446",
+      "alamat": "JL. LETJEND SUPRAPTO NO.1-9, BUKIT TEMPAYAN, KEC. BATU AJI, KOTA BATAM, KEPULAUAN RIAU 29425",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.050599,
+      "longitude": 103.968225
+    },
+    {
+      "nama": "RS UMUM DAERAH MUHAMMAD SANI KABUPATEN KARIMUN",
+      "kode_rs": "2001013",
+      "tempat_tidur": 202,
+      "telepon": "(0777) 327808",
+      "alamat": "JALAN POROS NO.1, HARJOSARI, TEBING, KABUPATEN KARIMUN, KEPULAUAN RIAU 29663",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KARIMUN, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.012804,
+      "longitude": 103.414973
+    },
+    {
+      "nama": "RS BADAN PENGUSAHAAN BATAM",
+      "kode_rs": "2071034",
+      "tempat_tidur": 197,
+      "telepon": "(0778) 322121",
+      "alamat": "JL. DR. CIPTO MANGUNKUSUMO NO.1,  SEKUPANG,BATAM",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA BATAM, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 1.08719,
+      "longitude": 103.954
+    },
+    {
+      "nama": "RS IBU DAN ANAK GRAHA RAP",
+      "kode_rs": "2101002",
+      "tempat_tidur": 22,
+      "telepon": "0777326097",
+      "alamat": "JL. RAJA OESMAN BARAN 1",
+      "tipe": "RS",
+      "wilayah": "KARIMUN, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 0.998135,
+      "longitude": 103.409663
+    },
+    {
+      "nama": "RS HJ. BUNDA HALIMAH",
+      "kode_rs": "2171065",
+      "tempat_tidur": 57,
+      "telepon": "NA",
+      "alamat": "NA",
+      "tipe": "NA",
+      "wilayah": "KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": "NA",
+      "longitude": "NA"
+    },
+    {
+      "nama": "RSAU DR. YUNIATI WISMA KARYANI",
+      "kode_rs": "2003056",
+      "tempat_tidur": 59,
+      "telepon": "NA",
+      "alamat": "JL. ADI SUCIPTO KOMPLEK PANGKALAN TNI AU RADEN SADJAD RANAI KEC. BUNGURAN TIMUR",
+      "tipe": "NA",
+      "wilayah": "NATUNA, KEPULAUAN RIAU",
+      "provinsi": "KEPULAUAN RIAU",
+      "latitude": 3.94565,
+      "longitude": 108.143
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Kepulauan Riau — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Kepulauan Riau menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 35 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Kepulauan Riau — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Kepulauan Riau — data Pusdatin Kemenkes — 35 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 35 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

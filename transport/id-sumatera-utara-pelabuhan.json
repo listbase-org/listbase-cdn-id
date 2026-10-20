@@ -1,0 +1,152 @@
+{
+  "id": "id-sumatera-utara-pelabuhan",
+  "name": "Pelabuhan Umum di Sumatera Utara (12 pelabuhan)",
+  "title": "Pelabuhan Umum di Sumatera Utara (12 pelabuhan)",
+  "description": "12 pelabuhan umum di Provinsi Sumatera Utara, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BRS",
+      "nama_pelabuhan": "Barus",
+      "lokasi_kabupaten_kota": "TAPANULI TENGAH",
+      "unit_kerja": "KUPP KELAS III BARUS",
+      "alamat_kantor": "Jl. Yos Sudarso No. 02 Kel. Pasar Batu Grigis Barus; Kab. Tapanuli Tengah Sumatera Utara 22564",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "GNS",
+      "nama_pelabuhan": "Gunung Sitoli",
+      "lokasi_kabupaten_kota": "KOTA GUNUNGSITOLI",
+      "unit_kerja": "KSOP KELAS IV SITOLI",
+      "alamat_kantor": "Jl. Yos Sudarso No. 194 Km. 2 Pelabuhan Angin Gunung Sitoli Sumatera Utara 22812",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "INL",
+      "nama_pelabuhan": "Natal / Sikara-kara",
+      "lokasi_kabupaten_kota": "MANDAILING NATAL",
+      "unit_kerja": "KUPP KELAS III BATAHAN",
+      "alamat_kantor": "Mandailing Natal-Sumatera Utara",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "KTJ",
+      "nama_pelabuhan": "Kuala Tanjung",
+      "lokasi_kabupaten_kota": "BATU BARA",
+      "unit_kerja": "KSOP KELAS III KUALA TANJUNG",
+      "alamat_kantor": "Jl. Pelabuhan Kuala Tanjung Kec. Sei Suka Kab. Batu Bara Sumatera Utara 21257",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "LIG",
+      "nama_pelabuhan": "Teluk Leidong",
+      "lokasi_kabupaten_kota": "LABUAN BATU UTARA",
+      "unit_kerja": "KUPP KELAS III LEIDONG",
+      "alamat_kantor": "Jl. Bondar No. 79 Liendong Sumatera Utara 21475 Telp. 0623-71071; Fax. 0623-71371 Email : upplaeidong@gmail.com / uppleidong@dephub.go.id",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "ONN",
+      "nama_pelabuhan": "Oswald Siahaan/Labuhan Angin",
+      "lokasi_kabupaten_kota": "TAPANULI TENGAH",
+      "unit_kerja": "KUPP KELAS III BARUS",
+      "alamat_kantor": "Jl. Yos Sudarso No. 02 Kel. Pasar Batu Grigis Barus; Kab. Tapanuli Tengah Sumatera Utara 22564",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "PKA",
+      "nama_pelabuhan": "Pulau Kampai",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KUPP KELAS III PULAU KAMPAI",
+      "alamat_kantor": "LANGKAT - SUMATERA UTARA",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "PKR",
+      "nama_pelabuhan": "Pangkalan Brandan",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN SUSU",
+      "alamat_kantor": "Jl. Pelabuhan No. 05 Pangkalan Susu Langkat Sumatera Utara 20858",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "PKS",
+      "nama_pelabuhan": "Pangkalan Susu",
+      "lokasi_kabupaten_kota": "LANGKAT",
+      "unit_kerja": "KSOP KELAS IV PANGKALAN SUSU",
+      "alamat_kantor": "Jl. Pelabuhan No. 05 Pangkalan Susu Langkat Sumatera Utara 20858",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "SBE",
+      "nama_pelabuhan": "Sei Berombang",
+      "lokasi_kabupaten_kota": "LABUAN BATU",
+      "unit_kerja": "KUPP KELAS III SEI BEROMBANG",
+      "alamat_kantor": "Jl. Syahbandar No. 86 Sei Barombong Sumatera Utara 21473",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "SLG",
+      "nama_pelabuhan": "Sibolga",
+      "lokasi_kabupaten_kota": "KOTA SIBOLGA",
+      "unit_kerja": "KSOP KELAS IV SIBOLGA",
+      "alamat_kantor": "Jl. Horas Pelabuhan Sibolga; Sibolga Sumatera Utara 22532",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "kode_pelabuhan": "TEK",
+      "nama_pelabuhan": "Parlimbungan Ketek",
+      "lokasi_kabupaten_kota": "MANDAILING NATAL",
+      "unit_kerja": "KUPP KELAS III BATAHAN",
+      "alamat_kantor": "Mandailing Natal-Sumatera Utara",
+      "provinsi": "Sumatera Utara"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Sumatera Utara (12 pelabuhan) - Unduh Gratis",
+    "description": "12 pelabuhan umum di Provinsi Sumatera Utara, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 12 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Sumatera Utara (12 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Sumatera Utara (12 pelabuhan) — 12 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 12 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

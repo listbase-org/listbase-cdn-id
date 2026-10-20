@@ -1,0 +1,769 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "Dataset Tabel Klasifikasi Kata Ganti Bahasa Inggris",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case (EN)",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person (EN)",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender (EN)",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Pertama",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "I am happy.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "you",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Kedua",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "You are kind.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "he",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Maskulin",
+      "example": "He runs fast.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "she",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Feminin",
+      "example": "She sings well.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "it",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "It is raining.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "we",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Pertama",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "We are friends.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "they",
+      "type": "Pronomina Persona",
+      "case": "Subjek",
+      "person": "Orang Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "They work hard.",
+      "function": "Subjek verba"
+    },
+    {
+      "pronoun": "me",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Pertama",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "She called me.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "you",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Kedua",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "I saw you.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "him",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Maskulin",
+      "example": "We helped him.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "her",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Feminin",
+      "example": "They met her.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "it",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "I found it.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "us",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Pertama",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "She joined us.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "them",
+      "type": "Pronomina Persona",
+      "case": "Objek",
+      "person": "Orang Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "We invited them.",
+      "function": "Objek verba/preposisi"
+    },
+    {
+      "pronoun": "my",
+      "type": "Posesif",
+      "case": "Kata Sifat",
+      "person": "Orang Pertama",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "This is my book.",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "your",
+      "type": "Posesif",
+      "case": "Kata Sifat",
+      "person": "Orang Kedua",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "Is this your car?",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "his",
+      "type": "Posesif",
+      "case": "Kata Sifat",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Maskulin",
+      "example": "That is his phone.",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "her",
+      "type": "Posesif",
+      "case": "Kata Sifat",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Feminin",
+      "example": "I like her dress.",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "its",
+      "type": "Posesif",
+      "case": "Kata Sifat",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "The dog wagged its tail.",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "our",
+      "type": "Posesif",
+      "case": "Kata Sifat",
+      "person": "Orang Pertama",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "This is our house.",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "their",
+      "type": "Posesif",
+      "case": "Adjektiva",
+      "person": "Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "They lost their keys.",
+      "function": "Memodifikasi kata benda"
+    },
+    {
+      "pronoun": "mine",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Pertama",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "This book is mine.",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "yours",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Kedua",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "Is this car yours?",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "his",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Maskulin",
+      "example": "The phone is his.",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "hers",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Feminin",
+      "example": "The dress is hers.",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "its",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "The responsibility is its.",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "ours",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Pertama",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "The house is ours.",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "Posesif",
+      "case": "Independen",
+      "person": "Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "The car is theirs.",
+      "function": "Menggantikan frasa nomina"
+    },
+    {
+      "pronoun": "myself",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Pertama",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "I hurt myself.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Kedua",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "You should believe in yourself.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "himself",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Maskulin",
+      "example": "He taught himself.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "herself",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Feminin",
+      "example": "She introduced herself.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "itself",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "The cat cleaned itself.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Pertama",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "We enjoyed ourselves.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Kedua",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "Help yourselves.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "Refleksif",
+      "case": "Refleksif",
+      "person": "Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "They blamed themselves.",
+      "function": "Objek merujuk subjek"
+    },
+    {
+      "pronoun": "this",
+      "type": "Demonstratif",
+      "case": "-",
+      "person": "-",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "This is delicious.",
+      "function": "Menunjuk objek dekat"
+    },
+    {
+      "pronoun": "that",
+      "type": "Demonstratif",
+      "case": "-",
+      "person": "-",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "That is beautiful.",
+      "function": "Menunjuk objek jauh"
+    },
+    {
+      "pronoun": "these",
+      "type": "Demonstratif",
+      "case": "-",
+      "person": "-",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "These are my books.",
+      "function": "Menunjuk objek-objek dekat"
+    },
+    {
+      "pronoun": "those",
+      "type": "Demonstratif",
+      "case": "-",
+      "person": "-",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "Those are expensive.",
+      "function": "Menunjuk objek-objek jauh"
+    },
+    {
+      "pronoun": "who",
+      "type": "Interogatif",
+      "case": "Subjek",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang",
+      "example": "Who called?",
+      "function": "Bertanya tentang orang (subjek)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Interogatif",
+      "case": "Objek",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang",
+      "example": "Whom did you call?",
+      "function": "Bertanya tentang orang (objek)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Interogatif",
+      "case": "Posesif",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang",
+      "example": "Whose is this?",
+      "function": "Bertanya tentang kepemilikan"
+    },
+    {
+      "pronoun": "what",
+      "type": "Interogatif",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Benda",
+      "example": "What happened?",
+      "function": "Bertanya tentang benda/tindakan"
+    },
+    {
+      "pronoun": "which",
+      "type": "Interogatif",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang/Benda",
+      "example": "Which do you prefer?",
+      "function": "Bertanya untuk pemilihan"
+    },
+    {
+      "pronoun": "who",
+      "type": "Relatif",
+      "case": "Subjek",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang",
+      "example": "The man who called is here.",
+      "function": "Memperkenalkan klausa relatif (subjek)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Relatif",
+      "case": "Objek",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang",
+      "example": "The person whom I met was kind.",
+      "function": "Memperkenalkan klausa relatif (objek)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Relatif",
+      "case": "Posesif",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang/Benda",
+      "example": "The author whose book I read.",
+      "function": "Menunjukkan kepemilikan dalam klausa relatif"
+    },
+    {
+      "pronoun": "which",
+      "type": "Relatif",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Benda",
+      "example": "The book which I read was good.",
+      "function": "Memperkenalkan klausa relatif (benda)"
+    },
+    {
+      "pronoun": "that",
+      "type": "Relatif",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Orang/Benda",
+      "example": "The house that Jack built.",
+      "function": "Memperkenalkan klausa relatif pembatas"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Orang",
+      "example": "Anyone can join.",
+      "function": "Merujuk pada siapa saja"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Orang",
+      "example": "Everyone is welcome.",
+      "function": "Merujuk pada semua orang"
+    },
+    {
+      "pronoun": "someone",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Orang",
+      "example": "Someone called you.",
+      "function": "Merujuk pada orang yang tidak spesifik"
+    },
+    {
+      "pronoun": "no one",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Orang",
+      "example": "No one was there.",
+      "function": "Merujuk pada tidak ada orang"
+    },
+    {
+      "pronoun": "anything",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Benda",
+      "example": "Is there anything to eat?",
+      "function": "Merujuk pada apa saja"
+    },
+    {
+      "pronoun": "everything",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Benda",
+      "example": "Everything is ready.",
+      "function": "Merujuk pada semua benda"
+    },
+    {
+      "pronoun": "something",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Benda",
+      "example": "I heard something.",
+      "function": "Merujuk pada benda yang tidak spesifik"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal",
+      "gender": "Benda",
+      "example": "Nothing happened.",
+      "function": "Merujuk pada tidak ada benda"
+    },
+    {
+      "pronoun": "all",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "All are welcome.",
+      "function": "Merujuk pada seluruh kuantitas"
+    },
+    {
+      "pronoun": "some",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Ketiga",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "Some are missing.",
+      "function": "Merujuk pada sebagian kuantitas"
+    },
+    {
+      "pronoun": "none",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Tunggal/Jamak",
+      "gender": "Netral",
+      "example": "None were found.",
+      "function": "Merujuk pada kuantitas nol"
+    },
+    {
+      "pronoun": "both",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "Both are correct.",
+      "function": "Merujuk pada dua hal secara bersamaan"
+    },
+    {
+      "pronoun": "each",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "Each has a role.",
+      "function": "Merujuk pada individu"
+    },
+    {
+      "pronoun": "either",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "Either will work.",
+      "function": "Merujuk pada salah satu dari dua"
+    },
+    {
+      "pronoun": "neither",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "Neither is correct.",
+      "function": "Merujuk pada tidak ada dari dua"
+    },
+    {
+      "pronoun": "few",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "Few attended.",
+      "function": "Merujuk pada jumlah kecil"
+    },
+    {
+      "pronoun": "many",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "Many have tried.",
+      "function": "Merujuk pada jumlah besar"
+    },
+    {
+      "pronoun": "several",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Jamak",
+      "gender": "Netral",
+      "example": "Several are broken.",
+      "function": "Merujuk pada lebih dari dua"
+    },
+    {
+      "pronoun": "one",
+      "type": "Tak Tentu",
+      "case": "-",
+      "person": "Orang Ketiga",
+      "number": "Tunggal",
+      "gender": "Netral",
+      "example": "One must be careful.",
+      "function": "Merujuk pada siapa pun (formal)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabel Kata Ganti Bahasa Inggris - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh dataset tabel kata ganti bahasa Inggris komprehensif. Akses 69 catatan mencakup jenis, kasus, orang, gender, dan contoh kata ganti. Gratis dalam Excel, CSV, PDF.",
+    "title": "Dataset Tabel Klasifikasi Kata Ganti Bahasa Inggris",
+    "description": "Dataset ini menyediakan klasifikasi rinci 69 kata ganti bahasa Inggris, termasuk jenis, kasus gramatikal, orang, jumlah, gender, contoh kalimat, dan fungsinya. Ini adalah sumber daya penting bagi linguis, pendidik, dan pembelajar bahasa.",
+    "key_takeaways": [
+      "Akses daftar lengkap 69 kata ganti bahasa Inggris dengan atribut tata bahasa terperinci.",
+      "Jelajahi jenis kata ganti, kasus, orang, jumlah, gender, dan fungsinya.",
+      "Unduh contoh kalimat untuk pemahaman praktis penggunaan kata ganti.",
+      "Manfaatkan data terstruktur untuk analisis linguistik dan pembuatan materi pendidikan."
+    ],
+    "keywords": [
+      "kata ganti bahasa inggris",
+      "tabel kata ganti",
+      "tata bahasa inggris excel",
+      "jenis kata ganti",
+      "contoh kata ganti csv",
+      "unduh kata ganti"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk membangun alat analisis kata ganti atau API.",
+      "Gunakan file **Excel** untuk memfilter kata ganti berdasarkan jenis, kasus, atau gender, membuat Pivot Tables untuk analisis statistik, atau menyiapkan laporan tata bahasa.",
+      "Cetak versi **PDF** untuk referensi kelas, handout pembelajaran bahasa, atau sebagai panduan offline cepat untuk kata ganti bahasa Inggris.",
+      "Integrasikan dataset terstruktur ini ke dalam perangkat lunak pendidikan atau platform e-learning untuk meningkatkan pelajaran tata bahasa Inggris."
+    ]
+  },
+  "record_count": 69,
+  "title": "Dataset Tabel Klasifikasi Kata Ganti Bahasa Inggris"
+}

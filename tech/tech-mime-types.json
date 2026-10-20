@@ -1,0 +1,479 @@
+{
+  "id": "tech-mime-types",
+  "name": "Dataset Jenis MIME dan Ekstensi File Umum",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "mime_type",
+      "label": "MIME Type",
+      "type": "string"
+    },
+    {
+      "key": "extension",
+      "label": "Extension",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mime_type": "text/plain",
+      "extension": ".txt",
+      "category": "Teks",
+      "description": "Teks biasa"
+    },
+    {
+      "mime_type": "text/html",
+      "extension": ".html, .htm",
+      "category": "Teks",
+      "description": "Dokumen HTML"
+    },
+    {
+      "mime_type": "text/css",
+      "extension": ".css",
+      "category": "Teks",
+      "description": "Lembar Gaya Bertingkat"
+    },
+    {
+      "mime_type": "text/javascript",
+      "extension": ".js",
+      "category": "Teks",
+      "description": "JavaScript"
+    },
+    {
+      "mime_type": "text/csv",
+      "extension": ".csv",
+      "category": "Teks",
+      "description": "Nilai yang dipisahkan koma"
+    },
+    {
+      "mime_type": "text/xml",
+      "extension": ".xml",
+      "category": "Teks",
+      "description": "Dokumen XML"
+    },
+    {
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "category": "Teks",
+      "description": "Dokumen Markdown"
+    },
+    {
+      "mime_type": "text/calendar",
+      "extension": ".ics",
+      "category": "Teks",
+      "description": "Format iCalendar"
+    },
+    {
+      "mime_type": "application/pdf",
+      "extension": ".pdf",
+      "category": "Dokumen",
+      "description": "Adobe PDF"
+    },
+    {
+      "mime_type": "application/msword",
+      "extension": ".doc",
+      "category": "Dokumen",
+      "description": "Microsoft Word"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": ".docx",
+      "category": "Dokumen",
+      "description": "Microsoft Word (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-excel",
+      "extension": ".xls",
+      "category": "Dokumen",
+      "description": "Microsoft Excel"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": ".xlsx",
+      "category": "Dokumen",
+      "description": "Microsoft Excel (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-powerpoint",
+      "extension": ".ppt",
+      "category": "Dokumen",
+      "description": "Microsoft PowerPoint"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "extension": ".pptx",
+      "category": "Dokumen",
+      "description": "Microsoft PowerPoint (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.text",
+      "extension": ".odt",
+      "category": "Dokumen",
+      "description": "Teks OpenDocument"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+      "extension": ".ods",
+      "category": "Dokumen",
+      "description": "Lembar Bentang OpenDocument"
+    },
+    {
+      "mime_type": "application/rtf",
+      "extension": ".rtf",
+      "category": "Dokumen",
+      "description": "Format Teks Kaya"
+    },
+    {
+      "mime_type": "application/epub+zip",
+      "extension": ".epub",
+      "category": "Dokumen",
+      "description": "Publikasi Elektronik (EPUB)"
+    },
+    {
+      "mime_type": "application/json",
+      "extension": ".json",
+      "category": "Data",
+      "description": "Format JSON"
+    },
+    {
+      "mime_type": "application/xml",
+      "extension": ".xml",
+      "category": "Data",
+      "description": "Data XML"
+    },
+    {
+      "mime_type": "application/ld+json",
+      "extension": ".jsonld",
+      "category": "Data",
+      "description": "Format JSON-LD"
+    },
+    {
+      "mime_type": "application/x-yaml",
+      "extension": ".yaml, .yml",
+      "category": "Data",
+      "description": "Format YAML"
+    },
+    {
+      "mime_type": "application/sql",
+      "extension": ".sql",
+      "category": "Data",
+      "description": "Skrip SQL"
+    },
+    {
+      "mime_type": "application/zip",
+      "extension": ".zip",
+      "category": "Arsip",
+      "description": "Arsip ZIP"
+    },
+    {
+      "mime_type": "application/gzip",
+      "extension": ".gz",
+      "category": "Arsip",
+      "description": "Arsip GZIP"
+    },
+    {
+      "mime_type": "application/x-tar",
+      "extension": ".tar",
+      "category": "Arsip",
+      "description": "Arsip TAR"
+    },
+    {
+      "mime_type": "application/x-rar-compressed",
+      "extension": ".rar",
+      "category": "Arsip",
+      "description": "Arsip RAR"
+    },
+    {
+      "mime_type": "application/x-7z-compressed",
+      "extension": ".7z",
+      "category": "Arsip",
+      "description": "Arsip 7-Zip"
+    },
+    {
+      "mime_type": "application/x-bzip2",
+      "extension": ".bz2",
+      "category": "Arsip",
+      "description": "Arsip Bzip2"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "extension": ".bin",
+      "category": "Biner",
+      "description": "Data biner"
+    },
+    {
+      "mime_type": "application/x-executable",
+      "extension": ".exe",
+      "category": "Biner",
+      "description": "Berkas eksekusi"
+    },
+    {
+      "mime_type": "application/x-msdownload",
+      "extension": ".exe, .dll",
+      "category": "Biner",
+      "description": "Eksekusi Microsoft"
+    },
+    {
+      "mime_type": "application/x-shockwave-flash",
+      "extension": ".swf",
+      "category": "Biner",
+      "description": "Adobe Flash"
+    },
+    {
+      "mime_type": "application/java-archive",
+      "extension": ".jar",
+      "category": "Biner",
+      "description": "Arsip Java"
+    },
+    {
+      "mime_type": "application/vnd.android.package-archive",
+      "extension": ".apk",
+      "category": "Biner",
+      "description": "Paket Android"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "extension": ".jpg, .jpeg",
+      "category": "Gambar",
+      "description": "Gambar JPEG"
+    },
+    {
+      "mime_type": "image/png",
+      "extension": ".png",
+      "category": "Gambar",
+      "description": "Gambar PNG"
+    },
+    {
+      "mime_type": "image/gif",
+      "extension": ".gif",
+      "category": "Gambar",
+      "description": "Gambar GIF"
+    },
+    {
+      "mime_type": "image/webp",
+      "extension": ".webp",
+      "category": "Gambar",
+      "description": "Gambar WebP"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "extension": ".svg",
+      "category": "Gambar",
+      "description": "Gambar SVG"
+    },
+    {
+      "mime_type": "image/bmp",
+      "extension": ".bmp",
+      "category": "Gambar",
+      "description": "Gambar Bitmap"
+    },
+    {
+      "mime_type": "image/tiff",
+      "extension": ".tiff, .tif",
+      "category": "Gambar",
+      "description": "Gambar TIFF"
+    },
+    {
+      "mime_type": "image/x-icon",
+      "extension": ".ico",
+      "category": "Gambar",
+      "description": "Format ikon"
+    },
+    {
+      "mime_type": "image/avif",
+      "extension": ".avif",
+      "category": "Gambar",
+      "description": "Gambar AVIF"
+    },
+    {
+      "mime_type": "image/heic",
+      "extension": ".heic",
+      "category": "Gambar",
+      "description": "Gambar HEIC (Apple)"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "extension": ".mp3",
+      "category": "Audio",
+      "description": "Audio MP3"
+    },
+    {
+      "mime_type": "audio/wav",
+      "extension": ".wav",
+      "category": "Audio",
+      "description": "Audio WAV"
+    },
+    {
+      "mime_type": "audio/ogg",
+      "extension": ".ogg",
+      "category": "Audio",
+      "description": "Audio OGG"
+    },
+    {
+      "mime_type": "audio/webm",
+      "extension": ".weba",
+      "category": "Audio",
+      "description": "Audio WebM"
+    },
+    {
+      "mime_type": "audio/aac",
+      "extension": ".aac",
+      "category": "Audio",
+      "description": "Audio AAC"
+    },
+    {
+      "mime_type": "audio/flac",
+      "extension": ".flac",
+      "category": "Audio",
+      "description": "Audio FLAC"
+    },
+    {
+      "mime_type": "audio/midi",
+      "extension": ".mid, .midi",
+      "category": "Audio",
+      "description": "Audio MIDI"
+    },
+    {
+      "mime_type": "audio/x-m4a",
+      "extension": ".m4a",
+      "category": "Audio",
+      "description": "Audio M4A (Apple)"
+    },
+    {
+      "mime_type": "video/mp4",
+      "extension": ".mp4",
+      "category": "Video",
+      "description": "Video MP4"
+    },
+    {
+      "mime_type": "video/webm",
+      "extension": ".webm",
+      "category": "Video",
+      "description": "Video WebM"
+    },
+    {
+      "mime_type": "video/ogg",
+      "extension": ".ogv",
+      "category": "Video",
+      "description": "Video OGG"
+    },
+    {
+      "mime_type": "video/x-msvideo",
+      "extension": ".avi",
+      "category": "Video",
+      "description": "Video AVI"
+    },
+    {
+      "mime_type": "video/quicktime",
+      "extension": ".mov",
+      "category": "Video",
+      "description": "Video QuickTime"
+    },
+    {
+      "mime_type": "video/x-matroska",
+      "extension": ".mkv",
+      "category": "Video",
+      "description": "Video Matroska"
+    },
+    {
+      "mime_type": "video/x-flv",
+      "extension": ".flv",
+      "category": "Video",
+      "description": "Video Flash"
+    },
+    {
+      "mime_type": "video/mpeg",
+      "extension": ".mpeg, .mpg",
+      "category": "Video",
+      "description": "Video MPEG"
+    },
+    {
+      "mime_type": "video/3gpp",
+      "extension": ".3gp",
+      "category": "Video",
+      "description": "Video 3GPP"
+    },
+    {
+      "mime_type": "font/woff",
+      "extension": ".woff",
+      "category": "Fonta",
+      "description": "Format Fonta Terbuka Web"
+    },
+    {
+      "mime_type": "font/woff2",
+      "extension": ".woff2",
+      "category": "Fonta",
+      "description": "Format Fonta Terbuka Web 2"
+    },
+    {
+      "mime_type": "font/ttf",
+      "extension": ".ttf",
+      "category": "Fonta",
+      "description": "Fonta TrueType"
+    },
+    {
+      "mime_type": "font/otf",
+      "extension": ".otf",
+      "category": "Fonta",
+      "description": "Fonta OpenType"
+    },
+    {
+      "mime_type": "application/vnd.ms-fontobject",
+      "extension": ".eot",
+      "category": "Fonta",
+      "description": "OpenType Tersemat"
+    },
+    {
+      "mime_type": "multipart/form-data",
+      "extension": "",
+      "category": "Multibagian",
+      "description": "Data formulir dengan unggahan berkas"
+    },
+    {
+      "mime_type": "multipart/byteranges",
+      "extension": "",
+      "category": "Multibagian",
+      "description": "Rentang konten parsial"
+    }
+  ],
+  "meta": {
+    "seo_title": "Daftar MIME Types - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 70 MIME types, ekstensi, dan kategori umum. Ideal untuk pengembang & analis data. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Jenis MIME dan Ekstensi File Umum",
+    "description": "Dataset ini menyediakan daftar komprehensif 70 jenis MIME umum, ekstensi file terkait, kategori, dan deskripsi. Penting untuk pengembangan web, pemrosesan data, dan administrasi sistem.",
+    "key_takeaways": [
+      "Akses daftar kurasi 70 jenis MIME umum dan detailnya.",
+      "Jelajahi ekstensi file, kategori, dan deskripsi untuk berbagai format data.",
+      "Unduh informasi jenis MIME penting untuk pengembangan web dan penanganan data.",
+      "Dapatkan data yang tepat untuk identifikasi jenis konten dan konfigurasi server."
+    ],
+    "keywords": [
+      "daftar mime types",
+      "dataset ekstensi file",
+      "mime types csv",
+      "jenis konten web excel",
+      "daftar format data",
+      "download mime types gratis"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke aplikasi backend atau database Anda untuk memvalidasi unggahan file dan mengatur jenis konten secara terprogram.",
+      "Gunakan file **Excel** untuk memfilter dan mereferensikan silang jenis MIME dengan cepat untuk dokumentasi, audit sistem, atau menyiapkan pemetaan jenis konten.",
+      "Cetak versi **PDF** sebagai panduan referensi cepat untuk tim pengembangan, administrator sistem, atau untuk tujuan pendidikan di kelas ilmu komputer.",
+      "Manfaatkan dataset ini untuk meningkatkan negosiasi konten, menerapkan penanganan file yang kuat, atau meningkatkan konfigurasi server untuk aplikasi web."
+    ]
+  },
+  "record_count": 70,
+  "title": "Dataset Jenis MIME dan Ekstensi File Umum"
+}

@@ -1,0 +1,680 @@
+{
+  "id": "id-daerah-istimewa-yogyakarta-districts",
+  "name": "Daftar Kecamatan di Daerah Istimewa Yogyakarta",
+  "title": "Daftar Kecamatan di Daerah Istimewa Yogyakarta",
+  "description": "Daftar kecamatan (distrik) di Provinsi Daerah Istimewa Yogyakarta dengan kode wilayah Kepmendagri serta kabupaten/kota induknya. Total 78 kecamatan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency",
+      "label": "Regency",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34.01.01",
+      "name": "Temon",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.02",
+      "name": "Wates",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.03",
+      "name": "Panjatan",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.04",
+      "name": "Galur",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.05",
+      "name": "Lendah",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.06",
+      "name": "Sentolo",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.07",
+      "name": "Pengasih",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.08",
+      "name": "Kokap",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.09",
+      "name": "Girimulyo",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.10",
+      "name": "Nanggulan",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.11",
+      "name": "Samigaluh",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.01.12",
+      "name": "Kalibawang",
+      "regency_code": "34.01",
+      "regency": "Kabupaten Kulon Progo",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.01",
+      "name": "Srandakan",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.02",
+      "name": "Sanden",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.03",
+      "name": "Kretek",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.04",
+      "name": "Pundong",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.05",
+      "name": "Bambanglipuro",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.06",
+      "name": "Pandak",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.07",
+      "name": "Pajangan",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.08",
+      "name": "Bantul",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.09",
+      "name": "Jetis",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.10",
+      "name": "Imogiri",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.11",
+      "name": "Dlingo",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.12",
+      "name": "Banguntapan",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.13",
+      "name": "Pleret",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.14",
+      "name": "Piyungan",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.15",
+      "name": "Sewon",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.16",
+      "name": "Kasihan",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.02.17",
+      "name": "Sedayu",
+      "regency_code": "34.02",
+      "regency": "Kabupaten Bantul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.01",
+      "name": "Wonosari",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.02",
+      "name": "Nglipar",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.03",
+      "name": "Playen",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.04",
+      "name": "Patuk",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.05",
+      "name": "Paliyan",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.06",
+      "name": "Panggang",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.07",
+      "name": "Tepus",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.08",
+      "name": "Semanu",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.09",
+      "name": "Karangmojo",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.10",
+      "name": "Ponjong",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.11",
+      "name": "Rongkop",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.12",
+      "name": "Semin",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.13",
+      "name": "Ngawen",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.14",
+      "name": "Gedangsari",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.15",
+      "name": "Saptosari",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.16",
+      "name": "Girisubo",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.17",
+      "name": "Tanjungsari",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.03.18",
+      "name": "Purwosari",
+      "regency_code": "34.03",
+      "regency": "Kabupaten Gunungkidul",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.01",
+      "name": "Gamping",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.02",
+      "name": "Godean",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.03",
+      "name": "Moyudan",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.04",
+      "name": "Minggir",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.05",
+      "name": "Seyegan",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.06",
+      "name": "Mlati",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.07",
+      "name": "Depok",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.08",
+      "name": "Berbah",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.09",
+      "name": "Prambanan",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.10",
+      "name": "Kalasan",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.11",
+      "name": "Ngemplak",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.12",
+      "name": "Ngaglik",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.13",
+      "name": "Sleman",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.14",
+      "name": "Tempel",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.15",
+      "name": "Turi",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.16",
+      "name": "Pakem",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.04.17",
+      "name": "Cangkringan",
+      "regency_code": "34.04",
+      "regency": "Kabupaten Sleman",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.01",
+      "name": "Tegalrejo",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.02",
+      "name": "Jetis",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.03",
+      "name": "Gondokusuman",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.04",
+      "name": "Danurejan",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.05",
+      "name": "Gedongtengen",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.06",
+      "name": "Ngampilan",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.07",
+      "name": "Wirobrajan",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.08",
+      "name": "Mantrijeron",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.09",
+      "name": "Kraton",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.10",
+      "name": "Gondomanan",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.11",
+      "name": "Pakualaman",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.12",
+      "name": "Mergangsan",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.13",
+      "name": "Umbulharjo",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "code": "34.71.14",
+      "name": "Kotagede",
+      "regency_code": "34.71",
+      "regency": "Kota Yogyakarta",
+      "province_code": "34",
+      "province": "Daerah Istimewa Yogyakarta"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kecamatan di Daerah Istimewa Yogyakarta - Unduh Gratis",
+    "description": "Daftar kecamatan (distrik) di Provinsi Daerah Istimewa Yogyakarta dengan kode wilayah Kepmendagri serta kabupaten/kota induknya. Total 78 kecamatan. Berisi 78 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kecamatan di Daerah Istimewa Yogyakarta | ListBase",
+    "seo_description": "Unduh Daftar Kecamatan di Daerah Istimewa Yogyakarta — 78 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 78 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "id-gorontalo-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Gorontalo (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Gorontalo (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "6 kabupaten/kota di Provinsi Gorontalo dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "75.01",
+      "name": "Kabupaten Gorontalo",
+      "type": "kabupaten",
+      "capital": "Limboto",
+      "latitude": 0.629003,
+      "longitude": 122.980938,
+      "elevation_m": 18,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2160.183,
+      "population": 423981
+    },
+    {
+      "code": "75.02",
+      "name": "Kabupaten Boalemo",
+      "type": "kabupaten",
+      "capital": "Tilamuta",
+      "latitude": 0.529272,
+      "longitude": 122.347542,
+      "elevation_m": 13,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1831.637,
+      "population": 152851
+    },
+    {
+      "code": "75.03",
+      "name": "Kabupaten Bone Bolango",
+      "type": "kabupaten",
+      "capital": "Suwawa",
+      "latitude": 0.557411,
+      "longitude": 123.143917,
+      "elevation_m": 58,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1888.935,
+      "population": 174788
+    },
+    {
+      "code": "75.04",
+      "name": "Kabupaten Pohuwato",
+      "type": "kabupaten",
+      "capital": "Marisa",
+      "latitude": 0.705528,
+      "longitude": 121.719546,
+      "elevation_m": 317,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4370.656,
+      "population": 162989
+    },
+    {
+      "code": "75.05",
+      "name": "Kabupaten Gorontalo Utara",
+      "type": "kabupaten",
+      "capital": "Kwandang",
+      "latitude": 0.79095,
+      "longitude": 122.868715,
+      "elevation_m": 11,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1702.746,
+      "population": 131991
+    },
+    {
+      "code": "75.71",
+      "name": "Kota Gorontalo",
+      "type": "kota",
+      "capital": "Gorontalo",
+      "latitude": 0.531906,
+      "longitude": 123.059503,
+      "elevation_m": 4,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 70.825,
+      "population": 204360
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Gorontalo (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "6 kabupaten/kota di Provinsi Gorontalo dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Gorontalo (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Gorontalo (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

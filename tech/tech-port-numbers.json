@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "Dataset Nomor Port Jaringan & Layanan Umum",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "Data FTP",
+      "category": "Transfer Berkas",
+      "description": "Protokol Transfer Berkas - transfer data"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "Kontrol FTP",
+      "category": "Transfer Berkas",
+      "description": "Protokol Transfer Berkas - perintah/kontrol"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "Akses Jarak Jauh",
+      "description": "Secure Shell - login jarak jauh terenkripsi"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "Akses Jarak Jauh",
+      "description": "Telnet - login jarak jauh tidak terenkripsi (warisan)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "Email",
+      "description": "Protokol Transfer Surat Sederhana - pengiriman email"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "Jaringan",
+      "description": "Sistem Nama Domain - resolusi nama host"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "Server DHCP",
+      "category": "Jaringan",
+      "description": "Protokol Konfigurasi Host Dinamis - server"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "Klien DHCP",
+      "category": "Jaringan",
+      "description": "Protokol Konfigurasi Host Dinamis - klien"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "Transfer Berkas",
+      "description": "Protokol Transfer Berkas Trivial"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "Web",
+      "description": "Protokol Transfer Hiperteks - lalu lintas web"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "Email",
+      "description": "Protokol Kantor Pos v3 - penerimaan email"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "Berita",
+      "description": "Protokol Transfer Berita Jaringan"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "Jaringan",
+      "description": "Protokol Waktu Jaringan - sinkronisasi waktu"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "Windows",
+      "description": "Pemeta Titik Akhir Microsoft RPC"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "Windows",
+      "description": "Layanan Nama NetBIOS"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "Windows",
+      "description": "Layanan Datagram NetBIOS"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "Windows",
+      "description": "Layanan Sesi NetBIOS"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "Email",
+      "description": "Protokol Akses Pesan Internet"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "Jaringan",
+      "description": "Protokol Manajemen Jaringan Sederhana"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "Jaringan",
+      "description": "SNMP Trap - notifikasi"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "Jaringan",
+      "description": "Protokol Border Gateway - perutean"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Obrolan",
+      "description": "Obrolan Relai Internet"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "Direktori",
+      "description": "Protokol Akses Direktori Ringan"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "Web",
+      "description": "HTTP Secure - lalu lintas web terenkripsi"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "Berbagi Berkas",
+      "description": "Server Message Block - berbagi berkas Windows"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "Surel",
+      "description": "SMTP melalui SSL (sudah usang, gunakan port 587)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "Pertukaran Kunci Internet - VPN IPsec"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "Pencatatan",
+      "description": "Protokol Pencatatan Sistem"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "Pencetakan",
+      "description": "Line Printer Daemon - pencetakan"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "Jaringan",
+      "description": "Protokol Informasi Perutean"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "Klien DHCPv6",
+      "category": "Jaringan",
+      "description": "DHCP untuk IPv6 - klien"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "Server DHCPv6",
+      "category": "Jaringan",
+      "description": "DHCP untuk IPv6 - server"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "Pengiriman SMTP",
+      "category": "Surel",
+      "description": "Pengiriman surel (disarankan untuk mengirim)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "Direktori",
+      "description": "LDAP melalui SSL/TLS"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "Surel",
+      "description": "IMAP melalui SSL/TLS"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "Surel",
+      "description": "POP3 melalui SSL/TLS"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "Proksi",
+      "description": "Protokol proksi SOCKS"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "Port default OpenVPN"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "Basis Data",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "Peramban MSSQL",
+      "category": "Basis Data",
+      "description": "Layanan Peramban SQL Server"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "Basis Data",
+      "description": "Pendengar Basis Data Oracle"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "Protokol Terowongan Titik-ke-Titik"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "Transport Telemetri Antrean Pesan"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "Berbagi Berkas",
+      "description": "Sistem Berkas Jaringan"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "Hosting Web",
+      "description": "Port default cPanel"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "Hosting Web",
+      "description": "cPanel melalui SSL"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "Terdistribusi",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "Kontainer",
+      "description": "Docker REST API (tidak terenkripsi)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "Kontainer",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "Pengembangan",
+      "description": "Server pengembangan Node.js/React/Rails"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "Basis Data",
+      "description": "Basis data MySQL/MariaDB"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "Akses Jarak Jauh",
+      "description": "Protokol Desktop Jarak Jauh (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "Web",
+      "description": "Port HTTPS alternatif"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "Pengembangan",
+      "description": "Python Flask / Penemuan UPnP"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "Basis Data",
+      "description": "Basis data PostgreSQL"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "Pesan",
+      "description": "Port default RabbitMQ"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "Akses Jarak Jauh",
+      "description": "Virtual Network Computing"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "Basis Data",
+      "description": "Basis data in-memory Redis"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "Kontainer",
+      "description": "Server API Kubernetes"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Obrolan",
+      "description": "Port default IRC"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "HTTP Alternatif",
+      "category": "Pengembangan",
+      "description": "HTTP Alternatif / Pengembangan Django"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "Proxy HTTP",
+      "category": "Web",
+      "description": "Proxy HTTP / HTTP alternatif"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "HTTPS Alternatif",
+      "category": "Web",
+      "description": "Port HTTPS alternatif"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "Pengembangan",
+      "description": "Default Jupyter Notebook"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "Web",
+      "description": "Manajer Proses PHP FastCGI"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "Pemantauan",
+      "description": "Server metrik Prometheus"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "Pesan",
+      "description": "Broker Apache Kafka"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Pencarian",
+      "description": "API REST Elasticsearch"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Pencarian",
+      "description": "Komunikasi node Elasticsearch"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "Penyimpanan Cache",
+      "description": "Sistem cache Memcached"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "Basis Data",
+      "description": "Basis data MongoDB"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB Shard",
+      "category": "Basis Data",
+      "description": "Server shard MongoDB"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "MongoDB Konfigurasi",
+      "category": "Basis Data",
+      "description": "Server konfigurasi MongoDB"
+    }
+  ],
+  "meta": {
+    "seo_title": "Daftar Nomor Port Jaringan Umum - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh dataset gratis 73 nomor port jaringan umum (TCP/UDP), layanan, dan protokol. Tersedia dalam format Excel, CSV, dan PDF untuk admin jaringan, pengembang dan mahasiswa.",
+    "title": "Dataset Nomor Port Jaringan & Layanan Umum",
+    "description": "Dataset ini menyediakan daftar komprehensif 73 nomor port jaringan umum, termasuk protokol terkait (TCP/UDP), layanan, kategori, dan deskripsi. Ideal untuk profesional jaringan, pengembang, dan mahasiswa.",
+    "key_takeaways": [
+      "Akses daftar pilihan 73 nomor port jaringan TCP/UDP dan layanan penting.",
+      "Jelajahi deskripsi dan kategori terperinci untuk protokol jaringan umum.",
+      "Unduh data nomor port secara instan dalam format Excel, CSV, atau PDF.",
+      "Manfaatkan data ini untuk audit keamanan jaringan, konfigurasi, dan pembelajaran."
+    ],
+    "keywords": [
+      "nomor port jaringan umum",
+      "port tcp udp",
+      "dataset layanan jaringan",
+      "unduh port excel csv",
+      "daftar protokol jaringan",
+      "data port gratis"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL Anda atau gunakan dengan skrip Python untuk otomatisasi dan analisis jaringan.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan menganalisis data port, membuat laporan atau lembar referensi untuk administrasi jaringan.",
+      "Cetak versi **PDF** untuk referensi cepat offline, materi pengajaran di kelas, atau dokumentasi jaringan internal.",
+      "Referensi dataset ini untuk dengan cepat mengidentifikasi lalu lintas jaringan yang tidak dikenal, mengonfigurasi firewall, atau memecahkan masalah konektivitas."
+    ]
+  },
+  "record_count": 73,
+  "title": "Dataset Nomor Port Jaringan & Layanan Umum"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "id-papua-tengah-regencies",
+  "name": "Daftar Kabupaten dan Kota di Papua Tengah",
+  "title": "Daftar Kabupaten dan Kota di Papua Tengah",
+  "description": "Daftar kabupaten dan kota di Provinsi Papua Tengah dengan kode wilayah Kepmendagri. Total 8 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "94.01",
+      "name": "Kabupaten Nabire",
+      "type": "Kabupaten",
+      "slug": "kabupaten-nabire"
+    },
+    {
+      "code": "94.02",
+      "name": "Kabupaten Puncak Jaya",
+      "type": "Kabupaten",
+      "slug": "kabupaten-puncak-jaya"
+    },
+    {
+      "code": "94.03",
+      "name": "Kabupaten Paniai",
+      "type": "Kabupaten",
+      "slug": "kabupaten-paniai"
+    },
+    {
+      "code": "94.04",
+      "name": "Kabupaten Mimika",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mimika"
+    },
+    {
+      "code": "94.05",
+      "name": "Kabupaten Puncak",
+      "type": "Kabupaten",
+      "slug": "kabupaten-puncak"
+    },
+    {
+      "code": "94.06",
+      "name": "Kabupaten Dogiyai",
+      "type": "Kabupaten",
+      "slug": "kabupaten-dogiyai"
+    },
+    {
+      "code": "94.07",
+      "name": "Kabupaten Intan Jaya",
+      "type": "Kabupaten",
+      "slug": "kabupaten-intan-jaya"
+    },
+    {
+      "code": "94.08",
+      "name": "Kabupaten Deiyai",
+      "type": "Kabupaten",
+      "slug": "kabupaten-deiyai"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Papua Tengah - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Papua Tengah dengan kode wilayah Kepmendagri. Total 8 kabupaten/kota. Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Papua Tengah | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Papua Tengah — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

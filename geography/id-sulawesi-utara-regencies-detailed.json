@@ -1,0 +1,256 @@
+{
+  "id": "id-sulawesi-utara-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sulawesi Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sulawesi Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "15 kabupaten/kota di Provinsi Sulawesi Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "71.01",
+      "name": "Kabupaten Bolaang Mongondow",
+      "type": "kabupaten",
+      "capital": "Lolak",
+      "latitude": 0.870606,
+      "longitude": 124.024404,
+      "elevation_m": 15,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3291.237,
+      "population": 257378
+    },
+    {
+      "code": "71.02",
+      "name": "Kabupaten Minahasa",
+      "type": "kabupaten",
+      "capital": "Tondano",
+      "latitude": 1.300764,
+      "longitude": 124.91087,
+      "elevation_m": 693,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1128.25,
+      "population": 330843
+    },
+    {
+      "code": "71.03",
+      "name": "Kabupaten Kepulauan Sangihe",
+      "type": "kabupaten",
+      "capital": "Tahuna",
+      "latitude": 3.612452,
+      "longitude": 125.499643,
+      "elevation_m": 34,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 596.459,
+      "population": 135860
+    },
+    {
+      "code": "71.04",
+      "name": "Kabupaten Kepulauan Talaud",
+      "type": "kabupaten",
+      "capital": "Melonguane",
+      "latitude": 4.005792,
+      "longitude": 126.681884,
+      "elevation_m": 41,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1009.738,
+      "population": 100376
+    },
+    {
+      "code": "71.05",
+      "name": "Kabupaten Minahasa Selatan",
+      "type": "kabupaten",
+      "capital": "Amurang",
+      "latitude": 1.213251,
+      "longitude": 124.59717,
+      "elevation_m": 14,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1455.907,
+      "population": 243297
+    },
+    {
+      "code": "71.06",
+      "name": "Kabupaten Minahasa Utara",
+      "type": "kabupaten",
+      "capital": "Airmadidi",
+      "latitude": 1.459061,
+      "longitude": 124.97473,
+      "elevation_m": 321,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 992.981,
+      "population": 229231
+    },
+    {
+      "code": "71.07",
+      "name": "Kabupaten Minahasa Tenggara",
+      "type": "kabupaten",
+      "capital": "Ratahan",
+      "latitude": 1.041813,
+      "longitude": 124.797621,
+      "elevation_m": 299,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 752.788,
+      "population": 121554
+    },
+    {
+      "code": "71.08",
+      "name": "Kabupaten Bolaang Mongondow Utara",
+      "type": "kabupaten",
+      "capital": "\tBoroko",
+      "latitude": 0.906457,
+      "longitude": 123.259051,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1643.863,
+      "population": 88002
+    },
+    {
+      "code": "71.09",
+      "name": "Kabupaten Kep. Siau Tagulandang Biaro",
+      "type": "kabupaten",
+      "capital": "Ondong Siau",
+      "latitude": 2.744597,
+      "longitude": 125.362288,
+      "elevation_m": 34,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 215.611,
+      "population": 70528
+    },
+    {
+      "code": "71.10",
+      "name": "Kabupaten Bolaang Mongondow Timur",
+      "type": "kabupaten",
+      "capital": "Tutuyan",
+      "latitude": 0.768523,
+      "longitude": 124.613173,
+      "elevation_m": 25,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 859.683,
+      "population": 91344
+    },
+    {
+      "code": "71.11",
+      "name": "Kabupaten Bolaang Mongondow Selatan",
+      "type": "kabupaten",
+      "capital": "Molibagu",
+      "latitude": 0.38354,
+      "longitude": 124.047884,
+      "elevation_m": 40,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1772.832,
+      "population": 76105
+    },
+    {
+      "code": "71.71",
+      "name": "Kota Manado",
+      "type": "kota",
+      "capital": "Manado",
+      "latitude": 1.484554,
+      "longitude": 124.849125,
+      "elevation_m": 10,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 161.76,
+      "population": 459409
+    },
+    {
+      "code": "71.72",
+      "name": "Kota Bitung",
+      "type": "kota",
+      "capital": "Bitung",
+      "latitude": 1.445396,
+      "longitude": 125.181983,
+      "elevation_m": 10,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 329.363,
+      "population": 216026
+    },
+    {
+      "code": "71.73",
+      "name": "Kota Tomohon",
+      "type": "kota",
+      "capital": "Tomohon",
+      "latitude": 1.314525,
+      "longitude": 124.827447,
+      "elevation_m": 778,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 169.064,
+      "population": 103812
+    },
+    {
+      "code": "71.74",
+      "name": "Kota Kotamobagu",
+      "type": "kota",
+      "capital": "Kotamobagu",
+      "latitude": 0.743497,
+      "longitude": 124.312668,
+      "elevation_m": 254,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 108.893,
+      "population": 121526
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sulawesi Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "15 kabupaten/kota di Provinsi Sulawesi Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 15 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sulawesi Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sulawesi Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 15 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 15 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

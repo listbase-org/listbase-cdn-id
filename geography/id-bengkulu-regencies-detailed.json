@@ -1,0 +1,196 @@
+{
+  "id": "id-bengkulu-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Bengkulu (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Bengkulu (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "10 kabupaten/kota di Provinsi Bengkulu dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "17.01",
+      "name": "Kabupaten Bengkulu Selatan",
+      "type": "kabupaten",
+      "capital": "Manna",
+      "latitude": -4.439935,
+      "longitude": 102.895202,
+      "elevation_m": 30,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1219.063,
+      "population": 177137
+    },
+    {
+      "code": "17.02",
+      "name": "Kabupaten Rejang Lebong",
+      "type": "kabupaten",
+      "capital": "Curup",
+      "latitude": -3.477964,
+      "longitude": 102.531886,
+      "elevation_m": 665,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1559.419,
+      "population": 288582
+    },
+    {
+      "code": "17.03",
+      "name": "Kabupaten Bengkulu Utara",
+      "type": "kabupaten",
+      "capital": "Arga Makmur",
+      "latitude": -3.436858,
+      "longitude": 102.201786,
+      "elevation_m": 179,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4478.107,
+      "population": 309773
+    },
+    {
+      "code": "17.04",
+      "name": "Kabupaten Kaur",
+      "type": "kabupaten",
+      "capital": "Bintuhan",
+      "latitude": -4.75911,
+      "longitude": 103.3491,
+      "elevation_m": 54,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2607.839,
+      "population": 136533
+    },
+    {
+      "code": "17.05",
+      "name": "Kabupaten Seluma",
+      "type": "kabupaten",
+      "capital": "Tais",
+      "latitude": -4.07763,
+      "longitude": 102.556254,
+      "elevation_m": 88,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2432.088,
+      "population": 216028
+    },
+    {
+      "code": "17.06",
+      "name": "Kabupaten Mukomuko",
+      "type": "kabupaten",
+      "capital": "Mukomuko",
+      "latitude": -2.552763,
+      "longitude": 101.104214,
+      "elevation_m": 5,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4137.52,
+      "population": 205602
+    },
+    {
+      "code": "17.07",
+      "name": "Kabupaten Lebong",
+      "type": "kabupaten",
+      "capital": "Muara Aman",
+      "latitude": -3.157449,
+      "longitude": 102.182847,
+      "elevation_m": 580,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1666.621,
+      "population": 115520
+    },
+    {
+      "code": "17.08",
+      "name": "Kabupaten Kepahiang",
+      "type": "kabupaten",
+      "capital": "Kepahiang",
+      "latitude": -3.625109,
+      "longitude": 102.556345,
+      "elevation_m": 560,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 738.965,
+      "population": 151910
+    },
+    {
+      "code": "17.09",
+      "name": "Kabupaten Bengkulu Tengah",
+      "type": "kabupaten",
+      "capital": "Karang Tinggi",
+      "latitude": -3.772855,
+      "longitude": 102.38999,
+      "elevation_m": 53,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1132.405,
+      "population": 126339
+    },
+    {
+      "code": "17.71",
+      "name": "Kota Bengkulu",
+      "type": "kota",
+      "capital": "Bengkulu",
+      "latitude": -3.792845,
+      "longitude": 102.260764,
+      "elevation_m": 22,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 150.183,
+      "population": 400533
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Bengkulu (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "10 kabupaten/kota di Provinsi Bengkulu dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Bengkulu (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Bengkulu (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

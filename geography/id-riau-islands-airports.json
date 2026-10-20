@@ -1,0 +1,135 @@
+{
+  "id": "id-riau-islands-airports",
+  "name": "Bandar Udara — Riau Islands",
+  "title": "Bandar Udara — Riau Islands",
+  "description": "Bandar udara di Provinsi Riau Islands, Indonesia (Airports in Riau Islands Province, Indonesia — 2 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIDS",
+      "iata": "SIQ",
+      "name_en": "Dabo",
+      "name_slug": "dabo",
+      "city_en": "Dabo",
+      "city_slug": "dabo",
+      "province_en": "Riau Islands",
+      "province_slug": "riau-islands",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 134,
+      "lat": -0.5,
+      "lon": 104.416664,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIDN",
+      "iata": "TNJ",
+      "name_en": "Kidjang Airport",
+      "name_slug": "kidjang-airport",
+      "city_en": "Tanjungpinang",
+      "city_slug": "tanjungpinang",
+      "province_en": "Riau Islands",
+      "province_slug": "riau-islands",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 52,
+      "lat": 0.919167,
+      "lon": 104.53611,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Riau Islands - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Riau Islands, Indonesia (Airports in Riau Islands Province, Indonesia — 2 record(s).) Berisi 2 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Riau Islands | ListBase",
+    "seo_description": "Unduh Bandar Udara — Riau Islands — 2 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 2 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

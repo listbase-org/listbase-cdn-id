@@ -1,0 +1,96 @@
+{
+  "id": "id-gorontalo-pelabuhan",
+  "name": "Pelabuhan Umum di Gorontalo (5 pelabuhan)",
+  "title": "Pelabuhan Umum di Gorontalo (5 pelabuhan)",
+  "description": "5 pelabuhan umum di Provinsi Gorontalo, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BBN",
+      "nama_pelabuhan": "Bumbulan",
+      "lokasi_kabupaten_kota": "POHUWATO",
+      "unit_kerja": "UPP KELAS III TILAMUTA",
+      "alamat_kantor": "Jl. Pelabuhan No. 106 Kec. Tilamuta Kab. Boalemo Gorontalo 96263",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "GTO",
+      "nama_pelabuhan": "Gorontalo",
+      "lokasi_kabupaten_kota": "GORONTALO",
+      "unit_kerja": "KSOP KELAS III GORONTALO",
+      "alamat_kantor": "Jl.Manyor Dullah Kota Gorontalo .Gorontalo 96118",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "KWG",
+      "nama_pelabuhan": "Kwandang",
+      "lokasi_kabupaten_kota": "GORONTALO UTARA",
+      "unit_kerja": "UPP KELAS III KWANDANG",
+      "alamat_kantor": "Jl. Komp. Pelabuhan Desa Moluo Kec. Kwandang Gorontalo 96252",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "NGG",
+      "nama_pelabuhan": "Anggrek",
+      "lokasi_kabupaten_kota": "GORONTALO UTARA",
+      "unit_kerja": "UPP KELAS II ANGGREK",
+      "alamat_kantor": "Jl. Pelabuhan Anggrek Desa Ilangara Kec. Anggrek Kab. Gorontalo Utara 96252",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "kode_pelabuhan": "TAA",
+      "nama_pelabuhan": "Tilamuta",
+      "lokasi_kabupaten_kota": "BOALEMO",
+      "unit_kerja": "UPP KELAS III TILAMUTA",
+      "alamat_kantor": "Jl. Pelabuhan No. 106 Kec. Tilamuta Kab. Boalemo Gorontalo 96263",
+      "provinsi": "Gorontalo"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Gorontalo (5 pelabuhan) - Unduh Gratis",
+    "description": "5 pelabuhan umum di Provinsi Gorontalo, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Gorontalo (5 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Gorontalo (5 pelabuhan) — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

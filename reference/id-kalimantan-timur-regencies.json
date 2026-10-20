@@ -1,0 +1,106 @@
+{
+  "id": "id-kalimantan-timur-regencies",
+  "name": "Daftar Kabupaten dan Kota di Kalimantan Timur",
+  "title": "Daftar Kabupaten dan Kota di Kalimantan Timur",
+  "description": "Daftar kabupaten dan kota di Provinsi Kalimantan Timur dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "64.01",
+      "name": "Kabupaten Paser",
+      "type": "Kabupaten",
+      "slug": "kabupaten-paser"
+    },
+    {
+      "code": "64.02",
+      "name": "Kabupaten Kutai Kartanegara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kutai-kartanegara"
+    },
+    {
+      "code": "64.03",
+      "name": "Kabupaten Berau",
+      "type": "Kabupaten",
+      "slug": "kabupaten-berau"
+    },
+    {
+      "code": "64.07",
+      "name": "Kabupaten Kutai Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kutai-barat"
+    },
+    {
+      "code": "64.08",
+      "name": "Kabupaten Kutai Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kutai-timur"
+    },
+    {
+      "code": "64.09",
+      "name": "Kabupaten Penajam Paser Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-penajam-paser-utara"
+    },
+    {
+      "code": "64.11",
+      "name": "Kabupaten Mahakam Ulu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mahakam-ulu"
+    },
+    {
+      "code": "64.71",
+      "name": "Kota Balikpapan",
+      "type": "Kota",
+      "slug": "kota-balikpapan"
+    },
+    {
+      "code": "64.72",
+      "name": "Kota Samarinda",
+      "type": "Kota",
+      "slug": "kota-samarinda"
+    },
+    {
+      "code": "64.74",
+      "name": "Kota Bontang",
+      "type": "Kota",
+      "slug": "kota-bontang"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Kalimantan Timur - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Kalimantan Timur dengan kode wilayah Kepmendagri. Total 10 kabupaten/kota. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Kalimantan Timur | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Kalimantan Timur — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

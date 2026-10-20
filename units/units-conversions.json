@@ -1,0 +1,645 @@
+{
+  "id": "units-conversions",
+  "name": "Kumpulan Data Faktor Konversi Satuan Komprehensif",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "from_unit",
+      "label": "From Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "to_unit",
+      "label": "To Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "factor",
+      "label": "Conversion Factor",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "from_unit": "Inci",
+      "to_unit": "Sentimeter",
+      "factor": 2.54,
+      "category": "Panjang",
+      "formula": "1 inch = 2.54 cm"
+    },
+    {
+      "from_unit": "Kaki",
+      "to_unit": "Meter",
+      "factor": 0.3048,
+      "category": "Panjang",
+      "formula": "1 ft = 0.3048 m"
+    },
+    {
+      "from_unit": "Yard",
+      "to_unit": "Meter",
+      "factor": 0.9144,
+      "category": "Panjang",
+      "formula": "1 yd = 0.9144 m"
+    },
+    {
+      "from_unit": "Mil",
+      "to_unit": "Kilometer",
+      "factor": 1.60934,
+      "category": "Panjang",
+      "formula": "1 mi = 1.60934 km"
+    },
+    {
+      "from_unit": "Mil laut",
+      "to_unit": "Kilometer",
+      "factor": 1.852,
+      "category": "Panjang",
+      "formula": "1 nmi = 1.852 km"
+    },
+    {
+      "from_unit": "Meter",
+      "to_unit": "Kaki",
+      "factor": 3.28084,
+      "category": "Panjang",
+      "formula": "1 m = 3.28084 ft"
+    },
+    {
+      "from_unit": "Kilometer",
+      "to_unit": "Mil",
+      "factor": 0.621371,
+      "category": "Panjang",
+      "formula": "1 km = 0.621371 mi"
+    },
+    {
+      "from_unit": "Sentimeter",
+      "to_unit": "Inci",
+      "factor": 0.393701,
+      "category": "Panjang",
+      "formula": "1 cm = 0.393701 in"
+    },
+    {
+      "from_unit": "Milimeter",
+      "to_unit": "Inci",
+      "factor": 0.0393701,
+      "category": "Panjang",
+      "formula": "1 mm = 0.0393701 in"
+    },
+    {
+      "from_unit": "Mikrometer",
+      "to_unit": "Inci",
+      "factor": 0.0000393701,
+      "category": "Panjang",
+      "formula": "1 µm = 0.0000393701 in"
+    },
+    {
+      "from_unit": "Pound",
+      "to_unit": "Kilogram",
+      "factor": 0.453592,
+      "category": "Berat",
+      "formula": "1 lb = 0.453592 kg"
+    },
+    {
+      "from_unit": "Ons",
+      "to_unit": "Gram",
+      "factor": 28.3495,
+      "category": "Berat",
+      "formula": "1 oz = 28.3495 g"
+    },
+    {
+      "from_unit": "Kilogram",
+      "to_unit": "Pound",
+      "factor": 2.20462,
+      "category": "Berat",
+      "formula": "1 kg = 2.20462 lb"
+    },
+    {
+      "from_unit": "Gram",
+      "to_unit": "Ons",
+      "factor": 0.035274,
+      "category": "Berat",
+      "formula": "1 g = 0.035274 oz"
+    },
+    {
+      "from_unit": "Stone",
+      "to_unit": "Kilogram",
+      "factor": 6.35029,
+      "category": "Berat",
+      "formula": "1 st = 6.35029 kg"
+    },
+    {
+      "from_unit": "Ton (AS)",
+      "to_unit": "Kilogram",
+      "factor": 907.185,
+      "category": "Berat",
+      "formula": "1 US ton = 907.185 kg"
+    },
+    {
+      "from_unit": "Ton (Inggris)",
+      "to_unit": "Kilogram",
+      "factor": 1016.05,
+      "category": "Berat",
+      "formula": "1 UK ton = 1016.05 kg"
+    },
+    {
+      "from_unit": "Ton metrik",
+      "to_unit": "Kilogram",
+      "factor": 1000,
+      "category": "Berat",
+      "formula": "1 t = 1000 kg"
+    },
+    {
+      "from_unit": "Karat",
+      "to_unit": "Gram",
+      "factor": 0.2,
+      "category": "Berat",
+      "formula": "1 ct = 0.2 g"
+    },
+    {
+      "from_unit": "Ons Troy",
+      "to_unit": "Gram",
+      "factor": 31.1035,
+      "category": "Berat",
+      "formula": "1 oz t = 31.1035 g"
+    },
+    {
+      "from_unit": "Galon (AS)",
+      "to_unit": "Liter",
+      "factor": 3.78541,
+      "category": "Volume",
+      "formula": "1 US gal = 3.78541 L"
+    },
+    {
+      "from_unit": "Galon (Inggris)",
+      "to_unit": "Liter",
+      "factor": 4.54609,
+      "category": "Volume",
+      "formula": "1 UK gal = 4.54609 L"
+    },
+    {
+      "from_unit": "Kuart (AS)",
+      "to_unit": "Liter",
+      "factor": 0.946353,
+      "category": "Volume",
+      "formula": "1 US qt = 0.946353 L"
+    },
+    {
+      "from_unit": "Pint (AS)",
+      "to_unit": "Liter",
+      "factor": 0.473176,
+      "category": "Volume",
+      "formula": "1 US pt = 0.473176 L"
+    },
+    {
+      "from_unit": "Gelas (AS)",
+      "to_unit": "Mililiter",
+      "factor": 236.588,
+      "category": "Volume",
+      "formula": "1 US cup = 236.588 mL"
+    },
+    {
+      "from_unit": "Ons Cair (AS)",
+      "to_unit": "Mililiter",
+      "factor": 29.5735,
+      "category": "Volume",
+      "formula": "1 US fl oz = 29.5735 mL"
+    },
+    {
+      "from_unit": "Sendok Makan",
+      "to_unit": "Mililiter",
+      "factor": 14.7868,
+      "category": "Volume",
+      "formula": "1 tbsp = 14.7868 mL"
+    },
+    {
+      "from_unit": "Sendok Teh",
+      "to_unit": "Mililiter",
+      "factor": 4.92892,
+      "category": "Volume",
+      "formula": "1 tsp = 4.92892 mL"
+    },
+    {
+      "from_unit": "Liter",
+      "to_unit": "Galon (AS)",
+      "factor": 0.264172,
+      "category": "Volume",
+      "formula": "1 L = 0.264172 US gal"
+    },
+    {
+      "from_unit": "Meter Kubik",
+      "to_unit": "Liter",
+      "factor": 1000,
+      "category": "Volume",
+      "formula": "1 m³ = 1000 L"
+    },
+    {
+      "from_unit": "Kaki Kubik",
+      "to_unit": "Liter",
+      "factor": 28.3168,
+      "category": "Volume",
+      "formula": "1 ft³ = 28.3168 L"
+    },
+    {
+      "from_unit": "Inci Kubik",
+      "to_unit": "Mililiter",
+      "factor": 16.3871,
+      "category": "Volume",
+      "formula": "1 in³ = 16.3871 mL"
+    },
+    {
+      "from_unit": "Barel (Minyak)",
+      "to_unit": "Liter",
+      "factor": 158.987,
+      "category": "Volume",
+      "formula": "1 bbl = 158.987 L"
+    },
+    {
+      "from_unit": "Kaki Persegi",
+      "to_unit": "Meter Persegi",
+      "factor": 0.092903,
+      "category": "Luas",
+      "formula": "1 ft² = 0.092903 m²"
+    },
+    {
+      "from_unit": "Yard Persegi",
+      "to_unit": "Meter Persegi",
+      "factor": 0.836127,
+      "category": "Luas",
+      "formula": "1 yd² = 0.836127 m²"
+    },
+    {
+      "from_unit": "Mil Persegi",
+      "to_unit": "Kilometer Persegi",
+      "factor": 2.58999,
+      "category": "Luas",
+      "formula": "1 mi² = 2.58999 km²"
+    },
+    {
+      "from_unit": "Acre",
+      "to_unit": "Hektar",
+      "factor": 0.404686,
+      "category": "Luas",
+      "formula": "1 acre = 0.404686 ha"
+    },
+    {
+      "from_unit": "Acre",
+      "to_unit": "Meter Persegi",
+      "factor": 4046.86,
+      "category": "Luas",
+      "formula": "1 acre = 4046.86 m²"
+    },
+    {
+      "from_unit": "Hektar",
+      "to_unit": "Acre",
+      "factor": 2.47105,
+      "category": "Luas",
+      "formula": "1 ha = 2.47105 acres"
+    },
+    {
+      "from_unit": "Meter Persegi",
+      "to_unit": "Kaki Persegi",
+      "factor": 10.7639,
+      "category": "Luas",
+      "formula": "1 m² = 10.7639 ft²"
+    },
+    {
+      "from_unit": "Kilometer Persegi",
+      "to_unit": "Mil Persegi",
+      "factor": 0.386102,
+      "category": "Luas",
+      "formula": "1 km² = 0.386102 mi²"
+    },
+    {
+      "from_unit": "Rai (Thailand)",
+      "to_unit": "Meter Persegi",
+      "factor": 1600,
+      "category": "Luas",
+      "formula": "1 rai = 1600 m²"
+    },
+    {
+      "from_unit": "Mil per Jam",
+      "to_unit": "Kilometer per Jam",
+      "factor": 1.60934,
+      "category": "Kecepatan",
+      "formula": "1 mph = 1.60934 km/h"
+    },
+    {
+      "from_unit": "Kilometer per Jam",
+      "to_unit": "Mil per Jam",
+      "factor": 0.621371,
+      "category": "Kecepatan",
+      "formula": "1 km/h = 0.621371 mph"
+    },
+    {
+      "from_unit": "Knot",
+      "to_unit": "Kilometer per Jam",
+      "factor": 1.852,
+      "category": "Kecepatan",
+      "formula": "1 kn = 1.852 km/h"
+    },
+    {
+      "from_unit": "Meter per Detik",
+      "to_unit": "Kilometer per Jam",
+      "factor": 3.6,
+      "category": "Kecepatan",
+      "formula": "1 m/s = 3.6 km/h"
+    },
+    {
+      "from_unit": "Kaki per Detik",
+      "to_unit": "Meter per Detik",
+      "factor": 0.3048,
+      "category": "Kecepatan",
+      "formula": "1 ft/s = 0.3048 m/s"
+    },
+    {
+      "from_unit": "Mach",
+      "to_unit": "Kilometer per Jam",
+      "factor": 1234.8,
+      "category": "Kecepatan",
+      "formula": "1 Mach ≈ 1234.8 km/h (at sea level)"
+    },
+    {
+      "from_unit": "Celsius ke Fahrenheit",
+      "to_unit": "Rumus",
+      "factor": 1.8,
+      "category": "Suhu",
+      "formula": "°F = (°C × 1.8) + 32"
+    },
+    {
+      "from_unit": "Fahrenheit ke Celsius",
+      "to_unit": "Rumus",
+      "factor": 0.5556,
+      "category": "Suhu",
+      "formula": "°C = (°F - 32) × 5/9"
+    },
+    {
+      "from_unit": "Celsius ke Kelvin",
+      "to_unit": "Rumus",
+      "factor": 1,
+      "category": "Suhu",
+      "formula": "K = °C + 273.15"
+    },
+    {
+      "from_unit": "Kelvin ke Celsius",
+      "to_unit": "Rumus",
+      "factor": 1,
+      "category": "Suhu",
+      "formula": "°C = K - 273.15"
+    },
+    {
+      "from_unit": "Kalori",
+      "to_unit": "Joule",
+      "factor": 4.184,
+      "category": "Energi",
+      "formula": "1 cal = 4.184 J"
+    },
+    {
+      "from_unit": "Kilokalori",
+      "to_unit": "Kilojoule",
+      "factor": 4.184,
+      "category": "Energi",
+      "formula": "1 kcal = 4.184 kJ"
+    },
+    {
+      "from_unit": "BTU",
+      "to_unit": "Joule",
+      "factor": 1055.06,
+      "category": "Energi",
+      "formula": "1 BTU = 1055.06 J"
+    },
+    {
+      "from_unit": "Watt-jam",
+      "to_unit": "Joule",
+      "factor": 3600,
+      "category": "Energi",
+      "formula": "1 Wh = 3600 J"
+    },
+    {
+      "from_unit": "Kilowatt-jam",
+      "to_unit": "Megajoule",
+      "factor": 3.6,
+      "category": "Energi",
+      "formula": "1 kWh = 3.6 MJ"
+    },
+    {
+      "from_unit": "Elektronvolt",
+      "to_unit": "Joule",
+      "factor": 1.60218e-19,
+      "category": "Energi",
+      "formula": "1 eV = 1.60218×10⁻¹⁹ J"
+    },
+    {
+      "from_unit": "PSI",
+      "to_unit": "Bar",
+      "factor": 0.0689476,
+      "category": "Tekanan",
+      "formula": "1 psi = 0.0689476 bar"
+    },
+    {
+      "from_unit": "Bar",
+      "to_unit": "PSI",
+      "factor": 14.5038,
+      "category": "Tekanan",
+      "formula": "1 bar = 14.5038 psi"
+    },
+    {
+      "from_unit": "Atmosfer",
+      "to_unit": "Bar",
+      "factor": 1.01325,
+      "category": "Tekanan",
+      "formula": "1 atm = 1.01325 bar"
+    },
+    {
+      "from_unit": "Pascal",
+      "to_unit": "Bar",
+      "factor": 0.00001,
+      "category": "Tekanan",
+      "formula": "1 Pa = 0.00001 bar"
+    },
+    {
+      "from_unit": "mmHg",
+      "to_unit": "Pascal",
+      "factor": 133.322,
+      "category": "Tekanan",
+      "formula": "1 mmHg = 133.322 Pa"
+    },
+    {
+      "from_unit": "Bita",
+      "to_unit": "Bit",
+      "factor": 8,
+      "category": "Digital",
+      "formula": "1 B = 8 bits"
+    },
+    {
+      "from_unit": "Kilobita",
+      "to_unit": "Bita",
+      "factor": 1024,
+      "category": "Digital",
+      "formula": "1 KB = 1024 B"
+    },
+    {
+      "from_unit": "Megabita",
+      "to_unit": "Kilobita",
+      "factor": 1024,
+      "category": "Digital",
+      "formula": "1 MB = 1024 KB"
+    },
+    {
+      "from_unit": "Gigabita",
+      "to_unit": "Megabita",
+      "factor": 1024,
+      "category": "Digital",
+      "formula": "1 GB = 1024 MB"
+    },
+    {
+      "from_unit": "Terabita",
+      "to_unit": "Gigabita",
+      "factor": 1024,
+      "category": "Digital",
+      "formula": "1 TB = 1024 GB"
+    },
+    {
+      "from_unit": "Petabita",
+      "to_unit": "Terabita",
+      "factor": 1024,
+      "category": "Digital",
+      "formula": "1 PB = 1024 TB"
+    },
+    {
+      "from_unit": "Menit",
+      "to_unit": "Detik",
+      "factor": 60,
+      "category": "Waktu",
+      "formula": "1 min = 60 s"
+    },
+    {
+      "from_unit": "Jam",
+      "to_unit": "Menit",
+      "factor": 60,
+      "category": "Waktu",
+      "formula": "1 h = 60 min"
+    },
+    {
+      "from_unit": "Hari",
+      "to_unit": "Jam",
+      "factor": 24,
+      "category": "Waktu",
+      "formula": "1 day = 24 h"
+    },
+    {
+      "from_unit": "Minggu",
+      "to_unit": "Hari",
+      "factor": 7,
+      "category": "Waktu",
+      "formula": "1 week = 7 days"
+    },
+    {
+      "from_unit": "Tahun",
+      "to_unit": "Hari",
+      "factor": 365.25,
+      "category": "Waktu",
+      "formula": "1 year ≈ 365.25 days"
+    },
+    {
+      "from_unit": "Dekade",
+      "to_unit": "Tahun",
+      "factor": 10,
+      "category": "Waktu",
+      "formula": "1 decade = 10 years"
+    },
+    {
+      "from_unit": "Abad",
+      "to_unit": "Tahun",
+      "factor": 100,
+      "category": "Waktu",
+      "formula": "1 century = 100 years"
+    },
+    {
+      "from_unit": "Derajat",
+      "to_unit": "Radian",
+      "factor": 0.0174533,
+      "category": "Sudut",
+      "formula": "1° = π/180 rad"
+    },
+    {
+      "from_unit": "Radian",
+      "to_unit": "Derajat",
+      "factor": 57.2958,
+      "category": "Sudut",
+      "formula": "1 rad = 180/π °"
+    },
+    {
+      "from_unit": "Gradian",
+      "to_unit": "Derajat",
+      "factor": 0.9,
+      "category": "Sudut",
+      "formula": "1 gon = 0.9°"
+    },
+    {
+      "from_unit": "Putaran",
+      "to_unit": "Derajat",
+      "factor": 360,
+      "category": "Sudut",
+      "formula": "1 rev = 360°"
+    },
+    {
+      "from_unit": "MPG (US)",
+      "to_unit": "L/100km",
+      "factor": 235.215,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 235.215 / MPG"
+    },
+    {
+      "from_unit": "MPG (UK)",
+      "to_unit": "L/100km",
+      "factor": 282.481,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 282.481 / MPG"
+    },
+    {
+      "from_unit": "km/L",
+      "to_unit": "L/100km",
+      "factor": 100,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 100 / km/L"
+    }
+  ],
+  "meta": {
+    "seo_title": "Faktor Konversi Satuan - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 83 faktor konversi satuan untuk panjang, berat, volume, dan lainnya. Tersedia dalam format Excel, CSV, dan PDF untuk berbagai aplikasi.",
+    "title": "Kumpulan Data Faktor Konversi Satuan Komprehensif",
+    "description": "Kumpulan data ini menyediakan 83 faktor konversi satuan penting di berbagai kategori seperti panjang, berat, dan volume. Setiap entri mencakup 'Satuan Asal', 'Satuan Tujuan', 'Faktor Konversi', 'Kategori', dan 'Rumus' untuk referensi mudah.",
+    "key_takeaways": [
+      "Akses 83 faktor konversi satuan vital untuk berbagai kategori.",
+      "Jelajahi hubungan satuan umum dan ilmiah secara instan.",
+      "Unduh data siap pakai untuk tugas rekayasa, sains, dan sehari-hari.",
+      "Manfaatkan rumus presisi untuk konversi akurat dalam proyek Anda."
+    ],
+    "keywords": [
+      "faktor konversi satuan excel",
+      "tingkat konversi csv",
+      "data konversi metrik imperial",
+      "dataset konverter satuan",
+      "rumus konversi pengukuran",
+      "unduh faktor konversi"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk menggerakkan alat konversi satuan kustom atau aplikasi pemrosesan data.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan menerapkan faktor konversi dengan cepat dalam model keuangan atau perhitungan ilmiah Anda.",
+      "Cetak versi **PDF** sebagai panduan referensi offline yang praktis di ruang kelas, lokakarya, atau untuk studi pribadi.",
+      "Integrasikan dataset ini ke dalam perangkat lunak pendidikan atau platform penelitian untuk menyediakan konversi satuan yang akurat dan dapat diandalkan."
+    ]
+  },
+  "record_count": 83,
+  "title": "Kumpulan Data Faktor Konversi Satuan Komprehensif"
+}

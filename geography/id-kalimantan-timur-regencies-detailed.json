@@ -1,0 +1,196 @@
+{
+  "id": "id-kalimantan-timur-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Kalimantan Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Kalimantan Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "10 kabupaten/kota di Provinsi Kalimantan Timur dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "64.01",
+      "name": "Kabupaten Paser",
+      "type": "kabupaten",
+      "capital": "Tana Paser",
+      "latitude": -1.910435,
+      "longitude": 116.191329,
+      "elevation_m": 5,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 10780.677,
+      "population": 309667
+    },
+    {
+      "code": "64.02",
+      "name": "Kabupaten Kutai Kartanegara",
+      "type": "kabupaten",
+      "capital": "Tenggarong",
+      "latitude": -0.44278,
+      "longitude": 116.998671,
+      "elevation_m": 5,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 26912.065,
+      "population": 806964
+    },
+    {
+      "code": "64.03",
+      "name": "Kabupaten Berau",
+      "type": "kabupaten",
+      "capital": "Tanjung Redeb",
+      "latitude": 2.150032,
+      "longitude": 117.507601,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 20999.287,
+      "population": 299005
+    },
+    {
+      "code": "64.07",
+      "name": "Kabupaten Kutai Barat",
+      "type": "kabupaten",
+      "capital": "Sendawar",
+      "latitude": -0.236548,
+      "longitude": 115.696433,
+      "elevation_m": 170,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 13611.168,
+      "population": 186581
+    },
+    {
+      "code": "64.08",
+      "name": "Kabupaten Kutai Timur",
+      "type": "kabupaten",
+      "capital": "Sangatta",
+      "latitude": 0.525682,
+      "longitude": 117.608218,
+      "elevation_m": 33,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 31572.691,
+      "population": 448850
+    },
+    {
+      "code": "64.09",
+      "name": "Kabupaten Penajam Paser Utara",
+      "type": "kabupaten",
+      "capital": "Penajam",
+      "latitude": -1.308203,
+      "longitude": 116.726904,
+      "elevation_m": 27,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3197.199,
+      "population": 202067
+    },
+    {
+      "code": "64.11",
+      "name": "Kabupaten Mahakam Ulu",
+      "type": "kabupaten",
+      "capital": "Ujoh Bilang",
+      "latitude": 0.505681,
+      "longitude": 115.270807,
+      "elevation_m": 41,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 18492.238,
+      "population": 39715
+    },
+    {
+      "code": "64.71",
+      "name": "Kota Balikpapan",
+      "type": "kota",
+      "capital": "Balikpapan",
+      "latitude": -1.276337,
+      "longitude": 116.82776,
+      "elevation_m": 8,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 509.45,
+      "population": 757418
+    },
+    {
+      "code": "64.72",
+      "name": "Kota Samarinda",
+      "type": "kota",
+      "capital": "Samarinda",
+      "latitude": -0.491365,
+      "longitude": 117.14598,
+      "elevation_m": 24,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 716.783,
+      "population": 881225
+    },
+    {
+      "code": "64.74",
+      "name": "Kota Bontang",
+      "type": "kota",
+      "capital": "Bontang",
+      "latitude": 0.069549,
+      "longitude": 117.444199,
+      "elevation_m": 44,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 160.2,
+      "population": 191811
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Kalimantan Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "10 kabupaten/kota di Provinsi Kalimantan Timur dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Kalimantan Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Kalimantan Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

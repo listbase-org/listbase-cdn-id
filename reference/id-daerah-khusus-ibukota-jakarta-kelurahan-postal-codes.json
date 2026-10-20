@@ -1,0 +1,2464 @@
+{
+  "id": "id-daerah-khusus-ibukota-jakarta-kelurahan-postal-codes",
+  "name": "Daftar Kode Pos per Kelurahan/Desa di DKI Jakarta",
+  "title": "Daftar Kode Pos per Kelurahan/Desa di DKI Jakarta",
+  "description": "Daftar 267 kode pos tingkat kelurahan/desa di Provinsi DKI Jakarta (kode BPS 31). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 267,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kelurahan_name",
+      "label": "Kelurahan Name",
+      "type": "string"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "10110",
+      "kelurahan_name": "Gambir",
+      "kecamatan_name": "Gambir",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10120",
+      "kelurahan_name": "Kebon Kelapa",
+      "kecamatan_name": "Gambir",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10130",
+      "kelurahan_name": "Petojo Utara",
+      "kecamatan_name": "Gambir",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10140",
+      "kelurahan_name": "Duri Pulo",
+      "kecamatan_name": "Gambir",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10150",
+      "kelurahan_name": "Cideng",
+      "kecamatan_name": "Gambir",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10160",
+      "kelurahan_name": "Petojo Selatan",
+      "kecamatan_name": "Gambir",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10210",
+      "kelurahan_name": "Bendungan Hilir",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10220",
+      "kelurahan_name": "Karet Tengsin",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10230",
+      "kelurahan_name": "Kebon Melati",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10240",
+      "kelurahan_name": "Kebon Kacang",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10250",
+      "kelurahan_name": "Kampung Bali",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10260",
+      "kelurahan_name": "Petamburan",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10270",
+      "kelurahan_name": "Gelora",
+      "kecamatan_name": "Tanah Abang",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10310",
+      "kelurahan_name": "Menteng",
+      "kecamatan_name": "Menteng",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10320",
+      "kelurahan_name": "Pegangsaan",
+      "kecamatan_name": "Menteng",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10330",
+      "kelurahan_name": "Cikini",
+      "kecamatan_name": "Menteng",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10340",
+      "kelurahan_name": "Kebon Sirih",
+      "kecamatan_name": "Menteng",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10350",
+      "kelurahan_name": "Gondangdia",
+      "kecamatan_name": "Menteng",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10410",
+      "kelurahan_name": "Senen",
+      "kecamatan_name": "Senen",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10420",
+      "kelurahan_name": "Kwitang",
+      "kecamatan_name": "Senen",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10430",
+      "kelurahan_name": "Kenari",
+      "kecamatan_name": "Senen",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10440",
+      "kelurahan_name": "Paseban",
+      "kecamatan_name": "Senen",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10450",
+      "kelurahan_name": "Kramat",
+      "kecamatan_name": "Senen",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10460",
+      "kelurahan_name": "Bungur",
+      "kecamatan_name": "Senen",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10510",
+      "kelurahan_name": "Cempaka Putih Timur",
+      "kecamatan_name": "Cempaka Putih",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10520",
+      "kelurahan_name": "Cempaka Putih Barat",
+      "kecamatan_name": "Cempaka Putih",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10530",
+      "kelurahan_name": "Galur",
+      "kecamatan_name": "Johar Baru",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10540",
+      "kelurahan_name": "Tanah Tinggi",
+      "kecamatan_name": "Johar Baru",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10550",
+      "kelurahan_name": "Kampung Rawa",
+      "kecamatan_name": "Johar Baru",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10560",
+      "kelurahan_name": "Johar Baru",
+      "kecamatan_name": "Johar Baru",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10570",
+      "kelurahan_name": "Rawasari",
+      "kecamatan_name": "Cempaka Putih",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10610",
+      "kelurahan_name": "Gunung Sahari Selatan",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10620",
+      "kelurahan_name": "Kemayoran",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10630",
+      "kelurahan_name": "Kebon Kosong",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10640",
+      "kelurahan_name": "Cempaka Baru",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10640",
+      "kelurahan_name": "Harapan Mulya",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10640",
+      "kelurahan_name": "Sumur Batu",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10650",
+      "kelurahan_name": "Serdang",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10650",
+      "kelurahan_name": "Utan Panjang",
+      "kecamatan_name": "Kemayoran",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10710",
+      "kelurahan_name": "Pasar Baru",
+      "kecamatan_name": "Sawah Besar",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10720",
+      "kelurahan_name": "Gunung Sahari Utara",
+      "kecamatan_name": "Sawah Besar",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10730",
+      "kelurahan_name": "Mangga Dua Selatan",
+      "kecamatan_name": "Sawah Besar",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10740",
+      "kelurahan_name": "Karang Anyar",
+      "kecamatan_name": "Sawah Besar",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "10750",
+      "kelurahan_name": "Kartini",
+      "kecamatan_name": "Sawah Besar",
+      "regency_name": "Jakarta Pusat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11110",
+      "kelurahan_name": "Pinangsia",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11120",
+      "kelurahan_name": "Glodok",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11130",
+      "kelurahan_name": "Keagungan",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11140",
+      "kelurahan_name": "Krukut",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11150",
+      "kelurahan_name": "Taman Sari",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11160",
+      "kelurahan_name": "Maphar",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11170",
+      "kelurahan_name": "Tangki",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11180",
+      "kelurahan_name": "Mangga Besar",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11210",
+      "kelurahan_name": "Tanah Sereal",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11220",
+      "kelurahan_name": "Tambora",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11230",
+      "kelurahan_name": "Roa Malaka",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11240",
+      "kelurahan_name": "Pekojan",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11250",
+      "kelurahan_name": "Jembatan Lima",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11260",
+      "kelurahan_name": "Krendang",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11270",
+      "kelurahan_name": "Duri Selatan",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11270",
+      "kelurahan_name": "Duri Utara",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11310",
+      "kelurahan_name": "Kali Anyar",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11320",
+      "kelurahan_name": "Jembatan Besi",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11330",
+      "kelurahan_name": "Angke",
+      "kecamatan_name": "Tambora",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11410",
+      "kelurahan_name": "Slipi",
+      "kecamatan_name": "Palmerah",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11420",
+      "kelurahan_name": "Kota Bambu Selatan",
+      "kecamatan_name": "Palmerah",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11420",
+      "kelurahan_name": "Kota Bambu Utara",
+      "kecamatan_name": "Palmerah",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11430",
+      "kelurahan_name": "Jatipulo",
+      "kecamatan_name": "Palmerah",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11440",
+      "kelurahan_name": "Tomang",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11450",
+      "kelurahan_name": "Grogol",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11460",
+      "kelurahan_name": "Jelambar",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11460",
+      "kelurahan_name": "Jelambar Baru",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11460",
+      "kelurahan_name": "Wijaya Kusuma",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11470",
+      "kelurahan_name": "Tanjung Duren Selatan",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11470",
+      "kelurahan_name": "Tanjung Duren Utara",
+      "kecamatan_name": "Grogol Petamburan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11480",
+      "kelurahan_name": "Kemanggisan",
+      "kecamatan_name": "Palmerah",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11480",
+      "kelurahan_name": "Palmerah",
+      "kecamatan_name": "Palmerah",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11510",
+      "kelurahan_name": "Duri Kepa",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11520",
+      "kelurahan_name": "Kedoya Selatan",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11520",
+      "kelurahan_name": "Kedoya Utara",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11530",
+      "kelurahan_name": "Kebon Jeruk",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11540",
+      "kelurahan_name": "Sukabumi Utara (Ilir)",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11550",
+      "kelurahan_name": "Kelapa Dua",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11560",
+      "kelurahan_name": "Sukabumi Selatan (Udik)",
+      "kecamatan_name": "Kebon Jeruk",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11610",
+      "kelurahan_name": "Kembangan Selatan",
+      "kecamatan_name": "Kembangan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11610",
+      "kelurahan_name": "Kembangan Utara",
+      "kecamatan_name": "Kembangan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11620",
+      "kelurahan_name": "Meruya Utara (Ilir)",
+      "kecamatan_name": "Kembangan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11630",
+      "kelurahan_name": "Srengseng",
+      "kecamatan_name": "Kembangan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11640",
+      "kelurahan_name": "Joglo",
+      "kecamatan_name": "Kembangan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11650",
+      "kelurahan_name": "Meruya Selatan (Udik)",
+      "kecamatan_name": "Kembangan",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11710",
+      "kelurahan_name": "Kedaung Kali Angke",
+      "kecamatan_name": "Cengkareng",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11720",
+      "kelurahan_name": "Kapuk",
+      "kecamatan_name": "Cengkareng",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11730",
+      "kelurahan_name": "Cengkareng Barat",
+      "kecamatan_name": "Cengkareng",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11730",
+      "kelurahan_name": "Cengkareng Timur",
+      "kecamatan_name": "Cengkareng",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11740",
+      "kelurahan_name": "Rawa Buaya",
+      "kecamatan_name": "Cengkareng",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11750",
+      "kelurahan_name": "Duri Kosambi",
+      "kecamatan_name": "Cengkareng",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11810",
+      "kelurahan_name": "Kamal",
+      "kecamatan_name": "Kalideres",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11820",
+      "kelurahan_name": "Tegal Alur",
+      "kecamatan_name": "Kalideres",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11830",
+      "kelurahan_name": "Pegadungan",
+      "kecamatan_name": "Kalideres",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11840",
+      "kelurahan_name": "Kalideres",
+      "kecamatan_name": "Kalideres",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "11850",
+      "kelurahan_name": "Semanan",
+      "kecamatan_name": "Kalideres",
+      "regency_name": "Jakarta Barat",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12110",
+      "kelurahan_name": "Selong",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12120",
+      "kelurahan_name": "Gunung",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12130",
+      "kelurahan_name": "Kramat Pela",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12140",
+      "kelurahan_name": "Gandaria Utara",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12150",
+      "kelurahan_name": "Cipete Utara",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12160",
+      "kelurahan_name": "Melawai",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12160",
+      "kelurahan_name": "Pulo",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12170",
+      "kelurahan_name": "Petogogan",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12180",
+      "kelurahan_name": "Rawa Barat",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12190",
+      "kelurahan_name": "Senayan",
+      "kecamatan_name": "Kebayoran Baru",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12210",
+      "kelurahan_name": "Grogol Utara",
+      "kecamatan_name": "Kebayoran Lama",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12220",
+      "kelurahan_name": "Grogol Selatan",
+      "kecamatan_name": "Kebayoran Lama",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12230",
+      "kelurahan_name": "Cipulir",
+      "kecamatan_name": "Kebayoran Lama",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12240",
+      "kelurahan_name": "Kebayoran Lama Selatan",
+      "kecamatan_name": "Kebayoran Lama",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12240",
+      "kelurahan_name": "Kebayoran Lama Utara",
+      "kecamatan_name": "Kebayoran Lama",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12250",
+      "kelurahan_name": "Ulujami",
+      "kecamatan_name": "Pesanggrahan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12260",
+      "kelurahan_name": "Petukangan Utara",
+      "kecamatan_name": "Pesanggrahan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12270",
+      "kelurahan_name": "Petukangan Selatan",
+      "kecamatan_name": "Pesanggrahan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12310",
+      "kelurahan_name": "Pondok Pinang",
+      "kecamatan_name": "Kebayoran Lama",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12320",
+      "kelurahan_name": "Pesanggrahan",
+      "kecamatan_name": "Pesanggrahan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12330",
+      "kelurahan_name": "Bintaro",
+      "kecamatan_name": "Pesanggrahan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12410",
+      "kelurahan_name": "Cipete Selatan",
+      "kecamatan_name": "Cilandak",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12420",
+      "kelurahan_name": "Gandaria Selatan",
+      "kecamatan_name": "Cilandak",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12430",
+      "kelurahan_name": "Cilandak Barat",
+      "kecamatan_name": "Cilandak",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12440",
+      "kelurahan_name": "Lebak Bulus",
+      "kecamatan_name": "Cilandak",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12450",
+      "kelurahan_name": "Pondok Labu",
+      "kecamatan_name": "Cilandak",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12510",
+      "kelurahan_name": "Pejaten Barat",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12510",
+      "kelurahan_name": "Pejaten Timur",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12520",
+      "kelurahan_name": "Kebagusan",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12520",
+      "kelurahan_name": "Pasar Minggu",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12530",
+      "kelurahan_name": "Tanjung Barat",
+      "kecamatan_name": "Jagakarsa",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12540",
+      "kelurahan_name": "Jati Padang",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12550",
+      "kelurahan_name": "Ragunan",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12560",
+      "kelurahan_name": "Cilandak Timur",
+      "kecamatan_name": "Pasar Minggu",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12620",
+      "kelurahan_name": "Jagakarsa",
+      "kecamatan_name": "Jagakarsa",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12630",
+      "kelurahan_name": "Ciganjur",
+      "kecamatan_name": "Jagakarsa",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12630",
+      "kelurahan_name": "Cipedak",
+      "kecamatan_name": "Jagakarsa",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12630",
+      "kelurahan_name": "Lenteng Agung",
+      "kecamatan_name": "Jagakarsa",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12640",
+      "kelurahan_name": "Srengseng Sawah",
+      "kecamatan_name": "Jagakarsa",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12710",
+      "kelurahan_name": "Kuningan Barat",
+      "kecamatan_name": "Mampang Prapatan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12720",
+      "kelurahan_name": "Pela Mampang",
+      "kecamatan_name": "Mampang Prapatan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12730",
+      "kelurahan_name": "Bangka",
+      "kecamatan_name": "Mampang Prapatan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12740",
+      "kelurahan_name": "Kalibata",
+      "kecamatan_name": "Pancoran",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12750",
+      "kelurahan_name": "Rawa Jati",
+      "kecamatan_name": "Pancoran",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12760",
+      "kelurahan_name": "Duren Tiga",
+      "kecamatan_name": "Pancoran",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12770",
+      "kelurahan_name": "Cikoko",
+      "kecamatan_name": "Pancoran",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12770",
+      "kelurahan_name": "Pengadegan",
+      "kecamatan_name": "Pancoran",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12780",
+      "kelurahan_name": "Pancoran",
+      "kecamatan_name": "Pancoran",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12790",
+      "kelurahan_name": "Mampang Prapatan",
+      "kecamatan_name": "Mampang Prapatan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12790",
+      "kelurahan_name": "Tegal Parang",
+      "kecamatan_name": "Mampang Prapatan",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12810",
+      "kelurahan_name": "Tebet Barat",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12820",
+      "kelurahan_name": "Tebet Timur",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12830",
+      "kelurahan_name": "Kebon Baru",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12840",
+      "kelurahan_name": "Bukit Duri",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12850",
+      "kelurahan_name": "Manggarai",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12860",
+      "kelurahan_name": "Manggarai Selatan",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12870",
+      "kelurahan_name": "Menteng Dalam",
+      "kecamatan_name": "Tebet",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12910",
+      "kelurahan_name": "Setiabudi",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12920",
+      "kelurahan_name": "Karet",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12930",
+      "kelurahan_name": "Karet Semanggi",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12940",
+      "kelurahan_name": "Karet Kuningan",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12950",
+      "kelurahan_name": "Kuningan Timur",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12960",
+      "kelurahan_name": "Menteng Atas",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12970",
+      "kelurahan_name": "Pasar Manggis",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "12980",
+      "kelurahan_name": "Guntur",
+      "kecamatan_name": "Setia Budi",
+      "regency_name": "Jakarta Selatan",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13110",
+      "kelurahan_name": "Pisangan Baru",
+      "kecamatan_name": "Matraman",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13120",
+      "kelurahan_name": "Utan Kayu Selatan",
+      "kecamatan_name": "Matraman",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13120",
+      "kelurahan_name": "Utan Kayu Utara",
+      "kecamatan_name": "Matraman",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13130",
+      "kelurahan_name": "Kayu Manis",
+      "kecamatan_name": "Matraman",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13140",
+      "kelurahan_name": "Pal Meriam",
+      "kecamatan_name": "Matraman",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13150",
+      "kelurahan_name": "Kebon Manggis",
+      "kecamatan_name": "Matraman",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13210",
+      "kelurahan_name": "Kayu Putih",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13220",
+      "kelurahan_name": "Jati",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13220",
+      "kelurahan_name": "Rawamangun",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13230",
+      "kelurahan_name": "Pisangan Timur",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13240",
+      "kelurahan_name": "Cipinang",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13250",
+      "kelurahan_name": "Jatinegara Kaum",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13260",
+      "kelurahan_name": "Pulo Gadung",
+      "kecamatan_name": "Pulo Gadung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13310",
+      "kelurahan_name": "Bali Mester",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13320",
+      "kelurahan_name": "Kampung Melayu",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13330",
+      "kelurahan_name": "Bidaracina",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13340",
+      "kelurahan_name": "Cipinang Cempedak",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13350",
+      "kelurahan_name": "Rawa Bunga",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13410",
+      "kelurahan_name": "Cipinang Besar Selatan",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13410",
+      "kelurahan_name": "Cipinang Besar Utara",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13420",
+      "kelurahan_name": "Cipinang Muara",
+      "kecamatan_name": "Jatinegara",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13430",
+      "kelurahan_name": "Pondok Bambu",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13440",
+      "kelurahan_name": "Duren Sawit",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13450",
+      "kelurahan_name": "Pondok Kelapa",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13460",
+      "kelurahan_name": "Malaka Jaya",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13460",
+      "kelurahan_name": "Malaka Sari",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13460",
+      "kelurahan_name": "Pondok Kopi",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13470",
+      "kelurahan_name": "Klender",
+      "kecamatan_name": "Duren Sawit",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13510",
+      "kelurahan_name": "Kramat Jati",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13520",
+      "kelurahan_name": "Batuampar",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13530",
+      "kelurahan_name": "Balekambang",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13540",
+      "kelurahan_name": "Kampung Tengah",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13550",
+      "kelurahan_name": "Dukuh",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13560",
+      "kelurahan_name": "Pinang Ranti",
+      "kecamatan_name": "Makasar",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13570",
+      "kelurahan_name": "Makasar",
+      "kecamatan_name": "Makasar",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13610",
+      "kelurahan_name": "Halim Perdana Kusumah",
+      "kecamatan_name": "Makasar",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13620",
+      "kelurahan_name": "Cipinang Melayu",
+      "kecamatan_name": "Makasar",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13630",
+      "kelurahan_name": "Cawang",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13640",
+      "kelurahan_name": "Cililitan",
+      "kecamatan_name": "Kramat Jati",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13650",
+      "kelurahan_name": "Kebon Pala",
+      "kecamatan_name": "Makasar",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13710",
+      "kelurahan_name": "Pekayon",
+      "kecamatan_name": "Pasar Rebo",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13720",
+      "kelurahan_name": "Cibubur",
+      "kecamatan_name": "Ciracas",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13730",
+      "kelurahan_name": "Kelapa Dua Wetan",
+      "kecamatan_name": "Ciracas",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13740",
+      "kelurahan_name": "Ciracas",
+      "kecamatan_name": "Ciracas",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13750",
+      "kelurahan_name": "Susukan",
+      "kecamatan_name": "Ciracas",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13760",
+      "kelurahan_name": "Gedong",
+      "kecamatan_name": "Pasar Rebo",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13770",
+      "kelurahan_name": "Cijantung",
+      "kecamatan_name": "Pasar Rebo",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13780",
+      "kelurahan_name": "Baru",
+      "kecamatan_name": "Pasar Rebo",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13790",
+      "kelurahan_name": "Kalisari",
+      "kecamatan_name": "Pasar Rebo",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13810",
+      "kelurahan_name": "Lubang Buaya",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13820",
+      "kelurahan_name": "Ceger",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13830",
+      "kelurahan_name": "Rambutan",
+      "kecamatan_name": "Ciracas",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13840",
+      "kelurahan_name": "Cipayung",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13850",
+      "kelurahan_name": "Munjul",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13860",
+      "kelurahan_name": "Pondok Rangon",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13870",
+      "kelurahan_name": "Cilangkap",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13880",
+      "kelurahan_name": "Setu",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13890",
+      "kelurahan_name": "Bambu Apus",
+      "kecamatan_name": "Cipayung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13910",
+      "kelurahan_name": "Cakung Barat",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13910",
+      "kelurahan_name": "Cakung Timur",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13920",
+      "kelurahan_name": "Rawa Terate",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13930",
+      "kelurahan_name": "Jatinegara",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13940",
+      "kelurahan_name": "Penggilingan",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13950",
+      "kelurahan_name": "Pulo Gebang",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "13960",
+      "kelurahan_name": "Ujung Menteng",
+      "kecamatan_name": "Cakung",
+      "regency_name": "Jakarta Timur",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14110",
+      "kelurahan_name": "Kali Baru",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14120",
+      "kelurahan_name": "Cilincing",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14130",
+      "kelurahan_name": "Semper Barat",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14130",
+      "kelurahan_name": "Semper Timur",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14140",
+      "kelurahan_name": "Rorotan",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14140",
+      "kelurahan_name": "Sukapura",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14150",
+      "kelurahan_name": "Marunda",
+      "kecamatan_name": "Cilincing",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14210",
+      "kelurahan_name": "Koja (Utara  Selatan)",
+      "kecamatan_name": "Koja",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14230",
+      "kelurahan_name": "Rawa Badak Selatan",
+      "kecamatan_name": "Koja",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14230",
+      "kelurahan_name": "Rawa Badak Utara",
+      "kecamatan_name": "Koja",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14240",
+      "kelurahan_name": "Kelapa Gading Barat",
+      "kecamatan_name": "Kelapa Gading",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14240",
+      "kelurahan_name": "Kelapa Gading Timur",
+      "kecamatan_name": "Kelapa Gading",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14250",
+      "kelurahan_name": "Pegangsaan Dua",
+      "kecamatan_name": "Kelapa Gading",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14260",
+      "kelurahan_name": "Tugu Selatan",
+      "kecamatan_name": "Koja",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14260",
+      "kelurahan_name": "Tugu Utara",
+      "kecamatan_name": "Koja",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14270",
+      "kelurahan_name": "Lagoa",
+      "kecamatan_name": "Koja",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14310",
+      "kelurahan_name": "Tanjung Priok",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14320",
+      "kelurahan_name": "Kebon Bawang",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14330",
+      "kelurahan_name": "Sungai Bambu",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14340",
+      "kelurahan_name": "Papanggo",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14350",
+      "kelurahan_name": "Sunter Agung",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14360",
+      "kelurahan_name": "Sunter Jaya",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14370",
+      "kelurahan_name": "Warakas",
+      "kecamatan_name": "Tanjung Priok",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14410",
+      "kelurahan_name": "Pademangan Timur",
+      "kecamatan_name": "Pademangan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14420",
+      "kelurahan_name": "Pademangan Barat",
+      "kecamatan_name": "Pademangan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14430",
+      "kelurahan_name": "Ancol",
+      "kecamatan_name": "Pademangan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14440",
+      "kelurahan_name": "Penjaringan",
+      "kecamatan_name": "Penjaringan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14450",
+      "kelurahan_name": "Pejagalan",
+      "kecamatan_name": "Penjaringan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14450",
+      "kelurahan_name": "Pluit",
+      "kecamatan_name": "Penjaringan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14460",
+      "kelurahan_name": "Kapuk Muara",
+      "kecamatan_name": "Penjaringan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14470",
+      "kelurahan_name": "Kamal Muara",
+      "kecamatan_name": "Penjaringan",
+      "regency_name": "Jakarta Utara",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14510",
+      "kelurahan_name": "Pulau Untung Jawa",
+      "kecamatan_name": "Kepulauan Seribu Selatan",
+      "regency_name": "Kepulauan Seribu",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14520",
+      "kelurahan_name": "Pulau Pari",
+      "kecamatan_name": "Kepulauan Seribu Selatan",
+      "regency_name": "Kepulauan Seribu",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14520",
+      "kelurahan_name": "Pulau Tidung",
+      "kecamatan_name": "Kepulauan Seribu Selatan",
+      "regency_name": "Kepulauan Seribu",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14530",
+      "kelurahan_name": "Pulau Panggang",
+      "kecamatan_name": "Kepulauan Seribu Utara",
+      "regency_name": "Kepulauan Seribu",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14540",
+      "kelurahan_name": "Pulau Harapan",
+      "kecamatan_name": "Kepulauan Seribu Utara",
+      "regency_name": "Kepulauan Seribu",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    },
+    {
+      "postal_code": "14540",
+      "kelurahan_name": "Pulau Kelapa",
+      "kecamatan_name": "Kepulauan Seribu Utara",
+      "regency_name": "Kepulauan Seribu",
+      "province_code": "31",
+      "province_name": "DKI Jakarta",
+      "province_name_en": "Special Capital Region of Jakarta"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos per Kelurahan/Desa di DKI Jakarta - Unduh Gratis",
+    "description": "Daftar 267 kode pos tingkat kelurahan/desa di Provinsi DKI Jakarta (kode BPS 31). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan. Berisi 267 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos per Kelurahan/Desa di DKI Jakarta | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos per Kelurahan/Desa di DKI Jakarta — 267 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 267 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

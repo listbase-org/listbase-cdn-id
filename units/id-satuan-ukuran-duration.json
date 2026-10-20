@@ -1,0 +1,196 @@
+{
+  "id": "id-satuan-ukuran-duration",
+  "name": "Satuan ukuran — kategori 'duration' (15)",
+  "title": "Satuan ukuran — kategori 'duration' (15)",
+  "description": "Satuan ukuran kategori 'duration' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategori": "duration",
+      "nama": "abad",
+      "singkatan": "abad",
+      "bentuk_sempit": "abad",
+      "pola": "{0} abad"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategori": "duration",
+      "nama": "hari",
+      "singkatan": "hari",
+      "bentuk_sempit": "hari",
+      "pola": "{0} hari"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategori": "duration",
+      "nama": "dekade",
+      "singkatan": "dek",
+      "bentuk_sempit": "dek",
+      "pola": "{0} dekade"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategori": "duration",
+      "nama": "fortnight",
+      "singkatan": "fortnight",
+      "bentuk_sempit": "fortnight",
+      "pola": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategori": "duration",
+      "nama": "jam",
+      "singkatan": "jam",
+      "bentuk_sempit": "jam",
+      "pola": "{0} jam"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategori": "duration",
+      "nama": "mikrodetik",
+      "singkatan": "μdtk",
+      "bentuk_sempit": "μdtk",
+      "pola": "{0} mikrodetik"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategori": "duration",
+      "nama": "milidetik",
+      "singkatan": "milidtk",
+      "bentuk_sempit": "milidtk",
+      "pola": "{0} milidetik"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategori": "duration",
+      "nama": "menit",
+      "singkatan": "mnt",
+      "bentuk_sempit": "mnt",
+      "pola": "{0} menit"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategori": "duration",
+      "nama": "bulan",
+      "singkatan": "bulan",
+      "bentuk_sempit": "bulan",
+      "pola": "{0} bulan"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategori": "duration",
+      "nama": "nanodetik",
+      "singkatan": "nanodtk",
+      "bentuk_sempit": "nanodtk",
+      "pola": "{0} nanodetik"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategori": "duration",
+      "nama": "malam",
+      "singkatan": "malam",
+      "bentuk_sempit": "malam",
+      "pola": "{0} malam"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategori": "duration",
+      "nama": "kuartal",
+      "singkatan": "krt",
+      "bentuk_sempit": "krt",
+      "pola": "{0} kuartal"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategori": "duration",
+      "nama": "detik",
+      "singkatan": "dtk",
+      "bentuk_sempit": "dtk",
+      "pola": "{0} detik"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategori": "duration",
+      "nama": "minggu",
+      "singkatan": "minggu",
+      "bentuk_sempit": "mgg",
+      "pola": "{0} minggu"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategori": "duration",
+      "nama": "tahun",
+      "singkatan": "tahun",
+      "bentuk_sempit": "thn",
+      "pola": "{0} tahun"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'duration' (15) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'duration' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 15 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'duration' (15) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'duration' (15) — 15 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 15 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "id-jambi-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Jambi (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Jambi (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "11 kabupaten/kota di Provinsi Jambi dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "15.01",
+      "name": "Kabupaten Kerinci",
+      "type": "kabupaten",
+      "capital": "Siulak",
+      "latitude": -2.057363,
+      "longitude": 101.388466,
+      "elevation_m": 841,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3445.196,
+      "population": 268951
+    },
+    {
+      "code": "15.02",
+      "name": "Kabupaten  Merangin",
+      "type": "kabupaten",
+      "capital": "Bangko",
+      "latitude": -2.060061,
+      "longitude": 102.274329,
+      "elevation_m": 98,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 7540.118,
+      "population": 397461
+    },
+    {
+      "code": "15.03",
+      "name": "Kabupaten Sarolangun",
+      "type": "kabupaten",
+      "capital": "Sarolangun",
+      "latitude": -2.313216,
+      "longitude": 102.750412,
+      "elevation_m": 55,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5935.894,
+      "population": 313097
+    },
+    {
+      "code": "15.04",
+      "name": "Kabupaten Batanghari",
+      "type": "kabupaten",
+      "capital": "Muara Bulian",
+      "latitude": -1.693609,
+      "longitude": 103.272996,
+      "elevation_m": 17,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5453.689,
+      "population": 307361
+    },
+    {
+      "code": "15.05",
+      "name": "Kabupaten  Muaro Jambi",
+      "type": "kabupaten",
+      "capital": "Sengeti",
+      "latitude": -1.448251,
+      "longitude": 103.515496,
+      "elevation_m": 32,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5159.623,
+      "population": 457238
+    },
+    {
+      "code": "15.06",
+      "name": "Kabupaten Tanjung Jabung Barat",
+      "type": "kabupaten",
+      "capital": "Kuala Tungkal",
+      "latitude": -0.826701,
+      "longitude": 103.461214,
+      "elevation_m": 4,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5544.567,
+      "population": 336978
+    },
+    {
+      "code": "15.07",
+      "name": "Kabupaten Tanjung Jabung Timur",
+      "type": "kabupaten",
+      "capital": "Muara Sabak",
+      "latitude": -1.206229,
+      "longitude": 103.790428,
+      "elevation_m": 27,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4544.575,
+      "population": 244905
+    },
+    {
+      "code": "15.08",
+      "name": "Kabupaten Bungo",
+      "type": "kabupaten",
+      "capital": "Muara Bungo",
+      "latitude": -1.516316,
+      "longitude": 102.118689,
+      "elevation_m": 105,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4760.827,
+      "population": 380027
+    },
+    {
+      "code": "15.09",
+      "name": "Kabupaten Tebo",
+      "type": "kabupaten",
+      "capital": "Muara Tebo",
+      "latitude": -1.466216,
+      "longitude": 102.358276,
+      "elevation_m": 71,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6103.737,
+      "population": 376541
+    },
+    {
+      "code": "15.71",
+      "name": "Kota Jambi",
+      "type": "kota",
+      "capital": "Jambi",
+      "latitude": -1.630501,
+      "longitude": 103.60727,
+      "elevation_m": 22,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 169.887,
+      "population": 649656
+    },
+    {
+      "code": "15.72",
+      "name": "Kota Sungai Penuh",
+      "type": "kota",
+      "capital": "Sungaipenuh",
+      "latitude": -2.07091,
+      "longitude": 101.396078,
+      "elevation_m": 856,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 364.924,
+      "population": 102224
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Jambi (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "11 kabupaten/kota di Provinsi Jambi dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 11 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Jambi (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Jambi (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 11 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 11 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

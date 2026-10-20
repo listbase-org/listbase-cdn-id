@@ -1,0 +1,172 @@
+{
+  "id": "id-papua-selatan-islands",
+  "name": "Daftar Pulau di Provinsi Papua Selatan",
+  "title": "Daftar Pulau di Provinsi Papua Selatan",
+  "description": "Daftar pulau di Provinsi Papua Selatan, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 7 pulau.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "coordinate_dms",
+      "label": "Coordinate Dms",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "is_populated",
+      "label": "Is Populated",
+      "type": "boolean"
+    },
+    {
+      "key": "is_outermost_small",
+      "label": "Is Outermost Small",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "code": "93.01.40001",
+      "regency_code": "93.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Habe",
+      "coordinate_dms": "08°14'31.99\" S 139°26'31.99\" E",
+      "latitude": -8.242219,
+      "longitude": 139.442219,
+      "is_populated": false,
+      "is_outermost_small": true
+    },
+    {
+      "code": "93.01.40002",
+      "regency_code": "93.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Kolepom",
+      "coordinate_dms": "07°53'44.99\" S 138°21'51.00\" E",
+      "latitude": -7.895831,
+      "longitude": 138.364167,
+      "is_populated": true,
+      "is_outermost_small": true
+    },
+    {
+      "code": "93.01.40003",
+      "regency_code": "93.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Komolom",
+      "coordinate_dms": "08°16'41.44\" S 138°44'46.22\" E",
+      "latitude": -8.278178,
+      "longitude": 138.746172,
+      "is_populated": false,
+      "is_outermost_small": true
+    },
+    {
+      "code": "93.04.40001",
+      "regency_code": "93.04",
+      "regency_name": "Kabupaten Asmat",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Binar",
+      "coordinate_dms": "05°12'30.66\" S 137°31'00.95\" E",
+      "latitude": -5.208517,
+      "longitude": 137.516931,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "93.04.40002",
+      "regency_code": "93.04",
+      "regency_name": "Kabupaten Asmat",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Fumirpits",
+      "coordinate_dms": "05°12'43.07\" S 137°31'18.41\" E",
+      "latitude": -5.211964,
+      "longitude": 137.521781,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "93.04.40003",
+      "regency_code": "93.04",
+      "regency_name": "Kabupaten Asmat",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Laag",
+      "coordinate_dms": "05°20'41.94\" S 137°44'15.83\" E",
+      "latitude": -5.344983,
+      "longitude": 137.737731,
+      "is_populated": false,
+      "is_outermost_small": true
+    },
+    {
+      "code": "93.04.40004",
+      "regency_code": "93.04",
+      "regency_name": "Kabupaten Asmat",
+      "province_code": "93",
+      "province_name": "Papua Selatan",
+      "name": "Pulau Somerwoo",
+      "coordinate_dms": "05°11'07.00\" S 137°30'18.00\" E",
+      "latitude": -5.185278,
+      "longitude": 137.505,
+      "is_populated": false,
+      "is_outermost_small": false
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pulau di Provinsi Papua Selatan - Unduh Gratis",
+    "description": "Daftar pulau di Provinsi Papua Selatan, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 7 pulau. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Pulau di Provinsi Papua Selatan | ListBase",
+    "seo_description": "Unduh Daftar Pulau di Provinsi Papua Selatan — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 11 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

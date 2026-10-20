@@ -1,0 +1,82 @@
+{
+  "id": "id-papua-barat-daya-regencies",
+  "name": "Daftar Kabupaten dan Kota di Papua Barat Daya",
+  "title": "Daftar Kabupaten dan Kota di Papua Barat Daya",
+  "description": "Daftar kabupaten dan kota di Provinsi Papua Barat Daya dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "96.01",
+      "name": "Kabupaten Sorong",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sorong"
+    },
+    {
+      "code": "96.02",
+      "name": "Kabupaten Sorong Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sorong-selatan"
+    },
+    {
+      "code": "96.03",
+      "name": "Kabupaten Raja Ampat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-raja-ampat"
+    },
+    {
+      "code": "96.04",
+      "name": "Kabupaten Tambrauw",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tambrauw"
+    },
+    {
+      "code": "96.05",
+      "name": "Kabupaten Maybrat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-maybrat"
+    },
+    {
+      "code": "96.71",
+      "name": "Kota Sorong",
+      "type": "Kota",
+      "slug": "kota-sorong"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Papua Barat Daya - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Papua Barat Daya dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Papua Barat Daya | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Papua Barat Daya — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

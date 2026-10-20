@@ -1,0 +1,452 @@
+{
+  "id": "tech-social-media-sizes",
+  "name": "Kumpulan Data Ukuran & Dimensi Gambar Media Sosial",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "image_type",
+      "label": "Image Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (px)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "number"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "platform": "Facebook",
+      "image_type": "Foto Profil",
+      "dimensions": "180 × 180",
+      "width": 180,
+      "height": 180,
+      "aspect_ratio": "1:1",
+      "notes": "Tampil 170x170 di desktop"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Foto Sampul",
+      "dimensions": "820 × 312",
+      "width": 820,
+      "height": 312,
+      "aspect_ratio": "2.63:1",
+      "notes": "Ukuran tampilan desktop"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Foto Sampul (Seluler)",
+      "dimensions": "640 × 360",
+      "width": 640,
+      "height": 360,
+      "aspect_ratio": "16:9",
+      "notes": "Tampilan seluler"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Gambar Bersama",
+      "dimensions": "1200 × 630",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "notes": "Gambar postingan feed"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Sampul Acara",
+      "dimensions": "1920 × 1005",
+      "width": 1920,
+      "height": 1005,
+      "aspect_ratio": "1.91:1",
+      "notes": "Header halaman acara"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Cerita",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Vertikal layar penuh"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Foto Profil",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Pangkas melingkar"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Postingan Persegi",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Postingan feed standar"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Postingan Potret",
+      "dimensions": "1080 × 1350",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "notes": "Postingan feed vertikal"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Postingan Lanskap",
+      "dimensions": "1080 × 566",
+      "width": 1080,
+      "height": 566,
+      "aspect_ratio": "1.91:1",
+      "notes": "Postingan feed horizontal"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Cerita/Reels",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Vertikal layar penuh"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Karosel",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Postingan multi-gambar"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Foto Profil",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Tampil 200x200"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Gambar Header",
+      "dimensions": "1500 × 500",
+      "width": 1500,
+      "height": 500,
+      "aspect_ratio": "3:1",
+      "notes": "Gambar banner"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Foto Dalam-Aliran",
+      "dimensions": "1200 × 675",
+      "width": 1200,
+      "height": 675,
+      "aspect_ratio": "16:9",
+      "notes": "Gambar tweet"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Gambar Kartu",
+      "dimensions": "1200 × 628",
+      "width": 1200,
+      "height": 628,
+      "aspect_ratio": "1.91:1",
+      "notes": "Pratinjau tautan"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Foto Profil",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Profil pribadi"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Foto Latar Belakang",
+      "dimensions": "1584 × 396",
+      "width": 1584,
+      "height": 396,
+      "aspect_ratio": "4:1",
+      "notes": "Banner profil"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Logo Perusahaan",
+      "dimensions": "300 × 300",
+      "width": 300,
+      "height": 300,
+      "aspect_ratio": "1:1",
+      "notes": "Halaman perusahaan"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Gambar Sampul",
+      "dimensions": "1128 × 191",
+      "width": 1128,
+      "height": 191,
+      "aspect_ratio": "5.9:1",
+      "notes": "Banner halaman perusahaan"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Posting Bersama",
+      "dimensions": "1200 × 627",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1",
+      "notes": "Postingan umpan"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Profil Saluran",
+      "dimensions": "800 × 800",
+      "width": 800,
+      "height": 800,
+      "aspect_ratio": "1:1",
+      "notes": "Ikon saluran"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Spanduk Saluran",
+      "dimensions": "2560 × 1440",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "notes": "Spanduk ukuran penuh"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Gambar Mini Video",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Gambar mini kustom"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Shorts",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Video pendek vertikal"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Foto Profil",
+      "dimensions": "200 × 200",
+      "width": 200,
+      "height": 200,
+      "aspect_ratio": "1:1",
+      "notes": "Gambar profil"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Video",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Video standar"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Foto Profil",
+      "dimensions": "165 × 165",
+      "width": 165,
+      "height": 165,
+      "aspect_ratio": "1:1",
+      "notes": "Gambar profil"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Gambar Pin",
+      "dimensions": "1000 × 1500",
+      "width": 1000,
+      "height": 1500,
+      "aspect_ratio": "2:3",
+      "notes": "Ukuran pin optimal"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Sampul Papan",
+      "dimensions": "222 × 150",
+      "width": 222,
+      "height": 150,
+      "aspect_ratio": "3:2",
+      "notes": "Gambar mini papan"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Snap/Story",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Konten layar penuh"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Geofilter",
+      "dimensions": "1080 × 2340",
+      "width": 1080,
+      "height": 2340,
+      "aspect_ratio": "9:19.5",
+      "notes": "Filter kustom"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Foto Profil",
+      "dimensions": "500 × 500",
+      "width": 500,
+      "height": 500,
+      "aspect_ratio": "1:1",
+      "notes": "Gambar profil"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Status",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Gambar status"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Ikon Server",
+      "dimensions": "512 × 512",
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "notes": "Avatar server"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Spanduk Server",
+      "dimensions": "960 × 540",
+      "width": 960,
+      "height": 540,
+      "aspect_ratio": "16:9",
+      "notes": "Spanduk server"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Avatar Pengguna",
+      "dimensions": "128 × 128",
+      "width": 128,
+      "height": 128,
+      "aspect_ratio": "1:1",
+      "notes": "Profil pengguna"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Foto Profil",
+      "dimensions": "256 × 256",
+      "width": 256,
+      "height": 256,
+      "aspect_ratio": "1:1",
+      "notes": "Avatar saluran"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Spanduk Profil",
+      "dimensions": "1200 × 480",
+      "width": 1200,
+      "height": 480,
+      "aspect_ratio": "2.5:1",
+      "notes": "Spanduk saluran"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Gambar Mini Video",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Gambar mini streaming"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Foto Profil",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Sama seperti Instagram"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Gambar Kiriman",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Kiriman persegi"
+    }
+  ],
+  "meta": {
+    "seo_title": "Ukuran Gambar Media Sosial - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 42 ukuran dan dimensi gambar media sosial untuk platform teratas. Dapatkan spesifikasi terkini untuk postingan, profil, sampul. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Kumpulan Data Ukuran & Dimensi Gambar Media Sosial",
+    "description": "Kumpulan data ini menyediakan daftar lengkap 42 ukuran, dimensi, dan rasio aspek gambar media sosial di berbagai platform. Dapatkan spesifikasi terkini untuk foto profil, gambar sampul, dan postingan yang dibagikan.",
+    "key_takeaways": [
+      "Akses spesifikasi ukuran gambar terkini untuk platform media sosial utama.",
+      "Jelajahi dimensi (lebar, tinggi), rasio aspek, dan catatan untuk 42 jenis gambar.",
+      "Unduh data siap pakai untuk merancang visual media sosial yang efektif.",
+      "Dapatkan panduan penting untuk mengoptimalkan konten media sosial Anda."
+    ],
+    "keywords": [
+      "ukuran gambar media sosial excel",
+      "dimensi facebook csv",
+      "ukuran postingan instagram pdf",
+      "ukuran spanduk youtube",
+      "panduan desain media sosial",
+      "daftar rasio aspek gambar"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke skrip Python atau API Anda untuk memvalidasi unggahan gambar secara dinamis terhadap persyaratan platform.",
+      "Gunakan file **Excel** untuk membuat Pivot Table guna membandingkan rasio aspek antar platform atau memfilter berdasarkan jenis gambar untuk referensi cepat dalam proyek desain.",
+      "Cetak versi **PDF** sebagai panduan referensi cepat offline untuk tim desain Anda atau sebagai materi dalam lokakarya pemasaran media sosial.",
+      "Manfaatkan data ini untuk mengoptimalkan konten visual, memastikan gambar selalu terlihat profesional dan pas sempurna di platform media sosial mana pun."
+    ]
+  },
+  "record_count": 42,
+  "title": "Kumpulan Data Ukuran & Dimensi Gambar Media Sosial"
+}

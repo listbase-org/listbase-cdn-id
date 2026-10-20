@@ -1,0 +1,112 @@
+{
+  "id": "id-bali-pelabuhan",
+  "name": "Pelabuhan Umum di Bali (7 pelabuhan)",
+  "title": "Pelabuhan Umum di Bali (7 pelabuhan)",
+  "description": "7 pelabuhan umum di Provinsi Bali, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BOA",
+      "nama_pelabuhan": "Benoa",
+      "lokasi_kabupaten_kota": "KOTA DENPASAR",
+      "unit_kerja": "KSOP KELAS II BENOA",
+      "alamat_kantor": "Jl. Raya Pelabuhan Benoa; Denpasar Bali 80223",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "BUG",
+      "nama_pelabuhan": "Sangsit",
+      "lokasi_kabupaten_kota": "BULELENG",
+      "unit_kerja": "KUPP KELAS III BULELENG",
+      "alamat_kantor": "Jl. Pabean Sangsit Singaraja Buleleng; Bali - 81171",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "CEB",
+      "nama_pelabuhan": "Celukan Bawang",
+      "lokasi_kabupaten_kota": "BULELENG",
+      "unit_kerja": "KSOP KELAS IV CELUKAN BAWANG",
+      "alamat_kantor": "Jl. Pelabuhan No. 36 Celukan Bawang Bali 81155",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "GIL",
+      "nama_pelabuhan": "Gilimanuk",
+      "lokasi_kabupaten_kota": "JEMBRANA",
+      "unit_kerja": "KUPP KELAS II GILIMANUK",
+      "alamat_kantor": "Jl. Parkir Manauver No. 5 Gilimanuk Kab. Jembrana; Bali - 82253",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "LKO",
+      "nama_pelabuhan": "Tanah Ampo",
+      "lokasi_kabupaten_kota": "KARANG ASEM",
+      "unit_kerja": "KSOP KELAS IV PADANG BAI",
+      "alamat_kantor": "Jl. Didalam Areal Pelabuhan Penyebrangan Padangbai; Bali 80872",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "NPE",
+      "nama_pelabuhan": "Nusa Penida (Toyapakeh)",
+      "lokasi_kabupaten_kota": "KLUNGKUNG",
+      "unit_kerja": "KUPP KELAS II NUSA PENIDA",
+      "alamat_kantor": "Jl. Desa Ped Kec. Nusa Peninda Kab. Klungkung - Bali",
+      "provinsi": "Bali"
+    },
+    {
+      "kode_pelabuhan": "PBI",
+      "nama_pelabuhan": "Padang Bai",
+      "lokasi_kabupaten_kota": "KARANG ASEM",
+      "unit_kerja": "KSOP KELAS IV PADANG BAI",
+      "alamat_kantor": "Jl. Didalam Areal Pelabuhan Penyebrangan Padangbai; Bali 80872",
+      "provinsi": "Bali"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Bali (7 pelabuhan) - Unduh Gratis",
+    "description": "7 pelabuhan umum di Provinsi Bali, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Bali (7 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Bali (7 pelabuhan) — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

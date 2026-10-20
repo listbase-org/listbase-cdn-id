@@ -1,0 +1,328 @@
+{
+  "id": "id-maluku-utara-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Maluku Utara — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Maluku Utara — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Maluku Utara menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH LABUHA",
+      "kode_rs": "8204010",
+      "tempat_tidur": 135,
+      "telepon": "IGD 0812-4475-3350 / AMBULANS 0812-4475-3352",
+      "alamat": "JL. RAYA LABUHA-BABANG, MARABOSE, BACAN, KABUPATEN HALMAHERA SELATAN, MALUKU UTARA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "HALMAHERA SELATAN, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": -0.634138,
+      "longitude": 127.526798
+    },
+    {
+      "nama": "RS UMUM DAERAH TOBELO",
+      "kode_rs": "8201010",
+      "tempat_tidur": 140,
+      "telepon": "0823-4880-5008",
+      "alamat": "JL. LANBOUW GAMSUNGI TOBELO HALMAHERA UTARA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "HALMAHERA UTARA, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 1.725715,
+      "longitude": 127.998823
+    },
+    {
+      "nama": "RS UMUM DAERAH JAILOLO",
+      "kode_rs": "8201021",
+      "tempat_tidur": 106,
+      "telepon": "",
+      "alamat": "JL.IR. SOEKARNO DS. ACANGO-JAILOLO,HALMAHERA BARAT",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "HALMAHERA BARAT, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 1.091275,
+      "longitude": 127.479442
+    },
+    {
+      "nama": "RS UMUM DAERAH KAB. PULAU MOROTAI",
+      "kode_rs": "8205032",
+      "tempat_tidur": 52,
+      "telepon": "NA",
+      "alamat": "JL. NAKAMURA DESA DEHEGILA KECAMATAN MOROTAI SELATAN",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "PULAU MOROTAI, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 2.28726,
+      "longitude": 128.514
+    },
+    {
+      "nama": "RS UMUM DAERAH SANANA",
+      "kode_rs": "8203020",
+      "tempat_tidur": 71,
+      "telepon": "0821-9651-4298",
+      "alamat": "JL. DR. SIBARANI - DESA FALAHU KECAMATAN SANANA KABUPATEN KEP. SULA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KEPULAUAN SULA, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": -2.062176,
+      "longitude": 125.978865
+    },
+    {
+      "nama": "RS UMUM DAERAH KOTA TIDORE KEPULAUAN",
+      "kode_rs": "8202043",
+      "tempat_tidur": 161,
+      "telepon": "(0921) 3161035",
+      "alamat": "JL. SULTAN MANSYUR NO.11, SOA SIO, TIDORE, KOTA TIDORE KEPULAUAN, MALUKU UTARA",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA TIDORE KEPULAUAN, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.681381,
+      "longitude": 127.4788
+    },
+    {
+      "nama": "RS UMUM DAERAH DR. H. CHASAN BOESOIRIE TERNATE",
+      "kode_rs": "8271016",
+      "tempat_tidur": 305,
+      "telepon": "(0921) 3121281",
+      "alamat": "JL. CEMPAKA, TANAH TINGGI BAR., TERNATE SEL., KOTA TERNATE, MALUKU UTARA",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.782422,
+      "longitude": 127.377219
+    },
+    {
+      "nama": "RS PRIMA TERNATE",
+      "kode_rs": "8271057",
+      "tempat_tidur": 56,
+      "telepon": "082344559810",
+      "alamat": "JL. RAYA MANGGA II, MANGGA DUA UTARA, TERNATE SEL., KOTA TERNATE, MALUKU UTARA",
+      "tipe": "RS",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.774803,
+      "longitude": 127.378711
+    },
+    {
+      "nama": "RS JIWA SOFIFI",
+      "kode_rs": "8272004",
+      "tempat_tidur": 25,
+      "telepon": "081342665661",
+      "alamat": "JL. LINTAS HALMAHERA DESA GAROJOU, KEC. OBA UTARA. KOTA TIDORE KEPUANAUN PROVINSI MALUKU UTARA",
+      "tipe": "RS",
+      "wilayah": "KOTA TIDORE KEPULAUAN, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.751312,
+      "longitude": 127.583763
+    },
+    {
+      "nama": "RS UMUM OBI",
+      "kode_rs": "8204012",
+      "tempat_tidur": 25,
+      "telepon": "",
+      "alamat": "JLN. CABANG KUNING DESA BUTON KEC OBI",
+      "tipe": "",
+      "wilayah": "HALMAHERA SELATAN, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": -1.348059,
+      "longitude": 127.643499
+    },
+    {
+      "nama": "RS UMUM DAERAH BOBONG",
+      "kode_rs": "8208001",
+      "tempat_tidur": 0,
+      "telepon": "0813-3165-9610",
+      "alamat": "JL. LINTAS SELATAN, DESA RATAHAYA, KECAMATA TALIABU BARAT",
+      "tipe": "",
+      "wilayah": "PULAU TALIABU, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": -1.96845056,
+      "longitude": 124.42208438
+    },
+    {
+      "nama": "RS BHAYANGKARA TK. IV TERNATE",
+      "kode_rs": "8271058",
+      "tempat_tidur": 22,
+      "telepon": "(0921) 3121792",
+      "alamat": "TAKOMA, TERNATE TENGAH, KOTA TERNATE, MALUKU UTARA",
+      "tipe": "",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.782904,
+      "longitude": 127.384376
+    },
+    {
+      "nama": "RS UMUM SOFIFI",
+      "kode_rs": "8272003",
+      "tempat_tidur": 50,
+      "telepon": "085299251345",
+      "alamat": "KEL. GURAPING KEC. OBA UTARA KOTA TIDORE KEPULAUAN PROVINSI MALUKU UTARA",
+      "tipe": "",
+      "wilayah": "KOTA TIDORE KEPULAUAN, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.75109363,
+      "longitude": 127.58524566
+    },
+    {
+      "nama": "RS BETHESDA GMIH TOBELO",
+      "kode_rs": "8205033",
+      "tempat_tidur": 42,
+      "telepon": "0924-2623110",
+      "alamat": "JL. KEMAKMURAN, GAMSUNGI, TOBELO, KABUPATEN HALMAHERA UTARA, MALUKU UTARA",
+      "tipe": "",
+      "wilayah": "HALMAHERA UTARA, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 1.730629,
+      "longitude": 128.009714
+    },
+    {
+      "nama": "RS UMUM DHARMA IBU TERNATE",
+      "kode_rs": "8271031",
+      "tempat_tidur": 59,
+      "telepon": "(0921) 3121951 EXT. 3127922",
+      "alamat": "JL. ARNOLD MONONUTU, TANAH RAJA, TERNATE TENGAH, KOTA TERNATE, MALUKU UTARA",
+      "tipe": "",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.78689,
+      "longitude": 127.387262
+    },
+    {
+      "nama": "RS TK.IV 16.07.01 TNI AD TERNATE",
+      "kode_rs": "8271020",
+      "tempat_tidur": 39,
+      "telepon": "0853-4036-0515",
+      "alamat": "JL. A.I.S NASUTION NO.2, GAMALAMA, TERNATE TENGAH, KOTA TERNATE, MALUKU UTARA",
+      "tipe": "",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.788897,
+      "longitude": 127.388291
+    },
+    {
+      "nama": "RS PRATAMA BISUI KAB. HALMAHERA SELATAN",
+      "kode_rs": "8204011",
+      "tempat_tidur": 11,
+      "telepon": "",
+      "alamat": "JL. DESA BISUI KEC. GANE TIMUR TENGAH KAB. HALMAHERA SELATAN",
+      "tipe": "",
+      "wilayah": "HALMAHERA SELATAN, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": -0.475403,
+      "longitude": 128.051457
+    },
+    {
+      "nama": "RS UMUM DAERAH MABA",
+      "kode_rs": "8206012",
+      "tempat_tidur": 46,
+      "telepon": "082346939789",
+      "alamat": "JL. TRANS HALMAHERA KEC. KOTA MABA, SOA GIMALAHA, WASILE SEL., KABUPATEN HALMAHERA TIMUR, MALUKU UTARA",
+      "tipe": "",
+      "wilayah": "HALMAHERA TIMUR, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.839193,
+      "longitude": 128.391334
+    },
+    {
+      "nama": "RS UMUM DAERAH WEDA",
+      "kode_rs": "8205021",
+      "tempat_tidur": 49,
+      "telepon": "NA",
+      "alamat": "JL. RAYA WEDA, DESA WEDANA",
+      "tipe": "NA",
+      "wilayah": "HALMAHERA TENGAH, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.33124782,
+      "longitude": 127.86541576
+    },
+    {
+      "nama": "RS MEDIKA HARIFALM TERNATE",
+      "kode_rs": "8271053",
+      "tempat_tidur": 33,
+      "telepon": "NA",
+      "alamat": "JL. ZAINAL ABIDIN SYAH NO.25, TERNATE",
+      "tipe": "NA",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.78806,
+      "longitude": 127.377
+    },
+    {
+      "nama": "RS ISLAM PKU MUHAMMADIYAH MALUKU UTARA",
+      "kode_rs": "8271042",
+      "tempat_tidur": 40,
+      "telepon": "NA",
+      "alamat": "JL. PEMUDA NO.131 KELUARAHAN TOBOLEU TETNATE KEC. TERNATE UTARA",
+      "tipe": "NA",
+      "wilayah": "KOTA TERNATE, MALUKU UTARA",
+      "provinsi": "MALUKU UTARA",
+      "latitude": 0.78806,
+      "longitude": 127.377
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Maluku Utara — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Maluku Utara menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 21 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Maluku Utara — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Maluku Utara — data Pusdatin Kemenkes — 21 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 21 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

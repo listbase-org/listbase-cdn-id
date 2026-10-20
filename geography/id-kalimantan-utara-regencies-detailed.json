@@ -1,0 +1,136 @@
+{
+  "id": "id-kalimantan-utara-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Kalimantan Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Kalimantan Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "5 kabupaten/kota di Provinsi Kalimantan Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "65.01",
+      "name": "Kabupaten Bulungan",
+      "type": "kabupaten",
+      "capital": "Tanjung Selor",
+      "latitude": 2.840859,
+      "longitude": 117.398078,
+      "elevation_m": 11,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 13719.983,
+      "population": 170239
+    },
+    {
+      "code": "65.02",
+      "name": "Kabupaten Malinau",
+      "type": "kabupaten",
+      "capital": "Malinau",
+      "latitude": 3.551933,
+      "longitude": 116.622085,
+      "elevation_m": 16,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 38901.819,
+      "population": 87582
+    },
+    {
+      "code": "65.03",
+      "name": "Kabupaten Nunukan",
+      "type": "kabupaten",
+      "capital": "Nunukan",
+      "latitude": 4.077076,
+      "longitude": 117.718911,
+      "elevation_m": 19,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 13549.868,
+      "population": 227460
+    },
+    {
+      "code": "65.04",
+      "name": "Kabupaten Tana Tidung",
+      "type": "kabupaten",
+      "capital": "Tideng Pale",
+      "latitude": 3.602267,
+      "longitude": 116.902751,
+      "elevation_m": 66,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3481.039,
+      "population": 30036
+    },
+    {
+      "code": "65.71",
+      "name": "Kota Tarakan",
+      "type": "kota",
+      "capital": "Tarakan",
+      "latitude": 3.313743,
+      "longitude": 117.604855,
+      "elevation_m": 14,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 248.177,
+      "population": 255310
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Kalimantan Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "5 kabupaten/kota di Provinsi Kalimantan Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Kalimantan Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Kalimantan Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

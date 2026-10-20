@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "Dataset Kode & Spesifikasi Kontainer Pengiriman ISO 6346",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft Serbaguna",
+      "category": "Kering",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "Kontainer kering standar 20 kaki"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft Serbaguna",
+      "category": "Kering",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "Kontainer kering standar 40 kaki"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft High Cube",
+      "category": "Kering",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "High cube dengan tinggi ekstra"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft High Cube",
+      "category": "Kering",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "Kontainer high cube 45 kaki"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft Berpendingin",
+      "category": "Berpendingin",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "Kontainer berpendingin 20 kaki"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft Berpendingin",
+      "category": "Berpendingin",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "Kontainer berpendingin 40 kaki"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft Berpendingin High Cube",
+      "category": "Berpendingin",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "Kontainer berpendingin high cube"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft Atas Terbuka",
+      "category": "Atas Terbuka",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "Atas terbuka untuk kargo berukuran besar"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft Atas Terbuka",
+      "category": "Atas Terbuka",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "Kontainer atas terbuka 40 kaki"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft Rak Datar",
+      "category": "Rak Datar",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "Tanpa sisi/atap untuk mesin berat"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft Rak Datar",
+      "category": "Rak Datar",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "Kontainer rak datar 40 kaki"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft Tangki",
+      "category": "Tangki",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "Untuk transportasi cairan/gas"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft Platform",
+      "category": "Platform",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "Platform datar, tanpa dinding"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft Platform",
+      "category": "Platform",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "Kontainer platform 40 kaki"
+    }
+  ],
+  "meta": {
+    "seo_title": "Kode Kontainer ISO 6346 - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis data kode kontainer ISO 6346. Dapatkan 14 catatan termasuk dimensi, kapasitas, dan muatan. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Kode & Spesifikasi Kontainer Pengiriman ISO 6346",
+    "description": "Dataset ini menyediakan daftar komprehensif 14 kode kontainer ISO 6346, merinci jenis, dimensi, kapasitas, dan spesifikasi berat untuk berbagai kontainer pengiriman.",
+    "key_takeaways": [
+      "Akses spesifikasi detail untuk 14 jenis kontainer ISO 6346 umum.",
+      "Jelajahi dimensi kontainer, kapasitas, muatan maksimum, dan berat tare.",
+      "Unduh referensi siap pakai untuk analisis logistik, pengiriman, dan rantai pasokan.",
+      "Manfaatkan data akurat untuk perencanaan pengiriman barang dan pemanfaatan kontainer."
+    ],
+    "keywords": [
+      "kode kontainer ISO 6346",
+      "dimensi kontainer pengiriman",
+      "data kontainer kargo",
+      "spesifikasi kontainer excel",
+      "jenis kontainer ISO csv",
+      "kapasitas muatan kontainer pdf"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk mengintegrasikan spesifikasi kontainer ke dalam sistem manajemen logistik atau alat perhitungan pengiriman.",
+      "Gunakan file **Excel** untuk membuat Pivot Tables, memfilter jenis kontainer, dan menganalisis kapasitas untuk perencanaan rute pengiriman dan pemuatan kargo yang optimal.",
+      "Cetak versi **PDF** untuk referensi kelas, manual operasional, atau pencarian cepat offline di lingkungan gudang.",
+      "Rujuk dataset ini untuk memvalidasi deklarasi kontainer, memahami standar pengiriman internasional, atau membangun materi edukasi tentang perdagangan global."
+    ]
+  },
+  "record_count": 14,
+  "title": "Dataset Kode & Spesifikasi Kontainer Pengiriman ISO 6346"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "id-satuan-ukuran-power",
+  "name": "Satuan ukuran — kategori 'power' (6)",
+  "title": "Satuan ukuran — kategori 'power' (6)",
+  "description": "Satuan ukuran kategori 'power' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategori": "power",
+      "nama": "gigawatt",
+      "singkatan": "GW",
+      "bentuk_sempit": "GW",
+      "pola": "{0} gigawatt"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategori": "power",
+      "nama": "daya kuda",
+      "singkatan": "hp",
+      "bentuk_sempit": "hp",
+      "pola": "{0} daya kuda"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategori": "power",
+      "nama": "kilowatt",
+      "singkatan": "kW",
+      "bentuk_sempit": "kW",
+      "pola": "{0} kilowatt"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategori": "power",
+      "nama": "megawatt",
+      "singkatan": "MW",
+      "bentuk_sempit": "MW",
+      "pola": "{0} megawatt"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategori": "power",
+      "nama": "miliwatt",
+      "singkatan": "mW",
+      "bentuk_sempit": "mW",
+      "pola": "{0} miliwatt"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategori": "power",
+      "nama": "watt",
+      "singkatan": "watt",
+      "bentuk_sempit": "watt",
+      "pola": "{0} watt"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'power' (6) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'power' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'power' (6) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'power' (6) — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

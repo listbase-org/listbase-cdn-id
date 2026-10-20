@@ -1,0 +1,520 @@
+{
+  "id": "id-sulawesi-tenggara-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Sulawesi Tenggara — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Sulawesi Tenggara — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Sulawesi Tenggara menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS BENYAMIN GULUH KOLAKA",
+      "kode_rs": "7404012",
+      "tempat_tidur": 178,
+      "telepon": "0405-2321042",
+      "alamat": "JL. WR SUPRATMAN NO.16, LAMOKATO, KOLAKA, KABUPATEN KOLAKA, SULAWESI TENGGARA 93511",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOLAKA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.053301,
+      "longitude": 121.598118
+    },
+    {
+      "nama": "RS UMUM DAERAH KOTA KENDARI",
+      "kode_rs": "7471092",
+      "tempat_tidur": 213,
+      "telepon": "+62822 9253 6768",
+      "alamat": "JL. Z.A. SUGIANTO NO. 39 KENDARI",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.989732,
+      "longitude": 122.529402
+    },
+    {
+      "nama": "RS UMUM DAERAH RAHA",
+      "kode_rs": "7402010",
+      "tempat_tidur": 118,
+      "telepon": "0403-21220",
+      "alamat": "JL. AHMAD YANI RAHA NO 10 RAHA PULAU, MUNA REGENCY, SOUTH EAST SULAWESI 93611",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MUNA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.834172,
+      "longitude": 122.727151
+    },
+    {
+      "nama": "RS UMUM DAERAH KONAWE SELATAN",
+      "kode_rs": "7403114",
+      "tempat_tidur": 111,
+      "telepon": "0813-4206-1405",
+      "alamat": "JL. POROS ANDOOLO NO. 1 KONAWE SELATAN 93811",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KONAWE SELATAN, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.324589,
+      "longitude": 122.279161
+    },
+    {
+      "nama": "RS UMUM DAERAH KONAWE",
+      "kode_rs": "7403022",
+      "tempat_tidur": 157,
+      "telepon": "0408-2421014",
+      "alamat": "JL. PANGERAN DIPONEGORO NO.301, KONAWE",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KONAWE, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.86804126,
+      "longitude": 122.0777869
+    },
+    {
+      "nama": "RS UMUM DAERAH KOTA BAU BAU",
+      "kode_rs": "7472016",
+      "tempat_tidur": 163,
+      "telepon": "(0402) 2825357",
+      "alamat": "JL. DRS. H. LA ODE MANARFA BAADIA, MURHUM, KOTA BAU-BAU, SULAWESI TENGGARA 93724",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA BAU BAU, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.481838,
+      "longitude": 122.594723
+    },
+    {
+      "nama": "RS BAHTERAMAS PROVINSI SULTRA",
+      "kode_rs": "7471011",
+      "tempat_tidur": 519,
+      "telepon": "(0401) 3195611",
+      "alamat": "JL. KAPTEN PIERE TENDEAN NO 50 KEC BARUGA",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.034636,
+      "longitude": 122.492097
+    },
+    {
+      "nama": "RS UMUM TIARA SENTOSA",
+      "kode_rs": "7471009",
+      "tempat_tidur": 0,
+      "telepon": "(0401) 3418500",
+      "alamat": "JL. RADEN SOEPRAPTO NO.23, MANDONGA, KEC. MANDONGA, KOTA KENDARI, SULAWESI TENGGARA 93112",
+      "tipe": "RS",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.961018,
+      "longitude": 122.517827
+    },
+    {
+      "nama": "RS HERMINA KENDARI",
+      "kode_rs": "7471010",
+      "tempat_tidur": 0,
+      "telepon": "(0401) 3192525",
+      "alamat": "JL. DI PANJAITAN, RT.06/RW.03, WUNDUDOPI, BARUGA",
+      "tipe": "RS",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.018475,
+      "longitude": 122.500322
+    },
+    {
+      "nama": "RS UMUM MURHUM",
+      "kode_rs": "7472003",
+      "tempat_tidur": 0,
+      "telepon": "4022822650",
+      "alamat": "JL MURHUM NO 69 KELURAHAN WAJO KECAMATAN MURHUM",
+      "tipe": "RS",
+      "wilayah": "KOTA BAU BAU, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.462369,
+      "longitude": 122.602198
+    },
+    {
+      "nama": "RS IBU DAN ANAK PERMATA BUNDA KENDARI",
+      "kode_rs": "7471103",
+      "tempat_tidur": 24,
+      "telepon": "(0401) 3123583",
+      "alamat": "JL. SYECH YUSUF, KORUMBA, KEC. MANDONGA, KOTA KENDARI, SULAWESI TENGGARA 93111",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.969177,
+      "longitude": 122.523129
+    },
+    {
+      "nama": "RS ALIYAH",
+      "kode_rs": "7471005",
+      "tempat_tidur": 56,
+      "telepon": "0811-4163-818",
+      "alamat": "JALAN BUNGGASI, RAHANDOUNA, POASIA, RAHANDOUNA, POASIA, KOTA KENDARI, SULAWESI TENGGARA 93232",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.998502,
+      "longitude": 122.547148
+    },
+    {
+      "nama": "RS UMUM DEWI SARTIKA",
+      "kode_rs": "7471004",
+      "tempat_tidur": 49,
+      "telepon": "(0401) 3194493",
+      "alamat": "JL. KAPTEN PIERE TENDEAN NO.16, BARUGA, KOTA KENDARI, SULAWESI TENGGARA 93563",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.036546,
+      "longitude": 122.481013
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN KOLAKA TIMUR",
+      "kode_rs": "7411908",
+      "tempat_tidur": 24,
+      "telepon": "",
+      "alamat": "KELURAHAN WELALA, KECAMATAN LADONGI, KABUPATEN KOLAKA TIMUR",
+      "tipe": "",
+      "wilayah": "KOLAKA TIMUR, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.155031,
+      "longitude": 121.915713
+    },
+    {
+      "nama": "RS SILOAM HOSPITAL BUTON",
+      "kode_rs": "7472002",
+      "tempat_tidur": 71,
+      "telepon": "(0402) 2825555",
+      "alamat": "JL. SULTAN HASANUDDIN NO. 58 KELURAHAN BATULO KECAMATAN WOLIO",
+      "tipe": "",
+      "wilayah": "KOTA BAU BAU, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.46066348,
+      "longitude": 122.61828193
+    },
+    {
+      "nama": "RS  JIWA KENDARI",
+      "kode_rs": "7471066",
+      "tempat_tidur": 205,
+      "telepon": "(0401) 3122470",
+      "alamat": "JL. LETJEN SUPRAPTO, TOBUUHA, KENDARI, SULAWESI TENGGARA, 93112",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.957591,
+      "longitude": 122.505965
+    },
+    {
+      "nama": "RS UMUM DAERAH KAB.KONAWE UTARA",
+      "kode_rs": "7408013",
+      "tempat_tidur": 51,
+      "telepon": "0853-4543-2016",
+      "alamat": "JL. POROS KENDARI-ASERA, DESA LAHIMBUA, KEC. ANDOWIA, KAB. KONAWE UTARA",
+      "tipe": "",
+      "wilayah": "BUTON UTARA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.453878,
+      "longitude": 122.373873
+    },
+    {
+      "nama": "RS SANTA ANNA",
+      "kode_rs": "7471044",
+      "tempat_tidur": 59,
+      "telepon": "(0401) 3123092",
+      "alamat": "JL. DR. MOH. HATTA NO. 65A, SANUA, KENDARI BARAT, SANUA, KENDARI BAR., KOTA KENDARI, SULAWESI TENGGARA",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.969377,
+      "longitude": 122.575853
+    },
+    {
+      "nama": "RS GRIYA HUSADA BAKTI",
+      "kode_rs": "7471081",
+      "tempat_tidur": 0,
+      "telepon": "(0404) 3192010",
+      "alamat": "JL. SAO SAO NO.248, BENDE, KENDARI, KOTA KENDARI, SULAWESI TENGGARA 93111",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.983268,
+      "longitude": 122.516797
+    },
+    {
+      "nama": "RS UMUM SETIA BUNDA",
+      "kode_rs": "7403126",
+      "tempat_tidur": 21,
+      "telepon": "082333300600",
+      "alamat": "JL. JENDERAL SUDIRMAN KEL. AMBEIKAIRI KEC. UNAAHA KAB. KONAWE, KONAWE, SULAWESI TENGGARA",
+      "tipe": "",
+      "wilayah": "KONAWE, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.86487072,
+      "longitude": 122.0643929
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN BUTON TENGAH",
+      "kode_rs": "7414002",
+      "tempat_tidur": 42,
+      "telepon": "08114415729",
+      "alamat": "LABUNGKARI DESA WALANDO KEC.GU",
+      "tipe": "",
+      "wilayah": "BUTON TENGAH, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.266473,
+      "longitude": 122.569234
+    },
+    {
+      "nama": "RS HATI MULIA",
+      "kode_rs": "7471002",
+      "tempat_tidur": 29,
+      "telepon": "(0401) 3196443",
+      "alamat": "JL. DI PANJAITAN NO.243, LEPO-LEPO, BARUGA, KOTA KENDARI, SULAWESI TENGGARA 93118",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.021272,
+      "longitude": 122.502369
+    },
+    {
+      "nama": "RS  ANTAM NIKEL POMALAA",
+      "kode_rs": "7404023",
+      "tempat_tidur": 60,
+      "telepon": "0405-2310400",
+      "alamat": "JL JENDERAL SUDIRMAN NO.2, KUMORO, POMALAA, KABUPATEN KOLAKA, SULAWESI TENGGARA 93562",
+      "tipe": "",
+      "wilayah": "KOLAKA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.194583,
+      "longitude": 121.600066
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN MUNA BARAT",
+      "kode_rs": "7402011",
+      "tempat_tidur": 16,
+      "telepon": "",
+      "alamat": "JL. POROS LAGADI - TONDASI KM.25  KEC. TIKEP KAB. MUNA BARAT",
+      "tipe": "",
+      "wilayah": "MUNA BARAT, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.798064,
+      "longitude": 122.419426
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN KONAWE KEPULAUAN",
+      "kode_rs": "7412002",
+      "tempat_tidur": 25,
+      "telepon": "",
+      "alamat": "JL. POROS PELABUHAN LANGARA KELURAHAN LANGARA, KEC. WAWONII BARAT, KAB. KONAWE KEPULAUAN",
+      "tipe": "",
+      "wilayah": "KONAWE KEPULAUAN, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.024554,
+      "longitude": 122.990736
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN BUTON UTARA",
+      "kode_rs": "7401024",
+      "tempat_tidur": 33,
+      "telepon": "0813-4171-4787",
+      "alamat": "JL. POROS EREKE - BURANGA JL. POROS KALIBU, LOJI, KULISUSU BAR., KABUPATEN BUTON UTARA, SULAWESI TENGGARA 93672",
+      "tipe": "",
+      "wilayah": "BUTON UTARA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.754385,
+      "longitude": 123.179644
+    },
+    {
+      "nama": "RS UMUM ALIYAH III",
+      "kode_rs": "7471008",
+      "tempat_tidur": 49,
+      "telepon": "0811-4163-818",
+      "alamat": "JALAN BUNGGASI, RAHANDOUNA, POASIA, RAHANDOUNA, POASIA, KOTA KENDARI, SULAWESI TENGGARA 93232",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.034985,
+      "longitude": 122.497445
+    },
+    {
+      "nama": "RS  PMI KENDARI",
+      "kode_rs": "7471055",
+      "tempat_tidur": 0,
+      "telepon": "(0401) 3121064",
+      "alamat": "JL. MAYJEND S.PARMAN NO.35 KENDARI",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.96208,
+      "longitude": 122.537624
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN BUTON",
+      "kode_rs": "7401038",
+      "tempat_tidur": 86,
+      "telepon": "",
+      "alamat": "JL. PROTOKOL LABURUNCE  KEC. PASARWAJO",
+      "tipe": "",
+      "wilayah": "BUTON, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.523639,
+      "longitude": 122.84247
+    },
+    {
+      "nama": "RS UMUM DAERAH H.M.DJAFAR HARUN",
+      "kode_rs": "7404034",
+      "tempat_tidur": 88,
+      "telepon": "0853-9804-2078",
+      "alamat": "JL. TRANS SULAWESI LASUSUA, TOJABI, LASUSUA, TOJABI, LASUSUA, KABUPATEN KOLAKA UTARA, SULAWESI TENGGARA 93913",
+      "tipe": "",
+      "wilayah": "BUTON UTARA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.509223,
+      "longitude": 120.901275
+    },
+    {
+      "nama": "RS TK.IV DR. R ISMOYO KENDARI",
+      "kode_rs": "7403033",
+      "tempat_tidur": 63,
+      "telepon": "(0401) 321253",
+      "alamat": "JL. H. ABDUL SILONDAE NO.125, KORUMBA, KEC. MANDONGA, KOTA KENDARI, SULAWESI TENGGARA 93111",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.969303,
+      "longitude": 122.516856
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN BOMBANA",
+      "kode_rs": "7406036",
+      "tempat_tidur": 62,
+      "telepon": "",
+      "alamat": "POEA, RUMBIA TENGAH, KABUPATEN BOMBANA, SULAWESI TENGGARA 93771",
+      "tipe": "",
+      "wilayah": "BOMBANA, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -4.6886,
+      "longitude": 121.797
+    },
+    {
+      "nama": "RS UMUM ALIYAH II",
+      "kode_rs": "7471007",
+      "tempat_tidur": 50,
+      "telepon": "(0401) 3906742",
+      "alamat": "JL. BUBURANDA KORUMBA - MANDONGA KENDARI SULAWESI TENGGARA",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.977737,
+      "longitude": 122.527013
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN BUTON SELATAN",
+      "kode_rs": "7401039",
+      "tempat_tidur": 26,
+      "telepon": "",
+      "alamat": "JL GAJAH MADA KEL. LAOMPO KEC. BATAUGA KAB. BUTON SELATAN TELP/FAX.(0402)",
+      "tipe": "",
+      "wilayah": "KONAWE SELATAN, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.609889,
+      "longitude": 122.599741
+    },
+    {
+      "nama": "RS BHAYANGKARA KENDARI",
+      "kode_rs": "7471070",
+      "tempat_tidur": 72,
+      "telepon": "(0401) 3121253",
+      "alamat": "JL. GUNUNG MALUHU NO. 7, KEC, KEC. MANDONGA, KOTA KENDARI, SULAWESI TENGGARA 93117",
+      "tipe": "",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.972202,
+      "longitude": 122.50958
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN WAKATOBI",
+      "kode_rs": "7407012",
+      "tempat_tidur": 74,
+      "telepon": "NA",
+      "alamat": "JL. UTUDAE SAMAD KEL. MANDATI III, KEC. WANGI - WANGI SELATAN",
+      "tipe": "NA",
+      "wilayah": "WAKATOBI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -5.3296,
+      "longitude": 123.59
+    },
+    {
+      "nama": "RS MITRA SAKINAH IDAMAN",
+      "kode_rs": "7471125",
+      "tempat_tidur": 0,
+      "telepon": "NA",
+      "alamat": "JL. POROS KENDARI-KOLAKA UNAAHA  KENDARI",
+      "tipe": "NA",
+      "wilayah": "KOTA KENDARI, SULAWESI TENGGARA",
+      "provinsi": "SULAWESI TENGGARA",
+      "latitude": -3.9683,
+      "longitude": 122.578
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Sulawesi Tenggara — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Sulawesi Tenggara menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 37 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Sulawesi Tenggara — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Sulawesi Tenggara — data Pusdatin Kemenkes — 37 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 37 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

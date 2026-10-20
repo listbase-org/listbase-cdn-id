@@ -1,0 +1,4886 @@
+{
+  "id": "id-kalimantan-utara-villages",
+  "name": "Daftar Desa dan Kelurahan di Kalimantan Utara",
+  "title": "Daftar Desa dan Kelurahan di Kalimantan Utara",
+  "description": "Daftar desa dan kelurahan di Provinsi Kalimantan Utara (482 entri) dengan kode wilayah Kepmendagri dan hierarki kecamatan serta kabupaten/kota. Subset provinsi dari id-villages.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 482,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "65.01.01.1001",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Palas Hulu"
+    },
+    {
+      "code": "65.01.01.1002",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Palas Tengah"
+    },
+    {
+      "code": "65.01.01.1003",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Palas Hilir"
+    },
+    {
+      "code": "65.01.01.1004",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Anyar"
+    },
+    {
+      "code": "65.01.01.2005",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Gunung Putih"
+    },
+    {
+      "code": "65.01.01.2006",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pejalin"
+    },
+    {
+      "code": "65.01.01.2007",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Antutan"
+    },
+    {
+      "code": "65.01.01.2008",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Teras Baru"
+    },
+    {
+      "code": "65.01.01.2009",
+      "district_code": "65.01.01",
+      "district_name": "Tanjung Palas",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Teras Nawang"
+    },
+    {
+      "code": "65.01.02.2001",
+      "district_code": "65.01.02",
+      "district_name": "Tanjung Palas Barat",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Beluah"
+    },
+    {
+      "code": "65.01.02.2002",
+      "district_code": "65.01.02",
+      "district_name": "Tanjung Palas Barat",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Sam"
+    },
+    {
+      "code": "65.01.02.2003",
+      "district_code": "65.01.02",
+      "district_name": "Tanjung Palas Barat",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mara I"
+    },
+    {
+      "code": "65.01.02.2004",
+      "district_code": "65.01.02",
+      "district_name": "Tanjung Palas Barat",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mara Hilir"
+    },
+    {
+      "code": "65.01.02.2005",
+      "district_code": "65.01.02",
+      "district_name": "Tanjung Palas Barat",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pari"
+    },
+    {
+      "code": "65.01.03.2001",
+      "district_code": "65.01.03",
+      "district_name": "Tanjung Palas Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Agung"
+    },
+    {
+      "code": "65.01.03.2002",
+      "district_code": "65.01.03",
+      "district_name": "Tanjung Palas Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pimping"
+    },
+    {
+      "code": "65.01.03.2003",
+      "district_code": "65.01.03",
+      "district_name": "Tanjung Palas Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Panca Agung"
+    },
+    {
+      "code": "65.01.03.2004",
+      "district_code": "65.01.03",
+      "district_name": "Tanjung Palas Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ruhui Rahayu"
+    },
+    {
+      "code": "65.01.03.2005",
+      "district_code": "65.01.03",
+      "district_name": "Tanjung Palas Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ardi Mulyo"
+    },
+    {
+      "code": "65.01.03.2006",
+      "district_code": "65.01.03",
+      "district_name": "Tanjung Palas Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kelubir"
+    },
+    {
+      "code": "65.01.04.2001",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanah Kuning"
+    },
+    {
+      "code": "65.01.04.2002",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mangkupadi"
+    },
+    {
+      "code": "65.01.04.2003",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sajau"
+    },
+    {
+      "code": "65.01.04.2004",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Wonomulyo"
+    },
+    {
+      "code": "65.01.04.2005",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Agung"
+    },
+    {
+      "code": "65.01.04.2006",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Binai"
+    },
+    {
+      "code": "65.01.04.2007",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sajau Hilir"
+    },
+    {
+      "code": "65.01.04.2008",
+      "district_code": "65.01.04",
+      "district_name": "Tanjung Palas Timur",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pura Sajau"
+    },
+    {
+      "code": "65.01.05.1001",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Selor Hulu"
+    },
+    {
+      "code": "65.01.05.1002",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Selor Hilir"
+    },
+    {
+      "code": "65.01.05.1008",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Selor Timur"
+    },
+    {
+      "code": "65.01.05.2003",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Jelarai Selor"
+    },
+    {
+      "code": "65.01.05.2004",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Gunung Seriang"
+    },
+    {
+      "code": "65.01.05.2005",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bumi Rahayu"
+    },
+    {
+      "code": "65.01.05.2006",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Gunung Sari"
+    },
+    {
+      "code": "65.01.05.2007",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Apung"
+    },
+    {
+      "code": "65.01.05.2009",
+      "district_code": "65.01.05",
+      "district_name": "Tanjung Selor",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tengkapak"
+    },
+    {
+      "code": "65.01.06.2001",
+      "district_code": "65.01.06",
+      "district_name": "Tanjung Palas Tengah",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Salimbatu"
+    },
+    {
+      "code": "65.01.06.2002",
+      "district_code": "65.01.06",
+      "district_name": "Tanjung Palas Tengah",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Silva Rahayu"
+    },
+    {
+      "code": "65.01.06.2003",
+      "district_code": "65.01.06",
+      "district_name": "Tanjung Palas Tengah",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Buka"
+    },
+    {
+      "code": "65.01.07.2001",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lepak Aru"
+    },
+    {
+      "code": "65.01.07.2002",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lasan"
+    },
+    {
+      "code": "65.01.07.2003",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Peso"
+    },
+    {
+      "code": "65.01.07.2004",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bia"
+    },
+    {
+      "code": "65.01.07.2005",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Muara Pangean"
+    },
+    {
+      "code": "65.01.07.2006",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lian"
+    },
+    {
+      "code": "65.01.07.2007",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pelaah"
+    },
+    {
+      "code": "65.01.07.2008",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lejuh"
+    },
+    {
+      "code": "65.01.07.2009",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pelban"
+    },
+    {
+      "code": "65.01.07.2010",
+      "district_code": "65.01.07",
+      "district_name": "Peso",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Buang"
+    },
+    {
+      "code": "65.01.08.2001",
+      "district_code": "65.01.08",
+      "district_name": "Peso Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Tungu"
+    },
+    {
+      "code": "65.01.08.2002",
+      "district_code": "65.01.08",
+      "district_name": "Peso Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bang"
+    },
+    {
+      "code": "65.01.08.2003",
+      "district_code": "65.01.08",
+      "district_name": "Peso Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Telenjau"
+    },
+    {
+      "code": "65.01.08.2004",
+      "district_code": "65.01.08",
+      "district_name": "Peso Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Naha Aya"
+    },
+    {
+      "code": "65.01.08.2005",
+      "district_code": "65.01.08",
+      "district_name": "Peso Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lembu"
+    },
+    {
+      "code": "65.01.08.2006",
+      "district_code": "65.01.08",
+      "district_name": "Peso Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bang Hulu"
+    },
+    {
+      "code": "65.01.09.2001",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sekatak Buji"
+    },
+    {
+      "code": "65.01.09.2002",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Paru Abang"
+    },
+    {
+      "code": "65.01.09.2003",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bunau"
+    },
+    {
+      "code": "65.01.09.2004",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ujang"
+    },
+    {
+      "code": "65.01.09.2005",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tenggiling"
+    },
+    {
+      "code": "65.01.09.2006",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kelembunan"
+    },
+    {
+      "code": "65.01.09.2007",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Turung"
+    },
+    {
+      "code": "65.01.09.2008",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Terindak"
+    },
+    {
+      "code": "65.01.09.2009",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kelising"
+    },
+    {
+      "code": "65.01.09.2010",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ambalat"
+    },
+    {
+      "code": "65.01.09.2011",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Keriting"
+    },
+    {
+      "code": "65.01.09.2012",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kendari"
+    },
+    {
+      "code": "65.01.09.2013",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bambang"
+    },
+    {
+      "code": "65.01.09.2014",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Maritam"
+    },
+    {
+      "code": "65.01.09.2015",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pentian"
+    },
+    {
+      "code": "65.01.09.2016",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Dulau"
+    },
+    {
+      "code": "65.01.09.2017",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kelincauan"
+    },
+    {
+      "code": "65.01.09.2018",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bekiliu"
+    },
+    {
+      "code": "65.01.09.2019",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sekatak Bengara"
+    },
+    {
+      "code": "65.01.09.2020",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pungit"
+    },
+    {
+      "code": "65.01.09.2021",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Anjar Arip"
+    },
+    {
+      "code": "65.01.09.2022",
+      "district_code": "65.01.09",
+      "district_name": "Sekatak",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liagu"
+    },
+    {
+      "code": "65.01.10.2001",
+      "district_code": "65.01.10",
+      "district_name": "Bunyu",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bunyu Barat"
+    },
+    {
+      "code": "65.01.10.2002",
+      "district_code": "65.01.10",
+      "district_name": "Bunyu",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bunyu Selatan"
+    },
+    {
+      "code": "65.01.10.2003",
+      "district_code": "65.01.10",
+      "district_name": "Bunyu",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bunyu Timur"
+    },
+    {
+      "code": "65.02.01.2002",
+      "district_code": "65.02.01",
+      "district_name": "Mentarang",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bisai"
+    },
+    {
+      "code": "65.02.01.2005",
+      "district_code": "65.02.01",
+      "district_name": "Mentarang",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pulau Sapi"
+    },
+    {
+      "code": "65.02.01.2006",
+      "district_code": "65.02.01",
+      "district_name": "Mentarang",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Paking"
+    },
+    {
+      "code": "65.02.01.2007",
+      "district_code": "65.02.01",
+      "district_name": "Mentarang",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lidung Kemenci"
+    },
+    {
+      "code": "65.02.01.2008",
+      "district_code": "65.02.01",
+      "district_name": "Mentarang",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mentarang Baru"
+    },
+    {
+      "code": "65.02.01.2009",
+      "district_code": "65.02.01",
+      "district_name": "Mentarang",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Harapan Maju"
+    },
+    {
+      "code": "65.02.02.2001",
+      "district_code": "65.02.02",
+      "district_name": "Malinau Kota",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Batu Lidung"
+    },
+    {
+      "code": "65.02.02.2002",
+      "district_code": "65.02.02",
+      "district_name": "Malinau Kota",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Malinau Kota"
+    },
+    {
+      "code": "65.02.02.2003",
+      "district_code": "65.02.02",
+      "district_name": "Malinau Kota",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pelita Kanaan"
+    },
+    {
+      "code": "65.02.02.2004",
+      "district_code": "65.02.02",
+      "district_name": "Malinau Kota",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Malinau Hulu"
+    },
+    {
+      "code": "65.02.02.2005",
+      "district_code": "65.02.02",
+      "district_name": "Malinau Kota",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Malinau Hilir"
+    },
+    {
+      "code": "65.02.02.2006",
+      "district_code": "65.02.02",
+      "district_name": "Malinau Kota",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Keranjang"
+    },
+    {
+      "code": "65.02.03.2001",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pujungan"
+    },
+    {
+      "code": "65.02.03.2002",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Ketaman"
+    },
+    {
+      "code": "65.02.03.2003",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pua"
+    },
+    {
+      "code": "65.02.03.2004",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lame"
+    },
+    {
+      "code": "65.02.03.2005",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Jelet"
+    },
+    {
+      "code": "65.02.03.2006",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Aran"
+    },
+    {
+      "code": "65.02.03.2007",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Peliran"
+    },
+    {
+      "code": "65.02.03.2008",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bena"
+    },
+    {
+      "code": "65.02.03.2009",
+      "district_code": "65.02.03",
+      "district_name": "Pujungan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Belaka Pitau"
+    },
+    {
+      "code": "65.02.04.2001",
+      "district_code": "65.02.04",
+      "district_name": "Kayan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Data Dian"
+    },
+    {
+      "code": "65.02.04.2002",
+      "district_code": "65.02.04",
+      "district_name": "Kayan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pipa"
+    },
+    {
+      "code": "65.02.04.2003",
+      "district_code": "65.02.04",
+      "district_name": "Kayan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Sule"
+    },
+    {
+      "code": "65.02.04.2004",
+      "district_code": "65.02.04",
+      "district_name": "Kayan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungai Anai"
+    },
+    {
+      "code": "65.02.04.2005",
+      "district_code": "65.02.04",
+      "district_name": "Kayan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Metun"
+    },
+    {
+      "code": "65.02.05.2001",
+      "district_code": "65.02.05",
+      "district_name": "Kayan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Nawang"
+    },
+    {
+      "code": "65.02.05.2002",
+      "district_code": "65.02.05",
+      "district_name": "Kayan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nawang Baru"
+    },
+    {
+      "code": "65.02.05.2003",
+      "district_code": "65.02.05",
+      "district_name": "Kayan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Temuyat"
+    },
+    {
+      "code": "65.02.05.2004",
+      "district_code": "65.02.05",
+      "district_name": "Kayan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Betaoh"
+    },
+    {
+      "code": "65.02.05.2005",
+      "district_code": "65.02.05",
+      "district_name": "Kayan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Payau"
+    },
+    {
+      "code": "65.02.06.2001",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bila Bekayuk"
+    },
+    {
+      "code": "65.02.06.2002",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Loreh"
+    },
+    {
+      "code": "65.02.06.2003",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Langap"
+    },
+    {
+      "code": "65.02.06.2004",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Laban Nyarit"
+    },
+    {
+      "code": "65.02.06.2005",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nunuk Tanah Kibang"
+    },
+    {
+      "code": "65.02.06.2006",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pelencau"
+    },
+    {
+      "code": "65.02.06.2007",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Paya Seturan"
+    },
+    {
+      "code": "65.02.06.2008",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Rian"
+    },
+    {
+      "code": "65.02.06.2009",
+      "district_code": "65.02.06",
+      "district_name": "Malinau Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sengayan"
+    },
+    {
+      "code": "65.02.07.2001",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kaliamok"
+    },
+    {
+      "code": "65.02.07.2002",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Luso"
+    },
+    {
+      "code": "65.02.07.2003",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Malinau Seberang"
+    },
+    {
+      "code": "65.02.07.2004",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Putat"
+    },
+    {
+      "code": "65.02.07.2005",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Salap"
+    },
+    {
+      "code": "65.02.07.2006",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Seruyung"
+    },
+    {
+      "code": "65.02.07.2007",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Respen Tubu"
+    },
+    {
+      "code": "65.02.07.2008",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Belayan"
+    },
+    {
+      "code": "65.02.07.2009",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sembuak Warod"
+    },
+    {
+      "code": "65.02.07.2010",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lubak Manis"
+    },
+    {
+      "code": "65.02.07.2011",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kelapis"
+    },
+    {
+      "code": "65.02.07.2012",
+      "district_code": "65.02.07",
+      "district_name": "Malinau Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Semengaris"
+    },
+    {
+      "code": "65.02.08.2001",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bila"
+    },
+    {
+      "code": "65.02.08.2002",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Kenipe"
+    },
+    {
+      "code": "65.02.08.2003",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Bengalun"
+    },
+    {
+      "code": "65.02.08.2004",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sesua"
+    },
+    {
+      "code": "65.02.08.2005",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sentaban"
+    },
+    {
+      "code": "65.02.08.2006",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Lapang"
+    },
+    {
+      "code": "65.02.08.2007",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Taras"
+    },
+    {
+      "code": "65.02.08.2008",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kuala Lapang"
+    },
+    {
+      "code": "65.02.08.2009",
+      "district_code": "65.02.08",
+      "district_name": "Malinau Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sempayang"
+    },
+    {
+      "code": "65.02.09.2001",
+      "district_code": "65.02.09",
+      "district_name": "Sungai Boh",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Dumu Mahak"
+    },
+    {
+      "code": "65.02.09.2002",
+      "district_code": "65.02.09",
+      "district_name": "Sungai Boh",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lebusan"
+    },
+    {
+      "code": "65.02.09.2003",
+      "district_code": "65.02.09",
+      "district_name": "Sungai Boh",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mahak Baru"
+    },
+    {
+      "code": "65.02.09.2004",
+      "district_code": "65.02.09",
+      "district_name": "Sungai Boh",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Top"
+    },
+    {
+      "code": "65.02.09.2005",
+      "district_code": "65.02.09",
+      "district_name": "Sungai Boh",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Agung Baru"
+    },
+    {
+      "code": "65.02.09.2006",
+      "district_code": "65.02.09",
+      "district_name": "Sungai Boh",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Data Baru"
+    },
+    {
+      "code": "65.02.10.2001",
+      "district_code": "65.02.10",
+      "district_name": "Kayan Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Ampung"
+    },
+    {
+      "code": "65.02.10.2002",
+      "district_code": "65.02.10",
+      "district_name": "Kayan Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Uro"
+    },
+    {
+      "code": "65.02.10.2003",
+      "district_code": "65.02.10",
+      "district_name": "Kayan Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lidung Payau"
+    },
+    {
+      "code": "65.02.10.2004",
+      "district_code": "65.02.10",
+      "district_name": "Kayan Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungai Barang"
+    },
+    {
+      "code": "65.02.10.2005",
+      "district_code": "65.02.10",
+      "district_name": "Kayan Selatan",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Metulang"
+    },
+    {
+      "code": "65.02.11.2001",
+      "district_code": "65.02.11",
+      "district_name": "Bahau Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Uli"
+    },
+    {
+      "code": "65.02.11.2002",
+      "district_code": "65.02.11",
+      "district_name": "Bahau Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Alango"
+    },
+    {
+      "code": "65.02.11.2003",
+      "district_code": "65.02.11",
+      "district_name": "Bahau Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Berini"
+    },
+    {
+      "code": "65.02.11.2004",
+      "district_code": "65.02.11",
+      "district_name": "Bahau Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Tebulo"
+    },
+    {
+      "code": "65.02.11.2005",
+      "district_code": "65.02.11",
+      "district_name": "Bahau Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Apau Ping"
+    },
+    {
+      "code": "65.02.11.2006",
+      "district_code": "65.02.11",
+      "district_name": "Bahau Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Kemuat"
+    },
+    {
+      "code": "65.02.12.2001",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Fala"
+    },
+    {
+      "code": "65.02.12.2002",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Kebinu"
+    },
+    {
+      "code": "65.02.12.2003",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Mekatif"
+    },
+    {
+      "code": "65.02.12.2004",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Simau"
+    },
+    {
+      "code": "65.02.12.2005",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Berang"
+    },
+    {
+      "code": "65.02.12.2006",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Sulit"
+    },
+    {
+      "code": "65.02.12.2007",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lung Semamu"
+    },
+    {
+      "code": "65.02.12.2008",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Gafid"
+    },
+    {
+      "code": "65.02.12.2009",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Temalang"
+    },
+    {
+      "code": "65.02.12.2010",
+      "district_code": "65.02.12",
+      "district_name": "Mentarang Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Liku"
+    },
+    {
+      "code": "65.02.13.2001",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Setulang"
+    },
+    {
+      "code": "65.02.13.2002",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Setarap"
+    },
+    {
+      "code": "65.02.13.2003",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Setarap"
+    },
+    {
+      "code": "65.02.13.2004",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Batu Kajang"
+    },
+    {
+      "code": "65.02.13.2005",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Gong Solok"
+    },
+    {
+      "code": "65.02.13.2006",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Gong Solok"
+    },
+    {
+      "code": "65.02.13.2007",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Adiu"
+    },
+    {
+      "code": "65.02.13.2008",
+      "district_code": "65.02.13",
+      "district_name": "Malinau Selatan Hilir",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Long Adiu"
+    },
+    {
+      "code": "65.02.14.2001",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Lake"
+    },
+    {
+      "code": "65.02.14.2002",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Punan Mirau"
+    },
+    {
+      "code": "65.02.14.2003",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Rat"
+    },
+    {
+      "code": "65.02.14.2004",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Halanga"
+    },
+    {
+      "code": "65.02.14.2005",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Metut"
+    },
+    {
+      "code": "65.02.14.2006",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Jalan"
+    },
+    {
+      "code": "65.02.14.2007",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nahakramo"
+    },
+    {
+      "code": "65.02.14.2008",
+      "district_code": "65.02.14",
+      "district_name": "Malinau Selatan Hulu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Nanga"
+    },
+    {
+      "code": "65.02.15.2001",
+      "district_code": "65.02.15",
+      "district_name": "Sungai Tubu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Nyau"
+    },
+    {
+      "code": "65.02.15.2002",
+      "district_code": "65.02.15",
+      "district_name": "Sungai Tubu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Titi"
+    },
+    {
+      "code": "65.02.15.2003",
+      "district_code": "65.02.15",
+      "district_name": "Sungai Tubu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Ranau"
+    },
+    {
+      "code": "65.02.15.2004",
+      "district_code": "65.02.15",
+      "district_name": "Sungai Tubu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Rian Tubu"
+    },
+    {
+      "code": "65.02.15.2005",
+      "district_code": "65.02.15",
+      "district_name": "Sungai Tubu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pada"
+    },
+    {
+      "code": "65.03.01.2001",
+      "district_code": "65.03.01",
+      "district_name": "Sebatik",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjungkarang"
+    },
+    {
+      "code": "65.03.01.2002",
+      "district_code": "65.03.01",
+      "district_name": "Sebatik",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Balansiku"
+    },
+    {
+      "code": "65.03.01.2003",
+      "district_code": "65.03.01",
+      "district_name": "Sebatik",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungai Manurung"
+    },
+    {
+      "code": "65.03.01.2004",
+      "district_code": "65.03.01",
+      "district_name": "Sebatik",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Padaidi"
+    },
+    {
+      "code": "65.03.02.1001",
+      "district_code": "65.03.02",
+      "district_name": "Nunukan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nunukan Timur"
+    },
+    {
+      "code": "65.03.02.1002",
+      "district_code": "65.03.02",
+      "district_name": "Nunukan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nunukan Barat"
+    },
+    {
+      "code": "65.03.02.1003",
+      "district_code": "65.03.02",
+      "district_name": "Nunukan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nunukan Utara"
+    },
+    {
+      "code": "65.03.02.1005",
+      "district_code": "65.03.02",
+      "district_name": "Nunukan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nunukan Tengah"
+    },
+    {
+      "code": "65.03.02.2004",
+      "district_code": "65.03.02",
+      "district_name": "Nunukan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Binusan"
+    },
+    {
+      "code": "65.03.03.2001",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tagul"
+    },
+    {
+      "code": "65.03.03.2002",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lubakan"
+    },
+    {
+      "code": "65.03.03.2003",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Atap"
+    },
+    {
+      "code": "65.03.03.2004",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Manuk Bungkul"
+    },
+    {
+      "code": "65.03.03.2005",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tujung"
+    },
+    {
+      "code": "65.03.03.2006",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pagar"
+    },
+    {
+      "code": "65.03.03.2007",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Labuk"
+    },
+    {
+      "code": "65.03.03.2008",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Butas Bagu"
+    },
+    {
+      "code": "65.03.03.2009",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pelaju"
+    },
+    {
+      "code": "65.03.03.2010",
+      "district_code": "65.03.03",
+      "district_name": "Sembakung",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tepian"
+    },
+    {
+      "code": "65.03.04.2001",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Deralon"
+    },
+    {
+      "code": "65.03.04.2002",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang"
+    },
+    {
+      "code": "65.03.04.2003",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Dabulon"
+    },
+    {
+      "code": "65.03.04.2004",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Taluan"
+    },
+    {
+      "code": "65.03.04.2005",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Podong"
+    },
+    {
+      "code": "65.03.04.2006",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Patal I"
+    },
+    {
+      "code": "65.03.04.2007",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Siawang"
+    },
+    {
+      "code": "65.03.04.2008",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sapuyan"
+    },
+    {
+      "code": "65.03.04.2009",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nainsid"
+    },
+    {
+      "code": "65.03.04.2010",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sasibu"
+    },
+    {
+      "code": "65.03.04.2011",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Saludan"
+    },
+    {
+      "code": "65.03.04.2012",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Semalat"
+    },
+    {
+      "code": "65.03.04.2013",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Libang"
+    },
+    {
+      "code": "65.03.04.2014",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sedongon"
+    },
+    {
+      "code": "65.03.04.2015",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Hilir"
+    },
+    {
+      "code": "65.03.04.2016",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sumalumung"
+    },
+    {
+      "code": "65.03.04.2017",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lintong"
+    },
+    {
+      "code": "65.03.04.2018",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pulu Bulawan"
+    },
+    {
+      "code": "65.03.04.2019",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Hulu"
+    },
+    {
+      "code": "65.03.04.2020",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Patal II"
+    },
+    {
+      "code": "65.03.04.2021",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa'loo"
+    },
+    {
+      "code": "65.03.04.2022",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sangkub"
+    },
+    {
+      "code": "65.03.04.2023",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tubus"
+    },
+    {
+      "code": "65.03.04.2024",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Likos"
+    },
+    {
+      "code": "65.03.04.2025",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bulan-Bulan"
+    },
+    {
+      "code": "65.03.04.2026",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kalampising"
+    },
+    {
+      "code": "65.03.04.2027",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa'lemumut"
+    },
+    {
+      "code": "65.03.04.2028",
+      "district_code": "65.03.04",
+      "district_name": "Lumbis",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mansalong"
+    },
+    {
+      "code": "65.03.05.2002",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Padi"
+    },
+    {
+      "code": "65.03.05.2003",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Cinglat"
+    },
+    {
+      "code": "65.03.05.2022",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Butan"
+    },
+    {
+      "code": "65.03.05.2029",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Rupai"
+    },
+    {
+      "code": "65.03.05.2030",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ba Sikor"
+    },
+    {
+      "code": "65.03.05.2031",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Nado"
+    },
+    {
+      "code": "65.03.05.2032",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Buduk Kinangan"
+    },
+    {
+      "code": "65.03.05.2033",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Tuer"
+    },
+    {
+      "code": "65.03.05.2034",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Buduk Tumu"
+    },
+    {
+      "code": "65.03.05.2035",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Berayang"
+    },
+    {
+      "code": "65.03.05.2036",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Api"
+    },
+    {
+      "code": "65.03.05.2037",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Sire"
+    },
+    {
+      "code": "65.03.05.2038",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Wa' Yanud"
+    },
+    {
+      "code": "65.03.05.2039",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Nawang"
+    },
+    {
+      "code": "65.03.05.2040",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Katung"
+    },
+    {
+      "code": "65.03.05.2041",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bawan"
+    },
+    {
+      "code": "65.03.05.2044",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Matung"
+    },
+    {
+      "code": "65.03.05.2045",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Rupan"
+    },
+    {
+      "code": "65.03.05.2046",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Biadung"
+    },
+    {
+      "code": "65.03.05.2047",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Wa' Laya"
+    },
+    {
+      "code": "65.03.05.2048",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Matung"
+    },
+    {
+      "code": "65.03.05.2049",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Terutun"
+    },
+    {
+      "code": "65.03.05.2065",
+      "district_code": "65.03.05",
+      "district_name": "Krayan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Putuk"
+    },
+    {
+      "code": "65.03.06.2001",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pembeliangan"
+    },
+    {
+      "code": "65.03.06.2002",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Apas"
+    },
+    {
+      "code": "65.03.06.2003",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kunyit"
+    },
+    {
+      "code": "65.03.06.2004",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tetaban"
+    },
+    {
+      "code": "65.03.06.2005",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kekayap"
+    },
+    {
+      "code": "65.03.06.2006",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bebanas"
+    },
+    {
+      "code": "65.03.06.2007",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lulu"
+    },
+    {
+      "code": "65.03.06.2008",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sujau"
+    },
+    {
+      "code": "65.03.06.2009",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Melasu Baru"
+    },
+    {
+      "code": "65.03.06.2010",
+      "district_code": "65.03.06",
+      "district_name": "Sebuku",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Harapan"
+    },
+    {
+      "code": "65.03.07.2001",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pasia"
+    },
+    {
+      "code": "65.03.07.2002",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Lunuk"
+    },
+    {
+      "code": "65.03.07.2003",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Ibang"
+    },
+    {
+      "code": "65.03.07.2004",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Amai"
+    },
+    {
+      "code": "65.03.07.2005",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Kaber"
+    },
+    {
+      "code": "65.03.07.2006",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Tera"
+    },
+    {
+      "code": "65.03.07.2007",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Sing"
+    },
+    {
+      "code": "65.03.07.2009",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Dalan"
+    },
+    {
+      "code": "65.03.07.2010",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Birar"
+    },
+    {
+      "code": "65.03.07.2011",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Upan"
+    },
+    {
+      "code": "65.03.07.2016",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Budung"
+    },
+    {
+      "code": "65.03.07.2018",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Pupung"
+    },
+    {
+      "code": "65.03.07.2020",
+      "district_code": "65.03.07",
+      "district_name": "Krayan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Urang"
+    },
+    {
+      "code": "65.03.08.2001",
+      "district_code": "65.03.08",
+      "district_name": "Sebatik Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Bunyu"
+    },
+    {
+      "code": "65.03.08.2002",
+      "district_code": "65.03.08",
+      "district_name": "Sebatik Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Binalawan"
+    },
+    {
+      "code": "65.03.08.2003",
+      "district_code": "65.03.08",
+      "district_name": "Sebatik Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Setabu"
+    },
+    {
+      "code": "65.03.08.2004",
+      "district_code": "65.03.08",
+      "district_name": "Sebatik Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bambangan"
+    },
+    {
+      "code": "65.03.09.1001",
+      "district_code": "65.03.09",
+      "district_name": "Nunukan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Selisun"
+    },
+    {
+      "code": "65.03.09.1002",
+      "district_code": "65.03.09",
+      "district_name": "Nunukan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nunukan Selatan"
+    },
+    {
+      "code": "65.03.09.1003",
+      "district_code": "65.03.09",
+      "district_name": "Nunukan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mansapa"
+    },
+    {
+      "code": "65.03.09.1004",
+      "district_code": "65.03.09",
+      "district_name": "Nunukan Selatan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": "65.03.10.2001",
+      "district_code": "65.03.10",
+      "district_name": "Sebatik Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungai Nyamuk"
+    },
+    {
+      "code": "65.03.10.2002",
+      "district_code": "65.03.10",
+      "district_name": "Sebatik Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": "65.03.10.2003",
+      "district_code": "65.03.10",
+      "district_name": "Sebatik Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bukit Aru Indah"
+    },
+    {
+      "code": "65.03.10.2004",
+      "district_code": "65.03.10",
+      "district_name": "Sebatik Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanjung Aru"
+    },
+    {
+      "code": "65.03.11.2001",
+      "district_code": "65.03.11",
+      "district_name": "Sebatik Utara",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungai Pancang"
+    },
+    {
+      "code": "65.03.11.2002",
+      "district_code": "65.03.11",
+      "district_name": "Sebatik Utara",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lapri"
+    },
+    {
+      "code": "65.03.11.2003",
+      "district_code": "65.03.11",
+      "district_name": "Sebatik Utara",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Seberang"
+    },
+    {
+      "code": "65.03.12.2001",
+      "district_code": "65.03.12",
+      "district_name": "Sebatik Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungai Limau"
+    },
+    {
+      "code": "65.03.12.2002",
+      "district_code": "65.03.12",
+      "district_name": "Sebatik Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Maspul"
+    },
+    {
+      "code": "65.03.12.2003",
+      "district_code": "65.03.12",
+      "district_name": "Sebatik Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Aji Kuning"
+    },
+    {
+      "code": "65.03.12.2004",
+      "district_code": "65.03.12",
+      "district_name": "Sebatik Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": "65.03.13.2001",
+      "district_code": "65.03.13",
+      "district_name": "Sei Menggaris",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Srinanti"
+    },
+    {
+      "code": "65.03.13.2002",
+      "district_code": "65.03.13",
+      "district_name": "Sei Menggaris",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tabur Lestari"
+    },
+    {
+      "code": "65.03.13.2003",
+      "district_code": "65.03.13",
+      "district_name": "Sei Menggaris",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Samaenre Semaja"
+    },
+    {
+      "code": "65.03.13.2004",
+      "district_code": "65.03.13",
+      "district_name": "Sei Menggaris",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sekaduyan Taka"
+    },
+    {
+      "code": "65.03.14.2001",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sanur"
+    },
+    {
+      "code": "65.03.14.2002",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Makmur"
+    },
+    {
+      "code": "65.03.14.2003",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Semunad"
+    },
+    {
+      "code": "65.03.14.2004",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sekikilan"
+    },
+    {
+      "code": "65.03.14.2005",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kalunsayan"
+    },
+    {
+      "code": "65.03.14.2006",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tembalang"
+    },
+    {
+      "code": "65.03.14.2007",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Salang"
+    },
+    {
+      "code": "65.03.14.2008",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tinampak I"
+    },
+    {
+      "code": "65.03.14.2009",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tinampak II"
+    },
+    {
+      "code": "65.03.14.2010",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Naputi"
+    },
+    {
+      "code": "65.03.14.2011",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tau Baru"
+    },
+    {
+      "code": "65.03.14.2012",
+      "district_code": "65.03.14",
+      "district_name": "Tulin Onsoi",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Balatikon"
+    },
+    {
+      "code": "65.03.15.2001",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Payang"
+    },
+    {
+      "code": "65.03.15.2002",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Suyadon"
+    },
+    {
+      "code": "65.03.15.2003",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bulu Mengolom"
+    },
+    {
+      "code": "65.03.15.2004",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tukulon"
+    },
+    {
+      "code": "65.03.15.2005",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ubol Sulok"
+    },
+    {
+      "code": "65.03.15.2006",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Batung"
+    },
+    {
+      "code": "65.03.15.2007",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ubol Alung"
+    },
+    {
+      "code": "65.03.15.2008",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nansapan"
+    },
+    {
+      "code": "65.03.15.2009",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Samunti"
+    },
+    {
+      "code": "65.03.15.2010",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Semata"
+    },
+    {
+      "code": "65.03.15.2011",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sungoi"
+    },
+    {
+      "code": "65.03.15.2012",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Salan"
+    },
+    {
+      "code": "65.03.15.2013",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sinampila I"
+    },
+    {
+      "code": "65.03.15.2014",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Paluan"
+    },
+    {
+      "code": "65.03.15.2015",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sedalit"
+    },
+    {
+      "code": "65.03.15.2016",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tambalang Hilir"
+    },
+    {
+      "code": "65.03.15.2017",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tadungus"
+    },
+    {
+      "code": "65.03.15.2018",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sinampila II"
+    },
+    {
+      "code": "65.03.15.2019",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kalambuku"
+    },
+    {
+      "code": "65.03.15.2020",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Jukup"
+    },
+    {
+      "code": "65.03.15.2021",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Bulu"
+    },
+    {
+      "code": "65.03.15.2023",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Linsayung"
+    },
+    {
+      "code": "65.03.15.2024",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tumantalas"
+    },
+    {
+      "code": "65.03.15.2025",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sanal"
+    },
+    {
+      "code": "65.03.15.2026",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Limpakon"
+    },
+    {
+      "code": "65.03.15.2027",
+      "district_code": "65.03.15",
+      "district_name": "Lumbis Ogong",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Labuk"
+    },
+    {
+      "code": "65.03.16.2001",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lubok Buat"
+    },
+    {
+      "code": "65.03.16.2002",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Katul"
+    },
+    {
+      "code": "65.03.16.2003",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mambulu"
+    },
+    {
+      "code": "65.03.16.2004",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pagaluyon"
+    },
+    {
+      "code": "65.03.16.2005",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Saduman"
+    },
+    {
+      "code": "65.03.16.2006",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tulang"
+    },
+    {
+      "code": "65.03.16.2007",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sabuluan"
+    },
+    {
+      "code": "65.03.16.2008",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pulau Keras"
+    },
+    {
+      "code": "65.03.16.2009",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liuk Bulu"
+    },
+    {
+      "code": "65.03.16.2010",
+      "district_code": "65.03.16",
+      "district_name": "Sembakung Atulai",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Binanun"
+    },
+    {
+      "code": "65.03.17.2001",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tang Paye"
+    },
+    {
+      "code": "65.03.17.2002",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Rungan"
+    },
+    {
+      "code": "65.03.17.2003",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Kelupan"
+    },
+    {
+      "code": "65.03.17.2004",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Padi"
+    },
+    {
+      "code": "65.03.17.2005",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tang Badui"
+    },
+    {
+      "code": "65.03.17.2006",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Binuang"
+    },
+    {
+      "code": "65.03.17.2007",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Mutan"
+    },
+    {
+      "code": "65.03.17.2008",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Milau"
+    },
+    {
+      "code": "65.03.17.2009",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ba' Liku"
+    },
+    {
+      "code": "65.03.17.2010",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Rian"
+    },
+    {
+      "code": "65.03.17.2011",
+      "district_code": "65.03.17",
+      "district_name": "Krayan Tengah",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Yalau"
+    },
+    {
+      "code": "65.03.18.2001",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Betung"
+    },
+    {
+      "code": "65.03.18.2002",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Sepayang"
+    },
+    {
+      "code": "65.03.18.2003",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Pawan"
+    },
+    {
+      "code": "65.03.18.2004",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Melade"
+    },
+    {
+      "code": "65.03.18.2005",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Kebuan"
+    },
+    {
+      "code": "65.03.18.2006",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Umung"
+    },
+    {
+      "code": "65.03.18.2007",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Rangeb"
+    },
+    {
+      "code": "65.03.18.2008",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Umung"
+    },
+    {
+      "code": "65.03.18.2009",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Tenem"
+    },
+    {
+      "code": "65.03.18.2010",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Nuat"
+    },
+    {
+      "code": "65.03.18.2011",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Pala"
+    },
+    {
+      "code": "65.03.18.2012",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sinar Baru"
+    },
+    {
+      "code": "65.03.18.2013",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Lidung"
+    },
+    {
+      "code": "65.03.18.2014",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Raye"
+    },
+    {
+      "code": "65.03.18.2015",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bungayan"
+    },
+    {
+      "code": "65.03.18.2016",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Wa' Yagung"
+    },
+    {
+      "code": "65.03.18.2017",
+      "district_code": "65.03.18",
+      "district_name": "Krayan Timur",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kampung Baru"
+    },
+    {
+      "code": "65.03.19.2001",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Mulak"
+    },
+    {
+      "code": "65.03.19.2002",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Puak"
+    },
+    {
+      "code": "65.03.19.2003",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Mangan"
+    },
+    {
+      "code": "65.03.19.2004",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Buduk Kubul"
+    },
+    {
+      "code": "65.03.19.2005",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Kabid"
+    },
+    {
+      "code": "65.03.19.2006",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Inan"
+    },
+    {
+      "code": "65.03.19.2007",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lembudud"
+    },
+    {
+      "code": "65.03.19.2008",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Long Tugul"
+    },
+    {
+      "code": "65.03.19.2009",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Butal"
+    },
+    {
+      "code": "65.03.19.2010",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Delung"
+    },
+    {
+      "code": "65.03.19.2011",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Urud"
+    },
+    {
+      "code": "65.03.19.2012",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Kemut"
+    },
+    {
+      "code": "65.03.19.2013",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Kidang"
+    },
+    {
+      "code": "65.03.19.2014",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lembada"
+    },
+    {
+      "code": "65.03.19.2015",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Payak"
+    },
+    {
+      "code": "65.03.19.2016",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Pirit"
+    },
+    {
+      "code": "65.03.19.2017",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Aliq"
+    },
+    {
+      "code": "65.03.19.2018",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sembudud"
+    },
+    {
+      "code": "65.03.19.2019",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Turan"
+    },
+    {
+      "code": "65.03.19.2020",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Liang Bua"
+    },
+    {
+      "code": "65.03.19.2021",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lepatar"
+    },
+    {
+      "code": "65.03.19.2022",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Mering"
+    },
+    {
+      "code": "65.03.19.2023",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Pani"
+    },
+    {
+      "code": "65.03.19.2024",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pa' Lutut"
+    },
+    {
+      "code": "65.03.19.2025",
+      "district_code": "65.03.19",
+      "district_name": "Krayan Barat",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ma' Libu"
+    },
+    {
+      "code": "65.03.20.2001",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sumentobol"
+    },
+    {
+      "code": "65.03.20.2002",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Nantukidan"
+    },
+    {
+      "code": "65.03.20.2003",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Labang"
+    },
+    {
+      "code": "65.03.20.2004",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sumantipal"
+    },
+    {
+      "code": "65.03.20.2005",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Ngawol"
+    },
+    {
+      "code": "65.03.20.2006",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bululaun Hilir"
+    },
+    {
+      "code": "65.03.20.2007",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lagas"
+    },
+    {
+      "code": "65.03.20.2008",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Panas"
+    },
+    {
+      "code": "65.03.20.2009",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Langgason"
+    },
+    {
+      "code": "65.03.20.2010",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tantalujuk"
+    },
+    {
+      "code": "65.03.20.2011",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tambalang Hulu"
+    },
+    {
+      "code": "65.03.20.2012",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kuyo"
+    },
+    {
+      "code": "65.03.20.2013",
+      "district_code": "65.03.20",
+      "district_name": "Lumbis Pansiangan",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bokok"
+    },
+    {
+      "code": "65.03.21.2001",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tau Lumbis"
+    },
+    {
+      "code": "65.03.21.2002",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lipaga"
+    },
+    {
+      "code": "65.03.21.2003",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bululaun Hulu"
+    },
+    {
+      "code": "65.03.21.2004",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kalisun"
+    },
+    {
+      "code": "65.03.21.2005",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mamasin"
+    },
+    {
+      "code": "65.03.21.2006",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sibalu"
+    },
+    {
+      "code": "65.03.21.2007",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Duyan"
+    },
+    {
+      "code": "65.03.21.2008",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tuntulibing"
+    },
+    {
+      "code": "65.03.21.2009",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tetagas"
+    },
+    {
+      "code": "65.03.21.2010",
+      "district_code": "65.03.21",
+      "district_name": "Lumbis Hulu",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kabungolor"
+    },
+    {
+      "code": "65.04.01.2001",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tideng Pale"
+    },
+    {
+      "code": "65.04.01.2002",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Limbu Sedulun"
+    },
+    {
+      "code": "65.04.01.2003",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sebidai"
+    },
+    {
+      "code": "65.04.01.2004",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sedulun"
+    },
+    {
+      "code": "65.04.01.2005",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tideng Pale Timur"
+    },
+    {
+      "code": "65.04.01.2006",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Gunawan"
+    },
+    {
+      "code": "65.04.01.2007",
+      "district_code": "65.04.01",
+      "district_name": "Sesayap",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sebawang"
+    },
+    {
+      "code": "65.04.02.2001",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sesayap"
+    },
+    {
+      "code": "65.04.02.2002",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sengkong"
+    },
+    {
+      "code": "65.04.02.2003",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bebatu"
+    },
+    {
+      "code": "65.04.02.2004",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bandan Bikis"
+    },
+    {
+      "code": "65.04.02.2005",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sepala Dalung"
+    },
+    {
+      "code": "65.04.02.2006",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Seludau"
+    },
+    {
+      "code": "65.04.02.2007",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Menjelutung"
+    },
+    {
+      "code": "65.04.02.2008",
+      "district_code": "65.04.02",
+      "district_name": "Sesayap Hilir",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sesayap Selor"
+    },
+    {
+      "code": "65.04.03.2001",
+      "district_code": "65.04.03",
+      "district_name": "Tana Lia",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanah Merah"
+    },
+    {
+      "code": "65.04.03.2002",
+      "district_code": "65.04.03",
+      "district_name": "Tana Lia",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tengku Dacing"
+    },
+    {
+      "code": "65.04.03.2003",
+      "district_code": "65.04.03",
+      "district_name": "Tana Lia",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sambungan"
+    },
+    {
+      "code": "65.04.03.2004",
+      "district_code": "65.04.03",
+      "district_name": "Tana Lia",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Tanah Merah Barat"
+    },
+    {
+      "code": "65.04.03.2005",
+      "district_code": "65.04.03",
+      "district_name": "Tana Lia",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sambungan Selatan"
+    },
+    {
+      "code": "65.04.04.2001",
+      "district_code": "65.04.04",
+      "district_name": "Betayau",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Buong Baru"
+    },
+    {
+      "code": "65.04.04.2002",
+      "district_code": "65.04.04",
+      "district_name": "Betayau",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Bebakung"
+    },
+    {
+      "code": "65.04.04.2003",
+      "district_code": "65.04.04",
+      "district_name": "Betayau",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kujau"
+    },
+    {
+      "code": "65.04.04.2004",
+      "district_code": "65.04.04",
+      "district_name": "Betayau",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mendupo"
+    },
+    {
+      "code": "65.04.04.2005",
+      "district_code": "65.04.04",
+      "district_name": "Betayau",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Maning"
+    },
+    {
+      "code": "65.04.04.2006",
+      "district_code": "65.04.04",
+      "district_name": "Betayau",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Periuk"
+    },
+    {
+      "code": "65.04.05.2001",
+      "district_code": "65.04.05",
+      "district_name": "Muruk Rian",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Seputuk"
+    },
+    {
+      "code": "65.04.05.2002",
+      "district_code": "65.04.05",
+      "district_name": "Muruk Rian",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Rian"
+    },
+    {
+      "code": "65.04.05.2003",
+      "district_code": "65.04.05",
+      "district_name": "Muruk Rian",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Balayan Ari"
+    },
+    {
+      "code": "65.04.05.2004",
+      "district_code": "65.04.05",
+      "district_name": "Muruk Rian",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Rian Rayo"
+    },
+    {
+      "code": "65.04.05.2005",
+      "district_code": "65.04.05",
+      "district_name": "Muruk Rian",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kapuak"
+    },
+    {
+      "code": "65.04.05.2006",
+      "district_code": "65.04.05",
+      "district_name": "Muruk Rian",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sapari"
+    },
+    {
+      "code": "65.71.01.1001",
+      "district_code": "65.71.01",
+      "district_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Anyar"
+    },
+    {
+      "code": "65.71.01.1002",
+      "district_code": "65.71.01",
+      "district_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Rejo"
+    },
+    {
+      "code": "65.71.01.1003",
+      "district_code": "65.71.01",
+      "district_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Anyar Pantai"
+    },
+    {
+      "code": "65.71.01.1004",
+      "district_code": "65.71.01",
+      "district_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Balik"
+    },
+    {
+      "code": "65.71.01.1005",
+      "district_code": "65.71.01",
+      "district_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Karang Harapan"
+    },
+    {
+      "code": "65.71.02.1001",
+      "district_code": "65.71.02",
+      "district_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kampung I Skip"
+    },
+    {
+      "code": "65.71.02.1002",
+      "district_code": "65.71.02",
+      "district_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pamusian"
+    },
+    {
+      "code": "65.71.02.1003",
+      "district_code": "65.71.02",
+      "district_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Sebengkok"
+    },
+    {
+      "code": "65.71.02.1004",
+      "district_code": "65.71.02",
+      "district_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Selumit"
+    },
+    {
+      "code": "65.71.02.1005",
+      "district_code": "65.71.02",
+      "district_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Selumit Pantai"
+    },
+    {
+      "code": "65.71.03.1001",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Lingkas Ujung"
+    },
+    {
+      "code": "65.71.03.1002",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Gunung Lingkas"
+    },
+    {
+      "code": "65.71.03.1003",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kampung Empat"
+    },
+    {
+      "code": "65.71.03.1004",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Kampung Enam"
+    },
+    {
+      "code": "65.71.03.1005",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mamburungan"
+    },
+    {
+      "code": "65.71.03.1006",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Pantai Amal"
+    },
+    {
+      "code": "65.71.03.1007",
+      "district_code": "65.71.03",
+      "district_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Mamburungan Timur"
+    },
+    {
+      "code": "65.71.04.1001",
+      "district_code": "65.71.04",
+      "district_name": "Tarakan Utara",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Juata Laut"
+    },
+    {
+      "code": "65.71.04.1002",
+      "district_code": "65.71.04",
+      "district_name": "Tarakan Utara",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Juata Permai"
+    },
+    {
+      "code": "65.71.04.1003",
+      "district_code": "65.71.04",
+      "district_name": "Tarakan Utara",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara",
+      "name": "Juata Kerikil"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Desa dan Kelurahan di Kalimantan Utara - Unduh Gratis",
+    "description": "Daftar desa dan kelurahan di Provinsi Kalimantan Utara (482 entri) dengan kode wilayah Kepmendagri dan hierarki kecamatan serta kabupaten/kota. Subset provinsi dari id-villages. Berisi 482 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Desa dan Kelurahan di Kalimantan Utara | ListBase",
+    "seo_description": "Unduh Daftar Desa dan Kelurahan di Kalimantan Utara — 482 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 482 rekaman / 8 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

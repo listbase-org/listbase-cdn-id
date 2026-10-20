@@ -1,0 +1,5648 @@
+{
+  "id": "id-sumatera-utara-postal-codes",
+  "name": "Daftar Kode Pos di Sumatera Utara",
+  "title": "Daftar Kode Pos di Sumatera Utara",
+  "description": "Daftar 699 kode pos di Provinsi Sumatera Utara (kode BPS 12). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 699,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "20111",
+      "kecamatan_name": "Medan Barat",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20112",
+      "kecamatan_name": "Medan Petisah",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20113",
+      "kecamatan_name": "Medan Petisah",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20114",
+      "kecamatan_name": "Medan Barat",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20115",
+      "kecamatan_name": "Medan Barat",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20116",
+      "kecamatan_name": "Medan Barat",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20117",
+      "kecamatan_name": "Medan Barat",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20118",
+      "kecamatan_name": "Medan Petisah",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20119",
+      "kecamatan_name": "Medan Petisah",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20121",
+      "kecamatan_name": "Medan Sunggal",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20122",
+      "kecamatan_name": "Medan Sunggal",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20123",
+      "kecamatan_name": "Medan Helvetia",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20124",
+      "kecamatan_name": "Medan Helvetia",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20125",
+      "kecamatan_name": "Medan Helvetia",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20126",
+      "kecamatan_name": "Medan Helvetia",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20127",
+      "kecamatan_name": "Medan Sunggal",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20128",
+      "kecamatan_name": "Medan Sunggal",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20131",
+      "kecamatan_name": "Medan Selayang",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20132",
+      "kecamatan_name": "Medan Selayang",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20133",
+      "kecamatan_name": "Medan Selayang",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20134",
+      "kecamatan_name": "Medan Tuntungan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20135",
+      "kecamatan_name": "Medan Tuntungan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20136",
+      "kecamatan_name": "Medan Tuntungan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20137",
+      "kecamatan_name": "Medan Tuntungan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20138",
+      "kecamatan_name": "Medan Tuntungan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20142",
+      "kecamatan_name": "Medan Johor",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20143",
+      "kecamatan_name": "Medan Johor",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20144",
+      "kecamatan_name": "Medan Johor",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20145",
+      "kecamatan_name": "Medan Johor",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20146",
+      "kecamatan_name": "Medan Johor",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20147",
+      "kecamatan_name": "Medan Amplas",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20148",
+      "kecamatan_name": "Medan Amplas",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20149",
+      "kecamatan_name": "Medan Amplas",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20151",
+      "kecamatan_name": "Medan Maimun",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20152",
+      "kecamatan_name": "Medan Polonia",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20153",
+      "kecamatan_name": "Medan Baru",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20154",
+      "kecamatan_name": "Medan Baru",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20155",
+      "kecamatan_name": "Medan Baru",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20156",
+      "kecamatan_name": "Medan Baru",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20157",
+      "kecamatan_name": "Medan Polonia",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20158",
+      "kecamatan_name": "Medan Maimun",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20159",
+      "kecamatan_name": "Medan Maimun",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20211",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20212",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20213",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20214",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20215",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20216",
+      "kecamatan_name": "Medan Area",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20217",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20218",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20219",
+      "kecamatan_name": "Medan Kota",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20221",
+      "kecamatan_name": "Medan Tembung",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20222",
+      "kecamatan_name": "Medan Tembung",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20223",
+      "kecamatan_name": "Medan Tembung",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20224",
+      "kecamatan_name": "Medan Tembung",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20225",
+      "kecamatan_name": "Medan Tembung",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20227",
+      "kecamatan_name": "Medan Denai",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20228",
+      "kecamatan_name": "Medan Denai",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20231",
+      "kecamatan_name": "Medan Timur",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20234",
+      "kecamatan_name": "Medan Timur",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20235",
+      "kecamatan_name": "Medan Timur",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20238",
+      "kecamatan_name": "Medan Timur",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20239",
+      "kecamatan_name": "Medan Timur",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20241",
+      "kecamatan_name": "Medan Deli",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20242",
+      "kecamatan_name": "Medan Deli",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20243",
+      "kecamatan_name": "Medan Deli",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20244",
+      "kecamatan_name": "Medan Deli",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20245",
+      "kecamatan_name": "Medan Marelan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20249",
+      "kecamatan_name": "Medan Amplas",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20251",
+      "kecamatan_name": "Medan Labuhan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20252",
+      "kecamatan_name": "Medan Labuhan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20253",
+      "kecamatan_name": "Medan Labuhan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20254",
+      "kecamatan_name": "Medan Marelan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20255",
+      "kecamatan_name": "Medan Marelan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20256",
+      "kecamatan_name": "Medan Marelan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20257",
+      "kecamatan_name": "Medan Marelan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20258",
+      "kecamatan_name": "Medan Labuhan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20259",
+      "kecamatan_name": "Medan Labuhan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20352",
+      "kecamatan_name": "Sunggal",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20353",
+      "kecamatan_name": "Pancur Batu",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20354",
+      "kecamatan_name": "Kutalimbaru",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20355",
+      "kecamatan_name": "Deli Tua",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20356",
+      "kecamatan_name": "Namorambe",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20357",
+      "kecamatan_name": "Sibolangit",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20358",
+      "kecamatan_name": "Sibiru-biru",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20361",
+      "kecamatan_name": "Patumbak",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20362",
+      "kecamatan_name": "Tanjung Morawa",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20363",
+      "kecamatan_name": "Sinembah Tanjung Muda Hilir",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20371",
+      "kecamatan_name": "Percut Sei Tuan",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20372",
+      "kecamatan_name": "Batang Kuis",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20373",
+      "kecamatan_name": "Labuhan Deli",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20374",
+      "kecamatan_name": "Hamparan Perak",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20411",
+      "kecamatan_name": "Medan Belawan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20412",
+      "kecamatan_name": "Medan Belawan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20413",
+      "kecamatan_name": "Medan Belawan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20414",
+      "kecamatan_name": "Medan Belawan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20415",
+      "kecamatan_name": "Medan Belawan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20416",
+      "kecamatan_name": "Medan Belawan",
+      "regency_code": "12.75",
+      "regency_name": "Kota Binjai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20511",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20512",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20513",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20514",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20515",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20516",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20517",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20518",
+      "kecamatan_name": "Lubuk Pakam",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20551",
+      "kecamatan_name": "Pagar Merbau",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20552",
+      "kecamatan_name": "Beringin",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20553",
+      "kecamatan_name": "Pantai Labu",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20581",
+      "kecamatan_name": "Bangun Purba",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20582",
+      "kecamatan_name": "Sinembah Tanjung Muda Hulu",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20583",
+      "kecamatan_name": "Gunung Meriah",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20585",
+      "kecamatan_name": "Galang",
+      "regency_code": "12.12",
+      "regency_name": "Kabupaten Toba Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20611",
+      "kecamatan_name": "Rambutan",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20612",
+      "kecamatan_name": "Bajenis",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20613",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20614",
+      "kecamatan_name": "Rambutan",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20615",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20616",
+      "kecamatan_name": "Rambutan",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20617",
+      "kecamatan_name": "Rambutan",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20618",
+      "kecamatan_name": "Rambutan",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20621",
+      "kecamatan_name": "Bajenis",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20622",
+      "kecamatan_name": "Padang Hulu",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20623",
+      "kecamatan_name": "Padang Hulu",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20624",
+      "kecamatan_name": "Padang Hulu",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20625",
+      "kecamatan_name": "Padang Hulu",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20626",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20627",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20628",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20631",
+      "kecamatan_name": "Padang Hilir",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20632",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20633",
+      "kecamatan_name": "Tebing Tinggi Kota",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20634",
+      "kecamatan_name": "Padang Hilir",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20635",
+      "kecamatan_name": "Padang Hilir",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20636",
+      "kecamatan_name": "Padang Hilir",
+      "regency_code": "12.74",
+      "regency_name": "Kota Tanjung Balai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20651",
+      "kecamatan_name": "Tebing Tinggi",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20652",
+      "kecamatan_name": "Tebing Syahbandar",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20711",
+      "kecamatan_name": "Binjai Kota",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20712",
+      "kecamatan_name": "Binjai Kota",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20713",
+      "kecamatan_name": "Binjai Kota",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20714",
+      "kecamatan_name": "Binjai Kota",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20715",
+      "kecamatan_name": "Binjai Kota",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20716",
+      "kecamatan_name": "Binjai Barat",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20717",
+      "kecamatan_name": "Binjai Barat",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20718",
+      "kecamatan_name": "Binjai Barat",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20719",
+      "kecamatan_name": "Binjai Barat",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20721",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20722",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20723",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20724",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20725",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20726",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20727",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20728",
+      "kecamatan_name": "Binjai Selatan",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20731",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20732",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20733",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20734",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20735",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20736",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20737",
+      "kecamatan_name": "Binjai Timur",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20741",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20742",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20743",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20744",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20745",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20746",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20747",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20748",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20749",
+      "kecamatan_name": "Binjai Utara",
+      "regency_code": "12.76",
+      "regency_name": "Kota Tebing Tinggi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20761",
+      "kecamatan_name": "Binjai",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20762",
+      "kecamatan_name": "Selesai",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20771",
+      "kecamatan_name": "Sei Bingei",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20772",
+      "kecamatan_name": "Kuala",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20773",
+      "kecamatan_name": "Salapian",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20774",
+      "kecamatan_name": "Bahorok",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20775",
+      "kecamatan_name": "Kutambaru",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20776",
+      "kecamatan_name": "Sirapit",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20811",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20812",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20813",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20814",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20815",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20817",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20818",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20819",
+      "kecamatan_name": "Stabat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20852",
+      "kecamatan_name": "Padang Tualang",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20853",
+      "kecamatan_name": "Tanjung Pura",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20854",
+      "kecamatan_name": "Hinai",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20855",
+      "kecamatan_name": "Secanggang",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20856",
+      "kecamatan_name": "Gebang",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20857",
+      "kecamatan_name": "Babalan",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20858",
+      "kecamatan_name": "Pangkalan Susu",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20859",
+      "kecamatan_name": "Besitang",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20881",
+      "kecamatan_name": "Brandan Barat",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20882",
+      "kecamatan_name": "Sei Lepan",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20883",
+      "kecamatan_name": "Batang Serangan",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20884",
+      "kecamatan_name": "Sawit Seberang",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20885",
+      "kecamatan_name": "Wampu",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20891",
+      "kecamatan_name": "Pematang Jaya",
+      "regency_code": "12.13",
+      "regency_name": "Kabupaten Mandailing Natal",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20921",
+      "kecamatan_name": "Sei Bamban",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20922",
+      "kecamatan_name": "Sei Bamban",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20923",
+      "kecamatan_name": "Sei Bamban",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20924",
+      "kecamatan_name": "Sei Bamban",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20925",
+      "kecamatan_name": "Sei Bamban",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20929",
+      "kecamatan_name": "Sei Bamban",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20981",
+      "kecamatan_name": "Silinda",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20983",
+      "kecamatan_name": "Bintang Bayu",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20984",
+      "kecamatan_name": "Kotarih",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20985",
+      "kecamatan_name": "Serba Jadi",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20986",
+      "kecamatan_name": "Perbaungan",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20987",
+      "kecamatan_name": "Pantai Cermin",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20988",
+      "kecamatan_name": "Pegajahan",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20991",
+      "kecamatan_name": "Dolok Masihul",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20992",
+      "kecamatan_name": "Sipispis",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20993",
+      "kecamatan_name": "Dolok Merawan",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20994",
+      "kecamatan_name": "Bandar Khalifah",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20996",
+      "kecamatan_name": "Tanjung Beringin",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "20997",
+      "kecamatan_name": "Teluk Mengkudu",
+      "regency_code": "12.18",
+      "regency_name": "Kabupaten Serdang Bedagai",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21111",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21112",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21113",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21114",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21116",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21117",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21118",
+      "kecamatan_name": "Siantar Barat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21121",
+      "kecamatan_name": "Siantar Selatan",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21122",
+      "kecamatan_name": "Siantar Selatan",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21123",
+      "kecamatan_name": "Siantar Selatan",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21124",
+      "kecamatan_name": "Siantar Selatan",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21125",
+      "kecamatan_name": "Siantar Selatan",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21126",
+      "kecamatan_name": "Siantar Selatan",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21127",
+      "kecamatan_name": "Siantar Marimbun",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21128",
+      "kecamatan_name": "Siantar Marihat",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21129",
+      "kecamatan_name": "Siantar Marimbun",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21131",
+      "kecamatan_name": "Siantar Timur",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21132",
+      "kecamatan_name": "Siantar Timur",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21133",
+      "kecamatan_name": "Siantar Timur",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21134",
+      "kecamatan_name": "Siantar Timur",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21135",
+      "kecamatan_name": "Siantar Timur",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21136",
+      "kecamatan_name": "Siantar Timur",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21137",
+      "kecamatan_name": "Siantar Martoba",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21138",
+      "kecamatan_name": "Siantar Martoba",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21139",
+      "kecamatan_name": "Siantar Sitalasari",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21141",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21142",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21143",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21144",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21145",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21146",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21147",
+      "kecamatan_name": "Siantar Utara",
+      "regency_code": "12.73",
+      "regency_name": "Kota Sibolga",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21153",
+      "kecamatan_name": "Gunung Malela",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21154",
+      "kecamatan_name": "Tapian Dolok",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21155",
+      "kecamatan_name": "Dolok Batu Nanggar",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21156",
+      "kecamatan_name": "Raya Kahean",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21157",
+      "kecamatan_name": "Silou Kahean",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21161",
+      "kecamatan_name": "Panei",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21162",
+      "kecamatan_name": "Raya",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21163",
+      "kecamatan_name": "Dolok Pardamean",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21165",
+      "kecamatan_name": "Purba",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21166",
+      "kecamatan_name": "Haranggaol Horison",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21167",
+      "kecamatan_name": "Silimakuta",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21168",
+      "kecamatan_name": "Dolok Silau",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21169",
+      "kecamatan_name": "Pamatang Silima Huta",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21171",
+      "kecamatan_name": "Sidamanik",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21172",
+      "kecamatan_name": "Jorlang Hataran",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21173",
+      "kecamatan_name": "Dolok Panribuan",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21174",
+      "kecamatan_name": "Girsang Sipangan Bolon",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21175",
+      "kecamatan_name": "Pematang Sidamanik",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21181",
+      "kecamatan_name": "Tanah Jawa",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21182",
+      "kecamatan_name": "Huta Bayu Raja",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21183",
+      "kecamatan_name": "Bosar Maligas",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21184",
+      "kecamatan_name": "Bandar",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21185",
+      "kecamatan_name": "Bandar Masilam",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21186",
+      "kecamatan_name": "Pematang Bandar",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21187",
+      "kecamatan_name": "Ujung Padang",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21191",
+      "kecamatan_name": "Hatonduhan",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21192",
+      "kecamatan_name": "Jawa Maraja Bah Jambi",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21193",
+      "kecamatan_name": "Bandar Huluan",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21194",
+      "kecamatan_name": "Gunung Maligas",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21195",
+      "kecamatan_name": "Panombeian Pane",
+      "regency_code": "12.09",
+      "regency_name": "Kabupaten Asahan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21211",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21212",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21213",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21214",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21215",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21216",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21217",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21218",
+      "kecamatan_name": "Kota Kisaran Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21221",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21222",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21223",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21224",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21225",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21226",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21227",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21228",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21229",
+      "kecamatan_name": "Kota Kisaran Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21261",
+      "kecamatan_name": "Buntu Pane",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21262",
+      "kecamatan_name": "Bandar Pasir Mandoge",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21263",
+      "kecamatan_name": "Air Joman",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21264",
+      "kecamatan_name": "Meranti",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21265",
+      "kecamatan_name": "Silau Laut",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21266",
+      "kecamatan_name": "Pulo Bandring",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21267",
+      "kecamatan_name": "Rawang Panca Arga",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21268",
+      "kecamatan_name": "Setia Janji",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21271",
+      "kecamatan_name": "Simpang Empat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21272",
+      "kecamatan_name": "Air Batu",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21273",
+      "kecamatan_name": "Pulau Rakyat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21274",
+      "kecamatan_name": "Bandar Pulau",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21275",
+      "kecamatan_name": "Aek Kuasan",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21276",
+      "kecamatan_name": "Aek Ledong",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21277",
+      "kecamatan_name": "Teluk Dalam",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21291",
+      "kecamatan_name": "Sei Dadap",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21292",
+      "kecamatan_name": "Tinggi Raja",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21293",
+      "kecamatan_name": "Aek Songsongan",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21311",
+      "kecamatan_name": "Tanjung Balai Selatan",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21312",
+      "kecamatan_name": "Tanjung Balai Selatan",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21313",
+      "kecamatan_name": "Tanjung Balai Selatan",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21314",
+      "kecamatan_name": "Tanjung Balai Selatan",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21315",
+      "kecamatan_name": "Tanjung Balai Selatan",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21316",
+      "kecamatan_name": "Tanjung Balai Selatan",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21321",
+      "kecamatan_name": "Tanjung Balai Utara",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21322",
+      "kecamatan_name": "Tanjung Balai Utara",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21323",
+      "kecamatan_name": "Tanjung Balai Utara",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21324",
+      "kecamatan_name": "Tanjung Balai Utara",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21325",
+      "kecamatan_name": "Tanjung Balai Utara",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21331",
+      "kecamatan_name": "Teluk Nibung",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21332",
+      "kecamatan_name": "Teluk Nibung",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21333",
+      "kecamatan_name": "Teluk Nibung",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21334",
+      "kecamatan_name": "Teluk Nibung",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21335",
+      "kecamatan_name": "Teluk Nibung",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21341",
+      "kecamatan_name": "Sei Tualang Raso",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21342",
+      "kecamatan_name": "Sei Tualang Raso",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21343",
+      "kecamatan_name": "Sei Tualang Raso",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21344",
+      "kecamatan_name": "Sei Tualang Raso",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21345",
+      "kecamatan_name": "Sei Tualang Raso",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21351",
+      "kecamatan_name": "Tanjung Balai",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21361",
+      "kecamatan_name": "Datuk Bandar",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21362",
+      "kecamatan_name": "Datuk Bandar",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21368",
+      "kecamatan_name": "Datuk Bandar",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21369",
+      "kecamatan_name": "Datuk Bandar",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21373",
+      "kecamatan_name": "Datuk Bandar Timur",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21374",
+      "kecamatan_name": "Datuk Bandar Timur",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21375",
+      "kecamatan_name": "Datuk Bandar Timur",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21376",
+      "kecamatan_name": "Datuk Bandar Timur",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21377",
+      "kecamatan_name": "Datuk Bandar Timur",
+      "regency_code": "12.72",
+      "regency_name": "Kota Pematangsiantar",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21381",
+      "kecamatan_name": "Sei Kepayang",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21382",
+      "kecamatan_name": "Sei Kepayang Barat",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21383",
+      "kecamatan_name": "Sei Kepayang Timur",
+      "regency_code": "12.08",
+      "regency_name": "Kabupaten Simalungun",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21411",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21412",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21413",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21414",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21416",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21417",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21418",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21419",
+      "kecamatan_name": "Rantau Utara",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21421",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21422",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21423",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21424",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21425",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21426",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21427",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21428",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21429",
+      "kecamatan_name": "Rantau Selatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21459",
+      "kecamatan_name": "Bilah Barat",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21462",
+      "kecamatan_name": "Bilah Hulu",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21471",
+      "kecamatan_name": "Bilah Hilir",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21472",
+      "kecamatan_name": "Panai Tengah",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21473",
+      "kecamatan_name": "Panai Hilir",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21476",
+      "kecamatan_name": "Panai Hulu",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21477",
+      "kecamatan_name": "Pangkatan",
+      "regency_code": "12.07",
+      "regency_name": "Kabupaten Deli Serdang",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21511",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21512",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21513",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21514",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21515",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21516",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21517",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21518",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21519",
+      "kecamatan_name": "Kotapinang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21561",
+      "kecamatan_name": "Silangkitang",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21563",
+      "kecamatan_name": "Kampung Rakyat",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21571",
+      "kecamatan_name": "Sungai Kanan",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21572",
+      "kecamatan_name": "Torgamba",
+      "regency_code": "12.22",
+      "regency_name": "Kabupaten Labuhanbatu Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21652",
+      "kecamatan_name": "Sei Balai",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21653",
+      "kecamatan_name": "Tanjung Tiram",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21654",
+      "kecamatan_name": "Talawi",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21655",
+      "kecamatan_name": "Lima Puluh",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21656",
+      "kecamatan_name": "Air Putih",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21657",
+      "kecamatan_name": "Sei Suka",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21658",
+      "kecamatan_name": "Medang Deras",
+      "regency_code": "12.19",
+      "regency_name": "Kabupaten Batu Bara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21711",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21712",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21713",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21714",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21715",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21716",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21717",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21718",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21719",
+      "kecamatan_name": "Kualuh Hulu",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21752",
+      "kecamatan_name": "Marbau",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21754",
+      "kecamatan_name": "Na IX - X",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21755",
+      "kecamatan_name": "Aek Natas",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21774",
+      "kecamatan_name": "Kualuh Hilir",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21775",
+      "kecamatan_name": "Kualuh Leidong",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21781",
+      "kecamatan_name": "Kualuh Selatan",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "21782",
+      "kecamatan_name": "Aek Kuo",
+      "regency_code": "12.23",
+      "regency_name": "Kabupaten Labuhanbatu Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22111",
+      "kecamatan_name": "Kabanjahe",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22112",
+      "kecamatan_name": "Kabanjahe",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22113",
+      "kecamatan_name": "Kabanjahe",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22115",
+      "kecamatan_name": "Kabanjahe",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22119",
+      "kecamatan_name": "Kabanjahe",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22152",
+      "kecamatan_name": "Berastagi",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22153",
+      "kecamatan_name": "Simpang Empat",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22154",
+      "kecamatan_name": "Tiganderket",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22155",
+      "kecamatan_name": "Kutabuluh",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22156",
+      "kecamatan_name": "Payung",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22157",
+      "kecamatan_name": "Naman Teran",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22158",
+      "kecamatan_name": "Merdeka",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22159",
+      "kecamatan_name": "Dolat Rayat",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22161",
+      "kecamatan_name": "Munte",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22162",
+      "kecamatan_name": "Tigabinanga",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22163",
+      "kecamatan_name": "Juhar",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22164",
+      "kecamatan_name": "Laubaleng",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22165",
+      "kecamatan_name": "Mardingding",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22171",
+      "kecamatan_name": "Tigapanah",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22172",
+      "kecamatan_name": "Barusjahe",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22173",
+      "kecamatan_name": "Merek",
+      "regency_code": "12.11",
+      "regency_name": "Kabupaten Dairi",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22211",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22212",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22213",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22214",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22215",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22216",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22217",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22218",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22219",
+      "kecamatan_name": "Sidikalang",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22252",
+      "kecamatan_name": "Tigalingga",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22253",
+      "kecamatan_name": "Tanah Pinem",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22254",
+      "kecamatan_name": "Siempat Nempu Hulu",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22255",
+      "kecamatan_name": "Gunung Sitember",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22256",
+      "kecamatan_name": "Brampu",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22257",
+      "kecamatan_name": "Sitinjo",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22261",
+      "kecamatan_name": "Siempat Nempu",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22262",
+      "kecamatan_name": "Silima Pungga Punga",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22263",
+      "kecamatan_name": "Siempat Nempu Hilir",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22264",
+      "kecamatan_name": "Lae Parira",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22271",
+      "kecamatan_name": "Kerajaan",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22272",
+      "kecamatan_name": "Salak",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22273",
+      "kecamatan_name": "Pergetteng Getteng Sengkut",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22274",
+      "kecamatan_name": "Sitelu Tali Urang Jehe",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22275",
+      "kecamatan_name": "Sitelu Tali Urang Julu",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22276",
+      "kecamatan_name": "Pagindar",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22277",
+      "kecamatan_name": "Siempat Rube",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22278",
+      "kecamatan_name": "Tinada",
+      "regency_code": "12.16",
+      "regency_name": "Kabupaten Humbang Hasundutan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22281",
+      "kecamatan_name": "Sumbul",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22282",
+      "kecamatan_name": "Parbuluan",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22283",
+      "kecamatan_name": "Pegagan Hilir",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22284",
+      "kecamatan_name": "Silahisabungan",
+      "regency_code": "12.10",
+      "regency_name": "Kabupaten Labuhanbatu",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22311",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22312",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22313",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22314",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22315",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22316",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22319",
+      "kecamatan_name": "Balige",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22352",
+      "kecamatan_name": "Tampahan",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22353",
+      "kecamatan_name": "Sigumpar",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22354",
+      "kecamatan_name": "Borbor",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22355",
+      "kecamatan_name": "Nassau",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22356",
+      "kecamatan_name": "Siantar Narumonda",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22357",
+      "kecamatan_name": "Parmaksian",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22381",
+      "kecamatan_name": "Laguboti",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22382",
+      "kecamatan_name": "Silaen",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22383",
+      "kecamatan_name": "Habinsaran",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22384",
+      "kecamatan_name": "Porsea",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22385",
+      "kecamatan_name": "Uluan",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22386",
+      "kecamatan_name": "Lumban Julu",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22387",
+      "kecamatan_name": "Bonatua Lunasi",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22388",
+      "kecamatan_name": "Pintu Pohan Meranti",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22389",
+      "kecamatan_name": "Ajibata",
+      "regency_code": "12.06",
+      "regency_name": "Kabupaten Karo",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22391",
+      "kecamatan_name": "Harian",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22392",
+      "kecamatan_name": "Pangururan",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22393",
+      "kecamatan_name": "Palipi",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22394",
+      "kecamatan_name": "Nainggolan",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22395",
+      "kecamatan_name": "Simanindo",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22396",
+      "kecamatan_name": "Sianjar Mula Mula",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22397",
+      "kecamatan_name": "Ronggur Nihuta",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22398",
+      "kecamatan_name": "Onan Runggu",
+      "regency_code": "12.17",
+      "regency_name": "Kabupaten Samosir",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22411",
+      "kecamatan_name": "Tarutung",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22412",
+      "kecamatan_name": "Tarutung",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22413",
+      "kecamatan_name": "Tarutung",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22414",
+      "kecamatan_name": "Tarutung",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22415",
+      "kecamatan_name": "Tarutung",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22416",
+      "kecamatan_name": "Tarutung",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22427",
+      "kecamatan_name": "Siatas Barita",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22428",
+      "kecamatan_name": "Siatas Barita",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22429",
+      "kecamatan_name": "Siatas Barita",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22452",
+      "kecamatan_name": "Sipoholon",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22453",
+      "kecamatan_name": "Parmonangan",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22454",
+      "kecamatan_name": "Onan Ganjang",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22455",
+      "kecamatan_name": "Pakkat",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22456",
+      "kecamatan_name": "Parlilitan",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22457",
+      "kecamatan_name": "Dolok Sanggul",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22458",
+      "kecamatan_name": "Pagaran",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22459",
+      "kecamatan_name": "Baktiraja",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22461",
+      "kecamatan_name": "Adian Koting",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22463",
+      "kecamatan_name": "Pahae Julu",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22465",
+      "kecamatan_name": "Pahae Jae",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22466",
+      "kecamatan_name": "Simangumban",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22467",
+      "kecamatan_name": "Purba Tua",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22471",
+      "kecamatan_name": "Sipahutar",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22472",
+      "kecamatan_name": "Pangaribuan",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22473",
+      "kecamatan_name": "Garoga",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22474",
+      "kecamatan_name": "Siborong-Borong",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22475",
+      "kecamatan_name": "Lintong Nihuta",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22476",
+      "kecamatan_name": "Muara",
+      "regency_code": "12.05",
+      "regency_name": "Kabupaten Langkat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22481",
+      "kecamatan_name": "Sijamapolang",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22482",
+      "kecamatan_name": "Paranginan",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22483",
+      "kecamatan_name": "Pollung",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22485",
+      "kecamatan_name": "Tarabintang",
+      "regency_code": "12.15",
+      "regency_name": "Kabupaten Pakpak Bharat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22511",
+      "kecamatan_name": "Sibolga Utara",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22512",
+      "kecamatan_name": "Sibolga Utara",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22513",
+      "kecamatan_name": "Sibolga Utara",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22514",
+      "kecamatan_name": "Sibolga Utara",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22521",
+      "kecamatan_name": "Sibolga Kota",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22522",
+      "kecamatan_name": "Sibolga Kota",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22523",
+      "kecamatan_name": "Sibolga Kota",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22524",
+      "kecamatan_name": "Sibolga Kota",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22531",
+      "kecamatan_name": "Sibolga Sambas",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22532",
+      "kecamatan_name": "Sibolga Sambas",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22533",
+      "kecamatan_name": "Sibolga Selatan",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22534",
+      "kecamatan_name": "Sibolga Sambas",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22535",
+      "kecamatan_name": "Sibolga Sambas",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22536",
+      "kecamatan_name": "Sibolga Selatan",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22537",
+      "kecamatan_name": "Sibolga Selatan",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22538",
+      "kecamatan_name": "Sibolga Selatan",
+      "regency_code": "12.71",
+      "regency_name": "Kota Medan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22562",
+      "kecamatan_name": "Kolang",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22563",
+      "kecamatan_name": "Sorkam",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22564",
+      "kecamatan_name": "Barus",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22565",
+      "kecamatan_name": "Manduamas",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22566",
+      "kecamatan_name": "Sitahuis",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22571",
+      "kecamatan_name": "Sorkam Barat",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22572",
+      "kecamatan_name": "Pasaribu Tobing",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22573",
+      "kecamatan_name": "Sosor Gadong",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22574",
+      "kecamatan_name": "Barus Utara",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22575",
+      "kecamatan_name": "Andam Dewi",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22576",
+      "kecamatan_name": "Sirandorung",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22611",
+      "kecamatan_name": "Pandan",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22613",
+      "kecamatan_name": "Pandan",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22614",
+      "kecamatan_name": "Pandan",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22615",
+      "kecamatan_name": "Pandan",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22619",
+      "kecamatan_name": "Pandan",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22621",
+      "kecamatan_name": "Sarudik",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22622",
+      "kecamatan_name": "Sarudik",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22623",
+      "kecamatan_name": "Sarudik",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22624",
+      "kecamatan_name": "Sarudik",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22625",
+      "kecamatan_name": "Sarudik",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22631",
+      "kecamatan_name": "Tukka",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22634",
+      "kecamatan_name": "Tukka",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22636",
+      "kecamatan_name": "Tukka",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22638",
+      "kecamatan_name": "Tukka",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22641",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22642",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22643",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22644",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22645",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22646",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22647",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22648",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22649",
+      "kecamatan_name": "Tapian Nauli",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22653",
+      "kecamatan_name": "Pinangsori",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22654",
+      "kecamatan_name": "Lumut",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22655",
+      "kecamatan_name": "Suka Bangun",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22656",
+      "kecamatan_name": "Sibabangun",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22657",
+      "kecamatan_name": "Badiri",
+      "regency_code": "12.04",
+      "regency_name": "Kabupaten Nias",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22711",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22712",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22713",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22714",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22715",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22716",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22717",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22718",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22719",
+      "kecamatan_name": "Padangsidimpuan Utara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22721",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22722",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22723",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22724",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22725",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22726",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22727",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22728",
+      "kecamatan_name": "Padangsidimpuan Selatan",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22729",
+      "kecamatan_name": "Padangsidimpuan Hutaimbaru",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22732",
+      "kecamatan_name": "Angkola Selatan",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22733",
+      "kecamatan_name": "Angkola Timur",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22736",
+      "kecamatan_name": "Angkola Barat",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22737",
+      "kecamatan_name": "Angkola Sangkunur",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22738",
+      "kecamatan_name": "Batang Toru",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22739",
+      "kecamatan_name": "Muara Batang Toru",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22741",
+      "kecamatan_name": "Marancar",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22742",
+      "kecamatan_name": "Sipirok",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22743",
+      "kecamatan_name": "Padangsidimpuan Batunadua",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22747",
+      "kecamatan_name": "Arse",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22748",
+      "kecamatan_name": "Padangsidimpuan Tenggara",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22749",
+      "kecamatan_name": "Padangsidimpuan Angkola Julu",
+      "regency_code": "12.77",
+      "regency_name": "Kota Padang Sidempuan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22753",
+      "kecamatan_name": "Padang Bolak",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22755",
+      "kecamatan_name": "Barumun Tengah",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22756",
+      "kecamatan_name": "Dolok",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22757",
+      "kecamatan_name": "Saipar Dolok Hole",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22759",
+      "kecamatan_name": "Aek Bilah",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22761",
+      "kecamatan_name": "Batang Onang",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22762",
+      "kecamatan_name": "Sosopan",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22763",
+      "kecamatan_name": "Barumun",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22765",
+      "kecamatan_name": "Sosa",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22772",
+      "kecamatan_name": "Batang Angkola",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22774",
+      "kecamatan_name": "Sayur Matinggi",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22775",
+      "kecamatan_name": "Tano Tombangan Angkola",
+      "regency_code": "12.03",
+      "regency_name": "Kabupaten Tapanuli Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22781",
+      "kecamatan_name": "Padang Bolak Julu",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22782",
+      "kecamatan_name": "Portibi",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22783",
+      "kecamatan_name": "Simangambat",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22784",
+      "kecamatan_name": "Halongonan",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22785",
+      "kecamatan_name": "Dolok Sigompulon",
+      "regency_code": "12.20",
+      "regency_name": "Kabupaten Padang Lawas Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22791",
+      "kecamatan_name": "Ulu Barumun",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22792",
+      "kecamatan_name": "Barumun Selatan",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22793",
+      "kecamatan_name": "Batang Lubu Sutam",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22794",
+      "kecamatan_name": "Huta Raja Tinggi",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22795",
+      "kecamatan_name": "Lubuk Barumun",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22796",
+      "kecamatan_name": "Aek Nabara Barumun",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22797",
+      "kecamatan_name": "Huristak",
+      "regency_code": "12.21",
+      "regency_name": "Kabupaten Padang Lawas",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22811",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22812",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22814",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22815",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22816",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22817",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22818",
+      "kecamatan_name": "Gunungsitoli",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22821",
+      "kecamatan_name": "Gunungsitoli Utara",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22822",
+      "kecamatan_name": "Gunungsitoli Barat",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22823",
+      "kecamatan_name": "Gunungsitoli Selatan",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22825",
+      "kecamatan_name": "Gunungsitoli Idanoi",
+      "regency_code": "12.78",
+      "regency_name": "Kota Gunungsitoli",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22831",
+      "kecamatan_name": "Hilimegai",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22832",
+      "kecamatan_name": "Aramo",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22833",
+      "kecamatan_name": "Maniamolo",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22834",
+      "kecamatan_name": "Fanayama",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22835",
+      "kecamatan_name": "Toma",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22836",
+      "kecamatan_name": "Mazino",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22837",
+      "kecamatan_name": "Susua",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22838",
+      "kecamatan_name": "Mazo",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22839",
+      "kecamatan_name": "Umbunasi",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22841",
+      "kecamatan_name": "Lahewa Timur",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22842",
+      "kecamatan_name": "Tugala Oyo",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22843",
+      "kecamatan_name": "Alasa Talumuzoi",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22844",
+      "kecamatan_name": "Sitolu Ori",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22845",
+      "kecamatan_name": "Sawo",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22852",
+      "kecamatan_name": "Tuhemberua",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22853",
+      "kecamatan_name": "Lahewa",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22854",
+      "kecamatan_name": "Hiliduho",
+      "regency_code": "12.01",
+      "regency_name": "Kabupaten Tapanuli Tengah",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22855",
+      "kecamatan_name": "Namohalu Esiwa",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22856",
+      "kecamatan_name": "Lotu",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22857",
+      "kecamatan_name": "Afulu",
+      "regency_code": "12.24",
+      "regency_name": "Kabupaten Nias Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22859",
+      "kecamatan_name": "Botomuzoi",
+      "regency_code": "12.01",
+      "regency_name": "Kabupaten Tapanuli Tengah",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22861",
+      "kecamatan_name": "Alasa",
+      "regency_code": "12.25",
+      "regency_name": "Kabupaten Nias Barat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22862",
+      "kecamatan_name": "Mandrehe",
+      "regency_code": "12.25",
+      "regency_name": "Kabupaten Nias Barat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22863",
+      "kecamatan_name": "Sirombu",
+      "regency_code": "12.25",
+      "regency_name": "Kabupaten Nias Barat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22865",
+      "kecamatan_name": "Teluk Dalam",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22866",
+      "kecamatan_name": "Amandraya",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22867",
+      "kecamatan_name": "Lolomatua",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22871",
+      "kecamatan_name": "Gido",
+      "regency_code": "12.01",
+      "regency_name": "Kabupaten Tapanuli Tengah",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22873",
+      "kecamatan_name": "Gomo",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22874",
+      "kecamatan_name": "Lahusa",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22875",
+      "kecamatan_name": "Lolofitu Moi",
+      "regency_code": "12.25",
+      "regency_name": "Kabupaten Nias Barat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22876",
+      "kecamatan_name": "Bawolato",
+      "regency_code": "12.01",
+      "regency_name": "Kabupaten Tapanuli Tengah",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22877",
+      "kecamatan_name": "Ulugawo",
+      "regency_code": "12.01",
+      "regency_name": "Kabupaten Tapanuli Tengah",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22878",
+      "kecamatan_name": "Somolo-Molo",
+      "regency_code": "12.01",
+      "regency_name": "Kabupaten Tapanuli Tengah",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22881",
+      "kecamatan_name": "Pulau-Pulau Batu",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22882",
+      "kecamatan_name": "Hibala",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22883",
+      "kecamatan_name": "Pulau-Pulau Batu Timur",
+      "regency_code": "12.14",
+      "regency_name": "Kabupaten Nias Selatan",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22893",
+      "kecamatan_name": "Mandrehe Utara",
+      "regency_code": "12.25",
+      "regency_name": "Kabupaten Nias Barat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22895",
+      "kecamatan_name": "Mandrehe Barat",
+      "regency_code": "12.25",
+      "regency_name": "Kabupaten Nias Barat",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22952",
+      "kecamatan_name": "Panyabungan Selatan",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22953",
+      "kecamatan_name": "Panyabungan Barat",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22954",
+      "kecamatan_name": "Panyabungan Utara",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22955",
+      "kecamatan_name": "Panyabungan Timur",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22961",
+      "kecamatan_name": "Lembah Sorik Marapi",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22963",
+      "kecamatan_name": "Tambangan",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22964",
+      "kecamatan_name": "Ulu Pungkut",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22976",
+      "kecamatan_name": "Siabu",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22977",
+      "kecamatan_name": "Bukit Malintang",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22983",
+      "kecamatan_name": "Batang Natal",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22984",
+      "kecamatan_name": "Lingga Bayu",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22987",
+      "kecamatan_name": "Natal",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22988",
+      "kecamatan_name": "Batahan",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22989",
+      "kecamatan_name": "Muara Batang Gadis",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22994",
+      "kecamatan_name": "Kotanopan",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    },
+    {
+      "postal_code": "22998",
+      "kecamatan_name": "Muara Sipongi",
+      "regency_code": "12.02",
+      "regency_name": "Kabupaten Tapanuli Utara",
+      "province_code": "12",
+      "province_name": "Sumatera Utara"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos di Sumatera Utara - Unduh Gratis",
+    "description": "Daftar 699 kode pos di Provinsi Sumatera Utara (kode BPS 12). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022). Berisi 699 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos di Sumatera Utara | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos di Sumatera Utara — 699 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 699 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

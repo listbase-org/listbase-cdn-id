@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "Dataset Aturan & Definisi Incoterms 2020",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode (EN)",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "Franco Pabrik (Ex Works)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "Tidak ada (barang tersedia di lokasi penjual)",
+      "buyer_pays": "Semua transportasi, asuransi, bea cukai",
+      "description": "Pembeli mengambil barang dari lokasi penjual"
+    },
+    {
+      "code": "FCA",
+      "name": "Bebas Pengangkut (Free Carrier)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "Pengiriman ke pengangkut, bea cukai ekspor",
+      "buyer_pays": "Angkutan utama, asuransi, bea cukai impor",
+      "description": "Penjual menyerahkan barang ke pengangkut atau tempat yang dinamai"
+    },
+    {
+      "code": "CPT",
+      "name": "Ongkos Angkut Dibayar Hingga (Carriage Paid To)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Ongkos angkut ke tujuan, bea cukai ekspor",
+      "buyer_pays": "Asuransi, bea cukai impor, pembongkaran",
+      "description": "Penjual membayar ongkos angkut, risiko beralih saat penyerahan ke pengangkut"
+    },
+    {
+      "code": "CIP",
+      "name": "Ongkos Angkut dan Asuransi Dibayar Hingga (Carriage and Insurance Paid To)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Ongkos angkut, asuransi ke tujuan, bea cukai ekspor",
+      "buyer_pays": "Bea cukai impor, pembongkaran",
+      "description": "Seperti CPT tetapi penjual juga membayar asuransi"
+    },
+    {
+      "code": "DAP",
+      "name": "Diserahkan di Tempat (Delivered at Place)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Semua transportasi ke tujuan, bea cukai ekspor",
+      "buyer_pays": "Pembongkaran, bea cukai impor",
+      "description": "Penjual menyerahkan barang siap untuk dibongkar"
+    },
+    {
+      "code": "DPU",
+      "name": "Diserahkan di Tempat Dibongkar (Delivered at Place Unloaded)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "Semua transportasi, pembongkaran, bea cukai ekspor",
+      "buyer_pays": "Bea cukai impor",
+      "description": "Penjual membongkar barang di tujuan"
+    },
+    {
+      "code": "DDP",
+      "name": "Diserahkan dengan Bea Dibayar (Delivered Duty Paid)",
+      "category": "Semua Moda Transportasi",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Semuanya termasuk bea masuk",
+      "buyer_pays": "Hanya pembongkaran",
+      "description": "Kewajiban maksimum bagi penjual"
+    },
+    {
+      "code": "FAS",
+      "name": "Bebas di Samping Kapal (Free Alongside Ship)",
+      "category": "Laut/Perairan",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "Transportasi ke pelabuhan, bea cukai ekspor",
+      "buyer_pays": "Pemuatan, pengangkutan, asuransi, bea cukai impor",
+      "description": "Penjual menyerahkan barang di samping kapal"
+    },
+    {
+      "code": "FOB",
+      "name": "Franco di Atas Kapal (Free on Board)",
+      "category": "Laut/Perairan",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "Pemuatan di kapal, bea cukai ekspor",
+      "buyer_pays": "Angkutan, asuransi, bea cukai impor",
+      "description": "Penjual memuat barang ke atas kapal"
+    },
+    {
+      "code": "CFR",
+      "name": "Biaya dan Pengangkutan (Cost and Freight)",
+      "category": "Laut/Perairan",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Pengangkutan ke tujuan, bea cukai ekspor",
+      "buyer_pays": "Asuransi, bea cukai impor, pembongkaran",
+      "description": "Penjual membayar pengangkutan, risiko beralih saat pemuatan"
+    },
+    {
+      "code": "CIF",
+      "name": "Biaya, Asuransi dan Pengangkutan (Cost, Insurance and Freight)",
+      "category": "Laut/Perairan",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Angkutan, asuransi, bea cukai ekspor",
+      "buyer_pays": "Bea cukai impor, pembongkaran",
+      "description": "Seperti CFR tetapi penjual juga membayar asuransi"
+    }
+  ],
+  "meta": {
+    "seo_title": "Aturan Incoterms 2020 - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis aturan Incoterms 2020 untuk perdagangan internasional. Dapatkan 11 ketentuan penting, termasuk transfer risiko dan alokasi biaya. Tersedia Excel, CSV, PDF.",
+    "title": "Dataset Aturan & Definisi Incoterms 2020",
+    "description": "Dataset ini menyediakan daftar singkat 11 aturan Incoterms 2020, merinci tanggung jawab pengiriman, transfer risiko, dan alokasi biaya dalam perdagangan internasional. Ini mencakup semua aspek kunci bagi pembeli dan penjual.",
+    "key_takeaways": [
+      "Akses 11 aturan Incoterms 2020 untuk perdagangan global.",
+      "Jelajahi definisi, moda transportasi, dan titik transfer risiko.",
+      "Pahami tanggung jawab biaya penjual dan pembeli.",
+      "Sederhanakan perjanjian pengiriman internasional."
+    ],
+    "keywords": [
+      "daftar incoterms 2020",
+      "istilah perdagangan internasional",
+      "aturan pengiriman 2020",
+      "unduh incoterms excel",
+      "istilah perdagangan csv",
+      "definisi logistik"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke sistem ERP atau logistik Anda untuk mengotomatiskan pembuatan klausa kontrak dan pemeriksaan kepatuhan untuk pengiriman internasional.",
+      "Gunakan file **Excel** untuk memfilter ketentuan berdasarkan moda transportasi, menganalisis alokasi biaya, dan menyiapkan materi pelatihan untuk tim penjualan atau pengadaan Anda.",
+      "Cetak versi **PDF** untuk panduan referensi cepat secara offline di gudang, ruang kelas, atau selama negosiasi kontrak.",
+      "Manfaatkan data ini untuk tujuan pendidikan guna mengajar siswa tentang manajemen rantai pasokan global dan peraturan perdagangan."
+    ]
+  },
+  "record_count": 11,
+  "title": "Dataset Aturan & Definisi Incoterms 2020"
+}

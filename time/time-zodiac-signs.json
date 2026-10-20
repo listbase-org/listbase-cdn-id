@@ -1,0 +1,284 @@
+{
+  "id": "time-zodiac-signs",
+  "name": "Data Zodiak Barat Komprehensif",
+  "category": "time",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    },
+    {
+      "key": "element",
+      "label": "Element (EN)",
+      "type": "string"
+    },
+    {
+      "key": "modality",
+      "label": "Modality",
+      "type": "string"
+    },
+    {
+      "key": "ruling_planet",
+      "label": "Ruling Planet",
+      "type": "string"
+    },
+    {
+      "key": "date_range",
+      "label": "Date Range",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "traits",
+      "label": "Personality Traits (EN)",
+      "type": "string"
+    },
+    {
+      "key": "compatible_signs",
+      "label": "Compatible Signs",
+      "type": "string"
+    },
+    {
+      "key": "lucky_numbers",
+      "label": "Lucky Numbers",
+      "type": "string"
+    },
+    {
+      "key": "lucky_colors",
+      "label": "Lucky Colors",
+      "type": "string"
+    },
+    {
+      "key": "body_part",
+      "label": "Body Part (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aries",
+      "symbol": "♈",
+      "unicode": "U+2648",
+      "element": "Api",
+      "modality": "Cardinal",
+      "ruling_planet": "Mars",
+      "date_range": "Mar 21 - Apr 19",
+      "order": 1,
+      "traits": "Berani, gigih, percaya diri, antusias",
+      "compatible_signs": "Leo, Sagittarius, Gemini, Aquarius",
+      "lucky_numbers": "1, 8, 17",
+      "lucky_colors": "Red",
+      "body_part": "Kepala"
+    },
+    {
+      "name": "Taurus",
+      "symbol": "♉",
+      "unicode": "U+2649",
+      "element": "Tanah",
+      "modality": "Fixed",
+      "ruling_planet": "Venus",
+      "date_range": "Apr 20 - May 20",
+      "order": 2,
+      "traits": "Andal, sabar, praktis, setia",
+      "compatible_signs": "Virgo, Capricorn, Cancer, Pisces",
+      "lucky_numbers": "2, 6, 9, 12, 24",
+      "lucky_colors": "Green, Pink",
+      "body_part": "Tenggorokan, Leher"
+    },
+    {
+      "name": "Gemini",
+      "symbol": "♊",
+      "unicode": "U+264A",
+      "element": "Udara",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "May 21 - Jun 20",
+      "order": 3,
+      "traits": "Lembut, penuh kasih sayang, ingin tahu, mudah beradaptasi",
+      "compatible_signs": "Libra, Aquarius, Aries, Leo",
+      "lucky_numbers": "5, 7, 14, 23",
+      "lucky_colors": "Yellow",
+      "body_part": "Lengan, Tangan, Paru-paru"
+    },
+    {
+      "name": "Cancer",
+      "symbol": "♋",
+      "unicode": "U+264B",
+      "element": "Air",
+      "modality": "Cardinal",
+      "ruling_planet": "Moon",
+      "date_range": "Jun 21 - Jul 22",
+      "order": 4,
+      "traits": "Ulet, sangat imajinatif, setia, emosional",
+      "compatible_signs": "Scorpio, Pisces, Taurus, Virgo",
+      "lucky_numbers": "2, 3, 15, 20",
+      "lucky_colors": "White, Silver",
+      "body_part": "Dada, Perut"
+    },
+    {
+      "name": "Leo",
+      "symbol": "♌",
+      "unicode": "U+264C",
+      "element": "Api",
+      "modality": "Fixed",
+      "ruling_planet": "Sun",
+      "date_range": "Jul 23 - Aug 22",
+      "order": 5,
+      "traits": "Kreatif, bersemangat, murah hati, berhati hangat",
+      "compatible_signs": "Aries, Sagittarius, Gemini, Libra",
+      "lucky_numbers": "1, 3, 10, 19",
+      "lucky_colors": "Gold, Orange",
+      "body_part": "Jantung, Tulang Belakang"
+    },
+    {
+      "name": "Virgo",
+      "symbol": "♍",
+      "unicode": "U+264D",
+      "element": "Tanah",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "Aug 23 - Sep 22",
+      "order": 6,
+      "traits": "Setia, analitis, baik hati, pekerja keras",
+      "compatible_signs": "Taurus, Capricorn, Cancer, Scorpio",
+      "lucky_numbers": "5, 14, 15, 23, 32",
+      "lucky_colors": "Grey, Beige, Pale Yellow",
+      "body_part": "Sistem Pencernaan"
+    },
+    {
+      "name": "Libra",
+      "symbol": "♎",
+      "unicode": "U+264E",
+      "element": "Udara",
+      "modality": "Cardinal",
+      "ruling_planet": "Venus",
+      "date_range": "Sep 23 - Oct 22",
+      "order": 7,
+      "traits": "Kooperatif, diplomatik, anggun, berpikiran adil",
+      "compatible_signs": "Gemini, Aquarius, Leo, Sagittarius",
+      "lucky_numbers": "4, 6, 13, 15, 24",
+      "lucky_colors": "Pink, Blue",
+      "body_part": "Ginjal, Punggung Bawah"
+    },
+    {
+      "name": "Scorpio",
+      "symbol": "♏",
+      "unicode": "U+264F",
+      "element": "Air",
+      "modality": "Fixed",
+      "ruling_planet": "Pluto, Mars",
+      "date_range": "Oct 23 - Nov 21",
+      "order": 8,
+      "traits": "Banyak akal, berani, bersemangat, keras kepala",
+      "compatible_signs": "Cancer, Pisces, Virgo, Capricorn",
+      "lucky_numbers": "8, 11, 18, 22",
+      "lucky_colors": "Scarlet, Red, Rust",
+      "body_part": "Sistem Reproduksi"
+    },
+    {
+      "name": "Sagitarius",
+      "symbol": "♐",
+      "unicode": "U+2650",
+      "element": "Api",
+      "modality": "Mutable",
+      "ruling_planet": "Jupiter",
+      "date_range": "Nov 22 - Dec 21",
+      "order": 9,
+      "traits": "Murah hati, idealis, selera humor yang tinggi",
+      "compatible_signs": "Aries, Leo, Libra, Aquarius",
+      "lucky_numbers": "3, 7, 9, 12, 21",
+      "lucky_colors": "Blue, Purple",
+      "body_part": "Pinggul, Paha"
+    },
+    {
+      "name": "Capricorn",
+      "symbol": "♑",
+      "unicode": "U+2651",
+      "element": "Tanah",
+      "modality": "Cardinal",
+      "ruling_planet": "Saturn",
+      "date_range": "Dec 22 - Jan 19",
+      "order": 10,
+      "traits": "Bertanggung jawab, disiplin, pengendalian diri",
+      "compatible_signs": "Taurus, Virgo, Scorpio, Pisces",
+      "lucky_numbers": "4, 8, 13, 22",
+      "lucky_colors": "Brown, Black, Dark Green",
+      "body_part": "Lutut, Tulang, Kulit"
+    },
+    {
+      "name": "Aquarius",
+      "symbol": "♒",
+      "unicode": "U+2652",
+      "element": "Udara",
+      "modality": "Fixed",
+      "ruling_planet": "Uranus, Saturn",
+      "date_range": "Jan 20 - Feb 18",
+      "order": 11,
+      "traits": "Progresif, orisinal, mandiri, kemanusiaan",
+      "compatible_signs": "Gemini, Libra, Aries, Sagittarius",
+      "lucky_numbers": "4, 7, 11, 22, 29",
+      "lucky_colors": "Blue, Silver",
+      "body_part": "Pergelangan Kaki, Sistem Peredaran Darah"
+    },
+    {
+      "name": "Pisces",
+      "symbol": "♓",
+      "unicode": "U+2653",
+      "element": "Air",
+      "modality": "Mutable",
+      "ruling_planet": "Neptune, Jupiter",
+      "date_range": "Feb 19 - Mar 20",
+      "order": 12,
+      "traits": "Penuh kasih sayang, artistik, intuitif, lembut",
+      "compatible_signs": "Cancer, Scorpio, Taurus, Capricorn",
+      "lucky_numbers": "3, 9, 12, 15, 18, 24",
+      "lucky_colors": "Purple, Violet, Sea Green",
+      "body_part": "Kaki, Sistem Limfatik"
+    }
+  ],
+  "meta": {
+    "seo_title": "Data Zodiak Barat - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis dataset Zodiak Barat dengan 12 catatan. Termasuk sifat, elemen, planet. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Data Zodiak Barat Komprehensif",
+    "description": "Dataset ini menawarkan detail komprehensif tentang semua 12 Zodiak Barat, termasuk nama, simbol, elemen, modalitas, planet penguasa, dan sifat kepribadian utama. Ini adalah sumber daya yang tak ternilai bagi penggemar astrologi, pengembang, dan analis data.",
+    "key_takeaways": [
+      "Akses informasi terperinci untuk semua 12 Zodiak Barat secara instan.",
+      "Jelajahi elemen, modalitas, planet penguasa, dan tanda yang cocok untuk setiap zodiak.",
+      "Unduh sifat kepribadian, angka keberuntungan, dan warna keberuntungan yang komprehensif untuk setiap zodiak.",
+      "Gunakan simbol Unicode untuk tanda zodiak dalam aplikasi digital."
+    ],
+    "keywords": [
+      "data zodiak barat",
+      "dataset tanda astrologi",
+      "sifat kepribadian zodiak excel",
+      "unduh data zodiak gratis",
+      "daftar tanda zodiak csv",
+      "tanda langit pdf"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database Anda atau gunakan dengan skrip Python untuk membangun aplikasi atau situs web bertema astrologi.",
+      "Analisis tren zodiak dan buat laporan kustom menggunakan fitur penyaringan dan Pivot Table **Excel** untuk studi astrologi.",
+      "Cetak versi **PDF** untuk panduan referensi cepat dalam pengaturan pendidikan, presentasi, atau studi astrologi pribadi.",
+      "Integrasikan data terstruktur ini ke dalam materi pendidikan, aplikasi seluler, atau proyek penelitian astrologi untuk wawasan yang lebih dalam."
+    ]
+  },
+  "record_count": 12,
+  "title": "Data Zodiak Barat Komprehensif"
+}

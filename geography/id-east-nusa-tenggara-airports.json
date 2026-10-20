@@ -1,0 +1,339 @@
+{
+  "id": "id-east-nusa-tenggara-airports",
+  "name": "Bandar Udara — East Nusa Tenggara",
+  "title": "Bandar Udara — East Nusa Tenggara",
+  "description": "Bandar udara di Provinsi East Nusa Tenggara, Indonesia (Airports in East Nusa Tenggara Province, Indonesia — 14 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WATM",
+      "iata": "ARD",
+      "name_en": "Alor Island Airport",
+      "name_slug": "alor-island-airport",
+      "city_en": "Sifala",
+      "city_slug": "sifala",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -8.683333,
+      "lon": 124.53333,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATB",
+      "iata": "BJW",
+      "name_en": "Bajawa Soa Airport",
+      "name_slug": "bajawa-soa-airport",
+      "city_en": "Naru",
+      "city_slug": "naru",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 4209,
+      "lat": -8.766667,
+      "lon": 120.98333,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATT",
+      "iata": "KOE",
+      "name_en": "El Tari Airport",
+      "name_slug": "el-tari-airport",
+      "city_en": "Penfui",
+      "city_slug": "penfui",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 335,
+      "lat": -10.1714871,
+      "lon": 123.6665132,
+      "timezone": "Asia/Dili",
+      "has_iata": true
+    },
+    {
+      "icao": "WATL",
+      "iata": "LKA",
+      "name_en": "Gewayenta Airport",
+      "name_slug": "gewayenta-airport",
+      "city_en": "Balela",
+      "city_slug": "balela",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 63,
+      "lat": -8.35,
+      "lon": 122.98333,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATE",
+      "iata": "ENE",
+      "name_en": "H. Hasan Aroeboesman Airport",
+      "name_slug": "h-hasan-aroeboesman-airport",
+      "city_en": "Onekore",
+      "city_slug": "onekore",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 13,
+      "lat": -8.8489196,
+      "lon": 121.6617987,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATA",
+      "iata": "ABU",
+      "name_en": "Haliwen Airport",
+      "name_slug": "haliwen-airport",
+      "city_en": "Atambua",
+      "city_slug": "atambua",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1250,
+      "lat": -9.133333,
+      "lon": 124.88333,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATO",
+      "iata": "LBJ",
+      "name_en": "Komodo Airport",
+      "name_slug": "komodo-airport",
+      "city_en": "Labuhanbajo",
+      "city_slug": "labuhanbajo",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 66,
+      "lat": -8.4825947,
+      "lon": 119.8884117,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATW",
+      "iata": "LWE",
+      "name_en": "Lewoleba",
+      "name_slug": "lewoleba",
+      "city_en": "Boto",
+      "city_slug": "boto",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1358,
+      "lat": -8.5,
+      "lon": 123.36667,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATR",
+      "iata": "RTI",
+      "name_en": "Roti",
+      "name_slug": "roti",
+      "city_en": "Batutua Satu",
+      "city_slug": "batutua-satu",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -10.883333,
+      "lon": 122.96667,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATG",
+      "iata": "RTG",
+      "name_en": "Ruteng",
+      "name_slug": "ruteng",
+      "city_en": "Ruteng",
+      "city_slug": "ruteng",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 3733,
+      "lat": -8.5966455,
+      "lon": 120.4788905,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATS",
+      "iata": "SAU",
+      "name_en": "Sawu",
+      "name_slug": "sawu",
+      "city_en": "Nahura",
+      "city_slug": "nahura",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 357,
+      "lat": -10.483333,
+      "lon": 121.9,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATK",
+      "iata": "TMC",
+      "name_en": "Tambolaka Airport",
+      "name_slug": "tambolaka-airport",
+      "city_en": "Maredakamau",
+      "city_slug": "maredakamau",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 161,
+      "lat": -9.340278,
+      "lon": 119.18306,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATC",
+      "iata": "MOF",
+      "name_en": "Wai Oti Airport",
+      "name_slug": "wai-oti-airport",
+      "city_en": "Waioti",
+      "city_slug": "waioti",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 98,
+      "lat": -8.6410507,
+      "lon": 122.23625,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WATU",
+      "iata": "WGP",
+      "name_en": "Waingapu Airport",
+      "name_slug": "waingapu-airport",
+      "city_en": "Mangga Dua",
+      "city_slug": "mangga-dua",
+      "province_en": "East Nusa Tenggara",
+      "province_slug": "east-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 55,
+      "lat": -9.666667,
+      "lon": 120.3,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — East Nusa Tenggara - Unduh Gratis",
+    "description": "Bandar udara di Provinsi East Nusa Tenggara, Indonesia (Airports in East Nusa Tenggara Province, Indonesia — 14 record(s).) Berisi 14 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — East Nusa Tenggara | ListBase",
+    "seo_description": "Unduh Bandar Udara — East Nusa Tenggara — 14 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 14 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

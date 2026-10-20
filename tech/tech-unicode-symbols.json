@@ -1,0 +1,554 @@
+{
+  "id": "tech-unicode-symbols",
+  "name": "Dataset Simbol Unicode & Entitas HTML Umum",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "html_entity",
+      "label": "HTML Entity",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "←",
+      "code_point": "U+2190",
+      "html_entity": "&larr;",
+      "name": "Panah Kiri",
+      "category": "Panah"
+    },
+    {
+      "symbol": "→",
+      "code_point": "U+2192",
+      "html_entity": "&rarr;",
+      "name": "Panah Kanan",
+      "category": "Panah"
+    },
+    {
+      "symbol": "↑",
+      "code_point": "U+2191",
+      "html_entity": "&uarr;",
+      "name": "Panah Atas",
+      "category": "Panah"
+    },
+    {
+      "symbol": "↓",
+      "code_point": "U+2193",
+      "html_entity": "&darr;",
+      "name": "Panah Bawah",
+      "category": "Panah"
+    },
+    {
+      "symbol": "↔",
+      "code_point": "U+2194",
+      "html_entity": "&harr;",
+      "name": "Panah Kiri Kanan",
+      "category": "Panah"
+    },
+    {
+      "symbol": "↕",
+      "code_point": "U+2195",
+      "html_entity": "&varr;",
+      "name": "Panah Atas Bawah",
+      "category": "Panah"
+    },
+    {
+      "symbol": "⇐",
+      "code_point": "U+21D0",
+      "html_entity": "&lArr;",
+      "name": "Panah Ganda Kiri",
+      "category": "Panah"
+    },
+    {
+      "symbol": "⇒",
+      "code_point": "U+21D2",
+      "html_entity": "&rArr;",
+      "name": "Panah Ganda Kanan",
+      "category": "Panah"
+    },
+    {
+      "symbol": "⇑",
+      "code_point": "U+21D1",
+      "html_entity": "&uArr;",
+      "name": "Panah Ganda Atas",
+      "category": "Panah"
+    },
+    {
+      "symbol": "⇓",
+      "code_point": "U+21D3",
+      "html_entity": "&dArr;",
+      "name": "Panah Ganda Bawah",
+      "category": "Panah"
+    },
+    {
+      "symbol": "±",
+      "code_point": "U+00B1",
+      "html_entity": "&plusmn;",
+      "name": "Tanda Plus-Minus",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "×",
+      "code_point": "U+00D7",
+      "html_entity": "&times;",
+      "name": "Tanda Perkalian",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "÷",
+      "code_point": "U+00F7",
+      "html_entity": "&divide;",
+      "name": "Tanda Pembagian",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "≠",
+      "code_point": "U+2260",
+      "html_entity": "&ne;",
+      "name": "Tidak Sama Dengan",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "≈",
+      "code_point": "U+2248",
+      "html_entity": "&asymp;",
+      "name": "Hampir Sama Dengan",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "≤",
+      "code_point": "U+2264",
+      "html_entity": "&le;",
+      "name": "Kurang Dari atau Sama Dengan",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "≥",
+      "code_point": "U+2265",
+      "html_entity": "&ge;",
+      "name": "Lebih Dari atau Sama Dengan",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "∞",
+      "code_point": "U+221E",
+      "html_entity": "&infin;",
+      "name": "Tak Terhingga",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "√",
+      "code_point": "U+221A",
+      "html_entity": "&radic;",
+      "name": "Akar Kuadrat",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "∑",
+      "code_point": "U+2211",
+      "html_entity": "&sum;",
+      "name": "Penjumlahan N-Ary",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "∏",
+      "code_point": "U+220F",
+      "html_entity": "&prod;",
+      "name": "Produk N-ary",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "∫",
+      "code_point": "U+222B",
+      "html_entity": "&int;",
+      "name": "Integral",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "∂",
+      "code_point": "U+2202",
+      "html_entity": "&part;",
+      "name": "Diferensial Parsial",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "∇",
+      "code_point": "U+2207",
+      "html_entity": "&nabla;",
+      "name": "Nabla",
+      "category": "Operator Matematika"
+    },
+    {
+      "symbol": "α",
+      "code_point": "U+03B1",
+      "html_entity": "&alpha;",
+      "name": "Huruf Yunani Kecil Alpha",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "β",
+      "code_point": "U+03B2",
+      "html_entity": "&beta;",
+      "name": "Huruf Yunani Kecil Beta",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "γ",
+      "code_point": "U+03B3",
+      "html_entity": "&gamma;",
+      "name": "Huruf Yunani Kecil Gamma",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "δ",
+      "code_point": "U+03B4",
+      "html_entity": "&delta;",
+      "name": "Huruf Yunani Kecil Delta",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "π",
+      "code_point": "U+03C0",
+      "html_entity": "&pi;",
+      "name": "Huruf Yunani Kecil Pi",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "σ",
+      "code_point": "U+03C3",
+      "html_entity": "&sigma;",
+      "name": "Huruf Yunani Kecil Sigma",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "θ",
+      "code_point": "U+03B8",
+      "html_entity": "&theta;",
+      "name": "Huruf Yunani Kecil Theta",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "λ",
+      "code_point": "U+03BB",
+      "html_entity": "&lambda;",
+      "name": "Huruf Yunani Kecil Lambda",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "μ",
+      "code_point": "U+03BC",
+      "html_entity": "&mu;",
+      "name": "Huruf Yunani Kecil Mu",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "Ω",
+      "code_point": "U+03A9",
+      "html_entity": "&Omega;",
+      "name": "Huruf Yunani Kapital Omega",
+      "category": "Huruf Yunani"
+    },
+    {
+      "symbol": "$",
+      "code_point": "U+0024",
+      "html_entity": "&dollar;",
+      "name": "Tanda Dolar",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "€",
+      "code_point": "U+20AC",
+      "html_entity": "&euro;",
+      "name": "Tanda Euro",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "£",
+      "code_point": "U+00A3",
+      "html_entity": "&pound;",
+      "name": "Tanda Pound",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "¥",
+      "code_point": "U+00A5",
+      "html_entity": "&yen;",
+      "name": "Tanda Yen",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "₩",
+      "code_point": "U+20A9",
+      "html_entity": "&#8361;",
+      "name": "Tanda Won",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "₹",
+      "code_point": "U+20B9",
+      "html_entity": "&#8377;",
+      "name": "Tanda Rupee India",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "฿",
+      "code_point": "U+0E3F",
+      "html_entity": "&#3647;",
+      "name": "Tanda Baht Thailand",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "₿",
+      "code_point": "U+20BF",
+      "html_entity": "&#8383;",
+      "name": "Tanda Bitcoin",
+      "category": "Mata Uang"
+    },
+    {
+      "symbol": "©",
+      "code_point": "U+00A9",
+      "html_entity": "&copy;",
+      "name": "Tanda Hak Cipta",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "®",
+      "code_point": "U+00AE",
+      "html_entity": "&reg;",
+      "name": "Tanda Terdaftar",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "™",
+      "code_point": "U+2122",
+      "html_entity": "&trade;",
+      "name": "Tanda Merek Dagang",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "°",
+      "code_point": "U+00B0",
+      "html_entity": "&deg;",
+      "name": "Tanda Derajat",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "•",
+      "code_point": "U+2022",
+      "html_entity": "&bull;",
+      "name": "Poin",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "…",
+      "code_point": "U+2026",
+      "html_entity": "&hellip;",
+      "name": "Elipsis Horizontal",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "†",
+      "code_point": "U+2020",
+      "html_entity": "&dagger;",
+      "name": "Tanda Dagger",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "‡",
+      "code_point": "U+2021",
+      "html_entity": "&Dagger;",
+      "name": "Tanda Dagger Ganda",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "§",
+      "code_point": "U+00A7",
+      "html_entity": "&sect;",
+      "name": "Tanda Bagian",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "¶",
+      "code_point": "U+00B6",
+      "html_entity": "&para;",
+      "name": "Tanda Paragraf",
+      "category": "Tipografi"
+    },
+    {
+      "symbol": "✓",
+      "code_point": "U+2713",
+      "html_entity": "&#10003;",
+      "name": "Tanda Centang",
+      "category": "Status"
+    },
+    {
+      "symbol": "✗",
+      "code_point": "U+2717",
+      "html_entity": "&#10007;",
+      "name": "Tanda X Pemungutan Suara",
+      "category": "Status"
+    },
+    {
+      "symbol": "✔",
+      "code_point": "U+2714",
+      "html_entity": "&#10004;",
+      "name": "Tanda Centang Tebal",
+      "category": "Status"
+    },
+    {
+      "symbol": "✘",
+      "code_point": "U+2718",
+      "html_entity": "&#10008;",
+      "name": "Tanda X Pemungutan Suara Tebal",
+      "category": "Status"
+    },
+    {
+      "symbol": "★",
+      "code_point": "U+2605",
+      "html_entity": "&#9733;",
+      "name": "Bintang Hitam",
+      "category": "Status"
+    },
+    {
+      "symbol": "☆",
+      "code_point": "U+2606",
+      "html_entity": "&#9734;",
+      "name": "Bintang Putih",
+      "category": "Status"
+    },
+    {
+      "symbol": "♥",
+      "code_point": "U+2665",
+      "html_entity": "&hearts;",
+      "name": "Simbol Hati Hitam",
+      "category": "Status"
+    },
+    {
+      "symbol": "♦",
+      "code_point": "U+2666",
+      "html_entity": "&diams;",
+      "name": "Simbol Wajik Hitam",
+      "category": "Status"
+    },
+    {
+      "symbol": "♣",
+      "code_point": "U+2663",
+      "html_entity": "&clubs;",
+      "name": "Simbol Kriting Hitam",
+      "category": "Status"
+    },
+    {
+      "symbol": "♠",
+      "code_point": "U+2660",
+      "html_entity": "&spades;",
+      "name": "Simbol Sekop Hitam",
+      "category": "Status"
+    },
+    {
+      "symbol": "½",
+      "code_point": "U+00BD",
+      "html_entity": "&frac12;",
+      "name": "Pecahan Biasa Satu Per Dua",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "⅓",
+      "code_point": "U+2153",
+      "html_entity": "&#8531;",
+      "name": "Pecahan Biasa Satu Per Tiga",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "¼",
+      "code_point": "U+00BC",
+      "html_entity": "&frac14;",
+      "name": "Pecahan Biasa Satu Per Empat",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "¾",
+      "code_point": "U+00BE",
+      "html_entity": "&frac34;",
+      "name": "Pecahan Biasa Tiga Per Empat",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "⅛",
+      "code_point": "U+215B",
+      "html_entity": "&#8539;",
+      "name": "Pecahan Biasa Satu Per Delapan",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "²",
+      "code_point": "U+00B2",
+      "html_entity": "&sup2;",
+      "name": "Superscript Dua",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "³",
+      "code_point": "U+00B3",
+      "html_entity": "&sup3;",
+      "name": "Superscript Tiga",
+      "category": "Pecahan"
+    },
+    {
+      "symbol": "¹",
+      "code_point": "U+00B9",
+      "html_entity": "&sup1;",
+      "name": "Superscript Satu",
+      "category": "Pecahan"
+    }
+  ],
+  "meta": {
+    "seo_title": "Simbol Unicode Umum - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 70 simbol Unicode umum dengan titik kode, entitas HTML, dan kategori. Tersedia dalam format Excel, CSV, dan PDF untuk berbagai keperluan.",
+    "title": "Dataset Simbol Unicode & Entitas HTML Umum",
+    "description": "Dataset ini menyediakan daftar 70 simbol Unicode umum, lengkap dengan titik kode, entitas HTML, nama, dan kategorinya untuk referensi mudah.",
+    "key_takeaways": [
+      "Akses 70 simbol Unicode esensial, titik kodenya, dan entitas HTML.",
+      "Jelajahi berbagai kategori simbol seperti Panah, Operator Matematika, dan lainnya.",
+      "Unduh data siap pakai untuk pengembangan web, pemrosesan teks, dan proyek desain.",
+      "Manfaatkan simbol untuk meningkatkan konten digital dan internasionalisasi."
+    ],
+    "keywords": [
+      "simbol unicode daftar",
+      "html entitas csv",
+      "titik kode excel",
+      "karakter khusus unduh",
+      "simbol teks pdf",
+      "unicode umum"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke aplikasi web atau database Anda untuk menampilkan simbol secara dinamis berdasarkan masukan pengguna atau kategori.",
+      "Gunakan file **Excel** untuk memfilter dan menemukan simbol atau entitas HTML spesifik dengan cepat untuk proyek pembuatan konten atau desain Anda.",
+      "Cetak versi **PDF** untuk panduan referensi offline yang praktis tentang simbol Unicode umum dan detail terkaitnya.",
+      "Referensi dataset untuk memastikan tampilan karakter khusus yang tepat di berbagai platform dan audiens internasional."
+    ]
+  },
+  "record_count": 70,
+  "title": "Dataset Simbol Unicode & Entitas HTML Umum"
+}

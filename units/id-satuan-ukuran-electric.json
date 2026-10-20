@@ -1,0 +1,133 @@
+{
+  "id": "id-satuan-ukuran-electric",
+  "name": "Satuan ukuran — kategori 'electric' (8)",
+  "title": "Satuan ukuran — kategori 'electric' (8)",
+  "description": "Satuan ukuran kategori 'electric' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategori": "electric",
+      "nama": "ampere",
+      "singkatan": "amp",
+      "bentuk_sempit": "amp",
+      "pola": "{0} ampere"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategori": "electric",
+      "nama": "coulomb",
+      "singkatan": "C",
+      "bentuk_sempit": "C",
+      "pola": "{0} coulomb"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategori": "electric",
+      "nama": "farad",
+      "singkatan": "F",
+      "bentuk_sempit": "F",
+      "pola": "{0} farad"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategori": "electric",
+      "nama": "henry",
+      "singkatan": "H",
+      "bentuk_sempit": "H",
+      "pola": "{0} henry"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategori": "electric",
+      "nama": "miliampere",
+      "singkatan": "miliamp",
+      "bentuk_sempit": "mA",
+      "pola": "{0} miliampere"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategori": "electric",
+      "nama": "ohm",
+      "singkatan": "ohm",
+      "bentuk_sempit": "ohm",
+      "pola": "{0} ohm"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategori": "electric",
+      "nama": "siemen",
+      "singkatan": "S",
+      "bentuk_sempit": "S",
+      "pola": "{0} siemen"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategori": "electric",
+      "nama": "volt",
+      "singkatan": "volt",
+      "bentuk_sempit": "volt",
+      "pola": "{0} volt"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'electric' (8) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'electric' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'electric' (8) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'electric' (8) — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

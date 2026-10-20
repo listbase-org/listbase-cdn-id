@@ -1,0 +1,532 @@
+{
+  "id": "id-jawa-timur-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Jawa Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Jawa Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "38 kabupaten/kota di Provinsi Jawa Timur dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "35.01",
+      "name": "Kabupaten Pacitan",
+      "type": "kabupaten",
+      "capital": "Pacitan",
+      "latitude": -8.194485,
+      "longitude": 111.103165,
+      "elevation_m": 10,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1434.818,
+      "population": 588718
+    },
+    {
+      "code": "35.02",
+      "name": "Kabupaten Ponorogo",
+      "type": "kabupaten",
+      "capital": "Ponorogo",
+      "latitude": -7.870874,
+      "longitude": 111.462549,
+      "elevation_m": 101,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1418.618,
+      "population": 979008
+    },
+    {
+      "code": "35.03",
+      "name": "Kabupaten Trenggalek",
+      "type": "kabupaten",
+      "capital": "Trenggalek",
+      "latitude": -8.04791,
+      "longitude": 111.709151,
+      "elevation_m": 116,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1249.367,
+      "population": 753810
+    },
+    {
+      "code": "35.04",
+      "name": "Kabupaten Tulungagung",
+      "type": "kabupaten",
+      "capital": "Tulungagung",
+      "latitude": -8.064365,
+      "longitude": 111.90068,
+      "elevation_m": 90,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1144.856,
+      "population": 1139224
+    },
+    {
+      "code": "35.05",
+      "name": "Kabupaten Blitar",
+      "type": "kabupaten",
+      "capital": "Kanigoro",
+      "latitude": -8.123931,
+      "longitude": 112.213074,
+      "elevation_m": 180,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1745.383,
+      "population": 1261699
+    },
+    {
+      "code": "35.06",
+      "name": "Kabupaten Kediri",
+      "type": "kabupaten",
+      "capital": "Ngasem",
+      "latitude": -7.802165,
+      "longitude": 112.041114,
+      "elevation_m": 72,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1523.563,
+      "population": 1691976
+    },
+    {
+      "code": "35.07",
+      "name": "Kabupaten Malang",
+      "type": "kabupaten",
+      "capital": "Kepanjen",
+      "latitude": -8.105459,
+      "longitude": 112.573291,
+      "elevation_m": 359,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3473.747,
+      "population": 2734623
+    },
+    {
+      "code": "35.08",
+      "name": "Kabupaten Lumajang",
+      "type": "kabupaten",
+      "capital": "Lumajang",
+      "latitude": -8.135206,
+      "longitude": 113.224395,
+      "elevation_m": 57,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1796.489,
+      "population": 1116231
+    },
+    {
+      "code": "35.09",
+      "name": "Kabupaten Jember",
+      "type": "kabupaten",
+      "capital": "Jember",
+      "latitude": -8.169671,
+      "longitude": 113.702151,
+      "elevation_m": 92,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3314.358,
+      "population": 2615874
+    },
+    {
+      "code": "35.10",
+      "name": "Kabupaten Banyuwangi",
+      "type": "kabupaten",
+      "capital": "Banyuwangi",
+      "latitude": -8.223037,
+      "longitude": 114.366435,
+      "elevation_m": 20,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3593.849,
+      "population": 1791789
+    },
+    {
+      "code": "35.11",
+      "name": "Kabupaten Bondowoso",
+      "type": "kabupaten",
+      "capital": "Bondowoso",
+      "latitude": -7.914445,
+      "longitude": 113.821851,
+      "elevation_m": 260,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1554.992,
+      "population": 788007
+    },
+    {
+      "code": "35.12",
+      "name": "Kabupaten Situbondo",
+      "type": "kabupaten",
+      "capital": "Situbondo",
+      "latitude": -7.707341,
+      "longitude": 114.001775,
+      "elevation_m": 31,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1654.705,
+      "population": 691635
+    },
+    {
+      "code": "35.13",
+      "name": "Kabupaten Probolinggo",
+      "type": "kabupaten",
+      "capital": "Kraksaan",
+      "latitude": -7.761819,
+      "longitude": 113.415973,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1725.171,
+      "population": 1200931
+    },
+    {
+      "code": "35.14",
+      "name": "Kabupaten Pasuruan",
+      "type": "kabupaten",
+      "capital": "Bangil",
+      "latitude": -7.649012,
+      "longitude": 112.905159,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1493.161,
+      "population": 1665922
+    },
+    {
+      "code": "35.15",
+      "name": "Kabupaten Sidoarjo",
+      "type": "kabupaten",
+      "capital": "Sidoarjo",
+      "latitude": -7.447173,
+      "longitude": 112.718078,
+      "elevation_m": 5,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 724.766,
+      "population": 2027874
+    },
+    {
+      "code": "35.16",
+      "name": "Kabupaten Mojokerto",
+      "type": "kabupaten",
+      "capital": "Mojosari",
+      "latitude": -7.462844,
+      "longitude": 112.43342,
+      "elevation_m": 25,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 984.38,
+      "population": 1156144
+    },
+    {
+      "code": "35.17",
+      "name": "Kabupaten Jombang",
+      "type": "kabupaten",
+      "capital": "Jombang",
+      "latitude": -7.556402,
+      "longitude": 112.23461,
+      "elevation_m": 47,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1109.835,
+      "population": 1378005
+    },
+    {
+      "code": "35.18",
+      "name": "Kabupaten Nganjuk",
+      "type": "kabupaten",
+      "capital": "Nganjuk",
+      "latitude": -7.601983,
+      "longitude": 111.901895,
+      "elevation_m": 60,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1289.067,
+      "population": 1152575
+    },
+    {
+      "code": "35.19",
+      "name": "Kabupaten Madiun",
+      "type": "kabupaten",
+      "capital": "Caruban",
+      "latitude": -7.538541,
+      "longitude": 111.653483,
+      "elevation_m": 75,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1113.627,
+      "population": 737875
+    },
+    {
+      "code": "35.20",
+      "name": "Kabupaten Magetan",
+      "type": "kabupaten",
+      "capital": "Magetan",
+      "latitude": -7.656157,
+      "longitude": 111.329269,
+      "elevation_m": 362,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 706.444,
+      "population": 692800
+    },
+    {
+      "code": "35.21",
+      "name": "Kabupaten Ngawi",
+      "type": "kabupaten",
+      "capital": "Ngawi",
+      "latitude": -7.401286,
+      "longitude": 111.445443,
+      "elevation_m": 57,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1395.804,
+      "population": 907002
+    },
+    {
+      "code": "35.22",
+      "name": "Kabupaten Bojonegoro",
+      "type": "kabupaten",
+      "capital": "Bojonegoro",
+      "latitude": -7.149935,
+      "longitude": 111.881543,
+      "elevation_m": 24,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2312.627,
+      "population": 1366227
+    },
+    {
+      "code": "35.23",
+      "name": "Kabupaten Tuban",
+      "type": "kabupaten",
+      "capital": "Tuban",
+      "latitude": -6.896104,
+      "longitude": 112.065063,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1973.515,
+      "population": 1266396
+    },
+    {
+      "code": "35.24",
+      "name": "Kabupaten Lamongan",
+      "type": "kabupaten",
+      "capital": "Lamongan",
+      "latitude": -7.121035,
+      "longitude": 112.415434,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1752.989,
+      "population": 1367503
+    },
+    {
+      "code": "35.25",
+      "name": "Kabupaten Gresik",
+      "type": "kabupaten",
+      "capital": "Gresik",
+      "latitude": -7.170588,
+      "longitude": 112.599676,
+      "elevation_m": 13,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1264.009,
+      "population": 1327497
+    },
+    {
+      "code": "35.26",
+      "name": "Kabupaten Bangkalan",
+      "type": "kabupaten",
+      "capital": "Bangkalan",
+      "latitude": -7.046392,
+      "longitude": 112.737067,
+      "elevation_m": 3,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1302.64,
+      "population": 1042031
+    },
+    {
+      "code": "35.27",
+      "name": "Kabupaten Sampang",
+      "type": "kabupaten",
+      "capital": "Sampang",
+      "latitude": -7.187535,
+      "longitude": 113.23734,
+      "elevation_m": 4,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1229.165,
+      "population": 1033926
+    },
+    {
+      "code": "35.28",
+      "name": "Kabupaten Pamekasan",
+      "type": "kabupaten",
+      "capital": "Pamekasan",
+      "latitude": -7.156884,
+      "longitude": 113.471883,
+      "elevation_m": 17,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 796.241,
+      "population": 904965
+    },
+    {
+      "code": "35.29",
+      "name": "Kabupaten Sumenep",
+      "type": "kabupaten",
+      "capital": "Sumenep",
+      "latitude": -7.014033,
+      "longitude": 113.863526,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2083.048,
+      "population": 1143002
+    },
+    {
+      "code": "35.71",
+      "name": "Kota Kediri",
+      "type": "kota",
+      "capital": "Kediri",
+      "latitude": -7.812194,
+      "longitude": 112.014284,
+      "elevation_m": 71,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 67.232,
+      "population": 301424
+    },
+    {
+      "code": "35.72",
+      "name": "Kota Blitar",
+      "type": "kota",
+      "capital": "Blitar",
+      "latitude": -8.099174,
+      "longitude": 112.164554,
+      "elevation_m": 176,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 33.203,
+      "population": 161204
+    },
+    {
+      "code": "35.73",
+      "name": "Kota Malang",
+      "type": "kota",
+      "capital": "Malang",
+      "latitude": -7.977788,
+      "longitude": 112.633836,
+      "elevation_m": 451,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 111.077,
+      "population": 889359
+    },
+    {
+      "code": "35.74",
+      "name": "Kota Probolinggo",
+      "type": "kota",
+      "capital": "Probolinggo",
+      "latitude": -7.753678,
+      "longitude": 113.21424,
+      "elevation_m": 15,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 55.197,
+      "population": 243746
+    },
+    {
+      "code": "35.75",
+      "name": "Kota Pasuruan",
+      "type": "kota",
+      "capital": "Pasuruan",
+      "latitude": -7.647371,
+      "longitude": 112.90855,
+      "elevation_m": 11,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 39.109,
+      "population": 213469
+    },
+    {
+      "code": "35.76",
+      "name": "Kota Mojokerto",
+      "type": "kota",
+      "capital": "Mojokerto",
+      "latitude": -7.462815,
+      "longitude": 112.433446,
+      "elevation_m": 25,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 20.48,
+      "population": 142272
+    },
+    {
+      "code": "35.77",
+      "name": "Kota Madiun",
+      "type": "kota",
+      "capital": "Madiun",
+      "latitude": -7.624397,
+      "longitude": 111.520649,
+      "elevation_m": 70,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 36.126,
+      "population": 201733
+    },
+    {
+      "code": "35.78",
+      "name": "Kota Surabaya",
+      "type": "kota",
+      "capital": "Surabaya",
+      "latitude": -7.258891,
+      "longitude": 112.747039,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 338.048,
+      "population": 3018022
+    },
+    {
+      "code": "35.79",
+      "name": "Kota Batu",
+      "type": "kota",
+      "capital": "Batu",
+      "latitude": -7.862516,
+      "longitude": 112.513353,
+      "elevation_m": 911,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 194.17,
+      "population": 225408
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Jawa Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "38 kabupaten/kota di Provinsi Jawa Timur dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 38 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Jawa Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Jawa Timur (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 38 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 38 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

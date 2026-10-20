@@ -1,0 +1,88 @@
+{
+  "id": "id-zona-waktu-indian",
+  "name": "Zona waktu — Indian (4)",
+  "title": "Zona waktu — Indian (4)",
+  "description": "Zona waktu yang pengenal IANA-nya diawali 'Indian/', dengan nama dalam bahasa Indonesia.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Indian/Comoro",
+      "wilayah": "Indian",
+      "kota": "Komoro",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Indian/Mahe",
+      "wilayah": "Indian",
+      "kota": "Mahé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Indian/Maldives",
+      "wilayah": "Indian",
+      "kota": "Maladewa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Indian/Reunion",
+      "wilayah": "Indian",
+      "kota": "Réunion",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu — Indian (4) - Unduh Gratis",
+    "description": "Zona waktu yang pengenal IANA-nya diawali 'Indian/', dengan nama dalam bahasa Indonesia. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu — Indian (4) | ListBase",
+    "seo_description": "Unduh Zona waktu — Indian (4) — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

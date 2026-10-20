@@ -1,0 +1,88 @@
+{
+  "id": "id-kepulauan-bangka-belitung-regencies",
+  "name": "Daftar Kabupaten dan Kota di Kepulauan Bangka Belitung",
+  "title": "Daftar Kabupaten dan Kota di Kepulauan Bangka Belitung",
+  "description": "Daftar kabupaten dan kota di Provinsi Kepulauan Bangka Belitung dengan kode wilayah Kepmendagri. Total 7 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "19.01",
+      "name": "Kabupaten Bangka",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bangka"
+    },
+    {
+      "code": "19.02",
+      "name": "Kabupaten Belitung",
+      "type": "Kabupaten",
+      "slug": "kabupaten-belitung"
+    },
+    {
+      "code": "19.03",
+      "name": "Kabupaten Bangka Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bangka-selatan"
+    },
+    {
+      "code": "19.04",
+      "name": "Kabupaten Bangka Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bangka-tengah"
+    },
+    {
+      "code": "19.05",
+      "name": "Kabupaten Bangka Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bangka-barat"
+    },
+    {
+      "code": "19.06",
+      "name": "Kabupaten Belitung Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-belitung-timur"
+    },
+    {
+      "code": "19.71",
+      "name": "Kota Pangkal Pinang",
+      "type": "Kota",
+      "slug": "kota-pangkal-pinang"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Kepulauan Bangka Belitung - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Kepulauan Bangka Belitung dengan kode wilayah Kepmendagri. Total 7 kabupaten/kota. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Kepulauan Bangka Belitung | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Kepulauan Bangka Belitung — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

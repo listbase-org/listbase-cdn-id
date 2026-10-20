@@ -1,0 +1,1192 @@
+{
+  "id": "id-papua-postal-codes",
+  "name": "Daftar Kode Pos di Papua",
+  "title": "Daftar Kode Pos di Papua",
+  "description": "Daftar 142 kode pos di Provinsi Papua (kode BPS 91). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 142,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "98051",
+      "kecamatan_name": "Aifat",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98052",
+      "kecamatan_name": "Aifat Utara",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98053",
+      "kecamatan_name": "Aifat Timur",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98054",
+      "kecamatan_name": "Aifat Selatan",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98055",
+      "kecamatan_name": "Aitinyo",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98056",
+      "kecamatan_name": "Aitinyo Barat",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98057",
+      "kecamatan_name": "Aitinyo Utara",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98058",
+      "kecamatan_name": "Ayamaru Timur",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98059",
+      "kecamatan_name": "Mare",
+      "regency_code": "91.10",
+      "regency_name": "Kabupaten Sarmi",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98311",
+      "kecamatan_name": "Manokwari Barat",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98313",
+      "kecamatan_name": "Manokwari Timur",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98315",
+      "kecamatan_name": "Manokwari Selatan",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98316",
+      "kecamatan_name": "Manokwari Utara",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98351",
+      "kecamatan_name": "Tanah Rubuh",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98352",
+      "kecamatan_name": "Warmare",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98353",
+      "kecamatan_name": "Oransbari",
+      "regency_code": "91.11",
+      "regency_name": "Kabupaten Keerom",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98354",
+      "kecamatan_name": "Anggi",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98355",
+      "kecamatan_name": "Ransiki",
+      "regency_code": "91.11",
+      "regency_name": "Kabupaten Keerom",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98356",
+      "kecamatan_name": "Prafi",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98357",
+      "kecamatan_name": "Masni",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98371",
+      "kecamatan_name": "Amberbaken",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98374",
+      "kecamatan_name": "Senopi",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98375",
+      "kecamatan_name": "Mubrani",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98376",
+      "kecamatan_name": "Sidey",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98377",
+      "kecamatan_name": "Testega",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98378",
+      "kecamatan_name": "Catubouw",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98381",
+      "kecamatan_name": "Didohu",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98382",
+      "kecamatan_name": "Taige",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98383",
+      "kecamatan_name": "Membey",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98384",
+      "kecamatan_name": "Anggi Gida",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98385",
+      "kecamatan_name": "Sururey",
+      "regency_code": "91.12",
+      "regency_name": "Kabupaten Pegunungan Bintang",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98386",
+      "kecamatan_name": "Dataran Isim",
+      "regency_code": "91.11",
+      "regency_name": "Kabupaten Keerom",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98387",
+      "kecamatan_name": "Neney",
+      "regency_code": "91.05",
+      "regency_name": "Kabupaten Kepulauan Yapen",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98388",
+      "kecamatan_name": "Momi Waren",
+      "regency_code": "91.11",
+      "regency_name": "Kabupaten Keerom",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98412",
+      "kecamatan_name": "Sorong Barat",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98414",
+      "kecamatan_name": "Sorong",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98416",
+      "kecamatan_name": "Sorong Utara",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98418",
+      "kecamatan_name": "Sorong Timur",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98419",
+      "kecamatan_name": "Sorong Manoi",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98426",
+      "kecamatan_name": "Sorong Kepulauan",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98431",
+      "kecamatan_name": "Aimas",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98432",
+      "kecamatan_name": "Mariat",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98433",
+      "kecamatan_name": "Salawati",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98434",
+      "kecamatan_name": "Mayamuk",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98435",
+      "kecamatan_name": "Moisegen",
+      "regency_code": "91.71",
+      "regency_name": "Kota Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98436",
+      "kecamatan_name": "Salawati Selatan",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98437",
+      "kecamatan_name": "Seget",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98438",
+      "kecamatan_name": "Segun",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98439",
+      "kecamatan_name": "Klamono",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98441",
+      "kecamatan_name": "Beraur",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98442",
+      "kecamatan_name": "Klabot",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98443",
+      "kecamatan_name": "Klawak",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98444",
+      "kecamatan_name": "Sayosa",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98445",
+      "kecamatan_name": "Makbon",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98447",
+      "kecamatan_name": "Moraid",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98448",
+      "kecamatan_name": "Maudus",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98449",
+      "kecamatan_name": "Klaso",
+      "regency_code": "91.07",
+      "regency_name": "Kabupaten Puncak Jaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98451",
+      "kecamatan_name": "Seremuk",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98452",
+      "kecamatan_name": "Wayer",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98453",
+      "kecamatan_name": "Saifi",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98454",
+      "kecamatan_name": "Teminabuan",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98456",
+      "kecamatan_name": "Sawiat",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98457",
+      "kecamatan_name": "Fokour",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98458",
+      "kecamatan_name": "Konda",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98461",
+      "kecamatan_name": "Moswaren",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98462",
+      "kecamatan_name": "Kais",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98463",
+      "kecamatan_name": "Matemani",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98464",
+      "kecamatan_name": "Inanwatan",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98465",
+      "kecamatan_name": "Kokoda",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98466",
+      "kecamatan_name": "Kokoda Utara",
+      "regency_code": "91.06",
+      "regency_name": "Kabupaten Biak Numfor",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98473",
+      "kecamatan_name": "Sausapor",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98474",
+      "kecamatan_name": "Kwoor",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98475",
+      "kecamatan_name": "Fef",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98476",
+      "kecamatan_name": "Miyah",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98477",
+      "kecamatan_name": "Abun",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98478",
+      "kecamatan_name": "Yembun",
+      "regency_code": "91.09",
+      "regency_name": "Kabupaten Mimika",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98481",
+      "kecamatan_name": "Waigeo Utara",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98482",
+      "kecamatan_name": "Waigeo Selatan",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98485",
+      "kecamatan_name": "Waigeo Barat Kepulauan",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98486",
+      "kecamatan_name": "Tiplol Mayalibit",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98487",
+      "kecamatan_name": "Supnin",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98488",
+      "kecamatan_name": "Ayau",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98489",
+      "kecamatan_name": "Kota Waisai",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98491",
+      "kecamatan_name": "Misool Barat",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98492",
+      "kecamatan_name": "Misool Timur",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98493",
+      "kecamatan_name": "Kepulauan Sembilan",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98494",
+      "kecamatan_name": "Kofiau",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98496",
+      "kecamatan_name": "Salawati Tengah",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98497",
+      "kecamatan_name": "Salawati Utara",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98498",
+      "kecamatan_name": "Batanta Utara",
+      "regency_code": "91.08",
+      "regency_name": "Kabupaten Paniai",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98551",
+      "kecamatan_name": "Bintuni",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98552",
+      "kecamatan_name": "Manimeri",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98553",
+      "kecamatan_name": "Dataran Beimes",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98554",
+      "kecamatan_name": "Tuhiba",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98555",
+      "kecamatan_name": "Tembuni",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98556",
+      "kecamatan_name": "Weriagar",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98557",
+      "kecamatan_name": "Tomu",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98558",
+      "kecamatan_name": "Aranday",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98559",
+      "kecamatan_name": "Kamundan",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98561",
+      "kecamatan_name": "Merdey",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98562",
+      "kecamatan_name": "Biscoop",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98563",
+      "kecamatan_name": "Masyeta",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98564",
+      "kecamatan_name": "Meyado",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98565",
+      "kecamatan_name": "Moskona Selatan",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98566",
+      "kecamatan_name": "Moskona Barat",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98567",
+      "kecamatan_name": "Moskona Utara",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98568",
+      "kecamatan_name": "Moskona Timur",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98571",
+      "kecamatan_name": "Babo",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98572",
+      "kecamatan_name": "Sumuri",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98573",
+      "kecamatan_name": "Aroba",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98574",
+      "kecamatan_name": "Fafurwar",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98575",
+      "kecamatan_name": "Kaitaro",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98576",
+      "kecamatan_name": "Kuri",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98577",
+      "kecamatan_name": "Wamesa",
+      "regency_code": "91.04",
+      "regency_name": "Kabupaten Nabire",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98581",
+      "kecamatan_name": "Windesi",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98582",
+      "kecamatan_name": "Nikiwar",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98583",
+      "kecamatan_name": "Wamesa",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98584",
+      "kecamatan_name": "Roswar",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98585",
+      "kecamatan_name": "Rumberpon",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98586",
+      "kecamatan_name": "Soug Jaya",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98591",
+      "kecamatan_name": "Rasiei",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98592",
+      "kecamatan_name": "Teluk Duairi",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98593",
+      "kecamatan_name": "Wasior",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98595",
+      "kecamatan_name": "Naikere",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98596",
+      "kecamatan_name": "Kuri Wamesa",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98599",
+      "kecamatan_name": "Roon",
+      "regency_code": "91.03",
+      "regency_name": "Kabupaten Jayapura",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98641",
+      "kecamatan_name": "Fak-Fak Tengah",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98642",
+      "kecamatan_name": "Fak-Fak Timur",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98643",
+      "kecamatan_name": "Karas",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98644",
+      "kecamatan_name": "Bomberay",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98651",
+      "kecamatan_name": "Fak-Fak",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98652",
+      "kecamatan_name": "Kokas",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98657",
+      "kecamatan_name": "Kramongmongga",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98658",
+      "kecamatan_name": "Teluk Patipi",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98659",
+      "kecamatan_name": "Fak-Fak Barat",
+      "regency_code": "91.01",
+      "regency_name": "Kabupaten Merauke",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98671",
+      "kecamatan_name": "Kaimana",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98672",
+      "kecamatan_name": "Kambrau",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98673",
+      "kecamatan_name": "Teluk Arguni Atas",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98674",
+      "kecamatan_name": "Teluk Arguni Bawah",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98675",
+      "kecamatan_name": "Teluk Etna",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98676",
+      "kecamatan_name": "Buruway",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    },
+    {
+      "postal_code": "98677",
+      "kecamatan_name": "Yamor",
+      "regency_code": "91.02",
+      "regency_name": "Kabupaten Jayawijaya",
+      "province_code": "91",
+      "province_name": "Papua"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos di Papua - Unduh Gratis",
+    "description": "Daftar 142 kode pos di Provinsi Papua (kode BPS 91). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022). Berisi 142 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos di Papua | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos di Papua — 142 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 142 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "id": "id-sumatera-utara-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sumatera Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sumatera Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "33 kabupaten/kota di Provinsi Sumatera Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "12.01",
+      "name": "Kabupaten Tapanuli Tengah",
+      "type": "kabupaten",
+      "capital": "Pandan",
+      "latitude": 1.68469,
+      "longitude": 98.827717,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2307.716,
+      "population": 369482
+    },
+    {
+      "code": "12.02",
+      "name": "Kabupaten Tapanuli Utara",
+      "type": "kabupaten",
+      "capital": "Tarutung",
+      "latitude": 2.02185,
+      "longitude": 98.961791,
+      "elevation_m": 978,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3895.604,
+      "population": 331475
+    },
+    {
+      "code": "12.03",
+      "name": "Kabupaten Tapanuli Selatan",
+      "type": "kabupaten",
+      "capital": "Sipirok",
+      "latitude": 1.519662,
+      "longitude": 99.302843,
+      "elevation_m": 892,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4201.354,
+      "population": 324565
+    },
+    {
+      "code": "12.04",
+      "name": "Kabupaten Nias",
+      "type": "kabupaten",
+      "capital": "Gido",
+      "latitude": 1.241755,
+      "longitude": 97.649918,
+      "elevation_m": 52,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 902.599,
+      "population": 147989
+    },
+    {
+      "code": "12.05",
+      "name": "Kabupaten Langkat",
+      "type": "kabupaten",
+      "capital": "Stabat",
+      "latitude": 3.742686,
+      "longitude": 98.447535,
+      "elevation_m": 14,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6142.072,
+      "population": 1120709
+    },
+    {
+      "code": "12.06",
+      "name": "Kabupaten Karo",
+      "type": "kabupaten",
+      "capital": "Kabanjahe",
+      "latitude": 3.11068,
+      "longitude": 98.501335,
+      "elevation_m": 1221,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2206.876,
+      "population": 422495
+    },
+    {
+      "code": "12.07",
+      "name": "Kabupaten Deli Serdang",
+      "type": "kabupaten",
+      "capital": "Lubuk Pakam",
+      "latitude": 3.550719,
+      "longitude": 98.866442,
+      "elevation_m": 18,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2581.482,
+      "population": 2080408
+    },
+    {
+      "code": "12.08",
+      "name": "Kabupaten Simalungun",
+      "type": "kabupaten",
+      "capital": "Raya",
+      "latitude": 2.965349,
+      "longitude": 98.8621,
+      "elevation_m": 993,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4601.477,
+      "population": 1004303
+    },
+    {
+      "code": "12.09",
+      "name": "Kabupaten Asahan",
+      "type": "kabupaten",
+      "capital": "Kisaran",
+      "latitude": 2.988106,
+      "longitude": 99.612836,
+      "elevation_m": 20,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3738.42,
+      "population": 799451
+    },
+    {
+      "code": "12.10",
+      "name": "Kabupaten Labuhanbatu",
+      "type": "kabupaten",
+      "capital": "Rantau Prapat",
+      "latitude": 2.07009,
+      "longitude": 99.857086,
+      "elevation_m": 34,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": "",
+      "population": 513010
+    },
+    {
+      "code": "12.11",
+      "name": "Kabupaten Dairi",
+      "type": "kabupaten",
+      "capital": "Sidikalang",
+      "latitude": 2.747967,
+      "longitude": 98.313969,
+      "elevation_m": 1066,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2083.604,
+      "population": 333335
+    },
+    {
+      "code": "12.12",
+      "name": "Kabupaten Toba",
+      "type": "kabupaten",
+      "capital": "Balige",
+      "latitude": 2.331801,
+      "longitude": 99.051021,
+      "elevation_m": 960,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2291.616,
+      "population": 220508
+    },
+    {
+      "code": "12.13",
+      "name": "Kabupaten Mandailing Natal",
+      "type": "kabupaten",
+      "capital": "Panyabungan",
+      "latitude": 0.796726,
+      "longitude": 99.578809,
+      "elevation_m": 291,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6546.567,
+      "population": 501618
+    },
+    {
+      "code": "12.14",
+      "name": "Kabupaten Nias Selatan",
+      "type": "kabupaten",
+      "capital": "Teluk Dalam",
+      "latitude": 0.583377,
+      "longitude": 97.777885,
+      "elevation_m": 35,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2531.59,
+      "population": 369817
+    },
+    {
+      "code": "12.15",
+      "name": "Kabupaten Pakpak Bharat",
+      "type": "kabupaten",
+      "capital": "Salak",
+      "latitude": 2.541054,
+      "longitude": 98.322589,
+      "elevation_m": 1026,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1365.607,
+      "population": 57280
+    },
+    {
+      "code": "12.16",
+      "name": "Kabupaten Humbang Hasundutan",
+      "type": "kabupaten",
+      "capital": "Dolok Sanggul",
+      "latitude": 2.250279,
+      "longitude": 98.790454,
+      "elevation_m": 1530,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2351.514,
+      "population": 211022
+    },
+    {
+      "code": "12.17",
+      "name": "Kabupaten Samosir",
+      "type": "kabupaten",
+      "capital": "Pangururan",
+      "latitude": 2.559871,
+      "longitude": 98.722389,
+      "elevation_m": 917,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1850.035,
+      "population": 149875
+    },
+    {
+      "code": "12.18",
+      "name": "Kabupaten Serdang Bedagai",
+      "type": "kabupaten",
+      "capital": "Sei Rampah",
+      "latitude": 3.491265,
+      "longitude": 99.12592,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1949.978,
+      "population": 696845
+    },
+    {
+      "code": "12.19",
+      "name": "Kabupaten Batu Bara",
+      "type": "kabupaten",
+      "capital": "Limapuluh",
+      "latitude": 3.171775,
+      "longitude": 99.420981,
+      "elevation_m": 26,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 888.676,
+      "population": 474832
+    },
+    {
+      "code": "12.20",
+      "name": "Kabupaten Padang Lawas Utara",
+      "type": "kabupaten",
+      "capital": "Gunung Tua",
+      "latitude": 1.494549,
+      "longitude": 99.619709,
+      "elevation_m": 102,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": "",
+      "population": 273586
+    },
+    {
+      "code": "12.21",
+      "name": "Kabupaten Padang Lawas",
+      "type": "kabupaten",
+      "capital": "Sibuhuan",
+      "latitude": 1.05559,
+      "longitude": 99.77552,
+      "elevation_m": 161,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3914.413,
+      "population": 271274
+    },
+    {
+      "code": "12.22",
+      "name": "Kabupaten Labuhanbatu Selatan",
+      "type": "kabupaten",
+      "capital": "Pinang",
+      "latitude": 1.868221,
+      "longitude": 100.041146,
+      "elevation_m": 30,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3079.61,
+      "population": 332459
+    },
+    {
+      "code": "12.23",
+      "name": "Kabupaten Labuhanbatu Utara",
+      "type": "kabupaten",
+      "capital": "Aek Kanopan",
+      "latitude": 2.562849,
+      "longitude": 99.658069,
+      "elevation_m": 23,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3687.179,
+      "population": 399306
+    },
+    {
+      "code": "12.24",
+      "name": "Kabupaten Nias Utara",
+      "type": "kabupaten",
+      "capital": "Lotu",
+      "latitude": 1.389322,
+      "longitude": 97.381362,
+      "elevation_m": 173,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1239.502,
+      "population": 153338
+    },
+    {
+      "code": "12.25",
+      "name": "Kabupaten Nias Barat",
+      "type": "kabupaten",
+      "capital": "Lahomi",
+      "latitude": 0.998963,
+      "longitude": 97.495252,
+      "elevation_m": 122,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 464.65,
+      "population": 97526
+    },
+    {
+      "code": "12.71",
+      "name": "Kota Medan",
+      "type": "kota",
+      "capital": "Medan",
+      "latitude": 3.590246,
+      "longitude": 98.674972,
+      "elevation_m": 24,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 279.239,
+      "population": 2546452
+    },
+    {
+      "code": "12.72",
+      "name": "Kota Pematangsiantar",
+      "type": "kota",
+      "capital": "Pematangsiantar",
+      "latitude": 2.956496,
+      "longitude": 99.061821,
+      "elevation_m": 402,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 75.919,
+      "population": 279772
+    },
+    {
+      "code": "12.73",
+      "name": "Kota Sibolga",
+      "type": "kota",
+      "capital": "Sibolga",
+      "latitude": 1.746021,
+      "longitude": 98.775588,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 12.645,
+      "population": 100282
+    },
+    {
+      "code": "12.74",
+      "name": "Kota Tanjungbalai",
+      "type": "kota",
+      "capital": "Tanjungbalai",
+      "latitude": 2.947754,
+      "longitude": 99.766719,
+      "elevation_m": 3,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 60.072,
+      "population": 187939
+    },
+    {
+      "code": "12.75",
+      "name": "Kota Binjai",
+      "type": "kota",
+      "capital": "Binjai",
+      "latitude": 3.602977,
+      "longitude": 98.483181,
+      "elevation_m": 36,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 93.77,
+      "population": 315609
+    },
+    {
+      "code": "12.76",
+      "name": "Kota Tebing Tinggi",
+      "type": "kota",
+      "capital": "Tebing Tinggi",
+      "latitude": 3.327565,
+      "longitude": 99.166318,
+      "elevation_m": 25,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 39.17,
+      "population": 184064
+    },
+    {
+      "code": "12.77",
+      "name": "Kota Padangsidimpuan",
+      "type": "kota",
+      "capital": "Padangsidimpuan",
+      "latitude": 1.377645,
+      "longitude": 99.271446,
+      "elevation_m": 309,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 159.298,
+      "population": 231982
+    },
+    {
+      "code": "12.78",
+      "name": "Kota Gunungsitoli",
+      "type": "kota",
+      "capital": "Gunungsitoli",
+      "latitude": 1.282641,
+      "longitude": 97.613463,
+      "elevation_m": 11,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 208.742,
+      "population": 138297
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sumatera Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "33 kabupaten/kota di Provinsi Sumatera Utara dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 33 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sumatera Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sumatera Utara (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 33 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 33 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

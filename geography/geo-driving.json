@@ -1,0 +1,1429 @@
+{
+  "id": "geo-driving",
+  "name": "Dataset Sisi Mengemudi & Tanda Mobil Negara Global",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "driving_side",
+      "label": "Driving Side (EN)",
+      "type": "string"
+    },
+    {
+      "key": "car_signs",
+      "label": "Car Signs",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afghanistan",
+      "driving_side": "kanan",
+      "car_signs": "AFG"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "driving_side": "kanan",
+      "car_signs": "AL"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Aljazair",
+      "driving_side": "kanan",
+      "car_signs": "DZ"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "driving_side": "kanan",
+      "car_signs": "AND"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "driving_side": "kanan",
+      "car_signs": "ANG"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua dan Barbuda",
+      "driving_side": "kiri",
+      "car_signs": "AG"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentina",
+      "driving_side": "kanan",
+      "car_signs": "RA"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "driving_side": "kanan",
+      "car_signs": "AM"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "driving_side": "kiri",
+      "car_signs": "AUS"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "driving_side": "kanan",
+      "car_signs": "A"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaijan",
+      "driving_side": "kanan",
+      "car_signs": "AZ"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahama",
+      "driving_side": "kiri",
+      "car_signs": "BS"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrain",
+      "driving_side": "kanan",
+      "car_signs": "BRN"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesh",
+      "driving_side": "kiri",
+      "car_signs": "BD"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "driving_side": "kiri",
+      "car_signs": "BDS"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "driving_side": "kanan",
+      "car_signs": "BY"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgia",
+      "driving_side": "kanan",
+      "car_signs": "B"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "driving_side": "kanan",
+      "car_signs": "BH"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "driving_side": "kanan",
+      "car_signs": "DY"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "driving_side": "kiri",
+      "car_signs": "BHT"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivia",
+      "driving_side": "kanan",
+      "car_signs": "BOL"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosnia dan Herzegovina",
+      "driving_side": "kanan",
+      "car_signs": "BIH"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "driving_side": "kiri",
+      "car_signs": "BW"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brasil",
+      "driving_side": "kanan",
+      "car_signs": "BR"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "driving_side": "kiri",
+      "car_signs": "BRU"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaria",
+      "driving_side": "kanan",
+      "car_signs": "BG"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "driving_side": "kanan",
+      "car_signs": "BF"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "driving_side": "kanan",
+      "car_signs": "RU"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kamboja",
+      "driving_side": "kanan",
+      "car_signs": "K"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "driving_side": "kanan",
+      "car_signs": "CAM"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "driving_side": "kanan",
+      "car_signs": "CDN"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Tanjung Verde",
+      "driving_side": "kanan",
+      "car_signs": "CV"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Republik Afrika Tengah",
+      "driving_side": "kanan",
+      "car_signs": "RCA"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Chad",
+      "driving_side": "kanan",
+      "car_signs": "TCH, TD"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chili",
+      "driving_side": "kanan",
+      "car_signs": "RCH"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Tiongkok",
+      "driving_side": "kanan",
+      "car_signs": "RC"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolombia",
+      "driving_side": "kanan",
+      "car_signs": "CO"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komoro",
+      "driving_side": "kanan",
+      "car_signs": "COM"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kosta Rika",
+      "driving_side": "kanan",
+      "car_signs": "CR"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Kroasia",
+      "driving_side": "kanan",
+      "car_signs": "HR"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "driving_side": "kanan",
+      "car_signs": "C"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Siprus",
+      "driving_side": "kiri",
+      "car_signs": "CY"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Ceko",
+      "driving_side": "kanan",
+      "car_signs": "CZ"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Denmark",
+      "driving_side": "kanan",
+      "car_signs": "DK"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Jibuti",
+      "driving_side": "kanan",
+      "car_signs": "DJI"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "driving_side": "kiri",
+      "car_signs": "WD"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Republik Dominika",
+      "driving_side": "kanan",
+      "car_signs": "DOM"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "DR Kongo",
+      "driving_side": "kanan",
+      "car_signs": "CGO"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekuador",
+      "driving_side": "kanan",
+      "car_signs": "EC"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Mesir",
+      "driving_side": "kanan",
+      "car_signs": "ET"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "driving_side": "kanan",
+      "car_signs": "ES"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Guinea Khatulistiwa",
+      "driving_side": "kanan",
+      "car_signs": "GQ"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritrea",
+      "driving_side": "kanan",
+      "car_signs": "ER"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "driving_side": "kanan",
+      "car_signs": "EST"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "driving_side": "kiri",
+      "car_signs": "SD"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopia",
+      "driving_side": "kanan",
+      "car_signs": "ETH"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "driving_side": "kiri",
+      "car_signs": "FJI"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandia",
+      "driving_side": "kanan",
+      "car_signs": "FIN"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Prancis",
+      "driving_side": "kanan",
+      "car_signs": "F"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "driving_side": "kanan",
+      "car_signs": "G"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "driving_side": "Kanan",
+      "car_signs": "WAG"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Georgia",
+      "driving_side": "Kanan",
+      "car_signs": "GE"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Jerman",
+      "driving_side": "Kanan",
+      "car_signs": "DY"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "driving_side": "Kanan",
+      "car_signs": "GH"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Yunani",
+      "driving_side": "Kanan",
+      "car_signs": "GR"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "driving_side": "Kiri",
+      "car_signs": "WG"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "driving_side": "Kanan",
+      "car_signs": "GCA"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Guinea",
+      "driving_side": "Kanan",
+      "car_signs": "RG"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Guinea-Bissau",
+      "driving_side": "Kanan",
+      "car_signs": "RGB"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "driving_side": "Kiri",
+      "car_signs": "GUY"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "driving_side": "Kanan",
+      "car_signs": "RH"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "driving_side": "Kanan",
+      "car_signs": "HN"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Hongaria",
+      "driving_side": "Kanan",
+      "car_signs": "H"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Islandia",
+      "driving_side": "Kanan",
+      "car_signs": "IS"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "India",
+      "driving_side": "Kiri",
+      "car_signs": "IND"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonesia",
+      "driving_side": "Kiri",
+      "car_signs": "RI"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "driving_side": "Kanan",
+      "car_signs": "IR"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "driving_side": "Kanan",
+      "car_signs": "IRQ"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irlandia",
+      "driving_side": "Kiri",
+      "car_signs": "IRL"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Israel",
+      "driving_side": "Kanan",
+      "car_signs": "IL"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Italia",
+      "driving_side": "kanan",
+      "car_signs": "I"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Pantai Gading",
+      "driving_side": "kanan",
+      "car_signs": "CI"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaika",
+      "driving_side": "kiri",
+      "car_signs": "JA"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Jepang",
+      "driving_side": "kiri",
+      "car_signs": "J"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Yordania",
+      "driving_side": "kanan",
+      "car_signs": "HKJ"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakhstan",
+      "driving_side": "kanan",
+      "car_signs": "KZ"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "driving_side": "kiri",
+      "car_signs": "EAK"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "driving_side": "kiri",
+      "car_signs": "KIR"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosovo",
+      "driving_side": "kanan",
+      "car_signs": "CS"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwait",
+      "driving_side": "kanan",
+      "car_signs": "KWT"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kirgizstan",
+      "driving_side": "kanan",
+      "car_signs": "KS"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "driving_side": "kanan",
+      "car_signs": "LAO"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Latvia",
+      "driving_side": "kanan",
+      "car_signs": "LV"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Lebanon",
+      "driving_side": "kanan",
+      "car_signs": "RL"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "driving_side": "kiri",
+      "car_signs": "LS"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "driving_side": "kanan",
+      "car_signs": "LB"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "driving_side": "kanan",
+      "car_signs": "LAR"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "driving_side": "kanan",
+      "car_signs": "FL"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Lituania",
+      "driving_side": "kanan",
+      "car_signs": "LT"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luksemburg",
+      "driving_side": "kanan",
+      "car_signs": "L"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "driving_side": "sisi kanan",
+      "car_signs": "RM"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "driving_side": "sisi kiri",
+      "car_signs": "MW"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malaysia",
+      "driving_side": "sisi kiri",
+      "car_signs": "MAL"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maladewa",
+      "driving_side": "sisi kiri",
+      "car_signs": "MV"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "driving_side": "sisi kanan",
+      "car_signs": "RMM"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "driving_side": "sisi kiri",
+      "car_signs": "M"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Kepulauan Marshall",
+      "driving_side": "sisi kanan",
+      "car_signs": "MH"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauritania",
+      "driving_side": "sisi kanan",
+      "car_signs": "RIM"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "driving_side": "sisi kiri",
+      "car_signs": "MS"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksiko",
+      "driving_side": "sisi kanan",
+      "car_signs": "MEX"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronesia",
+      "driving_side": "sisi kanan",
+      "car_signs": "FSM"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "driving_side": "sisi kanan",
+      "car_signs": "MD"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "driving_side": "sisi kanan",
+      "car_signs": "MC"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolia",
+      "driving_side": "sisi kanan",
+      "car_signs": "MGL"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Montenegro",
+      "driving_side": "sisi kanan",
+      "car_signs": "SCG"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "driving_side": "sisi kanan",
+      "car_signs": "MA"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "driving_side": "sisi kiri",
+      "car_signs": "MOC"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "driving_side": "sisi kanan",
+      "car_signs": "BUR"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "driving_side": "sisi kiri",
+      "car_signs": "NAM"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "driving_side": "sisi kiri",
+      "car_signs": "NAU"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "driving_side": "kiri",
+      "car_signs": "NEP"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Belanda",
+      "driving_side": "kanan",
+      "car_signs": "NL"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Selandia Baru",
+      "driving_side": "kiri",
+      "car_signs": "NZ"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "driving_side": "kanan",
+      "car_signs": "NIC"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "driving_side": "kanan",
+      "car_signs": "RN"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "driving_side": "kanan",
+      "car_signs": "WAN"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Korea Utara",
+      "driving_side": "kanan",
+      "car_signs": ""
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Makedonia Utara",
+      "driving_side": "kanan",
+      "car_signs": "MK"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norwegia",
+      "driving_side": "kanan",
+      "car_signs": "N"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "driving_side": "kanan",
+      "car_signs": "OM"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "driving_side": "kiri",
+      "car_signs": "PK"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "driving_side": "kanan",
+      "car_signs": "PAL"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "driving_side": "kanan",
+      "car_signs": "PA"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua Nugini",
+      "driving_side": "kiri",
+      "car_signs": "PNG"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "driving_side": "kanan",
+      "car_signs": "PY"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "driving_side": "kanan",
+      "car_signs": "PE"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipina",
+      "driving_side": "kanan",
+      "car_signs": "RP"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polandia",
+      "driving_side": "kanan",
+      "car_signs": "PL"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugal",
+      "driving_side": "kanan",
+      "car_signs": "P"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Qatar",
+      "driving_side": "kanan",
+      "car_signs": "Q"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Republik Kongo",
+      "driving_side": "kanan",
+      "car_signs": "RCB"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumania",
+      "driving_side": "kanan",
+      "car_signs": "RO"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusia",
+      "driving_side": "kanan",
+      "car_signs": "RUS"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "driving_side": "kanan",
+      "car_signs": "RWA"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts dan Nevis",
+      "driving_side": "kiri",
+      "car_signs": "KN"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "driving_side": "kiri",
+      "car_signs": "WL"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent dan Grenadines",
+      "driving_side": "kiri",
+      "car_signs": "WV"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "driving_side": "kiri",
+      "car_signs": "WS"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "driving_side": "kanan",
+      "car_signs": "RSM"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Sao Tome dan Principe",
+      "driving_side": "kanan",
+      "car_signs": "STP"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Arab Saudi",
+      "driving_side": "kanan",
+      "car_signs": "SA"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "driving_side": "kanan",
+      "car_signs": "SN"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "driving_side": "kanan",
+      "car_signs": "SRB"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seychelles",
+      "driving_side": "kiri",
+      "car_signs": "SY"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "driving_side": "kanan",
+      "car_signs": "WAL"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapura",
+      "driving_side": "kiri",
+      "car_signs": "SGP"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slowakia",
+      "driving_side": "kanan",
+      "car_signs": "SK"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenia",
+      "driving_side": "kanan",
+      "car_signs": "SLO"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Kepulauan Solomon",
+      "driving_side": "kiri",
+      "car_signs": "SOL"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "driving_side": "kanan",
+      "car_signs": "SO"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Afrika Selatan",
+      "driving_side": "kiri",
+      "car_signs": "ZA"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Korea Selatan",
+      "driving_side": "kanan",
+      "car_signs": "ROK"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Sudan Selatan",
+      "driving_side": "kanan",
+      "car_signs": ""
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Spanyol",
+      "driving_side": "kanan",
+      "car_signs": "E"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "driving_side": "kiri",
+      "car_signs": "CL"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "driving_side": "kanan",
+      "car_signs": "SUD"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Suriname",
+      "driving_side": "kiri",
+      "car_signs": "SME"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Swedia",
+      "driving_side": "kanan",
+      "car_signs": "S"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Swiss",
+      "driving_side": "kanan",
+      "car_signs": "CH"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Suriah",
+      "driving_side": "kanan",
+      "car_signs": "SYR"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tajikistan",
+      "driving_side": "kanan",
+      "car_signs": "TJ"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "driving_side": "kiri",
+      "car_signs": "EAT"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Thailand",
+      "driving_side": "kiri",
+      "car_signs": "T"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor Leste",
+      "driving_side": "kiri",
+      "car_signs": "TL"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "driving_side": "kanan",
+      "car_signs": "TG"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "driving_side": "kiri",
+      "car_signs": "TO"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad dan Tobago",
+      "driving_side": "kiri",
+      "car_signs": "TT"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunisia",
+      "driving_side": "kanan",
+      "car_signs": "TN"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turki",
+      "driving_side": "kanan",
+      "car_signs": "TR"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "driving_side": "kanan",
+      "car_signs": "TM"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "driving_side": "kiri",
+      "car_signs": "TUV"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "driving_side": "kiri",
+      "car_signs": "EAU"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "driving_side": "kanan",
+      "car_signs": "UA"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Uni Emirat Arab",
+      "driving_side": "kanan",
+      "car_signs": "UAE"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Britania Raya",
+      "driving_side": "kiri",
+      "car_signs": "GB"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Amerika Serikat",
+      "driving_side": "kanan",
+      "car_signs": "USA"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "driving_side": "kanan",
+      "car_signs": "ROU"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "driving_side": "kanan",
+      "car_signs": "UZ"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "driving_side": "kanan",
+      "car_signs": "VU"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Kota Vatikan",
+      "driving_side": "kanan",
+      "car_signs": "V"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "driving_side": "kanan",
+      "car_signs": "YV"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "driving_side": "kanan",
+      "car_signs": "VN"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yaman",
+      "driving_side": "kanan",
+      "car_signs": "YAR"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "driving_side": "kiri",
+      "car_signs": "RNR"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "driving_side": "kiri",
+      "car_signs": "ZW"
+    }
+  ],
+  "meta": {
+    "seo_title": "Data Sisi Mengemudi Negara - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis data sisi mengemudi negara untuk 195 negara. Dapatkan kode ISO, sisi mengemudi & tanda mobil. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Sisi Mengemudi & Tanda Mobil Negara Global",
+    "description": "Temukan sisi jalan mana yang digunakan negara untuk mengemudi, bersama dengan kode ISO Alpha-2, Alpha-3, dan tanda mobil internasional mereka. Dataset ini mencakup 195 negara merdeka.",
+    "key_takeaways": [
+      "Akses informasi sisi mengemudi untuk 195 negara secara global.",
+      "Jelajahi kode ISO Alpha-2, Alpha-3, dan tanda mobil resmi.",
+      "Unduh data penggunaan jalan yang komprehensif dalam berbagai format.",
+      "Manfaatkan detail mengemudi spesifik negara yang akurat untuk proyek internasional."
+    ],
+    "keywords": [
+      "data sisi mengemudi negara",
+      "daftar mengemudi kiri kanan",
+      "iso 3166 sisi mengemudi",
+      "tanda mobil per negara excel",
+      "unduh arah mengemudi csv",
+      "aturan jalan global pdf"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL Anda atau gunakan dengan skrip Python untuk menganalisis pola mengemudi global atau mengintegrasikannya ke aplikasi navigasi.",
+      "Gunakan file **Excel** untuk membuat Pivot Tables, memfilter data berdasarkan wilayah, atau melakukan VLOOKUP untuk wawasan cepat tentang peraturan mengemudi dan tanda mobil.",
+      "Cetak versi **PDF** untuk referensi kelas, perencanaan perjalanan, atau sebagai dokumen yang mudah dibagikan yang merinci spesifikasi mengemudi internasional.",
+      "Integrasikan data ini ke dalam sistem perencanaan logistik untuk memastikan kepatuhan terhadap peraturan mengemudi lokal untuk armada kendaraan internasional."
+    ]
+  },
+  "record_count": 195,
+  "title": "Dataset Sisi Mengemudi & Tanda Mobil Negara Global"
+}

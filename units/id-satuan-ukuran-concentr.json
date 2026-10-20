@@ -1,0 +1,178 @@
+{
+  "id": "id-satuan-ukuran-concentr",
+  "name": "Satuan ukuran — kategori 'concentr' (13)",
+  "title": "Satuan ukuran — kategori 'concentr' (13)",
+  "description": "Satuan ukuran kategori 'concentr' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategori": "concentr",
+      "nama": "item",
+      "singkatan": "item",
+      "bentuk_sempit": "item",
+      "pola": "{0} item"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategori": "concentr",
+      "nama": "karat",
+      "singkatan": "karat",
+      "bentuk_sempit": "karat",
+      "pola": "{0} karat"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategori": "concentr",
+      "nama": "katal",
+      "singkatan": "kat",
+      "bentuk_sempit": "kat",
+      "pola": "{0} katal"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategori": "concentr",
+      "nama": "milligram per desiliter",
+      "singkatan": "mg/dL",
+      "bentuk_sempit": "mg/dL",
+      "pola": "{0} milligram per desiliter"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategori": "concentr",
+      "nama": "millimol per liter",
+      "singkatan": "millimol/liter",
+      "bentuk_sempit": "mmol/L",
+      "pola": "{0} millimol per liter"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategori": "concentr",
+      "nama": "mol",
+      "singkatan": "mol",
+      "bentuk_sempit": "mol",
+      "pola": "{0} mol"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategori": "concentr",
+      "nama": "glukosa",
+      "singkatan": "Glc",
+      "bentuk_sempit": "Glc",
+      "pola": "{0} glukosa"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategori": "concentr",
+      "nama": "bagian",
+      "singkatan": "bagian",
+      "bentuk_sempit": "bagian",
+      "pola": "{0} bagian"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategori": "concentr",
+      "nama": "bagian per juta",
+      "singkatan": "bagian/juta",
+      "bentuk_sempit": "bpj",
+      "pola": "{0} bagian per juta"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategori": "concentr",
+      "nama": "bagian per miliar",
+      "singkatan": "bagian/miliar",
+      "bentuk_sempit": "bpm",
+      "pola": "{0} bagian per miliar"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategori": "concentr",
+      "nama": "persen",
+      "singkatan": "persen",
+      "bentuk_sempit": "%",
+      "pola": "{0} persen"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategori": "concentr",
+      "nama": "permil",
+      "singkatan": "permil",
+      "bentuk_sempit": "‰",
+      "pola": "{0} permil"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategori": "concentr",
+      "nama": "permyriad",
+      "singkatan": "permyriad",
+      "bentuk_sempit": "‱",
+      "pola": "{0} permyriad"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'concentr' (13) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'concentr' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 13 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'concentr' (13) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'concentr' (13) — 13 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 13 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

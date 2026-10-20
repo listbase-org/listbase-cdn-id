@@ -1,0 +1,186 @@
+{
+  "id": "id-west-nusa-tenggara-airports",
+  "name": "Bandar Udara — West Nusa Tenggara",
+  "title": "Bandar Udara — West Nusa Tenggara",
+  "description": "Bandar udara di Provinsi West Nusa Tenggara, Indonesia (Airports in West Nusa Tenggara Province, Indonesia — 5 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WADL",
+      "iata": "LOP",
+      "name_en": "Lombok International Airport",
+      "name_slug": "lombok-international-airport",
+      "city_en": "Tanakawu Dua",
+      "city_slug": "tanakawu-dua",
+      "province_en": "West Nusa Tenggara",
+      "province_slug": "west-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 357,
+      "lat": -8.7591595,
+      "lon": 116.2710722,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WADU",
+      "iata": "LYK",
+      "name_en": "Lunyuk",
+      "name_slug": "lunyuk",
+      "city_en": "Lunyuk Ode",
+      "city_slug": "lunyuk-ode",
+      "province_en": "West Nusa Tenggara",
+      "province_slug": "west-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 429,
+      "lat": -9,
+      "lon": 117.26667,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WADA",
+      "iata": "AMI",
+      "name_en": "Selaparang",
+      "name_slug": "selaparang",
+      "city_en": "Mataram",
+      "city_slug": "mataram",
+      "province_en": "West Nusa Tenggara",
+      "province_slug": "west-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 59,
+      "lat": -8.5618359,
+      "lon": 116.1022297,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WADS",
+      "iata": "SWQ",
+      "name_en": "Sultan Muhammad Kaharuddin III Airport",
+      "name_slug": "sultan-muhammad-kaharuddin-iii-airport",
+      "city_en": "Karangbugis",
+      "city_slug": "karangbugis",
+      "province_en": "West Nusa Tenggara",
+      "province_slug": "west-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 59,
+      "lat": -8.5,
+      "lon": 117.416664,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WADB",
+      "iata": "BMU",
+      "name_en": "Sultan Muhammad Salahuddin Airport",
+      "name_slug": "sultan-muhammad-salahuddin-airport",
+      "city_en": "Melati",
+      "city_slug": "melati",
+      "province_en": "West Nusa Tenggara",
+      "province_slug": "west-nusa-tenggara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 3795,
+      "lat": -8.5,
+      "lon": 118.916664,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — West Nusa Tenggara - Unduh Gratis",
+    "description": "Bandar udara di Provinsi West Nusa Tenggara, Indonesia (Airports in West Nusa Tenggara Province, Indonesia — 5 record(s).) Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — West Nusa Tenggara | ListBase",
+    "seo_description": "Unduh Bandar Udara — West Nusa Tenggara — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

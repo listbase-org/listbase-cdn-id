@@ -1,0 +1,196 @@
+{
+  "id": "id-nusa-tenggara-barat-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Nusa Tenggara Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Nusa Tenggara Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "10 kabupaten/kota di Provinsi Nusa Tenggara Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "52.01",
+      "name": "Kabupaten Lombok Barat",
+      "type": "kabupaten",
+      "capital": "Gerung",
+      "latitude": -8.681396,
+      "longitude": 116.136705,
+      "elevation_m": 23,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 919.44,
+      "population": 762757
+    },
+    {
+      "code": "52.02",
+      "name": "Kabupaten Lombok Tengah",
+      "type": "kabupaten",
+      "capital": "Praya",
+      "latitude": -8.706132,
+      "longitude": 116.270034,
+      "elevation_m": 107,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1167.029,
+      "population": 1128716
+    },
+    {
+      "code": "52.03",
+      "name": "Kabupaten Lombok Timur",
+      "type": "kabupaten",
+      "capital": "Selong",
+      "latitude": -8.650939,
+      "longitude": 116.529654,
+      "elevation_m": 161,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1602.377,
+      "population": 1457591
+    },
+    {
+      "code": "52.04",
+      "name": "Kabupaten Sumbawa",
+      "type": "kabupaten",
+      "capital": "Sumbawa Besar",
+      "latitude": -8.489512,
+      "longitude": 117.419689,
+      "elevation_m": 14,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 6645.723,
+      "population": 527715
+    },
+    {
+      "code": "52.05",
+      "name": "Kabupaten Dompu",
+      "type": "kabupaten",
+      "capital": "Dompu",
+      "latitude": -8.534112,
+      "longitude": 118.464749,
+      "elevation_m": 32,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2270.36,
+      "population": 277837
+    },
+    {
+      "code": "52.06",
+      "name": "Kabupaten Bima",
+      "type": "kabupaten",
+      "capital": "Woha",
+      "latitude": -8.556533,
+      "longitude": 118.670158,
+      "elevation_m": 3,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4208.861,
+      "population": 543582
+    },
+    {
+      "code": "52.07",
+      "name": "Kabupaten Sumbawa Barat",
+      "type": "kabupaten",
+      "capital": "Taliwang",
+      "latitude": -8.75391,
+      "longitude": 116.854265,
+      "elevation_m": 11,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1739.564,
+      "population": 156059
+    },
+    {
+      "code": "52.08",
+      "name": "Kabupaten Lombok Utara",
+      "type": "kabupaten",
+      "capital": "Tanjung",
+      "latitude": -8.356335,
+      "longitude": 116.15927,
+      "elevation_m": 12,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 810.185,
+      "population": 269989
+    },
+    {
+      "code": "52.71",
+      "name": "Kota Mataram",
+      "type": "kota",
+      "capital": "Mataram",
+      "latitude": -8.582729,
+      "longitude": 116.108138,
+      "elevation_m": 27,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 60.063,
+      "population": 461936
+    },
+    {
+      "code": "52.72",
+      "name": "Kota Bima",
+      "type": "kota",
+      "capital": "Bima",
+      "latitude": -8.461655,
+      "longitude": 118.74872,
+      "elevation_m": 21,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 208.389,
+      "population": 165113
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Nusa Tenggara Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "10 kabupaten/kota di Provinsi Nusa Tenggara Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 10 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Nusa Tenggara Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Nusa Tenggara Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 10 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 10 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

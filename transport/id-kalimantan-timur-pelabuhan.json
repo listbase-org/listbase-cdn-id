@@ -1,0 +1,112 @@
+{
+  "id": "id-kalimantan-timur-pelabuhan",
+  "name": "Pelabuhan Umum di Kalimantan Timur (7 pelabuhan)",
+  "title": "Pelabuhan Umum di Kalimantan Timur (7 pelabuhan)",
+  "description": "7 pelabuhan umum di Provinsi Kalimantan Timur, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BPN",
+      "nama_pelabuhan": "Balikpapan",
+      "lokasi_kabupaten_kota": "KOTA BALIKPAPAN",
+      "unit_kerja": "KSOP KELAS I BALIKPAPAN",
+      "alamat_kantor": "Jl. Yos Sudarso No. 1 Balikpapan Kalimantan Timur 76111",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "ITM",
+      "nama_pelabuhan": "Tana Paser/Pondong",
+      "lokasi_kabupaten_kota": "PASER",
+      "unit_kerja": "KUPP KELAS II TANAH GROGOT/TANA PASER",
+      "alamat_kantor": "Jl. Negara ;Desa Pondong Kec;Kuaro;Kab Paser Kalimantan Timur 76211",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "JAM",
+      "nama_pelabuhan": "Penajam Paser",
+      "lokasi_kabupaten_kota": "KUTAI TIMUR",
+      "unit_kerja": "KUPP KELAS II TANAH GROGOT/TANA PASER",
+      "alamat_kantor": "Jl. Negara ;Desa Pondong Kec;Kuaro;Kab Paser Kalimantan Timur 76211",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "LTU",
+      "nama_pelabuhan": "Lhok Tuan",
+      "lokasi_kabupaten_kota": "KOTA BONTANG",
+      "unit_kerja": "KUPP KELAS I LHOK TUAN",
+      "alamat_kantor": "Gedung Shipping Lt.1 PT Pupuk Kalimantan Timur -Bontang 75313",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "SRI",
+      "nama_pelabuhan": "Samarinda",
+      "lokasi_kabupaten_kota": "KOTA SAMARINDA",
+      "unit_kerja": "KSOP KELAS II SAMARINDA",
+      "alamat_kantor": "Jl. Yos Sudarso No. 2 Samarinda Kalimantan Timur 75113",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "TLA",
+      "nama_pelabuhan": "Tanjung Laut",
+      "lokasi_kabupaten_kota": "KOTA BONTANG",
+      "unit_kerja": "KUPP KELAS I TANJUNG LAUT",
+      "alamat_kantor": "Jl. Pelabuahan No.28 Rt.10 Tanjung Laut Indah Bontang Kalimantan Timur 75321",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "kode_pelabuhan": "TTK",
+      "nama_pelabuhan": "Nunukan/Tunon Taka",
+      "lokasi_kabupaten_kota": "",
+      "unit_kerja": "KSOP KELAS IV NUNUKAN",
+      "alamat_kantor": "Jl. Pelabuhan Baru No. 142 Nunukan - Kalimantan Timur 77482",
+      "provinsi": "Kalimantan Timur"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Kalimantan Timur (7 pelabuhan) - Unduh Gratis",
+    "description": "7 pelabuhan umum di Provinsi Kalimantan Timur, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Kalimantan Timur (7 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Kalimantan Timur (7 pelabuhan) — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

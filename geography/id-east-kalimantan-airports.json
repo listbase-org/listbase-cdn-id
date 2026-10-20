@@ -1,0 +1,237 @@
+{
+  "id": "id-east-kalimantan-airports",
+  "name": "Bandar Udara — East Kalimantan",
+  "title": "Bandar Udara — East Kalimantan",
+  "description": "Bandar udara di Provinsi East Kalimantan, Indonesia (Airports in East Kalimantan Province, Indonesia — 8 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WALC",
+      "iata": "BXT",
+      "name_en": "Bontang",
+      "name_slug": "bontang",
+      "city_en": "Bontang",
+      "city_slug": "bontang",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 0.166667,
+      "lon": 117.5,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "KOD",
+      "name_en": "Kotabangun",
+      "name_slug": "kotabangun",
+      "city_en": "Sebulu",
+      "city_slug": "sebulu",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 13,
+      "lat": -0.266667,
+      "lon": 116.583336,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WALA",
+      "iata": "SGQ",
+      "name_en": "Sanggata",
+      "name_slug": "sanggata",
+      "city_en": "Sangatta",
+      "city_slug": "sangatta",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 426,
+      "lat": 0.5,
+      "lon": 117.3333588,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "SZH",
+      "name_en": "Senipah",
+      "name_slug": "senipah",
+      "city_en": "Samboja",
+      "city_slug": "samboja",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -0.9778551,
+      "lon": 117.1466185,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WALL",
+      "iata": "BPN",
+      "name_en": "Sultan Aji Muhamad Sulaiman Airport",
+      "name_slug": "sultan-aji-muhamad-sulaiman-airport",
+      "city_en": "City of Balikpapan",
+      "city_slug": "city-of-balikpapan",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 32,
+      "lat": -1.260623,
+      "lon": 116.90082,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WRLH",
+      "iata": "TNB",
+      "name_en": "Tanah Grogot",
+      "name_slug": "tanah-grogot",
+      "city_en": "Tanahgrogot",
+      "city_slug": "tanahgrogot",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 17,
+      "lat": -1.916667,
+      "lon": 116.2,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WALT",
+      "iata": "TSX",
+      "name_en": "Tanjung Santan",
+      "name_slug": "tanjung-santan",
+      "city_en": "Bontang Baru",
+      "city_slug": "bontang-baru",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 121,
+      "lat": -0.0922169,
+      "lon": 117.4402002,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "",
+      "iata": "SRI",
+      "name_en": "Temindung Airport",
+      "name_slug": "temindung-airport",
+      "city_en": "Samarinda",
+      "city_slug": "samarinda",
+      "province_en": "East Kalimantan",
+      "province_slug": "east-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 39,
+      "lat": -0.4831903,
+      "lon": 117.1567381,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — East Kalimantan - Unduh Gratis",
+    "description": "Bandar udara di Provinsi East Kalimantan, Indonesia (Airports in East Kalimantan Province, Indonesia — 8 record(s).) Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — East Kalimantan | ListBase",
+    "seo_description": "Unduh Bandar Udara — East Kalimantan — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

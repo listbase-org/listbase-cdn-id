@@ -1,0 +1,3481 @@
+{
+  "id": "id-kepulauan-bangka-belitung-kelurahan-postal-codes",
+  "name": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Bangka Belitung",
+  "title": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Bangka Belitung",
+  "description": "Daftar 380 kode pos tingkat kelurahan/desa di Provinsi Kepulauan Bangka Belitung (kode BPS 19). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 380,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kelurahan_name",
+      "label": "Kelurahan Name",
+      "type": "string"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "33111",
+      "kelurahan_name": "Air Salemba",
+      "kecamatan_name": "Gabek",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33111",
+      "kelurahan_name": "Ketapang",
+      "kecamatan_name": "Pangkal Balam",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33111",
+      "kelurahan_name": "Rejosari",
+      "kecamatan_name": "Pangkal Balam",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33113",
+      "kelurahan_name": "Ampui",
+      "kecamatan_name": "Pangkal Balam",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33115",
+      "kelurahan_name": "Lontong Pancur",
+      "kecamatan_name": "Pangkal Balam",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33115",
+      "kelurahan_name": "Pasir Garam",
+      "kecamatan_name": "Pangkal Balam",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33116",
+      "kelurahan_name": "Gabek Dua",
+      "kecamatan_name": "Gabek",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33117",
+      "kelurahan_name": "Selindung (Selindung Lama)",
+      "kecamatan_name": "Gabek",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33117",
+      "kelurahan_name": "Selindung Baru",
+      "kecamatan_name": "Gabek",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33118",
+      "kelurahan_name": "Gabek Satu",
+      "kecamatan_name": "Gabek",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33119",
+      "kelurahan_name": "Jerambah Gantung",
+      "kecamatan_name": "Gabek",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33121",
+      "kelurahan_name": "Batin Tikal",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33121",
+      "kelurahan_name": "Opas Indah",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33121",
+      "kelurahan_name": "Rawa Bangun",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33123",
+      "kelurahan_name": "Air Kepala Tujuh",
+      "kecamatan_name": "Gerunggang",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33123",
+      "kelurahan_name": "Bukit Merapin (Bukit Merapen)",
+      "kecamatan_name": "Gerunggang",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33123",
+      "kelurahan_name": "Bukit Sari",
+      "kecamatan_name": "Gerunggang",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33123",
+      "kelurahan_name": "Kejaksaan",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33123",
+      "kelurahan_name": "Taman Bunga",
+      "kecamatan_name": "Gerunggang",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33124",
+      "kelurahan_name": "Tua Tunu Indah",
+      "kecamatan_name": "Gerunggang",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33125",
+      "kelurahan_name": "Kacang Pedang",
+      "kecamatan_name": "Gerunggang",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33127",
+      "kelurahan_name": "Gedung Nasional",
+      "kecamatan_name": "Taman Sari",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33132",
+      "kelurahan_name": "Masjid Jamik",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33133",
+      "kelurahan_name": "Pintu Air",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33134",
+      "kelurahan_name": "Keramat",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33135",
+      "kelurahan_name": "Asam",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33136",
+      "kelurahan_name": "Melintang",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33137",
+      "kelurahan_name": "Parit Lalang",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33138",
+      "kelurahan_name": "Bintang",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33139",
+      "kelurahan_name": "Pasir Putih",
+      "kecamatan_name": "Rangkui",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33141",
+      "kelurahan_name": "Batu Intan",
+      "kecamatan_name": "Girimaya",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33142",
+      "kelurahan_name": "Pasar Padi",
+      "kecamatan_name": "Girimaya",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33143",
+      "kelurahan_name": "Sriwijaya",
+      "kecamatan_name": "Girimaya",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33145",
+      "kelurahan_name": "Bukit Besar",
+      "kecamatan_name": "Girimaya",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33146",
+      "kelurahan_name": "Semabung Baru",
+      "kecamatan_name": "Girimaya",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33147",
+      "kelurahan_name": "Air Mawar",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33147",
+      "kelurahan_name": "Pasir Putih",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33147",
+      "kelurahan_name": "Semabung Lama",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33147",
+      "kelurahan_name": "Sinar Bulan",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33147",
+      "kelurahan_name": "Temberan",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33148",
+      "kelurahan_name": "Bacang",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33149",
+      "kelurahan_name": "Air Itam",
+      "kecamatan_name": "Bukit Intan",
+      "regency_name": "Pangkal Pinang",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Air Anyir",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Balun Ijuk",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Baturusa",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Dwi Makmur",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Jada Bahrin",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Jurung",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Kimak",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Merawang",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Pagarawan",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33172",
+      "kelurahan_name": "Riding Panjang",
+      "kecamatan_name": "Merawang",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Air Buluh",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Air Duren",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Cengkong Abang",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Kace",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Kace Timur",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Kemuja",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Kota Kapur",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Labuh Air Pandan",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Mendo (Menduk)",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Payabenua",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Penagan",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Petaling",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Petaling Banjar",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Rukam",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33173",
+      "kelurahan_name": "Zed",
+      "kecamatan_name": "Mendo Barat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Kayu Besi",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Kota Waringin",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Labu",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Nibung",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Pudingbesar",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Saing",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33179",
+      "kelurahan_name": "Tanah Bawah",
+      "kecamatan_name": "Puding Besar",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33211",
+      "kelurahan_name": "Kenanga",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33211",
+      "kelurahan_name": "Rebo",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33211",
+      "kelurahan_name": "Sungailiat",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33212",
+      "kelurahan_name": "Sinar Baru",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33213",
+      "kelurahan_name": "Kudai (Kuday)",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33214",
+      "kelurahan_name": "Srimenanti",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33215",
+      "kelurahan_name": "Parit Padang",
+      "kecamatan_name": "Sungai Liat",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33251",
+      "kelurahan_name": "Penyamun",
+      "kecamatan_name": "Pemali",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33251",
+      "kelurahan_name": "Sempan",
+      "kecamatan_name": "Pemali",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Bakam",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Bukit Layang",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Dalil",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Kapuk",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Mabat",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Mangka",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Maras Senang",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Neknang",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33252",
+      "kelurahan_name": "Tiang Tara",
+      "kecamatan_name": "Bakam",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Air Jukung",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Banyu Asin",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Berbura",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Bintet",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Bukit Ketok",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Cit",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Deniang",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Gunung Muda",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Gunung Pelawan",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Kuto Panji",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Lumut",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Mapur",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Pangkal Niur",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Pugul",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Riau",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Riding Panjang",
+      "kecamatan_name": "Belinyu",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33253",
+      "kelurahan_name": "Silip",
+      "kecamatan_name": "Riau Silip",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33255",
+      "kelurahan_name": "Air Duren",
+      "kecamatan_name": "Pemali",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33255",
+      "kelurahan_name": "Air Ruai",
+      "kecamatan_name": "Pemali",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33255",
+      "kelurahan_name": "Karya Makmur",
+      "kecamatan_name": "Pemali",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33255",
+      "kelurahan_name": "Pemali",
+      "kecamatan_name": "Pemali",
+      "regency_name": "Bangka",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33311",
+      "kelurahan_name": "Tanjung",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33312",
+      "kelurahan_name": "Sungai Baru",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33313",
+      "kelurahan_name": "Sungai Daeng",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33351",
+      "kelurahan_name": "Air Belo",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33351",
+      "kelurahan_name": "Air Limau",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33351",
+      "kelurahan_name": "Air Putih",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33351",
+      "kelurahan_name": "Belolaut",
+      "kecamatan_name": "Mentok (Muntok)",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Air Gantang",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Air Kuang",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Bakit",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Cupat",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Jebus",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Kapit",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Kelabat",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Ketap",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Limbung",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Mislak",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Pebuar",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Puput",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Ranggi Asam",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Rukam",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Sekar Biru",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Semulut",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Sinar Manik",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Sungai Buluh",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Telak",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Teluk Limau",
+      "kecamatan_name": "Parittiga",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33362",
+      "kelurahan_name": "Tumbak Petar",
+      "kecamatan_name": "Jebus",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Air Bulin",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Beruas",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Dendang",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Kacung",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Kayuarang",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Kelapa",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Mancung",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Pangkal Beras",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Pusuk",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Sinar Sari",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Tebing",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Terentang",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Tugang",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33364",
+      "kelurahan_name": "Tuik",
+      "kecamatan_name": "Kelapa",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Air Lintang",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Benteng Kota / Kuta",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Buyan Kelumbi",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Penyampak",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Sangku",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Simpang Yul",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Sinar Surya",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Tanjungniur",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33365",
+      "kelurahan_name": "Tempilang",
+      "kecamatan_name": "Tempilang",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Air Menduyung",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Air Nyatoh",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Berang",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Bukit Terak",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Ibul",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Kundi",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Mayang",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Pangek",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Pelangas",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Peradong",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Rambat",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Simpang Gung",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33366",
+      "kelurahan_name": "Simpang Tiga",
+      "kecamatan_name": "Simpang Teritip",
+      "regency_name": "Bangka Barat",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Aik Ketekok",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Air Merbau",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Buluh Tumbang",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Dukong",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Kota Tanjung Pandan",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Lesung Batang",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Parit",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33411",
+      "kelurahan_name": "Tanjung Pendam",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33412",
+      "kelurahan_name": "Pangkal Lalang",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33413",
+      "kelurahan_name": "Aik Rayak",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33413",
+      "kelurahan_name": "Perawas",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Aik Palempang Jaya",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Air Selumar",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Air Seru",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Batu Itam",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Keciput",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Paal Satu",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Pelepak Pute",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Sijuk",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Sungai Padang",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Tanjong Tinggi",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Tanjung Binga",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33414",
+      "kelurahan_name": "Terong",
+      "kecamatan_name": "Sijuk",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33415",
+      "kelurahan_name": "Air Saga",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33417",
+      "kelurahan_name": "Juru Seberang",
+      "kecamatan_name": "Tanjung Pandan",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Air Batu",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Badau",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Cerucuk",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Ibul",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Kacang Botor",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Pegantungan",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33451",
+      "kelurahan_name": "Sungai Samak",
+      "kecamatan_name": "Badau",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Bantan",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Gunung Riting",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Kembiri",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Lassar",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Membalong",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Mentigi",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Padang Kandis",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Perpat",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Pulau Seliu",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Pulau Sumedang",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Simpang Rusa",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33452",
+      "kelurahan_name": "Tanjung Rusa",
+      "kecamatan_name": "Membalong",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33481",
+      "kelurahan_name": "Petaling",
+      "kecamatan_name": "Selat Nasik",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33481",
+      "kelurahan_name": "Pulau Gresik",
+      "kecamatan_name": "Selat Nasik",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33481",
+      "kelurahan_name": "Selat Nasik",
+      "kecamatan_name": "Selat Nasik",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33481",
+      "kelurahan_name": "Suak Gual",
+      "kecamatan_name": "Selat Nasik",
+      "regency_name": "Belitung",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33511",
+      "kelurahan_name": "Lalang",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33511",
+      "kelurahan_name": "Lalang Jaya",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33511",
+      "kelurahan_name": "Pulau Buku Limau",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33512",
+      "kelurahan_name": "Baru",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33512",
+      "kelurahan_name": "Kurnia Jaya",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33513",
+      "kelurahan_name": "Sukamandi",
+      "kecamatan_name": "Damar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33514",
+      "kelurahan_name": "Mengkubang",
+      "kecamatan_name": "Damar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33515",
+      "kelurahan_name": "Mempaya",
+      "kecamatan_name": "Damar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33516",
+      "kelurahan_name": "Padang",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33517",
+      "kelurahan_name": "Bentaian Jaya",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33517",
+      "kelurahan_name": "Kelubi",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33517",
+      "kelurahan_name": "Mekar Jaya",
+      "kecamatan_name": "Manggar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Balok",
+      "kecamatan_name": "Dendang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Dendang",
+      "kecamatan_name": "Dendang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Dukong",
+      "kecamatan_name": "Simpang Pesak",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Jangkang",
+      "kecamatan_name": "Dendang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Nyuruk",
+      "kecamatan_name": "Dendang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Simpang Pesak",
+      "kecamatan_name": "Simpang Pesak",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Tanjung Batu Itam",
+      "kecamatan_name": "Simpang Pesak",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33561",
+      "kelurahan_name": "Tanjung Kelumpang",
+      "kecamatan_name": "Simpang Pesak",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Aik Madu",
+      "kecamatan_name": "Simpang Renggiang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Batu Penyu",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Gantung",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Jangkar Asam",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Lenggang",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Lilangan",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Limbongan",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Lintang",
+      "kecamatan_name": "Simpang Renggiang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Renggiang",
+      "kecamatan_name": "Simpang Renggiang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Selingsing",
+      "kecamatan_name": "Gantung",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33562",
+      "kelurahan_name": "Simpang Tiga",
+      "kecamatan_name": "Simpang Renggiang",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Air Kelik",
+      "kecamatan_name": "Damar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Buding",
+      "kecamatan_name": "Kelapa Kampit",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Burung Mandi",
+      "kecamatan_name": "Damar",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Cendil",
+      "kecamatan_name": "Kelapa Kampit",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Mayang",
+      "kecamatan_name": "Kelapa Kampit",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Mentawak",
+      "kecamatan_name": "Kelapa Kampit",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Pembaharuan",
+      "kecamatan_name": "Kelapa Kampit",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33571",
+      "kelurahan_name": "Senyubuk",
+      "kecamatan_name": "Kelapa Kampit",
+      "regency_name": "Belitung Timur",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Beruas",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Celuak",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Katis",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Pasir Garam",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Pinang Sebatang",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Puput",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Simpang Katis",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Sungkap",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Terak",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33674",
+      "kelurahan_name": "Teru",
+      "kecamatan_name": "Simpang Katis",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Kemingking",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Kerakas",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Kerantai",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Keretak",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Keretak Atas",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Lampur",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Melabun",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Munggu",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Ramadhon (Romadhoni)",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Sarangmandi",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Sungai Selan",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Sungai Selan Atas",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33675",
+      "kelurahan_name": "Tanjung Pura",
+      "kecamatan_name": "Sungai Selan",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Arung Dalam",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Baskara Bakti / Bhakti",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Batu Beriga",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Belimbing",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Berok",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Bukit Kijang",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Guntung",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Koba",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Kulur",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Kulur Hilir",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Kurau (Timur)",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Kurau Barat",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Lubuk Besar",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Lubuk Lingkuk",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Lubuk Pabrik",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Nibung",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Padang Mulya",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Penyak",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Perlang",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Simpang Perlang",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Terentang III",
+      "kecamatan_name": "Koba",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33681",
+      "kelurahan_name": "Trubus",
+      "kecamatan_name": "Lubuk Besar",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Air Mesu Timur",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Airmesu",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Batu Belubang",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Belilik",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Beluluk",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Benteng",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Cambai",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Cambai Selatan",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Dul",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Jelutung",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Jeruk",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Kayu Besi",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Kebintik",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Mangkol",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Namang",
+      "kecamatan_name": "Namang",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Padang Baru",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Pelindang (Selindung)",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33684",
+      "kelurahan_name": "Tanjung Gunung",
+      "kecamatan_name": "Pangkalan Baru",
+      "regency_name": "Bangka Tengah",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Bangka Kota",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Gudang",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Jelutung II",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Permis",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Rajik",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Sebagin",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33777",
+      "kelurahan_name": "Simpang Rimba",
+      "kecamatan_name": "Simpang Rimba",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Batu Betumpang",
+      "kecamatan_name": "Pulau Besar",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Bedengung",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Fajar Indah (Trans 1)",
+      "kecamatan_name": "Pulau Besar",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Irat",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Malik",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Nadung",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Paku",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Panca Tunggal (Trans 3)",
+      "kecamatan_name": "Pulau Besar",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Pangkalbuluh",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Payung",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Ranggung",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Sengir",
+      "kecamatan_name": "Payung",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Sukajaya",
+      "kecamatan_name": "Pulau Besar",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33778",
+      "kelurahan_name": "Sumber Jaya Permai (Trans 4)",
+      "kecamatan_name": "Pulau Besar",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Air Bara",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Air Gegas",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Bencah",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Delas",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Nangka",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Nyelanding",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Pergam",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Ranggas",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Sidoharjo",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33782",
+      "kelurahan_name": "Tepus",
+      "kecamatan_name": "Air Gegas",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Bikang",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Bukit Terap",
+      "kecamatan_name": "Tukak Sadai",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Gadung",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Jeriji",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Kaposang / Keposang",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Kepoh",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Pasir Putih",
+      "kecamatan_name": "Tukak Sadai",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Rias",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Rindik",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Sadai",
+      "kecamatan_name": "Tukak Sadai",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Serdang",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Tanjung Ketapang",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Teladan",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Tiram",
+      "kecamatan_name": "Tukak Sadai",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Toboali",
+      "kecamatan_name": "Toboali",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33783",
+      "kelurahan_name": "Tukak",
+      "kecamatan_name": "Tukak Sadai",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33791",
+      "kelurahan_name": "Celagen",
+      "kecamatan_name": "Kepulauan Pongok",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33791",
+      "kelurahan_name": "Kumbung",
+      "kecamatan_name": "Lepar Pongok",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33791",
+      "kelurahan_name": "Penutuk",
+      "kecamatan_name": "Lepar Pongok",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33791",
+      "kelurahan_name": "Pongok",
+      "kecamatan_name": "Kepulauan Pongok",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33791",
+      "kelurahan_name": "Tanjung Labu",
+      "kecamatan_name": "Lepar Pongok",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    },
+    {
+      "postal_code": "33791",
+      "kelurahan_name": "Tanjung Sangkar",
+      "kecamatan_name": "Lepar Pongok",
+      "regency_name": "Bangka Selatan",
+      "province_code": "19",
+      "province_name": "Kepulauan Bangka Belitung",
+      "province_name_en": "Bangka Belitung Islands"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Bangka Belitung - Unduh Gratis",
+    "description": "Daftar 380 kode pos tingkat kelurahan/desa di Provinsi Kepulauan Bangka Belitung (kode BPS 19). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan. Berisi 380 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Bangka Belitung | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos per Kelurahan/Desa di Kepulauan Bangka Belitung — 380 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 380 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

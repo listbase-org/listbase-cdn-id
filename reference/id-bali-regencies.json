@@ -1,0 +1,100 @@
+{
+  "id": "id-bali-regencies",
+  "name": "Daftar Kabupaten dan Kota di Bali",
+  "title": "Daftar Kabupaten dan Kota di Bali",
+  "description": "Daftar kabupaten dan kota di Provinsi Bali dengan kode wilayah Kepmendagri. Total 9 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "51.01",
+      "name": "Kabupaten Jembrana",
+      "type": "Kabupaten",
+      "slug": "kabupaten-jembrana"
+    },
+    {
+      "code": "51.02",
+      "name": "Kabupaten Tabanan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tabanan"
+    },
+    {
+      "code": "51.03",
+      "name": "Kabupaten Badung",
+      "type": "Kabupaten",
+      "slug": "kabupaten-badung"
+    },
+    {
+      "code": "51.04",
+      "name": "Kabupaten Gianyar",
+      "type": "Kabupaten",
+      "slug": "kabupaten-gianyar"
+    },
+    {
+      "code": "51.05",
+      "name": "Kabupaten Klungkung",
+      "type": "Kabupaten",
+      "slug": "kabupaten-klungkung"
+    },
+    {
+      "code": "51.06",
+      "name": "Kabupaten Bangli",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bangli"
+    },
+    {
+      "code": "51.07",
+      "name": "Kabupaten Karangasem",
+      "type": "Kabupaten",
+      "slug": "kabupaten-karangasem"
+    },
+    {
+      "code": "51.08",
+      "name": "Kabupaten Buleleng",
+      "type": "Kabupaten",
+      "slug": "kabupaten-buleleng"
+    },
+    {
+      "code": "51.71",
+      "name": "Kota Denpasar",
+      "type": "Kota",
+      "slug": "kota-denpasar"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Bali - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Bali dengan kode wilayah Kepmendagri. Total 9 kabupaten/kota. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Bali | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Bali — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

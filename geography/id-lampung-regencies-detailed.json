@@ -1,0 +1,256 @@
+{
+  "id": "id-lampung-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Lampung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Lampung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "15 kabupaten/kota di Provinsi Lampung dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "18.01",
+      "name": "Kabupaten Lampung Selatan",
+      "type": "kabupaten",
+      "capital": "Kalianda",
+      "latitude": -5.717676,
+      "longitude": 105.585348,
+      "elevation_m": 17,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2227.357,
+      "population": 1124683
+    },
+    {
+      "code": "18.02",
+      "name": "Kabupaten Lampung Tengah",
+      "type": "kabupaten",
+      "capital": "Gunung Sugih",
+      "latitude": -4.977247,
+      "longitude": 105.21014,
+      "elevation_m": 34,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4559.57,
+      "population": 1394395
+    },
+    {
+      "code": "18.03",
+      "name": "Kabupaten Lampung Utara",
+      "type": "kabupaten",
+      "capital": "Kotabumi",
+      "latitude": -4.82919,
+      "longitude": 104.887445,
+      "elevation_m": 37,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2669.304,
+      "population": 675626
+    },
+    {
+      "code": "18.04",
+      "name": "Kabupaten Lampung Barat",
+      "type": "kabupaten",
+      "capital": "Liwa",
+      "latitude": -5.018975,
+      "longitude": 104.060763,
+      "elevation_m": 907,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2110.101,
+      "population": 313756
+    },
+    {
+      "code": "18.05",
+      "name": "Kabupaten Tulang Bawang",
+      "type": "kabupaten",
+      "capital": "Menggala",
+      "latitude": -4.494997,
+      "longitude": 105.220212,
+      "elevation_m": 21,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3118.613,
+      "population": 440040
+    },
+    {
+      "code": "18.06",
+      "name": "Kabupaten Tanggamus",
+      "type": "kabupaten",
+      "capital": "Kota Agung",
+      "latitude": -5.480675,
+      "longitude": 104.6823,
+      "elevation_m": 267,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2947.187,
+      "population": 641036
+    },
+    {
+      "code": "18.07",
+      "name": "Kabupaten Lampung Timur",
+      "type": "kabupaten",
+      "capital": "Sukadana",
+      "latitude": -5.048183,
+      "longitude": 105.528255,
+      "elevation_m": 29,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3860.546,
+      "population": 1122605
+    },
+    {
+      "code": "18.08",
+      "name": "Kabupaten Way Kanan",
+      "type": "kabupaten",
+      "capital": "Blambangan Umpu",
+      "latitude": -4.506182,
+      "longitude": 104.511314,
+      "elevation_m": 70,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3522.114,
+      "population": 495058
+    },
+    {
+      "code": "18.09",
+      "name": "Kabupaten Pesawaran",
+      "type": "kabupaten",
+      "capital": "Gedong Tataan",
+      "latitude": -5.397533,
+      "longitude": 105.070108,
+      "elevation_m": 163,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1286.843,
+      "population": 501047
+    },
+    {
+      "code": "18.10",
+      "name": "Kabupaten Pringsewu",
+      "type": "kabupaten",
+      "capital": "Pringsewu",
+      "latitude": -5.344242,
+      "longitude": 105.006402,
+      "elevation_m": 96,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 617.192,
+      "population": 444834
+    },
+    {
+      "code": "18.11",
+      "name": "Kabupaten Mesuji",
+      "type": "kabupaten",
+      "capital": "Mesuji",
+      "latitude": -3.873163,
+      "longitude": 105.427879,
+      "elevation_m": 17,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2200.414,
+      "population": 241280
+    },
+    {
+      "code": "18.12",
+      "name": "Kabupaten Tulang Bawang Barat",
+      "type": "kabupaten",
+      "capital": "Tulang Bawang Tengah",
+      "latitude": -4.499407,
+      "longitude": 105.1199,
+      "elevation_m": 41,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1257.088,
+      "population": 312516
+    },
+    {
+      "code": "18.13",
+      "name": "Kabupaten Pesisir Barat",
+      "type": "kabupaten",
+      "capital": "Krui",
+      "latitude": -5.188425,
+      "longitude": 103.934584,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2937.496,
+      "population": 177430
+    },
+    {
+      "code": "18.71",
+      "name": "Kota Bandar Lampung",
+      "type": "kota",
+      "capital": "Bandar Lampung",
+      "latitude": -5.429579,
+      "longitude": 105.262568,
+      "elevation_m": 90,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 183.719,
+      "population": 1077664
+    },
+    {
+      "code": "18.72",
+      "name": "Kota Metro",
+      "type": "kota",
+      "capital": "Metro",
+      "latitude": -5.113689,
+      "longitude": 105.306904,
+      "elevation_m": 62,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 73.214,
+      "population": 182293
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Lampung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "15 kabupaten/kota di Provinsi Lampung dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 15 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Lampung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Lampung (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 15 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 15 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

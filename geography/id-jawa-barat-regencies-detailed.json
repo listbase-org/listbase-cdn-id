@@ -1,0 +1,400 @@
+{
+  "id": "id-jawa-barat-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Jawa Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Jawa Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "27 kabupaten/kota di Provinsi Jawa Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "32.01",
+      "name": "Kabupaten Bogor",
+      "type": "kabupaten",
+      "capital": "Cibinong",
+      "latitude": -6.479479,
+      "longitude": 106.824717,
+      "elevation_m": 134,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2991.778,
+      "population": 5809790
+    },
+    {
+      "code": "32.02",
+      "name": "Kabupaten Sukabumi",
+      "type": "kabupaten",
+      "capital": "Palabuhanratu",
+      "latitude": -6.989165,
+      "longitude": 106.550223,
+      "elevation_m": 16,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4163.824,
+      "population": 2868943
+    },
+    {
+      "code": "32.03",
+      "name": "Kabupaten Cianjur",
+      "type": "kabupaten",
+      "capital": "Cianjur",
+      "latitude": -6.822746,
+      "longitude": 107.139484,
+      "elevation_m": 456,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3631.969,
+      "population": 2638825
+    },
+    {
+      "code": "32.04",
+      "name": "Kabupaten Bandung",
+      "type": "kabupaten",
+      "capital": "Soreang",
+      "latitude": -7.021855,
+      "longitude": 107.527551,
+      "elevation_m": 722,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1740.843,
+      "population": 3839721
+    },
+    {
+      "code": "32.05",
+      "name": "Kabupaten Garut",
+      "type": "kabupaten",
+      "capital": "Tarogong Kidul",
+      "latitude": -7.202672,
+      "longitude": 107.886068,
+      "elevation_m": 761,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3101.132,
+      "population": 2851877
+    },
+    {
+      "code": "32.06",
+      "name": "Kabupaten Tasikmalaya",
+      "type": "kabupaten",
+      "capital": "Singaparna",
+      "latitude": -7.361039,
+      "longitude": 108.113076,
+      "elevation_m": 400,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2706.972,
+      "population": 1996059
+    },
+    {
+      "code": "32.07",
+      "name": "Kabupaten Ciamis",
+      "type": "kabupaten",
+      "capital": "Ciamis",
+      "latitude": -7.325899,
+      "longitude": 108.351401,
+      "elevation_m": 207,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1595.936,
+      "population": 1297783
+    },
+    {
+      "code": "32.08",
+      "name": "Kabupaten Kuningan",
+      "type": "kabupaten",
+      "capital": "Kuningan",
+      "latitude": -6.975865,
+      "longitude": 108.483105,
+      "elevation_m": 537,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1193.449,
+      "population": 1239999
+    },
+    {
+      "code": "32.09",
+      "name": "Kabupaten Cirebon",
+      "type": "kabupaten",
+      "capital": "Sumber",
+      "latitude": -6.764528,
+      "longitude": 108.47862,
+      "elevation_m": 69,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1073.772,
+      "population": 2489046
+    },
+    {
+      "code": "32.10",
+      "name": "Kabupaten Majalengka",
+      "type": "kabupaten",
+      "capital": "Majalengka",
+      "latitude": -6.836271,
+      "longitude": 108.227555,
+      "elevation_m": 130,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1331.553,
+      "population": 1369569
+    },
+    {
+      "code": "32.11",
+      "name": "Kabupaten Sumedang",
+      "type": "kabupaten",
+      "capital": "Sumedang Utara",
+      "latitude": -6.861204,
+      "longitude": 107.920617,
+      "elevation_m": 463,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1566.204,
+      "population": 1226660
+    },
+    {
+      "code": "32.12",
+      "name": "Kabupaten Indramayu",
+      "type": "kabupaten",
+      "capital": "Indramayu",
+      "latitude": -6.32708,
+      "longitude": 108.323209,
+      "elevation_m": 4,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2076.266,
+      "population": 1980080
+    },
+    {
+      "code": "32.13",
+      "name": "Kabupaten Subang",
+      "type": "kabupaten",
+      "capital": "Subang",
+      "latitude": -6.571295,
+      "longitude": 107.762353,
+      "elevation_m": 96,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2168.909,
+      "population": 1677628
+    },
+    {
+      "code": "32.14",
+      "name": "Kabupaten Purwakarta",
+      "type": "kabupaten",
+      "capital": "Purwakarta",
+      "latitude": -6.556212,
+      "longitude": 107.441257,
+      "elevation_m": 83,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 993.092,
+      "population": 1063932
+    },
+    {
+      "code": "32.15",
+      "name": "Kabupaten Karawang",
+      "type": "kabupaten",
+      "capital": "Karawang Barat",
+      "latitude": -6.301616,
+      "longitude": 107.304882,
+      "elevation_m": 16,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1916.056,
+      "population": 2612065
+    },
+    {
+      "code": "32.16",
+      "name": "Kabupaten Bekasi",
+      "type": "kabupaten",
+      "capital": "Cikarang Pusat",
+      "latitude": -6.247447,
+      "longitude": 107.148452,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1255.001,
+      "population": 3387601
+    },
+    {
+      "code": "32.17",
+      "name": "Kabupaten Bandung Barat",
+      "type": "kabupaten",
+      "capital": "Ngamprah",
+      "latitude": -6.865221,
+      "longitude": 107.491977,
+      "elevation_m": 665,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1283.439,
+      "population": 1911661
+    },
+    {
+      "code": "32.18",
+      "name": "Kabupaten Pangandaran",
+      "type": "kabupaten",
+      "capital": "Parigi",
+      "latitude": -7.615061,
+      "longitude": 108.498827,
+      "elevation_m": 150,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1128.122,
+      "population": 447272
+    },
+    {
+      "code": "32.71",
+      "name": "Kota Bogor",
+      "type": "kota",
+      "capital": "Bogor",
+      "latitude": -6.595057,
+      "longitude": 106.794112,
+      "elevation_m": 260,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 111.366,
+      "population": 1144108
+    },
+    {
+      "code": "32.72",
+      "name": "Kota Sukabumi",
+      "type": "kota",
+      "capital": "Sukabumi",
+      "latitude": -6.917619,
+      "longitude": 106.931857,
+      "elevation_m": 626,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 48.314,
+      "population": 370096
+    },
+    {
+      "code": "32.73",
+      "name": "Kota Bandung",
+      "type": "kota",
+      "capital": "Bandung",
+      "latitude": -6.910656,
+      "longitude": 107.60987,
+      "elevation_m": 726,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 166.593,
+      "population": 2591763
+    },
+    {
+      "code": "32.74",
+      "name": "Kota Cirebon",
+      "type": "kota",
+      "capital": "Cirebon",
+      "latitude": -6.706735,
+      "longitude": 108.558247,
+      "elevation_m": 6,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 39.398,
+      "population": 356629
+    },
+    {
+      "code": "32.75",
+      "name": "Kota Bekasi",
+      "type": "kota",
+      "capital": "Bekasi",
+      "latitude": -6.236014,
+      "longitude": 106.994248,
+      "elevation_m": 22,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 213.036,
+      "population": 2572209
+    },
+    {
+      "code": "32.76",
+      "name": "Kota Depok",
+      "type": "kota",
+      "capital": "Depok",
+      "latitude": -6.394166,
+      "longitude": 106.822689,
+      "elevation_m": 89,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 199.906,
+      "population": 2010912
+    },
+    {
+      "code": "32.77",
+      "name": "Kota Cimahi",
+      "type": "kota",
+      "capital": "Cimahi",
+      "latitude": -6.870807,
+      "longitude": 107.555159,
+      "elevation_m": 785,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 42.432,
+      "population": 581994
+    },
+    {
+      "code": "32.78",
+      "name": "Kota Tasikmalaya",
+      "type": "kota",
+      "capital": "Tasikmalaya",
+      "latitude": -7.316053,
+      "longitude": 108.197014,
+      "elevation_m": 381,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 182.964,
+      "population": 770839
+    },
+    {
+      "code": "32.79",
+      "name": "Kota Banjar",
+      "type": "kota",
+      "capital": "Banjar",
+      "latitude": -7.362161,
+      "longitude": 108.55959,
+      "elevation_m": 39,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 131.005,
+      "population": 209317
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Jawa Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "27 kabupaten/kota di Provinsi Jawa Barat dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 27 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Jawa Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Jawa Barat (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 27 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 27 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

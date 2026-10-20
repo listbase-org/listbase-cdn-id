@@ -1,0 +1,97 @@
+{
+  "id": "id-satuan-ukuran-force",
+  "name": "Satuan ukuran — kategori 'force' (4)",
+  "title": "Satuan ukuran — kategori 'force' (4)",
+  "description": "Satuan ukuran kategori 'force' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "kategori": "force",
+      "nama": "kilogram gaya",
+      "singkatan": "kgf",
+      "bentuk_sempit": "kgf",
+      "pola": "{0} kilogram gaya"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategori": "force",
+      "nama": "kilowatt-jam per 100 kilometer",
+      "singkatan": "kWh/100km",
+      "bentuk_sempit": "kWh/100km",
+      "pola": "{0} kilowatt-jam per 100 kilometer"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "kategori": "force",
+      "nama": "newton",
+      "singkatan": "newton",
+      "bentuk_sempit": "N",
+      "pola": "{0} newton"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "kategori": "force",
+      "nama": "pound gaya",
+      "singkatan": "pound gaya",
+      "bentuk_sempit": "lbf",
+      "pola": "{0} pound gaya"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'force' (4) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'force' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'force' (4) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'force' (4) — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

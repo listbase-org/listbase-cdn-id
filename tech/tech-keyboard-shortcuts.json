@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "Dataset Pintasan Keyboard Universal untuk Windows & macOS",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action (EN)",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "Salin",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Potong",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Tempel",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Batalkan",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Ulangi",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Pilih Semua",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Simpan",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Temukan",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Temukan dan Ganti",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Cetak",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Baru",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Buka",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Tutup Jendela/Tab",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Keluar Aplikasi",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Bantuan",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "Universal",
+      "application": "All"
+    },
+    {
+      "action": "Tampilkan Desktop",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Buka File Explorer/Komputer",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Kunci Layar",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Tampilan Tugas/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Beralih Aplikasi",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Tangkapan Layar Pilihan",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Tangkapan Layar Penuh",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Pengelola Tugas/Paksa Berhenti",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Jalankan/Spotlight",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Pengaturan/Preferensi",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "Sistem",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Tab Baru",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Buka Kembali Tab yang Ditutup",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tab Berikutnya",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tab Sebelumnya",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Fokus Bilah Alamat",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Segarkan Halaman",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Segarkan Ulang Paksa (Bersihkan Cache)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tandai Halaman",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Alihkan Bilah Penanda",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Unduhan",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Riwayat",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Jendela Samaran Baru",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "Peramban",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "Jendela Pribadi Baru",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Peramban",
+      "application": "Firefox"
+    },
+    {
+      "action": "Alat Pengembang",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Lihat Sumber Halaman",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "Peramban",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Palet Perintah",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Buka Berkas Cepat",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Alihkan Terminal",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Alihkan Bilah Sisi",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Alihkan Komentar Baris",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Hapus Baris",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Pindahkan Baris ke Atas/Bawah",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Pilih Kemunculan Berikutnya",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Pilih Semua Kemunculan",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Pergi ke Baris",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Ganti Nama Simbol",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Pergi ke Definisi",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Cari dalam Berkas",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Tambahkan Komentar Baris",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Hapus Komentar Baris",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Pindah per Kata",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "Teks",
+      "application": "All"
+    },
+    {
+      "action": "Pilih per Kata",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "Teks",
+      "application": "All"
+    },
+    {
+      "action": "Pergi ke Awal/Akhir Baris",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "Teks",
+      "application": "All"
+    },
+    {
+      "action": "Pergi ke Awal/Akhir Dokumen",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "Teks",
+      "application": "All"
+    },
+    {
+      "action": "Hapus Kata Sebelumnya",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "Teks",
+      "application": "All"
+    },
+    {
+      "action": "Hapus Kata Sesudah",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "Teks",
+      "application": "All"
+    },
+    {
+      "action": "Tebal",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Teks",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Miring",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "Teks",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Garis Bawah",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "Teks",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Sisipkan Tanggal Saat Ini",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Sisipkan Waktu Saat Ini",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Pilih Kolom",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Pilih Baris",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Sisipkan Sel",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Hapus Sel",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Alihkan Referensi Absolut",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Tampilkan Rumus",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Lembar Bentang",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Batalkan/Interupsi",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Bersihkan Layar",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Lengkapi Otomatis",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Riwayat Perintah",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Cari Riwayat Perintah",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "Terminal",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "Pintasan Keyboard Umum - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 77 pintasan keyboard umum untuk Windows & macOS. Tersedia dalam format Excel, CSV, dan PDF untuk tingkatkan produktivitas.",
+    "title": "Dataset Pintasan Keyboard Universal untuk Windows & macOS",
+    "description": "Dataset ini menyediakan daftar komprehensif 77 pintasan keyboard umum untuk Windows dan macOS, dikategorikan berdasarkan tindakan dan aplikasi. Tingkatkan produktivitas Anda dengan akses cepat ke perintah penting.",
+    "key_takeaways": [
+      "Akses 77 pintasan keyboard penting untuk Windows dan macOS.",
+      "Jelajahi perintah universal dan khusus aplikasi untuk produktivitas.",
+      "Unduh daftar pintasan komprehensif dalam berbagai format yang nyaman.",
+      "Tingkatkan efisiensi alur kerja dengan menguasai operasi komputer umum."
+    ],
+    "keywords": [
+      "pintasan keyboard excel",
+      "pintasan windows csv",
+      "pintasan macOS pdf",
+      "daftar pintasan umum",
+      "unduh pintasan produktivitas",
+      "hotkey komputer"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke aplikasi kustom atau platform pembelajaran Anda untuk mengintegrasikan referensi pintasan bagi pengembang.",
+      "Gunakan file **Excel** untuk memfilter dan mengurutkan pintasan berdasarkan kategori, aplikasi, atau platform untuk lembar contekan dan materi pelatihan yang dipersonalisasi.",
+      "Cetak versi **PDF** untuk panduan referensi desktop yang praktis atau untuk didistribusikan dalam lokakarya pendidikan tentang literasi komputer.",
+      "Manfaatkan data ini untuk membangun kuis interaktif atau alat bantu yang mengajarkan pengguna navigasi dan eksekusi perintah yang efisien."
+    ]
+  },
+  "record_count": 77,
+  "title": "Dataset Pintasan Keyboard Universal untuk Windows & macOS"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "id-zona-waktu-europe",
+  "name": "Zona waktu — Europe (18)",
+  "title": "Zona waktu — Europe (18)",
+  "description": "Zona waktu yang pengenal IANA-nya diawali 'Europe/', dengan nama dalam bahasa Indonesia.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Athens",
+      "wilayah": "Europe",
+      "kota": "Athena",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Belgrade",
+      "wilayah": "Europe",
+      "kota": "Beograd",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Busingen",
+      "wilayah": "Europe",
+      "kota": "Büsingen",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Chisinau",
+      "wilayah": "Europe",
+      "kota": "Kishinev",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Copenhagen",
+      "wilayah": "Europe",
+      "kota": "Kopenhagen",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Dublin",
+      "wilayah": "Europe",
+      "kota": "",
+      "nama_standar": "",
+      "nama_musim_panas": "Waktu Standar Irlandia"
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Isle_of_Man",
+      "wilayah": "Europe",
+      "kota": "Pulau Man",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Kiev",
+      "wilayah": "Europe",
+      "kota": "Kiev",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/London",
+      "wilayah": "Europe",
+      "kota": "",
+      "nama_standar": "",
+      "nama_musim_panas": "Waktu Musim Panas Inggris"
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Luxembourg",
+      "wilayah": "Europe",
+      "kota": "Luksemburg",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Monaco",
+      "wilayah": "Europe",
+      "kota": "Monako",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Moscow",
+      "wilayah": "Europe",
+      "kota": "Moskwa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Prague",
+      "wilayah": "Europe",
+      "kota": "Praha",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Rome",
+      "wilayah": "Europe",
+      "kota": "Roma",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Tirane",
+      "wilayah": "Europe",
+      "kota": "Tirana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Vatican",
+      "wilayah": "Europe",
+      "kota": "Vatikan",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Vienna",
+      "wilayah": "Europe",
+      "kota": "Wina",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Warsaw",
+      "wilayah": "Europe",
+      "kota": "Warsawa",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu — Europe (18) - Unduh Gratis",
+    "description": "Zona waktu yang pengenal IANA-nya diawali 'Europe/', dengan nama dalam bahasa Indonesia. Berisi 18 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu — Europe (18) | ListBase",
+    "seo_description": "Unduh Zona waktu — Europe (18) — 18 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 18 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "id": "id-bali-districts",
+  "name": "Daftar Kecamatan di Bali",
+  "title": "Daftar Kecamatan di Bali",
+  "description": "Daftar kecamatan (distrik) di Provinsi Bali dengan kode wilayah Kepmendagri serta kabupaten/kota induknya. Total 57 kecamatan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency",
+      "label": "Regency",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "51.01.01",
+      "name": "Negara",
+      "regency_code": "51.01",
+      "regency": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.01.02",
+      "name": "Mendoyo",
+      "regency_code": "51.01",
+      "regency": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.01.03",
+      "name": "Pekutatan",
+      "regency_code": "51.01",
+      "regency": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.01.04",
+      "name": "Melaya",
+      "regency_code": "51.01",
+      "regency": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.01.05",
+      "name": "Jembrana",
+      "regency_code": "51.01",
+      "regency": "Kabupaten Jembrana",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.01",
+      "name": "Selemadeg",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.02",
+      "name": "Selemadeg Timur",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.03",
+      "name": "Selemadeg Barat",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.04",
+      "name": "Kerambitan",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.05",
+      "name": "Tabanan",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.06",
+      "name": "Kediri",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.07",
+      "name": "Marga",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.08",
+      "name": "Penebel",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.09",
+      "name": "Baturiti",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.02.10",
+      "name": "Pupuan",
+      "regency_code": "51.02",
+      "regency": "Kabupaten Tabanan",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.03.01",
+      "name": "Kuta",
+      "regency_code": "51.03",
+      "regency": "Kabupaten Badung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.03.02",
+      "name": "Mengwi",
+      "regency_code": "51.03",
+      "regency": "Kabupaten Badung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.03.03",
+      "name": "Abiansemal",
+      "regency_code": "51.03",
+      "regency": "Kabupaten Badung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.03.04",
+      "name": "Petang",
+      "regency_code": "51.03",
+      "regency": "Kabupaten Badung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.03.05",
+      "name": "Kuta Selatan",
+      "regency_code": "51.03",
+      "regency": "Kabupaten Badung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.03.06",
+      "name": "Kuta Utara",
+      "regency_code": "51.03",
+      "regency": "Kabupaten Badung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.01",
+      "name": "Sukawati",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.02",
+      "name": "Blahbatuh",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.03",
+      "name": "Gianyar",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.04",
+      "name": "Tampaksiring",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.05",
+      "name": "Ubud",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.06",
+      "name": "Tegallalang",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.04.07",
+      "name": "Payangan",
+      "regency_code": "51.04",
+      "regency": "Kabupaten Gianyar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.05.01",
+      "name": "Nusa Penida",
+      "regency_code": "51.05",
+      "regency": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.05.02",
+      "name": "Banjarangkan",
+      "regency_code": "51.05",
+      "regency": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.05.03",
+      "name": "Klungkung",
+      "regency_code": "51.05",
+      "regency": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.05.04",
+      "name": "Dawan",
+      "regency_code": "51.05",
+      "regency": "Kabupaten Klungkung",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.06.01",
+      "name": "Susut",
+      "regency_code": "51.06",
+      "regency": "Kabupaten Bangli",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.06.02",
+      "name": "Bangli",
+      "regency_code": "51.06",
+      "regency": "Kabupaten Bangli",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.06.03",
+      "name": "Tembuku",
+      "regency_code": "51.06",
+      "regency": "Kabupaten Bangli",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.06.04",
+      "name": "Kintamani",
+      "regency_code": "51.06",
+      "regency": "Kabupaten Bangli",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.01",
+      "name": "Rendang",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.02",
+      "name": "Sidemen",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.03",
+      "name": "Manggis",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.04",
+      "name": "Karangasem",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.05",
+      "name": "Abang",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.06",
+      "name": "Bebandem",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.07",
+      "name": "Selat",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.07.08",
+      "name": "Kubu",
+      "regency_code": "51.07",
+      "regency": "Kabupaten Karangasem",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.01",
+      "name": "Gerokgak",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.02",
+      "name": "Seririt",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.03",
+      "name": "Busungbiu",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.04",
+      "name": "Banjar",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.05",
+      "name": "Sukasada",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.06",
+      "name": "Buleleng",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.07",
+      "name": "Sawan",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.08",
+      "name": "Kubutambahan",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.08.09",
+      "name": "Tejakula",
+      "regency_code": "51.08",
+      "regency": "Kabupaten Buleleng",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.71.01",
+      "name": "Denpasar Selatan",
+      "regency_code": "51.71",
+      "regency": "Kota Denpasar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.71.02",
+      "name": "Denpasar Timur",
+      "regency_code": "51.71",
+      "regency": "Kota Denpasar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.71.03",
+      "name": "Denpasar Barat",
+      "regency_code": "51.71",
+      "regency": "Kota Denpasar",
+      "province_code": "51",
+      "province": "Bali"
+    },
+    {
+      "code": "51.71.04",
+      "name": "Denpasar Utara",
+      "regency_code": "51.71",
+      "regency": "Kota Denpasar",
+      "province_code": "51",
+      "province": "Bali"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kecamatan di Bali - Unduh Gratis",
+    "description": "Daftar kecamatan (distrik) di Provinsi Bali dengan kode wilayah Kepmendagri serta kabupaten/kota induknya. Total 57 kecamatan. Berisi 57 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kecamatan di Bali | ListBase",
+    "seo_description": "Unduh Daftar Kecamatan di Bali — 57 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 57 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

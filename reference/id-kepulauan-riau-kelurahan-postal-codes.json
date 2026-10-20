@@ -1,0 +1,3796 @@
+{
+  "id": "id-kepulauan-riau-kelurahan-postal-codes",
+  "name": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Riau",
+  "title": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Riau",
+  "description": "Daftar 415 kode pos tingkat kelurahan/desa di Provinsi Kepulauan Riau (kode BPS 21). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 415,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kelurahan_name",
+      "label": "Kelurahan Name",
+      "type": "string"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "29111",
+      "kelurahan_name": "Bukit Cermin",
+      "kecamatan_name": "Tanjung Pinang Barat",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29111",
+      "kelurahan_name": "Senggarang",
+      "kecamatan_name": "Tanjung Pinang Kota",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29111",
+      "kelurahan_name": "Tanjung Pinang Kota",
+      "kecamatan_name": "Tanjung Pinang Kota",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29112",
+      "kelurahan_name": "Kemboja",
+      "kecamatan_name": "Tanjung Pinang Barat",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29113",
+      "kelurahan_name": "Kampung Baru",
+      "kecamatan_name": "Tanjung Pinang Barat",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29113",
+      "kelurahan_name": "Tanjung Pinang Barat",
+      "kecamatan_name": "Tanjung Pinang Barat",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29114",
+      "kelurahan_name": "Penyengat",
+      "kecamatan_name": "Tanjung Pinang Kota",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29115",
+      "kelurahan_name": "Kampung Bugis",
+      "kecamatan_name": "Tanjung Pinang Kota",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29122",
+      "kelurahan_name": "Air Raja",
+      "kecamatan_name": "Tanjung Pinang Timur",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29122",
+      "kelurahan_name": "Kampung Bulang",
+      "kecamatan_name": "Tanjung Pinang Timur",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29122",
+      "kelurahan_name": "Pinang Kencana",
+      "kecamatan_name": "Tanjung Pinang Timur",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29122",
+      "kelurahan_name": "Tanjung Pinang Timur",
+      "kecamatan_name": "Bukit Bestari",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29122",
+      "kelurahan_name": "Tanjung Unggat",
+      "kecamatan_name": "Bukit Bestari",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29123",
+      "kelurahan_name": "Melayu Kota Piring",
+      "kecamatan_name": "Tanjung Pinang Timur",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29124",
+      "kelurahan_name": "Dompak",
+      "kecamatan_name": "Bukit Bestari",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29124",
+      "kelurahan_name": "Sei Jang",
+      "kecamatan_name": "Bukit Bestari",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29124",
+      "kelurahan_name": "Tanjung Ayun Sakti",
+      "kecamatan_name": "Bukit Bestari",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29125",
+      "kelurahan_name": "Batu IX (Sembilan)",
+      "kecamatan_name": "Tanjung Pinang Timur",
+      "regency_name": "Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29132",
+      "kelurahan_name": "Tembeling",
+      "kecamatan_name": "Teluk Bintan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29132",
+      "kelurahan_name": "Tembeling Tanjung",
+      "kecamatan_name": "Teluk Bintan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29133",
+      "kelurahan_name": "Bintan Buyu",
+      "kecamatan_name": "Teluk Bintan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29134",
+      "kelurahan_name": "Penaga",
+      "kecamatan_name": "Teluk Bintan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29135",
+      "kelurahan_name": "Pengujan",
+      "kecamatan_name": "Teluk Bintan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29136",
+      "kelurahan_name": "Pangkil",
+      "kecamatan_name": "Teluk Bintan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Air Glubi / Gelubi",
+      "kecamatan_name": "Bintan Pesisir",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Dendun",
+      "kecamatan_name": "Mantang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Gunung Kijang",
+      "kecamatan_name": "Gunung Kijang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Gunung Lengkuas",
+      "kecamatan_name": "Bintan Timur",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Kawal",
+      "kecamatan_name": "Gunung Kijang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Kelong",
+      "kecamatan_name": "Bintan Pesisir",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Kijang Kota",
+      "kecamatan_name": "Bintan Timur",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Malang Rapat",
+      "kecamatan_name": "Gunung Kijang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Mantang Baru",
+      "kecamatan_name": "Mantang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Mantang Besar",
+      "kecamatan_name": "Mantang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Mantang Lama",
+      "kecamatan_name": "Mantang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Mapur",
+      "kecamatan_name": "Bintan Pesisir",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Numbing",
+      "kecamatan_name": "Bintan Pesisir",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Sungai Enam",
+      "kecamatan_name": "Bintan Timur",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Sungai Lekop",
+      "kecamatan_name": "Bintan Timur",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Teluk Bakau",
+      "kecamatan_name": "Gunung Kijang",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Toapaya",
+      "kecamatan_name": "Toapaya",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Toapaya Asri",
+      "kecamatan_name": "Toapaya",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Toapaya Selatan",
+      "kecamatan_name": "Toapaya",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29151",
+      "kelurahan_name": "Toapaya Utara",
+      "kecamatan_name": "Toapaya",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Berakit",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Busung",
+      "kecamatan_name": "Seri / Sri Kuala Lobam",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Ekang Anculai",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Kota Baru",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Kuala Sempang",
+      "kecamatan_name": "Seri / Sri Kuala Lobam",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Lancang Kuning",
+      "kecamatan_name": "Bintan Utara",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Pengudang",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Sebung / Sebong Lagoi",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Sebung / Sebong Pereh",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Sri Bintan",
+      "kecamatan_name": "Teluk Sebong",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Tanjung Permai",
+      "kecamatan_name": "Seri / Sri Kuala Lobam",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Tanjung Uban Kota",
+      "kecamatan_name": "Bintan Utara",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Tanjung Uban Selatan",
+      "kecamatan_name": "Bintan Utara",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Tanjung Uban Timur",
+      "kecamatan_name": "Bintan Utara",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Tanjung Uban Utara",
+      "kecamatan_name": "Bintan Utara",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Teluk Lobam",
+      "kecamatan_name": "Seri / Sri Kuala Lobam",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29152",
+      "kelurahan_name": "Teluk Sasah",
+      "kecamatan_name": "Seri / Sri Kuala Lobam",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Batu Lepuk",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Kampung Hilir",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Kampung Melayu",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Kukup",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Pengikik",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Pulau Mentebung",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Pulau Pinang",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29193",
+      "kelurahan_name": "Teluk Sekuni",
+      "kecamatan_name": "Tambelan",
+      "regency_name": "Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29412",
+      "kelurahan_name": "Pemping",
+      "kecamatan_name": "Belakang Padang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29413",
+      "kelurahan_name": "Kasu",
+      "kecamatan_name": "Belakang Padang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29414",
+      "kelurahan_name": "Pecong",
+      "kecamatan_name": "Belakang Padang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29416",
+      "kelurahan_name": "Pulau Terong",
+      "kecamatan_name": "Belakang Padang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29416",
+      "kelurahan_name": "Sekanak Raya",
+      "kecamatan_name": "Belakang Padang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29416",
+      "kelurahan_name": "Tanjung Sari",
+      "kecamatan_name": "Belakang Padang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29422",
+      "kelurahan_name": "Kibing",
+      "kecamatan_name": "Batu Aji",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29424",
+      "kelurahan_name": "Tanjung Uncang",
+      "kecamatan_name": "Batu Aji",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29425",
+      "kelurahan_name": "Tanjung Riau",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29425",
+      "kelurahan_name": "Tiban Lama",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29426",
+      "kelurahan_name": "Tiban Baru",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29426",
+      "kelurahan_name": "Tiban Indah",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29427",
+      "kelurahan_name": "Patam Lestari",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29428",
+      "kelurahan_name": "Sungai Harapan",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29428",
+      "kelurahan_name": "Tanjung Pinggir",
+      "kecamatan_name": "Sekupang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29431",
+      "kelurahan_name": "Baloi Permai",
+      "kecamatan_name": "Batam Kota",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29432",
+      "kelurahan_name": "Baloi Indah",
+      "kecamatan_name": "Lubuk Baja",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29432",
+      "kelurahan_name": "Sadai",
+      "kecamatan_name": "Bengkong",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29432",
+      "kelurahan_name": "Sukajadi",
+      "kecamatan_name": "Batam Kota",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29432",
+      "kelurahan_name": "Taman Baloi",
+      "kecamatan_name": "Batam Kota",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29432",
+      "kelurahan_name": "Tanjung Buntung",
+      "kecamatan_name": "Bengkong",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29433",
+      "kelurahan_name": "Muka Kuning",
+      "kecamatan_name": "Sei / Sungai Beduk",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29433",
+      "kelurahan_name": "Sungai Panas",
+      "kecamatan_name": "Batam Kota",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29437",
+      "kelurahan_name": "Duriangka",
+      "kecamatan_name": "Sei / Sungai Beduk",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29437",
+      "kelurahan_name": "Mangsang (Mangsa)",
+      "kecamatan_name": "Sei / Sungai Beduk",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29437",
+      "kelurahan_name": "Tanjung Piayu",
+      "kecamatan_name": "Sei / Sungai Beduk",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29438",
+      "kelurahan_name": "Bukit Tempayan",
+      "kecamatan_name": "Batu Aji",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29438",
+      "kelurahan_name": "Buliang",
+      "kecamatan_name": "Batu Aji",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29439",
+      "kelurahan_name": "Sagulung Kota",
+      "kecamatan_name": "Sagulung",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29439",
+      "kelurahan_name": "Sungai Binti",
+      "kecamatan_name": "Sagulung",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29439",
+      "kelurahan_name": "Sungai Langkai",
+      "kecamatan_name": "Sagulung",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29439",
+      "kelurahan_name": "Sungai Lekop",
+      "kecamatan_name": "Sagulung",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29439",
+      "kelurahan_name": "Sungai Pelenggut / Pelunggut",
+      "kecamatan_name": "Sagulung",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29439",
+      "kelurahan_name": "Tembesi",
+      "kecamatan_name": "Sagulung",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29441",
+      "kelurahan_name": "Batu Selicin",
+      "kecamatan_name": "Lubuk Baja",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29443",
+      "kelurahan_name": "Kampung Pelita",
+      "kecamatan_name": "Lubuk Baja",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29444",
+      "kelurahan_name": "Lubuk Baja Kota",
+      "kecamatan_name": "Lubuk Baja",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29445",
+      "kelurahan_name": "Tanjung Uma",
+      "kecamatan_name": "Lubuk Baja",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29452",
+      "kelurahan_name": "Batu Merah",
+      "kecamatan_name": "Batu Ampar",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29453",
+      "kelurahan_name": "Sungai Jodoh",
+      "kecamatan_name": "Batu Ampar",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29453",
+      "kelurahan_name": "Tanjung Sengkuang",
+      "kecamatan_name": "Batu Ampar",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29454",
+      "kelurahan_name": "Kampung Seraya",
+      "kecamatan_name": "Batu Ampar",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29458",
+      "kelurahan_name": "Bengkong Indah",
+      "kecamatan_name": "Bengkong",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29458",
+      "kelurahan_name": "Bengkong Laut",
+      "kecamatan_name": "Bengkong",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29461",
+      "kelurahan_name": "Teluk Tering",
+      "kecamatan_name": "Batam Kota",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29464",
+      "kelurahan_name": "Belian",
+      "kecamatan_name": "Batam Kota",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29465",
+      "kelurahan_name": "Sambau",
+      "kecamatan_name": "Nongsa",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29466",
+      "kelurahan_name": "Batu Besar",
+      "kecamatan_name": "Nongsa",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29467",
+      "kelurahan_name": "Kabil",
+      "kecamatan_name": "Nongsa",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29468",
+      "kelurahan_name": "Ngenang",
+      "kecamatan_name": "Nongsa",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29471",
+      "kelurahan_name": "Bulang Lintang",
+      "kecamatan_name": "Bulang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29472",
+      "kelurahan_name": "Pulau Buluh",
+      "kecamatan_name": "Bulang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29473",
+      "kelurahan_name": "Pantai Gelam",
+      "kecamatan_name": "Bulang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29474",
+      "kelurahan_name": "Batu Legong",
+      "kecamatan_name": "Bulang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29475",
+      "kelurahan_name": "Temoyong",
+      "kecamatan_name": "Bulang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29476",
+      "kelurahan_name": "Pulau Setokok",
+      "kecamatan_name": "Bulang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29481",
+      "kelurahan_name": "Sembulang (Pulau Rempang)",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29482",
+      "kelurahan_name": "Rempang Cate",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29483",
+      "kelurahan_name": "Air Raja",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29483",
+      "kelurahan_name": "Subang Mas",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29484",
+      "kelurahan_name": "Galang Baru (Pulau)",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29485",
+      "kelurahan_name": "Sijantung",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29486",
+      "kelurahan_name": "Karas (Pulau Karas)",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29487",
+      "kelurahan_name": "Pulau Abang",
+      "kecamatan_name": "Galang",
+      "regency_name": "Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Lubuk Semut",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Parit",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Selat Mendaun",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Sungai Lakam Barat",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Sungai Lakam Timur",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Tanjung Balai",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Tanjung Balai Kota",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Teluk Air",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29661",
+      "kelurahan_name": "Tulang",
+      "kecamatan_name": "Karimun",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Alai",
+      "kecamatan_name": "Ungar",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Batu Limau",
+      "kecamatan_name": "Ungar",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Degong",
+      "kecamatan_name": "Belat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Gading Sari",
+      "kecamatan_name": "Kundur",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Gemuruh",
+      "kecamatan_name": "Kundur Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Kundur",
+      "kecamatan_name": "Kundur Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Lebuh",
+      "kecamatan_name": "Belat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Lubuk",
+      "kecamatan_name": "Kundur",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Ngal",
+      "kecamatan_name": "Ungar",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Penarah",
+      "kecamatan_name": "Belat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Perayun",
+      "kecamatan_name": "Kundur Utara",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sawang",
+      "kecamatan_name": "Kundur Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sawang Laut",
+      "kecamatan_name": "Kundur Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sawang Selatan",
+      "kecamatan_name": "Kundur Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sebele",
+      "kecamatan_name": "Belat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sebesi (Sei Sebesi)",
+      "kecamatan_name": "Kundur",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sei / Sungai Asam",
+      "kecamatan_name": "Belat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sei / Sungai Ungar",
+      "kecamatan_name": "Kundur",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sei / Sungai Ungar Utara",
+      "kecamatan_name": "Kundur Utara",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Sungai Buluh",
+      "kecamatan_name": "Ungar",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Tanjung Batu Barat",
+      "kecamatan_name": "Kundur",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Tanjung Batu Kota",
+      "kecamatan_name": "Kundur",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Tanjung Berlian Barat (Urung Barat)",
+      "kecamatan_name": "Kundur Utara",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Tanjung Berlian Kota (Urung)",
+      "kecamatan_name": "Kundur Utara",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Tebias",
+      "kecamatan_name": "Belat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29662",
+      "kelurahan_name": "Teluk Radang",
+      "kecamatan_name": "Kundur Utara",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Buluh Patah",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Harjosari",
+      "kecamatan_name": "Tebing",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Jang (Pulau Jang)",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Kapling",
+      "kecamatan_name": "Tebing",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Keban",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Moro",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Moro Timur",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Niur Permai",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Pamak",
+      "kecamatan_name": "Tebing",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Pauh",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Pongkar",
+      "kecamatan_name": "Tebing",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Pulaumoro",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Rawajaya",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Selat Mie",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Sugie",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Tanjung Pelanduk",
+      "kecamatan_name": "Moro",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Tebing",
+      "kecamatan_name": "Tebing",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29663",
+      "kelurahan_name": "Teluk Uma",
+      "kecamatan_name": "Tebing",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Baran Barat",
+      "kecamatan_name": "Meral",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Baran Timur",
+      "kecamatan_name": "Meral",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Buru",
+      "kecamatan_name": "Buru",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Darussalam",
+      "kecamatan_name": "Meral Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Durai",
+      "kecamatan_name": "Durai",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Lubuk Puding",
+      "kecamatan_name": "Buru",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Meral Kota",
+      "kecamatan_name": "Meral",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Pangke",
+      "kecamatan_name": "Meral Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Pangke Barat",
+      "kecamatan_name": "Meral Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Pasir Benut",
+      "kecamatan_name": "Meral",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Pasir Panjang",
+      "kecamatan_name": "Meral Barat",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Sanglar",
+      "kecamatan_name": "Durai",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Sei / Sungai Raya",
+      "kecamatan_name": "Meral",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Simembang (Semembang)",
+      "kecamatan_name": "Durai",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Sungai Pasir",
+      "kecamatan_name": "Meral",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Tanjung Batu Kecil",
+      "kecamatan_name": "Buru",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Tanjung Hutan",
+      "kecamatan_name": "Buru",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29664",
+      "kelurahan_name": "Tanjung Kilang",
+      "kecamatan_name": "Durai",
+      "regency_name": "Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Air Nusa",
+      "kecamatan_name": "Serasan Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Air Ringau",
+      "kecamatan_name": "Serasan Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Arung Ayam",
+      "kecamatan_name": "Serasan Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Batu Berian",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Jernalik",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Kampung Hilir",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Meliah",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Meliah Selatan",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Pangkalan",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Payak (Harapan Baru)",
+      "kecamatan_name": "Serasan Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Pulau Kerdau",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Pulau Panjang",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Serasan",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Subi",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Subi Besar",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Subi Besar Timur",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Tanjung Balau",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Tanjung Setelung",
+      "kecamatan_name": "Serasan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29781",
+      "kelurahan_name": "Terayak",
+      "kecamatan_name": "Subi",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Batubi Jaya",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Binjai",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Gunung Putri",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Mekar Jaya",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Pian Tengah",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Sedanau",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Sedanau Timur",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Sedarat Baru",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Selaut",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29782",
+      "kelurahan_name": "Semedang",
+      "kecamatan_name": "Bunguran Barat",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Air Asuk",
+      "kecamatan_name": "Siantan Tengah",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Air Lengit",
+      "kecamatan_name": "Bunguran Tengah",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Air Payang",
+      "kecamatan_name": "Pulau Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Air Sena",
+      "kecamatan_name": "Siantan Tengah",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Bandarsyah",
+      "kecamatan_name": "Bunguran Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Batu Ampar",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Batu Gajah",
+      "kecamatan_name": "Bunguran Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Bayat",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Belakang Gunung",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Belibak",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Candi",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Cemaga",
+      "kecamatan_name": "Bunguran Selatan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Cemaga Selatan (Setegar)",
+      "kecamatan_name": "Bunguran Selatan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Cemaga Tengah",
+      "kecamatan_name": "Bunguran Selatan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Cemaga Utara (Singgang Bbulan)",
+      "kecamatan_name": "Bunguran Selatan",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Ceruk",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Gunung Durian",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Harapan Jaya",
+      "kecamatan_name": "Bunguran Tengah",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Kadur",
+      "kecamatan_name": "Pulau Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Kelanga",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Kelarik",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Kelarik Air Mali",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Kelarik Barat",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Kelarik Utara",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Ladan",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Langir",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Lidi",
+      "kecamatan_name": "Siantan Tengah",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Limau Manis",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Liuk",
+      "kecamatan_name": "Siantan Tengah",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Matak",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Mubur",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Payalaman",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Payamaram",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Pengadah",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Piabung",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Piasan",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Pulau Tiga",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Putik",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Ranai Darat",
+      "kecamatan_name": "Bunguran Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Ranai Kota",
+      "kecamatan_name": "Bunguran Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Sabang Mawang",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Sabang Mawang Barat",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Sebadai Ulu  /  Hulu",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Sededap",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Selading",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Seleman",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Seluan Barat",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Sepempang",
+      "kecamatan_name": "Bunguran Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Serantas",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Setumuk",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Sungai Ulu",
+      "kecamatan_name": "Bunguran Timur",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Tanjung",
+      "kecamatan_name": "Bunguran Timur Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Tanjung Batang",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Tanjung Kumbik Utara",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Tanjung Pala",
+      "kecamatan_name": "Pulau Laut",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Tapau",
+      "kecamatan_name": "Bunguran Tengah",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Tebang",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Teluk Bayur",
+      "kecamatan_name": "Palmatak",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Teluk Buton",
+      "kecamatan_name": "Bunguran Utara",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Teluk Labuh",
+      "kecamatan_name": "Pulau Tiga",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Teluk Siantan",
+      "kecamatan_name": "Siantan Tengah",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29783",
+      "kelurahan_name": "Teluk Sunting",
+      "kecamatan_name": "Siantan Tengah",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29784",
+      "kelurahan_name": "Air Kumpai",
+      "kecamatan_name": "Midai",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29784",
+      "kelurahan_name": "Air Putih",
+      "kecamatan_name": "Midai",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29784",
+      "kelurahan_name": "Batu Belanak",
+      "kecamatan_name": "Midai",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29784",
+      "kelurahan_name": "Gunung Jambat",
+      "kecamatan_name": "Midai",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29784",
+      "kelurahan_name": "Sabang Barat",
+      "kecamatan_name": "Midai",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29784",
+      "kelurahan_name": "Sebelat",
+      "kecamatan_name": "Midai",
+      "regency_name": "Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Air Bini",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Air Putih",
+      "kecamatan_name": "Siantan Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Batu Belah",
+      "kecamatan_name": "Siantan Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Kiabu",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Linga",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Mengkait",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Munjan",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Munjan",
+      "kecamatan_name": "Siantan Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Nyamuk",
+      "kecamatan_name": "Siantan Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Serat",
+      "kecamatan_name": "Siantan Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Sri Tanjung",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Tarempa",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Tarempa Barat",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Tarempa Barat Daya",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Tarempa Selatan",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Telaga",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Telaga Kecil",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Temburun",
+      "kecamatan_name": "Siantan Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Tiangau",
+      "kecamatan_name": "Siantan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29791",
+      "kelurahan_name": "Tiangau",
+      "kecamatan_name": "Siantan Selatan",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Air Biru",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Batu Berapit",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Bukit Padi",
+      "kecamatan_name": "Jemaja Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Genting Pulur",
+      "kecamatan_name": "Jemaja Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Impol",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Keramut",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Kuala Maras",
+      "kecamatan_name": "Jemaja Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Landak",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Letung",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Mampok",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Rewak",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Sunggak",
+      "kecamatan_name": "Jemaja",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29792",
+      "kelurahan_name": "Ulu Maras",
+      "kecamatan_name": "Jemaja Timur",
+      "regency_name": "Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Batu Berdaun",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Batu Karang",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Berhala",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Berindat",
+      "kecamatan_name": "Singkep Pesisir",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Dabo",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Dabo Lama",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Kota / Kote",
+      "kecamatan_name": "Singkep Pesisir",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Lanjut",
+      "kecamatan_name": "Singkep Pesisir",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Marok Kecil",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Pelakak",
+      "kecamatan_name": "Singkep Pesisir",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Persing",
+      "kecamatan_name": "Singkep Pesisir",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Sedamai",
+      "kecamatan_name": "Singkep Pesisir",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Sungai Lumpur",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29871",
+      "kelurahan_name": "Tanjung Harapan",
+      "kecamatan_name": "Singkep",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Bukit Langkap",
+      "kecamatan_name": "Lingga Timur",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Daik",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Kelombok",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Kelumu",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Kerandin",
+      "kecamatan_name": "Lingga Timur",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Keton",
+      "kecamatan_name": "Lingga Timur",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Kudung",
+      "kecamatan_name": "Lingga Timur",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Mentuda",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Mepar",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Merawang",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Musai",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Nerekeh",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Panggak Darat",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Panggak Laut",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Pantai Harapan",
+      "kecamatan_name": "Selayar",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Pekajang",
+      "kecamatan_name": "Lingga",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Pekaka",
+      "kecamatan_name": "Lingga Timur",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Penuba",
+      "kecamatan_name": "Selayar",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Penuba Timur",
+      "kecamatan_name": "Selayar",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Sei / Sungai Pinang",
+      "kecamatan_name": "Lingga Timur",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29872",
+      "kelurahan_name": "Selayar",
+      "kecamatan_name": "Selayar",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Baran",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Batu Belubang",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Benan",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Cempa",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Labo",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Mamut",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Mensanak",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Pasir Panjang",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Penaah",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Pulau Batang",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Pulau Bukit",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Pulau Duyung",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Pulau Medang",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Rejai",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Senayang",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Tajur Biru",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Tanjung Kelit",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Tanjung Lipat",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29873",
+      "kelurahan_name": "Temiang",
+      "kecamatan_name": "Senayang",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Belungkur",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Bukit Harapan",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Duara",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Limbung",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Linau",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Pancur",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Rantau Panjang",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Resun",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Resun Pesisir",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Sekanah",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Sungai Besar",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29874",
+      "kelurahan_name": "Teluk",
+      "kecamatan_name": "Lingga Utara",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Bakong",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Bukit Belah",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Busung Panjang",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Jaqoh",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Kuala Raya",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Langkap",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Marok Tua",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Posek",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Raya",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Suak Buaya",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Sungai Buluh",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Sungai Harapan",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Sungai Raya",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Tanjung Irat",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    },
+    {
+      "postal_code": "29875",
+      "kelurahan_name": "Tinjul",
+      "kecamatan_name": "Singkep Barat",
+      "regency_name": "Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "province_name_en": "Riau Islands"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Riau - Unduh Gratis",
+    "description": "Daftar 415 kode pos tingkat kelurahan/desa di Provinsi Kepulauan Riau (kode BPS 21). Setiap record berisi kode pos 5-digit, nama kelurahan/desa, kecamatan, dan kabupaten/kota. Granularitas paling halus untuk pencarian kode pos berdasarkan nama kelurahan. Berisi 415 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos per Kelurahan/Desa di Kepulauan Riau | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos per Kelurahan/Desa di Kepulauan Riau — 415 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 415 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

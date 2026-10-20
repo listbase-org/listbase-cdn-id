@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "Dataset Rumus Integrasi Umum",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Dasar",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "Aturan konstanta"
+    },
+    {
+      "category": "Dasar",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "Aturan pangkat"
+    },
+    {
+      "category": "Dasar",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "Logaritma natural"
+    },
+    {
+      "category": "Dasar",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "Fungsi eksponensial"
+    },
+    {
+      "category": "Dasar",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Eksponensial umum"
+    },
+    {
+      "category": "Dasar",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "Bentuk akar kuadrat"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "Fungsi sinus"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "Fungsi kosinus"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Fungsi tangen"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Fungsi kotangen"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Fungsi sekan"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Fungsi kosekan"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Sekan kuadrat"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Kosekan kuadrat"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Bentuk perkalian"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Bentuk perkalian"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Identitas setengah sudut"
+    },
+    {
+      "category": "Trigonometri",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Identitas setengah sudut"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Bentuk arcsin"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Bentuk arccos"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "Bentuk Arkustangen"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "Bentuk Arkuskotangen"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Bentuk Arkussekan"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Bentuk Arkuskosekan"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Arkussin Umum"
+    },
+    {
+      "category": "Trigonometri Invers",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "Arkustangen Umum"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "Sinus Hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "Kosinus Hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "Tangen Hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Kotangen Hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "Sekan Hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Kosekan Hiperbolik"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "Sekan Hiperbolik Kuadrat"
+    },
+    {
+      "category": "Hiperbolik",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "Kosekan Hiperbolik Kuadrat"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "Integral Parsial"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "Logaritma Umum"
+    },
+    {
+      "category": "Logaritmik",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "Logaritma Bersarang"
+    },
+    {
+      "category": "Rasional",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "Pecahan Parsial"
+    },
+    {
+      "category": "Rasional",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "Pecahan Parsial"
+    },
+    {
+      "category": "Rasional",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Substitusi Hiperbolik"
+    },
+    {
+      "category": "Rasional",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Substitusi hiperbolik"
+    },
+    {
+      "category": "Rasional",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Substitusi trigonometri"
+    },
+    {
+      "category": "Rasional",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "Substitusi trigonometri"
+    },
+    {
+      "category": "Rasional",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Substitusi hiperbolik"
+    },
+    {
+      "category": "Rasional",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Substitusi hiperbolik"
+    },
+    {
+      "category": "Khusus",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Integral parsial dua kali"
+    },
+    {
+      "category": "Khusus",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Integral parsial dua kali"
+    },
+    {
+      "category": "Khusus",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "Integral parsial"
+    },
+    {
+      "category": "Khusus",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "Integral parsial"
+    },
+    {
+      "category": "Khusus",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "Integral parsial"
+    },
+    {
+      "category": "Khusus",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "Integral parsial dua kali"
+    },
+    {
+      "category": "Khusus",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "Integral parsial"
+    },
+    {
+      "category": "Tentu",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "Integral Gaussian"
+    },
+    {
+      "category": "Tentu",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "Hubungan fungsi Gamma"
+    },
+    {
+      "category": "Tentu",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "Rumus reduksi"
+    },
+    {
+      "category": "Tentu",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "Hubungan fungsi Beta"
+    }
+  ],
+  "meta": {
+    "seo_title": "Rumus Integrasi Umum - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh 56 rumus integrasi umum meliputi fungsi dasar, trigonometri, dan eksponensial. Gratis dalam format Excel, CSV, dan PDF untuk pelajar & profesional matematika.",
+    "title": "Dataset Rumus Integrasi Umum",
+    "description": "Dataset ini menyediakan daftar komprehensif 56 rumus integrasi umum, merinci fungsi, integralnya, kondisi, dan catatan. Ideal untuk siswa, pendidik, dan profesional di bidang matematika.",
+    "key_takeaways": [
+      "Akses 56 rumus integrasi penting untuk kalkulus.",
+      "Jelajahi kategori seperti fungsi dasar, trigonometri, dan eksponensial.",
+      "Unduh rumus siap pakai dengan kondisi dan catatan.",
+      "Manfaatkan definisi integral yang akurat untuk penggunaan pendidikan atau profesional."
+    ],
+    "keywords": [
+      "rumus integrasi excel",
+      "kalkulus integral csv",
+      "lembar rumus matematika pdf",
+      "aturan integral umum",
+      "tabel integral tak tentu",
+      "unduh data kalkulus"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke skrip Python atau database SQL Anda untuk membangun pemecah kalkulus khusus atau alat pendidikan.",
+      "Gunakan file **Excel** untuk memfilter rumus berdasarkan kategori, membuat panduan belajar, atau memverifikasi perhitungan untuk masalah kompleks.",
+      "Cetak versi **PDF** untuk panduan referensi cepat di kelas, selama ujian, atau untuk sesi belajar offline.",
+      "Integrasikan dataset ini ke dalam platform e-learning untuk menyediakan sumber daya terstruktur bagi siswa yang mempelajari kalkulus integral."
+    ]
+  },
+  "record_count": 56,
+  "title": "Dataset Rumus Integrasi Umum"
+}

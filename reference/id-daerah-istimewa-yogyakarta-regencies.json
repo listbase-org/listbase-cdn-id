@@ -1,0 +1,76 @@
+{
+  "id": "id-daerah-istimewa-yogyakarta-regencies",
+  "name": "Daftar Kabupaten dan Kota di Daerah Istimewa Yogyakarta",
+  "title": "Daftar Kabupaten dan Kota di Daerah Istimewa Yogyakarta",
+  "description": "Daftar kabupaten dan kota di Provinsi Daerah Istimewa Yogyakarta dengan kode wilayah Kepmendagri. Total 5 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34.01",
+      "name": "Kabupaten Kulon Progo",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kulon-progo"
+    },
+    {
+      "code": "34.02",
+      "name": "Kabupaten Bantul",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bantul"
+    },
+    {
+      "code": "34.03",
+      "name": "Kabupaten Gunungkidul",
+      "type": "Kabupaten",
+      "slug": "kabupaten-gunungkidul"
+    },
+    {
+      "code": "34.04",
+      "name": "Kabupaten Sleman",
+      "type": "Kabupaten",
+      "slug": "kabupaten-sleman"
+    },
+    {
+      "code": "34.71",
+      "name": "Kota Yogyakarta",
+      "type": "Kota",
+      "slug": "kota-yogyakarta"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Daerah Istimewa Yogyakarta - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Daerah Istimewa Yogyakarta dengan kode wilayah Kepmendagri. Total 5 kabupaten/kota. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Daerah Istimewa Yogyakarta | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Daerah Istimewa Yogyakarta — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

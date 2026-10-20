@@ -1,0 +1,532 @@
+{
+  "id": "id-provinces-detailed",
+  "name": "Daftar Provinsi Indonesia (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Provinsi Indonesia (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "38 provinsi di Indonesia dengan data lengkap: ibukota, koordinat geografis (lat/lng), elevasi, zona waktu, luas wilayah (km²) berdasar Badan Informasi Geospasial Des-2024, dan jumlah penduduk berdasar Ditjen Dukcapil Kemendagri Sem-1 Des-2024. Kode wilayah sesuai Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11",
+      "name": "Aceh",
+      "capital": "Banda Aceh",
+      "latitude": 5.570547,
+      "longitude": 95.340809,
+      "elevation_m": 11,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 56835.019,
+      "population": 5623479,
+      "slug": "aceh"
+    },
+    {
+      "code": "12",
+      "name": "Sumatera Utara",
+      "capital": "Medan",
+      "latitude": 3.58063,
+      "longitude": 98.672,
+      "elevation_m": 32,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 72437.755,
+      "population": 15640905,
+      "slug": "sumatera-utara"
+    },
+    {
+      "code": "13",
+      "name": "Sumatera Barat",
+      "capital": "Padang",
+      "latitude": -0.93767,
+      "longitude": 100.360444,
+      "elevation_m": 10,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 42107.674,
+      "population": 5820359,
+      "slug": "sumatera-barat"
+    },
+    {
+      "code": "14",
+      "name": "Riau",
+      "capital": "Pekanbaru",
+      "latitude": 0.51771,
+      "longitude": 101.44584,
+      "elevation_m": 20,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 89900.78,
+      "population": 7099297,
+      "slug": "riau"
+    },
+    {
+      "code": "15",
+      "name": "Jambi",
+      "capital": "Jambi",
+      "latitude": -1.603998,
+      "longitude": 103.58358,
+      "elevation_m": 28,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 49023.037,
+      "population": 3834439,
+      "slug": "jambi"
+    },
+    {
+      "code": "16",
+      "name": "Sumatera Selatan",
+      "capital": "Palembang",
+      "latitude": -2.977157,
+      "longitude": 104.75053,
+      "elevation_m": 8,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 86771.918,
+      "population": 9064690,
+      "slug": "sumatera-selatan"
+    },
+    {
+      "code": "17",
+      "name": "Bengkulu",
+      "capital": "Bengkulu",
+      "latitude": -3.82094,
+      "longitude": 102.283989,
+      "elevation_m": 21,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 20122.21,
+      "population": 2127957,
+      "slug": "bengkulu"
+    },
+    {
+      "code": "18",
+      "name": "Lampung",
+      "capital": "Bandar Lampung",
+      "latitude": -5.441206,
+      "longitude": 105.25829,
+      "elevation_m": 65,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 33570.758,
+      "population": 9144263,
+      "slug": "lampung"
+    },
+    {
+      "code": "19",
+      "name": "Kepulauan Bangka Belitung",
+      "capital": "Pangkalpinang",
+      "latitude": -2.152921,
+      "longitude": 106.157888,
+      "elevation_m": 24,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 16670.225,
+      "population": 1549562,
+      "slug": "kepulauan-bangka-belitung"
+    },
+    {
+      "code": "21",
+      "name": "Kepulauan Riau",
+      "capital": "Tanjungpinang",
+      "latitude": 0.876163,
+      "longitude": 104.445223,
+      "elevation_m": 34,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 8170.375,
+      "population": 2271890,
+      "slug": "kepulauan-riau"
+    },
+    {
+      "code": "31",
+      "name": "Daerah Khusus Ibukota Jakarta",
+      "capital": "Jakarta",
+      "latitude": -6.177802,
+      "longitude": 106.828444,
+      "elevation_m": -4,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": "",
+      "population": 11038216,
+      "slug": "daerah-khusus-ibukota-jakarta"
+    },
+    {
+      "code": "32",
+      "name": "Jawa Barat",
+      "capital": "Bandung",
+      "latitude": -6.902225,
+      "longitude": 107.61876,
+      "elevation_m": 739,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 37053.331,
+      "population": 51316378,
+      "slug": "jawa-barat"
+    },
+    {
+      "code": "33",
+      "name": "Jawa Tengah",
+      "capital": "Semarang",
+      "latitude": -6.993481,
+      "longitude": 110.420243,
+      "elevation_m": 19,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 34347.428,
+      "population": 38430645,
+      "slug": "jawa-tengah"
+    },
+    {
+      "code": "34",
+      "name": "Daerah Istimewa Yogyakarta",
+      "capital": "Yogyakarta",
+      "latitude": -7.794743,
+      "longitude": 110.367282,
+      "elevation_m": 116,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3170.363,
+      "population": 3743365,
+      "slug": "daerah-istimewa-yogyakarta"
+    },
+    {
+      "code": "35",
+      "name": "Jawa Timur",
+      "capital": "Surabaya",
+      "latitude": -7.245567,
+      "longitude": 112.739166,
+      "elevation_m": 7,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 48055.876,
+      "population": 41919906,
+      "slug": "jawa-timur"
+    },
+    {
+      "code": "36",
+      "name": "Banten",
+      "capital": "Serang",
+      "latitude": -6.173707,
+      "longitude": 106.156635,
+      "elevation_m": 69,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 9355.763,
+      "population": 12881374,
+      "slug": "banten"
+    },
+    {
+      "code": "51",
+      "name": "Bali",
+      "capital": "Denpasar",
+      "latitude": -8.667787,
+      "longitude": 115.234087,
+      "elevation_m": 22,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5582.827,
+      "population": 4375263,
+      "slug": "bali"
+    },
+    {
+      "code": "52",
+      "name": "Nusa Tenggara Barat",
+      "capital": "Mataram",
+      "latitude": -8.581476,
+      "longitude": 116.109752,
+      "elevation_m": 24,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 19631.991,
+      "population": 5751295,
+      "slug": "nusa-tenggara-barat"
+    },
+    {
+      "code": "53",
+      "name": "Nusa Tenggara Timur",
+      "capital": "Kupang",
+      "latitude": -10.171315,
+      "longitude": 123.607437,
+      "elevation_m": 101,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 46378.105,
+      "population": 5700772,
+      "slug": "nusa-tenggara-timur"
+    },
+    {
+      "code": "61",
+      "name": "Kalimantan Barat",
+      "capital": "Pontianak",
+      "latitude": -0.061003,
+      "longitude": 109.353348,
+      "elevation_m": 2,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 147018.063,
+      "population": 5646268,
+      "slug": "kalimantan-barat"
+    },
+    {
+      "code": "62",
+      "name": "Kalimantan Tengah",
+      "capital": "Palangkaraya",
+      "latitude": -2.216839,
+      "longitude": 113.918751,
+      "elevation_m": 16,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 153430.363,
+      "population": 2825290,
+      "slug": "kalimantan-tengah"
+    },
+    {
+      "code": "63",
+      "name": "Kalimantan Selatan",
+      "capital": "Banjarmasin",
+      "latitude": -3.484313,
+      "longitude": 114.833801,
+      "elevation_m": 52,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 37125.426,
+      "population": 4305281,
+      "slug": "kalimantan-selatan"
+    },
+    {
+      "code": "64",
+      "name": "Kalimantan Timur",
+      "capital": "Samarinda",
+      "latitude": -0.500806,
+      "longitude": 117.139352,
+      "elevation_m": 5,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 126951.758,
+      "population": 4123303,
+      "slug": "kalimantan-timur"
+    },
+    {
+      "code": "65",
+      "name": "Kalimantan Utara",
+      "capital": "Tanjung Selor",
+      "latitude": 2.842226,
+      "longitude": 117.374042,
+      "elevation_m": 6,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 69900.886,
+      "population": 770627,
+      "slug": "kalimantan-utara"
+    },
+    {
+      "code": "71",
+      "name": "Sulawesi Utara",
+      "capital": "Manado",
+      "latitude": 1.470128,
+      "longitude": 124.844811,
+      "elevation_m": 67,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 14488.429,
+      "population": 2645291,
+      "slug": "sulawesi-utara"
+    },
+    {
+      "code": "72",
+      "name": "Sulawesi Tengah",
+      "capital": "Palu",
+      "latitude": -0.890609,
+      "longitude": 119.871074,
+      "elevation_m": 21,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 61496.983,
+      "population": 3219494,
+      "slug": "sulawesi-tengah"
+    },
+    {
+      "code": "73",
+      "name": "Sulawesi Selatan",
+      "capital": "Makassar",
+      "latitude": -5.139084,
+      "longitude": 119.45237,
+      "elevation_m": 25,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 45323.975,
+      "population": 9528276,
+      "slug": "sulawesi-selatan"
+    },
+    {
+      "code": "74",
+      "name": "Sulawesi Tenggara",
+      "capital": "Kendari",
+      "latitude": -4.02474,
+      "longitude": 122.540459,
+      "elevation_m": 35,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 36139.303,
+      "population": 2824589,
+      "slug": "sulawesi-tenggara"
+    },
+    {
+      "code": "75",
+      "name": "Gorontalo",
+      "capital": "Gorontalo",
+      "latitude": 0.523906,
+      "longitude": 123.077456,
+      "elevation_m": 108,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 12024.982,
+      "population": 1250960,
+      "slug": "gorontalo"
+    },
+    {
+      "code": "76",
+      "name": "Sulawesi Barat",
+      "capital": "Mamuju",
+      "latitude": -2.664914,
+      "longitude": 118.852796,
+      "elevation_m": 27,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 16590.667,
+      "population": 1466741,
+      "slug": "sulawesi-barat"
+    },
+    {
+      "code": "81",
+      "name": "Maluku",
+      "capital": "Ambon",
+      "latitude": -3.694413,
+      "longitude": 128.182703,
+      "elevation_m": 11,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 46133.832,
+      "population": 1935586,
+      "slug": "maluku"
+    },
+    {
+      "code": "82",
+      "name": "Maluku Utara",
+      "capital": "Sofifi",
+      "latitude": 0.755858,
+      "longitude": 127.609802,
+      "elevation_m": 103,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 31465.977,
+      "population": 1394231,
+      "slug": "maluku-utara"
+    },
+    {
+      "code": "91",
+      "name": "Papua",
+      "capital": "Jayapura",
+      "latitude": -2.536301,
+      "longitude": 140.715024,
+      "elevation_m": 9,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 81383.315,
+      "population": 1102360,
+      "slug": "papua"
+    },
+    {
+      "code": "92",
+      "name": "Papua Barat",
+      "capital": "Manokwari",
+      "latitude": -0.918351,
+      "longitude": 134.030488,
+      "elevation_m": 144,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 60308.59,
+      "population": 576255,
+      "slug": "papua-barat"
+    },
+    {
+      "code": "93",
+      "name": "Papua Selatan",
+      "capital": "Merauke",
+      "latitude": -8.508696,
+      "longitude": 140.409676,
+      "elevation_m": 6,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 117858.969,
+      "population": 562220,
+      "slug": "papua-selatan"
+    },
+    {
+      "code": "94",
+      "name": "Papua Tengah",
+      "capital": "Nabira",
+      "latitude": -3.363366,
+      "longitude": 135.503891,
+      "elevation_m": 13,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 61079.587,
+      "population": 1369112,
+      "slug": "papua-tengah"
+    },
+    {
+      "code": "95",
+      "name": "Papua Pegunungan",
+      "capital": "Jayawijaya",
+      "latitude": -4.099307,
+      "longitude": 138.943149,
+      "elevation_m": 1663,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 52508.656,
+      "population": 1470518,
+      "slug": "papua-pegunungan"
+    },
+    {
+      "code": "96",
+      "name": "Papua Barat Daya",
+      "capital": "Sorong",
+      "latitude": -0.881124,
+      "longitude": 131.28764,
+      "elevation_m": 8,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 39103.058,
+      "population": 623186,
+      "slug": "papua-barat-daya"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Provinsi Indonesia (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "38 provinsi di Indonesia dengan data lengkap: ibukota, koordinat geografis (lat/lng), elevasi, zona waktu, luas wilayah (km²) berdasar Badan Informasi Geospasial Des-2024, dan jumlah penduduk berdasar Ditjen Dukcapil Kemendagri Sem-1 Des-2024. Kode wilayah sesuai Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 38 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Provinsi Indonesia (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Provinsi Indonesia (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 38 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 38 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

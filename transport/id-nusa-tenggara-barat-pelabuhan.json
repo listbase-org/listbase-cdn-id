@@ -1,0 +1,128 @@
+{
+  "id": "id-nusa-tenggara-barat-pelabuhan",
+  "name": "Pelabuhan Umum di Nusa Tenggara Barat (9 pelabuhan)",
+  "title": "Pelabuhan Umum di Nusa Tenggara Barat (9 pelabuhan)",
+  "description": "9 pelabuhan umum di Provinsi Nusa Tenggara Barat, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BAD",
+      "nama_pelabuhan": "Badas",
+      "lokasi_kabupaten_kota": "SUMBAWA",
+      "unit_kerja": "KSOP KELAS IV BADAS",
+      "alamat_kantor": "Jl. Raya Pelabuhan Badas Sumbawa Besar Nusa Tenggara Barat 84351",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "BEN",
+      "nama_pelabuhan": "Benete",
+      "lokasi_kabupaten_kota": "SUMBAWA BARAT",
+      "unit_kerja": "KUPP KELAS II BENETE",
+      "alamat_kantor": "Jl. Pelabuhan Benete Kec.Maluku Kab. Sumbawa Barat Nusa Tenggara Barat 84357",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "BMU",
+      "nama_pelabuhan": "Bima",
+      "lokasi_kabupaten_kota": "BIMA",
+      "unit_kerja": "KSOP KELAS IV BIMA",
+      "alamat_kantor": "Jl. Martadinata No. 1 Bima - Nusa Tenggara Barat 84114",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "CLI",
+      "nama_pelabuhan": "Calabai",
+      "lokasi_kabupaten_kota": "DOMPU",
+      "unit_kerja": "KUPP KELAS III CALABAI",
+      "alamat_kantor": "Jl. Raya Pelabuhan Calabahi; Kab. Dompu PO.BOX. 123 Dompu Nusa Tenggara Barat 84200",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "KEM",
+      "nama_pelabuhan": "Kempo",
+      "lokasi_kabupaten_kota": "DOMPU",
+      "unit_kerja": "KUPP KELAS III CALABAI",
+      "alamat_kantor": "Jl. Raya Pelabuhan Calabahi; Kab. Dompu PO.BOX. 123 Dompu Nusa Tenggara Barat 84200",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "LHJ",
+      "nama_pelabuhan": "Labuhan Haji",
+      "lokasi_kabupaten_kota": "LOMBOK TIMUR",
+      "unit_kerja": "KUPP KELAS III LABUHAN LOMBOK",
+      "alamat_kantor": "Jl. Khayangan Labuhan Lombok Kec. Pringgabaya Kab. Lombok; Timur Nusa Tenggara Barat - 83655",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "LLO",
+      "nama_pelabuhan": "Labuhan Lombok",
+      "lokasi_kabupaten_kota": "LOMBOK TIMUR",
+      "unit_kerja": "KUPP KELAS III LABUHAN LOMBOK",
+      "alamat_kantor": "Jl. Khayangan Labuhan Lombok Kec. Pringgabaya Kab. Lombok; Timur Nusa Tenggara Barat - 83655",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "SAP",
+      "nama_pelabuhan": "Sape",
+      "lokasi_kabupaten_kota": "BIMA",
+      "unit_kerja": "KUPP KELAS III SAPE",
+      "alamat_kantor": "Jl. Pelabuhan Niaga No. 1 Sape Bima Kab. Bima Nusa Tenggara Barat",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "kode_pelabuhan": "WOA",
+      "nama_pelabuhan": "Waworada",
+      "lokasi_kabupaten_kota": "BIMA",
+      "unit_kerja": "KUPP KELAS III SAPE",
+      "alamat_kantor": "Jl. Pelabuhan Niaga No. 1 Sape Bima Kab. Bima Nusa Tenggara Barat",
+      "provinsi": "Nusa Tenggara Barat"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Nusa Tenggara Barat (9 pelabuhan) - Unduh Gratis",
+    "description": "9 pelabuhan umum di Provinsi Nusa Tenggara Barat, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Nusa Tenggara Barat (9 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Nusa Tenggara Barat (9 pelabuhan) — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

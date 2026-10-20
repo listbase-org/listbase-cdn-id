@@ -1,0 +1,528 @@
+{
+  "id": "id-kalimantan-utara-postal-codes",
+  "name": "Daftar Kode Pos di Kalimantan Utara",
+  "title": "Daftar Kode Pos di Kalimantan Utara",
+  "description": "Daftar 59 kode pos di Provinsi Kalimantan Utara (kode BPS 65). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "77111",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77112",
+      "kecamatan_name": "Tarakan Barat",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77113",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77114",
+      "kecamatan_name": "Tarakan Tengah",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77116",
+      "kecamatan_name": "Tarakan Utara",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77123",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77124",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77125",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77126",
+      "kecamatan_name": "Tarakan Timur",
+      "regency_code": "65.71",
+      "regency_name": "Kota Tarakan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77213",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77219",
+      "kecamatan_name": "Tanjung Selor",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77252",
+      "kecamatan_name": "Tanjung Palas",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77253",
+      "kecamatan_name": "Tanjung Palas Tengah",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77254",
+      "kecamatan_name": "Tanjung Palas Utara",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77255",
+      "kecamatan_name": "Tanjung Palas Barat",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77256",
+      "kecamatan_name": "Tanjung Palas Timur",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77261",
+      "kecamatan_name": "Peso",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77263",
+      "kecamatan_name": "Sekatak",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77281",
+      "kecamatan_name": "Bunyu",
+      "regency_code": "65.02",
+      "regency_name": "Kabupaten Malinau",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77411",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77412",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77413",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77414",
+      "kecamatan_name": "Nunukan Selatan",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77433",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77436",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77437",
+      "kecamatan_name": "Sebatik Utara",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77438",
+      "kecamatan_name": "Sebatik Timur",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77441",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77443",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77444",
+      "kecamatan_name": "Sebatik Barat",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77445",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77446",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77447",
+      "kecamatan_name": "Sebatik Tengah",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77453",
+      "kecamatan_name": "Sembakung",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77456",
+      "kecamatan_name": "Krayan",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77457",
+      "kecamatan_name": "Lumbis",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77458",
+      "kecamatan_name": "Krayan Selatan",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77491",
+      "kecamatan_name": "Sebuku",
+      "regency_code": "65.04",
+      "regency_name": "Kabupaten Tana Tidung",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77511",
+      "kecamatan_name": "Malinau Kota",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77512",
+      "kecamatan_name": "Malinau Kota",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77513",
+      "kecamatan_name": "Malinau Kota",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77514",
+      "kecamatan_name": "Malinau Kota",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77515",
+      "kecamatan_name": "Malinau Kota",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77516",
+      "kecamatan_name": "Malinau Kota",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77551",
+      "kecamatan_name": "Malinau Utara",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77552",
+      "kecamatan_name": "Malinau Barat",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77553",
+      "kecamatan_name": "Malinau Selatan",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77555",
+      "kecamatan_name": "Mentarang",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77562",
+      "kecamatan_name": "Pujungan",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77563",
+      "kecamatan_name": "Bahau Hulu",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77571",
+      "kecamatan_name": "Kayan Hilir",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77572",
+      "kecamatan_name": "Kayan Hulu",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77573",
+      "kecamatan_name": "Kayan Selatan",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77574",
+      "kecamatan_name": "Sungai Boh",
+      "regency_code": "65.01",
+      "regency_name": "Kabupaten Bulungan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77611",
+      "kecamatan_name": "Sesayap",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77651",
+      "kecamatan_name": "Muruk Rian",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77652",
+      "kecamatan_name": "Sesayap Hilir",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77653",
+      "kecamatan_name": "Betayau",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    },
+    {
+      "postal_code": "77661",
+      "kecamatan_name": "Tana Lia",
+      "regency_code": "65.03",
+      "regency_name": "Kabupaten Nunukan",
+      "province_code": "65",
+      "province_name": "Kalimantan Utara"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos di Kalimantan Utara - Unduh Gratis",
+    "description": "Daftar 59 kode pos di Provinsi Kalimantan Utara (kode BPS 65). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022). Berisi 59 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos di Kalimantan Utara | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos di Kalimantan Utara — 59 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 59 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

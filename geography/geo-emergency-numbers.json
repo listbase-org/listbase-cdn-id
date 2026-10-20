@@ -1,0 +1,731 @@
+{
+  "id": "geo-emergency-numbers",
+  "name": "Dataset Nomor Telepon Darurat Global Berdasarkan Negara",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "police",
+      "label": "Police",
+      "type": "string"
+    },
+    {
+      "key": "fire",
+      "label": "Fire",
+      "type": "string"
+    },
+    {
+      "key": "ambulance",
+      "label": "Ambulance",
+      "type": "string"
+    },
+    {
+      "key": "general",
+      "label": "General Emergency",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Argentina",
+      "iso_code": "AR",
+      "police": "101",
+      "fire": "100",
+      "ambulance": "107",
+      "general": "911",
+      "notes": "SAME untuk medis"
+    },
+    {
+      "country": "Australia",
+      "iso_code": "AU",
+      "police": "000",
+      "fire": "000",
+      "ambulance": "000",
+      "general": "000",
+      "notes": "112 dari ponsel"
+    },
+    {
+      "country": "Austria",
+      "iso_code": "AT",
+      "police": "133",
+      "fire": "122",
+      "ambulance": "144",
+      "general": "112",
+      "notes": "Standar EU 112 juga berfungsi"
+    },
+    {
+      "country": "Bangladesh",
+      "iso_code": "BD",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Darurat nasional"
+    },
+    {
+      "country": "Belgia",
+      "iso_code": "BE",
+      "police": "101",
+      "fire": "100",
+      "ambulance": "100",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Brasil",
+      "iso_code": "BR",
+      "police": "190",
+      "fire": "193",
+      "ambulance": "192",
+      "general": "190",
+      "notes": "SAMU: 192"
+    },
+    {
+      "country": "Bulgaria",
+      "iso_code": "BG",
+      "police": "166",
+      "fire": "160",
+      "ambulance": "150",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Kanada",
+      "iso_code": "CA",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Darurat universal"
+    },
+    {
+      "country": "Chili",
+      "iso_code": "CL",
+      "police": "133",
+      "fire": "132",
+      "ambulance": "131",
+      "general": "131",
+      "notes": "Carabineros: 133"
+    },
+    {
+      "country": "Tiongkok",
+      "iso_code": "CN",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "120",
+      "general": "110",
+      "notes": "Lalu lintas: 122"
+    },
+    {
+      "country": "Kolombia",
+      "iso_code": "CO",
+      "police": "123",
+      "fire": "119",
+      "ambulance": "123",
+      "general": "123",
+      "notes": "NUSE terpadu"
+    },
+    {
+      "country": "Kroasia",
+      "iso_code": "HR",
+      "police": "192",
+      "fire": "193",
+      "ambulance": "194",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Siprus",
+      "iso_code": "CY",
+      "police": "199",
+      "fire": "199",
+      "ambulance": "199",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Republik Ceko",
+      "iso_code": "CZ",
+      "police": "158",
+      "fire": "150",
+      "ambulance": "155",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Denmark",
+      "iso_code": "DK",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Satu nomor untuk semua"
+    },
+    {
+      "country": "Mesir",
+      "iso_code": "EG",
+      "police": "122",
+      "fire": "180",
+      "ambulance": "123",
+      "general": "122",
+      "notes": "Polisi Turis: 126"
+    },
+    {
+      "country": "Estonia",
+      "iso_code": "EE",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Etiopia",
+      "iso_code": "ET",
+      "police": "991",
+      "fire": "939",
+      "ambulance": "907",
+      "general": "991",
+      "notes": "Palang Merah: 907"
+    },
+    {
+      "country": "Finlandia",
+      "iso_code": "FI",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Satu nomor untuk semua"
+    },
+    {
+      "country": "Prancis",
+      "iso_code": "FR",
+      "police": "17",
+      "fire": "18",
+      "ambulance": "15",
+      "general": "112",
+      "notes": "SAMU untuk medis"
+    },
+    {
+      "country": "Jerman",
+      "iso_code": "DE",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standar UE 112"
+    },
+    {
+      "country": "Ghana",
+      "iso_code": "GH",
+      "police": "191",
+      "fire": "192",
+      "ambulance": "193",
+      "general": "112",
+      "notes": "112 terpadu"
+    },
+    {
+      "country": "Yunani",
+      "iso_code": "GR",
+      "police": "100",
+      "fire": "199",
+      "ambulance": "166",
+      "general": "112",
+      "notes": "Standar UE 112"
+    },
+    {
+      "country": "Hong Kong",
+      "iso_code": "HK",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Nomor tunggal"
+    },
+    {
+      "country": "Hongaria",
+      "iso_code": "HU",
+      "police": "107",
+      "fire": "105",
+      "ambulance": "104",
+      "general": "112",
+      "notes": "Standar UE 112"
+    },
+    {
+      "country": "India",
+      "iso_code": "IN",
+      "police": "100",
+      "fire": "101",
+      "ambulance": "102",
+      "general": "112",
+      "notes": "112 terpadu (ERSS)"
+    },
+    {
+      "country": "Indonesia",
+      "iso_code": "ID",
+      "police": "110",
+      "fire": "113",
+      "ambulance": "118",
+      "general": "112",
+      "notes": "112 terpadu"
+    },
+    {
+      "country": "Irlandia",
+      "iso_code": "IE",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "999 juga berfungsi"
+    },
+    {
+      "country": "Israel",
+      "iso_code": "IL",
+      "police": "100",
+      "fire": "102",
+      "ambulance": "101",
+      "general": "100",
+      "notes": "Ambulans MDA"
+    },
+    {
+      "country": "Italia",
+      "iso_code": "IT",
+      "police": "113",
+      "fire": "115",
+      "ambulance": "118",
+      "general": "112",
+      "notes": "Carabinieri: 112"
+    },
+    {
+      "country": "Jepang",
+      "iso_code": "JP",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "110",
+      "notes": "Pemadam kebakaran & ambulans sama"
+    },
+    {
+      "country": "Yordania",
+      "iso_code": "JO",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Sistem terpadu"
+    },
+    {
+      "country": "Kenya",
+      "iso_code": "KE",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Nomor tunggal"
+    },
+    {
+      "country": "Kuwait",
+      "iso_code": "KW",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal"
+    },
+    {
+      "country": "Latvia",
+      "iso_code": "LV",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "113",
+      "general": "112",
+      "notes": "Standar UE 112"
+    },
+    {
+      "country": "Lebanon",
+      "iso_code": "LB",
+      "police": "112",
+      "fire": "175",
+      "ambulance": "140",
+      "general": "112",
+      "notes": "Palang Merah: 140"
+    },
+    {
+      "country": "Lituania",
+      "iso_code": "LT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal untuk semua"
+    },
+    {
+      "country": "Luksemburg",
+      "iso_code": "LU",
+      "police": "113",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standar UE 112"
+    },
+    {
+      "country": "Malaysia",
+      "iso_code": "MY",
+      "police": "999",
+      "fire": "994",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Nomor tunggal"
+    },
+    {
+      "country": "Malta",
+      "iso_code": "MT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal untuk semua"
+    },
+    {
+      "country": "Meksiko",
+      "iso_code": "MX",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Disatukan sejak 2017"
+    },
+    {
+      "country": "Maroko",
+      "iso_code": "MA",
+      "police": "19",
+      "fire": "15",
+      "ambulance": "15",
+      "general": "19",
+      "notes": "SAMU: 141"
+    },
+    {
+      "country": "Belanda",
+      "iso_code": "NL",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal untuk semua"
+    },
+    {
+      "country": "Selandia Baru",
+      "iso_code": "NZ",
+      "police": "111",
+      "fire": "111",
+      "ambulance": "111",
+      "general": "111",
+      "notes": "Nomor tunggal"
+    },
+    {
+      "country": "Nigeria",
+      "iso_code": "NG",
+      "police": "199",
+      "fire": "199",
+      "ambulance": "199",
+      "general": "112",
+      "notes": "112 disatukan"
+    },
+    {
+      "country": "Norwegia",
+      "iso_code": "NO",
+      "police": "112",
+      "fire": "110",
+      "ambulance": "113",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Pakistan",
+      "iso_code": "PK",
+      "police": "15",
+      "fire": "16",
+      "ambulance": "115",
+      "general": "15",
+      "notes": "Penyelamatan 1122 di Punjab"
+    },
+    {
+      "country": "Peru",
+      "iso_code": "PE",
+      "police": "105",
+      "fire": "116",
+      "ambulance": "117",
+      "general": "105",
+      "notes": "Polisi PNP"
+    },
+    {
+      "country": "Filipina",
+      "iso_code": "PH",
+      "police": "117",
+      "fire": "160",
+      "ambulance": "161",
+      "general": "911",
+      "notes": "911 sejak 2016"
+    },
+    {
+      "country": "Polandia",
+      "iso_code": "PL",
+      "police": "997",
+      "fire": "998",
+      "ambulance": "999",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Portugal",
+      "iso_code": "PT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal untuk semua"
+    },
+    {
+      "country": "Qatar",
+      "iso_code": "QA",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Nomor tunggal"
+    },
+    {
+      "country": "Rumania",
+      "iso_code": "RO",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal untuk semua"
+    },
+    {
+      "country": "Rusia",
+      "iso_code": "RU",
+      "police": "102",
+      "fire": "101",
+      "ambulance": "103",
+      "general": "112",
+      "notes": "112 disatukan"
+    },
+    {
+      "country": "Arab Saudi",
+      "iso_code": "SA",
+      "police": "999",
+      "fire": "998",
+      "ambulance": "997",
+      "general": "911",
+      "notes": "911 disatukan"
+    },
+    {
+      "country": "Singapura",
+      "iso_code": "SG",
+      "police": "999",
+      "fire": "995",
+      "ambulance": "995",
+      "general": "999",
+      "notes": "Pemadam kebakaran & ambulans sama"
+    },
+    {
+      "country": "Slovakia",
+      "iso_code": "SK",
+      "police": "158",
+      "fire": "150",
+      "ambulance": "155",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Slovenia",
+      "iso_code": "SI",
+      "police": "113",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standar EU 112"
+    },
+    {
+      "country": "Afrika Selatan",
+      "iso_code": "ZA",
+      "police": "10111",
+      "fire": "10177",
+      "ambulance": "10177",
+      "general": "112",
+      "notes": "112 dari ponsel"
+    },
+    {
+      "country": "Korea Selatan",
+      "iso_code": "KR",
+      "police": "112",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "112",
+      "notes": "Pemadam kebakaran & ambulans sama"
+    },
+    {
+      "country": "Spanyol",
+      "iso_code": "ES",
+      "police": "091",
+      "fire": "080",
+      "ambulance": "061",
+      "general": "112",
+      "notes": "Standar UE 112"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso_code": "LK",
+      "police": "119",
+      "fire": "110",
+      "ambulance": "110",
+      "general": "119",
+      "notes": "Suwa Seriya: 1990"
+    },
+    {
+      "country": "Swedia",
+      "iso_code": "SE",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Nomor tunggal untuk semua"
+    },
+    {
+      "country": "Swiss",
+      "iso_code": "CH",
+      "police": "117",
+      "fire": "118",
+      "ambulance": "144",
+      "general": "112",
+      "notes": "112 mengalihkan ke 117"
+    },
+    {
+      "country": "Taiwan",
+      "iso_code": "TW",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "110",
+      "notes": "Pemadam kebakaran & ambulans sama"
+    },
+    {
+      "country": "Thailand",
+      "iso_code": "TH",
+      "police": "191",
+      "fire": "199",
+      "ambulance": "1669",
+      "general": "191",
+      "notes": "Polisi Pariwisata: 1155"
+    },
+    {
+      "country": "Turki",
+      "iso_code": "TR",
+      "police": "155",
+      "fire": "110",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "112 disatukan"
+    },
+    {
+      "country": "Ukraina",
+      "iso_code": "UA",
+      "police": "102",
+      "fire": "101",
+      "ambulance": "103",
+      "general": "112",
+      "notes": "112 disatukan"
+    },
+    {
+      "country": "Uni Emirat Arab",
+      "iso_code": "AE",
+      "police": "999",
+      "fire": "997",
+      "ambulance": "998",
+      "general": "999",
+      "notes": "Dubai: 901"
+    },
+    {
+      "country": "Britania Raya",
+      "iso_code": "GB",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "112 juga berfungsi"
+    },
+    {
+      "country": "Amerika Serikat",
+      "iso_code": "US",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Darurat universal"
+    },
+    {
+      "country": "Venezuela",
+      "iso_code": "VE",
+      "police": "171",
+      "fire": "171",
+      "ambulance": "171",
+      "general": "171",
+      "notes": "Sistem terpadu"
+    },
+    {
+      "country": "Vietnam",
+      "iso_code": "VN",
+      "police": "113",
+      "fire": "114",
+      "ambulance": "115",
+      "general": "113",
+      "notes": "Nomor terpisah"
+    }
+  ],
+  "meta": {
+    "seo_title": "Nomor Telepon Darurat Dunia - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Dapatkan nomor telepon darurat penting untuk 73 negara. Unduh gratis nomor polisi, pemadam kebakaran, dan ambulans. Tersedia dalam format Excel, CSV, dan PDF.",
+    "title": "Dataset Nomor Telepon Darurat Global Berdasarkan Negara",
+    "description": "Dataset ini menyediakan daftar lengkap nomor telepon darurat (Polisi, Pemadam Kebakaran, Ambulans, Darurat Umum) untuk 73 negara secara global, beserta kode ISO dan catatan khusus. Ini adalah sumber daya yang tak ternilai bagi pelancong, pengembang, dan peneliti.",
+    "key_takeaways": [
+      "Akses daftar komprehensif nomor layanan darurat untuk 73 negara.",
+      "Jelajahi kontak langsung untuk Polisi, Pemadam Kebakaran, Ambulans, dan saluran darurat umum.",
+      "Unduh data darurat spesifik negara yang vital dalam berbagai format yang nyaman.",
+      "Dapatkan kode ISO dan catatan penting untuk layanan darurat setiap negara."
+    ],
+    "keywords": [
+      "nomor telepon darurat negara",
+      "kontak darurat seluruh dunia",
+      "nomor polisi pemadam kebakaran ambulans",
+      "layanan darurat global csv",
+      "nomor darurat negara excel",
+      "kode darurat internasional"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau aplikasi Anda untuk mengintegrasikan pencarian kontak darurat real-time bagi pengguna internasional atau aplikasi perjalanan.",
+      "Gunakan file **Excel** untuk penyaringan cepat, analisis, dan pelaporan pola nomor darurat, membuat lembar referensi ringkas untuk tim manajemen krisis.",
+      "Cetak versi **PDF** untuk panduan referensi fisik, offline, ideal untuk pelancong, pendidik, atau dalam perlengkapan kesiapsiagaan darurat di mana akses internet mungkin terbatas.",
+      "Manfaatkan dataset ini untuk meningkatkan aplikasi keselamatan publik, mengembangkan panduan perjalanan, atau mendukung penelitian tentang sistem respons darurat global dan aksesibilitas."
+    ]
+  },
+  "record_count": 73,
+  "title": "Dataset Nomor Telepon Darurat Global Berdasarkan Negara"
+}

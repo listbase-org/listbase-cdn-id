@@ -1,0 +1,237 @@
+{
+  "id": "id-maluku-utara-airports",
+  "name": "Bandar Udara — Maluku Utara",
+  "title": "Bandar Udara — Maluku Utara",
+  "description": "Bandar udara di Provinsi Maluku Utara, Indonesia (Airports in Maluku Utara Province, Indonesia — 8 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAEE",
+      "iata": "TTE",
+      "name_en": "Babullah Airport",
+      "name_slug": "babullah-airport",
+      "city_en": "Ternate",
+      "city_slug": "ternate",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 49,
+      "lat": 0.8311788,
+      "lon": 127.3808746,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAEM",
+      "iata": "PGQ",
+      "name_en": "Buli Airport",
+      "name_slug": "buli-airport",
+      "city_en": "Buli",
+      "city_slug": "buli",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 19,
+      "lat": 0.9171717,
+      "lon": 128.3809839,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMJ",
+      "iata": "GEB",
+      "name_en": "Gebe",
+      "name_slug": "gebe",
+      "city_en": "Petani",
+      "city_slug": "petani",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 0.083333,
+      "lon": 129.41667,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMK",
+      "iata": "KAZ",
+      "name_en": "Kau",
+      "name_slug": "kau",
+      "city_en": "Subaim",
+      "city_slug": "subaim",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 27,
+      "lat": 1.166667,
+      "lon": 127.86667,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAEL",
+      "iata": "LAH",
+      "name_en": "Labuha",
+      "name_slug": "labuha",
+      "city_en": "Labuha",
+      "city_slug": "labuha",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 49,
+      "lat": -0.6335905,
+      "lon": 127.5055292,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMR",
+      "iata": "OTI",
+      "name_en": "Pitu",
+      "name_slug": "pitu",
+      "city_en": "Tobelo",
+      "city_slug": "tobelo",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": 2.833333,
+      "lon": 128.5,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPN",
+      "iata": "SQN",
+      "name_en": "Sanana",
+      "name_slug": "sanana",
+      "city_en": "Sanana",
+      "city_slug": "sanana",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 741,
+      "lat": -2.2,
+      "lon": 125.916664,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    },
+    {
+      "icao": "WAPT",
+      "iata": "TAX",
+      "name_en": "Taliabu",
+      "name_slug": "taliabu",
+      "city_en": "Bobong",
+      "city_slug": "bobong",
+      "province_en": "Maluku Utara",
+      "province_slug": "maluku-utara",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 9,
+      "lat": -1.766667,
+      "lon": 124.8,
+      "timezone": "Asia/Jayapura",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Maluku Utara - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Maluku Utara, Indonesia (Airports in Maluku Utara Province, Indonesia — 8 record(s).) Berisi 8 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Maluku Utara | ListBase",
+    "seo_description": "Unduh Bandar Udara — Maluku Utara — 8 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 8 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

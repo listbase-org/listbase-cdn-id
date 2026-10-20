@@ -1,0 +1,184 @@
+{
+  "id": "id-jawa-timur-pelabuhan",
+  "name": "Pelabuhan Umum di Jawa Timur (16 pelabuhan)",
+  "title": "Pelabuhan Umum di Jawa Timur (16 pelabuhan)",
+  "description": "16 pelabuhan umum di Provinsi Jawa Timur, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "BNQ",
+      "nama_pelabuhan": "Brondong",
+      "lokasi_kabupaten_kota": "LAMONGAN",
+      "unit_kerja": "UPP KELAS III BRONDONG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sedayulawas Kec. Brondong Lamongan; Jawa Timur - 662814",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "BWB",
+      "nama_pelabuhan": "Banyu Wangi/ Boom",
+      "lokasi_kabupaten_kota": "BANYUWANGI",
+      "unit_kerja": "KUPP KELAS III KETAPANG",
+      "alamat_kantor": "Jl. Jend. Gatot Subroto No. 2 Komplek Pelabuhan LCM Ketapang Banyuwangi Jawa Timur - 68401",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "BWN",
+      "nama_pelabuhan": "Bawean",
+      "lokasi_kabupaten_kota": "GRESIK",
+      "unit_kerja": "KUPP KELAS III SANGKAPURA/BAWEAN",
+      "alamat_kantor": "Jl Beringinan No. 1 Sangka Pura Jawa Timur 61181",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "GRE",
+      "nama_pelabuhan": "Gresik",
+      "lokasi_kabupaten_kota": "GRESIK",
+      "unit_kerja": "KSOP KELAS II GRESIK",
+      "alamat_kantor": "Jl. Yos Sudarso No. 36 Gresik Jawa Timur 61114",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "IKL",
+      "nama_pelabuhan": "Ketapang",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III KETAPANG",
+      "alamat_kantor": "Jl. Jend. Gatot Subroto No. 2 Komplek Pelabuhan LCM Ketapang Banyuwangi Jawa Timur - 68401",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "ISG",
+      "nama_pelabuhan": "Sapudi",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III SAPUDI",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Gawam Sapudi Kab. Sumenep Madura Jawa Timur 69483",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "KAT",
+      "nama_pelabuhan": "Kalianget",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KSOP KELAS IV KALIANGET",
+      "alamat_kantor": "Jl. Komplek Pelabuhan No. 02 Kalianget Sumenep Jawa Timur 69471",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "KRN",
+      "nama_pelabuhan": "Keramaian",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III MASALEMBO",
+      "alamat_kantor": "Jl. Raya Pelabuhan No. 1 Masalembu; Sumenep; Jawa Timur - 69492",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "KSO",
+      "nama_pelabuhan": "Kalbut",
+      "lokasi_kabupaten_kota": "SITUBONDO",
+      "unit_kerja": "KUPP KELAS III KALBUT",
+      "alamat_kantor": "Jl. Pelabuhan Kalbut Situbondo; Jawa Timur - 68363",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "MSI",
+      "nama_pelabuhan": "Masalembo",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III MASALEMBO",
+      "alamat_kantor": "Jl. Raya Pelabuhan No. 1 Masalembu; Sumenep; Jawa Timur - 69492",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "PCI",
+      "nama_pelabuhan": "Pacitan",
+      "lokasi_kabupaten_kota": "PACITAN",
+      "unit_kerja": "UPP KELAS III BRONDONG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sedayulawas Kec. Brondong Lamongan; Jawa Timur - 662814",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "PSN",
+      "nama_pelabuhan": "Pasean",
+      "lokasi_kabupaten_kota": "PAMEKASAN",
+      "unit_kerja": "KUPP KELAS III TELAGA BIRU",
+      "alamat_kantor": "Jl. Pelabuhan No. 54 Telagabiru Bangkalan Jawa Timur 69156",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "RAS",
+      "nama_pelabuhan": "P. Raas",
+      "lokasi_kabupaten_kota": "SUMENEP",
+      "unit_kerja": "KUPP KELAS III SAPUDI",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Gawam Sapudi Kab. Sumenep Madura Jawa Timur 69483",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "SUB",
+      "nama_pelabuhan": "Tanjung Perak",
+      "lokasi_kabupaten_kota": "KOTA SURABAYA",
+      "unit_kerja": "KANTOR SYAHBANDAR UTAMA TANJUNG PERAK SURABAYA",
+      "alamat_kantor": "Jl. Kalimas Baru No. 194 Surabaya Jawa Timur 60165",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "TGU",
+      "nama_pelabuhan": "Telaga Biru",
+      "lokasi_kabupaten_kota": "BANGKALAN",
+      "unit_kerja": "KUPP KELAS III TELAGA BIRU",
+      "alamat_kantor": "Jl. Pelabuhan No. 54 Telagabiru Bangkalan Jawa Timur 69156",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "kode_pelabuhan": "TJP",
+      "nama_pelabuhan": "Tanjung Pakis",
+      "lokasi_kabupaten_kota": "LAMONGAN",
+      "unit_kerja": "UPP KELAS III BRONDONG",
+      "alamat_kantor": "Jl. Pelabuhan No. 1 Sedayulawas Kec. Brondong Lamongan; Jawa Timur - 662814",
+      "provinsi": "Jawa Timur"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Jawa Timur (16 pelabuhan) - Unduh Gratis",
+    "description": "16 pelabuhan umum di Provinsi Jawa Timur, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 16 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Jawa Timur (16 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Jawa Timur (16 pelabuhan) — 16 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 16 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

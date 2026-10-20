@@ -1,0 +1,424 @@
+{
+  "id": "id-zona-waktu-america",
+  "name": "Zona waktu — America (46)",
+  "title": "Zona waktu — America (46)",
+  "description": "Zona waktu yang pengenal IANA-nya diawali 'America/', dengan nama dalam bahasa Indonesia.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Anguilla",
+      "wilayah": "America",
+      "kota": "Anguila",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Araguaina",
+      "wilayah": "America",
+      "kota": "Araguaína",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "wilayah": "America",
+      "kota": "Río Gallegos",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Argentina/Tucuman",
+      "wilayah": "America",
+      "kota": "Tucumán",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Asuncion",
+      "wilayah": "America",
+      "kota": "Asunción",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Bahia_Banderas",
+      "wilayah": "America",
+      "kota": "Bahia Banderas",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Belem",
+      "wilayah": "America",
+      "kota": "Belém",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Bogota",
+      "wilayah": "America",
+      "kota": "Bogotá",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Cancun",
+      "wilayah": "America",
+      "kota": "Cancun",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Ciudad_Juarez",
+      "wilayah": "America",
+      "kota": "Ciudad Juarez",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Coral_Harbour",
+      "wilayah": "America",
+      "kota": "Atikokan",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Cordoba",
+      "wilayah": "America",
+      "kota": "Córdoba",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Costa_Rica",
+      "wilayah": "America",
+      "kota": "Kosta Rika",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Cuiaba",
+      "wilayah": "America",
+      "kota": "Cuiabá",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Curacao",
+      "wilayah": "America",
+      "kota": "Curaçao",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Dominica",
+      "wilayah": "America",
+      "kota": "Dominika",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Eirunepe",
+      "wilayah": "America",
+      "kota": "Eirunepé",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Godthab",
+      "wilayah": "America",
+      "kota": "Nuuk",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Indiana/Knox",
+      "wilayah": "America",
+      "kota": "Knox, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Indiana/Marengo",
+      "wilayah": "America",
+      "kota": "Marengo, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Indiana/Petersburg",
+      "wilayah": "America",
+      "kota": "Petersburg, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Indiana/Tell_City",
+      "wilayah": "America",
+      "kota": "Tell City, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Indiana/Vevay",
+      "wilayah": "America",
+      "kota": "Vevay, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Indiana/Vincennes",
+      "wilayah": "America",
+      "kota": "Vincennes, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Indiana/Winamac",
+      "wilayah": "America",
+      "kota": "Winamac, Indiana",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Kentucky/Monticello",
+      "wilayah": "America",
+      "kota": "Monticello, Kentucky",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Lower_Princes",
+      "wilayah": "America",
+      "kota": "Lower Prince’s Quarter",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Maceio",
+      "wilayah": "America",
+      "kota": "Maceió",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Martinique",
+      "wilayah": "America",
+      "kota": "Martinik",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Mazatlan",
+      "wilayah": "America",
+      "kota": "Mazatlán",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Merida",
+      "wilayah": "America",
+      "kota": "Merida",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Mexico_City",
+      "wilayah": "America",
+      "kota": "Ciudad de México",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Miquelon",
+      "wilayah": "America",
+      "kota": "Saint-Pierre",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Noronha",
+      "wilayah": "America",
+      "kota": "Fernando de Noronha",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/North_Dakota/Beulah",
+      "wilayah": "America",
+      "kota": "Beulah, Dakota Utara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/North_Dakota/Center",
+      "wilayah": "America",
+      "kota": "Center, Dakota Utara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "wilayah": "America",
+      "kota": "New Salem, Dakota Utara",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Santarem",
+      "wilayah": "America",
+      "kota": "Santarém",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Sao_Paulo",
+      "wilayah": "America",
+      "kota": "São Paulo",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Scoresbysund",
+      "wilayah": "America",
+      "kota": "Ittoqqortoormiit",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/St_Barthelemy",
+      "wilayah": "America",
+      "kota": "St. Barthélemy",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/St_Johns",
+      "wilayah": "America",
+      "kota": "St. John’s",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/St_Kitts",
+      "wilayah": "America",
+      "kota": "St. Kitts",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/St_Lucia",
+      "wilayah": "America",
+      "kota": "St. Lucia",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/St_Thomas",
+      "wilayah": "America",
+      "kota": "St. Thomas",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/St_Vincent",
+      "wilayah": "America",
+      "kota": "St. Vincent",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu — America (46) - Unduh Gratis",
+    "description": "Zona waktu yang pengenal IANA-nya diawali 'America/', dengan nama dalam bahasa Indonesia. Berisi 46 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu — America (46) | ListBase",
+    "seo_description": "Unduh Zona waktu — America (46) — 46 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 46 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

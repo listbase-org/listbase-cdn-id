@@ -1,0 +1,184 @@
+{
+  "id": "id-bali-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Bali (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Bali (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "9 kabupaten/kota di Provinsi Bali dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "51.01",
+      "name": "Kabupaten Jembrana",
+      "type": "kabupaten",
+      "capital": "Negara",
+      "latitude": -8.357301,
+      "longitude": 114.636901,
+      "elevation_m": 21,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 847.515,
+      "population": 330221
+    },
+    {
+      "code": "51.02",
+      "name": "Kabupaten Tabanan",
+      "type": "kabupaten",
+      "capital": "Tabanan",
+      "latitude": -8.539498,
+      "longitude": 115.131032,
+      "elevation_m": 134,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 848.539,
+      "population": 478393
+    },
+    {
+      "code": "51.03",
+      "name": "Kabupaten Badung",
+      "type": "kabupaten",
+      "capital": "Mangupura",
+      "latitude": -8.601921,
+      "longitude": 115.179145,
+      "elevation_m": 88,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 397.395,
+      "population": 537739
+    },
+    {
+      "code": "51.04",
+      "name": "Kabupaten Gianyar",
+      "type": "kabupaten",
+      "capital": "Gianyar",
+      "latitude": -8.540851,
+      "longitude": 115.32411,
+      "elevation_m": 133,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 363.782,
+      "population": 504845
+    },
+    {
+      "code": "51.05",
+      "name": "Kabupaten Klungkung",
+      "type": "kabupaten",
+      "capital": "Semarapura",
+      "latitude": -8.534402,
+      "longitude": 115.40298,
+      "elevation_m": 99,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 312.115,
+      "population": 223723
+    },
+    {
+      "code": "51.06",
+      "name": "Kabupaten Bangli",
+      "type": "kabupaten",
+      "capital": "Bangli",
+      "latitude": -8.461763,
+      "longitude": 115.352477,
+      "elevation_m": 412,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 526.764,
+      "population": 260526
+    },
+    {
+      "code": "51.07",
+      "name": "Kabupaten Karangasem",
+      "type": "kabupaten",
+      "capital": "Amlapura",
+      "latitude": -8.438847,
+      "longitude": 115.612233,
+      "elevation_m": 114,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 838.899,
+      "population": 538390
+    },
+    {
+      "code": "51.08",
+      "name": "Kabupaten Buleleng",
+      "type": "kabupaten",
+      "capital": "Singaraja",
+      "latitude": -8.12516,
+      "longitude": 115.092849,
+      "elevation_m": 56,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 1322.124,
+      "population": 828156
+    },
+    {
+      "code": "51.71",
+      "name": "Kota Denpasar",
+      "type": "kota",
+      "capital": "Denpasar",
+      "latitude": -8.654459,
+      "longitude": 115.216533,
+      "elevation_m": 32,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 125.694,
+      "population": 673270
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Bali (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "9 kabupaten/kota di Provinsi Bali dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 9 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Bali (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Bali (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 9 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 9 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

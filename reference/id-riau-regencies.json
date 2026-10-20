@@ -1,0 +1,118 @@
+{
+  "id": "id-riau-regencies",
+  "name": "Daftar Kabupaten dan Kota di Riau",
+  "title": "Daftar Kabupaten dan Kota di Riau",
+  "description": "Daftar kabupaten dan kota di Provinsi Riau dengan kode wilayah Kepmendagri. Total 12 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "14.01",
+      "name": "Kabupaten Kampar",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kampar"
+    },
+    {
+      "code": "14.02",
+      "name": "Kabupaten Indragiri Hulu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-indragiri-hulu"
+    },
+    {
+      "code": "14.03",
+      "name": "Kabupaten Bengkalis",
+      "type": "Kabupaten",
+      "slug": "kabupaten-bengkalis"
+    },
+    {
+      "code": "14.04",
+      "name": "Kabupaten Indragiri Hilir",
+      "type": "Kabupaten",
+      "slug": "kabupaten-indragiri-hilir"
+    },
+    {
+      "code": "14.05",
+      "name": "Kabupaten Pelalawan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pelalawan"
+    },
+    {
+      "code": "14.06",
+      "name": "Kabupaten Rokan Hulu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-rokan-hulu"
+    },
+    {
+      "code": "14.07",
+      "name": "Kabupaten Rokan Hilir",
+      "type": "Kabupaten",
+      "slug": "kabupaten-rokan-hilir"
+    },
+    {
+      "code": "14.08",
+      "name": "Kabupaten Siak",
+      "type": "Kabupaten",
+      "slug": "kabupaten-siak"
+    },
+    {
+      "code": "14.09",
+      "name": "Kabupaten Kuantan Singingi",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kuantan-singingi"
+    },
+    {
+      "code": "14.10",
+      "name": "Kabupaten Kepulauan Meranti",
+      "type": "Kabupaten",
+      "slug": "kabupaten-kepulauan-meranti"
+    },
+    {
+      "code": "14.71",
+      "name": "Kota Pekanbaru",
+      "type": "Kota",
+      "slug": "kota-pekanbaru"
+    },
+    {
+      "code": "14.72",
+      "name": "Kota Dumai",
+      "type": "Kota",
+      "slug": "kota-dumai"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Riau - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Riau dengan kode wilayah Kepmendagri. Total 12 kabupaten/kota. Berisi 12 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Riau | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Riau — 12 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 12 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

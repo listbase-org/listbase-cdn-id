@@ -1,0 +1,1076 @@
+{
+  "id": "id-komoditas-pertanian",
+  "name": "Komoditas Pertanian & Perkebunan Indonesia per Provinsi",
+  "title": "Komoditas Pertanian & Perkebunan Indonesia per Provinsi",
+  "description": "Komoditas pertanian dan perkebunan utama (padi, kopi, kelapa sawit, cengkeh, dsb.) tiap provinsi di Indonesia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "komoditas",
+      "label": "Komoditas",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "komoditas": "padi",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "pinang",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "tembakau",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "getah damar",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "kapuk",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "kedelai",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "kacang tanah",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "tebu",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "cokelat",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "teh",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "kayu manis",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "tembakau",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "sayur-mayur",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "buah-buahan",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "komoditas": "hasil hutan",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "komoditas": "coklat",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "komoditas": "lada",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "coklat",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "lada",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "cengkih",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "pisang",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "tembakau",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "hasil hutan",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "lada",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "komoditas": "hasil laut",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "komoditas": "palawija dan holtikultura",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "gambir",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "nenas",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "kentang manis",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "buah-buahan dan sayuran",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "teh",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "minyak sawit",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "karet alam",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "gula",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "coklat",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "tembakau",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "kayu jati",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "tebu",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "jambu mente",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "sayur-sayuran",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "buah-buahan",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "ubi kayu",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "jambu mente",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "melinjo",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "tembakau",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "teh",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "tebu",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "jambu mente",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "sayur-sayuran",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "buah-buahan",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "melinjo",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "durian",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "kedelai",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "jambu mente",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "kapas",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "cokelat",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "tembakau",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "tebu",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "pisang",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "kedelai",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "lidah buaya",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "coklat",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "jeruk",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "jambu mente",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "ubi kayu",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "ubi jalar",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "jeruk",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "pepaya",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "pisang",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "durian",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "rambutan",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "kasturi",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "langsat",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "kelapa sawit",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "lada",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "vanilla",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "kakao",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "jagung",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "ubi kayu",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "ubi jalar",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "kacang-kacangan",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "kakao",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "kacang mede",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "pinang",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "lada",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "vanili",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "padi",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "kemiri",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "cabe",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "tomat",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "bawang",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "kakao",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "kopi robusta",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "kopi arabika",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "kapuk",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "kakao",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "vanili",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "bungkil",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "pisang segar",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "kopra",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "fuli",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "kakao",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "kayu bular",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "rotan",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "coklat",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "karet",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "cengkeh",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "coklat",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "jambu mente",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "kopi",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "kelapa",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "pala",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "ubi kayu",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    }
+  ],
+  "meta": {
+    "title": "Komoditas Pertanian & Perkebunan Indonesia per Provinsi - Unduh Gratis",
+    "description": "Komoditas pertanian dan perkebunan utama (padi, kopi, kelapa sawit, cengkeh, dsb.) tiap provinsi di Indonesia. Berisi 207 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Komoditas Pertanian & Perkebunan Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Komoditas Pertanian & Perkebunan Indonesia per Provinsi — 207 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 207 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

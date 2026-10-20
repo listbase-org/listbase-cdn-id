@@ -1,0 +1,70 @@
+{
+  "id": "id-papua-selatan-regencies",
+  "name": "Daftar Kabupaten dan Kota di Papua Selatan",
+  "title": "Daftar Kabupaten dan Kota di Papua Selatan",
+  "description": "Daftar kabupaten dan kota di Provinsi Papua Selatan dengan kode wilayah Kepmendagri. Total 4 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "93.01",
+      "name": "Kabupaten Merauke",
+      "type": "Kabupaten",
+      "slug": "kabupaten-merauke"
+    },
+    {
+      "code": "93.02",
+      "name": "Kabupaten Boven Digoel",
+      "type": "Kabupaten",
+      "slug": "kabupaten-boven-digoel"
+    },
+    {
+      "code": "93.03",
+      "name": "Kabupaten Mappi",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mappi"
+    },
+    {
+      "code": "93.04",
+      "name": "Kabupaten Asmat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-asmat"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Papua Selatan - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Papua Selatan dengan kode wilayah Kepmendagri. Total 4 kabupaten/kota. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Papua Selatan | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Papua Selatan — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

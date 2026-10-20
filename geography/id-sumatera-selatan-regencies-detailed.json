@@ -1,0 +1,280 @@
+{
+  "id": "id-sumatera-selatan-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sumatera Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sumatera Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "17 kabupaten/kota di Provinsi Sumatera Selatan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu",
+      "type": "kabupaten",
+      "capital": "Baturaja",
+      "latitude": -4.16571,
+      "longitude": 104.197771,
+      "elevation_m": 61,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3774.497,
+      "population": 390048
+    },
+    {
+      "code": "16.02",
+      "name": "Kabupaten Ogan Komering",
+      "type": "kabupaten",
+      "capital": "Kayu Agung",
+      "latitude": -3.411646,
+      "longitude": 104.82302,
+      "elevation_m": 16,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 17075.713,
+      "population": 801059
+    },
+    {
+      "code": "16.03",
+      "name": "Kabupaten Muara Enim",
+      "type": "kabupaten",
+      "capital": "Muara Enim",
+      "latitude": -3.65563,
+      "longitude": 103.777004,
+      "elevation_m": 41,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6763.912,
+      "population": 653731
+    },
+    {
+      "code": "16.04",
+      "name": "Kabupaten Lahat",
+      "type": "kabupaten",
+      "capital": "Lahat",
+      "latitude": -3.778186,
+      "longitude": 103.550481,
+      "elevation_m": 119,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4333.065,
+      "population": 448141
+    },
+    {
+      "code": "16.05",
+      "name": "Kabupaten Musi Rawas",
+      "type": "kabupaten",
+      "capital": "Muara Beliti Baru",
+      "latitude": -3.243508,
+      "longitude": 103.011586,
+      "elevation_m": 67,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 6122.588,
+      "population": 427723
+    },
+    {
+      "code": "16.06",
+      "name": "Kabupaten Musi Banyuasin",
+      "type": "kabupaten",
+      "capital": "Sekayu",
+      "latitude": -2.888843,
+      "longitude": 103.840229,
+      "elevation_m": 14,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 14550.788,
+      "population": 736897
+    },
+    {
+      "code": "16.07",
+      "name": "Kabupaten Banyuasin",
+      "type": "kabupaten",
+      "capital": "Pangkalan Balai",
+      "latitude": -2.916811,
+      "longitude": 104.406642,
+      "elevation_m": 27,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 12258.593,
+      "population": 888324
+    },
+    {
+      "code": "16.08",
+      "name": "Kabupaten Ogan Komering Ulu Timur",
+      "type": "kabupaten",
+      "capital": "Martapura",
+      "latitude": -4.368781,
+      "longitude": 104.358447,
+      "elevation_m": 110,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 3412.716,
+      "population": 694832
+    },
+    {
+      "code": "16.09",
+      "name": "Kabupaten Ogan Komering Ulu Selatan",
+      "type": "kabupaten",
+      "capital": "Muaradua",
+      "latitude": -4.532324,
+      "longitude": 104.095362,
+      "elevation_m": 236,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 4369.252,
+      "population": 406938
+    },
+    {
+      "code": "16.10",
+      "name": "Kabupaten Ogan Ilir",
+      "type": "kabupaten",
+      "capital": "Indralaya",
+      "latitude": -3.260584,
+      "longitude": 104.652535,
+      "elevation_m": 12,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2302.858,
+      "population": 446020
+    },
+    {
+      "code": "16.11",
+      "name": "Kabupaten Empat Lawang",
+      "type": "kabupaten",
+      "capital": "Tebing Tinggi",
+      "latitude": -3.609844,
+      "longitude": 103.102764,
+      "elevation_m": 177,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 2234.097,
+      "population": 336783
+    },
+    {
+      "code": "16.12",
+      "name": "Kabupaten Penukal Abab Lematang Ilir",
+      "type": "kabupaten",
+      "capital": "Talang Ubi",
+      "latitude": -3.309874,
+      "longitude": 103.884051,
+      "elevation_m": 65,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 1842.563,
+      "population": 214795
+    },
+    {
+      "code": "16.13",
+      "name": "Kabupaten Musi Rawas Utara",
+      "type": "kabupaten",
+      "capital": "Rupit",
+      "latitude": -2.73469,
+      "longitude": 102.901127,
+      "elevation_m": 39,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 5937.803,
+      "population": 203688
+    },
+    {
+      "code": "16.71",
+      "name": "Kota Palembang",
+      "type": "kota",
+      "capital": "Palembang",
+      "latitude": -2.991046,
+      "longitude": 104.756751,
+      "elevation_m": 9,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 352.523,
+      "population": 1801367
+    },
+    {
+      "code": "16.72",
+      "name": "Kota Pagar Alam",
+      "type": "kota",
+      "capital": "Pagar Alam",
+      "latitude": -4.039322,
+      "longitude": 103.19702,
+      "elevation_m": 996,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 625.913,
+      "population": 153271
+    },
+    {
+      "code": "16.73",
+      "name": "Kota Lubuk Linggau",
+      "type": "kota",
+      "capital": "Lubuklinggau",
+      "latitude": -3.325842,
+      "longitude": 102.825387,
+      "elevation_m": 192,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 367.726,
+      "population": 247550
+    },
+    {
+      "code": "16.74",
+      "name": "Kota Prabumulih",
+      "type": "kota",
+      "capital": "\tKota Prabumulih",
+      "latitude": -3.368938,
+      "longitude": 104.308426,
+      "elevation_m": 33,
+      "timezone": "WIB (UTC+7)",
+      "area_km2": 447.311,
+      "population": 213523
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sumatera Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "17 kabupaten/kota di Provinsi Sumatera Selatan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 17 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sumatera Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sumatera Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 17 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 17 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

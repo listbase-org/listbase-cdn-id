@@ -1,0 +1,340 @@
+{
+  "id": "id-satuan-ukuran-length",
+  "name": "Satuan ukuran — kategori 'length' (31)",
+  "title": "Satuan ukuran — kategori 'length' (31)",
+  "description": "Satuan ukuran kategori 'length' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategori": "length",
+      "nama": "satuan astronomi",
+      "singkatan": "sa",
+      "bentuk_sempit": "sa",
+      "pola": "{0} satuan astronomi"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategori": "length",
+      "nama": "sentimeter",
+      "singkatan": "cm",
+      "bentuk_sempit": "cm",
+      "pola": "{0} sentimeter"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategori": "length",
+      "nama": "chain",
+      "singkatan": "chain",
+      "bentuk_sempit": "chain",
+      "pola": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategori": "length",
+      "nama": "desimeter",
+      "singkatan": "dm",
+      "bentuk_sempit": "dm",
+      "pola": "{0} desimeter"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategori": "length",
+      "nama": "jari-jari Bumi",
+      "singkatan": "R⊕",
+      "bentuk_sempit": "R⊕",
+      "pola": "{0} jari-jari Bumi"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategori": "length",
+      "nama": "depa",
+      "singkatan": "dp",
+      "bentuk_sempit": "depa",
+      "pola": "{0} depa"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategori": "length",
+      "nama": "kaki",
+      "singkatan": "kaki",
+      "bentuk_sempit": "ft",
+      "pola": "{0} kaki"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategori": "length",
+      "nama": "furlong",
+      "singkatan": "furlong",
+      "bentuk_sempit": "furlong",
+      "pola": "{0} furlong"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategori": "length",
+      "nama": "inci",
+      "singkatan": "inci",
+      "bentuk_sempit": "in",
+      "pola": "{0} inci"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategori": "length",
+      "nama": "jo [JP]",
+      "singkatan": "jo [JP]",
+      "bentuk_sempit": "jo [JP]",
+      "pola": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategori": "length",
+      "nama": "ken [JP]",
+      "singkatan": "ken [JP]",
+      "bentuk_sempit": "ken [JP]",
+      "pola": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategori": "length",
+      "nama": "kilometer",
+      "singkatan": "km",
+      "bentuk_sempit": "km",
+      "pola": "{0} kilometer"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategori": "length",
+      "nama": "tahun cahaya",
+      "singkatan": "thn cahaya",
+      "bentuk_sempit": "tc",
+      "pola": "{0} tahun cahaya"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategori": "length",
+      "nama": "meter",
+      "singkatan": "meter",
+      "bentuk_sempit": "meter",
+      "pola": "{0} meter"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategori": "length",
+      "nama": "mikrometer",
+      "singkatan": "μmeter",
+      "bentuk_sempit": "μmeter",
+      "pola": "{0} mikrometer"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategori": "length",
+      "nama": "mil",
+      "singkatan": "mil",
+      "bentuk_sempit": "mi",
+      "pola": "{0} mil"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategori": "length",
+      "nama": "mil skandinavia",
+      "singkatan": "smi",
+      "bentuk_sempit": "smi",
+      "pola": "{0} mil skandinavia"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategori": "length",
+      "nama": "milimeter",
+      "singkatan": "mm",
+      "bentuk_sempit": "mm",
+      "pola": "{0} milimeter"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategori": "length",
+      "nama": "nanometer",
+      "singkatan": "nm",
+      "bentuk_sempit": "nm",
+      "pola": "{0} nanometer"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategori": "length",
+      "nama": "mil laut",
+      "singkatan": "nmi",
+      "bentuk_sempit": "nmi",
+      "pola": "{0} mil laut"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategori": "length",
+      "nama": "parsec",
+      "singkatan": "parsec",
+      "bentuk_sempit": "parsec",
+      "pola": "{0} parsec"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategori": "length",
+      "nama": "pikometer",
+      "singkatan": "pm",
+      "bentuk_sempit": "pm",
+      "pola": "{0} pikometer"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategori": "length",
+      "nama": "poin",
+      "singkatan": "poin",
+      "bentuk_sempit": "p",
+      "pola": "{0} poin"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategori": "length",
+      "nama": "ri [JP]",
+      "singkatan": "ri [JP]",
+      "bentuk_sempit": "ri [JP]",
+      "pola": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategori": "length",
+      "nama": "rin [JP]",
+      "singkatan": "rin [JP]",
+      "bentuk_sempit": "rin [JP]",
+      "pola": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategori": "length",
+      "nama": "rod",
+      "singkatan": "rod",
+      "bentuk_sempit": "rod",
+      "pola": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategori": "length",
+      "nama": "shaku [cloth, JP]",
+      "singkatan": "shaku [cloth, JP]",
+      "bentuk_sempit": "shaku [cloth, JP]",
+      "pola": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategori": "length",
+      "nama": "shaku [JP]",
+      "singkatan": "shaku [JP]",
+      "bentuk_sempit": "shaku [JP]",
+      "pola": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategori": "length",
+      "nama": "radius Matahari",
+      "singkatan": "radius Matahari",
+      "bentuk_sempit": "R☉",
+      "pola": "{0} radius Matahari"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategori": "length",
+      "nama": "sun [JP]",
+      "singkatan": "sun [JP]",
+      "bentuk_sempit": "sun [JP]",
+      "pola": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategori": "length",
+      "nama": "yard",
+      "singkatan": "yard",
+      "bentuk_sempit": "yd",
+      "pola": "{0} yard"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'length' (31) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'length' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 31 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'length' (31) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'length' (31) — 31 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 31 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

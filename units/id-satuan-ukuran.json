@@ -1,0 +1,2140 @@
+{
+  "id": "id-satuan-ukuran",
+  "name": "Satuan ukuran — nama dalam bahasa Indonesia (CLDR)",
+  "title": "Satuan ukuran — nama dalam bahasa Indonesia (CLDR)",
+  "description": "Daftar satuan ukuran dari locale id di CLDR — dengan nama lengkap (nama), singkatan (singkatan), bentuk sempit (bentuk_sempit) dan pola tampilan (pola).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategori": "acceleration",
+      "nama": "g-force",
+      "singkatan": "g-force",
+      "bentuk_sempit": "g-force",
+      "pola": "{0} g-force"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategori": "acceleration",
+      "nama": "meter per detik persegi",
+      "singkatan": "meter/dtk²",
+      "bentuk_sempit": "m/d²",
+      "pola": "{0} meter per detik persegi"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategori": "angle",
+      "nama": "menit busur",
+      "singkatan": "mnt busur",
+      "bentuk_sempit": "mnt busur",
+      "pola": "{0} menit busur"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategori": "angle",
+      "nama": "detik busur",
+      "singkatan": "dtk busur",
+      "bentuk_sempit": "dtk busur",
+      "pola": "{0} detik busur"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategori": "angle",
+      "nama": "derajat",
+      "singkatan": "derajat",
+      "bentuk_sempit": "derajat",
+      "pola": "{0} derajat"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategori": "angle",
+      "nama": "radian",
+      "singkatan": "radian",
+      "bentuk_sempit": "rad",
+      "pola": "{0} radian"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategori": "angle",
+      "nama": "revolusi",
+      "singkatan": "rev",
+      "bentuk_sempit": "rev",
+      "pola": "{0} revolusi"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategori": "angle",
+      "nama": "steradian",
+      "singkatan": "sr",
+      "bentuk_sempit": "sr",
+      "pola": "{0} steradian"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategori": "area",
+      "nama": "ekar",
+      "singkatan": "ekar",
+      "bentuk_sempit": "ekar",
+      "pola": "{0} ekar"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategori": "area",
+      "nama": "bu [JP]",
+      "singkatan": "bu [JP]",
+      "bentuk_sempit": "bu [JP]",
+      "pola": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategori": "area",
+      "nama": "cho [JP]",
+      "singkatan": "cho [JP]",
+      "bentuk_sempit": "cho [JP]",
+      "pola": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategori": "area",
+      "nama": "dunam",
+      "singkatan": "dunam",
+      "bentuk_sempit": "dunam",
+      "pola": "{0} dunam"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategori": "area",
+      "nama": "hektare",
+      "singkatan": "hektare",
+      "bentuk_sempit": "hektare",
+      "pola": "{0} hektare"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategori": "area",
+      "nama": "se [JP]",
+      "singkatan": "se [JP]",
+      "bentuk_sempit": "se [JP]",
+      "pola": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategori": "area",
+      "nama": "sentimeter persegi",
+      "singkatan": "cm²",
+      "bentuk_sempit": "cm²",
+      "pola": "{0} sentimeter persegi"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategori": "area",
+      "nama": "kaki persegi",
+      "singkatan": "kaki persegi",
+      "bentuk_sempit": "ft²",
+      "pola": "{0} kaki persegi"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategori": "area",
+      "nama": "inci persegi",
+      "singkatan": "inci²",
+      "bentuk_sempit": "in²",
+      "pola": "{0} inci persegi"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategori": "area",
+      "nama": "kilometer persegi",
+      "singkatan": "km²",
+      "bentuk_sempit": "km²",
+      "pola": "{0} kilometer persegi"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategori": "area",
+      "nama": "meter persegi",
+      "singkatan": "meter²",
+      "bentuk_sempit": "meter²",
+      "pola": "{0} meter persegi"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategori": "area",
+      "nama": "mil persegi",
+      "singkatan": "mil persegi",
+      "bentuk_sempit": "mi²",
+      "pola": "{0} mil persegi"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategori": "area",
+      "nama": "yard persegi",
+      "singkatan": "yard²",
+      "bentuk_sempit": "yd²",
+      "pola": "{0} yard persegi"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategori": "concentr",
+      "nama": "item",
+      "singkatan": "item",
+      "bentuk_sempit": "item",
+      "pola": "{0} item"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategori": "concentr",
+      "nama": "karat",
+      "singkatan": "karat",
+      "bentuk_sempit": "karat",
+      "pola": "{0} karat"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategori": "concentr",
+      "nama": "katal",
+      "singkatan": "kat",
+      "bentuk_sempit": "kat",
+      "pola": "{0} katal"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategori": "concentr",
+      "nama": "milligram per desiliter",
+      "singkatan": "mg/dL",
+      "bentuk_sempit": "mg/dL",
+      "pola": "{0} milligram per desiliter"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategori": "concentr",
+      "nama": "millimol per liter",
+      "singkatan": "millimol/liter",
+      "bentuk_sempit": "mmol/L",
+      "pola": "{0} millimol per liter"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategori": "concentr",
+      "nama": "mol",
+      "singkatan": "mol",
+      "bentuk_sempit": "mol",
+      "pola": "{0} mol"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategori": "concentr",
+      "nama": "glukosa",
+      "singkatan": "Glc",
+      "bentuk_sempit": "Glc",
+      "pola": "{0} glukosa"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategori": "concentr",
+      "nama": "bagian",
+      "singkatan": "bagian",
+      "bentuk_sempit": "bagian",
+      "pola": "{0} bagian"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategori": "concentr",
+      "nama": "bagian per juta",
+      "singkatan": "bagian/juta",
+      "bentuk_sempit": "bpj",
+      "pola": "{0} bagian per juta"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategori": "concentr",
+      "nama": "bagian per miliar",
+      "singkatan": "bagian/miliar",
+      "bentuk_sempit": "bpm",
+      "pola": "{0} bagian per miliar"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategori": "concentr",
+      "nama": "persen",
+      "singkatan": "persen",
+      "bentuk_sempit": "%",
+      "pola": "{0} persen"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategori": "concentr",
+      "nama": "permil",
+      "singkatan": "permil",
+      "bentuk_sempit": "‰",
+      "pola": "{0} permil"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategori": "concentr",
+      "nama": "permyriad",
+      "singkatan": "permyriad",
+      "bentuk_sempit": "‱",
+      "pola": "{0} permyriad"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategori": "consumption",
+      "nama": "liter per 100 kilometer",
+      "singkatan": "L/100 km",
+      "bentuk_sempit": "L/100 km",
+      "pola": "{0} liter per 100 kilometer"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategori": "consumption",
+      "nama": "liter per kilometer",
+      "singkatan": "liter/km",
+      "bentuk_sempit": "L/km",
+      "pola": "{0} liter per kilometer"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategori": "consumption",
+      "nama": "mil per galon",
+      "singkatan": "mil/gal",
+      "bentuk_sempit": "mpg",
+      "pola": "{0} mil per galon"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategori": "consumption",
+      "nama": "mil per galon Imp.",
+      "singkatan": "mil/gal Imp.",
+      "bentuk_sempit": "mpg UK",
+      "pola": "{0} mil per galon Imp."
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategori": "digital",
+      "nama": "bit",
+      "singkatan": "bit",
+      "bentuk_sempit": "bit",
+      "pola": "{0} bit"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategori": "digital",
+      "nama": "byte",
+      "singkatan": "byte",
+      "bentuk_sempit": "B",
+      "pola": "{0} byte"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategori": "digital",
+      "nama": "gigabit",
+      "singkatan": "Gbit",
+      "bentuk_sempit": "Gb",
+      "pola": "{0} gigabit"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategori": "digital",
+      "nama": "gigabyte",
+      "singkatan": "GByte",
+      "bentuk_sempit": "GB",
+      "pola": "{0} gigabyte"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategori": "digital",
+      "nama": "kilobit",
+      "singkatan": "kbit",
+      "bentuk_sempit": "kb",
+      "pola": "{0} kilobit"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategori": "digital",
+      "nama": "kilobyte",
+      "singkatan": "kByte",
+      "bentuk_sempit": "kB",
+      "pola": "{0} kilobyte"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategori": "digital",
+      "nama": "megabit",
+      "singkatan": "Mbit",
+      "bentuk_sempit": "Mb",
+      "pola": "{0} megabit"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategori": "digital",
+      "nama": "megabyte",
+      "singkatan": "MByte",
+      "bentuk_sempit": "MB",
+      "pola": "{0} megabyte"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategori": "digital",
+      "nama": "petabyte",
+      "singkatan": "PByte",
+      "bentuk_sempit": "PB",
+      "pola": "{0} petabyte"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategori": "digital",
+      "nama": "terabit",
+      "singkatan": "Tbit",
+      "bentuk_sempit": "Tb",
+      "pola": "{0} terabit"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategori": "digital",
+      "nama": "terabyte",
+      "singkatan": "TByte",
+      "bentuk_sempit": "TB",
+      "pola": "{0} terabyte"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategori": "duration",
+      "nama": "abad",
+      "singkatan": "abad",
+      "bentuk_sempit": "abad",
+      "pola": "{0} abad"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategori": "duration",
+      "nama": "hari",
+      "singkatan": "hari",
+      "bentuk_sempit": "hari",
+      "pola": "{0} hari"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "kategori": "duration",
+      "nama": "dekade",
+      "singkatan": "dek",
+      "bentuk_sempit": "dek",
+      "pola": "{0} dekade"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "kategori": "duration",
+      "nama": "fortnight",
+      "singkatan": "fortnight",
+      "bentuk_sempit": "fortnight",
+      "pola": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "kategori": "duration",
+      "nama": "jam",
+      "singkatan": "jam",
+      "bentuk_sempit": "jam",
+      "pola": "{0} jam"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "kategori": "duration",
+      "nama": "mikrodetik",
+      "singkatan": "μdtk",
+      "bentuk_sempit": "μdtk",
+      "pola": "{0} mikrodetik"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "kategori": "duration",
+      "nama": "milidetik",
+      "singkatan": "milidtk",
+      "bentuk_sempit": "milidtk",
+      "pola": "{0} milidetik"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "kategori": "duration",
+      "nama": "menit",
+      "singkatan": "mnt",
+      "bentuk_sempit": "mnt",
+      "pola": "{0} menit"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "kategori": "duration",
+      "nama": "bulan",
+      "singkatan": "bulan",
+      "bentuk_sempit": "bulan",
+      "pola": "{0} bulan"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "kategori": "duration",
+      "nama": "nanodetik",
+      "singkatan": "nanodtk",
+      "bentuk_sempit": "nanodtk",
+      "pola": "{0} nanodetik"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "kategori": "duration",
+      "nama": "malam",
+      "singkatan": "malam",
+      "bentuk_sempit": "malam",
+      "pola": "{0} malam"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "kategori": "duration",
+      "nama": "kuartal",
+      "singkatan": "krt",
+      "bentuk_sempit": "krt",
+      "pola": "{0} kuartal"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "kategori": "duration",
+      "nama": "detik",
+      "singkatan": "dtk",
+      "bentuk_sempit": "dtk",
+      "pola": "{0} detik"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "kategori": "duration",
+      "nama": "minggu",
+      "singkatan": "minggu",
+      "bentuk_sempit": "mgg",
+      "pola": "{0} minggu"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "kategori": "duration",
+      "nama": "tahun",
+      "singkatan": "tahun",
+      "bentuk_sempit": "thn",
+      "pola": "{0} tahun"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "kategori": "electric",
+      "nama": "ampere",
+      "singkatan": "amp",
+      "bentuk_sempit": "amp",
+      "pola": "{0} ampere"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "kategori": "electric",
+      "nama": "coulomb",
+      "singkatan": "C",
+      "bentuk_sempit": "C",
+      "pola": "{0} coulomb"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "kategori": "electric",
+      "nama": "farad",
+      "singkatan": "F",
+      "bentuk_sempit": "F",
+      "pola": "{0} farad"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "kategori": "electric",
+      "nama": "henry",
+      "singkatan": "H",
+      "bentuk_sempit": "H",
+      "pola": "{0} henry"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "kategori": "electric",
+      "nama": "miliampere",
+      "singkatan": "miliamp",
+      "bentuk_sempit": "mA",
+      "pola": "{0} miliampere"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "kategori": "electric",
+      "nama": "ohm",
+      "singkatan": "ohm",
+      "bentuk_sempit": "ohm",
+      "pola": "{0} ohm"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "kategori": "electric",
+      "nama": "siemen",
+      "singkatan": "S",
+      "bentuk_sempit": "S",
+      "pola": "{0} siemen"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "kategori": "electric",
+      "nama": "volt",
+      "singkatan": "volt",
+      "bentuk_sempit": "volt",
+      "pola": "{0} volt"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "kategori": "energy",
+      "nama": "becquerel",
+      "singkatan": "Bq",
+      "bentuk_sempit": "Bq",
+      "pola": "{0} becquerel"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "kategori": "energy",
+      "nama": "satuan panas Britania",
+      "singkatan": "BTU",
+      "bentuk_sempit": "BTU",
+      "pola": "{0} satuan panas Britania"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategori": "energy",
+      "nama": "BTU-IT",
+      "singkatan": "BTU-IT",
+      "bentuk_sempit": "BTU-IT",
+      "pola": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "kategori": "energy",
+      "nama": "kalori",
+      "singkatan": "kal",
+      "bentuk_sempit": "kal",
+      "pola": "{0} kalori"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "kategori": "energy",
+      "nama": "kalori [IT]",
+      "singkatan": "kal-IT",
+      "bentuk_sempit": "kal-IT",
+      "pola": "{0} kalori [IT]"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "kategori": "energy",
+      "nama": "elektronvolt",
+      "singkatan": "elektronvolt",
+      "bentuk_sempit": "eV",
+      "pola": "{0} elektronvolt"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "kategori": "energy",
+      "nama": "Kalori",
+      "singkatan": "Kal",
+      "bentuk_sempit": "Kal",
+      "pola": "{0} Kalori"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "kategori": "energy",
+      "nama": "gray",
+      "singkatan": "Gy",
+      "bentuk_sempit": "Gy",
+      "pola": "{0} gray"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "kategori": "energy",
+      "nama": "joule",
+      "singkatan": "joule",
+      "bentuk_sempit": "joule",
+      "pola": "{0} joule"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "kategori": "energy",
+      "nama": "kilokalori",
+      "singkatan": "kkal",
+      "bentuk_sempit": "kkal",
+      "pola": "{0} kilokalori"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "kategori": "energy",
+      "nama": "kilojoule",
+      "singkatan": "kilojoule",
+      "bentuk_sempit": "kJ",
+      "pola": "{0} kilojoule"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "kategori": "energy",
+      "nama": "kilowatt-jam",
+      "singkatan": "kW-jam",
+      "bentuk_sempit": "kWh",
+      "pola": "{0} kilowatt-jam"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "kategori": "energy",
+      "nama": "sievert",
+      "singkatan": "Sv",
+      "bentuk_sempit": "Sv",
+      "pola": "{0} sievert"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "kategori": "energy",
+      "nama": "therm AS",
+      "singkatan": "therm AS",
+      "bentuk_sempit": "therm AS",
+      "pola": "{0} therm AS"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "kategori": "force",
+      "nama": "kilogram gaya",
+      "singkatan": "kgf",
+      "bentuk_sempit": "kgf",
+      "pola": "{0} kilogram gaya"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategori": "force",
+      "nama": "kilowatt-jam per 100 kilometer",
+      "singkatan": "kWh/100km",
+      "bentuk_sempit": "kWh/100km",
+      "pola": "{0} kilowatt-jam per 100 kilometer"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "kategori": "force",
+      "nama": "newton",
+      "singkatan": "newton",
+      "bentuk_sempit": "N",
+      "pola": "{0} newton"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "kategori": "force",
+      "nama": "pound gaya",
+      "singkatan": "pound gaya",
+      "bentuk_sempit": "lbf",
+      "pola": "{0} pound gaya"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "kategori": "frequency",
+      "nama": "gigahertz",
+      "singkatan": "GHz",
+      "bentuk_sempit": "GHz",
+      "pola": "{0} gigahertz"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "kategori": "frequency",
+      "nama": "hertz",
+      "singkatan": "Hz",
+      "bentuk_sempit": "Hz",
+      "pola": "{0} hertz"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "kategori": "frequency",
+      "nama": "kilohertz",
+      "singkatan": "kHz",
+      "bentuk_sempit": "kHz",
+      "pola": "{0} kilohertz"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "kategori": "frequency",
+      "nama": "megahertz",
+      "singkatan": "MHz",
+      "bentuk_sempit": "MHz",
+      "pola": "{0} megahertz"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "kategori": "graphics",
+      "nama": "dot",
+      "singkatan": "dot",
+      "bentuk_sempit": "dot",
+      "pola": "{0} dot"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategori": "graphics",
+      "nama": "dot per sentimeter",
+      "singkatan": "dpcm",
+      "bentuk_sempit": "dpcm",
+      "pola": "{0} dot per sentimeter"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "kategori": "graphics",
+      "nama": "dot per inci",
+      "singkatan": "dpi",
+      "bentuk_sempit": "dpi",
+      "pola": "{0} dot per inci"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "kategori": "graphics",
+      "nama": "em tipografis",
+      "singkatan": "em",
+      "bentuk_sempit": "em",
+      "pola": "{0} em"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "kategori": "graphics",
+      "nama": "megapiksel",
+      "singkatan": "megapiksel",
+      "bentuk_sempit": "MP",
+      "pola": "{0} megapiksel"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "kategori": "graphics",
+      "nama": "piksel",
+      "singkatan": "piksel",
+      "bentuk_sempit": "px",
+      "pola": "{0} piksel"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategori": "graphics",
+      "nama": "piksel per sentimeter",
+      "singkatan": "ppcm",
+      "bentuk_sempit": "ppcm",
+      "pola": "{0} piksel per sentimeter"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategori": "graphics",
+      "nama": "piksel per inci",
+      "singkatan": "ppi",
+      "bentuk_sempit": "ppi",
+      "pola": "{0} piksel per inci"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "kategori": "length",
+      "nama": "satuan astronomi",
+      "singkatan": "sa",
+      "bentuk_sempit": "sa",
+      "pola": "{0} satuan astronomi"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "kategori": "length",
+      "nama": "sentimeter",
+      "singkatan": "cm",
+      "bentuk_sempit": "cm",
+      "pola": "{0} sentimeter"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "kategori": "length",
+      "nama": "chain",
+      "singkatan": "chain",
+      "bentuk_sempit": "chain",
+      "pola": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "kategori": "length",
+      "nama": "desimeter",
+      "singkatan": "dm",
+      "bentuk_sempit": "dm",
+      "pola": "{0} desimeter"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "kategori": "length",
+      "nama": "jari-jari Bumi",
+      "singkatan": "R⊕",
+      "bentuk_sempit": "R⊕",
+      "pola": "{0} jari-jari Bumi"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "kategori": "length",
+      "nama": "depa",
+      "singkatan": "dp",
+      "bentuk_sempit": "depa",
+      "pola": "{0} depa"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "kategori": "length",
+      "nama": "kaki",
+      "singkatan": "kaki",
+      "bentuk_sempit": "ft",
+      "pola": "{0} kaki"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "kategori": "length",
+      "nama": "furlong",
+      "singkatan": "furlong",
+      "bentuk_sempit": "furlong",
+      "pola": "{0} furlong"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "kategori": "length",
+      "nama": "inci",
+      "singkatan": "inci",
+      "bentuk_sempit": "in",
+      "pola": "{0} inci"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "kategori": "length",
+      "nama": "jo [JP]",
+      "singkatan": "jo [JP]",
+      "bentuk_sempit": "jo [JP]",
+      "pola": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "kategori": "length",
+      "nama": "ken [JP]",
+      "singkatan": "ken [JP]",
+      "bentuk_sempit": "ken [JP]",
+      "pola": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "kategori": "length",
+      "nama": "kilometer",
+      "singkatan": "km",
+      "bentuk_sempit": "km",
+      "pola": "{0} kilometer"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "kategori": "length",
+      "nama": "tahun cahaya",
+      "singkatan": "thn cahaya",
+      "bentuk_sempit": "tc",
+      "pola": "{0} tahun cahaya"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "kategori": "length",
+      "nama": "meter",
+      "singkatan": "meter",
+      "bentuk_sempit": "meter",
+      "pola": "{0} meter"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "kategori": "length",
+      "nama": "mikrometer",
+      "singkatan": "μmeter",
+      "bentuk_sempit": "μmeter",
+      "pola": "{0} mikrometer"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "kategori": "length",
+      "nama": "mil",
+      "singkatan": "mil",
+      "bentuk_sempit": "mi",
+      "pola": "{0} mil"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "kategori": "length",
+      "nama": "mil skandinavia",
+      "singkatan": "smi",
+      "bentuk_sempit": "smi",
+      "pola": "{0} mil skandinavia"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "kategori": "length",
+      "nama": "milimeter",
+      "singkatan": "mm",
+      "bentuk_sempit": "mm",
+      "pola": "{0} milimeter"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "kategori": "length",
+      "nama": "nanometer",
+      "singkatan": "nm",
+      "bentuk_sempit": "nm",
+      "pola": "{0} nanometer"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "kategori": "length",
+      "nama": "mil laut",
+      "singkatan": "nmi",
+      "bentuk_sempit": "nmi",
+      "pola": "{0} mil laut"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "kategori": "length",
+      "nama": "parsec",
+      "singkatan": "parsec",
+      "bentuk_sempit": "parsec",
+      "pola": "{0} parsec"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "kategori": "length",
+      "nama": "pikometer",
+      "singkatan": "pm",
+      "bentuk_sempit": "pm",
+      "pola": "{0} pikometer"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "kategori": "length",
+      "nama": "poin",
+      "singkatan": "poin",
+      "bentuk_sempit": "p",
+      "pola": "{0} poin"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "kategori": "length",
+      "nama": "ri [JP]",
+      "singkatan": "ri [JP]",
+      "bentuk_sempit": "ri [JP]",
+      "pola": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "kategori": "length",
+      "nama": "rin [JP]",
+      "singkatan": "rin [JP]",
+      "bentuk_sempit": "rin [JP]",
+      "pola": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "kategori": "length",
+      "nama": "rod",
+      "singkatan": "rod",
+      "bentuk_sempit": "rod",
+      "pola": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "kategori": "length",
+      "nama": "shaku [cloth, JP]",
+      "singkatan": "shaku [cloth, JP]",
+      "bentuk_sempit": "shaku [cloth, JP]",
+      "pola": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "kategori": "length",
+      "nama": "shaku [JP]",
+      "singkatan": "shaku [JP]",
+      "bentuk_sempit": "shaku [JP]",
+      "pola": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "kategori": "length",
+      "nama": "radius Matahari",
+      "singkatan": "radius Matahari",
+      "bentuk_sempit": "R☉",
+      "pola": "{0} radius Matahari"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "kategori": "length",
+      "nama": "sun [JP]",
+      "singkatan": "sun [JP]",
+      "bentuk_sempit": "sun [JP]",
+      "pola": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "kategori": "length",
+      "nama": "yard",
+      "singkatan": "yard",
+      "bentuk_sempit": "yd",
+      "pola": "{0} yard"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "kategori": "light",
+      "nama": "candela",
+      "singkatan": "cd",
+      "bentuk_sempit": "cd",
+      "pola": "{0} candela"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "kategori": "light",
+      "nama": "lumen",
+      "singkatan": "lm",
+      "bentuk_sempit": "lm",
+      "pola": "{0} lumen"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "kategori": "light",
+      "nama": "lux",
+      "singkatan": "lux",
+      "bentuk_sempit": "lux",
+      "pola": "{0} lux"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "kategori": "light",
+      "nama": "luminositas matahari",
+      "singkatan": "luminositas matahari",
+      "bentuk_sempit": "L☉",
+      "pola": "{0} luminositas matahari"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "kategori": "magnetic",
+      "nama": "tesla",
+      "singkatan": "T",
+      "bentuk_sempit": "T",
+      "pola": "{0} tesla"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "kategori": "magnetic",
+      "nama": "weber",
+      "singkatan": "Wb",
+      "bentuk_sempit": "Wb",
+      "pola": "{0} weber"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "kategori": "mass",
+      "nama": "karat",
+      "singkatan": "karat",
+      "bentuk_sempit": "karat",
+      "pola": "{0} karat"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "kategori": "mass",
+      "nama": "dalton",
+      "singkatan": "dalton",
+      "bentuk_sempit": "Da",
+      "pola": "{0} dalton"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "kategori": "mass",
+      "nama": "massa Bumi",
+      "singkatan": "massa Bumi",
+      "bentuk_sempit": "M⊕",
+      "pola": "{0} massa Bumi"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "kategori": "mass",
+      "nama": "fun [JP]",
+      "singkatan": "fun [JP]",
+      "bentuk_sempit": "fun [JP]",
+      "pola": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "kategori": "mass",
+      "nama": "grain",
+      "singkatan": "grain",
+      "bentuk_sempit": "gr",
+      "pola": "{0} grain"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "kategori": "mass",
+      "nama": "gram",
+      "singkatan": "gram",
+      "bentuk_sempit": "gram",
+      "pola": "{0} gram"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "kategori": "mass",
+      "nama": "kilogram",
+      "singkatan": "kg",
+      "bentuk_sempit": "kg",
+      "pola": "{0} kilogram"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "kategori": "mass",
+      "nama": "mikrogram",
+      "singkatan": "μg",
+      "bentuk_sempit": "μg",
+      "pola": "{0} mikrogram"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "kategori": "mass",
+      "nama": "miligram",
+      "singkatan": "mg",
+      "bentuk_sempit": "mg",
+      "pola": "{0} miligram"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "kategori": "mass",
+      "nama": "ounce",
+      "singkatan": "oz",
+      "bentuk_sempit": "oz",
+      "pola": "{0} ounce"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "kategori": "mass",
+      "nama": "troy ons",
+      "singkatan": "oz troy",
+      "bentuk_sempit": "oz t",
+      "pola": "{0} troy ons"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "kategori": "mass",
+      "nama": "pound",
+      "singkatan": "pound",
+      "bentuk_sempit": "lb",
+      "pola": "{0} pound"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "kategori": "mass",
+      "nama": "slug",
+      "singkatan": "slug",
+      "bentuk_sempit": "slug",
+      "pola": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "kategori": "mass",
+      "nama": "massa Matahari",
+      "singkatan": "massa Matahari",
+      "bentuk_sempit": "M☉",
+      "pola": "{0} massa Matahari"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "kategori": "mass",
+      "nama": "stone",
+      "singkatan": "stone",
+      "bentuk_sempit": "stone",
+      "pola": "{0} stone"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "kategori": "mass",
+      "nama": "ton Amerika Serikat",
+      "singkatan": "ton AS",
+      "bentuk_sempit": "ton",
+      "pola": "{0} ton Amerika Serikat"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "kategori": "mass",
+      "nama": "metrik ton",
+      "singkatan": "t",
+      "bentuk_sempit": "t",
+      "pola": "{0} metrik ton"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "kategori": "power",
+      "nama": "gigawatt",
+      "singkatan": "GW",
+      "bentuk_sempit": "GW",
+      "pola": "{0} gigawatt"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "kategori": "power",
+      "nama": "daya kuda",
+      "singkatan": "hp",
+      "bentuk_sempit": "hp",
+      "pola": "{0} daya kuda"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "kategori": "power",
+      "nama": "kilowatt",
+      "singkatan": "kW",
+      "bentuk_sempit": "kW",
+      "pola": "{0} kilowatt"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "kategori": "power",
+      "nama": "megawatt",
+      "singkatan": "MW",
+      "bentuk_sempit": "MW",
+      "pola": "{0} megawatt"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "kategori": "power",
+      "nama": "miliwatt",
+      "singkatan": "mW",
+      "bentuk_sempit": "mW",
+      "pola": "{0} miliwatt"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "kategori": "power",
+      "nama": "watt",
+      "singkatan": "watt",
+      "bentuk_sempit": "watt",
+      "pola": "{0} watt"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "kategori": "pressure",
+      "nama": "atmosfer",
+      "singkatan": "atm",
+      "bentuk_sempit": "atm",
+      "pola": "{0} atmosfer"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "kategori": "pressure",
+      "nama": "bar",
+      "singkatan": "bar",
+      "bentuk_sempit": "bar",
+      "pola": "{0} bar"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategori": "pressure",
+      "nama": "gas E",
+      "singkatan": "gas E",
+      "bentuk_sempit": "gas E",
+      "pola": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "kategori": "pressure",
+      "nama": "hektopascal",
+      "singkatan": "hPa",
+      "bentuk_sempit": "hPa",
+      "pola": "{0} hektopascal"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "kategori": "pressure",
+      "nama": "inci raksa",
+      "singkatan": "in Hg",
+      "bentuk_sempit": "″ Hg",
+      "pola": "{0} inci raksa"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "kategori": "pressure",
+      "nama": "kilopascal",
+      "singkatan": "kPa",
+      "bentuk_sempit": "kPa",
+      "pola": "{0} kilopascal"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "kategori": "pressure",
+      "nama": "megapascal",
+      "singkatan": "MPa",
+      "bentuk_sempit": "MPa",
+      "pola": "{0} megapascal"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "kategori": "pressure",
+      "nama": "milibar",
+      "singkatan": "mbar",
+      "bentuk_sempit": "mbar",
+      "pola": "{0} milibar"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategori": "pressure",
+      "nama": "milimeter raksa",
+      "singkatan": "mmHg",
+      "bentuk_sempit": "mmHg",
+      "pola": "{0} milimeter raksa"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "kategori": "pressure",
+      "nama": "raksa",
+      "singkatan": "Hg",
+      "bentuk_sempit": "Hg",
+      "pola": "{0} raksa"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "kategori": "pressure",
+      "nama": "pascal",
+      "singkatan": "Pa",
+      "bentuk_sempit": "Pa",
+      "pola": "{0} pascal"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategori": "pressure",
+      "nama": "pound per inci persegi",
+      "singkatan": "psi",
+      "bentuk_sempit": "psi",
+      "pola": "{0} pound per inci persegi"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "kategori": "speed",
+      "nama": "Beaufort",
+      "singkatan": "Bft",
+      "bentuk_sempit": "Bft",
+      "pola": "Beaufort {0}"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategori": "speed",
+      "nama": "kilometer per jam",
+      "singkatan": "km/jam",
+      "bentuk_sempit": "km/jam",
+      "pola": "{0} kilometer per jam"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "kategori": "speed",
+      "nama": "knot",
+      "singkatan": "kn",
+      "bentuk_sempit": "kn",
+      "pola": "{0} knot"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "kategori": "speed",
+      "nama": "cahaya",
+      "singkatan": "cahaya",
+      "bentuk_sempit": "cahaya",
+      "pola": "{0} cahaya"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "kategori": "speed",
+      "nama": "meter per detik",
+      "singkatan": "meter/dtk",
+      "bentuk_sempit": "m/dtk",
+      "pola": "{0} meter per detik"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "kategori": "speed",
+      "nama": "mil per jam",
+      "singkatan": "mi/h",
+      "bentuk_sempit": "mi/j",
+      "pola": "{0} mil per jam"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "kategori": "temperature",
+      "nama": "derajat Celsius",
+      "singkatan": "°C",
+      "bentuk_sempit": "°C",
+      "pola": "{0} derajat Celsius"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "kategori": "temperature",
+      "nama": "derajat Fahrenheit",
+      "singkatan": "°F",
+      "bentuk_sempit": "°F",
+      "pola": "{0} derajat Fahrenheit"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "kategori": "temperature",
+      "nama": "°",
+      "singkatan": "°",
+      "bentuk_sempit": "°",
+      "pola": "{0}°"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "kategori": "temperature",
+      "nama": "kelvin",
+      "singkatan": "K",
+      "bentuk_sempit": "K",
+      "pola": "{0} kelvin"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "kategori": "temperature",
+      "nama": "°R",
+      "singkatan": "°R",
+      "bentuk_sempit": "°R",
+      "pola": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "kategori": "torque",
+      "nama": "newton meter",
+      "singkatan": "N⋅m",
+      "bentuk_sempit": "N⋅m",
+      "pola": "{0} newton meter"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "kategori": "torque",
+      "nama": "pound kaki",
+      "singkatan": "lbf⋅ft",
+      "bentuk_sempit": "lbf⋅ft",
+      "pola": "{0} pound kaki"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "kategori": "volume",
+      "nama": "ekar kaki",
+      "singkatan": "ac ft",
+      "bentuk_sempit": "ac ft",
+      "pola": "{0} ekar kaki"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "kategori": "volume",
+      "nama": "barrel",
+      "singkatan": "barrel",
+      "bentuk_sempit": "bbl",
+      "pola": "{0} barrel"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "kategori": "volume",
+      "nama": "gantang",
+      "singkatan": "gantang",
+      "bentuk_sempit": "gantang",
+      "pola": "{0} gantang"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "kategori": "volume",
+      "nama": "sentiliter",
+      "singkatan": "cL",
+      "bentuk_sempit": "cL",
+      "pola": "{0} sentiliter"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "kategori": "volume",
+      "nama": "sentimeter kubik",
+      "singkatan": "cm³",
+      "bentuk_sempit": "cm³",
+      "pola": "{0} sentimeter kubik"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "kategori": "volume",
+      "nama": "kaki kubik",
+      "singkatan": "ft³",
+      "bentuk_sempit": "ft³",
+      "pola": "{0} kaki kubik"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "kategori": "volume",
+      "nama": "inci kubik",
+      "singkatan": "inci³",
+      "bentuk_sempit": "in³",
+      "pola": "{0} inci kubik"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "kategori": "volume",
+      "nama": "kilometer kubik",
+      "singkatan": "km³",
+      "bentuk_sempit": "km³",
+      "pola": "{0} kilometer kubik"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "kategori": "volume",
+      "nama": "meter kubik",
+      "singkatan": "m³",
+      "bentuk_sempit": "m³",
+      "pola": "{0} meter kubik"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "kategori": "volume",
+      "nama": "mil kubik",
+      "singkatan": "mi³",
+      "bentuk_sempit": "mi³",
+      "pola": "{0} mil kubik"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "kategori": "volume",
+      "nama": "yard kubik",
+      "singkatan": "yard³",
+      "bentuk_sempit": "yd³",
+      "pola": "{0} yard kubik"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "kategori": "volume",
+      "nama": "cup",
+      "singkatan": "cup",
+      "bentuk_sempit": "cup",
+      "pola": "{0} cup"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "kategori": "volume",
+      "nama": "cup Imp.",
+      "singkatan": "cup Imp.",
+      "bentuk_sempit": "cup Imp.",
+      "pola": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "kategori": "volume",
+      "nama": "cup [JP]",
+      "singkatan": "cup [JP]",
+      "bentuk_sempit": "cup [JP]",
+      "pola": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "kategori": "volume",
+      "nama": "metric cup",
+      "singkatan": "mcup",
+      "bentuk_sempit": "mcup",
+      "pola": "{0} metric cup"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "kategori": "volume",
+      "nama": "desiliter",
+      "singkatan": "dL",
+      "bentuk_sempit": "dL",
+      "pola": "{0} desiliter"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "kategori": "volume",
+      "nama": "sendok dessert",
+      "singkatan": "dstspn",
+      "bentuk_sempit": "dsp",
+      "pola": "{0} sendok dessert"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategori": "volume",
+      "nama": "sendok dessert Imp.",
+      "singkatan": "dstspn Imp",
+      "bentuk_sempit": "dsp Imp",
+      "pola": "{0} sendok dessert Imp."
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "kategori": "volume",
+      "nama": "dram",
+      "singkatan": "dram cairan",
+      "bentuk_sempit": "fl.dr.",
+      "pola": "{0} dram"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "kategori": "volume",
+      "nama": "tetes",
+      "singkatan": "tetes",
+      "bentuk_sempit": "tetes",
+      "pola": "{0} tetes"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "kategori": "volume",
+      "nama": "fluid ounce",
+      "singkatan": "fl oz",
+      "bentuk_sempit": "fl oz",
+      "pola": "{0} fluid ounce"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategori": "volume",
+      "nama": "Imp. fluid ounce",
+      "singkatan": "Imp. fl oz",
+      "bentuk_sempit": "Imp. fl oz",
+      "pola": "{0} Imp. fluid ounce"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategori": "volume",
+      "nama": "metric fluid ounce",
+      "singkatan": "fl oz m.",
+      "bentuk_sempit": "fl oz m.",
+      "pola": "{0} metric fluid ounce"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "kategori": "volume",
+      "nama": "galon",
+      "singkatan": "gal",
+      "bentuk_sempit": "gal",
+      "pola": "{0} galon"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "kategori": "volume",
+      "nama": "galon Imp.",
+      "singkatan": "gal Imp.",
+      "bentuk_sempit": "gal Imp.",
+      "pola": "{0} galon Imp."
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "kategori": "volume",
+      "nama": "hektoliter",
+      "singkatan": "hL",
+      "bentuk_sempit": "hL",
+      "pola": "{0} hektoliter"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "kategori": "volume",
+      "nama": "jigger",
+      "singkatan": "sloki",
+      "bentuk_sempit": "sloki",
+      "pola": "{0} sloki"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "kategori": "volume",
+      "nama": "koku [JP]",
+      "singkatan": "koku [JP]",
+      "bentuk_sempit": "koku [JP]",
+      "pola": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "kategori": "volume",
+      "nama": "kosaji [JP]",
+      "singkatan": "kosaji [JP]",
+      "bentuk_sempit": "kosaji [JP]",
+      "pola": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "kategori": "volume",
+      "nama": "liter",
+      "singkatan": "liter",
+      "bentuk_sempit": "liter",
+      "pola": "{0} liter"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "kategori": "volume",
+      "nama": "megaliter",
+      "singkatan": "ML",
+      "bentuk_sempit": "ML",
+      "pola": "{0} megaliter"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "kategori": "volume",
+      "nama": "mililiter",
+      "singkatan": "mL",
+      "bentuk_sempit": "mL",
+      "pola": "{0} mililiter"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "kategori": "volume",
+      "nama": "osaji [JP]",
+      "singkatan": "osaji [JP]",
+      "bentuk_sempit": "osaji [JP]",
+      "pola": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "kategori": "volume",
+      "nama": "jumput",
+      "singkatan": "jumput",
+      "bentuk_sempit": "jumput",
+      "pola": "{0} jumput"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "kategori": "volume",
+      "nama": "pint",
+      "singkatan": "pint",
+      "bentuk_sempit": "pt",
+      "pola": "{0} pint"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "kategori": "volume",
+      "nama": "pint Imp.",
+      "singkatan": "pint Imp.",
+      "bentuk_sempit": "pint Imp.",
+      "pola": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "kategori": "volume",
+      "nama": "metric pint",
+      "singkatan": "mpt",
+      "bentuk_sempit": "pt",
+      "pola": "{0} metric pint"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "kategori": "volume",
+      "nama": "quart",
+      "singkatan": "qt",
+      "bentuk_sempit": "qt",
+      "pola": "{0} quart"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "kategori": "volume",
+      "nama": "quart Imp.",
+      "singkatan": "qt Imp.",
+      "bentuk_sempit": "qt Imp",
+      "pola": "{0} quart Imp."
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "kategori": "volume",
+      "nama": "sai [JP]",
+      "singkatan": "sai [JP]",
+      "bentuk_sempit": "sai [JP]",
+      "pola": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "kategori": "volume",
+      "nama": "shaku [vol, JP]",
+      "singkatan": "shaku [vol, JP]",
+      "bentuk_sempit": "shaku [vol, JP]",
+      "pola": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "kategori": "volume",
+      "nama": "sendok makan",
+      "singkatan": "sdm",
+      "bentuk_sempit": "sdm",
+      "pola": "{0} sendok makan"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "kategori": "volume",
+      "nama": "sendok teh",
+      "singkatan": "sdt",
+      "bentuk_sempit": "sdt",
+      "pola": "{0} sendok teh"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "kategori": "volume",
+      "nama": "to [JP]",
+      "singkatan": "to [JP]",
+      "bentuk_sempit": "to [JP]",
+      "pola": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — nama dalam bahasa Indonesia (CLDR) - Unduh Gratis",
+    "description": "Daftar satuan ukuran dari locale id di CLDR — dengan nama lengkap (nama), singkatan (singkatan), bentuk sempit (bentuk_sempit) dan pola tampilan (pola). Berisi 231 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — nama dalam bahasa Indonesia (CLDR) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — nama dalam bahasa Indonesia (CLDR) — 231 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 231 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

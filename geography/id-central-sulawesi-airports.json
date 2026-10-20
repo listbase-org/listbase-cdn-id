@@ -1,0 +1,186 @@
+{
+  "id": "id-central-sulawesi-airports",
+  "name": "Bandar Udara — Central Sulawesi",
+  "title": "Bandar Udara — Central Sulawesi",
+  "description": "Bandar udara di Provinsi Central Sulawesi, Indonesia (Airports in Central Sulawesi Province, Indonesia — 5 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAMW",
+      "iata": "LUW",
+      "name_en": "Bubung Airport",
+      "name_slug": "bubung-airport",
+      "city_en": "Luwuk",
+      "city_slug": "luwuk",
+      "province_en": "Central Sulawesi",
+      "province_slug": "central-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 1397,
+      "lat": -0.933333,
+      "lon": 122.78333,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMY",
+      "iata": "UOL",
+      "name_en": "Buol",
+      "name_slug": "buol",
+      "city_en": "Kali",
+      "city_slug": "kali",
+      "province_en": "Central Sulawesi",
+      "province_slug": "central-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 27,
+      "lat": 1.166667,
+      "lon": 121.433334,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAML",
+      "iata": "PLW",
+      "name_en": "Mutiara Airport",
+      "name_slug": "mutiara-airport",
+      "city_en": "Palu",
+      "city_slug": "palu",
+      "province_en": "Central Sulawesi",
+      "province_slug": "central-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 305,
+      "lat": -0.9177448,
+      "lon": 119.9086699,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMP",
+      "iata": "PSJ",
+      "name_en": "Poso",
+      "name_slug": "poso",
+      "city_en": "Poso",
+      "city_slug": "poso",
+      "province_en": "Central Sulawesi",
+      "province_slug": "central-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -1.383333,
+      "lon": 120.73333,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    },
+    {
+      "icao": "WAMI",
+      "iata": "TLI",
+      "name_en": "Tolitoli",
+      "name_slug": "tolitoli",
+      "city_en": "Tolitoli",
+      "city_slug": "tolitoli",
+      "province_en": "Central Sulawesi",
+      "province_slug": "central-sulawesi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 40,
+      "lat": 1.033333,
+      "lon": 120.816666,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Central Sulawesi - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Central Sulawesi, Indonesia (Airports in Central Sulawesi Province, Indonesia — 5 record(s).) Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Central Sulawesi | ListBase",
+    "seo_description": "Unduh Bandar Udara — Central Sulawesi — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

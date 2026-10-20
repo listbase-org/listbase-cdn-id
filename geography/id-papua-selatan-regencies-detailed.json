@@ -1,0 +1,124 @@
+{
+  "id": "id-papua-selatan-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Papua Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Papua Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "4 kabupaten/kota di Provinsi Papua Selatan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "93.01",
+      "name": "Kabupaten Merauke",
+      "type": "kabupaten",
+      "capital": "Merauke",
+      "latitude": -8.508696,
+      "longitude": 140.409676,
+      "elevation_m": 6,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 45016.452,
+      "population": 255168
+    },
+    {
+      "code": "93.02",
+      "name": "Kabupaten Boven Digoel",
+      "type": "kabupaten",
+      "capital": "Tanah Merah",
+      "latitude": -6.100404,
+      "longitude": 140.320611,
+      "elevation_m": 29,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 23558.272,
+      "population": 71997
+    },
+    {
+      "code": "93.03",
+      "name": "Kabupaten Mappi",
+      "type": "kabupaten",
+      "capital": "Kepi",
+      "latitude": -6.528146,
+      "longitude": 139.319252,
+      "elevation_m": 11,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 24265.584,
+      "population": 114153
+    },
+    {
+      "code": "93.04",
+      "name": "Kabupaten Asmat",
+      "type": "kabupaten",
+      "capital": "Agats",
+      "latitude": -5.540947,
+      "longitude": 138.13683,
+      "elevation_m": 3,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 25018.661,
+      "population": 120902
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Papua Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "4 kabupaten/kota di Provinsi Papua Selatan dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Papua Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Papua Selatan (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

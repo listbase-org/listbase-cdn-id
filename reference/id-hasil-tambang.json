@@ -1,0 +1,856 @@
+{
+  "id": "id-hasil-tambang",
+  "name": "Hasil Tambang Indonesia per Provinsi",
+  "title": "Hasil Tambang Indonesia per Provinsi",
+  "description": "Komoditas pertambangan (emas, batu bara, nikel, minyak bumi, dsb.) dan lokasi penambangannya di tiap provinsi di Indonesia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "komoditas",
+      "label": "Komoditas",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "komoditas": "Emas",
+      "lokasi": "Woyla, Seunagan, Aceh Barat, Beutong, Payakolak, Takengon Aceh Tengah",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "Kaway XI, di Semayan di Aceh Barat",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "Batu Gamping",
+      "lokasi": "Tanah Greuteu, Aceh Besar, TapakTuan",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "komoditas": "Minyak Bumi",
+      "lokasi": "",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "komoditas": "Batu bara",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "bijih besi",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "timah hitam",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "mangan",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "batu besi",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "batu galena",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "seng",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "batu kapur",
+      "lokasi": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "komoditas": "Minyak Bumi",
+      "lokasi": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "komoditas": "Gas Bumi",
+      "lokasi": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "Minyak Bumi",
+      "lokasi": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "Perak",
+      "lokasi": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "komoditas": "Timah",
+      "lokasi": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "komoditas": "Pasir Kuarsa",
+      "lokasi": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "komoditas": "Minyak Bumi",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "Gas Alam",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "Timah",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "bauksit",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "pasir besi",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "granit",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "pasir dan kuarsa",
+      "lokasi": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "mangan",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "Batu Gamping",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "gas bumi",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "andesit",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "marmer",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "tanah liat",
+      "lokasi": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "komoditas": "Minyak Bumi",
+      "lokasi": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "komoditas": "pasir, kerikil, batu gamping, kalsit, kaolin, dan zeolin serta breksi batu apung",
+      "lokasi": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "batu bara",
+      "lokasi": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "pasir besi",
+      "lokasi": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "mangan",
+      "lokasi": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "komoditas": "Minyak Bumi",
+      "lokasi": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "komoditas": "Besi",
+      "lokasi": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "Tembaga",
+      "lokasi": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "komoditas": "Perak",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "mangan",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "pasir besi",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "timbal",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "komoditas": "Perak",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "Mutiara",
+      "lokasi": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "komoditas": "Bauksit",
+      "lokasi": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "komoditas": "Emas",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "Zirkon",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "Besi",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "kaolin",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "batu permata",
+      "lokasi": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "intan",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "kaolin",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "marmer",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "batu-batuan",
+      "lokasi": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "Batu Bara",
+      "lokasi": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "Gas Alam",
+      "lokasi": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "gas bumi",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "batubara",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "nikel",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "molibdenum",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "chronit",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "belerang",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "komoditas": "batu gamping",
+      "lokasi": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "tanah liat",
+      "lokasi": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "nikel",
+      "lokasi": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "pasir",
+      "lokasi": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "marmer",
+      "lokasi": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "komoditas": "aspal",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "nikel",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "batu setengah permata",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "marmer",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "onix",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "batu gamping",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "tanah liat",
+      "lokasi": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "perak",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "batu gamping",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "toseki",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "batu granit",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "sirtu",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "zeolit",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "kaolin",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "pasir kuarsa",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "feldspar",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "lempung (clay)",
+      "lokasi": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "batubara",
+      "lokasi": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "mercuri",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "perak",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "logam dasar",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "kuarsa",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "mangan",
+      "lokasi": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "komoditas": "nikel ore",
+      "lokasi": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "limonite",
+      "lokasi": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "komoditas": "minyak bumi",
+      "lokasi": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "perak",
+      "lokasi": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "komoditas": "minya bumi",
+      "lokasi": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "tembaga",
+      "lokasi": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "komoditas": "emas",
+      "lokasi": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    }
+  ],
+  "meta": {
+    "title": "Hasil Tambang Indonesia per Provinsi - Unduh Gratis",
+    "description": "Komoditas pertambangan (emas, batu bara, nikel, minyak bumi, dsb.) dan lokasi penambangannya di tiap provinsi di Indonesia. Berisi 135 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Hasil Tambang Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Hasil Tambang Indonesia per Provinsi — 135 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 135 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

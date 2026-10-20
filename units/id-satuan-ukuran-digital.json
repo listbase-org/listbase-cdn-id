@@ -1,0 +1,160 @@
+{
+  "id": "id-satuan-ukuran-digital",
+  "name": "Satuan ukuran — kategori 'digital' (11)",
+  "title": "Satuan ukuran — kategori 'digital' (11)",
+  "description": "Satuan ukuran kategori 'digital' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategori": "digital",
+      "nama": "bit",
+      "singkatan": "bit",
+      "bentuk_sempit": "bit",
+      "pola": "{0} bit"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategori": "digital",
+      "nama": "byte",
+      "singkatan": "byte",
+      "bentuk_sempit": "B",
+      "pola": "{0} byte"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategori": "digital",
+      "nama": "gigabit",
+      "singkatan": "Gbit",
+      "bentuk_sempit": "Gb",
+      "pola": "{0} gigabit"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategori": "digital",
+      "nama": "gigabyte",
+      "singkatan": "GByte",
+      "bentuk_sempit": "GB",
+      "pola": "{0} gigabyte"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategori": "digital",
+      "nama": "kilobit",
+      "singkatan": "kbit",
+      "bentuk_sempit": "kb",
+      "pola": "{0} kilobit"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategori": "digital",
+      "nama": "kilobyte",
+      "singkatan": "kByte",
+      "bentuk_sempit": "kB",
+      "pola": "{0} kilobyte"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategori": "digital",
+      "nama": "megabit",
+      "singkatan": "Mbit",
+      "bentuk_sempit": "Mb",
+      "pola": "{0} megabit"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategori": "digital",
+      "nama": "megabyte",
+      "singkatan": "MByte",
+      "bentuk_sempit": "MB",
+      "pola": "{0} megabyte"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategori": "digital",
+      "nama": "petabyte",
+      "singkatan": "PByte",
+      "bentuk_sempit": "PB",
+      "pola": "{0} petabyte"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategori": "digital",
+      "nama": "terabit",
+      "singkatan": "Tbit",
+      "bentuk_sempit": "Tb",
+      "pola": "{0} terabit"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategori": "digital",
+      "nama": "terabyte",
+      "singkatan": "TByte",
+      "bentuk_sempit": "TB",
+      "pola": "{0} terabyte"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'digital' (11) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'digital' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 11 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'digital' (11) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'digital' (11) — 11 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 11 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

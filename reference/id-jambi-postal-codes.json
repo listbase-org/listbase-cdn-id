@@ -1,0 +1,1808 @@
+{
+  "id": "id-jambi-postal-codes",
+  "name": "Daftar Kode Pos di Jambi",
+  "title": "Daftar Kode Pos di Jambi",
+  "description": "Daftar 219 kode pos di Provinsi Jambi (kode BPS 15). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 219,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "kecamatan_name",
+      "label": "Kecamatan Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "36111",
+      "kecamatan_name": "Pasar Jambi",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36112",
+      "kecamatan_name": "Pasar Jambi",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36113",
+      "kecamatan_name": "Pasar Jambi",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36114",
+      "kecamatan_name": "Pasar Jambi",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36121",
+      "kecamatan_name": "Telanaipura",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36122",
+      "kecamatan_name": "Telanaipura",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36123",
+      "kecamatan_name": "Telanaipura",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36124",
+      "kecamatan_name": "Telanaipura",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36125",
+      "kecamatan_name": "Kota Baru",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36126",
+      "kecamatan_name": "Kota Baru",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36127",
+      "kecamatan_name": "Kota Baru",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36128",
+      "kecamatan_name": "Kota Baru",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36129",
+      "kecamatan_name": "Kota Baru",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36133",
+      "kecamatan_name": "Jelutung",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36134",
+      "kecamatan_name": "Jelutung",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36135",
+      "kecamatan_name": "Jelutung",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36136",
+      "kecamatan_name": "Jelutung",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36137",
+      "kecamatan_name": "Jelutung",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36141",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36142",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36143",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36144",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36145",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36146",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36148",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36149",
+      "kecamatan_name": "Jambi Timur",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36151",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36152",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36153",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36154",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36155",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36157",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36158",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36159",
+      "kecamatan_name": "Jambi Selatan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36251",
+      "kecamatan_name": "Pelayangan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36252",
+      "kecamatan_name": "Pelayangan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36253",
+      "kecamatan_name": "Pelayangan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36254",
+      "kecamatan_name": "Pelayangan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36255",
+      "kecamatan_name": "Pelayangan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36256",
+      "kecamatan_name": "Pelayangan",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36261",
+      "kecamatan_name": "Danau Teluk",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36262",
+      "kecamatan_name": "Danau Teluk",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36263",
+      "kecamatan_name": "Danau Teluk",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36264",
+      "kecamatan_name": "Danau Teluk",
+      "regency_code": "15.71",
+      "regency_name": "Kota Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36311",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36312",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36313",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36314",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36315",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36316",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36317",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36318",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36319",
+      "kecamatan_name": "Sekernan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36361",
+      "kecamatan_name": "Jambi Luar Kota",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36364",
+      "kecamatan_name": "Mestong",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36365",
+      "kecamatan_name": "Sungai Bahar",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36366",
+      "kecamatan_name": "Bahar Utara",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36367",
+      "kecamatan_name": "Bahar Selatan",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36371",
+      "kecamatan_name": "Kumpeh",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36373",
+      "kecamatan_name": "Kumpeh Ulu",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36374",
+      "kecamatan_name": "Sungai Gelam",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36382",
+      "kecamatan_name": "Maro Sebo",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36511",
+      "kecamatan_name": "Tungkal Ilir",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36513",
+      "kecamatan_name": "Tungkal Ilir",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36514",
+      "kecamatan_name": "Tungkal Ilir",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36515",
+      "kecamatan_name": "Tungkal Ilir",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36551",
+      "kecamatan_name": "Bram Itam",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36552",
+      "kecamatan_name": "Tungkal Ulu",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36553",
+      "kecamatan_name": "Pengabuan",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36554",
+      "kecamatan_name": "Merlung",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36555",
+      "kecamatan_name": "Betara",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36556",
+      "kecamatan_name": "Tebing Tinggi",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36557",
+      "kecamatan_name": "Batang Asam",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36558",
+      "kecamatan_name": "Renah Mendaluh",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36559",
+      "kecamatan_name": "Muara Papalik",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36561",
+      "kecamatan_name": "Kuala Betara",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36562",
+      "kecamatan_name": "Seberang Kota",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36563",
+      "kecamatan_name": "Senyerang",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36611",
+      "kecamatan_name": "Muara Bulian",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36612",
+      "kecamatan_name": "Muara Bulian",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36613",
+      "kecamatan_name": "Muara Bulian",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36614",
+      "kecamatan_name": "Muara Bulian",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36615",
+      "kecamatan_name": "Muara Bulian",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36619",
+      "kecamatan_name": "Muara Bulian",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36652",
+      "kecamatan_name": "Bajubang",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36653",
+      "kecamatan_name": "Muara Tembesi",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36654",
+      "kecamatan_name": "Mersam",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36655",
+      "kecamatan_name": "Maro Sebo Ulu",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36656",
+      "kecamatan_name": "Batin XXIV",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36657",
+      "kecamatan_name": "Pemayung",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36658",
+      "kecamatan_name": "Maro Sebo Ilir",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36711",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36712",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36713",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36714",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36716",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36717",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36718",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36719",
+      "kecamatan_name": "Muara Sabak Timur",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36722",
+      "kecamatan_name": "Muara Sabak Barat",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36724",
+      "kecamatan_name": "Muara Sabak Barat",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36725",
+      "kecamatan_name": "Muara Sabak Barat",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36726",
+      "kecamatan_name": "Muara Sabak Barat",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36727",
+      "kecamatan_name": "Muara Sabak Barat",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36761",
+      "kecamatan_name": "Kuala Jambi",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36763",
+      "kecamatan_name": "Dendang",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36764",
+      "kecamatan_name": "Mendahara",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36765",
+      "kecamatan_name": "Geragai",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36766",
+      "kecamatan_name": "Mendahara Ulu",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36771",
+      "kecamatan_name": "Nipah Panjang",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36772",
+      "kecamatan_name": "Rantau Rasau",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "36774",
+      "kecamatan_name": "Berbak",
+      "regency_code": "15.06",
+      "regency_name": "Kabupaten Tanjung Jabung Barat",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37114",
+      "kecamatan_name": "Pondok Tinggi",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37115",
+      "kecamatan_name": "Pondok Tinggi",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37116",
+      "kecamatan_name": "Pondok Tinggi",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37121",
+      "kecamatan_name": "Hamparan Rawang",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37122",
+      "kecamatan_name": "Hamparan Rawang",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37123",
+      "kecamatan_name": "Hamparan Rawang",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37127",
+      "kecamatan_name": "Pesisir Bukit",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37128",
+      "kecamatan_name": "Pesisir Bukit",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37129",
+      "kecamatan_name": "Pesisir Bukit",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37131",
+      "kecamatan_name": "Tanah Kampung",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37132",
+      "kecamatan_name": "Tanah Kampung",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37133",
+      "kecamatan_name": "Tanah Kampung",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37134",
+      "kecamatan_name": "Kumun Debai",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37135",
+      "kecamatan_name": "Kumun Debai",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37136",
+      "kecamatan_name": "Kumun Debai",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37153",
+      "kecamatan_name": "Air Hangat Timur",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37154",
+      "kecamatan_name": "Depati Tujuh",
+      "regency_code": "15.72",
+      "regency_name": "Kota Sungai Penuh",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37161",
+      "kecamatan_name": "Air Hangat",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37162",
+      "kecamatan_name": "Gunung Kerinci",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37163",
+      "kecamatan_name": "Kayu Aro",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37164",
+      "kecamatan_name": "Gunung Tujuh",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37165",
+      "kecamatan_name": "Kayu Aro Barat",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37166",
+      "kecamatan_name": "Siulak Mukai",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37167",
+      "kecamatan_name": "Siulak",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37171",
+      "kecamatan_name": "Sitinjau Laut",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37172",
+      "kecamatan_name": "Danau Kerinci",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37173",
+      "kecamatan_name": "Keliling Danau",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37174",
+      "kecamatan_name": "Gunung Raya",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37175",
+      "kecamatan_name": "Batang Merangin",
+      "regency_code": "15.01",
+      "regency_name": "Kabupaten Kerinci",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37211",
+      "kecamatan_name": "Pasar Muaro Bungo",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37212",
+      "kecamatan_name": "Pasar Muaro Bungo",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37213",
+      "kecamatan_name": "Pasar Muaro Bungo",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37216",
+      "kecamatan_name": "Pasar Muaro Bungo",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37219",
+      "kecamatan_name": "Rimbo Tengah",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37221",
+      "kecamatan_name": "Bungo Dani",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37222",
+      "kecamatan_name": "Bungo Dani",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37223",
+      "kecamatan_name": "Bungo Dani",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37224",
+      "kecamatan_name": "Bungo Dani",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37225",
+      "kecamatan_name": "Bungo Dani",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37226",
+      "kecamatan_name": "Bathin III",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37227",
+      "kecamatan_name": "Bathin III",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37228",
+      "kecamatan_name": "Bathin III",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37229",
+      "kecamatan_name": "Bathin III",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37252",
+      "kecamatan_name": "Pelepat Ilir",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37255",
+      "kecamatan_name": "Tanah Tumbuh",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37257",
+      "kecamatan_name": "Jujuhan Ilir",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37258",
+      "kecamatan_name": "Jujuhan",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37259",
+      "kecamatan_name": "Tanah Sepenggal Lintas",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37261",
+      "kecamatan_name": "Rantau Pandan",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37262",
+      "kecamatan_name": "Pelepat",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37263",
+      "kecamatan_name": "Tanah Sepenggal",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37264",
+      "kecamatan_name": "Muko-muko Bathin VII",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37265",
+      "kecamatan_name": "Bathin II Pelayang",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37266",
+      "kecamatan_name": "Limbur Lubuk Mengkuang",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37267",
+      "kecamatan_name": "Bathin III Ulu",
+      "regency_code": "15.09",
+      "regency_name": "Kabupaten Tebo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37311",
+      "kecamatan_name": "Bangko",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37313",
+      "kecamatan_name": "Bangko",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37314",
+      "kecamatan_name": "Bangko",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37319",
+      "kecamatan_name": "Bangko",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37331",
+      "kecamatan_name": "Batang Masumai",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37352",
+      "kecamatan_name": "Renah Pamenang",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37353",
+      "kecamatan_name": "Tabir",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37354",
+      "kecamatan_name": "Tabir Selatan",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37355",
+      "kecamatan_name": "Pamenang Barat",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37356",
+      "kecamatan_name": "Pamenang Selatan",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37357",
+      "kecamatan_name": "Pamenang",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37358",
+      "kecamatan_name": "Margo Tabir",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37361",
+      "kecamatan_name": "Sungai Manau",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37362",
+      "kecamatan_name": "Renah Pembarap",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37363",
+      "kecamatan_name": "Pangkalan Jambu",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37364",
+      "kecamatan_name": "Tabir Ulu",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37365",
+      "kecamatan_name": "Tabir Barat",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37366",
+      "kecamatan_name": "Tabir Lintas",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37367",
+      "kecamatan_name": "Tabir Timur",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37368",
+      "kecamatan_name": "Tabir Ilir",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37371",
+      "kecamatan_name": "Muara Siau",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37372",
+      "kecamatan_name": "Jangkat",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37373",
+      "kecamatan_name": "Sungai Tenang",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37374",
+      "kecamatan_name": "Lembah Masurai",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37375",
+      "kecamatan_name": "Tiang Pumpung",
+      "regency_code": "15.02",
+      "regency_name": "Kabupaten Merangin",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37411",
+      "kecamatan_name": "Sarolangun",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37412",
+      "kecamatan_name": "Sarolangun",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37415",
+      "kecamatan_name": "Sarolangun",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37416",
+      "kecamatan_name": "Sarolangun",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37419",
+      "kecamatan_name": "Sarolangun",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37481",
+      "kecamatan_name": "Bathin VIII",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37482",
+      "kecamatan_name": "Singkut",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37483",
+      "kecamatan_name": "Limun",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37484",
+      "kecamatan_name": "Cermin Nan Gedang",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37485",
+      "kecamatan_name": "Batang Asai",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37489",
+      "kecamatan_name": "Pelawan",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37491",
+      "kecamatan_name": "Pauh",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37492",
+      "kecamatan_name": "Mandiangin",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37493",
+      "kecamatan_name": "Air Hitam",
+      "regency_code": "15.03",
+      "regency_name": "Kabupaten Sarolangun",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37512",
+      "kecamatan_name": "Tebo Tengah",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37519",
+      "kecamatan_name": "Tebo Tengah",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37553",
+      "kecamatan_name": "Rimbo Bujang",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37554",
+      "kecamatan_name": "Tebo Ulu",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37555",
+      "kecamatan_name": "Serai Serumpun",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37556",
+      "kecamatan_name": "Rimbo Ilir",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37557",
+      "kecamatan_name": "Rimbo Ulu",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37558",
+      "kecamatan_name": "VII Koto Ilir",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37559",
+      "kecamatan_name": "VII Koto",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37572",
+      "kecamatan_name": "Tebo Ilir",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37573",
+      "kecamatan_name": "Sumay",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37574",
+      "kecamatan_name": "Tengah Ilir",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    },
+    {
+      "postal_code": "37576",
+      "kecamatan_name": "Muara Tabir",
+      "regency_code": "15.08",
+      "regency_name": "Kabupaten Bungo",
+      "province_code": "15",
+      "province_name": "Jambi"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kode Pos di Jambi - Unduh Gratis",
+    "description": "Daftar 219 kode pos di Provinsi Jambi (kode BPS 15). Setiap record berisi kode pos 5-digit, nama kecamatan, kode dan nama kabupaten/kota. Diturunkan dari snapshot 2021 (struktur 34 provinsi pra-2022). Berisi 219 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kode Pos di Jambi | ListBase",
+    "seo_description": "Unduh Daftar Kode Pos di Jambi — 219 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 219 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

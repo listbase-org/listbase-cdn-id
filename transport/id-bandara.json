@@ -1,0 +1,2106 @@
+{
+  "id": "id-bandara",
+  "name": "Id Bandara",
+  "title": "Id Bandara",
+  "description": "Daftar bandara di Indonesia dengan kode IATA/ICAO, provinsi, lokasi dan koordinat",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 204,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Harun Thohir Airport",
+      "iata": "BXW",
+      "icao": "WARW",
+      "province": "East Java",
+      "location": "Bawean",
+      "latitude": -5.72361,
+      "longitude": 112.67917,
+      "status": "Civilian"
+    },
+    {
+      "name": "Husein Sastranegara Airport",
+      "iata": "BDO",
+      "icao": "WICC",
+      "province": "West Java",
+      "location": "Bandung",
+      "latitude": -6.90056,
+      "longitude": 107.57639,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Kertajati International Airport",
+      "iata": "KJT",
+      "icao": "WICA",
+      "province": "West Java",
+      "location": "Bandung",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Banyuwangi Airportformerly Blimbingsari Airport",
+      "iata": "BWX",
+      "icao": "WADY",
+      "province": "East Java",
+      "location": "Banyuwangi",
+      "latitude": -8.31,
+      "longitude": 114.34028,
+      "status": "Civilian"
+    },
+    {
+      "name": "Ngloram Airport",
+      "iata": "CPF",
+      "icao": "WARC",
+      "province": "Central Java",
+      "location": "Cepu",
+      "latitude": -7.19472,
+      "longitude": 111.54806,
+      "status": "Civilian"
+    },
+    {
+      "name": "Cakrabhuwana Airport formerly Penggung Airport",
+      "iata": "CBN",
+      "icao": "WICD",
+      "province": "West Java",
+      "location": "Cirebon",
+      "latitude": -6.7561444,
+      "longitude": 108.5396722,
+      "status": "Civilian"
+    },
+    {
+      "name": "Tunggul Wulung Airport",
+      "iata": "CXP",
+      "icao": "WAHL",
+      "province": "Central Java",
+      "location": "Cilacap",
+      "latitude": -7.645,
+      "longitude": 109.03417,
+      "status": "Civilian"
+    },
+    {
+      "name": "Halim Perdanakusuma International Airport",
+      "iata": "HLP",
+      "icao": "WIHH",
+      "province": "Special Capital Region of Jakarta",
+      "location": "Jakarta",
+      "latitude": -6.26639,
+      "longitude": 106.89111,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Soekarno–Hatta International Airport",
+      "iata": "CGK",
+      "icao": "WIII",
+      "province": "Banten",
+      "location": "Jakarta",
+      "latitude": -6.12556,
+      "longitude": 106.65583,
+      "status": "Civilian"
+    },
+    {
+      "name": "Notohadinegoro Airport",
+      "iata": "JBB",
+      "icao": "WARE",
+      "province": "East Java",
+      "location": "Jember",
+      "latitude": -8.24111,
+      "longitude": 113.69389,
+      "status": "Civilian"
+    },
+    {
+      "name": "Dewadaru Airport",
+      "iata": "KWB",
+      "icao": "WAHU",
+      "province": "Central Java",
+      "location": "Karimunjawa",
+      "latitude": -5.80111,
+      "longitude": 110.47861,
+      "status": "Civilian"
+    },
+    {
+      "name": "Dhoho Airport",
+      "iata": "DHX",
+      "icao": "WARD",
+      "province": "East Java",
+      "location": "Kediri",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Abdul Rachman Saleh Airport",
+      "iata": "MLG",
+      "icao": "WARA",
+      "province": "East Java",
+      "location": "Malang",
+      "latitude": -7.92833,
+      "longitude": 112.71333,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Cijulang Nusawiru Airport",
+      "iata": "CJN",
+      "icao": "WICN",
+      "province": "West Java",
+      "location": "Pangandaran",
+      "latitude": -7.72,
+      "longitude": 108.48861,
+      "status": "Civilian"
+    },
+    {
+      "name": "Jenderal Besar Soedirman Airport formerly Wirasaba Airport",
+      "iata": "PWL",
+      "icao": "WAHP",
+      "province": "Central Java",
+      "location": "Purbalingga",
+      "latitude": -7.46167,
+      "longitude": 109.41667,
+      "status": "Civilian"
+    },
+    {
+      "name": "Jenderal Ahmad Yani International Airport",
+      "iata": "SRG",
+      "icao": "WAHS",
+      "province": "Central Java",
+      "location": "Semarang",
+      "latitude": -6.97139,
+      "longitude": 110.37417,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Pondok Cabe Airport",
+      "iata": "PCB",
+      "icao": "WIHP",
+      "province": "Banten",
+      "location": "South Tangerang",
+      "latitude": -6.3369583,
+      "longitude": 106.7649972,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Trunojoyo Airport",
+      "iata": "SUP",
+      "icao": "WART",
+      "province": "East Java",
+      "location": "Sumenep",
+      "latitude": -7.02425,
+      "longitude": 113.8902056,
+      "status": "Civilian"
+    },
+    {
+      "name": "Juanda International Airport",
+      "iata": "SUB",
+      "icao": "WARR",
+      "province": "East Java",
+      "location": "Surabaya",
+      "latitude": -7.37972,
+      "longitude": 112.78694,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Adisoemarmo International Airportformerly Panasan Airport",
+      "iata": "SOC",
+      "icao": "WAHQ",
+      "province": "Central Java",
+      "location": "Surakarta",
+      "latitude": -7.51611,
+      "longitude": 110.75694,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Budiarto Airport",
+      "iata": "RTO",
+      "icao": "WIRR",
+      "province": "Banten",
+      "location": "Tangerang",
+      "latitude": -6.2903171,
+      "longitude": 106.569136,
+      "status": "Civilian"
+    },
+    {
+      "name": "Wiriadinata Airport",
+      "iata": "TSY",
+      "icao": "WICM",
+      "province": "West Java",
+      "location": "Tasikmalaya",
+      "latitude": -7.3466028,
+      "longitude": 108.2460917,
+      "status": "Civilian"
+    },
+    {
+      "name": "Adisutjipto Airportformerly Maguwo Airport",
+      "iata": "JOG",
+      "icao": "WAHH",
+      "province": "Special Region of Yogyakarta",
+      "location": "Yogyakarta",
+      "latitude": -7.78806,
+      "longitude": 110.43167,
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Yogyakarta International Airport",
+      "iata": "YIA",
+      "icao": "WAHI",
+      "province": "Special Region of Yogyakarta",
+      "location": "Yogyakarta",
+      "latitude": -7.907459,
+      "longitude": 110.05448,
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Iskandar Muda International Airportformerly Blangbintang Airport",
+      "iata": "BTJ",
+      "icao": "WITT",
+      "province": "Aceh",
+      "location": "Banda Aceh",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Radin Inten II International Airportformerly Branti Airport",
+      "iata": "TKG",
+      "icao": "WILL",
+      "province": "Lampung",
+      "location": "Bandar Lampung",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Hang Nadim International Airport",
+      "iata": "BTH",
+      "icao": "WIDD",
+      "province": "Riau Islands",
+      "location": "Batam",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Lasondre Airport",
+      "iata": "LSE",
+      "icao": "WIMO",
+      "province": "North Sumatra",
+      "location": "Batu Islands",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Fatmawati Soekarno Airportformerly Padangkemiling Airport",
+      "iata": "BKS",
+      "icao": "WIGG",
+      "province": "Bengkulu",
+      "location": "Bengkulu",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Blangpidie Airport",
+      "iata": "KJX",
+      "icao": "WITO",
+      "province": "Aceh",
+      "location": "Blangpidie",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Dabo Airport",
+      "iata": "SIQ",
+      "icao": "WIDS",
+      "province": "Riau Islands",
+      "location": "Dabo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Pinang Kampai Airport",
+      "iata": "DUM",
+      "icao": "WIBD",
+      "province": "Riau",
+      "location": "Dumai",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Enggano Airport",
+      "iata": "ENG",
+      "icao": "WIGE",
+      "province": "Bengkulu",
+      "location": "Enggano",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Binaka Airport",
+      "iata": "GNS",
+      "icao": "WIMB",
+      "province": "North Sumatra",
+      "location": "Gunung Sitoli",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Thaha Airportformerly Palmerah Airport",
+      "iata": "DJB",
+      "icao": "WIJJ",
+      "province": "Jambi",
+      "location": "Jambi",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Letung Airport",
+      "iata": "LMU",
+      "icao": "WIDL",
+      "province": "Riau Islands",
+      "location": "Jemaja Island",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Depati Parbo Airport",
+      "iata": "KRC",
+      "icao": "WIPH",
+      "province": "Jambi",
+      "location": "Kerinci",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Muhammad Taufiq Kiemas Airport",
+      "iata": "TFY",
+      "icao": "WILP",
+      "province": "Lampung",
+      "location": "Krui",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Alas Leuser Airport",
+      "iata": "LSR",
+      "icao": "WILD",
+      "province": "Aceh",
+      "location": "Kutacane",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Malikus Saleh Airport",
+      "iata": "LSW",
+      "icao": "WITM",
+      "province": "Aceh",
+      "location": "Lhokseumawe",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Silampari Airport",
+      "iata": "LLJ",
+      "icao": "WIPB",
+      "province": "South Sumatra",
+      "location": "Lubuklinggau",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Matak Airport",
+      "iata": "MWK",
+      "icao": "WIOM",
+      "province": "Riau Islands",
+      "location": "Matak",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Kualanamu International Airport",
+      "iata": "KNO",
+      "icao": "WIMM",
+      "province": "North Sumatra",
+      "location": "Medan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Cut Nyak Dhien Airport",
+      "iata": "MEQ",
+      "icao": "WITC",
+      "province": "Aceh",
+      "location": "Meulaboh",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Muara Bungo Airport",
+      "iata": "BUU",
+      "icao": "WIPI",
+      "province": "Jambi",
+      "location": "Muara Bungo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Mukomuko Airport",
+      "iata": "MPC",
+      "icao": "WIPU",
+      "province": "Bengkulu",
+      "location": "Mukomuko",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Minangkabau International Airport",
+      "iata": "PDG",
+      "icao": "WIEE",
+      "province": "West Sumatra",
+      "location": "Padang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Aek Godang Airport",
+      "iata": "AEG",
+      "icao": "WIME",
+      "province": "North Sumatra",
+      "location": "Padang Sidempuan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Atung Bungsu Airport",
+      "iata": "PXA",
+      "icao": "WIPY",
+      "province": "South Sumatra",
+      "location": "Pagar Alam",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Mahmud Badaruddin II International Airport formerly Talang Betutu Airport",
+      "iata": "PLM",
+      "icao": "WIPP",
+      "province": "South Sumatra",
+      "location": "Palembang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Depati Amir Airport",
+      "iata": "PGK",
+      "icao": "WIPK",
+      "province": "Bangka–Belitung Islands",
+      "location": "Pangkal Pinang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Tuanku Tambusai Airport",
+      "iata": "PPR",
+      "icao": "WIDE",
+      "province": "Riau",
+      "location": "Pasir Pengaraian",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Syarif Kasim II International Airportformerly Simpang Tiga Airport",
+      "iata": "PKU",
+      "icao": "WIBB",
+      "province": "Riau",
+      "location": "Pekanbaru",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Ranai Airportformerly Raden Sadjad Airport",
+      "iata": "NTX",
+      "icao": "WION",
+      "province": "Riau Islands",
+      "location": "Ranai",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Japura Airport",
+      "iata": "RGT",
+      "icao": "WIBJ",
+      "province": "Riau Islands",
+      "location": "Rengat",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Maimun Saleh Airport",
+      "iata": "SBG",
+      "icao": "WIAB",
+      "province": "Aceh",
+      "location": "Sabang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Ferdinand Lumban Tobing Airportformerly Pinangsori Airport",
+      "iata": "FLZ",
+      "icao": "WIMS",
+      "province": "North Sumatra",
+      "location": "Sibolga",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Raja Sisingamangaraja XII Airport formerly Silangit Airport",
+      "iata": "DTB",
+      "icao": "WIMN",
+      "province": "North Sumatra",
+      "location": "Siborong-Borong",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sibisa Airport",
+      "iata": "SIW",
+      "icao": "WIMP",
+      "province": "North Sumatra",
+      "location": "Simalungun",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Pusako Anak Nagari Airport",
+      "iata": "—",
+      "icao": "—",
+      "province": "West Sumatra",
+      "location": "Simpang Ampek",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Lasikin Airport",
+      "iata": "LKI",
+      "icao": "WITG",
+      "province": "Aceh",
+      "location": "Sinabang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Syekh Hamzah Fansyuri Airport",
+      "iata": "—",
+      "icao": "WIMI",
+      "province": "Aceh",
+      "location": "Singkil",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Rokot Airport",
+      "iata": "RKI",
+      "icao": "WIBR",
+      "province": "West Sumatra",
+      "location": "Sipora",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sei Pakning Airport",
+      "iata": "SEQ",
+      "icao": "WIBS",
+      "province": "Riau",
+      "location": "Sungai Pakning",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Rembele Airport",
+      "iata": "TXE",
+      "icao": "WITK",
+      "province": "Aceh",
+      "location": "Takengon",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Raja Haji Abdullah Airportformerly Sei Bati Airport",
+      "iata": "TJB",
+      "icao": "WIBT",
+      "province": "Riau Islands",
+      "location": "Tanjung Balai Karimun",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "H.A.S. Hanandjoeddin International Airportformerly Buluh Tumbang Airport",
+      "iata": "TJQ",
+      "icao": "WIKT",
+      "province": "Bangka–Belitung Islands",
+      "location": "Tanjung Pandan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Raja Haji Fisabilillah Airportformerly Kijang Airport",
+      "iata": "TNJ",
+      "icao": "WIDN",
+      "province": "Riau Islands",
+      "location": "Tanjung Pinang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Tempuling Airport",
+      "iata": "—",
+      "icao": "—",
+      "province": "Riau",
+      "location": "Tembilahan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Gatot Subroto Airport",
+      "iata": "WYK",
+      "icao": "WIPO",
+      "province": "Lampung",
+      "location": "Way Tuba",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Sultan Aji Muhammad Sulaiman Sepinggan Airport formerly Sepinggan Airport",
+      "iata": "BPN",
+      "icao": "WALL",
+      "province": "East Kalimantan",
+      "location": "Balikpapan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Syamsudin Noor International Airportformerly Ulin Airport",
+      "iata": "BDJ",
+      "icao": "WAOO",
+      "province": "South Kalimantan",
+      "location": "Banjarmasin",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Batu Licin Airport",
+      "iata": "BTW",
+      "icao": "WAOC",
+      "province": "South Kalimantan",
+      "location": "Batulicin",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Kalimarau Airport",
+      "iata": "BEJ",
+      "icao": "WAQT",
+      "province": "East Kalimantan",
+      "location": "Berau",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "PT Badak Bontang Airport",
+      "iata": "BXT",
+      "icao": "WALC",
+      "province": "East Kalimantan",
+      "location": "Bontang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Maratua Airport",
+      "iata": "RTU",
+      "icao": "WAQC",
+      "province": "East Kalimantan",
+      "location": "Derawan Islands",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Rahadi Oesman Airport",
+      "iata": "KTG",
+      "icao": "WIOK",
+      "province": "West Kalimantan",
+      "location": "Ketapang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Gusti Syamsir Alam Airportformerly Stagen Airport",
+      "iata": "KBU",
+      "icao": "WAOK",
+      "province": "South Kalimantan",
+      "location": "Kotabaru",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Seruyan Kuala Pembuang Airport",
+      "iata": "KLP",
+      "icao": "WAGF",
+      "province": "Central Kalimantan",
+      "location": "Kuala Pembuang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Long Apung Airport",
+      "iata": "LPU",
+      "icao": "WAQL",
+      "province": "North Kalimantan",
+      "location": "Long Apung",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Juvai Semaring Airport",
+      "iata": "LBW",
+      "icao": "WAQJ",
+      "province": "North Kalimantan",
+      "location": "Long Bawan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Datah Dawai Airport",
+      "iata": "DTD",
+      "icao": "WALJ",
+      "province": "East Kalimantan",
+      "location": "Mahakam Ulu",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Robert Atty Bessing Airport",
+      "iata": "LNU",
+      "icao": "WALM",
+      "province": "North Kalimantan",
+      "location": "Malinau",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "West Kutai Melalan Airport",
+      "iata": "GHS",
+      "icao": "WALE",
+      "province": "East Kalimantan",
+      "location": "Melak",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Haji Muhammad Sidik Airport",
+      "iata": "HMS",
+      "icao": "WAGB",
+      "province": "Central Kalimantan",
+      "location": "Muara Teweh",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Nanga Pinoh Airport",
+      "iata": "NPO",
+      "icao": "WIOG",
+      "province": "West Kalimantan",
+      "location": "Nanga Pinoh",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Nunukan Airport",
+      "iata": "NNX",
+      "icao": "WAQA",
+      "province": "North Kalimantan",
+      "location": "Nunukan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Nusantara International Airport",
+      "iata": "—",
+      "icao": "WALK",
+      "province": "East Kalimantan",
+      "location": "Nusantara",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Tjilik Riwut Airport formerly Panarung Airport",
+      "iata": "PKY",
+      "icao": "WAGG",
+      "province": "Central Kalimantan",
+      "location": "Palangkaraya",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Iskandar Airport",
+      "iata": "PKN",
+      "icao": "WAGI",
+      "province": "Central Kalimantan",
+      "location": "Pangkalanbun",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Supadio International Airportformerly Sungai Durian Airport",
+      "iata": "PNK",
+      "icao": "WIOO",
+      "province": "West Kalimantan",
+      "location": "Pontianak",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Pangsuma Airport",
+      "iata": "PSU",
+      "icao": "WIOP",
+      "province": "West Kalimantan",
+      "location": "Putussibau",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Aji Pangeran Tumenggung Pranoto International Airport",
+      "iata": "AAP",
+      "icao": "WALS",
+      "province": "East Kalimantan",
+      "location": "Samarinda",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "H. Asan Airport",
+      "iata": "SMQ",
+      "icao": "WAGS",
+      "province": "Central Kalimantan",
+      "location": "Sampit",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Singkawang Airport",
+      "iata": "SKJ",
+      "icao": "WIOD",
+      "province": "West Kalimantan",
+      "location": "Singkawang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Tebelian Airport",
+      "iata": "SQG",
+      "icao": "WIOS",
+      "province": "West Kalimantan",
+      "location": "Sintang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Tanjung Harapan Airport",
+      "iata": "TJS",
+      "icao": "WAQD",
+      "province": "North Kalimantan",
+      "location": "Tanjung Selor",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Juwata Airport",
+      "iata": "TRK",
+      "icao": "WAQQ",
+      "province": "North Kalimantan",
+      "location": "Tarakan",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Tanjung Api Airport",
+      "iata": "OJU",
+      "icao": "WAFU",
+      "province": "Central Sulawesi",
+      "location": "Ampana",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Betoambari Airport",
+      "iata": "BUW",
+      "icao": "WAWB",
+      "province": "Southeast Sulawesi",
+      "location": "Baubau",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Pogogul Airport",
+      "iata": "UOL",
+      "icao": "WAFY",
+      "province": "Central Sulawesi",
+      "location": "Buol",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Djalaluddin Airportformerly Tolotio Airport",
+      "iata": "GTO",
+      "icao": "WAMG",
+      "province": "Gorontalo",
+      "location": "Gorontalo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Haluoleo Airportformerly Wolter Monginsidi Airport",
+      "iata": "KDI",
+      "icao": "WAWW",
+      "province": "Southeast Sulawesi",
+      "location": "Kendari",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sangia Nibandera Airport",
+      "iata": "KXB",
+      "icao": "WAWP",
+      "province": "Southeast Sulawesi",
+      "location": "Kolaka",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Syukuran Aminuddin Amir Airportformerly Bubung Airport",
+      "iata": "LUW",
+      "icao": "WAFW",
+      "province": "Central Sulawesi",
+      "location": "Luwuk",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Hasanuddin International Airport",
+      "iata": "UPG",
+      "icao": "WAAA",
+      "province": "South Sulawesi",
+      "location": "Makassar",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Tampa Padang Airport",
+      "iata": "MJU",
+      "icao": "WAAJ",
+      "province": "West Sulawesi",
+      "location": "Mamuju",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sam Ratulangi International Airport",
+      "iata": "MDC",
+      "icao": "WAMM",
+      "province": "North Sulawesi",
+      "location": "Manado",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Andi Jemma Airport",
+      "iata": "MXB",
+      "icao": "WAWN",
+      "province": "South Sulawesi",
+      "location": "Masamba",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Miangas Airport",
+      "iata": "IAX",
+      "icao": "WAMS",
+      "province": "North Sulawesi",
+      "location": "Miangas",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Melangguane Airport",
+      "iata": "MNA",
+      "icao": "WAMN",
+      "province": "North Sulawesi",
+      "location": "Melonguane",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Maleo Airport",
+      "iata": "MOH",
+      "icao": "WAFO",
+      "province": "Central Sulawesi",
+      "location": "Morowali",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Mutiara SIS Al-Jufrie International Airportformerly Masovu Airport",
+      "iata": "PLW",
+      "icao": "WAFF",
+      "province": "Central Sulawesi",
+      "location": "Palu",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Kasiguncu Airport",
+      "iata": "PSJ",
+      "icao": "WAMP",
+      "province": "Central Sulawesi",
+      "location": "Poso",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Bua Airport formerly Lagaligo Airport",
+      "iata": "LLO",
+      "icao": "WAFD",
+      "province": "South Sulawesi",
+      "location": "Palopo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sugimanuru Airport",
+      "iata": "RAQ",
+      "icao": "WAWR",
+      "province": "Southeast Sulawesi",
+      "location": "Raha",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Naha Airport",
+      "iata": "NAH",
+      "icao": "WAMH",
+      "province": "North Sulawesi",
+      "location": "Sangihe",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Seko Airport",
+      "iata": "SKO",
+      "icao": "WAFN",
+      "province": "South Sulawesi",
+      "location": "Seko",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "H. Aroeppala Airport",
+      "iata": "KSR",
+      "icao": "WAWH",
+      "province": "South Sulawesi",
+      "location": "Selayar",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sorowako Airport",
+      "iata": "SQR",
+      "icao": "WAWS",
+      "province": "South Sulawesi",
+      "location": "Sorowako",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Toraja Airportformerly Buntu Kunik Airport",
+      "iata": "TRT",
+      "icao": "WAFB",
+      "province": "South Sulawesi",
+      "location": "Tana Toraja",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Matahora Airport",
+      "iata": "WNI",
+      "icao": "WAWD",
+      "province": "Southeast Sulawesi",
+      "location": "Wangi-Wangi",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Alor Island Airportformerly Mali Airport",
+      "iata": "ARD",
+      "icao": "WATM",
+      "province": "East Nusa Tenggara",
+      "location": "Alor Island",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "A. A. Bere Tallo Airportformerly Haliwen Airport",
+      "iata": "ABU",
+      "icao": "WATA",
+      "province": "East Nusa Tenggara",
+      "location": "Atambua",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Muhammad Salahudin Airportformerly Palibelo Airport",
+      "iata": "BMU",
+      "icao": "WADB",
+      "province": "West Nusa Tenggara",
+      "location": "Bima",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Lt. Col. Wisnu Airfield",
+      "iata": "WSN",
+      "icao": "WADE",
+      "province": "Bali",
+      "location": "Buleleng",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Ngurah Rai International Airport",
+      "iata": "DPS",
+      "icao": "WADD",
+      "province": "Bali",
+      "location": "Denpasar",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "H. Hasan Aroeboesman Airportformerly Ippi Airport",
+      "iata": "ENE",
+      "icao": "WATE",
+      "province": "East Nusa Tenggara",
+      "location": "Ende",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "El Tari International Airportformerly Penfui Airport",
+      "iata": "KOE",
+      "icao": "WATT",
+      "province": "East Nusa Tenggara",
+      "location": "Kupang",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Gewayantana Airport",
+      "iata": "LKA",
+      "icao": "WATL",
+      "province": "East Nusa Tenggara",
+      "location": "Larantuka",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Komodo International Airportformerly Mutiara II Airport",
+      "iata": "LBJ",
+      "icao": "WATO",
+      "province": "East Nusa Tenggara",
+      "location": "Labuan Bajo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Wonopito Airport",
+      "iata": "LWE",
+      "icao": "WATW",
+      "province": "East Nusa Tenggara",
+      "location": "Lewoleba",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Lombok International Airport",
+      "iata": "LOP",
+      "icao": "WADL",
+      "province": "West Nusa Tenggara",
+      "location": "Mataram",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Frans Xavier Seda Airportformerly Wai Oti Airport",
+      "iata": "MOF",
+      "icao": "WATC",
+      "province": "East Nusa Tenggara",
+      "location": "Maumere",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "David Constantijn Saudale Airportformerly Lekunik Airport",
+      "iata": "RTI",
+      "icao": "WATR",
+      "province": "East Nusa Tenggara",
+      "location": "Rote",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Frans Sales Lega Airportformerly Satar Tacik Airport",
+      "iata": "RTG",
+      "icao": "WATG",
+      "province": "East Nusa Tenggara",
+      "location": "Ruteng",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Tardamu Airport",
+      "iata": "SAU",
+      "icao": "WATS",
+      "province": "East Nusa Tenggara",
+      "location": "Sabu",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Muhammad Kaharuddin III Airportformerly Brangbiji Airport",
+      "iata": "SWQ",
+      "icao": "WADS",
+      "province": "West Nusa Tenggara",
+      "location": "Sumbawa Besar",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Lede Kalumbang Airport formerly Tambolaka Airport",
+      "iata": "TMC",
+      "icao": "WATK",
+      "province": "East Nusa Tenggara",
+      "location": "Tambolaka",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Umbu Mehang Kunda Airportformerly Mau Hau Airport",
+      "iata": "WGP",
+      "icao": "WATU",
+      "province": "East Nusa Tenggara",
+      "location": "Waingapu",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Amahai Airport",
+      "iata": "AHI",
+      "icao": "WAPA",
+      "province": "Maluku",
+      "location": "Amahai",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Pattimura Airportformerly Laha Airport",
+      "iata": "AMQ",
+      "icao": "WAPP",
+      "province": "Maluku",
+      "location": "Ambon",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Bandanaira Airport",
+      "iata": "NDA",
+      "icao": "WAPC",
+      "province": "Maluku",
+      "location": "Banda",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Nangasuri Aru Airport",
+      "iata": "BJK",
+      "icao": "WAPK",
+      "province": "Maluku",
+      "location": "Benjina",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Bobong Airport",
+      "iata": "–",
+      "icao": "–",
+      "province": "North Maluku",
+      "location": "Bobong",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Buli Airport",
+      "iata": "PGQ",
+      "icao": "WAEM",
+      "province": "North Maluku",
+      "location": "Buli",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Rar Gwamar Airport",
+      "iata": "DOB",
+      "icao": "WAPD",
+      "province": "Maluku",
+      "location": "Dobo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Gamar Malamo Airport",
+      "iata": "GLX",
+      "icao": "WAEG",
+      "province": "North Maluku",
+      "location": "Galela",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Kuabang Airport",
+      "iata": "KAZ",
+      "icao": "WAEK",
+      "province": "North Maluku",
+      "location": "Kao",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "John Becker Airport",
+      "iata": "KSX",
+      "icao": "WATQ",
+      "province": "Maluku",
+      "location": "Kisar",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Oesman Sadik Airport",
+      "iata": "LAH",
+      "icao": "WAEL",
+      "province": "North Maluku",
+      "location": "Labuha",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Jos Orno Imsula Airport",
+      "iata": "JIO",
+      "icao": "—",
+      "province": "Maluku",
+      "location": "Moa",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Leo Wattimena Airportformerly Pitu Airport",
+      "iata": "OTI",
+      "icao": "WAMR",
+      "province": "North Maluku",
+      "location": "Morotai",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Namlea Airport",
+      "iata": "NAM",
+      "icao": "WAPR",
+      "province": "Maluku",
+      "location": "Namlea",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Namrole Airport",
+      "iata": "NRE",
+      "icao": "WAPG",
+      "province": "Maluku",
+      "location": "Namrole",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Emalamo Airport",
+      "iata": "SQN",
+      "icao": "WAPN",
+      "province": "North Maluku",
+      "location": "Sanana",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Mathilda Batlayeri Airport",
+      "iata": "SXK",
+      "icao": "WAPS",
+      "province": "Maluku",
+      "location": "Saumlaki",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sultan Babullah Airport",
+      "iata": "TTE",
+      "icao": "WAEE",
+      "province": "North Maluku",
+      "location": "Ternate",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Karel Sadsuitubun Airport",
+      "iata": "LUV",
+      "icao": "WAPF",
+      "province": "Maluku",
+      "location": "Tual",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Ewer Airport",
+      "iata": "EWE",
+      "icao": "—",
+      "province": "South Papua",
+      "location": "Agats",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Anggi Airport",
+      "iata": "AGD",
+      "icao": "—",
+      "province": "West Papua",
+      "location": "Anggi",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Ayawasi Airport",
+      "iata": "AYW",
+      "icao": "WASA",
+      "province": "Southwest Papua",
+      "location": "Ayawasi",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Babo Airport",
+      "iata": "BXB",
+      "icao": "WASO",
+      "province": "West Papua",
+      "location": "Babo",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Frans Kaisiepo Airport",
+      "iata": "BIK",
+      "icao": "WABB",
+      "province": "Papua",
+      "location": "Biak",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian / Military"
+    },
+    {
+      "name": "Steenkool Airport",
+      "iata": "NTI",
+      "icao": "WASB",
+      "province": "West Papua",
+      "location": "Bintuni",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Bokondini Airport",
+      "iata": "BUI",
+      "icao": "WAJB",
+      "province": "Highland Papua",
+      "location": "Bokondini",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Nop Goliat Dekai Airport",
+      "iata": "DEX",
+      "icao": "WAVD",
+      "province": "Highland Papua",
+      "location": "Dekai",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Enarotali Airport",
+      "iata": "EWI",
+      "icao": "WAYE",
+      "province": "Central Papua",
+      "location": "Enarotali",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Siboru Airport",
+      "iata": "FKQ",
+      "icao": "WASF",
+      "province": "West Papua",
+      "location": "Fakfak",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Dortheys Hiyo Eluay International Airport",
+      "iata": "DJJ",
+      "icao": "WAJJ",
+      "province": "Papua",
+      "location": "Jayapura",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Utarom Airport",
+      "iata": "KNG",
+      "icao": "WASK",
+      "province": "West Papua",
+      "location": "Kaimana",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Rendani Airport",
+      "iata": "MKW",
+      "icao": "WAUU",
+      "province": "West Papua",
+      "location": "Manokwari",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Mopah Airport",
+      "iata": "MKQ",
+      "icao": "WAKK",
+      "province": "South Papua",
+      "location": "Merauke",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Douw Aturure Airport",
+      "iata": "NBX",
+      "icao": "WABI",
+      "province": "Central Papua",
+      "location": "Nabire",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Kornasoren Airport",
+      "iata": "FOO",
+      "icao": "—",
+      "province": "Papua",
+      "location": "Noemfoor",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Oksibil Airport",
+      "iata": "OKL",
+      "icao": "WAJO",
+      "province": "Highland Papua",
+      "location": "Oksibil",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Sinak Airport",
+      "iata": "NKD",
+      "icao": "WABS",
+      "province": "Central Papua",
+      "location": "Sinak",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Domine Eduard Osok International Airport",
+      "iata": "SOQ",
+      "icao": "WASS",
+      "province": "Southwest Papua",
+      "location": "Sorong",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Stevanus Rumbewas Airport",
+      "iata": "WABO",
+      "icao": "ZRI",
+      "province": "Papua",
+      "location": "Serui",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Tanah Merah Airport",
+      "iata": "TMH",
+      "icao": "WAKT",
+      "province": "South Papua",
+      "location": "Tanahmerah",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Moses Kilangin Airport",
+      "iata": "TIM",
+      "icao": "WABP",
+      "province": "Central Papua",
+      "location": "Timika",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Marinda Airport",
+      "iata": "RJM",
+      "icao": "WASN",
+      "province": "Southwest Papua",
+      "location": "Waisai",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Wamena Airport",
+      "iata": "WMX",
+      "icao": "WAVV",
+      "province": "Highland Papua",
+      "location": "Wamena",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Wasior Airport",
+      "iata": "WSR",
+      "icao": "WASW",
+      "province": "West Papua",
+      "location": "Wasior",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Werur Airport",
+      "iata": "WRR",
+      "icao": "WAJY",
+      "province": "Southwest Papua",
+      "location": "Werur",
+      "latitude": "",
+      "longitude": "",
+      "status": "Civilian"
+    },
+    {
+      "name": "Prince M. Bunyamin Air Force Base",
+      "iata": "AKQ",
+      "icao": "WIAG",
+      "province": "Lampung",
+      "location": "Tulang Bawang",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Atang Senjaya Air Force Base",
+      "iata": "—",
+      "icao": "WIAJ",
+      "province": "West Java",
+      "location": "Bogor",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Sulaiman Air Force Base",
+      "iata": "—",
+      "icao": "WICK",
+      "province": "West Java",
+      "location": "Bandung",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Iswahjudi Air Force Base",
+      "iata": "MDN",
+      "icao": "WARI",
+      "province": "East Java",
+      "location": "Magetan",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Soewondo Air Force Baseformerly Polonia International Airport",
+      "iata": "MES",
+      "icao": "WIMK",
+      "province": "North Sumatra",
+      "location": "Medan",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Sutan Sjahrir Air Force Baseformerly Tabing Airport",
+      "iata": "—",
+      "icao": "WIMG",
+      "province": "West Sumatra",
+      "location": "Padang",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Suryadarma Air Force Baseformerly Kalijati Air Force Base",
+      "iata": "—",
+      "icao": "WIIK",
+      "province": "West Java",
+      "location": "Subang",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Torea Airport",
+      "iata": "FKQ",
+      "icao": "WASF",
+      "province": "West Papua",
+      "location": "Fakfak",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Kemayoran Airport",
+      "iata": "JKT",
+      "icao": "WIID",
+      "province": "Special Capital Region of Jakarta",
+      "location": "Jakarta",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Selaparang Airport",
+      "iata": "AMI",
+      "icao": "WADA",
+      "province": "West Nusa Tenggara",
+      "location": "Mataram",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Beringin Airport",
+      "iata": "HMS",
+      "icao": "WAGB",
+      "province": "Central Kalimantan",
+      "location": "Muara Teweh",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Douw Aturure Airport",
+      "iata": "NBX",
+      "icao": "WABI",
+      "province": "Central Papua",
+      "location": "Nabire",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Temindung Airport",
+      "iata": "SRI",
+      "icao": "WALS",
+      "province": "East Kalimantan",
+      "location": "Samarinda",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Susilo Airport",
+      "iata": "SQG",
+      "icao": "WIOS",
+      "province": "West Kalimantan",
+      "location": "Sintang",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Jefman Airport",
+      "iata": "SOQ",
+      "icao": "WASS",
+      "province": "Southwest Papua",
+      "location": "Sorong",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Morokrembangan Naval Air Base",
+      "iata": "",
+      "icao": "WRSP",
+      "province": "East Java",
+      "location": "Surabaya",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Pongtiku Airport",
+      "iata": "TTR",
+      "icao": "WAFT",
+      "province": "South Sulawesi",
+      "location": "Tana Toraja",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    },
+    {
+      "name": "Panjang Island Airport",
+      "iata": "PPJ",
+      "icao": "WIHG",
+      "province": "Special Capital Region of Jakarta",
+      "location": "Thousand Islands",
+      "latitude": -5.643833,
+      "longitude": 106.56266,
+      "status": ""
+    },
+    {
+      "name": "Dumatubin Airport",
+      "iata": "LUV",
+      "icao": "WAPF",
+      "province": "Maluku",
+      "location": "Tual",
+      "latitude": "",
+      "longitude": "",
+      "status": ""
+    }
+  ],
+  "meta": {
+    "title": "Id Bandara - Unduh Gratis",
+    "description": "Daftar bandara di Indonesia dengan kode IATA/ICAO, provinsi, lokasi dan koordinat Berisi 204 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Id Bandara | ListBase",
+    "seo_description": "Unduh Id Bandara — 204 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 204 rekaman / 8 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "id-central-kalimantan-airports",
+  "name": "Bandar Udara — Central Kalimantan",
+  "title": "Bandar Udara — Central Kalimantan",
+  "description": "Bandar udara di Provinsi Central Kalimantan, Indonesia (Airports in Central Kalimantan Province, Indonesia — 5 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WAGS",
+      "iata": "SMQ",
+      "name_en": "H. Asan Airport",
+      "name_slug": "h-asan-airport",
+      "city_en": "Semuda",
+      "city_slug": "semuda",
+      "province_en": "Central Kalimantan",
+      "province_slug": "central-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 0,
+      "lat": -3.083333,
+      "lon": 113.05,
+      "timezone": "Asia/Pontianak",
+      "has_iata": true
+    },
+    {
+      "icao": "WAGI",
+      "iata": "PKN",
+      "name_en": "Iskandar Airport",
+      "name_slug": "iskandar-airport",
+      "city_en": "Pangkalanbuun",
+      "city_slug": "pangkalanbuun",
+      "province_en": "Central Kalimantan",
+      "province_slug": "central-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 36,
+      "lat": -2.7057634,
+      "lon": 111.6734082,
+      "timezone": "Asia/Pontianak",
+      "has_iata": true
+    },
+    {
+      "icao": "WIBS",
+      "iata": "SEQ",
+      "name_en": "Sungai Pakning",
+      "name_slug": "sungai-pakning",
+      "city_en": "Buntok",
+      "city_slug": "buntok",
+      "province_en": "Central Kalimantan",
+      "province_slug": "central-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 249,
+      "lat": -0.8,
+      "lon": 114.066666,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WAOP",
+      "iata": "PKY",
+      "name_en": "Tjilik Riwut Airport",
+      "name_slug": "tjilik-riwut-airport",
+      "city_en": "Palangkaraya",
+      "city_slug": "palangkaraya",
+      "province_en": "Central Kalimantan",
+      "province_slug": "central-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 22,
+      "lat": -2.2323114,
+      "lon": 113.9463846,
+      "timezone": "Asia/Pontianak",
+      "has_iata": true
+    },
+    {
+      "icao": "WAOW",
+      "iata": "TBM",
+      "name_en": "Tumbang Samba",
+      "name_slug": "tumbang-samba",
+      "city_en": "Halimaung Jaya (F-3)",
+      "city_slug": "halimaung-jaya-f-3",
+      "province_en": "Central Kalimantan",
+      "province_slug": "central-kalimantan",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 160,
+      "lat": -3.25,
+      "lon": 112.583336,
+      "timezone": "Asia/Makassar",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Central Kalimantan - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Central Kalimantan, Indonesia (Airports in Central Kalimantan Province, Indonesia — 5 record(s).) Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Central Kalimantan | ListBase",
+    "seo_description": "Unduh Bandar Udara — Central Kalimantan — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

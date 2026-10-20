@@ -1,0 +1,532 @@
+{
+  "id": "id-sulawesi-tengah-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Sulawesi Tengah — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Sulawesi Tengah — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Sulawesi Tengah menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH MADANI PALU",
+      "kode_rs": "7271051",
+      "tempat_tidur": 231,
+      "telepon": "(0451) 491470",
+      "alamat": "JL. THALUA KONTJI NO. 11  MAMBORO PALU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.789334,
+      "longitude": 119.870402
+    },
+    {
+      "nama": "RS UMUM DAERAH POSO",
+      "kode_rs": "7204010",
+      "tempat_tidur": 260,
+      "telepon": "(0452) 2700199",
+      "alamat": "JL. JENDERAL SUDIRMAN NO.33  KEL KASINTUWU POSO",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "POSO, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.382954,
+      "longitude": 120.760035
+    },
+    {
+      "nama": "RS UMUM DAERAH MOROWALI",
+      "kode_rs": "7203016",
+      "tempat_tidur": 132,
+      "telepon": "4092220085",
+      "alamat": "JL. TRANS SULAWESI FONUASINGKO BUNGKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MOROWALI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -2.477829,
+      "longitude": 121.934066
+    },
+    {
+      "nama": "RS UMUM DAERAH ANUNTALOKO PARIGI",
+      "kode_rs": "7208011",
+      "tempat_tidur": 316,
+      "telepon": "0450-22251",
+      "alamat": "JL. SIS AL JUFRI NO.214 PARIGI MOUTONG",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "PARIGI MOUTONG, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.811813,
+      "longitude": 120.175247
+    },
+    {
+      "nama": "RS BUDI AGUNG PALU",
+      "kode_rs": "7271095",
+      "tempat_tidur": 112,
+      "telepon": "(0451) 421360",
+      "alamat": "JL. MALUKU NO. 44 PALU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.907145,
+      "longitude": 119.87481
+    },
+    {
+      "nama": "RS UMUM DAERAH KOLONEDALE",
+      "kode_rs": "7204021",
+      "tempat_tidur": 135,
+      "telepon": "(0465) 21010",
+      "alamat": "JL. W MONGINSIDI 2 KOLONEDALE",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "MOROWALI UTARA, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.972217,
+      "longitude": 121.338006
+    },
+    {
+      "nama": "RS UMUM DAERAH KABUPATEN BANGGAI",
+      "kode_rs": "7202015",
+      "tempat_tidur": 322,
+      "telepon": "(0461) 21820",
+      "alamat": "JL. IMAM BONJOL KM 3 NO. 14 LUWUK",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "BANGGAI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.932119,
+      "longitude": 122.83653
+    },
+    {
+      "nama": "RS UMUM  MOKOPIDO TOLI-TOLI",
+      "kode_rs": "7206012",
+      "tempat_tidur": 266,
+      "telepon": "(0453) 21301",
+      "alamat": "JL. LANONI NO.37 KEL BARU KEC BAOLAN KAB TOLI-TOLI, SULTENG",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "TOLITOLI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": 1.036153,
+      "longitude": 120.824241
+    },
+    {
+      "nama": "RS UMUM DAERAH UNDATA PALU",
+      "kode_rs": "7271014",
+      "tempat_tidur": 385,
+      "telepon": "(0451) 4908020",
+      "alamat": "JALAN TRANS SULAWESI TONDO, TALISE, MANTIKULORE, KOTA PALU, SULAWESI TENGAH 94119",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.857646,
+      "longitude": 119.884889
+    },
+    {
+      "nama": "RS UMUM ANUTAPURA PALU",
+      "kode_rs": "7271036",
+      "tempat_tidur": 379,
+      "telepon": "(0451) 460570",
+      "alamat": "JL. KANGKUNG NO. 1 PALU",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.899771,
+      "longitude": 119.850559
+    },
+    {
+      "nama": "RS PRATAMA BILABANGGAI BUKO SELATAN",
+      "kode_rs": "7201014",
+      "tempat_tidur": 20,
+      "telepon": "081369889819",
+      "alamat": "JL. TRANS SULAWESI LUWUK PALU DESA TONGKONUNUK KEC. PAGIMANA BANGGAI INDONESIA.",
+      "tipe": "RS",
+      "wilayah": "BANGGAI KEPULAUAN, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.471444,
+      "longitude": 122.818655
+    },
+    {
+      "nama": "RS CLAIRE MEDIKA",
+      "kode_rs": "7202017",
+      "tempat_tidur": 14,
+      "telepon": "04613201849",
+      "alamat": "JL. SUNGAI MUSI NO. 17 KELURAHAN SOHO KECAMATAN LUWUK",
+      "tipe": "RS",
+      "wilayah": "BANGGAI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.943363,
+      "longitude": 122.796407
+    },
+    {
+      "nama": "RS UMUM TADULAKO PALU",
+      "kode_rs": "7271133",
+      "tempat_tidur": 0,
+      "telepon": "0811-4541-661",
+      "alamat": "JL SOEKARNO HATTA KILOMETER 9 KAMPUS BUMI TADULAKO",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.843239,
+      "longitude": 119.897373
+    },
+    {
+      "nama": "RS UMUM DAERAH BANGGAI",
+      "kode_rs": "7201011",
+      "tempat_tidur": 79,
+      "telepon": "(0451-4908020)",
+      "alamat": "JL. KM 7, ADEAN, KEC. BANGGAI TENGAH, KABUPATEN BANGGAI KEPULAUAN, SULAWESI TENGAH 94891",
+      "tipe": "",
+      "wilayah": "BANGGAI KEPULAUAN, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.638965,
+      "longitude": 123.52108
+    },
+    {
+      "nama": "RS WOODWARD",
+      "kode_rs": "7271040",
+      "tempat_tidur": 139,
+      "telepon": "(0451) 421769",
+      "alamat": "JL. L.H. WOODWARD NO.1 PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.903817,
+      "longitude": 119.872593
+    },
+    {
+      "nama": "RS UMUM DAERAH BULUYE NAPOAE MOUTONG",
+      "kode_rs": "7208115",
+      "tempat_tidur": 50,
+      "telepon": "0852-41429483",
+      "alamat": "JL. H. SAMSURIZAL TOMBOLOTUTU NO.1 SALUMPENGUT KEC. MOUTONG",
+      "tipe": "",
+      "wilayah": "PARIGI MOUTONG, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": 0.46879132,
+      "longitude": 121.17824226
+    },
+    {
+      "nama": "RS UMUM DAERAH TORA BELO",
+      "kode_rs": "7210002",
+      "tempat_tidur": 135,
+      "telepon": "0853-9777-5255",
+      "alamat": "JL. POROS PALU-PALOLO DESA SIDERA KEC SIGI BIROMARU",
+      "tipe": "",
+      "wilayah": "SIGI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.007896,
+      "longitude": 119.929842
+    },
+    {
+      "nama": "RS UMUM  SIS AL JUFRI PALU",
+      "kode_rs": "7271128",
+      "tempat_tidur": 66,
+      "telepon": "(0451) 426575",
+      "alamat": "JL.SIS ALJUFRI NO 72, PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.90326896,
+      "longitude": 119.85760665
+    },
+    {
+      "nama": "RS UMUM DAERAH AMPANA",
+      "kode_rs": "7209032",
+      "tempat_tidur": 193,
+      "telepon": "(0464) 21166",
+      "alamat": "JL. ST HASANUDIN NO. 32 AMPANA",
+      "tipe": "",
+      "wilayah": "TOJO UNA-UNA, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.870115,
+      "longitude": 121.570077
+    },
+    {
+      "nama": "RS PRATAMA DR. ABDUL CHALIK MASULILI",
+      "kode_rs": "7202016",
+      "tempat_tidur": 25,
+      "telepon": "",
+      "alamat": "JL. TRANS SULAWESI, TONGKONUNUK, PAGIMANA, KABUPATEN BANGGAI, SULAWESI TENGAH 94752",
+      "tipe": "",
+      "wilayah": "BANGGAI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.784971,
+      "longitude": 122.635197
+    },
+    {
+      "nama": "RS IBU DAN ANAK SITTI MASYITHAH",
+      "kode_rs": "7271084",
+      "tempat_tidur": 0,
+      "telepon": "(0451) 4016608",
+      "alamat": "JL. WR SUPRATMAN NO. 7 PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.690422,
+      "longitude": 120.434774
+    },
+    {
+      "nama": "RS UMUM PRATAMA TAMBU",
+      "kode_rs": "7205024",
+      "tempat_tidur": 35,
+      "telepon": "08114509411",
+      "alamat": "JL.MAPANE TAMBU. KEC. BASELANG",
+      "tipe": "",
+      "wilayah": "DONGGALA, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.039441,
+      "longitude": 119.879927
+    },
+    {
+      "nama": "RS SAMARITAN PALU",
+      "kode_rs": "7271132",
+      "tempat_tidur": 97,
+      "telepon": "(0451) 4010925",
+      "alamat": "JL. TOWUA NO 77 PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.92571129,
+      "longitude": 119.88113549
+    },
+    {
+      "nama": "RS TK 4 DR.YANTO.SP.OT",
+      "kode_rs": "7204044",
+      "tempat_tidur": 53,
+      "telepon": "(0452) 325343",
+      "alamat": "JL. TADULAKO NO.20, BONESOMPE, POSO KOTA UTARA, KABUPATEN POSO, SULAWESI TENGAH 94611",
+      "tipe": "",
+      "wilayah": "POSO, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.38649,
+      "longitude": 120.755908
+    },
+    {
+      "nama": "RS BHAYANGKARA PALU",
+      "kode_rs": "7271127",
+      "tempat_tidur": 93,
+      "telepon": "(0451) 429714",
+      "alamat": "JL. DR. SUHARSO LRG III, NO.02, BESUSU BARAT, PALU TIMUR, BESUSU BAR., KEC. PALU TIM., KOTA PALU, SULAWESI TENGAH 94118",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.889509,
+      "longitude": 119.868986
+    },
+    {
+      "nama": "RS IBU DAN ANAK DEFINA",
+      "kode_rs": "7208012",
+      "tempat_tidur": 35,
+      "telepon": "",
+      "alamat": "JL. TRANS SULAWESI NO.114, KAMPAL, PARIGI, KABUPATEN PARIGI MOUTONG, SULAWESI TENGAH 94471, INDONESIA",
+      "tipe": "",
+      "wilayah": "PARIGI MOUTONG, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.797033,
+      "longitude": 120.16328
+    },
+    {
+      "nama": "RS IBU DAN ANAK TINATAPURA",
+      "kode_rs": "7271116",
+      "tempat_tidur": 20,
+      "telepon": "(0451) 422870",
+      "alamat": "JL. RADEN SALEH 31 PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.886039,
+      "longitude": 119.871838
+    },
+    {
+      "nama": "RS UMUM DAERAH RAJA TOMBOLOTUTU",
+      "kode_rs": "7208013",
+      "tempat_tidur": 55,
+      "telepon": "(0454)610085",
+      "alamat": "TINOMBO, PARIGI MOUTONG REGENCY, CENTRAL SULAWESI 94475",
+      "tipe": "",
+      "wilayah": "PARIGI MOUTONG, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": 0.380661,
+      "longitude": 120.278155
+    },
+    {
+      "nama": "RS TK.IV WIRABUANA PALU",
+      "kode_rs": "7271025",
+      "tempat_tidur": 104,
+      "telepon": "(0451) 421575",
+      "alamat": "JL. SISINGA MANGARAJA NO.4,PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.895581,
+      "longitude": 119.887979
+    },
+    {
+      "nama": "RS UMUM DAERAH TRIKORA SALAKAN",
+      "kode_rs": "7201012",
+      "tempat_tidur": 72,
+      "telepon": "(0462) 2222118",
+      "alamat": "JLN. TRANS PELING KM. 5 NO. 1 TOMPUDAU, TINANGKUNG, KABUPATEN BANGGAI KEPULAUAN, SULAWESI TENGAH 94885",
+      "tipe": "",
+      "wilayah": "BANGGAI KEPULAUAN, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.337567,
+      "longitude": 123.287822
+    },
+    {
+      "nama": "RS IBU DAN ANAK NASANA PURA",
+      "kode_rs": "7271130",
+      "tempat_tidur": 46,
+      "telepon": "(0451) 488122",
+      "alamat": "JL. JEND. H. M. SOEHARTO NO. 10, PETOBO",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.937944,
+      "longitude": 119.901179
+    },
+    {
+      "nama": "RS IBU DAN ANAK CARE SHE",
+      "kode_rs": "7271131",
+      "tempat_tidur": 14,
+      "telepon": "(0451) 427291",
+      "alamat": "JL. MT HARYONO 24, BESUSU TENGAH, KEC. PALU TIM., PALU",
+      "tipe": "",
+      "wilayah": "KOTA PALU, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.891847,
+      "longitude": 119.875145
+    },
+    {
+      "nama": "RS UMUM HJ. ZUBAEDA BANTILAN",
+      "kode_rs": "7206014",
+      "tempat_tidur": 36,
+      "telepon": "",
+      "alamat": "JL. KESEHATAN NO. 6 DESA MALALA KEC. DONDO 91455",
+      "tipe": "",
+      "wilayah": "TOLITOLI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": 0.77051648,
+      "longitude": 120.54251044
+    },
+    {
+      "nama": "RS UMUM PRATAMA PAKU",
+      "kode_rs": "7203018",
+      "tempat_tidur": 5,
+      "telepon": "",
+      "alamat": "DESA LAKOMBULO KEC. BUNGKU SELATAN KAB. MOROWALI 7203018",
+      "tipe": "",
+      "wilayah": "MOROWALI, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -3.039631,
+      "longitude": 122.408454
+    },
+    {
+      "nama": "RS GKST TENTENA",
+      "kode_rs": "7204043",
+      "tempat_tidur": 44,
+      "telepon": "(0458) 21904",
+      "alamat": "JL. SETIA BUDI NO.98. TENTENA KEC.PAMONA PUSELEMBA",
+      "tipe": "",
+      "wilayah": "POSO, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -1.377841,
+      "longitude": 120.797869
+    },
+    {
+      "nama": "RS UMUM DAERAH KABELOTA",
+      "kode_rs": "7205022",
+      "tempat_tidur": 101,
+      "telepon": "(0457) 71892",
+      "alamat": "JL. TRANS PALU - DONGGALA KABONGA BESAR",
+      "tipe": "",
+      "wilayah": "DONGGALA, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.706097,
+      "longitude": 119.758708
+    },
+    {
+      "nama": "RS UMUM DAERAH BUOL",
+      "kode_rs": "7207013",
+      "tempat_tidur": 142,
+      "telepon": "",
+      "alamat": "JLN. DR. WAHIDIN SUDIROHUSODO NO.12 KEL. LEOK II  KEC. BIAU",
+      "tipe": "",
+      "wilayah": "BUOL, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": 1.182738,
+      "longitude": 121.459972
+    },
+    {
+      "nama": "RS UMUM DAERAH WAKAI",
+      "kode_rs": "7209002",
+      "tempat_tidur": 61,
+      "telepon": "NA",
+      "alamat": "DESA TANIMPO, KEC. UNA UNA",
+      "tipe": "NA",
+      "wilayah": "TOJO UNA-UNA, SULAWESI TENGAH",
+      "provinsi": "SULAWESI TENGAH",
+      "latitude": -0.4384,
+      "longitude": 121.890414
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Sulawesi Tengah — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Sulawesi Tengah menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 38 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Sulawesi Tengah — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Sulawesi Tengah — data Pusdatin Kemenkes — 38 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 38 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "id-kesenian-tradisional",
+  "name": "Kesenian Tradisional Indonesia per Provinsi",
+  "title": "Kesenian Tradisional Indonesia per Provinsi",
+  "description": "Bentuk kesenian dan tradisi daerah di Indonesia (didong, debus, wayang, dsb.) dengan deskripsi singkat, dikelompokkan per provinsi.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "deskripsi",
+      "label": "Deskripsi",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Didong",
+      "deskripsi": "seni pertunjukan dari masyarakat Gayo",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Meuseukee Eungkot",
+      "deskripsi": "tradisi di wilayah Aceh Barat",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Peusijuek",
+      "deskripsi": "atau Tepung tawar dalam tradisi Melayu",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Sikambang",
+      "deskripsi": "serangkaian alat musik etnis pesisir",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Ulos",
+      "deskripsi": "kain adat Batak yang digunakan dalam upacara-upacara perkawinan, kematian, mendirikan rumah, kesenian,dsb.",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Seni hias Singa-singa",
+      "deskripsi": "hiasan rumah orang batak toba",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Silek Harimau Minangkabau",
+      "deskripsi": "pencak silat di Minangkabau",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Saluang",
+      "deskripsi": "alat musik tradisional",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Limpapeh",
+      "deskripsi": "ukiran bunga yang sedang mekar",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "teater Makyong",
+      "deskripsi": "seni teater tradisional masyarakat Melayu yang sampai sekarang masih digemari dan sering dipertunjukkan sebagai dramatari dalam forum internasional.",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Kain tenun khas Riau",
+      "deskripsi": "Kain tenun khas Riau antara lain kain tenun Siak dari Siak Sri Indrapura, kain sutera corak lintang dari Siantan, serta kain sutera petak catur dan kain mastuli dari Daik Lingga.",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Kompangan",
+      "deskripsi": "Kompangan adalah kesenian tradisional Jambi yang mempergunakan alat musik rebana untuk mengiringi bacaan Sholawat Nabi.",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Batik Tulis Jambi",
+      "deskripsi": "Merupakan kain batik dengan motif khas Jambi",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Ukiran Akar Khas Jambi",
+      "deskripsi": "mebel ukiran berbentuk akar dan memiliki ciri khas yaitu tidak digunakannya paku pada pengerjaannya",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Upacara Mandi Shafar",
+      "deskripsi": "satu bentuk upacara ritual yang telah hidup dan berkembang di desa Air Hitamlaut Kabupaten Tanjung Jabung Timur.",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Dul Muluk",
+      "deskripsi": "teater tradisional yang berkembang di Sumatera Selatan.",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Wayang Palembang",
+      "deskripsi": "warisan dari kesenian Jawa yang ceritanya sama dengan wayang yang ada di Pulau Jawa, namun bahasa yang digunakan adalah bahasa Palembang",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Andi-andi",
+      "deskripsi": "seni sastra yang berupa nasihat.",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Sambei",
+      "deskripsi": "seni vokal khas suku Rejang,biasanya untuk pesta perkawinan",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Batik Besurek",
+      "deskripsi": "kain batik yang dihiasi huruf-huruf Arab gundul",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "kain tenun tapis lampung",
+      "deskripsi": "kain tenun bersulam benang emas yang indah.",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Festival Topeng Sekura",
+      "deskripsi": "Festival ini dilakukan dengan sebuah tarian yang bernama tarian sekura, yang merupakan wujud kebahagiaan umat muslim setelah sebulan berpuasa.",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Festival Krakatau",
+      "deskripsi": "Festival ini pada dasarnya dilakukan untuk memperingati letusan Gunung Krakatau di tahun 1883",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "Dambus",
+      "deskripsi": "musik etnik melayu",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Teater Makyong",
+      "deskripsi": "Teater Makyong di Kabupaten Bintan tepatnya di Pulau Mantang, Pulau Panjang, Batam",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Teater Mendu",
+      "deskripsi": "Teater Mendu di Kabupaten Ranai tepatnya di Kecamatan Sedanau dan Ranai",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Teater Lang-lang Buana",
+      "deskripsi": "Teater Lang-lang Buana di Kabupaten Natuna tepatnya di Ranai",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Wayang Bangsawan",
+      "deskripsi": "Wayang Bangsawan di Daik Lingga, Dabo Singkep, Pulau Penyengat",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "Gambang kromong",
+      "deskripsi": "merupakan salah satu musik khas dari kesenian Betawi yang paling terkenal",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Orkes samrah",
+      "deskripsi": "kesenian Betawi yangdalam bentuk orkes yang mendapat pengaruh dari suku Melayu",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Tanjidor",
+      "deskripsi": "sebuah kesenian Betawi yang berbentuk orkes",
+      "provinsi": "DKI Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "kuda renggong",
+      "deskripsi": "seni pertunjukan rakyat yang berbentuk seni pawai",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "sisingaan",
+      "deskripsi": "keterampilan memainkan tandu berisi boneka singa",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Angklung dan Calung",
+      "deskripsi": "Alat Musik tradisional dari bambu",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Gamelan",
+      "deskripsi": "Seperangkat alat musik",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Wayang Golek",
+      "deskripsi": "wayang berbentuk boneka",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Dugder",
+      "deskripsi": "upacara tradisi semarang",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Batik",
+      "deskripsi": "satu cara pembuatan bahan pakaian",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Wayang Purwo",
+      "deskripsi": "bentuk pementasan Wayang Kulit",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Gamelan",
+      "deskripsi": "Seperangkat alat musik dari Jawa",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Langen Mandra Wanara",
+      "deskripsi": "kombinasi antara berbagai jenis tarian, tembang, drama dan irama gamelan",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Ketoprak",
+      "deskripsi": "drama tradisional yang diperagakan oleh sebuah grup kesenian dan digelarkan di sebuah panggun",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Wayang Kulit",
+      "deskripsi": "bentuk pementasan Wayang Kulit",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Sendratari Ramayana",
+      "deskripsi": "pertunjukan seni tari tanpa dialog yang menceritakan tentang cerita Ramayana",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Ludruk",
+      "deskripsi": "salah satu kesenian Jawa Timuran yang cukup terkenal, yakni seni panggung yang umumnya seluruh pemainnya adalah laki-laki",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Singo Wulung",
+      "deskripsi": "kebudayaan khas Bondowoso",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Macan kadhuk",
+      "deskripsi": "kebudayaan khas Jember",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Angklung buhun",
+      "deskripsi": "alat musik tradisional khas Kabupaten Lebak, Provinsi Banten",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Bendrong Lesung",
+      "deskripsi": "salah satu kesenian tradisional masyarakat Cilegon-Banten menyambut panen raya",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Debus",
+      "deskripsi": "pertunjukan kekebalan tubuh berkembang di kabupaten lebak, pandeglang, kota cilegon dan kota serang",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Seni Saman / Dzikir Maulud",
+      "deskripsi": "kesenian tradisional rakyat Banten khususnya di Kabupaten Pandeglang yang menggunakan media gerak dan lagu (vokal) dan syair-syair yang dilantunkan mengagungkan Asma Allah dan pujian kepada Nabi Muhammad SAW.",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Gambelan “Jegog”",
+      "deskripsi": "gambelan (alat musik) yang terbuat dari pohon bambu berukuran besar yang dibentuk sedemikian rupa sehingga menjadi seperangkat alat musik bambu yang suaranya sangat merdu dan menawan hati.",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Genjek",
+      "deskripsi": "seni tari dengan musik vokal, di dalamnya berisikan untaian lagu-lagu daerah yang dikemas dengan nada dan gerak-gerik yang kocak, mengundang ketawa.",
+      "provinsi": "Bali",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "Barapan kebo",
+      "deskripsi": "Karapan Kerbau",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Upacara U’a Pua",
+      "deskripsi": "Upacara U’a Pua dilaksanakan bersamaan dengan Peringatan Maulid Nabi Muhammad SAW yang juga dirangkai dengan penampilan atraksi Seni Budaya masyarakat Suku Mbojo (Bima) yang berlangsung selama 7 hari.",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Perang Topat",
+      "deskripsi": "upacara ritual sebagai perwujudan rasa terima kasih kepada tuhan atas kemakmuran berupa tanah yang subur, banyak hujan",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Nyale",
+      "deskripsi": "upacara perburuan cacing laut untuk menyambut Pasola",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama": "Sasando",
+      "deskripsi": "Instrumen musik petik",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "Pasola",
+      "deskripsi": "permainan lempar lembing dari atas kuda",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    }
+  ],
+  "meta": {
+    "title": "Kesenian Tradisional Indonesia per Provinsi - Unduh Gratis",
+    "description": "Bentuk kesenian dan tradisi daerah di Indonesia (didong, debus, wayang, dsb.) dengan deskripsi singkat, dikelompokkan per provinsi. Berisi 59 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Kesenian Tradisional Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Kesenian Tradisional Indonesia per Provinsi — 59 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 59 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

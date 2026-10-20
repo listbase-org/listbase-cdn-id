@@ -1,0 +1,393 @@
+{
+  "id": "id-sumatera-selatan-islands",
+  "name": "Daftar Pulau di Provinsi Sumatera Selatan",
+  "title": "Daftar Pulau di Provinsi Sumatera Selatan",
+  "description": "Daftar pulau di Provinsi Sumatera Selatan, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 24 pulau.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "coordinate_dms",
+      "label": "Coordinate Dms",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "is_populated",
+      "label": "Is Populated",
+      "type": "boolean"
+    },
+    {
+      "key": "is_outermost_small",
+      "label": "Is Outermost Small",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "code": "16.00.40001",
+      "regency_code": "",
+      "regency_name": "",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Meba",
+      "coordinate_dms": "03°02'14.61\" S 104°37'12.15\" E",
+      "latitude": -3.037392,
+      "longitude": 104.620042,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.02.40001",
+      "regency_code": "16.02",
+      "regency_name": "Kabupaten Ogan Komering Ilir",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Maspari",
+      "coordinate_dms": "03°13'09.99\" S 106°13'01.99\" E",
+      "latitude": -3.219442,
+      "longitude": 106.217219,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40001",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Betet",
+      "coordinate_dms": "01°45'41.00\" S 104°31'14.00\" E",
+      "latitude": -1.761389,
+      "longitude": 104.520556,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40002",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Borang",
+      "coordinate_dms": "02°54'38.99\" S 104°52'50.00\" E",
+      "latitude": -2.910831,
+      "longitude": 104.880556,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40003",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Brendam",
+      "coordinate_dms": "02°31'54.99\" S 104°25'19.99\" E",
+      "latitude": -2.531942,
+      "longitude": 104.422219,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40004",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Burung",
+      "coordinate_dms": "02°51'43.05\" S 104°53'55.16\" E",
+      "latitude": -2.861958,
+      "longitude": 104.898656,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40005",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Deltaaersalek",
+      "coordinate_dms": "02°29'33.00\" S 104°58'21.00\" E",
+      "latitude": -2.4925,
+      "longitude": 104.9725,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40006",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Deltaaersugihan",
+      "coordinate_dms": "02°24'12.22\" S 105°04'13.55\" E",
+      "latitude": -2.403394,
+      "longitude": 105.070431,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40007",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Deltatelang",
+      "coordinate_dms": "02°36'04.00\" S 104°52'23.99\" E",
+      "latitude": -2.601111,
+      "longitude": 104.873331,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40008",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Deltaupang",
+      "coordinate_dms": "02°33'49.00\" S 104°56'35.99\" E",
+      "latitude": -2.563611,
+      "longitude": 104.943331,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40009",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Gundul",
+      "coordinate_dms": "02°39'52.99\" S 104°56'34.00\" E",
+      "latitude": -2.664719,
+      "longitude": 104.942778,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40010",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Kalong",
+      "coordinate_dms": "02°36'12.70\" S 104°21'10.41\" E",
+      "latitude": -2.603528,
+      "longitude": 104.352892,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40011",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Kramat",
+      "coordinate_dms": "02°31'07.66\" S 104°56'07.44\" E",
+      "latitude": -2.518794,
+      "longitude": 104.9354,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40012",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Lopak Besak",
+      "coordinate_dms": "02°21'33.99\" S 104°42'23.00\" E",
+      "latitude": -2.359442,
+      "longitude": 104.706389,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40013",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Lopak Kecik Pulo",
+      "coordinate_dms": "02°21'36.01\" S 104°42'09.31\" E",
+      "latitude": -2.360003,
+      "longitude": 104.702586,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40014",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Payung",
+      "coordinate_dms": "02°22'16.00\" S 104°55'09.59\" E",
+      "latitude": -2.371111,
+      "longitude": 104.919331,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40015",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Salahnamo",
+      "coordinate_dms": "02°57'29.00\" S 104°52'16.00\" E",
+      "latitude": -2.958056,
+      "longitude": 104.871111,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40016",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Selatcemara",
+      "coordinate_dms": "02°31'51.84\" S 104°56'03.39\" E",
+      "latitude": -2.531067,
+      "longitude": 104.934275,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40017",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Singgris",
+      "coordinate_dms": "02°33'47.00\" S 104°55'50.00\" E",
+      "latitude": -2.563056,
+      "longitude": 104.930556,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40018",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Srijaya",
+      "coordinate_dms": "03°02'12.99\" S 104°31'23.65\" E",
+      "latitude": -3.036942,
+      "longitude": 104.523236,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40019",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulo Alanggantang",
+      "coordinate_dms": "01°55'41.99\" S 104°34'10.99\" E",
+      "latitude": -1.928331,
+      "longitude": 104.569719,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.07.40020",
+      "regency_code": "16.07",
+      "regency_name": "Kabupaten Banyuasin",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulo Alangtikus",
+      "coordinate_dms": "02°19'58.72\" S 104°45'55.42\" E",
+      "latitude": -2.332978,
+      "longitude": 104.765394,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.71.40001",
+      "regency_code": "16.71",
+      "regency_name": "Kota Palembang",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Kemaro",
+      "coordinate_dms": "02°58'45.99\" S 104°49'16.00\" E",
+      "latitude": -2.979442,
+      "longitude": 104.821111,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "16.71.40002",
+      "regency_code": "16.71",
+      "regency_name": "Kota Palembang",
+      "province_code": "16",
+      "province_name": "Sumatera Selatan",
+      "name": "Pulau Pulokerto",
+      "coordinate_dms": "03°01'58.00\" S 104°39'41.00\" E",
+      "latitude": -3.032778,
+      "longitude": 104.661389,
+      "is_populated": true,
+      "is_outermost_small": false
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pulau di Provinsi Sumatera Selatan - Unduh Gratis",
+    "description": "Daftar pulau di Provinsi Sumatera Selatan, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 24 pulau. Berisi 24 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Pulau di Provinsi Sumatera Selatan | ListBase",
+    "seo_description": "Unduh Daftar Pulau di Provinsi Sumatera Selatan — 24 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 24 rekaman / 11 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

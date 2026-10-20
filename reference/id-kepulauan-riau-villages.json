@@ -1,0 +1,4256 @@
+{
+  "id": "id-kepulauan-riau-villages",
+  "name": "Daftar Desa dan Kelurahan di Kepulauan Riau",
+  "title": "Daftar Desa dan Kelurahan di Kepulauan Riau",
+  "description": "Daftar desa dan kelurahan di Provinsi Kepulauan Riau (419 entri) dengan kode wilayah Kepmendagri dan hierarki kecamatan serta kabupaten/kota. Subset provinsi dari id-villages.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 419,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district_name",
+      "label": "District Name",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "21.01.04.1005",
+      "district_code": "21.01.04",
+      "district_name": "Gunung Kijang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kawal"
+    },
+    {
+      "code": "21.01.04.2001",
+      "district_code": "21.01.04",
+      "district_name": "Gunung Kijang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gunung Kijang"
+    },
+    {
+      "code": "21.01.04.2002",
+      "district_code": "21.01.04",
+      "district_name": "Gunung Kijang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Malang Rapat"
+    },
+    {
+      "code": "21.01.04.2003",
+      "district_code": "21.01.04",
+      "district_name": "Gunung Kijang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Bakau"
+    },
+    {
+      "code": "21.01.06.1008",
+      "district_code": "21.01.06",
+      "district_name": "Bintan Timur",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kijang Kota"
+    },
+    {
+      "code": "21.01.06.1009",
+      "district_code": "21.01.06",
+      "district_name": "Bintan Timur",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Lekop"
+    },
+    {
+      "code": "21.01.06.1010",
+      "district_code": "21.01.06",
+      "district_name": "Bintan Timur",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gunung Lengkuas"
+    },
+    {
+      "code": "21.01.06.1011",
+      "district_code": "21.01.06",
+      "district_name": "Bintan Timur",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Enam"
+    },
+    {
+      "code": "21.01.07.1001",
+      "district_code": "21.01.07",
+      "district_name": "Bintan Utara",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Uban Kota"
+    },
+    {
+      "code": "21.01.07.1002",
+      "district_code": "21.01.07",
+      "district_name": "Bintan Utara",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Uban Utara"
+    },
+    {
+      "code": "21.01.07.1003",
+      "district_code": "21.01.07",
+      "district_name": "Bintan Utara",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Uban Selatan"
+    },
+    {
+      "code": "21.01.07.1011",
+      "district_code": "21.01.07",
+      "district_name": "Bintan Utara",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Uban Timur"
+    },
+    {
+      "code": "21.01.07.2005",
+      "district_code": "21.01.07",
+      "district_name": "Bintan Utara",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lancang Kuning"
+    },
+    {
+      "code": "21.01.08.1006",
+      "district_code": "21.01.08",
+      "district_name": "Teluk Bintan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tembeling Tanjung"
+    },
+    {
+      "code": "21.01.08.2001",
+      "district_code": "21.01.08",
+      "district_name": "Teluk Bintan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bintan Buyu"
+    },
+    {
+      "code": "21.01.08.2002",
+      "district_code": "21.01.08",
+      "district_name": "Teluk Bintan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pangkil"
+    },
+    {
+      "code": "21.01.08.2003",
+      "district_code": "21.01.08",
+      "district_name": "Teluk Bintan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Penaga"
+    },
+    {
+      "code": "21.01.08.2004",
+      "district_code": "21.01.08",
+      "district_name": "Teluk Bintan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pengujan"
+    },
+    {
+      "code": "21.01.08.2005",
+      "district_code": "21.01.08",
+      "district_name": "Teluk Bintan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tembeling"
+    },
+    {
+      "code": "21.01.09.1001",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Sekuni"
+    },
+    {
+      "code": "21.01.09.2002",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Lepuk"
+    },
+    {
+      "code": "21.01.09.2003",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Hilir"
+    },
+    {
+      "code": "21.01.09.2004",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Melayu"
+    },
+    {
+      "code": "21.01.09.2005",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Mentebung"
+    },
+    {
+      "code": "21.01.09.2006",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Pinang"
+    },
+    {
+      "code": "21.01.09.2007",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kukup"
+    },
+    {
+      "code": "21.01.09.2008",
+      "district_code": "21.01.09",
+      "district_name": "Tambelan",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pengikik"
+    },
+    {
+      "code": "21.01.10.1007",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kota Baru"
+    },
+    {
+      "code": "21.01.10.2001",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Berakit"
+    },
+    {
+      "code": "21.01.10.2002",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ekang Anculai"
+    },
+    {
+      "code": "21.01.10.2003",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pengudang"
+    },
+    {
+      "code": "21.01.10.2004",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sebong Lagoi"
+    },
+    {
+      "code": "21.01.10.2005",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sebong Pereh"
+    },
+    {
+      "code": "21.01.10.2006",
+      "district_code": "21.01.10",
+      "district_name": "Teluk Sebong",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sri Bintan"
+    },
+    {
+      "code": "21.01.12.1004",
+      "district_code": "21.01.12",
+      "district_name": "Toapaya",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Toapaya Asri"
+    },
+    {
+      "code": "21.01.12.2001",
+      "district_code": "21.01.12",
+      "district_name": "Toapaya",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Toapaya"
+    },
+    {
+      "code": "21.01.12.2002",
+      "district_code": "21.01.12",
+      "district_name": "Toapaya",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Toapaya Utara"
+    },
+    {
+      "code": "21.01.12.2003",
+      "district_code": "21.01.12",
+      "district_name": "Toapaya",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Toapaya Selatan"
+    },
+    {
+      "code": "21.01.13.2001",
+      "district_code": "21.01.13",
+      "district_name": "Mantang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mantang Baru"
+    },
+    {
+      "code": "21.01.13.2002",
+      "district_code": "21.01.13",
+      "district_name": "Mantang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mantang Besar"
+    },
+    {
+      "code": "21.01.13.2003",
+      "district_code": "21.01.13",
+      "district_name": "Mantang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mantang Lama"
+    },
+    {
+      "code": "21.01.13.2004",
+      "district_code": "21.01.13",
+      "district_name": "Mantang",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Dendun"
+    },
+    {
+      "code": "21.01.14.2001",
+      "district_code": "21.01.14",
+      "district_name": "Bintan Pesisir",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelong"
+    },
+    {
+      "code": "21.01.14.2002",
+      "district_code": "21.01.14",
+      "district_name": "Bintan Pesisir",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mapur"
+    },
+    {
+      "code": "21.01.14.2003",
+      "district_code": "21.01.14",
+      "district_name": "Bintan Pesisir",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Numbing"
+    },
+    {
+      "code": "21.01.14.2004",
+      "district_code": "21.01.14",
+      "district_name": "Bintan Pesisir",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Gelubi"
+    },
+    {
+      "code": "21.01.15.1003",
+      "district_code": "21.01.15",
+      "district_name": "Seri Kuala Lobam",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Lobam"
+    },
+    {
+      "code": "21.01.15.1005",
+      "district_code": "21.01.15",
+      "district_name": "Seri Kuala Lobam",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Permai"
+    },
+    {
+      "code": "21.01.15.2001",
+      "district_code": "21.01.15",
+      "district_name": "Seri Kuala Lobam",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Busung"
+    },
+    {
+      "code": "21.01.15.2002",
+      "district_code": "21.01.15",
+      "district_name": "Seri Kuala Lobam",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Sasah"
+    },
+    {
+      "code": "21.01.15.2004",
+      "district_code": "21.01.15",
+      "district_name": "Seri Kuala Lobam",
+      "regency_code": "21.01",
+      "regency_name": "Kabupaten Bintan",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kuala Sempang"
+    },
+    {
+      "code": "21.02.01.1003",
+      "district_code": "21.02.01",
+      "district_name": "Moro",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Moro"
+    },
+    {
+      "code": "21.02.01.1010",
+      "district_code": "21.02.01",
+      "district_name": "Moro",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Moro Timur"
+    },
+    {
+      "code": "21.02.01.2004",
+      "district_code": "21.02.01",
+      "district_name": "Moro",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pauh"
+    },
+    {
+      "code": "21.02.01.2009",
+      "district_code": "21.02.01",
+      "district_name": "Moro",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Jang"
+    },
+    {
+      "code": "21.02.01.2014",
+      "district_code": "21.02.01",
+      "district_name": "Moro",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Moro"
+    },
+    {
+      "code": "21.02.02.1001",
+      "district_code": "21.02.02",
+      "district_name": "Kundur",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Batu Barat"
+    },
+    {
+      "code": "21.02.02.1002",
+      "district_code": "21.02.02",
+      "district_name": "Kundur",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Batu Kota"
+    },
+    {
+      "code": "21.02.02.1009",
+      "district_code": "21.02.02",
+      "district_name": "Kundur",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gading Sari"
+    },
+    {
+      "code": "21.02.02.2004",
+      "district_code": "21.02.02",
+      "district_name": "Kundur",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Sebesi"
+    },
+    {
+      "code": "21.02.02.2005",
+      "district_code": "21.02.02",
+      "district_name": "Kundur",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Ungar"
+    },
+    {
+      "code": "21.02.02.2006",
+      "district_code": "21.02.02",
+      "district_name": "Kundur",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lubuk"
+    },
+    {
+      "code": "21.02.03.1001",
+      "district_code": "21.02.03",
+      "district_name": "Karimun",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Balai"
+    },
+    {
+      "code": "21.02.03.1002",
+      "district_code": "21.02.03",
+      "district_name": "Karimun",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Air"
+    },
+    {
+      "code": "21.02.03.1003",
+      "district_code": "21.02.03",
+      "district_name": "Karimun",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Lakam Timur"
+    },
+    {
+      "code": "21.02.03.1006",
+      "district_code": "21.02.03",
+      "district_name": "Karimun",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lubuk Semut"
+    },
+    {
+      "code": "21.02.03.1007",
+      "district_code": "21.02.03",
+      "district_name": "Karimun",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Balai Kota"
+    },
+    {
+      "code": "21.02.03.1008",
+      "district_code": "21.02.03",
+      "district_name": "Karimun",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Lakam Barat"
+    },
+    {
+      "code": "21.02.04.1001",
+      "district_code": "21.02.04",
+      "district_name": "Meral",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Meral Kota"
+    },
+    {
+      "code": "21.02.04.1002",
+      "district_code": "21.02.04",
+      "district_name": "Meral",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Baran Barat"
+    },
+    {
+      "code": "21.02.04.1003",
+      "district_code": "21.02.04",
+      "district_name": "Meral",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Raya"
+    },
+    {
+      "code": "21.02.04.1006",
+      "district_code": "21.02.04",
+      "district_name": "Meral",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Baran Timur"
+    },
+    {
+      "code": "21.02.04.1007",
+      "district_code": "21.02.04",
+      "district_name": "Meral",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Pasir"
+    },
+    {
+      "code": "21.02.04.1008",
+      "district_code": "21.02.04",
+      "district_name": "Meral",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Parit Benut"
+    },
+    {
+      "code": "21.02.05.1001",
+      "district_code": "21.02.05",
+      "district_name": "Tebing",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tebing"
+    },
+    {
+      "code": "21.02.05.1002",
+      "district_code": "21.02.05",
+      "district_name": "Tebing",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Uma"
+    },
+    {
+      "code": "21.02.05.1003",
+      "district_code": "21.02.05",
+      "district_name": "Tebing",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kapling"
+    },
+    {
+      "code": "21.02.05.1004",
+      "district_code": "21.02.05",
+      "district_name": "Tebing",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pamak"
+    },
+    {
+      "code": "21.02.05.1008",
+      "district_code": "21.02.05",
+      "district_name": "Tebing",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Harjosari"
+    },
+    {
+      "code": "21.02.05.2007",
+      "district_code": "21.02.05",
+      "district_name": "Tebing",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pongkar"
+    },
+    {
+      "code": "21.02.06.1001",
+      "district_code": "21.02.06",
+      "district_name": "Buru",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Buru"
+    },
+    {
+      "code": "21.02.06.1002",
+      "district_code": "21.02.06",
+      "district_name": "Buru",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lubuk Puding"
+    },
+    {
+      "code": "21.02.06.2003",
+      "district_code": "21.02.06",
+      "district_name": "Buru",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Hutan"
+    },
+    {
+      "code": "21.02.06.2004",
+      "district_code": "21.02.06",
+      "district_name": "Buru",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Batu Kecil"
+    },
+    {
+      "code": "21.02.07.1012",
+      "district_code": "21.02.07",
+      "district_name": "Kundur Utara",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Berlian Kota"
+    },
+    {
+      "code": "21.02.07.2003",
+      "district_code": "21.02.07",
+      "district_name": "Kundur Utara",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Ungar Utara"
+    },
+    {
+      "code": "21.02.07.2004",
+      "district_code": "21.02.07",
+      "district_name": "Kundur Utara",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Radang"
+    },
+    {
+      "code": "21.02.07.2010",
+      "district_code": "21.02.07",
+      "district_name": "Kundur Utara",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Perayun"
+    },
+    {
+      "code": "21.02.07.2013",
+      "district_code": "21.02.07",
+      "district_name": "Kundur Utara",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Berlian Barat"
+    },
+    {
+      "code": "21.02.08.1001",
+      "district_code": "21.02.08",
+      "district_name": "Kundur Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sawang"
+    },
+    {
+      "code": "21.02.08.2002",
+      "district_code": "21.02.08",
+      "district_name": "Kundur Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sawang Selatan"
+    },
+    {
+      "code": "21.02.08.2003",
+      "district_code": "21.02.08",
+      "district_name": "Kundur Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sawang Laut"
+    },
+    {
+      "code": "21.02.08.2004",
+      "district_code": "21.02.08",
+      "district_name": "Kundur Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kundur"
+    },
+    {
+      "code": "21.02.08.2005",
+      "district_code": "21.02.08",
+      "district_name": "Kundur Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gemuruh"
+    },
+    {
+      "code": "21.02.09.2002",
+      "district_code": "21.02.09",
+      "district_name": "Durai",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sanglar"
+    },
+    {
+      "code": "21.02.09.2003",
+      "district_code": "21.02.09",
+      "district_name": "Durai",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Kilang"
+    },
+    {
+      "code": "21.02.09.2004",
+      "district_code": "21.02.09",
+      "district_name": "Durai",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Semembang"
+    },
+    {
+      "code": "21.02.09.2005",
+      "district_code": "21.02.09",
+      "district_name": "Durai",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Telaga Tujuh"
+    },
+    {
+      "code": "21.02.10.1001",
+      "district_code": "21.02.10",
+      "district_name": "Meral Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pasir Panjang"
+    },
+    {
+      "code": "21.02.10.1002",
+      "district_code": "21.02.10",
+      "district_name": "Meral Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Darussalam"
+    },
+    {
+      "code": "21.02.10.2003",
+      "district_code": "21.02.10",
+      "district_name": "Meral Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pangke"
+    },
+    {
+      "code": "21.02.10.2004",
+      "district_code": "21.02.10",
+      "district_name": "Meral Barat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pangke Barat"
+    },
+    {
+      "code": "21.02.11.1001",
+      "district_code": "21.02.11",
+      "district_name": "Ungar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Alai"
+    },
+    {
+      "code": "21.02.11.2002",
+      "district_code": "21.02.11",
+      "district_name": "Ungar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Limau"
+    },
+    {
+      "code": "21.02.11.2003",
+      "district_code": "21.02.11",
+      "district_name": "Ungar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ngal"
+    },
+    {
+      "code": "21.02.11.2004",
+      "district_code": "21.02.11",
+      "district_name": "Ungar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": "21.02.12.2001",
+      "district_code": "21.02.12",
+      "district_name": "Belat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sebele"
+    },
+    {
+      "code": "21.02.12.2002",
+      "district_code": "21.02.12",
+      "district_name": "Belat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lebuh"
+    },
+    {
+      "code": "21.02.12.2003",
+      "district_code": "21.02.12",
+      "district_name": "Belat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Penarah"
+    },
+    {
+      "code": "21.02.12.2004",
+      "district_code": "21.02.12",
+      "district_name": "Belat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Asam"
+    },
+    {
+      "code": "21.02.12.2005",
+      "district_code": "21.02.12",
+      "district_name": "Belat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tebias"
+    },
+    {
+      "code": "21.02.12.2006",
+      "district_code": "21.02.12",
+      "district_name": "Belat",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Degong"
+    },
+    {
+      "code": "21.02.13.2001",
+      "district_code": "21.02.13",
+      "district_name": "Selat Gelam",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Parit"
+    },
+    {
+      "code": "21.02.13.2002",
+      "district_code": "21.02.13",
+      "district_name": "Selat Gelam",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tulang"
+    },
+    {
+      "code": "21.02.13.2003",
+      "district_code": "21.02.13",
+      "district_name": "Selat Gelam",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Selat Mendaun"
+    },
+    {
+      "code": "21.02.14.2001",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sugie"
+    },
+    {
+      "code": "21.02.14.2002",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Niur Permai"
+    },
+    {
+      "code": "21.02.14.2003",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Keban"
+    },
+    {
+      "code": "21.02.14.2004",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Rawa Jaya"
+    },
+    {
+      "code": "21.02.14.2005",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Pelanduk"
+    },
+    {
+      "code": "21.02.14.2006",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Buluh Patah"
+    },
+    {
+      "code": "21.02.14.2007",
+      "district_code": "21.02.14",
+      "district_name": "Sugie Besar",
+      "regency_code": "21.02",
+      "regency_name": "Kabupaten Karimun",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Selat Mie"
+    },
+    {
+      "code": "21.03.04.1003",
+      "district_code": "21.03.04",
+      "district_name": "Midai",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sabang Barat"
+    },
+    {
+      "code": "21.03.04.2001",
+      "district_code": "21.03.04",
+      "district_name": "Midai",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sebelat"
+    },
+    {
+      "code": "21.03.04.2005",
+      "district_code": "21.03.04",
+      "district_name": "Midai",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Putih"
+    },
+    {
+      "code": "21.03.05.1008",
+      "district_code": "21.03.05",
+      "district_name": "Bunguran Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sedanau"
+    },
+    {
+      "code": "21.03.05.2007",
+      "district_code": "21.03.05",
+      "district_name": "Bunguran Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mekar Jaya"
+    },
+    {
+      "code": "21.03.05.2012",
+      "district_code": "21.03.05",
+      "district_name": "Bunguran Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Binjai"
+    },
+    {
+      "code": "21.03.05.2013",
+      "district_code": "21.03.05",
+      "district_name": "Bunguran Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Piantengah"
+    },
+    {
+      "code": "21.03.05.2015",
+      "district_code": "21.03.05",
+      "district_name": "Bunguran Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Selaut"
+    },
+    {
+      "code": "21.03.06.1003",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Serasan"
+    },
+    {
+      "code": "21.03.06.2002",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Hilir"
+    },
+    {
+      "code": "21.03.06.2005",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Berlian"
+    },
+    {
+      "code": "21.03.06.2006",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Setelung"
+    },
+    {
+      "code": "21.03.06.2007",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Balau"
+    },
+    {
+      "code": "21.03.06.2010",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pangkalan"
+    },
+    {
+      "code": "21.03.06.2011",
+      "district_code": "21.03.06",
+      "district_name": "Serasan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Jermalik"
+    },
+    {
+      "code": "21.03.07.1011",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ranai Kota"
+    },
+    {
+      "code": "21.03.07.1016",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ranai Darat"
+    },
+    {
+      "code": "21.03.07.1017",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bandarsyah"
+    },
+    {
+      "code": "21.03.07.1019",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Hitam"
+    },
+    {
+      "code": "21.03.07.2002",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Ulu"
+    },
+    {
+      "code": "21.03.07.2004",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sepempang"
+    },
+    {
+      "code": "21.03.07.2014",
+      "district_code": "21.03.07",
+      "district_name": "Bunguran Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Gajah"
+    },
+    {
+      "code": "21.03.08.2001",
+      "district_code": "21.03.08",
+      "district_name": "Bunguran Utara",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelarik Utara"
+    },
+    {
+      "code": "21.03.08.2002",
+      "district_code": "21.03.08",
+      "district_name": "Bunguran Utara",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelarik"
+    },
+    {
+      "code": "21.03.08.2004",
+      "district_code": "21.03.08",
+      "district_name": "Bunguran Utara",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelarik Air Mali"
+    },
+    {
+      "code": "21.03.08.2005",
+      "district_code": "21.03.08",
+      "district_name": "Bunguran Utara",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Buton"
+    },
+    {
+      "code": "21.03.08.2006",
+      "district_code": "21.03.08",
+      "district_name": "Bunguran Utara",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Belakang Gunung"
+    },
+    {
+      "code": "21.03.08.2008",
+      "district_code": "21.03.08",
+      "district_name": "Bunguran Utara",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gunung Durian"
+    },
+    {
+      "code": "21.03.09.2001",
+      "district_code": "21.03.09",
+      "district_name": "Subi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Subi"
+    },
+    {
+      "code": "21.03.09.2002",
+      "district_code": "21.03.09",
+      "district_name": "Subi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Subi Besar"
+    },
+    {
+      "code": "21.03.09.2003",
+      "district_code": "21.03.09",
+      "district_name": "Subi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Meliah"
+    },
+    {
+      "code": "21.03.09.2005",
+      "district_code": "21.03.09",
+      "district_name": "Subi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Terayak"
+    },
+    {
+      "code": "21.03.09.2007",
+      "district_code": "21.03.09",
+      "district_name": "Subi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Subi Besar Timur"
+    },
+    {
+      "code": "21.03.09.2008",
+      "district_code": "21.03.09",
+      "district_name": "Subi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Meliah Selatan"
+    },
+    {
+      "code": "21.03.10.2001",
+      "district_code": "21.03.10",
+      "district_name": "Pulau Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Pala"
+    },
+    {
+      "code": "21.03.10.2002",
+      "district_code": "21.03.10",
+      "district_name": "Pulau Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Payang"
+    },
+    {
+      "code": "21.03.10.2003",
+      "district_code": "21.03.10",
+      "district_name": "Pulau Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kadur"
+    },
+    {
+      "code": "21.03.11.2001",
+      "district_code": "21.03.11",
+      "district_name": "Pulau Tiga",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sabang Mawang"
+    },
+    {
+      "code": "21.03.11.2003",
+      "district_code": "21.03.11",
+      "district_name": "Pulau Tiga",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sededap"
+    },
+    {
+      "code": "21.03.11.2004",
+      "district_code": "21.03.11",
+      "district_name": "Pulau Tiga",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Batang"
+    },
+    {
+      "code": "21.03.11.2005",
+      "district_code": "21.03.11",
+      "district_name": "Pulau Tiga",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Serantas"
+    },
+    {
+      "code": "21.03.11.2006",
+      "district_code": "21.03.11",
+      "district_name": "Pulau Tiga",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sabang Mawang Barat"
+    },
+    {
+      "code": "21.03.11.2010",
+      "district_code": "21.03.11",
+      "district_name": "Pulau Tiga",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Labuh"
+    },
+    {
+      "code": "21.03.15.2001",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung"
+    },
+    {
+      "code": "21.03.15.2002",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ceruk"
+    },
+    {
+      "code": "21.03.15.2003",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelanga"
+    },
+    {
+      "code": "21.03.15.2004",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pengadah"
+    },
+    {
+      "code": "21.03.15.2005",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sebadai Ulu"
+    },
+    {
+      "code": "21.03.15.2006",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Limau Manis"
+    },
+    {
+      "code": "21.03.15.2007",
+      "district_code": "21.03.15",
+      "district_name": "Bunguran Timur Laut",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Seleman"
+    },
+    {
+      "code": "21.03.16.2001",
+      "district_code": "21.03.16",
+      "district_name": "Bunguran Tengah",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tapau"
+    },
+    {
+      "code": "21.03.16.2002",
+      "district_code": "21.03.16",
+      "district_name": "Bunguran Tengah",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Harapan Jaya"
+    },
+    {
+      "code": "21.03.16.2003",
+      "district_code": "21.03.16",
+      "district_name": "Bunguran Tengah",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Lengit"
+    },
+    {
+      "code": "21.03.18.2001",
+      "district_code": "21.03.18",
+      "district_name": "Bunguran Selatan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Cemaga"
+    },
+    {
+      "code": "21.03.18.2002",
+      "district_code": "21.03.18",
+      "district_name": "Bunguran Selatan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Cemaga Selatan (Setengar)"
+    },
+    {
+      "code": "21.03.18.2003",
+      "district_code": "21.03.18",
+      "district_name": "Bunguran Selatan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Cemaga Utara (Singgang Bulan)"
+    },
+    {
+      "code": "21.03.18.2004",
+      "district_code": "21.03.18",
+      "district_name": "Bunguran Selatan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Cemaga Tengah"
+    },
+    {
+      "code": "21.03.19.2001",
+      "district_code": "21.03.19",
+      "district_name": "Serasan Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Arung Ayam"
+    },
+    {
+      "code": "21.03.19.2002",
+      "district_code": "21.03.19",
+      "district_name": "Serasan Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Nusa"
+    },
+    {
+      "code": "21.03.19.2004",
+      "district_code": "21.03.19",
+      "district_name": "Serasan Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Ringau"
+    },
+    {
+      "code": "21.03.19.2005",
+      "district_code": "21.03.19",
+      "district_name": "Serasan Timur",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Payak"
+    },
+    {
+      "code": "21.03.20.2001",
+      "district_code": "21.03.20",
+      "district_name": "Bunguran Batubi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batubi Jaya"
+    },
+    {
+      "code": "21.03.20.2002",
+      "district_code": "21.03.20",
+      "district_name": "Bunguran Batubi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gunung Putri"
+    },
+    {
+      "code": "21.03.20.2003",
+      "district_code": "21.03.20",
+      "district_name": "Bunguran Batubi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sedarat Baru"
+    },
+    {
+      "code": "21.03.20.2004",
+      "district_code": "21.03.20",
+      "district_name": "Bunguran Batubi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sedanau Timur"
+    },
+    {
+      "code": "21.03.20.2005",
+      "district_code": "21.03.20",
+      "district_name": "Bunguran Batubi",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Semedang"
+    },
+    {
+      "code": "21.03.21.2001",
+      "district_code": "21.03.21",
+      "district_name": "Pulau Tiga Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Tiga"
+    },
+    {
+      "code": "21.03.21.2002",
+      "district_code": "21.03.21",
+      "district_name": "Pulau Tiga Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Kumbik Utara"
+    },
+    {
+      "code": "21.03.21.2003",
+      "district_code": "21.03.21",
+      "district_name": "Pulau Tiga Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Setumuk"
+    },
+    {
+      "code": "21.03.21.2004",
+      "district_code": "21.03.21",
+      "district_name": "Pulau Tiga Barat",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Selading"
+    },
+    {
+      "code": "21.03.22.2001",
+      "district_code": "21.03.22",
+      "district_name": "Suak Midai",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Kumpai"
+    },
+    {
+      "code": "21.03.22.2002",
+      "district_code": "21.03.22",
+      "district_name": "Suak Midai",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Belanak"
+    },
+    {
+      "code": "21.03.22.2003",
+      "district_code": "21.03.22",
+      "district_name": "Suak Midai",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Gunung Jambat"
+    },
+    {
+      "code": "21.03.23.2001",
+      "district_code": "21.03.23",
+      "district_name": "Pulau Panjang",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Panjang"
+    },
+    {
+      "code": "21.03.23.2002",
+      "district_code": "21.03.23",
+      "district_name": "Pulau Panjang",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Kerdau"
+    },
+    {
+      "code": "21.03.24.2001",
+      "district_code": "21.03.24",
+      "district_name": "Pulau Seluan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelarik Barat"
+    },
+    {
+      "code": "21.03.24.2002",
+      "district_code": "21.03.24",
+      "district_name": "Pulau Seluan",
+      "regency_code": "21.03",
+      "regency_name": "Kabupaten Natuna",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Seluan Barat"
+    },
+    {
+      "code": "21.04.01.1001",
+      "district_code": "21.04.01",
+      "district_name": "Singkep",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Dabo"
+    },
+    {
+      "code": "21.04.01.1007",
+      "district_code": "21.04.01",
+      "district_name": "Singkep",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Dabo Lama"
+    },
+    {
+      "code": "21.04.01.1012",
+      "district_code": "21.04.01",
+      "district_name": "Singkep",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungailumpur"
+    },
+    {
+      "code": "21.04.01.2008",
+      "district_code": "21.04.01",
+      "district_name": "Singkep",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Berdaun"
+    },
+    {
+      "code": "21.04.01.2009",
+      "district_code": "21.04.01",
+      "district_name": "Singkep",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Harapan"
+    },
+    {
+      "code": "21.04.01.2010",
+      "district_code": "21.04.01",
+      "district_name": "Singkep",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Kacang"
+    },
+    {
+      "code": "21.04.02.1010",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Daik"
+    },
+    {
+      "code": "21.04.02.1020",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Daik Sepincan"
+    },
+    {
+      "code": "21.04.02.2001",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pekajang"
+    },
+    {
+      "code": "21.04.02.2002",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelombok"
+    },
+    {
+      "code": "21.04.02.2003",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mepar"
+    },
+    {
+      "code": "21.04.02.2006",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kelumu"
+    },
+    {
+      "code": "21.04.02.2007",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mentuda"
+    },
+    {
+      "code": "21.04.02.2008",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Merawang"
+    },
+    {
+      "code": "21.04.02.2009",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Panggak Darat"
+    },
+    {
+      "code": "21.04.02.2011",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Panggak Laut"
+    },
+    {
+      "code": "21.04.02.2012",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Musai"
+    },
+    {
+      "code": "21.04.02.2019",
+      "district_code": "21.04.02",
+      "district_name": "Lingga",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Nerekeh"
+    },
+    {
+      "code": "21.04.03.1001",
+      "district_code": "21.04.03",
+      "district_name": "Senayang",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Senayang"
+    },
+    {
+      "code": "21.04.03.2002",
+      "district_code": "21.04.03",
+      "district_name": "Senayang",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mamut"
+    },
+    {
+      "code": "21.04.03.2012",
+      "district_code": "21.04.03",
+      "district_name": "Senayang",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Laboh"
+    },
+    {
+      "code": "21.04.03.2013",
+      "district_code": "21.04.03",
+      "district_name": "Senayang",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Penaah"
+    },
+    {
+      "code": "21.04.03.2015",
+      "district_code": "21.04.03",
+      "district_name": "Senayang",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Baran"
+    },
+    {
+      "code": "21.04.04.1006",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Raya"
+    },
+    {
+      "code": "21.04.04.2001",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bakong"
+    },
+    {
+      "code": "21.04.04.2002",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kuala Raya"
+    },
+    {
+      "code": "21.04.04.2003",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Marok Tua"
+    },
+    {
+      "code": "21.04.04.2005",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Buluh"
+    },
+    {
+      "code": "21.04.04.2007",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Raya"
+    },
+    {
+      "code": "21.04.04.2008",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Harapan"
+    },
+    {
+      "code": "21.04.04.2009",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Jagoh"
+    },
+    {
+      "code": "21.04.04.2012",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tinjul"
+    },
+    {
+      "code": "21.04.04.2013",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Langkap"
+    },
+    {
+      "code": "21.04.04.2014",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Irat"
+    },
+    {
+      "code": "21.04.04.2015",
+      "district_code": "21.04.04",
+      "district_name": "Singkep Barat",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bukit Belah"
+    },
+    {
+      "code": "21.04.05.1007",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pancur"
+    },
+    {
+      "code": "21.04.05.2001",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bukit Harapan"
+    },
+    {
+      "code": "21.04.05.2002",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Duara"
+    },
+    {
+      "code": "21.04.05.2003",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Limbung"
+    },
+    {
+      "code": "21.04.05.2004",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Resun"
+    },
+    {
+      "code": "21.04.05.2005",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sekanah"
+    },
+    {
+      "code": "21.04.05.2008",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Linau"
+    },
+    {
+      "code": "21.04.05.2009",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungaibesar"
+    },
+    {
+      "code": "21.04.05.2010",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Rantau Panjang"
+    },
+    {
+      "code": "21.04.05.2012",
+      "district_code": "21.04.05",
+      "district_name": "Lingga Utara",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Resun Pesisir"
+    },
+    {
+      "code": "21.04.06.2001",
+      "district_code": "21.04.06",
+      "district_name": "Singkep Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Berindat"
+    },
+    {
+      "code": "21.04.06.2002",
+      "district_code": "21.04.06",
+      "district_name": "Singkep Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sedamai"
+    },
+    {
+      "code": "21.04.06.2003",
+      "district_code": "21.04.06",
+      "district_name": "Singkep Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lanjut"
+    },
+    {
+      "code": "21.04.06.2004",
+      "district_code": "21.04.06",
+      "district_name": "Singkep Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kote"
+    },
+    {
+      "code": "21.04.06.2005",
+      "district_code": "21.04.06",
+      "district_name": "Singkep Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Persing"
+    },
+    {
+      "code": "21.04.06.2006",
+      "district_code": "21.04.06",
+      "district_name": "Singkep Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pelakak"
+    },
+    {
+      "code": "21.04.07.2001",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bukitlangkap"
+    },
+    {
+      "code": "21.04.07.2002",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Keton"
+    },
+    {
+      "code": "21.04.07.2003",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pekaka"
+    },
+    {
+      "code": "21.04.07.2004",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kerandin"
+    },
+    {
+      "code": "21.04.07.2005",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Pinang"
+    },
+    {
+      "code": "21.04.07.2006",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kudung"
+    },
+    {
+      "code": "21.04.07.2007",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk"
+    },
+    {
+      "code": "21.04.07.2008",
+      "district_code": "21.04.07",
+      "district_name": "Lingga Timur",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Belungkur"
+    },
+    {
+      "code": "21.04.08.2001",
+      "district_code": "21.04.08",
+      "district_name": "Selayar",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Selayar"
+    },
+    {
+      "code": "21.04.08.2002",
+      "district_code": "21.04.08",
+      "district_name": "Selayar",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Penuba"
+    },
+    {
+      "code": "21.04.08.2003",
+      "district_code": "21.04.08",
+      "district_name": "Selayar",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Penuba Timur"
+    },
+    {
+      "code": "21.04.08.2004",
+      "district_code": "21.04.08",
+      "district_name": "Selayar",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pantai Harapan"
+    },
+    {
+      "code": "21.04.09.1004",
+      "district_code": "21.04.09",
+      "district_name": "Singkep Selatan",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Berlian"
+    },
+    {
+      "code": "21.04.09.2001",
+      "district_code": "21.04.09",
+      "district_name": "Singkep Selatan",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Marok Kecil"
+    },
+    {
+      "code": "21.04.09.2002",
+      "district_code": "21.04.09",
+      "district_name": "Singkep Selatan",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Lalang"
+    },
+    {
+      "code": "21.04.09.2003",
+      "district_code": "21.04.09",
+      "district_name": "Singkep Selatan",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Resang"
+    },
+    {
+      "code": "21.04.10.2001",
+      "district_code": "21.04.10",
+      "district_name": "Kepulauan Posek",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Busung Panjang"
+    },
+    {
+      "code": "21.04.10.2002",
+      "district_code": "21.04.10",
+      "district_name": "Kepulauan Posek",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Posek"
+    },
+    {
+      "code": "21.04.10.2003",
+      "district_code": "21.04.10",
+      "district_name": "Kepulauan Posek",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Suak Buaya"
+    },
+    {
+      "code": "21.04.11.2001",
+      "district_code": "21.04.11",
+      "district_name": "Katang Bidare",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Benan"
+    },
+    {
+      "code": "21.04.11.2002",
+      "district_code": "21.04.11",
+      "district_name": "Katang Bidare",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mensanak"
+    },
+    {
+      "code": "21.04.11.2003",
+      "district_code": "21.04.11",
+      "district_name": "Katang Bidare",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Bukit"
+    },
+    {
+      "code": "21.04.11.2004",
+      "district_code": "21.04.11",
+      "district_name": "Katang Bidare",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Duyung"
+    },
+    {
+      "code": "21.04.11.2005",
+      "district_code": "21.04.11",
+      "district_name": "Katang Bidare",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Medang"
+    },
+    {
+      "code": "21.04.12.2001",
+      "district_code": "21.04.12",
+      "district_name": "Temiang Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Temiang"
+    },
+    {
+      "code": "21.04.12.2002",
+      "district_code": "21.04.12",
+      "district_name": "Temiang Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tajur Biru"
+    },
+    {
+      "code": "21.04.12.2003",
+      "district_code": "21.04.12",
+      "district_name": "Temiang Pesisir",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Batang"
+    },
+    {
+      "code": "21.04.13.2001",
+      "district_code": "21.04.13",
+      "district_name": "Bakung Serumpun",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Belubang"
+    },
+    {
+      "code": "21.04.13.2002",
+      "district_code": "21.04.13",
+      "district_name": "Bakung Serumpun",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Cempa"
+    },
+    {
+      "code": "21.04.13.2003",
+      "district_code": "21.04.13",
+      "district_name": "Bakung Serumpun",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pasir Panjang"
+    },
+    {
+      "code": "21.04.13.2004",
+      "district_code": "21.04.13",
+      "district_name": "Bakung Serumpun",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Kelit"
+    },
+    {
+      "code": "21.04.13.2005",
+      "district_code": "21.04.13",
+      "district_name": "Bakung Serumpun",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Lipat"
+    },
+    {
+      "code": "21.04.13.2006",
+      "district_code": "21.04.13",
+      "district_name": "Bakung Serumpun",
+      "regency_code": "21.04",
+      "regency_name": "Kabupaten Lingga",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Rejai"
+    },
+    {
+      "code": "21.05.01.1001",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Terempa"
+    },
+    {
+      "code": "21.05.01.2002",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Terempa Barat"
+    },
+    {
+      "code": "21.05.01.2003",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tarempa Selatan"
+    },
+    {
+      "code": "21.05.01.2004",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tarempa Timur"
+    },
+    {
+      "code": "21.05.01.2005",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pesisir Timur"
+    },
+    {
+      "code": "21.05.01.2006",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sri Tanjung"
+    },
+    {
+      "code": "21.05.01.2007",
+      "district_code": "21.05.01",
+      "district_name": "Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tarempa Barat Daya"
+    },
+    {
+      "code": "21.05.02.2002",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tebang"
+    },
+    {
+      "code": "21.05.02.2003",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ladan"
+    },
+    {
+      "code": "21.05.02.2005",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Piabung"
+    },
+    {
+      "code": "21.05.02.2006",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Langir"
+    },
+    {
+      "code": "21.05.02.2007",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Candi"
+    },
+    {
+      "code": "21.05.02.2008",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Putik"
+    },
+    {
+      "code": "21.05.02.2015",
+      "district_code": "21.05.02",
+      "district_name": "Palmatak",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Belibak"
+    },
+    {
+      "code": "21.05.03.2001",
+      "district_code": "21.05.03",
+      "district_name": "Siantan Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Nyamuk"
+    },
+    {
+      "code": "21.05.03.2002",
+      "district_code": "21.05.03",
+      "district_name": "Siantan Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Belah"
+    },
+    {
+      "code": "21.05.03.2003",
+      "district_code": "21.05.03",
+      "district_name": "Siantan Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Munjan"
+    },
+    {
+      "code": "21.05.03.2004",
+      "district_code": "21.05.03",
+      "district_name": "Siantan Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Serat"
+    },
+    {
+      "code": "21.05.03.2005",
+      "district_code": "21.05.03",
+      "district_name": "Siantan Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Putih"
+    },
+    {
+      "code": "21.05.03.2006",
+      "district_code": "21.05.03",
+      "district_name": "Siantan Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Temburun"
+    },
+    {
+      "code": "21.05.04.2001",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kiabu"
+    },
+    {
+      "code": "21.05.04.2002",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Telaga"
+    },
+    {
+      "code": "21.05.04.2003",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mengkait"
+    },
+    {
+      "code": "21.05.04.2004",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tiangau"
+    },
+    {
+      "code": "21.05.04.2005",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Telaga Kecil"
+    },
+    {
+      "code": "21.05.04.2006",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lingai"
+    },
+    {
+      "code": "21.05.04.2007",
+      "district_code": "21.05.04",
+      "district_name": "Siantan Selatan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Bini"
+    },
+    {
+      "code": "21.05.05.2001",
+      "district_code": "21.05.05",
+      "district_name": "Jemaja Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kuala Maras"
+    },
+    {
+      "code": "21.05.05.2002",
+      "district_code": "21.05.05",
+      "district_name": "Jemaja Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ulu Maras"
+    },
+    {
+      "code": "21.05.05.2003",
+      "district_code": "21.05.05",
+      "district_name": "Jemaja Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bukit Padi"
+    },
+    {
+      "code": "21.05.05.2004",
+      "district_code": "21.05.05",
+      "district_name": "Jemaja Timur",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Genting Pulur"
+    },
+    {
+      "code": "21.05.06.1005",
+      "district_code": "21.05.06",
+      "district_name": "Jemaja",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Letung"
+    },
+    {
+      "code": "21.05.06.2001",
+      "district_code": "21.05.06",
+      "district_name": "Jemaja",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mampok"
+    },
+    {
+      "code": "21.05.06.2002",
+      "district_code": "21.05.06",
+      "district_name": "Jemaja",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Rewak"
+    },
+    {
+      "code": "21.05.06.2006",
+      "district_code": "21.05.06",
+      "district_name": "Jemaja",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Biru"
+    },
+    {
+      "code": "21.05.06.2008",
+      "district_code": "21.05.06",
+      "district_name": "Jemaja",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Berapit"
+    },
+    {
+      "code": "21.05.06.2009",
+      "district_code": "21.05.06",
+      "district_name": "Jemaja",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Landak"
+    },
+    {
+      "code": "21.05.07.2001",
+      "district_code": "21.05.07",
+      "district_name": "Siantan Tengah",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Asuk"
+    },
+    {
+      "code": "21.05.07.2002",
+      "district_code": "21.05.07",
+      "district_name": "Siantan Tengah",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Sena"
+    },
+    {
+      "code": "21.05.07.2003",
+      "district_code": "21.05.07",
+      "district_name": "Siantan Tengah",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Siantan"
+    },
+    {
+      "code": "21.05.07.2004",
+      "district_code": "21.05.07",
+      "district_name": "Siantan Tengah",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lidi"
+    },
+    {
+      "code": "21.05.07.2005",
+      "district_code": "21.05.07",
+      "district_name": "Siantan Tengah",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Liuk"
+    },
+    {
+      "code": "21.05.07.2006",
+      "district_code": "21.05.07",
+      "district_name": "Siantan Tengah",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Sunting"
+    },
+    {
+      "code": "21.05.08.2001",
+      "district_code": "21.05.08",
+      "district_name": "Siantan Utara",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mubur"
+    },
+    {
+      "code": "21.05.08.2002",
+      "district_code": "21.05.08",
+      "district_name": "Siantan Utara",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Piasan"
+    },
+    {
+      "code": "21.05.08.2003",
+      "district_code": "21.05.08",
+      "district_name": "Siantan Utara",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bayat"
+    },
+    {
+      "code": "21.05.09.2001",
+      "district_code": "21.05.09",
+      "district_name": "Jemaja Barat",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Impol"
+    },
+    {
+      "code": "21.05.09.2002",
+      "district_code": "21.05.09",
+      "district_name": "Jemaja Barat",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Keramut"
+    },
+    {
+      "code": "21.05.09.2003",
+      "district_code": "21.05.09",
+      "district_name": "Jemaja Barat",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sunggak"
+    },
+    {
+      "code": "21.05.10.2001",
+      "district_code": "21.05.10",
+      "district_name": "Kute Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Payalaman"
+    },
+    {
+      "code": "21.05.10.2002",
+      "district_code": "21.05.10",
+      "district_name": "Kute Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Payamaram"
+    },
+    {
+      "code": "21.05.10.2003",
+      "district_code": "21.05.10",
+      "district_name": "Kute Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Ampar"
+    },
+    {
+      "code": "21.05.10.2004",
+      "district_code": "21.05.10",
+      "district_name": "Kute Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Matak"
+    },
+    {
+      "code": "21.05.10.2005",
+      "district_code": "21.05.10",
+      "district_name": "Kute Siantan",
+      "regency_code": "21.05",
+      "regency_name": "Kabupaten Kepulauan Anambas",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Bayur"
+    },
+    {
+      "code": "21.71.01.1002",
+      "district_code": "21.71.01",
+      "district_name": "Belakang Padang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pemping"
+    },
+    {
+      "code": "21.71.01.1003",
+      "district_code": "21.71.01",
+      "district_name": "Belakang Padang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kasu"
+    },
+    {
+      "code": "21.71.01.1004",
+      "district_code": "21.71.01",
+      "district_name": "Belakang Padang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Terung"
+    },
+    {
+      "code": "21.71.01.1005",
+      "district_code": "21.71.01",
+      "district_name": "Belakang Padang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pecong"
+    },
+    {
+      "code": "21.71.01.1006",
+      "district_code": "21.71.01",
+      "district_name": "Belakang Padang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Sari"
+    },
+    {
+      "code": "21.71.01.1007",
+      "district_code": "21.71.01",
+      "district_name": "Belakang Padang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sekanak Raya"
+    },
+    {
+      "code": "21.71.02.1001",
+      "district_code": "21.71.02",
+      "district_name": "Batu Ampar",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Sengkuang"
+    },
+    {
+      "code": "21.71.02.1002",
+      "district_code": "21.71.02",
+      "district_name": "Batu Ampar",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Jodoh"
+    },
+    {
+      "code": "21.71.02.1003",
+      "district_code": "21.71.02",
+      "district_name": "Batu Ampar",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Merah"
+    },
+    {
+      "code": "21.71.02.1004",
+      "district_code": "21.71.02",
+      "district_name": "Batu Ampar",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Seraya"
+    },
+    {
+      "code": "21.71.03.1001",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Harapan"
+    },
+    {
+      "code": "21.71.03.1002",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Pinggir"
+    },
+    {
+      "code": "21.71.03.1003",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Riau"
+    },
+    {
+      "code": "21.71.03.1005",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tiban Indah"
+    },
+    {
+      "code": "21.71.03.1006",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tiban Baru"
+    },
+    {
+      "code": "21.71.03.1007",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tiban Lama"
+    },
+    {
+      "code": "21.71.03.1008",
+      "district_code": "21.71.03",
+      "district_name": "Sekupang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Patam Lestari"
+    },
+    {
+      "code": "21.71.04.1001",
+      "district_code": "21.71.04",
+      "district_name": "Nongsa",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sambau"
+    },
+    {
+      "code": "21.71.04.1002",
+      "district_code": "21.71.04",
+      "district_name": "Nongsa",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Besar"
+    },
+    {
+      "code": "21.71.04.1003",
+      "district_code": "21.71.04",
+      "district_name": "Nongsa",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kabil"
+    },
+    {
+      "code": "21.71.04.1004",
+      "district_code": "21.71.04",
+      "district_name": "Nongsa",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Ngenang"
+    },
+    {
+      "code": "21.71.05.1001",
+      "district_code": "21.71.05",
+      "district_name": "Bulang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bulang Lintang"
+    },
+    {
+      "code": "21.71.05.1002",
+      "district_code": "21.71.05",
+      "district_name": "Bulang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Buluh"
+    },
+    {
+      "code": "21.71.05.1003",
+      "district_code": "21.71.05",
+      "district_name": "Bulang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Temoyong"
+    },
+    {
+      "code": "21.71.05.1004",
+      "district_code": "21.71.05",
+      "district_name": "Bulang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Legong"
+    },
+    {
+      "code": "21.71.05.1005",
+      "district_code": "21.71.05",
+      "district_name": "Bulang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pantai Gelam"
+    },
+    {
+      "code": "21.71.05.1006",
+      "district_code": "21.71.05",
+      "district_name": "Bulang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Setokok"
+    },
+    {
+      "code": "21.71.06.1001",
+      "district_code": "21.71.06",
+      "district_name": "Lubuk Baja",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Pelita"
+    },
+    {
+      "code": "21.71.06.1003",
+      "district_code": "21.71.06",
+      "district_name": "Lubuk Baja",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Lubuk Baja Kota"
+    },
+    {
+      "code": "21.71.06.1004",
+      "district_code": "21.71.06",
+      "district_name": "Lubuk Baja",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu Selicin"
+    },
+    {
+      "code": "21.71.06.1005",
+      "district_code": "21.71.06",
+      "district_name": "Lubuk Baja",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Uma"
+    },
+    {
+      "code": "21.71.06.1006",
+      "district_code": "21.71.06",
+      "district_name": "Lubuk Baja",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Baloi Indah"
+    },
+    {
+      "code": "21.71.07.1001",
+      "district_code": "21.71.07",
+      "district_name": "Sei Beduk",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Muka Kuning"
+    },
+    {
+      "code": "21.71.07.1002",
+      "district_code": "21.71.07",
+      "district_name": "Sei Beduk",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Duriangkang"
+    },
+    {
+      "code": "21.71.07.1003",
+      "district_code": "21.71.07",
+      "district_name": "Sei Beduk",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Mangsang"
+    },
+    {
+      "code": "21.71.07.1004",
+      "district_code": "21.71.07",
+      "district_name": "Sei Beduk",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Piayu"
+    },
+    {
+      "code": "21.71.08.1001",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sijantung"
+    },
+    {
+      "code": "21.71.08.1002",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Karas"
+    },
+    {
+      "code": "21.71.08.1003",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Galang Baru"
+    },
+    {
+      "code": "21.71.08.1004",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sembulang"
+    },
+    {
+      "code": "21.71.08.1005",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Rempang Cate"
+    },
+    {
+      "code": "21.71.08.1006",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Subang Mas"
+    },
+    {
+      "code": "21.71.08.1007",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pulau Abang"
+    },
+    {
+      "code": "21.71.08.1008",
+      "district_code": "21.71.08",
+      "district_name": "Galang",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Raja"
+    },
+    {
+      "code": "21.71.09.1001",
+      "district_code": "21.71.09",
+      "district_name": "Bengkong",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bengkong Indah"
+    },
+    {
+      "code": "21.71.09.1002",
+      "district_code": "21.71.09",
+      "district_name": "Bengkong",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bengkong Laut"
+    },
+    {
+      "code": "21.71.09.1003",
+      "district_code": "21.71.09",
+      "district_name": "Bengkong",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sadai"
+    },
+    {
+      "code": "21.71.09.1004",
+      "district_code": "21.71.09",
+      "district_name": "Bengkong",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Buntung"
+    },
+    {
+      "code": "21.71.10.1001",
+      "district_code": "21.71.10",
+      "district_name": "Batam Kota",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Baloi Permai"
+    },
+    {
+      "code": "21.71.10.1002",
+      "district_code": "21.71.10",
+      "district_name": "Batam Kota",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Taman Baloi"
+    },
+    {
+      "code": "21.71.10.1003",
+      "district_code": "21.71.10",
+      "district_name": "Batam Kota",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Teluk Tering"
+    },
+    {
+      "code": "21.71.10.1004",
+      "district_code": "21.71.10",
+      "district_name": "Batam Kota",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Belian"
+    },
+    {
+      "code": "21.71.10.1005",
+      "district_code": "21.71.10",
+      "district_name": "Batam Kota",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sukajadi"
+    },
+    {
+      "code": "21.71.10.1006",
+      "district_code": "21.71.10",
+      "district_name": "Batam Kota",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Panas"
+    },
+    {
+      "code": "21.71.11.1001",
+      "district_code": "21.71.11",
+      "district_name": "Sagulung",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tembesi"
+    },
+    {
+      "code": "21.71.11.1002",
+      "district_code": "21.71.11",
+      "district_name": "Sagulung",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Binti"
+    },
+    {
+      "code": "21.71.11.1003",
+      "district_code": "21.71.11",
+      "district_name": "Sagulung",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Lekop"
+    },
+    {
+      "code": "21.71.11.1004",
+      "district_code": "21.71.11",
+      "district_name": "Sagulung",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sagulung Kota"
+    },
+    {
+      "code": "21.71.11.1005",
+      "district_code": "21.71.11",
+      "district_name": "Sagulung",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Langkai"
+    },
+    {
+      "code": "21.71.11.1006",
+      "district_code": "21.71.11",
+      "district_name": "Sagulung",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sungai Pelunggut"
+    },
+    {
+      "code": "21.71.12.1001",
+      "district_code": "21.71.12",
+      "district_name": "Batu Aji",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Uncang"
+    },
+    {
+      "code": "21.71.12.1002",
+      "district_code": "21.71.12",
+      "district_name": "Batu Aji",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Buliang"
+    },
+    {
+      "code": "21.71.12.1003",
+      "district_code": "21.71.12",
+      "district_name": "Batu Aji",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kibing"
+    },
+    {
+      "code": "21.71.12.1004",
+      "district_code": "21.71.12",
+      "district_name": "Batu Aji",
+      "regency_code": "21.71",
+      "regency_name": "Kota Batam",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bukit Tempayan"
+    },
+    {
+      "code": "21.72.01.1001",
+      "district_code": "21.72.01",
+      "district_name": "Tanjung Pinang Barat",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Pinang Barat"
+    },
+    {
+      "code": "21.72.01.1002",
+      "district_code": "21.72.01",
+      "district_name": "Tanjung Pinang Barat",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kemboja"
+    },
+    {
+      "code": "21.72.01.1003",
+      "district_code": "21.72.01",
+      "district_name": "Tanjung Pinang Barat",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Baru"
+    },
+    {
+      "code": "21.72.01.1004",
+      "district_code": "21.72.01",
+      "district_name": "Tanjung Pinang Barat",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Bukit Cermin"
+    },
+    {
+      "code": "21.72.02.1001",
+      "district_code": "21.72.02",
+      "district_name": "Tanjung Pinang Timur",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Melayu Kota Piring"
+    },
+    {
+      "code": "21.72.02.1002",
+      "district_code": "21.72.02",
+      "district_name": "Tanjung Pinang Timur",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Bulang"
+    },
+    {
+      "code": "21.72.02.1003",
+      "district_code": "21.72.02",
+      "district_name": "Tanjung Pinang Timur",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Air Raja"
+    },
+    {
+      "code": "21.72.02.1004",
+      "district_code": "21.72.02",
+      "district_name": "Tanjung Pinang Timur",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Batu IX"
+    },
+    {
+      "code": "21.72.02.1005",
+      "district_code": "21.72.02",
+      "district_name": "Tanjung Pinang Timur",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Pinang Kencana"
+    },
+    {
+      "code": "21.72.03.1001",
+      "district_code": "21.72.03",
+      "district_name": "Tanjung Pinang Kota",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Pinang Kota"
+    },
+    {
+      "code": "21.72.03.1003",
+      "district_code": "21.72.03",
+      "district_name": "Tanjung Pinang Kota",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Senggarang"
+    },
+    {
+      "code": "21.72.03.1004",
+      "district_code": "21.72.03",
+      "district_name": "Tanjung Pinang Kota",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Penyengat"
+    },
+    {
+      "code": "21.72.03.1005",
+      "district_code": "21.72.03",
+      "district_name": "Tanjung Pinang Kota",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Kampung Bugis"
+    },
+    {
+      "code": "21.72.04.1001",
+      "district_code": "21.72.04",
+      "district_name": "Bukit Bestari",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Pinang Timur"
+    },
+    {
+      "code": "21.72.04.1002",
+      "district_code": "21.72.04",
+      "district_name": "Bukit Bestari",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Dompak"
+    },
+    {
+      "code": "21.72.04.1003",
+      "district_code": "21.72.04",
+      "district_name": "Bukit Bestari",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Ayun Sakti"
+    },
+    {
+      "code": "21.72.04.1004",
+      "district_code": "21.72.04",
+      "district_name": "Bukit Bestari",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Sei Jang"
+    },
+    {
+      "code": "21.72.04.1005",
+      "district_code": "21.72.04",
+      "district_name": "Bukit Bestari",
+      "regency_code": "21.72",
+      "regency_name": "Kota Tanjung Pinang",
+      "province_code": "21",
+      "province_name": "Kepulauan Riau",
+      "name": "Tanjung Unggat"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Desa dan Kelurahan di Kepulauan Riau - Unduh Gratis",
+    "description": "Daftar desa dan kelurahan di Provinsi Kepulauan Riau (419 entri) dengan kode wilayah Kepmendagri dan hierarki kecamatan serta kabupaten/kota. Subset provinsi dari id-villages. Berisi 419 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Desa dan Kelurahan di Kepulauan Riau | ListBase",
+    "seo_description": "Unduh Daftar Desa dan Kelurahan di Kepulauan Riau — 419 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 419 rekaman / 8 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

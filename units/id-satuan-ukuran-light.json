@@ -1,0 +1,97 @@
+{
+  "id": "id-satuan-ukuran-light",
+  "name": "Satuan ukuran — kategori 'light' (4)",
+  "title": "Satuan ukuran — kategori 'light' (4)",
+  "description": "Satuan ukuran kategori 'light' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategori": "light",
+      "nama": "candela",
+      "singkatan": "cd",
+      "bentuk_sempit": "cd",
+      "pola": "{0} candela"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategori": "light",
+      "nama": "lumen",
+      "singkatan": "lm",
+      "bentuk_sempit": "lm",
+      "pola": "{0} lumen"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategori": "light",
+      "nama": "lux",
+      "singkatan": "lux",
+      "bentuk_sempit": "lux",
+      "pola": "{0} lux"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategori": "light",
+      "nama": "luminositas matahari",
+      "singkatan": "luminositas matahari",
+      "bentuk_sempit": "L☉",
+      "pola": "{0} luminositas matahari"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'light' (4) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'light' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'light' (4) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'light' (4) — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

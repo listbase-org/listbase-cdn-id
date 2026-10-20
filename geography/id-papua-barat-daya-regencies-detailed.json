@@ -1,0 +1,148 @@
+{
+  "id": "id-papua-barat-daya-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Papua Barat Daya (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Papua Barat Daya (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "6 kabupaten/kota di Provinsi Papua Barat Daya dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "96.01",
+      "name": "Kabupaten Sorong",
+      "type": "kabupaten",
+      "capital": "Aimas",
+      "latitude": -0.988497,
+      "longitude": 131.366253,
+      "elevation_m": 64,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 7565.039,
+      "population": 129669
+    },
+    {
+      "code": "96.02",
+      "name": "Kabupaten Sorong Selatan",
+      "type": "kabupaten",
+      "capital": "Teminabuan",
+      "latitude": -1.475248,
+      "longitude": 132.085622,
+      "elevation_m": 49,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 6559.597,
+      "population": 56979
+    },
+    {
+      "code": "96.03",
+      "name": "Kabupaten Raja Ampat",
+      "type": "kabupaten",
+      "capital": "Waisai",
+      "latitude": -0.418506,
+      "longitude": 130.828791,
+      "elevation_m": 32,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 7425.239,
+      "population": 72865
+    },
+    {
+      "code": "96.04",
+      "name": "Kabupaten Tambrauw",
+      "type": "kabupaten",
+      "capital": "Fef",
+      "latitude": -0.497301,
+      "longitude": 132.088098,
+      "elevation_m": 12,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 11961.745,
+      "population": 31041
+    },
+    {
+      "code": "96.05",
+      "name": "Kabupaten Maybrat",
+      "type": "kabupaten",
+      "capital": "Kumurkek",
+      "latitude": -1.257254,
+      "longitude": 132.498623,
+      "elevation_m": 450,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 5385.679,
+      "population": 46604
+    },
+    {
+      "code": "96.71",
+      "name": "Kota Sorong",
+      "type": "kota",
+      "capital": "Sorong",
+      "latitude": -0.881124,
+      "longitude": 131.28764,
+      "elevation_m": 8,
+      "timezone": "WIT (UTC+9)",
+      "area_km2": 205.759,
+      "population": 286028
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Papua Barat Daya (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "6 kabupaten/kota di Provinsi Papua Barat Daya dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Papua Barat Daya (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Papua Barat Daya (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

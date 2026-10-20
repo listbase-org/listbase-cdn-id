@@ -1,0 +1,96 @@
+{
+  "id": "id-zona-waktu-atlantic",
+  "name": "Zona waktu — Atlantic (5)",
+  "title": "Zona waktu — Atlantic (5)",
+  "description": "Zona waktu yang pengenal IANA-nya diawali 'Atlantic/', dengan nama dalam bahasa Indonesia.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "kota",
+      "label": "Kota",
+      "type": "string"
+    },
+    {
+      "key": "nama_standar",
+      "label": "Nama Standar",
+      "type": "string"
+    },
+    {
+      "key": "nama_musim_panas",
+      "label": "Nama Musim Panas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Canary",
+      "wilayah": "Atlantic",
+      "kota": "Canarias",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Cape_Verde",
+      "wilayah": "Atlantic",
+      "kota": "Tanjung Verde",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Faeroe",
+      "wilayah": "Atlantic",
+      "kota": "Faroe",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/South_Georgia",
+      "wilayah": "Atlantic",
+      "kota": "Georgia Selatan",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/St_Helena",
+      "wilayah": "Atlantic",
+      "kota": "St. Helena",
+      "nama_standar": "",
+      "nama_musim_panas": ""
+    }
+  ],
+  "meta": {
+    "title": "Zona waktu — Atlantic (5) - Unduh Gratis",
+    "description": "Zona waktu yang pengenal IANA-nya diawali 'Atlantic/', dengan nama dalam bahasa Indonesia. Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Zona waktu — Atlantic (5) | ListBase",
+    "seo_description": "Unduh Zona waktu — Atlantic (5) — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

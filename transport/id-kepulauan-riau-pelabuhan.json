@@ -1,0 +1,192 @@
+{
+  "id": "id-kepulauan-riau-pelabuhan",
+  "name": "Pelabuhan Umum di Kepulauan Riau (17 pelabuhan)",
+  "title": "Pelabuhan Umum di Kepulauan Riau (17 pelabuhan)",
+  "description": "17 pelabuhan umum di Provinsi Kepulauan Riau, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "DAS",
+      "nama_pelabuhan": "Dabo Singkep",
+      "lokasi_kabupaten_kota": "LINGGA",
+      "unit_kerja": "KUPP KELAS III DABO SINGKEP",
+      "alamat_kantor": "DABO SINGKEP - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "DMK",
+      "nama_pelabuhan": "Dompak",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS II TANJUNG PINANG",
+      "alamat_kantor": "Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "IPC",
+      "nama_pelabuhan": "Pulau Laut",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "LTG",
+      "nama_pelabuhan": "Letung",
+      "lokasi_kabupaten_kota": "KEPULAUAN ANAMBAS",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "MCO",
+      "nama_pelabuhan": "Tanjung Moco",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS II TANJUNG PINANG",
+      "alamat_kantor": "Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "MDA",
+      "nama_pelabuhan": "Midai",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "PJN",
+      "nama_pelabuhan": "Pekajang",
+      "lokasi_kabupaten_kota": "LINGGA",
+      "unit_kerja": "KUPP KELAS III DABO SINGKEP",
+      "alamat_kantor": "DABO SINGKEP - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "PUN",
+      "nama_pelabuhan": "Pulau Seluan",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "RNI",
+      "nama_pelabuhan": "Ranai",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SDU",
+      "nama_pelabuhan": "Sedanau",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SRS",
+      "nama_pelabuhan": "Serasan",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "STA",
+      "nama_pelabuhan": "Selat Lampa",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SUI",
+      "nama_pelabuhan": "Subi",
+      "lokasi_kabupaten_kota": "NATUNA",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "SYG",
+      "nama_pelabuhan": "Senayang",
+      "lokasi_kabupaten_kota": "LINGGA",
+      "unit_kerja": "KUPP KELAS III SENAYANG",
+      "alamat_kantor": "SENAYANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "TBD",
+      "nama_pelabuhan": "Tanjung Batu Kundur",
+      "lokasi_kabupaten_kota": "KARIMUN",
+      "unit_kerja": "KUPP KELAS II TANJUNG BATU KUNDUR",
+      "alamat_kantor": "Jl. Pemuda No. 21 Tanjung Batu Kota Kec. Kundur; Kab. Karimun Kepulauan Riau 29662 Telp. 0779-21020; Fax. 0779-21001 upptanjungbatukundur@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "TMP",
+      "nama_pelabuhan": "Tarempa",
+      "lokasi_kabupaten_kota": "KEPULAUAN ANAMBAS",
+      "unit_kerja": "KUPP KELAS II TAREMPA",
+      "alamat_kantor": "PASIR PANJANG - KEPULAUAN RIAU",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "kode_pelabuhan": "TNJ",
+      "nama_pelabuhan": "Tanjung Pinang",
+      "lokasi_kabupaten_kota": "KOTA TANJUNG PINANG",
+      "unit_kerja": "KSOP KELAS II TANJUNG PINANG",
+      "alamat_kantor": "Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id",
+      "provinsi": "Kepulauan Riau"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di Kepulauan Riau (17 pelabuhan) - Unduh Gratis",
+    "description": "17 pelabuhan umum di Provinsi Kepulauan Riau, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 17 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di Kepulauan Riau (17 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di Kepulauan Riau (17 pelabuhan) — 17 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 17 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

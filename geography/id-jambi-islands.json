@@ -1,0 +1,263 @@
+{
+  "id": "id-jambi-islands",
+  "name": "Daftar Pulau di Provinsi Jambi",
+  "title": "Daftar Pulau di Provinsi Jambi",
+  "description": "Daftar pulau di Provinsi Jambi, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 14 pulau.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "regency_code",
+      "label": "Regency Code",
+      "type": "number"
+    },
+    {
+      "key": "regency_name",
+      "label": "Regency Name",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "coordinate_dms",
+      "label": "Coordinate Dms",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "is_populated",
+      "label": "Is Populated",
+      "type": "boolean"
+    },
+    {
+      "key": "is_outermost_small",
+      "label": "Is Outermost Small",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "code": "15.04.40001",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Selat",
+      "coordinate_dms": "01°32'44.82\" S 103°26'32.04\" E",
+      "latitude": -1.545783,
+      "longitude": 103.442233,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.04.40002",
+      "regency_code": "15.04",
+      "regency_name": "Kabupaten Batanghari",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Senaning",
+      "coordinate_dms": "01°33'45.77\" S 103°21'05.24\" E",
+      "latitude": -1.562714,
+      "longitude": 103.351456,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.05.40001",
+      "regency_code": "15.05",
+      "regency_name": "Kabupaten Muaro Jambi",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Pendam",
+      "coordinate_dms": "01°29'01.41\" S 103°30'01.01\" E",
+      "latitude": -1.483725,
+      "longitude": 103.500281,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40001",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Balai",
+      "coordinate_dms": "01°03'44.29\" S 104°12'58.13\" E",
+      "latitude": -1.062303,
+      "longitude": 104.216147,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40002",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Betet",
+      "coordinate_dms": "01°03'07.00\" S 104°14'39.10\" E",
+      "latitude": -1.051944,
+      "longitude": 104.244194,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40003",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Burung",
+      "coordinate_dms": "01°06'32.32\" S 104°01'39.67\" E",
+      "latitude": -1.108978,
+      "longitude": 104.027686,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40004",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Harapan",
+      "coordinate_dms": "01°05'02.00\" S 104°11'50.00\" E",
+      "latitude": -1.083889,
+      "longitude": 104.197222,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40005",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Mudo",
+      "coordinate_dms": "01°02'50.02\" S 104°11'35.37\" E",
+      "latitude": -1.047228,
+      "longitude": 104.193158,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40006",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Pangkudo",
+      "coordinate_dms": "01°02'41.35\" S 104°14'54.27\" E",
+      "latitude": -1.044819,
+      "longitude": 104.248408,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40007",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Pedado Anak",
+      "coordinate_dms": "01°02'18.06\" S 104°10'49.62\" E",
+      "latitude": -1.03835,
+      "longitude": 104.18045,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40008",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Putri",
+      "coordinate_dms": "01°03'38.85\" S 104°12'39.20\" E",
+      "latitude": -1.060792,
+      "longitude": 104.210889,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40009",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Tanjung Putus",
+      "coordinate_dms": "01°13'55.45\" S 104°10'06.61\" E",
+      "latitude": -1.232069,
+      "longitude": 104.168503,
+      "is_populated": false,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40010",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Tengah",
+      "coordinate_dms": "01°02'33.21\" S 104°13'50.26\" E",
+      "latitude": -1.042558,
+      "longitude": 104.230628,
+      "is_populated": true,
+      "is_outermost_small": false
+    },
+    {
+      "code": "15.07.40011",
+      "regency_code": "15.07",
+      "regency_name": "Kabupaten Tanjung Jabung Timur",
+      "province_code": "15",
+      "province_name": "Jambi",
+      "name": "Pulau Wantambi",
+      "coordinate_dms": "01°02'35.80\" S 104°12'05.04\" E",
+      "latitude": -1.043278,
+      "longitude": 104.2014,
+      "is_populated": false,
+      "is_outermost_small": false
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pulau di Provinsi Jambi - Unduh Gratis",
+    "description": "Daftar pulau di Provinsi Jambi, Indonesia, dengan koordinat (DMS dan desimal), kabupaten/kota induk, status populasi, dan status pulau terluar. Total 14 pulau. Berisi 14 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Pulau di Provinsi Jambi | ListBase",
+    "seo_description": "Unduh Daftar Pulau di Provinsi Jambi — 14 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 14 rekaman / 11 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

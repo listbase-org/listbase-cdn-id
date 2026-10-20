@@ -1,0 +1,669 @@
+{
+  "id": "tech-html-entities",
+  "name": "Dataset Entitas Karakter HTML & Simbol Khusus",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "entity",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "entity": "&amp;",
+      "character": "&",
+      "code_point": "U+0026",
+      "decimal": "&#38;",
+      "name": "Ampersand",
+      "category": "Esensial"
+    },
+    {
+      "entity": "&lt;",
+      "character": "<",
+      "code_point": "U+003C",
+      "decimal": "&#60;",
+      "name": "Kurang dari",
+      "category": "Esensial"
+    },
+    {
+      "entity": "&gt;",
+      "character": ">",
+      "code_point": "U+003E",
+      "decimal": "&#62;",
+      "name": "Lebih dari",
+      "category": "Esensial"
+    },
+    {
+      "entity": "&quot;",
+      "character": "\"",
+      "code_point": "U+0022",
+      "decimal": "&#34;",
+      "name": "Tanda kutip",
+      "category": "Esensial"
+    },
+    {
+      "entity": "&apos;",
+      "character": "'",
+      "code_point": "U+0027",
+      "decimal": "&#39;",
+      "name": "Apostrof",
+      "category": "Esensial"
+    },
+    {
+      "entity": "&nbsp;",
+      "character": " ",
+      "code_point": "U+00A0",
+      "decimal": "&#160;",
+      "name": "Spasi tanpa putus",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&ensp;",
+      "character": " ",
+      "code_point": "U+2002",
+      "decimal": "&#8194;",
+      "name": "Spasi en",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&emsp;",
+      "character": " ",
+      "code_point": "U+2003",
+      "decimal": "&#8195;",
+      "name": "Spasi em",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&thinsp;",
+      "character": " ",
+      "code_point": "U+2009",
+      "decimal": "&#8201;",
+      "name": "Spasi tipis",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&shy;",
+      "character": "­",
+      "code_point": "U+00AD",
+      "decimal": "&#173;",
+      "name": "Tanda hubung lunak",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&zwj;",
+      "character": "‍",
+      "code_point": "U+200D",
+      "decimal": "&#8205;",
+      "name": "Penggabung lebar nol",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&zwnj;",
+      "character": "‌",
+      "code_point": "U+200C",
+      "decimal": "&#8204;",
+      "name": "Bukan penggabung lebar nol",
+      "category": "Spasi"
+    },
+    {
+      "entity": "&ndash;",
+      "character": "–",
+      "code_point": "U+2013",
+      "decimal": "&#8211;",
+      "name": "Tanda pisah en",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&mdash;",
+      "character": "—",
+      "code_point": "U+2014",
+      "decimal": "&#8212;",
+      "name": "Tanda pisah em",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&lsquo;",
+      "character": "‘",
+      "code_point": "U+2018",
+      "decimal": "&#8216;",
+      "name": "Tanda kutip tunggal kiri",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&rsquo;",
+      "character": "’",
+      "code_point": "U+2019",
+      "decimal": "&#8217;",
+      "name": "Tanda kutip tunggal kanan",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&ldquo;",
+      "character": "“",
+      "code_point": "U+201C",
+      "decimal": "&#8220;",
+      "name": "Tanda kutip ganda kiri",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&rdquo;",
+      "character": "”",
+      "code_point": "U+201D",
+      "decimal": "&#8221;",
+      "name": "Tanda kutip ganda kanan",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&laquo;",
+      "character": "«",
+      "code_point": "U+00AB",
+      "decimal": "&#171;",
+      "name": "Tanda kutip sudut ganda kiri",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&raquo;",
+      "character": "»",
+      "code_point": "U+00BB",
+      "decimal": "&#187;",
+      "name": "Tanda kutip sudut ganda kanan",
+      "category": "Tanda baca"
+    },
+    {
+      "entity": "&hellip;",
+      "character": "…",
+      "code_point": "U+2026",
+      "decimal": "&#8230;",
+      "name": "Elipsis Horizontal",
+      "category": "Tanda Baca"
+    },
+    {
+      "entity": "&bull;",
+      "character": "•",
+      "code_point": "U+2022",
+      "decimal": "&#8226;",
+      "name": "Tanda Poin",
+      "category": "Tanda Baca"
+    },
+    {
+      "entity": "&middot;",
+      "character": "·",
+      "code_point": "U+00B7",
+      "decimal": "&#183;",
+      "name": "Titik Tengah",
+      "category": "Tanda Baca"
+    },
+    {
+      "entity": "&copy;",
+      "character": "©",
+      "code_point": "U+00A9",
+      "decimal": "&#169;",
+      "name": "Simbol Hak Cipta",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&reg;",
+      "character": "®",
+      "code_point": "U+00AE",
+      "decimal": "&#174;",
+      "name": "Simbol Terdaftar",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&trade;",
+      "character": "™",
+      "code_point": "U+2122",
+      "decimal": "&#8482;",
+      "name": "Simbol Merek Dagang",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&deg;",
+      "character": "°",
+      "code_point": "U+00B0",
+      "decimal": "&#176;",
+      "name": "Simbol Derajat",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&sect;",
+      "character": "§",
+      "code_point": "U+00A7",
+      "decimal": "&#167;",
+      "name": "Simbol Bagian",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&para;",
+      "character": "¶",
+      "code_point": "U+00B6",
+      "decimal": "&#182;",
+      "name": "Simbol Paragraf",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&dagger;",
+      "character": "†",
+      "code_point": "U+2020",
+      "decimal": "&#8224;",
+      "name": "Tanda Salib",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&Dagger;",
+      "character": "‡",
+      "code_point": "U+2021",
+      "decimal": "&#8225;",
+      "name": "Tanda Salib Ganda",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&prime;",
+      "character": "′",
+      "code_point": "U+2032",
+      "decimal": "&#8242;",
+      "name": "Tanda Aksen Tunggal",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&Prime;",
+      "character": "″",
+      "code_point": "U+2033",
+      "decimal": "&#8243;",
+      "name": "Tanda Aksen Ganda",
+      "category": "Simbol Tipografi"
+    },
+    {
+      "entity": "&plus;",
+      "character": "+",
+      "code_point": "U+002B",
+      "decimal": "&#43;",
+      "name": "Tanda Plus",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&minus;",
+      "character": "−",
+      "code_point": "U+2212",
+      "decimal": "&#8722;",
+      "name": "Tanda Minus",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&times;",
+      "character": "×",
+      "code_point": "U+00D7",
+      "decimal": "&#215;",
+      "name": "Tanda Perkalian",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&divide;",
+      "character": "÷",
+      "code_point": "U+00F7",
+      "decimal": "&#247;",
+      "name": "Tanda Pembagian",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&plusmn;",
+      "character": "±",
+      "code_point": "U+00B1",
+      "decimal": "&#177;",
+      "name": "Tanda Plus-Minus",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&ne;",
+      "character": "≠",
+      "code_point": "U+2260",
+      "decimal": "&#8800;",
+      "name": "Tanda Tidak Sama Dengan",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&le;",
+      "character": "≤",
+      "code_point": "U+2264",
+      "decimal": "&#8804;",
+      "name": "Tanda Kurang Dari Atau Sama Dengan",
+      "category": "Simbol Matematika"
+    },
+    {
+      "entity": "&ge;",
+      "character": "≥",
+      "code_point": "U+2265",
+      "decimal": "&#8805;",
+      "name": "Lebih Besar dari atau Sama Dengan",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&asymp;",
+      "character": "≈",
+      "code_point": "U+2248",
+      "decimal": "&#8776;",
+      "name": "Hampir Sama Dengan",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&infin;",
+      "character": "∞",
+      "code_point": "U+221E",
+      "decimal": "&#8734;",
+      "name": "Tak Terhingga",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&radic;",
+      "character": "√",
+      "code_point": "U+221A",
+      "decimal": "&#8730;",
+      "name": "Akar Kuadrat",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&sum;",
+      "character": "∑",
+      "code_point": "U+2211",
+      "decimal": "&#8721;",
+      "name": "Penjumlahan N-Ary",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&prod;",
+      "character": "∏",
+      "code_point": "U+220F",
+      "decimal": "&#8719;",
+      "name": "Perkalian N-Ary",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&int;",
+      "character": "∫",
+      "code_point": "U+222B",
+      "decimal": "&#8747;",
+      "name": "Integral",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&permil;",
+      "character": "‰",
+      "code_point": "U+2030",
+      "decimal": "&#8240;",
+      "name": "Tanda Per Mil",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&frac14;",
+      "character": "¼",
+      "code_point": "U+00BC",
+      "decimal": "&#188;",
+      "name": "Pecahan Biasa Seperempat",
+      "category": "Pecahan"
+    },
+    {
+      "entity": "&frac12;",
+      "character": "½",
+      "code_point": "U+00BD",
+      "decimal": "&#189;",
+      "name": "Pecahan Biasa Setengah",
+      "category": "Pecahan"
+    },
+    {
+      "entity": "&frac34;",
+      "character": "¾",
+      "code_point": "U+00BE",
+      "decimal": "&#190;",
+      "name": "Pecahan Biasa Tiga Perempat",
+      "category": "Pecahan"
+    },
+    {
+      "entity": "&cent;",
+      "character": "¢",
+      "code_point": "U+00A2",
+      "decimal": "&#162;",
+      "name": "Tanda Sen",
+      "category": "Mata Uang"
+    },
+    {
+      "entity": "&pound;",
+      "character": "£",
+      "code_point": "U+00A3",
+      "decimal": "&#163;",
+      "name": "Tanda Pound",
+      "category": "Mata Uang"
+    },
+    {
+      "entity": "&yen;",
+      "character": "¥",
+      "code_point": "U+00A5",
+      "decimal": "&#165;",
+      "name": "Tanda Yen",
+      "category": "Mata Uang"
+    },
+    {
+      "entity": "&euro;",
+      "character": "€",
+      "code_point": "U+20AC",
+      "decimal": "&#8364;",
+      "name": "Tanda Euro",
+      "category": "Mata Uang"
+    },
+    {
+      "entity": "&curren;",
+      "character": "¤",
+      "code_point": "U+00A4",
+      "decimal": "&#164;",
+      "name": "Tanda Mata Uang",
+      "category": "Mata Uang"
+    },
+    {
+      "entity": "&larr;",
+      "character": "←",
+      "code_point": "U+2190",
+      "decimal": "&#8592;",
+      "name": "Panah ke Kiri",
+      "category": "Panah"
+    },
+    {
+      "entity": "&uarr;",
+      "character": "↑",
+      "code_point": "U+2191",
+      "decimal": "&#8593;",
+      "name": "Panah ke Atas",
+      "category": "Panah"
+    },
+    {
+      "entity": "&rarr;",
+      "character": "→",
+      "code_point": "U+2192",
+      "decimal": "&#8594;",
+      "name": "Panah ke Kanan",
+      "category": "Panah"
+    },
+    {
+      "entity": "&darr;",
+      "character": "↓",
+      "code_point": "U+2193",
+      "decimal": "&#8595;",
+      "name": "Panah ke Bawah",
+      "category": "Panah"
+    },
+    {
+      "entity": "&harr;",
+      "character": "↔",
+      "code_point": "U+2194",
+      "decimal": "&#8596;",
+      "name": "Panah Kiri Kanan",
+      "category": "Panah"
+    },
+    {
+      "entity": "&lArr;",
+      "character": "⇐",
+      "code_point": "U+21D0",
+      "decimal": "&#8656;",
+      "name": "Panah Ganda ke Kiri",
+      "category": "Panah"
+    },
+    {
+      "entity": "&rArr;",
+      "character": "⇒",
+      "code_point": "U+21D2",
+      "decimal": "&#8658;",
+      "name": "Panah Ganda ke Kanan",
+      "category": "Panah"
+    },
+    {
+      "entity": "&Agrave;",
+      "character": "À",
+      "code_point": "U+00C0",
+      "decimal": "&#192;",
+      "name": "Huruf Kapital Latin A dengan aksen gravis",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Aacute;",
+      "character": "Á",
+      "code_point": "U+00C1",
+      "decimal": "&#193;",
+      "name": "Huruf Kapital Latin A dengan aksen akut",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Acirc;",
+      "character": "Â",
+      "code_point": "U+00C2",
+      "decimal": "&#194;",
+      "name": "Huruf Kapital Latin A dengan aksen sirkumfleks",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Atilde;",
+      "character": "Ã",
+      "code_point": "U+00C3",
+      "decimal": "&#195;",
+      "name": "Huruf Kapital Latin A dengan tilde",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Auml;",
+      "character": "Ä",
+      "code_point": "U+00C4",
+      "decimal": "&#196;",
+      "name": "Huruf Kapital Latin A dengan diaeresis",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Ccedil;",
+      "character": "Ç",
+      "code_point": "U+00C7",
+      "decimal": "&#199;",
+      "name": "Huruf Kapital Latin C dengan cedilla",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Egrave;",
+      "character": "È",
+      "code_point": "U+00C8",
+      "decimal": "&#200;",
+      "name": "Huruf Kapital Latin E dengan aksen gravis",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Eacute;",
+      "character": "É",
+      "code_point": "U+00C9",
+      "decimal": "&#201;",
+      "name": "Huruf Kapital Latin E dengan aksen akut",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Ntilde;",
+      "character": "Ñ",
+      "code_point": "U+00D1",
+      "decimal": "&#209;",
+      "name": "Huruf Kapital Latin N dengan tilde",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Ouml;",
+      "character": "Ö",
+      "code_point": "U+00D6",
+      "decimal": "&#214;",
+      "name": "Huruf Kapital Latin O dengan diaeresis",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&Uuml;",
+      "character": "Ü",
+      "code_point": "U+00DC",
+      "decimal": "&#220;",
+      "name": "Huruf Kapital Latin U dengan diaeresis",
+      "category": "Berdiakritik"
+    },
+    {
+      "entity": "&szlig;",
+      "character": "ß",
+      "code_point": "U+00DF",
+      "decimal": "&#223;",
+      "name": "Huruf Kecil Latin Sharp S",
+      "category": "Berdiakritik"
+    }
+  ],
+  "meta": {
+    "seo_title": "Daftar HTML Character Entities - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh 75 entitas karakter HTML, termasuk simbol dan kode penting, secara gratis. Tersedia dalam format Excel, CSV, dan PDF untuk pengembang dan desainer.",
+    "title": "Dataset Entitas Karakter HTML & Simbol Khusus",
+    "description": "Dataset ini menyediakan daftar komprehensif 75 entitas karakter HTML umum, termasuk karakter, titik kode, kode desimal, nama, dan kategorinya. Ini adalah sumber daya penting untuk pengembangan web.",
+    "key_takeaways": [
+      "Akses daftar lengkap 75 entitas karakter HTML dan detailnya.",
+      "Jelajahi simbol-simbol penting seperti &amp;, &lt;, &gt;, &quot;, dan &apos;.",
+      "Unduh kode karakter (titik kode, desimal) untuk referensi dan integrasi yang mudah.",
+      "Gunakan data ini untuk memastikan tampilan karakter khusus yang benar di aplikasi web."
+    ],
+    "keywords": [
+      "html character entities indonesia",
+      "karakter khusus html",
+      "kode entitas html",
+      "unduh karakter html csv",
+      "html simbol excel",
+      "entitas unicode html"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke aplikasi web atau database CMS Anda untuk memastikan tampilan karakter khusus yang akurat, atau gunakan dalam skrip Python untuk penguraian konten.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan menganalisis properti karakter untuk dokumentasi, atau untuk dengan cepat mencari entitas tertentu untuk proyek desain.",
+      "Cetak versi **PDF** untuk panduan referensi cepat, offline selama sesi coding atau untuk tujuan pendidikan di kelas desain web.",
+      "Manfaatkan dataset ini untuk memvalidasi dan membersihkan input pengguna, mencegah serangan cross-site scripting (XSS) dengan mengkodekan karakter khusus HTML dengan benar."
+    ]
+  },
+  "record_count": 75,
+  "title": "Dataset Entitas Karakter HTML & Simbol Khusus"
+}

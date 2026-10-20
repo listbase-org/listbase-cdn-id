@@ -1,0 +1,231 @@
+{
+  "id": "id-provinces",
+  "name": "Daftar Provinsi Indonesia",
+  "title": "Daftar Provinsi Indonesia",
+  "description": "Daftar lengkap 38 provinsi di Indonesia dengan kode wilayah resmi dari Kementerian Dalam Negeri (Kepmendagri). Sumber: idn-area-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11",
+      "name": "Aceh",
+      "slug": "aceh"
+    },
+    {
+      "code": "12",
+      "name": "Sumatera Utara",
+      "slug": "sumatera-utara"
+    },
+    {
+      "code": "13",
+      "name": "Sumatera Barat",
+      "slug": "sumatera-barat"
+    },
+    {
+      "code": "14",
+      "name": "Riau",
+      "slug": "riau"
+    },
+    {
+      "code": "15",
+      "name": "Jambi",
+      "slug": "jambi"
+    },
+    {
+      "code": "16",
+      "name": "Sumatera Selatan",
+      "slug": "sumatera-selatan"
+    },
+    {
+      "code": "17",
+      "name": "Bengkulu",
+      "slug": "bengkulu"
+    },
+    {
+      "code": "18",
+      "name": "Lampung",
+      "slug": "lampung"
+    },
+    {
+      "code": "19",
+      "name": "Kepulauan Bangka Belitung",
+      "slug": "kepulauan-bangka-belitung"
+    },
+    {
+      "code": "21",
+      "name": "Kepulauan Riau",
+      "slug": "kepulauan-riau"
+    },
+    {
+      "code": "31",
+      "name": "Daerah Khusus Ibukota Jakarta",
+      "slug": "daerah-khusus-ibukota-jakarta"
+    },
+    {
+      "code": "32",
+      "name": "Jawa Barat",
+      "slug": "jawa-barat"
+    },
+    {
+      "code": "33",
+      "name": "Jawa Tengah",
+      "slug": "jawa-tengah"
+    },
+    {
+      "code": "34",
+      "name": "Daerah Istimewa Yogyakarta",
+      "slug": "daerah-istimewa-yogyakarta"
+    },
+    {
+      "code": "35",
+      "name": "Jawa Timur",
+      "slug": "jawa-timur"
+    },
+    {
+      "code": "36",
+      "name": "Banten",
+      "slug": "banten"
+    },
+    {
+      "code": "51",
+      "name": "Bali",
+      "slug": "bali"
+    },
+    {
+      "code": "52",
+      "name": "Nusa Tenggara Barat",
+      "slug": "nusa-tenggara-barat"
+    },
+    {
+      "code": "53",
+      "name": "Nusa Tenggara Timur",
+      "slug": "nusa-tenggara-timur"
+    },
+    {
+      "code": "61",
+      "name": "Kalimantan Barat",
+      "slug": "kalimantan-barat"
+    },
+    {
+      "code": "62",
+      "name": "Kalimantan Tengah",
+      "slug": "kalimantan-tengah"
+    },
+    {
+      "code": "63",
+      "name": "Kalimantan Selatan",
+      "slug": "kalimantan-selatan"
+    },
+    {
+      "code": "64",
+      "name": "Kalimantan Timur",
+      "slug": "kalimantan-timur"
+    },
+    {
+      "code": "65",
+      "name": "Kalimantan Utara",
+      "slug": "kalimantan-utara"
+    },
+    {
+      "code": "71",
+      "name": "Sulawesi Utara",
+      "slug": "sulawesi-utara"
+    },
+    {
+      "code": "72",
+      "name": "Sulawesi Tengah",
+      "slug": "sulawesi-tengah"
+    },
+    {
+      "code": "73",
+      "name": "Sulawesi Selatan",
+      "slug": "sulawesi-selatan"
+    },
+    {
+      "code": "74",
+      "name": "Sulawesi Tenggara",
+      "slug": "sulawesi-tenggara"
+    },
+    {
+      "code": "75",
+      "name": "Gorontalo",
+      "slug": "gorontalo"
+    },
+    {
+      "code": "76",
+      "name": "Sulawesi Barat",
+      "slug": "sulawesi-barat"
+    },
+    {
+      "code": "81",
+      "name": "Maluku",
+      "slug": "maluku"
+    },
+    {
+      "code": "82",
+      "name": "Maluku Utara",
+      "slug": "maluku-utara"
+    },
+    {
+      "code": "91",
+      "name": "Papua",
+      "slug": "papua"
+    },
+    {
+      "code": "92",
+      "name": "Papua Barat",
+      "slug": "papua-barat"
+    },
+    {
+      "code": "93",
+      "name": "Papua Selatan",
+      "slug": "papua-selatan"
+    },
+    {
+      "code": "94",
+      "name": "Papua Tengah",
+      "slug": "papua-tengah"
+    },
+    {
+      "code": "95",
+      "name": "Papua Pegunungan",
+      "slug": "papua-pegunungan"
+    },
+    {
+      "code": "96",
+      "name": "Papua Barat Daya",
+      "slug": "papua-barat-daya"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Provinsi Indonesia - Unduh Gratis",
+    "description": "Daftar lengkap 38 provinsi di Indonesia dengan kode wilayah resmi dari Kementerian Dalam Negeri (Kepmendagri). Sumber: idn-area-data. Berisi 38 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Provinsi Indonesia | ListBase",
+    "seo_description": "Unduh Daftar Provinsi Indonesia — 38 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 38 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

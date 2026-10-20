@@ -1,0 +1,361 @@
+{
+  "id": "tech-logic-gates",
+  "name": "Dataset Tabel Kebenaran Gerbang Logika",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "gate",
+      "label": "Gate Type",
+      "type": "string"
+    },
+    {
+      "key": "inputs",
+      "label": "Number of Inputs",
+      "type": "number"
+    },
+    {
+      "key": "input_a",
+      "label": "Input A",
+      "type": "number"
+    },
+    {
+      "key": "input_b",
+      "label": "Input B",
+      "type": "number"
+    },
+    {
+      "key": "output",
+      "label": "Output",
+      "type": "number"
+    },
+    {
+      "key": "expression",
+      "label": "Boolean Expression",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 1,
+      "expression": "¬A",
+      "description": "Membalikkan masukan"
+    },
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 0,
+      "expression": "¬A",
+      "description": "Membalikkan masukan"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Keluaran 1 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Keluaran 1 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Keluaran 1 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∧ B",
+      "description": "Keluaran 1 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∨ B",
+      "description": "Keluaran 1 jika salah satu masukan adalah 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Keluaran 1 jika salah satu masukan adalah 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Keluaran 1 jika salah satu masukan adalah 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Keluaran 1 jika salah satu masukan adalah 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Keluaran 0 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Keluaran 0 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Keluaran 0 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Keluaran 0 hanya jika kedua masukan adalah 1"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Keluaran 1 hanya jika kedua masukan adalah 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Keluaran 1 hanya jika kedua masukan adalah 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Keluaran 1 hanya jika kedua masukan adalah 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Keluaran 1 hanya jika kedua masukan adalah 0"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Keluaran 1 jika masukan berbeda"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Keluaran 1 jika masukan berbeda"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Keluaran 1 jika masukan berbeda"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Keluaran 1 jika masukan berbeda"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Keluaran 1 jika masukan sama"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Keluaran 1 jika masukan sama"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Keluaran 1 jika masukan sama"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Keluaran 1 jika masukan sama"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 0,
+      "expression": "A",
+      "description": "Keluaran sama dengan masukan (penguat sinyal)"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 1,
+      "expression": "A",
+      "description": "Keluaran sama dengan masukan (penguat sinyal)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Implikasi logis (jika A maka B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Implikasi logis (jika A maka B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A → B",
+      "description": "Implikasi logis (jika A maka B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Implikasi logis (jika A maka B)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabel Kebenaran Gerbang Logika - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 32 tabel kebenaran gerbang logika dengan ekspresi Boolean. Penting untuk elektronika digital dan ilmu komputer. Tersedia dalam Excel, CSV, PDF.",
+    "title": "Dataset Tabel Kebenaran Gerbang Logika",
+    "description": "Dataset ini menyediakan tabel kebenaran komprehensif untuk 32 gerbang logika umum, termasuk status input/output, ekspresi Boolean, dan deskripsi. Ideal untuk pembelajaran dan referensi elektronika digital.",
+    "key_takeaways": [
+      "Akses tabel kebenaran untuk 32 gerbang logika fundamental.",
+      "Jelajahi ekspresi Boolean dan deskripsi operasional untuk setiap gerbang.",
+      "Unduh data siap pakai untuk desain dan studi logika digital.",
+      "Gunakan jenis gerbang, input, dan output untuk mensimulasikan sirkuit digital."
+    ],
+    "keywords": [
+      "tabel kebenaran gerbang logika excel",
+      "dataset aljabar boolean csv",
+      "gerbang logika digital pdf",
+      "data tabel kebenaran elektronika",
+      "unduh gerbang logika gratis"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke skrip Python atau database SQL Anda untuk menganalisis perilaku gerbang secara terprogram atau membangun simulator sirkuit digital.",
+      "Gunakan file **Excel** untuk memfilter gerbang berdasarkan jenis, membuat tampilan tabel kebenaran kustom, atau menghitung logika gerbang untuk tujuan pendidikan.",
+      "Cetak versi **PDF** untuk referensi kelas, studi offline, atau untuk disertakan dalam presentasi tentang dasar-dasar elektronika digital.",
+      "Manfaatkan dataset ini untuk memverifikasi output gerbang logika dengan cepat atau sebagai sumber daya dasar untuk merancang sistem digital yang kompleks."
+    ]
+  },
+  "record_count": 32,
+  "title": "Dataset Tabel Kebenaran Gerbang Logika"
+}

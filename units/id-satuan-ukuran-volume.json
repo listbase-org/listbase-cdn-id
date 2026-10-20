@@ -1,0 +1,457 @@
+{
+  "id": "id-satuan-ukuran-volume",
+  "name": "Satuan ukuran — kategori 'volume' (44)",
+  "title": "Satuan ukuran — kategori 'volume' (44)",
+  "description": "Satuan ukuran kategori 'volume' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategori": "volume",
+      "nama": "ekar kaki",
+      "singkatan": "ac ft",
+      "bentuk_sempit": "ac ft",
+      "pola": "{0} ekar kaki"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategori": "volume",
+      "nama": "barrel",
+      "singkatan": "barrel",
+      "bentuk_sempit": "bbl",
+      "pola": "{0} barrel"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategori": "volume",
+      "nama": "gantang",
+      "singkatan": "gantang",
+      "bentuk_sempit": "gantang",
+      "pola": "{0} gantang"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategori": "volume",
+      "nama": "sentiliter",
+      "singkatan": "cL",
+      "bentuk_sempit": "cL",
+      "pola": "{0} sentiliter"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategori": "volume",
+      "nama": "sentimeter kubik",
+      "singkatan": "cm³",
+      "bentuk_sempit": "cm³",
+      "pola": "{0} sentimeter kubik"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategori": "volume",
+      "nama": "kaki kubik",
+      "singkatan": "ft³",
+      "bentuk_sempit": "ft³",
+      "pola": "{0} kaki kubik"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategori": "volume",
+      "nama": "inci kubik",
+      "singkatan": "inci³",
+      "bentuk_sempit": "in³",
+      "pola": "{0} inci kubik"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategori": "volume",
+      "nama": "kilometer kubik",
+      "singkatan": "km³",
+      "bentuk_sempit": "km³",
+      "pola": "{0} kilometer kubik"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategori": "volume",
+      "nama": "meter kubik",
+      "singkatan": "m³",
+      "bentuk_sempit": "m³",
+      "pola": "{0} meter kubik"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategori": "volume",
+      "nama": "mil kubik",
+      "singkatan": "mi³",
+      "bentuk_sempit": "mi³",
+      "pola": "{0} mil kubik"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategori": "volume",
+      "nama": "yard kubik",
+      "singkatan": "yard³",
+      "bentuk_sempit": "yd³",
+      "pola": "{0} yard kubik"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategori": "volume",
+      "nama": "cup",
+      "singkatan": "cup",
+      "bentuk_sempit": "cup",
+      "pola": "{0} cup"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategori": "volume",
+      "nama": "cup Imp.",
+      "singkatan": "cup Imp.",
+      "bentuk_sempit": "cup Imp.",
+      "pola": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategori": "volume",
+      "nama": "cup [JP]",
+      "singkatan": "cup [JP]",
+      "bentuk_sempit": "cup [JP]",
+      "pola": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategori": "volume",
+      "nama": "metric cup",
+      "singkatan": "mcup",
+      "bentuk_sempit": "mcup",
+      "pola": "{0} metric cup"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategori": "volume",
+      "nama": "desiliter",
+      "singkatan": "dL",
+      "bentuk_sempit": "dL",
+      "pola": "{0} desiliter"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategori": "volume",
+      "nama": "sendok dessert",
+      "singkatan": "dstspn",
+      "bentuk_sempit": "dsp",
+      "pola": "{0} sendok dessert"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategori": "volume",
+      "nama": "sendok dessert Imp.",
+      "singkatan": "dstspn Imp",
+      "bentuk_sempit": "dsp Imp",
+      "pola": "{0} sendok dessert Imp."
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategori": "volume",
+      "nama": "dram",
+      "singkatan": "dram cairan",
+      "bentuk_sempit": "fl.dr.",
+      "pola": "{0} dram"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategori": "volume",
+      "nama": "tetes",
+      "singkatan": "tetes",
+      "bentuk_sempit": "tetes",
+      "pola": "{0} tetes"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategori": "volume",
+      "nama": "fluid ounce",
+      "singkatan": "fl oz",
+      "bentuk_sempit": "fl oz",
+      "pola": "{0} fluid ounce"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategori": "volume",
+      "nama": "Imp. fluid ounce",
+      "singkatan": "Imp. fl oz",
+      "bentuk_sempit": "Imp. fl oz",
+      "pola": "{0} Imp. fluid ounce"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategori": "volume",
+      "nama": "metric fluid ounce",
+      "singkatan": "fl oz m.",
+      "bentuk_sempit": "fl oz m.",
+      "pola": "{0} metric fluid ounce"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategori": "volume",
+      "nama": "galon",
+      "singkatan": "gal",
+      "bentuk_sempit": "gal",
+      "pola": "{0} galon"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategori": "volume",
+      "nama": "galon Imp.",
+      "singkatan": "gal Imp.",
+      "bentuk_sempit": "gal Imp.",
+      "pola": "{0} galon Imp."
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategori": "volume",
+      "nama": "hektoliter",
+      "singkatan": "hL",
+      "bentuk_sempit": "hL",
+      "pola": "{0} hektoliter"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategori": "volume",
+      "nama": "jigger",
+      "singkatan": "sloki",
+      "bentuk_sempit": "sloki",
+      "pola": "{0} sloki"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategori": "volume",
+      "nama": "koku [JP]",
+      "singkatan": "koku [JP]",
+      "bentuk_sempit": "koku [JP]",
+      "pola": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategori": "volume",
+      "nama": "kosaji [JP]",
+      "singkatan": "kosaji [JP]",
+      "bentuk_sempit": "kosaji [JP]",
+      "pola": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategori": "volume",
+      "nama": "liter",
+      "singkatan": "liter",
+      "bentuk_sempit": "liter",
+      "pola": "{0} liter"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategori": "volume",
+      "nama": "megaliter",
+      "singkatan": "ML",
+      "bentuk_sempit": "ML",
+      "pola": "{0} megaliter"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategori": "volume",
+      "nama": "mililiter",
+      "singkatan": "mL",
+      "bentuk_sempit": "mL",
+      "pola": "{0} mililiter"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategori": "volume",
+      "nama": "osaji [JP]",
+      "singkatan": "osaji [JP]",
+      "bentuk_sempit": "osaji [JP]",
+      "pola": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategori": "volume",
+      "nama": "jumput",
+      "singkatan": "jumput",
+      "bentuk_sempit": "jumput",
+      "pola": "{0} jumput"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategori": "volume",
+      "nama": "pint",
+      "singkatan": "pint",
+      "bentuk_sempit": "pt",
+      "pola": "{0} pint"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategori": "volume",
+      "nama": "pint Imp.",
+      "singkatan": "pint Imp.",
+      "bentuk_sempit": "pint Imp.",
+      "pola": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategori": "volume",
+      "nama": "metric pint",
+      "singkatan": "mpt",
+      "bentuk_sempit": "pt",
+      "pola": "{0} metric pint"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategori": "volume",
+      "nama": "quart",
+      "singkatan": "qt",
+      "bentuk_sempit": "qt",
+      "pola": "{0} quart"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategori": "volume",
+      "nama": "quart Imp.",
+      "singkatan": "qt Imp.",
+      "bentuk_sempit": "qt Imp",
+      "pola": "{0} quart Imp."
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategori": "volume",
+      "nama": "sai [JP]",
+      "singkatan": "sai [JP]",
+      "bentuk_sempit": "sai [JP]",
+      "pola": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategori": "volume",
+      "nama": "shaku [vol, JP]",
+      "singkatan": "shaku [vol, JP]",
+      "bentuk_sempit": "shaku [vol, JP]",
+      "pola": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategori": "volume",
+      "nama": "sendok makan",
+      "singkatan": "sdm",
+      "bentuk_sempit": "sdm",
+      "pola": "{0} sendok makan"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategori": "volume",
+      "nama": "sendok teh",
+      "singkatan": "sdt",
+      "bentuk_sempit": "sdt",
+      "pola": "{0} sendok teh"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategori": "volume",
+      "nama": "to [JP]",
+      "singkatan": "to [JP]",
+      "bentuk_sempit": "to [JP]",
+      "pola": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'volume' (44) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'volume' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 44 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'volume' (44) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'volume' (44) — 44 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 44 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

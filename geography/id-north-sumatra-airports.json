@@ -1,0 +1,220 @@
+{
+  "id": "id-north-sumatra-airports",
+  "name": "Bandar Udara — North Sumatra",
+  "title": "Bandar Udara — North Sumatra",
+  "description": "Bandar udara di Provinsi North Sumatra, Indonesia (Airports in North Sumatra Province, Indonesia — 7 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIME",
+      "iata": "AEG",
+      "name_en": "Aek Godang",
+      "name_slug": "aek-godang",
+      "city_en": "Padangsidempuan",
+      "city_slug": "padangsidempuan",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 925,
+      "lat": 1.3999604,
+      "lon": 99.4298327,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIMS",
+      "iata": "FLZ",
+      "name_en": "Ferdinand Lumban Tobing Airport",
+      "name_slug": "ferdinand-lumban-tobing-airport",
+      "city_en": "Batangtoru",
+      "city_slug": "batangtoru",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 29,
+      "lat": 1.5584287,
+      "lon": 98.8877491,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIMM",
+      "iata": "KNO",
+      "name_en": "Kuala Namu International Airport",
+      "name_slug": "kuala-namu-international-airport",
+      "city_en": "Percut",
+      "city_slug": "percut",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 23,
+      "lat": 3.6312752,
+      "lon": 98.867486,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIMK",
+      "iata": "MES",
+      "name_en": "Polonia",
+      "name_slug": "polonia",
+      "city_en": "Medan",
+      "city_slug": "medan",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 68,
+      "lat": 3.561111,
+      "lon": 98.672775,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIMP",
+      "iata": "SIW",
+      "name_en": "Sibisa",
+      "name_slug": "sibisa",
+      "city_en": "Parapat",
+      "city_slug": "parapat",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2956,
+      "lat": 2.67,
+      "lon": 98.93,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIMN",
+      "iata": "DTB",
+      "name_en": "Sisingamangaraja XII International Airport",
+      "name_slug": "sisingamangaraja-xii-international-airport",
+      "city_en": "Siborong-borong",
+      "city_slug": "siborong-borong",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 4708,
+      "lat": 2.2611855,
+      "lon": 98.9771783,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIBT",
+      "iata": "TJB",
+      "name_en": "Tanjung Balai",
+      "name_slug": "tanjung-balai",
+      "city_en": "Tanjungbalai",
+      "city_slug": "tanjungbalai",
+      "province_en": "North Sumatra",
+      "province_slug": "north-sumatra",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 33,
+      "lat": 2.916667,
+      "lon": 99.73333,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — North Sumatra - Unduh Gratis",
+    "description": "Bandar udara di Provinsi North Sumatra, Indonesia (Airports in North Sumatra Province, Indonesia — 7 record(s).) Berisi 7 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — North Sumatra | ListBase",
+    "seo_description": "Unduh Bandar Udara — North Sumatra — 7 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 7 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

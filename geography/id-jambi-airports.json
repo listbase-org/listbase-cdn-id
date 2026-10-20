@@ -1,0 +1,186 @@
+{
+  "id": "id-jambi-airports",
+  "name": "Bandar Udara — Jambi",
+  "title": "Bandar Udara — Jambi",
+  "description": "Bandar udara di Provinsi Jambi, Indonesia (Airports in Jambi Province, Indonesia — 5 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIPH",
+      "iata": "KRC",
+      "name_en": "Kerinci",
+      "name_slug": "kerinci",
+      "city_en": "Siulakderasmudik",
+      "city_slug": "siulakderasmudik",
+      "province_en": "Jambi",
+      "province_slug": "jambi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 2600,
+      "lat": -1.716667,
+      "lon": 101.25,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIPI",
+      "iata": "BUU",
+      "name_en": "Muara Bungo Airport",
+      "name_slug": "muara-bungo-airport",
+      "city_en": "Muarabungo",
+      "city_slug": "muarabungo",
+      "province_en": "Jambi",
+      "province_slug": "jambi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 282,
+      "lat": -1.5425,
+      "lon": 102.182778,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIPU",
+      "iata": "MPC",
+      "name_en": "Muko-Muko",
+      "name_slug": "muko-muko",
+      "city_en": "Sungai Penuh",
+      "city_slug": "sungai-penuh",
+      "province_en": "Jambi",
+      "province_slug": "jambi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 36,
+      "lat": -2.55,
+      "lon": 101.1,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIJJ",
+      "iata": "DJB",
+      "name_en": "Sultan Thaha Airport",
+      "name_slug": "sultan-thaha-airport",
+      "city_en": "Jambi City",
+      "city_slug": "jambi-city",
+      "province_en": "Jambi",
+      "province_slug": "jambi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 65,
+      "lat": -1.6392545,
+      "lon": 103.646151,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WAON",
+      "iata": "TJG",
+      "name_en": "Tanjung Warukin",
+      "name_slug": "tanjung-warukin",
+      "city_en": "Simpang",
+      "city_slug": "simpang",
+      "province_en": "Jambi",
+      "province_slug": "jambi",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 197,
+      "lat": -1.4,
+      "lon": 103.96667,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Jambi - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Jambi, Indonesia (Airports in Jambi Province, Indonesia — 5 record(s).) Berisi 5 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Jambi | ListBase",
+    "seo_description": "Unduh Bandar Udara — Jambi — 5 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 5 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

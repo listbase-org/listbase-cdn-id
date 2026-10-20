@@ -1,0 +1,169 @@
+{
+  "id": "id-satuan-ukuran-pressure",
+  "name": "Satuan ukuran — kategori 'pressure' (12)",
+  "title": "Satuan ukuran — kategori 'pressure' (12)",
+  "description": "Satuan ukuran kategori 'pressure' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategori": "pressure",
+      "nama": "atmosfer",
+      "singkatan": "atm",
+      "bentuk_sempit": "atm",
+      "pola": "{0} atmosfer"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategori": "pressure",
+      "nama": "bar",
+      "singkatan": "bar",
+      "bentuk_sempit": "bar",
+      "pola": "{0} bar"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategori": "pressure",
+      "nama": "gas E",
+      "singkatan": "gas E",
+      "bentuk_sempit": "gas E",
+      "pola": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategori": "pressure",
+      "nama": "hektopascal",
+      "singkatan": "hPa",
+      "bentuk_sempit": "hPa",
+      "pola": "{0} hektopascal"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategori": "pressure",
+      "nama": "inci raksa",
+      "singkatan": "in Hg",
+      "bentuk_sempit": "″ Hg",
+      "pola": "{0} inci raksa"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategori": "pressure",
+      "nama": "kilopascal",
+      "singkatan": "kPa",
+      "bentuk_sempit": "kPa",
+      "pola": "{0} kilopascal"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategori": "pressure",
+      "nama": "megapascal",
+      "singkatan": "MPa",
+      "bentuk_sempit": "MPa",
+      "pola": "{0} megapascal"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategori": "pressure",
+      "nama": "milibar",
+      "singkatan": "mbar",
+      "bentuk_sempit": "mbar",
+      "pola": "{0} milibar"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategori": "pressure",
+      "nama": "milimeter raksa",
+      "singkatan": "mmHg",
+      "bentuk_sempit": "mmHg",
+      "pola": "{0} milimeter raksa"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategori": "pressure",
+      "nama": "raksa",
+      "singkatan": "Hg",
+      "bentuk_sempit": "Hg",
+      "pola": "{0} raksa"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategori": "pressure",
+      "nama": "pascal",
+      "singkatan": "Pa",
+      "bentuk_sempit": "Pa",
+      "pola": "{0} pascal"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategori": "pressure",
+      "nama": "pound per inci persegi",
+      "singkatan": "psi",
+      "bentuk_sempit": "psi",
+      "pola": "{0} pound per inci persegi"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'pressure' (12) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'pressure' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 12 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'pressure' (12) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'pressure' (12) — 12 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 12 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

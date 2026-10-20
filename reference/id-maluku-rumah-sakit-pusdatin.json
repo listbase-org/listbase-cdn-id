@@ -1,0 +1,436 @@
+{
+  "id": "id-maluku-rumah-sakit-pusdatin",
+  "name": "Rumah sakit di Maluku — data Pusdatin Kemenkes",
+  "title": "Rumah sakit di Maluku — data Pusdatin Kemenkes",
+  "description": "Daftar rumah sakit di provinsi Maluku menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kode_rs",
+      "label": "Kode Rs",
+      "type": "number"
+    },
+    {
+      "key": "tempat_tidur",
+      "label": "Tempat Tidur",
+      "type": "number"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RS UMUM DAERAH DR. ISHAK UMARELLA",
+      "kode_rs": "8103053",
+      "tempat_tidur": 115,
+      "telepon": "(0911) 3869260",
+      "alamat": "JALAN PAHLAWAN NO. 36 TULEHU, MALUKU TENGAH. KODE POS 97582",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MALUKU TENGAH, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.594174,
+      "longitude": 128.347487
+    },
+    {
+      "nama": "RS UMUM DAERAH NAMROLE",
+      "kode_rs": "8109018",
+      "tempat_tidur": 66,
+      "telepon": "NA",
+      "alamat": "JL. KILOMETER NO. 02, LABUANG - NAMROLE",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BURU SELATAN, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.83732942,
+      "longitude": 126.73683721
+    },
+    {
+      "nama": "RS UMUM DAERAH TIAKUR",
+      "kode_rs": "8108002",
+      "tempat_tidur": 30,
+      "telepon": "",
+      "alamat": "TIAKUR",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MALUKU BARAT DAYA, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -8.19345574,
+      "longitude": 127.8650408
+    },
+    {
+      "nama": "RS UMUM DAERAH CENDRAWASIH DOBO",
+      "kode_rs": "8105019",
+      "tempat_tidur": 89,
+      "telepon": "(0917) 21366",
+      "alamat": "JL. CENDRAWASIH KM. 6, SIWALIMA, PULAU-PULAU ARU, KABUPATEN KEPULAUAN ARU, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KEPULAUAN ARU, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -5.787909,
+      "longitude": 134.211873
+    },
+    {
+      "nama": "RSUD KAB. BURU",
+      "kode_rs": "8103020",
+      "tempat_tidur": 89,
+      "telepon": "",
+      "alamat": "JL. BUTUNG LEONG NO. 1 DESA LALA, NAMLEA, KAB.BURU, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "BURU, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.22345,
+      "longitude": 127.101347
+    },
+    {
+      "nama": "RS UMUM DAERAH MAREN KOTA TUAL",
+      "kode_rs": "8172002",
+      "tempat_tidur": 58,
+      "telepon": "",
+      "alamat": "DESA DULLAH, KEC. P. DULLAH UTARA, 97613, DULLAH DARAT, NORTH DULLAH ISLAND, TUAL CITY, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA TUAL, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -5.567894,
+      "longitude": 132.765895
+    },
+    {
+      "nama": "RS UMUM DAERAH BULA",
+      "kode_rs": "8107021",
+      "tempat_tidur": 143,
+      "telepon": "(0915) 21312",
+      "alamat": "JL. WAILOLA NO.11-12 BULA KAB. SERAM BAGIANTIMUR",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SERAM BAGIAN TIMUR, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.096501,
+      "longitude": 130.476571
+    },
+    {
+      "nama": "RS AL AMBON",
+      "kode_rs": "8171030",
+      "tempat_tidur": 63,
+      "telepon": "(0911) 352547",
+      "alamat": "KOMPLEK PANGKALAN TNI-AL, JL. LAYAR NO. 1, HALONG, WAIYAME, HALONG, BAGUALA, KOTA AMBON, MALUKU 97231",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.654558,
+      "longitude": 128.227155
+    },
+    {
+      "nama": "RS UMUM KAREL SADSUITUBUN",
+      "kode_rs": "8101015",
+      "tempat_tidur": 159,
+      "telepon": "(0916) 21612 / (0916) 21613",
+      "alamat": "JL. MERDEKA RAYA NO.3 KEL. OHOIJANG WATDEK, KEI KECIL, KABUPATEN MALUKU TENGGARA, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MALUKU TENGGARA, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -5.648891,
+      "longitude": 132.737037
+    },
+    {
+      "nama": "RS UMUM SAPARUA",
+      "kode_rs": "8103016",
+      "tempat_tidur": 65,
+      "telepon": "(0911) 21090",
+      "alamat": "JL. RUMAH SAKIT PORTO- KECAMATAN, HARIA, SAPARUA, KABUPATEN MALUKU TENGAH, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MALUKU TENGAH, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.573858,
+      "longitude": 128.633239
+    },
+    {
+      "nama": "RS BHAYANGKARA AMBON",
+      "kode_rs": "8171121",
+      "tempat_tidur": 98,
+      "telepon": "NA",
+      "alamat": "JL. SULTAN HASANUDDIN - TANTUI, AMBON",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.671931,
+      "longitude": 128.196262
+    },
+    {
+      "nama": "RS UMUM PIRU",
+      "kode_rs": "8106010",
+      "tempat_tidur": 60,
+      "telepon": "NA",
+      "alamat": "JL. ARTERI PIRU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "SERAM BAGIAN BARAT, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.08549,
+      "longitude": 128.210486
+    },
+    {
+      "nama": "RS SUMBER HIDUP GPM",
+      "kode_rs": "8171085",
+      "tempat_tidur": 57,
+      "telepon": "(0911) 352373",
+      "alamat": "JL. ANTHONY REBOK NO.11, KEL HONIPOPU, SIRIMAU, KOTA AMBON, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.695526,
+      "longitude": 128.182925
+    },
+    {
+      "nama": "RS TK. II PROF. DR. J. A. LATUMETEN",
+      "kode_rs": "8171026",
+      "tempat_tidur": 140,
+      "telepon": "(0911) 353555",
+      "alamat": "JALAN DR. TAMAELA NO.2, KEL SILALE, NUSANIWE, KOTA AMBON, MALUKU",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.701059,
+      "longitude": 128.178915
+    },
+    {
+      "nama": "RS UMUM MASOHI",
+      "kode_rs": "8103042",
+      "tempat_tidur": 105,
+      "telepon": "(0914) 2310893",
+      "alamat": "JL. DR. G. A. SIWABESSY, NAMAELO, KOTA MASOHI, KABUPATEN MALUKU TENGAH, MALUKU 97511",
+      "tipe": "RS_RUJUKAN_PROVINSI",
+      "wilayah": "MALUKU TENGAH, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.304981,
+      "longitude": 128.958233
+    },
+    {
+      "nama": "RS UMUM DAERAH DR. P. P. MAGRETTI SAUMLAKI",
+      "kode_rs": "8101063",
+      "tempat_tidur": 70,
+      "telepon": "",
+      "alamat": "JL. MR. LATUHARHARI - SAUMLAKI",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "MALUKU TENGGARA BARAT, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -7.974369,
+      "longitude": 131.308021
+    },
+    {
+      "nama": "RS UMUM DR. M. HAULUSSY AMBON",
+      "kode_rs": "8171015",
+      "tempat_tidur": 379,
+      "telepon": "(0911) 344871",
+      "alamat": "JL. DR. KAYADOE, BENTENG, NUSANIWE, KEL BENTENG, NUSANIWE, KOTA AMBON, MALUKU",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.708337,
+      "longitude": 128.167195
+    },
+    {
+      "nama": "RS UMUM PUSAT DR. J. LEIMENA",
+      "kode_rs": "8171123",
+      "tempat_tidur": 0,
+      "telepon": "",
+      "alamat": "JALAN R. SUPRAPTO NO.123, RUMAH TIGA, TLK. AMBON, KOTA AMBON, MALUKU",
+      "tipe": "RS_RUJUKAN_NASIONAL",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.661391,
+      "longitude": 128.186542
+    },
+    {
+      "nama": "RS ST. YUSUPH ELAT",
+      "kode_rs": "8101030",
+      "tempat_tidur": 0,
+      "telepon": "0916-22023",
+      "alamat": "KEI BESAR KAB. MALUKU TENGGARA",
+      "tipe": "",
+      "wilayah": "MALUKU TENGGARA, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.2384,
+      "longitude": 130.145
+    },
+    {
+      "nama": "RS UMUM DAERAH DR. D. ANATOTOTI",
+      "kode_rs": "8101064",
+      "tempat_tidur": 0,
+      "telepon": "85353929201",
+      "alamat": "LARAT KEC. TANIMBAR UTARA KAB. MTB",
+      "tipe": "",
+      "wilayah": "MALUKU TENGGARA BARAT, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -7.138285,
+      "longitude": 131.899792
+    },
+    {
+      "nama": "RS HATI KUDUS LANGGUR",
+      "kode_rs": "8101026",
+      "tempat_tidur": 90,
+      "telepon": "(0916) 21638",
+      "alamat": "JL. JENDERAL SUDIRMAN, LANGGUR, KEL. OHOIJANG WATDEK, KEI KECIL, KABUPATEN MALUKU TENGGARA, MALUKU 97611",
+      "tipe": "",
+      "wilayah": "MALUKU TENGGARA, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -5.649282,
+      "longitude": 132.741688
+    },
+    {
+      "nama": "RS FATIMA SAUMLAKI",
+      "kode_rs": "8101041",
+      "tempat_tidur": 0,
+      "telepon": "(0918) 21029",
+      "alamat": "JALAN MISSI, KEC KEI KECIL, SAUMLAKI, TANIMBAR UTARA, OLILIT, TANIMBAR SEL., BARAT MALUKU, MALUKU",
+      "tipe": "",
+      "wilayah": "MALUKU TENGGARA BARAT, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -7.967013,
+      "longitude": 131.318191
+    },
+    {
+      "nama": "RS LANUD PATIMURA",
+      "kode_rs": "8171052",
+      "tempat_tidur": 0,
+      "telepon": "0911 61693",
+      "alamat": "LANUD PATTIMURA, LAHA, TELUK AMBON, KOTA AMBON",
+      "tipe": "",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.700377,
+      "longitude": 128.110696
+    },
+    {
+      "nama": "RS HATIVE",
+      "kode_rs": "8171074",
+      "tempat_tidur": 54,
+      "telepon": "(0911) 362199",
+      "alamat": "JALAN LEO WATTIMENA, PASSO, BAGUALA, KOTA AMBON, MALUKU 97111",
+      "tipe": "",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.626906,
+      "longitude": 128.2535
+    },
+    {
+      "nama": "RS UMUM DAERAH BANDA",
+      "kode_rs": "8103002",
+      "tempat_tidur": 43,
+      "telepon": "",
+      "alamat": "JL.KUJALI NO.163A  BANDA,KABUPATEN MALUKU TENGAH",
+      "tipe": "",
+      "wilayah": "MALUKU TENGAH, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.655933,
+      "longitude": 128.176572
+    },
+    {
+      "nama": "RSKD PROVINSI MALUKU",
+      "kode_rs": "8171063",
+      "tempat_tidur": 110,
+      "telepon": "(0911) 361392",
+      "alamat": "JL. LAKSDYA LEO WATTIMENA, NEGERI LAMA, BAGUALA, KOTA AMBON, MALUKU",
+      "tipe": "",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.626945,
+      "longitude": 128.243906
+    },
+    {
+      "nama": "RS UMUM BAKTI RAHAYU",
+      "kode_rs": "8171096",
+      "tempat_tidur": 44,
+      "telepon": "(0911) 342746",
+      "alamat": "JL. JEND. A YANI, KEL BATU GAJA, SIRIMAU, KOTA AMBON, MALUKU 97114",
+      "tipe": "",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.486321,
+      "longitude": 128.833173
+    },
+    {
+      "nama": "RS AL FATAH",
+      "kode_rs": "8171110",
+      "tempat_tidur": 71,
+      "telepon": "(0911) 343848",
+      "alamat": "JALAN SULTAN BABULLAH NO. 2, WAIHAONG NUSANIVE, KEL WAINITU, NUSANIWE, KEL WAINITU, NUSANIWE, KOTA AMBON, MALUKU",
+      "tipe": "",
+      "wilayah": "KOTA AMBON, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.703854,
+      "longitude": 128.17177
+    },
+    {
+      "nama": "RS BERGERAK KAB. MALUKU TENGGARA BARAT",
+      "kode_rs": "8101052",
+      "tempat_tidur": 0,
+      "telepon": "",
+      "alamat": "JLN. IR. SOEKARNO",
+      "tipe": "",
+      "wilayah": "MALUKU TENGGARA BARAT, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.2384,
+      "longitude": 130.145
+    },
+    {
+      "nama": "RS UMUM GORAN RIUN",
+      "kode_rs": "8107024",
+      "tempat_tidur": 30,
+      "telepon": "NA",
+      "alamat": "JL. LINGKAR PULAU GOROM KECAMATAN PULAU GOROM",
+      "tipe": "NA",
+      "wilayah": "SERAM BAGIAN TIMUR, MALUKU",
+      "provinsi": "MALUKU",
+      "latitude": -3.994865,
+      "longitude": 131.381808
+    }
+  ],
+  "meta": {
+    "title": "Rumah sakit di Maluku — data Pusdatin Kemenkes - Unduh Gratis",
+    "description": "Daftar rumah sakit di provinsi Maluku menurut data Pusat Data dan Informasi Kementerian Kesehatan, dengan kode RS, jumlah tempat tidur, alamat dan koordinat. Berisi 30 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Rumah sakit di Maluku — data Pusdatin Kemenkes | ListBase",
+    "seo_description": "Unduh Rumah sakit di Maluku — data Pusdatin Kemenkes — 30 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 30 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "id-sulawesi-barat-regencies",
+  "name": "Daftar Kabupaten dan Kota di Sulawesi Barat",
+  "title": "Daftar Kabupaten dan Kota di Sulawesi Barat",
+  "description": "Daftar kabupaten dan kota di Provinsi Sulawesi Barat dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "76.01",
+      "name": "Kabupaten Pasangkayu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pasangkayu"
+    },
+    {
+      "code": "76.02",
+      "name": "Kabupaten Mamuju",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mamuju"
+    },
+    {
+      "code": "76.03",
+      "name": "Kabupaten Mamasa",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mamasa"
+    },
+    {
+      "code": "76.04",
+      "name": "Kabupaten Polewali Mandar",
+      "type": "Kabupaten",
+      "slug": "kabupaten-polewali-mandar"
+    },
+    {
+      "code": "76.05",
+      "name": "Kabupaten Majene",
+      "type": "Kabupaten",
+      "slug": "kabupaten-majene"
+    },
+    {
+      "code": "76.06",
+      "name": "Kabupaten Mamuju Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mamuju-tengah"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Sulawesi Barat - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Sulawesi Barat dengan kode wilayah Kepmendagri. Total 6 kabupaten/kota. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Sulawesi Barat | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Sulawesi Barat — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

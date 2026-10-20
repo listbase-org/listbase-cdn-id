@@ -1,0 +1,169 @@
+{
+  "id": "id-riau-airports",
+  "name": "Bandar Udara — Riau",
+  "title": "Bandar Udara — Riau",
+  "description": "Bandar udara di Provinsi Riau, Indonesia (Airports in Riau Province, Indonesia — 4 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIPR",
+      "iata": "RGT",
+      "name_en": "Japura",
+      "name_slug": "japura",
+      "city_en": "Rengat",
+      "city_slug": "rengat",
+      "province_en": "Riau",
+      "province_slug": "riau",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 26,
+      "lat": -0.4,
+      "lon": 102.55,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIDE",
+      "iata": "PPR",
+      "name_en": "Pasir Pangarayan",
+      "name_slug": "pasir-pangarayan",
+      "city_en": "Pasirpengarayan",
+      "city_slug": "pasirpengarayan",
+      "province_en": "Riau",
+      "province_slug": "riau",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 190,
+      "lat": 0.833333,
+      "lon": 100.36667,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIBD",
+      "iata": "DUM",
+      "name_en": "Pinang Kampai",
+      "name_slug": "pinang-kampai",
+      "city_en": "Bagan Besar",
+      "city_slug": "bagan-besar",
+      "province_en": "Riau",
+      "province_slug": "riau",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 72,
+      "lat": 1.6089932,
+      "lon": 101.4333272,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    },
+    {
+      "icao": "WIHG",
+      "iata": "PPJ",
+      "name_en": "Pulau Panjang",
+      "name_slug": "pulau-panjang",
+      "city_en": "Pulaukijang",
+      "city_slug": "pulaukijang",
+      "province_en": "Riau",
+      "province_slug": "riau",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 36,
+      "lat": -0.6331905,
+      "lon": 103.3004323,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Riau - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Riau, Indonesia (Airports in Riau Province, Indonesia — 4 record(s).) Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Riau | ListBase",
+    "seo_description": "Unduh Bandar Udara — Riau — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

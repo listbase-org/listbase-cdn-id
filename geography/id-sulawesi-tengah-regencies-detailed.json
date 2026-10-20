@@ -1,0 +1,232 @@
+{
+  "id": "id-sulawesi-tengah-regencies-detailed",
+  "name": "Daftar Kabupaten/Kota di Sulawesi Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "title": "Daftar Kabupaten/Kota di Sulawesi Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk",
+  "description": "13 kabupaten/kota di Provinsi Sulawesi Tengah dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "72.01",
+      "name": "Kabupaten Banggai",
+      "type": "kabupaten",
+      "capital": "Luwuk",
+      "latitude": -0.994323,
+      "longitude": 122.788538,
+      "elevation_m": 124,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 8241.143,
+      "population": 377804
+    },
+    {
+      "code": "72.02",
+      "name": "Kabupaten Poso",
+      "type": "kabupaten",
+      "capital": "Poso",
+      "latitude": -1.395202,
+      "longitude": 120.754824,
+      "elevation_m": 14,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 7544.965,
+      "population": 253350
+    },
+    {
+      "code": "72.03",
+      "name": "Kabupaten Donggala",
+      "type": "kabupaten",
+      "capital": "Banawa",
+      "latitude": -0.678464,
+      "longitude": 119.752574,
+      "elevation_m": 56,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5122.736,
+      "population": 318613
+    },
+    {
+      "code": "72.04",
+      "name": "Kabupaten Toli-Toli",
+      "type": "kabupaten",
+      "capital": "Tolitoli",
+      "latitude": 1.018493,
+      "longitude": 120.798023,
+      "elevation_m": 7,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3695.945,
+      "population": 242783
+    },
+    {
+      "code": "72.05",
+      "name": "Kabupaten Buol",
+      "type": "kabupaten",
+      "capital": "Buol",
+      "latitude": 1.169078,
+      "longitude": 121.409756,
+      "elevation_m": 65,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 3719.205,
+      "population": 162273
+    },
+    {
+      "code": "72.06",
+      "name": "Kabupaten Morowali",
+      "type": "kabupaten",
+      "capital": "Bungku",
+      "latitude": -2.480863,
+      "longitude": 121.934285,
+      "elevation_m": 6,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 4433.535,
+      "population": 198968
+    },
+    {
+      "code": "72.07",
+      "name": "Kabupaten Banggai Kepulauan",
+      "type": "kabupaten",
+      "capital": "Salakan",
+      "latitude": -1.311904,
+      "longitude": 123.298444,
+      "elevation_m": 102,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 2378.048,
+      "population": 130008
+    },
+    {
+      "code": "72.08",
+      "name": "Kabupaten Parigi Moutong",
+      "type": "kabupaten",
+      "capital": "Parigi",
+      "latitude": -0.805427,
+      "longitude": 120.160323,
+      "elevation_m": 27,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5800.059,
+      "population": 461576
+    },
+    {
+      "code": "72.09",
+      "name": "Kabupaten Tojo Una Una",
+      "type": "kabupaten",
+      "capital": "Ampana",
+      "latitude": -0.914651,
+      "longitude": 121.588521,
+      "elevation_m": 85,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5565.953,
+      "population": 173534
+    },
+    {
+      "code": "72.10",
+      "name": "Kabupaten Sigi",
+      "type": "kabupaten",
+      "capital": "Sigi Biromaru",
+      "latitude": -1.047398,
+      "longitude": 119.950341,
+      "elevation_m": 152,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 5225.435,
+      "population": 273460
+    },
+    {
+      "code": "72.11",
+      "name": "Kabupaten Banggai Laut",
+      "type": "kabupaten",
+      "capital": "Banggai",
+      "latitude": -1.606292,
+      "longitude": 123.496387,
+      "elevation_m": 21,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 680.306,
+      "population": 77830
+    },
+    {
+      "code": "72.12",
+      "name": "Kabupaten Morowali Utara",
+      "type": "kabupaten",
+      "capital": "Kolonodale",
+      "latitude": -1.977283,
+      "longitude": 121.335508,
+      "elevation_m": 57,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 8733.733,
+      "population": 154004
+    },
+    {
+      "code": "72.71",
+      "name": "Kota Palu",
+      "type": "kota",
+      "capital": "Palu",
+      "latitude": -0.89996,
+      "longitude": 119.891022,
+      "elevation_m": 66,
+      "timezone": "WITA (UTC+8)",
+      "area_km2": 355.92,
+      "population": 395291
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten/Kota di Sulawesi Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk - Unduh Gratis",
+    "description": "13 kabupaten/kota di Provinsi Sulawesi Tengah dengan data lengkap: ibukota, koordinat (lat/lng), elevasi, zona waktu, luas (km²), dan jumlah penduduk. Kode wilayah Kepmendagri No 300.2.2-2138 Tahun 2025. Berisi 13 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten/Kota di Sulawesi Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten/Kota di Sulawesi Tengah (Detail) — Ibukota, Koordinat, Luas, Jumlah Penduduk — 13 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 13 rekaman / 10 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

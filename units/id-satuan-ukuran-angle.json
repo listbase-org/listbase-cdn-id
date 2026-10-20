@@ -1,0 +1,115 @@
+{
+  "id": "id-satuan-ukuran-angle",
+  "name": "Satuan ukuran — kategori 'angle' (6)",
+  "title": "Satuan ukuran — kategori 'angle' (6)",
+  "description": "Satuan ukuran kategori 'angle' dari locale id di CLDR, dengan nama dalam bahasa Indonesia.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_sempit",
+      "label": "Bentuk Sempit",
+      "type": "string"
+    },
+    {
+      "key": "pola",
+      "label": "Pola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategori": "angle",
+      "nama": "menit busur",
+      "singkatan": "mnt busur",
+      "bentuk_sempit": "mnt busur",
+      "pola": "{0} menit busur"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategori": "angle",
+      "nama": "detik busur",
+      "singkatan": "dtk busur",
+      "bentuk_sempit": "dtk busur",
+      "pola": "{0} detik busur"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategori": "angle",
+      "nama": "derajat",
+      "singkatan": "derajat",
+      "bentuk_sempit": "derajat",
+      "pola": "{0} derajat"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategori": "angle",
+      "nama": "radian",
+      "singkatan": "radian",
+      "bentuk_sempit": "rad",
+      "pola": "{0} radian"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategori": "angle",
+      "nama": "revolusi",
+      "singkatan": "rev",
+      "bentuk_sempit": "rev",
+      "pola": "{0} revolusi"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategori": "angle",
+      "nama": "steradian",
+      "singkatan": "sr",
+      "bentuk_sempit": "sr",
+      "pola": "{0} steradian"
+    }
+  ],
+  "meta": {
+    "title": "Satuan ukuran — kategori 'angle' (6) - Unduh Gratis",
+    "description": "Satuan ukuran kategori 'angle' dari locale id di CLDR, dengan nama dalam bahasa Indonesia. Berisi 6 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Satuan ukuran — kategori 'angle' (6) | ListBase",
+    "seo_description": "Unduh Satuan ukuran — kategori 'angle' (6) — 6 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 6 rekaman / 7 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

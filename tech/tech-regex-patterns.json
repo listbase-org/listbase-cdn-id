@@ -1,0 +1,379 @@
+{
+  "id": "tech-regex-patterns",
+  "name": "Kumpulan Data Pola Ekspresi Reguler Esensial",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Pattern Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "pattern",
+      "label": "Regex Pattern",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alamat Email",
+      "category": "Kontak",
+      "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+      "example": "user@example.com",
+      "description": "Validasi email standar"
+    },
+    {
+      "name": "Email (Ketat)",
+      "category": "Kontak",
+      "pattern": "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$",
+      "example": "name+tag@sub.domain.com",
+      "description": "Email sesuai RFC 5322"
+    },
+    {
+      "name": "Telepon (Internasional)",
+      "category": "Kontak",
+      "pattern": "^\\+?[1-9]\\d{1,14}$",
+      "example": "+14155551234",
+      "description": "Format telepon internasional E.164"
+    },
+    {
+      "name": "Telepon (AS)",
+      "category": "Kontak",
+      "pattern": "^\\(?([0-9]{3})\\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$",
+      "example": "(415) 555-1234",
+      "description": "Format nomor telepon AS"
+    },
+    {
+      "name": "Telepon (Thailand)",
+      "category": "Kontak",
+      "pattern": "^(0[689]{1})\\d{8}$",
+      "example": "0812345678",
+      "description": "Nomor telepon seluler Thailand"
+    },
+    {
+      "name": "URL (HTTP/HTTPS)",
+      "category": "Web",
+      "pattern": "^https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)$",
+      "example": "https://example.com/path",
+      "description": "Validasi URL HTTP/HTTPS"
+    },
+    {
+      "name": "URL (Sederhana)",
+      "category": "Web",
+      "pattern": "^(https?:\\/\\/)?[\\w.-]+\\.[a-z]{2,}(\\/\\S*)?$",
+      "example": "example.com/page",
+      "description": "Pola URL sederhana"
+    },
+    {
+      "name": "Nama Domain",
+      "category": "Web",
+      "pattern": "^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$",
+      "example": "sub.example.com",
+      "description": "Validasi nama domain"
+    },
+    {
+      "name": "Alamat IP (IPv4)",
+      "category": "Web",
+      "pattern": "^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$",
+      "example": "192.168.1.1",
+      "description": "Validasi alamat IPv4"
+    },
+    {
+      "name": "Alamat IP (IPv6)",
+      "category": "Web",
+      "pattern": "^([0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$",
+      "example": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+      "description": "Alamat IPv6 (bentuk lengkap)"
+    },
+    {
+      "name": "Alamat MAC",
+      "category": "Web",
+      "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+      "example": "00:1A:2B:3C:4D:5E",
+      "description": "Validasi alamat MAC"
+    },
+    {
+      "name": "Slug (Ramah URL)",
+      "category": "Web",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "example": "my-blog-post-title",
+      "description": "Format slug URL"
+    },
+    {
+      "name": "Kata Sandi (Kuat)",
+      "category": "Keamanan",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$",
+      "example": "Pass@123",
+      "description": "Min 8 karakter, huruf besar, kecil, digit, spesial"
+    },
+    {
+      "name": "Kata Sandi (Menengah)",
+      "category": "Keamanan",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)[A-Za-z\\d]{8,}$",
+      "example": "Password1",
+      "description": "Min 8 karakter, huruf besar, kecil, digit"
+    },
+    {
+      "name": "UUID v4",
+      "category": "Keamanan",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+      "example": "550e8400-e29b-41d4-a716-446655440000",
+      "description": "Format UUID versi 4"
+    },
+    {
+      "name": "Token JWT",
+      "category": "Keamanan",
+      "pattern": "^[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]*$",
+      "example": "eyJhbGc.eyJzdWI.SflKxw",
+      "description": "Format JSON Web Token"
+    },
+    {
+      "name": "Warna Hex",
+      "category": "Keamanan",
+      "pattern": "^#?([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$",
+      "example": "#FF5733",
+      "description": "Kode warna heksadesimal"
+    },
+    {
+      "name": "Bilangan Bulat",
+      "category": "Angka",
+      "pattern": "^-?\\d+$",
+      "example": "-12345",
+      "description": "Bilangan bulat positif atau negatif"
+    },
+    {
+      "name": "Angka Desimal",
+      "category": "Angka",
+      "pattern": "^-?\\d*\\.?\\d+$",
+      "example": "123.45",
+      "description": "Angka desimal"
+    },
+    {
+      "name": "Mata Uang (USD)",
+      "category": "Keuangan",
+      "pattern": "^\\$?\\d{1,3}(,\\d{3})*(\\.\\d{2})?$",
+      "example": "$1,234.56",
+      "description": "Format mata uang AS"
+    },
+    {
+      "name": "Kartu Kredit",
+      "category": "Keuangan",
+      "pattern": "^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})$",
+      "example": "4111111111111111",
+      "description": "Visa, MC, Amex, Discover"
+    },
+    {
+      "name": "CVV",
+      "category": "Keuangan",
+      "pattern": "^[0-9]{3,4}$",
+      "example": "123",
+      "description": "CVV/CVC kartu kredit"
+    },
+    {
+      "name": "IBAN",
+      "category": "Keuangan",
+      "pattern": "^[A-Z]{2}[0-9]{2}[A-Z0-9]{4}[0-9]{7}([A-Z0-9]?){0,16}$",
+      "example": "DE89370400440532013000",
+      "description": "Nomor Rekening Bank Internasional"
+    },
+    {
+      "name": "Tanggal (YYYY-MM-DD)",
+      "category": "TanggalWaktu",
+      "pattern": "^\\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$",
+      "example": "2024-12-25",
+      "description": "Format tanggal ISO 8601"
+    },
+    {
+      "name": "Tanggal (DD/MM/YYYY)",
+      "category": "TanggalWaktu",
+      "pattern": "^(0[1-9]|[12]\\d|3[01])\\/(0[1-9]|1[0-2])\\/\\d{4}$",
+      "example": "25/12/2024",
+      "description": "Format tanggal Eropa"
+    },
+    {
+      "name": "Tanggal (MM/DD/YYYY)",
+      "category": "TanggalWaktu",
+      "pattern": "^(0[1-9]|1[0-2])\\/(0[1-9]|[12]\\d|3[01])\\/\\d{4}$",
+      "example": "12/25/2024",
+      "description": "Format tanggal AS"
+    },
+    {
+      "name": "Waktu (24j)",
+      "category": "TanggalWaktu",
+      "pattern": "^([01]\\d|2[0-3]):([0-5]\\d)$",
+      "example": "23:59",
+      "description": "Format waktu 24 jam"
+    },
+    {
+      "name": "Waktu (12j)",
+      "category": "TanggalWaktu",
+      "pattern": "^(0?[1-9]|1[0-2]):[0-5][0-9]\\s?(AM|PM|am|pm)$",
+      "example": "11:30 PM",
+      "description": "Waktu 12 jam dengan AM/PM"
+    },
+    {
+      "name": "TanggalWaktu ISO 8601",
+      "category": "TanggalWaktu",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?(Z|[+-]\\d{2}:\\d{2})?$",
+      "example": "2024-12-25T10:30:00Z",
+      "description": "Tanggal waktu ISO 8601"
+    },
+    {
+      "name": "Nama Pengguna",
+      "category": "Teks",
+      "pattern": "^[a-zA-Z0-9_]{3,16}$",
+      "example": "user_name123",
+      "description": "Alfanumerik dengan garis bawah, 3-16 karakter"
+    },
+    {
+      "name": "Alfanumerik",
+      "category": "Teks",
+      "pattern": "^[a-zA-Z0-9]+$",
+      "example": "abc123",
+      "description": "Hanya huruf dan angka"
+    },
+    {
+      "name": "Hanya Huruf",
+      "category": "Teks",
+      "pattern": "^[a-zA-Z]+$",
+      "example": "HelloWorld",
+      "description": "Hanya huruf Inggris"
+    },
+    {
+      "name": "Tanpa Karakter Khusus",
+      "category": "Teks",
+      "pattern": "^[a-zA-Z0-9\\s]+$",
+      "example": "Hello World 123",
+      "description": "Alfanumerik dengan spasi"
+    },
+    {
+      "name": "Potong Spasi",
+      "category": "Teks",
+      "pattern": "^\\S.*\\S$|^\\S$",
+      "example": "no leading/trailing spaces",
+      "description": "Tidak ada spasi di awal/akhir"
+    },
+    {
+      "name": "SSN AS",
+      "category": "ID",
+      "pattern": "^(?!000|666|9\\d{2})\\d{3}-(?!00)\\d{2}-(?!0000)\\d{4}$",
+      "example": "123-45-6789",
+      "description": "Nomor Jaminan Sosial AS"
+    },
+    {
+      "name": "Kode ZIP AS",
+      "category": "ID",
+      "pattern": "^\\d{5}(-\\d{4})?$",
+      "example": "12345-6789",
+      "description": "Kode ZIP AS (5 atau 9 digit)"
+    },
+    {
+      "name": "Kode Pos UK",
+      "category": "ID",
+      "pattern": "^[A-Z]{1,2}[0-9][A-Z0-9]?\\s?[0-9][A-Z]{2}$",
+      "example": "SW1A 1AA",
+      "description": "Kode pos UK"
+    },
+    {
+      "name": "ISBN-10",
+      "category": "ID",
+      "pattern": "^(?:\\d{9}X|\\d{10})$",
+      "example": "0306406152",
+      "description": "Format ISBN-10"
+    },
+    {
+      "name": "ISBN-13",
+      "category": "ID",
+      "pattern": "^97[89]\\d{10}$",
+      "example": "9780306406157",
+      "description": "Format ISBN-13"
+    },
+    {
+      "name": "Ekstensi File",
+      "category": "File",
+      "pattern": "^.*\\.(jpg|jpeg|png|gif|pdf|doc|docx)$",
+      "example": "document.pdf",
+      "description": "Ekstensi file umum"
+    },
+    {
+      "name": "Jalur Berkas (Unix)",
+      "category": "Berkas",
+      "pattern": "^\\/([\\w.-]+\\/)*[\\w.-]+$",
+      "example": "/home/user/file.txt",
+      "description": "Jalur berkas Unix"
+    },
+    {
+      "name": "Jalur Berkas (Windows)",
+      "category": "Berkas",
+      "pattern": "^[a-zA-Z]:\\\\(?:[\\w.-]+\\\\)*[\\w.-]+$",
+      "example": "C:\\Users\\file.txt",
+      "description": "Jalur berkas Windows"
+    },
+    {
+      "name": "Tag HTML",
+      "category": "Kode",
+      "pattern": "<([a-z]+)([^<]+)*(?:>(.*)<\\/\\1>|\\s+\\/>)",
+      "example": "<div class=\"x\">content</div>",
+      "description": "Pencocokan tag HTML"
+    },
+    {
+      "name": "Tagar",
+      "category": "Sosial",
+      "pattern": "^#[a-zA-Z0-9_]+$",
+      "example": "#trending",
+      "description": "Tagar media sosial"
+    },
+    {
+      "name": "Pegangan Twitter",
+      "category": "Sosial",
+      "pattern": "^@[a-zA-Z0-9_]{1,15}$",
+      "example": "@username",
+      "description": "Nama pengguna Twitter/X"
+    }
+  ],
+  "meta": {
+    "seo_title": "Pola Regex Umum - Unduh Gratis (Excel/CSV/PDF)",
+    "seo_description": "Unduh gratis 45 pola ekspresi reguler umum untuk validasi & parsing data. Tersedia dalam format Excel, CSV, dan PDF untuk pengembang, analis, dan pelajar.",
+    "title": "Kumpulan Data Pola Ekspresi Reguler Esensial",
+    "description": "Kumpulan data ini menyediakan 45 pola ekspresi reguler yang banyak digunakan, mencakup berbagai kategori seperti informasi kontak, format data, dan aturan validasi. Setiap entri mencakup pola, kategori, contoh, dan deskripsi.",
+    "key_takeaways": [
+      "Akses 45 pola ekspresi reguler yang telah dikompilasi sebelumnya untuk penggunaan instan.",
+      "Jelajahi regex umum untuk email, nomor telepon, URL, dan lainnya.",
+      "Unduh pola untuk berbagai tugas pemrograman dan validasi data.",
+      "Gunakan regex siap implementasi untuk menyederhanakan alur kerja pengembangan dan analisis Anda."
+    ],
+    "keywords": [
+      "pola regex gratis",
+      "daftar ekspresi reguler",
+      "unduh regex csv",
+      "regex validasi email excel",
+      "regex nomor telepon pdf",
+      "contoh regex umum"
+    ],
+    "use_cases": [
+      "Impor file **CSV** ke database SQL atau skrip Python Anda untuk menerapkan logika validasi data untuk input pengguna atau pembersihan data.",
+      "Gunakan file **Excel** untuk memfilter, mengurutkan, dan menganalisis pola regex umum, atau untuk pencarian cepat dan pelaporan oleh analis data.",
+      "Cetak versi **PDF** untuk referensi kelas, studi offline, atau sebagai lembar contekan praktis untuk pengembang dan pelajar.",
+      "Integrasikan pola-pola ini ke dalam formulir web, API, atau pipeline pemrosesan data untuk memastikan integritas data dan kepatuhan format."
+    ]
+  },
+  "record_count": 45,
+  "title": "Kumpulan Data Pola Ekspresi Reguler Esensial"
+}

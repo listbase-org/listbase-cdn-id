@@ -1,0 +1,1016 @@
+{
+  "id": "id-sistem-penulisan",
+  "name": "Sistem penulisan dunia (ISO 15924 / CLDR bahasa Indonesia)",
+  "title": "Sistem penulisan dunia (ISO 15924 / CLDR bahasa Indonesia)",
+  "description": "Kode ISO 15924 sistem penulisan (aksara) dan namanya dalam bahasa Indonesia dari locale id di CLDR.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 195,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "nama": "Adlam"
+    },
+    {
+      "id": 2,
+      "code": "Afak",
+      "nama": "Afaka"
+    },
+    {
+      "id": 3,
+      "code": "Aghb",
+      "nama": "Albania Kaukasia"
+    },
+    {
+      "id": 4,
+      "code": "Arab-alt-variant",
+      "nama": "Arab Persia"
+    },
+    {
+      "id": 5,
+      "code": "Aran",
+      "nama": "Nastaliq"
+    },
+    {
+      "id": 6,
+      "code": "Armi",
+      "nama": "Aram Imperial"
+    },
+    {
+      "id": 7,
+      "code": "Armn",
+      "nama": "Armenia"
+    },
+    {
+      "id": 8,
+      "code": "Avst",
+      "nama": "Avesta"
+    },
+    {
+      "id": 9,
+      "code": "Bamu",
+      "nama": "Bamum"
+    },
+    {
+      "id": 10,
+      "code": "Bass",
+      "nama": "Bassa Vah"
+    },
+    {
+      "id": 11,
+      "code": "Batk",
+      "nama": "Batak"
+    },
+    {
+      "id": 12,
+      "code": "Beng",
+      "nama": "Bengali"
+    },
+    {
+      "id": 13,
+      "code": "Bhks",
+      "nama": "Bhaiksuki"
+    },
+    {
+      "id": 14,
+      "code": "Blis",
+      "nama": "Blissymbol"
+    },
+    {
+      "id": 15,
+      "code": "Bopo",
+      "nama": "Bopomofo"
+    },
+    {
+      "id": 16,
+      "code": "Brah",
+      "nama": "Brahmi"
+    },
+    {
+      "id": 17,
+      "code": "Brai",
+      "nama": "Braille"
+    },
+    {
+      "id": 18,
+      "code": "Bugi",
+      "nama": "Bugis"
+    },
+    {
+      "id": 19,
+      "code": "Buhd",
+      "nama": "Buhid"
+    },
+    {
+      "id": 20,
+      "code": "Cakm",
+      "nama": "Chakma"
+    },
+    {
+      "id": 21,
+      "code": "Cans",
+      "nama": "Simbol Aborigin Kanada Kesatuan"
+    },
+    {
+      "id": 22,
+      "code": "Cari",
+      "nama": "Karia"
+    },
+    {
+      "id": 23,
+      "code": "Cher",
+      "nama": "Cherokee"
+    },
+    {
+      "id": 24,
+      "code": "Chrs",
+      "nama": "Chorasmian"
+    },
+    {
+      "id": 25,
+      "code": "Cirt",
+      "nama": "Cirth"
+    },
+    {
+      "id": 26,
+      "code": "Copt",
+      "nama": "Koptik"
+    },
+    {
+      "id": 27,
+      "code": "Cpmn",
+      "nama": "Cypro-Minoan"
+    },
+    {
+      "id": 28,
+      "code": "Cprt",
+      "nama": "Siprus"
+    },
+    {
+      "id": 29,
+      "code": "Cyrl",
+      "nama": "Sirilik"
+    },
+    {
+      "id": 30,
+      "code": "Cyrs",
+      "nama": "Gereja Slavonia Sirilik Lama"
+    },
+    {
+      "id": 31,
+      "code": "Deva",
+      "nama": "Dewanagari"
+    },
+    {
+      "id": 32,
+      "code": "Diak",
+      "nama": "Dives Akuru"
+    },
+    {
+      "id": 33,
+      "code": "Dogr",
+      "nama": "Dogra"
+    },
+    {
+      "id": 34,
+      "code": "Dsrt",
+      "nama": "Deseret"
+    },
+    {
+      "id": 35,
+      "code": "Dupl",
+      "nama": "Stenografi Duployan"
+    },
+    {
+      "id": 36,
+      "code": "Egyd",
+      "nama": "Demotik Mesir"
+    },
+    {
+      "id": 37,
+      "code": "Egyh",
+      "nama": "Hieratik Mesir"
+    },
+    {
+      "id": 38,
+      "code": "Egyp",
+      "nama": "Hieroglip Mesir"
+    },
+    {
+      "id": 39,
+      "code": "Elba",
+      "nama": "Elbasan"
+    },
+    {
+      "id": 40,
+      "code": "Elym",
+      "nama": "Elymaic"
+    },
+    {
+      "id": 41,
+      "code": "Ethi",
+      "nama": "Etiopia"
+    },
+    {
+      "id": 42,
+      "code": "Geok",
+      "nama": "Georgian Khutsuri"
+    },
+    {
+      "id": 43,
+      "code": "Geor",
+      "nama": "Georgia"
+    },
+    {
+      "id": 44,
+      "code": "Glag",
+      "nama": "Glagolitic"
+    },
+    {
+      "id": 45,
+      "code": "Gong",
+      "nama": "Gunjala Gondi"
+    },
+    {
+      "id": 46,
+      "code": "Gonm",
+      "nama": "Masaram Gondi"
+    },
+    {
+      "id": 47,
+      "code": "Goth",
+      "nama": "Gothic"
+    },
+    {
+      "id": 48,
+      "code": "Gran",
+      "nama": "Grantha"
+    },
+    {
+      "id": 49,
+      "code": "Grek",
+      "nama": "Yunani"
+    },
+    {
+      "id": 50,
+      "code": "Gujr",
+      "nama": "Gujarat"
+    },
+    {
+      "id": 51,
+      "code": "Guru",
+      "nama": "Gurmukhi"
+    },
+    {
+      "id": 52,
+      "code": "Hanb",
+      "nama": "Han dengan Bopomofo"
+    },
+    {
+      "id": 53,
+      "code": "Hang",
+      "nama": "Hangul"
+    },
+    {
+      "id": 54,
+      "code": "Hani",
+      "nama": "Han"
+    },
+    {
+      "id": 55,
+      "code": "Hano",
+      "nama": "Hanunoo"
+    },
+    {
+      "id": 56,
+      "code": "Hans",
+      "nama": "Sederhana"
+    },
+    {
+      "id": 57,
+      "code": "Hans-alt-stand-alone",
+      "nama": "Han Sederhana"
+    },
+    {
+      "id": 58,
+      "code": "Hant",
+      "nama": "Tradisional"
+    },
+    {
+      "id": 59,
+      "code": "Hant-alt-stand-alone",
+      "nama": "Han Tradisional"
+    },
+    {
+      "id": 60,
+      "code": "Hatr",
+      "nama": "Hatran"
+    },
+    {
+      "id": 61,
+      "code": "Hebr",
+      "nama": "Ibrani"
+    },
+    {
+      "id": 62,
+      "code": "Hira",
+      "nama": "Hiragana"
+    },
+    {
+      "id": 63,
+      "code": "Hluw",
+      "nama": "Hieroglif Anatolia"
+    },
+    {
+      "id": 64,
+      "code": "Hmng",
+      "nama": "Pahawh Hmong"
+    },
+    {
+      "id": 65,
+      "code": "Hmnp",
+      "nama": "Nyiakeng Puachue Hmong"
+    },
+    {
+      "id": 66,
+      "code": "Hrkt",
+      "nama": "Katakana atau Hiragana"
+    },
+    {
+      "id": 67,
+      "code": "Hung",
+      "nama": "Hungaria Kuno"
+    },
+    {
+      "id": 68,
+      "code": "Inds",
+      "nama": "Indus"
+    },
+    {
+      "id": 69,
+      "code": "Ital",
+      "nama": "Italia Lama"
+    },
+    {
+      "id": 70,
+      "code": "Java",
+      "nama": "Jawa"
+    },
+    {
+      "id": 71,
+      "code": "Jpan",
+      "nama": "Jepang"
+    },
+    {
+      "id": 72,
+      "code": "Jurc",
+      "nama": "Jurchen"
+    },
+    {
+      "id": 73,
+      "code": "Kali",
+      "nama": "Kayah Li"
+    },
+    {
+      "id": 74,
+      "code": "Kana",
+      "nama": "Katakana"
+    },
+    {
+      "id": 75,
+      "code": "Khar",
+      "nama": "Kharoshthi"
+    },
+    {
+      "id": 76,
+      "code": "Khmr",
+      "nama": "Khmer"
+    },
+    {
+      "id": 77,
+      "code": "Khoj",
+      "nama": "Khojki"
+    },
+    {
+      "id": 78,
+      "code": "Kits",
+      "nama": "Skrip kecil Khitan"
+    },
+    {
+      "id": 79,
+      "code": "Knda",
+      "nama": "Kannada"
+    },
+    {
+      "id": 80,
+      "code": "Kore",
+      "nama": "Korea"
+    },
+    {
+      "id": 81,
+      "code": "Kpel",
+      "nama": "Kpelle"
+    },
+    {
+      "id": 82,
+      "code": "Kthi",
+      "nama": "Kaithi"
+    },
+    {
+      "id": 83,
+      "code": "Lana",
+      "nama": "Lanna"
+    },
+    {
+      "id": 84,
+      "code": "Laoo",
+      "nama": "Laos"
+    },
+    {
+      "id": 85,
+      "code": "Latf",
+      "nama": "Latin Fraktur"
+    },
+    {
+      "id": 86,
+      "code": "Latg",
+      "nama": "Latin Gaelik"
+    },
+    {
+      "id": 87,
+      "code": "Latn",
+      "nama": "Latin"
+    },
+    {
+      "id": 88,
+      "code": "Lepc",
+      "nama": "Lepcha"
+    },
+    {
+      "id": 89,
+      "code": "Limb",
+      "nama": "Limbu"
+    },
+    {
+      "id": 90,
+      "code": "Lina",
+      "nama": "Linear A"
+    },
+    {
+      "id": 91,
+      "code": "Linb",
+      "nama": "Linear B"
+    },
+    {
+      "id": 92,
+      "code": "Lisu",
+      "nama": "Fraser"
+    },
+    {
+      "id": 93,
+      "code": "Loma",
+      "nama": "Loma"
+    },
+    {
+      "id": 94,
+      "code": "Lyci",
+      "nama": "Lycia"
+    },
+    {
+      "id": 95,
+      "code": "Lydi",
+      "nama": "Lydia"
+    },
+    {
+      "id": 96,
+      "code": "Mahj",
+      "nama": "Mahajani"
+    },
+    {
+      "id": 97,
+      "code": "Maka",
+      "nama": "Makassar"
+    },
+    {
+      "id": 98,
+      "code": "Mand",
+      "nama": "Mandae"
+    },
+    {
+      "id": 99,
+      "code": "Mani",
+      "nama": "Manikhei"
+    },
+    {
+      "id": 100,
+      "code": "Marc",
+      "nama": "Marchen"
+    },
+    {
+      "id": 101,
+      "code": "Maya",
+      "nama": "Hieroglip Maya"
+    },
+    {
+      "id": 102,
+      "code": "Medf",
+      "nama": "Medefaidrin"
+    },
+    {
+      "id": 103,
+      "code": "Mend",
+      "nama": "Mende"
+    },
+    {
+      "id": 104,
+      "code": "Merc",
+      "nama": "Kursif Meroitik"
+    },
+    {
+      "id": 105,
+      "code": "Mero",
+      "nama": "Meroitik"
+    },
+    {
+      "id": 106,
+      "code": "Mlym",
+      "nama": "Malayalam"
+    },
+    {
+      "id": 107,
+      "code": "Mong",
+      "nama": "Mongolia"
+    },
+    {
+      "id": 108,
+      "code": "Moon",
+      "nama": "Moon"
+    },
+    {
+      "id": 109,
+      "code": "Mroo",
+      "nama": "Mro"
+    },
+    {
+      "id": 110,
+      "code": "Mtei",
+      "nama": "Meitei Mayek"
+    },
+    {
+      "id": 111,
+      "code": "Mult",
+      "nama": "Multani"
+    },
+    {
+      "id": 112,
+      "code": "Mymr",
+      "nama": "Myanmar"
+    },
+    {
+      "id": 113,
+      "code": "Nand",
+      "nama": "Nandinagari"
+    },
+    {
+      "id": 114,
+      "code": "Narb",
+      "nama": "Arab Utara Kuno"
+    },
+    {
+      "id": 115,
+      "code": "Nbat",
+      "nama": "Nabataea"
+    },
+    {
+      "id": 116,
+      "code": "Nkgb",
+      "nama": "Naxi Geba"
+    },
+    {
+      "id": 117,
+      "code": "Nkoo",
+      "nama": "N’Ko"
+    },
+    {
+      "id": 118,
+      "code": "Nshu",
+      "nama": "Nushu"
+    },
+    {
+      "id": 119,
+      "code": "Ogam",
+      "nama": "Ogham"
+    },
+    {
+      "id": 120,
+      "code": "Olck",
+      "nama": "Chiki Lama"
+    },
+    {
+      "id": 121,
+      "code": "Orkh",
+      "nama": "Orkhon"
+    },
+    {
+      "id": 122,
+      "code": "Orya",
+      "nama": "Oriya"
+    },
+    {
+      "id": 123,
+      "code": "Osge",
+      "nama": "Osage"
+    },
+    {
+      "id": 124,
+      "code": "Osma",
+      "nama": "Osmanya"
+    },
+    {
+      "id": 125,
+      "code": "Ougr",
+      "nama": "Uyghur Lama"
+    },
+    {
+      "id": 126,
+      "code": "Palm",
+      "nama": "Palmira"
+    },
+    {
+      "id": 127,
+      "code": "Pauc",
+      "nama": "Pau Cin Hau"
+    },
+    {
+      "id": 128,
+      "code": "Perm",
+      "nama": "Permik Kuno"
+    },
+    {
+      "id": 129,
+      "code": "Phag",
+      "nama": "Phags-pa"
+    },
+    {
+      "id": 130,
+      "code": "Phli",
+      "nama": "Pahlevi"
+    },
+    {
+      "id": 131,
+      "code": "Phlp",
+      "nama": "Mazmur Pahlevi"
+    },
+    {
+      "id": 132,
+      "code": "Phlv",
+      "nama": "Kitab Pahlevi"
+    },
+    {
+      "id": 133,
+      "code": "Phnx",
+      "nama": "Phoenix"
+    },
+    {
+      "id": 134,
+      "code": "Plrd",
+      "nama": "Fonetik Pollard"
+    },
+    {
+      "id": 135,
+      "code": "Prti",
+      "nama": "Prasasti Parthia"
+    },
+    {
+      "id": 136,
+      "code": "Qaag",
+      "nama": "Zawgyi"
+    },
+    {
+      "id": 137,
+      "code": "Rjng",
+      "nama": "Rejang"
+    },
+    {
+      "id": 138,
+      "code": "Rohg",
+      "nama": "Hanifi"
+    },
+    {
+      "id": 139,
+      "code": "Roro",
+      "nama": "Rongorongo"
+    },
+    {
+      "id": 140,
+      "code": "Runr",
+      "nama": "Runik"
+    },
+    {
+      "id": 141,
+      "code": "Samr",
+      "nama": "Samaria"
+    },
+    {
+      "id": 142,
+      "code": "Sara",
+      "nama": "Sarati"
+    },
+    {
+      "id": 143,
+      "code": "Sarb",
+      "nama": "Arab Selatan Kuno"
+    },
+    {
+      "id": 144,
+      "code": "Saur",
+      "nama": "Saurashtra"
+    },
+    {
+      "id": 145,
+      "code": "Sgnw",
+      "nama": "Tulisan Isyarat"
+    },
+    {
+      "id": 146,
+      "code": "Shaw",
+      "nama": "Shavia"
+    },
+    {
+      "id": 147,
+      "code": "Shrd",
+      "nama": "Sharada"
+    },
+    {
+      "id": 148,
+      "code": "Sidd",
+      "nama": "Siddham"
+    },
+    {
+      "id": 149,
+      "code": "Sind",
+      "nama": "Khudawadi"
+    },
+    {
+      "id": 150,
+      "code": "Sinh",
+      "nama": "Sinhala"
+    },
+    {
+      "id": 151,
+      "code": "Sogd",
+      "nama": "Sogdian"
+    },
+    {
+      "id": 152,
+      "code": "Sogo",
+      "nama": "Sogdian Lama"
+    },
+    {
+      "id": 153,
+      "code": "Sora",
+      "nama": "Sora Sompeng"
+    },
+    {
+      "id": 154,
+      "code": "Soyo",
+      "nama": "Soyombo"
+    },
+    {
+      "id": 155,
+      "code": "Sund",
+      "nama": "Sunda"
+    },
+    {
+      "id": 156,
+      "code": "Sylo",
+      "nama": "Syloti Nagri"
+    },
+    {
+      "id": 157,
+      "code": "Syrc",
+      "nama": "Suriah"
+    },
+    {
+      "id": 158,
+      "code": "Syre",
+      "nama": "Suriah Estrangelo"
+    },
+    {
+      "id": 159,
+      "code": "Syrj",
+      "nama": "Suriah Barat"
+    },
+    {
+      "id": 160,
+      "code": "Syrn",
+      "nama": "Suriah Timur"
+    },
+    {
+      "id": 161,
+      "code": "Tagb",
+      "nama": "Tagbanwa"
+    },
+    {
+      "id": 162,
+      "code": "Takr",
+      "nama": "Takri"
+    },
+    {
+      "id": 163,
+      "code": "Tale",
+      "nama": "Tai Le"
+    },
+    {
+      "id": 164,
+      "code": "Talu",
+      "nama": "Tai Lue Baru"
+    },
+    {
+      "id": 165,
+      "code": "Taml",
+      "nama": "Tamil"
+    },
+    {
+      "id": 166,
+      "code": "Tang",
+      "nama": "Tangut"
+    },
+    {
+      "id": 167,
+      "code": "Tavt",
+      "nama": "Tai Viet"
+    },
+    {
+      "id": 168,
+      "code": "Telu",
+      "nama": "Telugu"
+    },
+    {
+      "id": 169,
+      "code": "Teng",
+      "nama": "Tenghwar"
+    },
+    {
+      "id": 170,
+      "code": "Tfng",
+      "nama": "Tifinagh"
+    },
+    {
+      "id": 171,
+      "code": "Tglg",
+      "nama": "Tagalog"
+    },
+    {
+      "id": 172,
+      "code": "Thaa",
+      "nama": "Thaana"
+    },
+    {
+      "id": 173,
+      "code": "Tibt",
+      "nama": "Tibet"
+    },
+    {
+      "id": 174,
+      "code": "Tirh",
+      "nama": "Tirhuta"
+    },
+    {
+      "id": 175,
+      "code": "Tnsa",
+      "nama": "Tangsa"
+    },
+    {
+      "id": 176,
+      "code": "Toto",
+      "nama": "Toto (txo)"
+    },
+    {
+      "id": 177,
+      "code": "Ugar",
+      "nama": "Ugaritik"
+    },
+    {
+      "id": 178,
+      "code": "Vaii",
+      "nama": "Vai"
+    },
+    {
+      "id": 179,
+      "code": "Visp",
+      "nama": "Ucapan Terlihat"
+    },
+    {
+      "id": 180,
+      "code": "Vith",
+      "nama": "Vithkuqi"
+    },
+    {
+      "id": 181,
+      "code": "Wara",
+      "nama": "Varang Kshiti"
+    },
+    {
+      "id": 182,
+      "code": "Wcho",
+      "nama": "Wancho"
+    },
+    {
+      "id": 183,
+      "code": "Wole",
+      "nama": "Woleai"
+    },
+    {
+      "id": 184,
+      "code": "Xpeo",
+      "nama": "Persia Kuno"
+    },
+    {
+      "id": 185,
+      "code": "Xsux",
+      "nama": "Cuneiform Sumero-Akkadia"
+    },
+    {
+      "id": 186,
+      "code": "Yezi",
+      "nama": "Yezidi"
+    },
+    {
+      "id": 187,
+      "code": "Yiii",
+      "nama": "Yi"
+    },
+    {
+      "id": 188,
+      "code": "Zanb",
+      "nama": "Zanabazar Square"
+    },
+    {
+      "id": 189,
+      "code": "Zinh",
+      "nama": "Warisan"
+    },
+    {
+      "id": 190,
+      "code": "Zmth",
+      "nama": "Notasi Matematika"
+    },
+    {
+      "id": 191,
+      "code": "Zsye",
+      "nama": "Emoji"
+    },
+    {
+      "id": 192,
+      "code": "Zsym",
+      "nama": "Simbol"
+    },
+    {
+      "id": 193,
+      "code": "Zxxx",
+      "nama": "Tidak Tertulis"
+    },
+    {
+      "id": 194,
+      "code": "Zyyy",
+      "nama": "Umum"
+    },
+    {
+      "id": 195,
+      "code": "Zzzz",
+      "nama": "Skrip Tidak Dikenal"
+    }
+  ],
+  "meta": {
+    "title": "Sistem penulisan dunia (ISO 15924 / CLDR bahasa Indonesia) - Unduh Gratis",
+    "description": "Kode ISO 15924 sistem penulisan (aksara) dan namanya dalam bahasa Indonesia dari locale id di CLDR. Berisi 195 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Sistem penulisan dunia (ISO 15924 / CLDR bahasa Indonesia) | ListBase",
+    "seo_description": "Unduh Sistem penulisan dunia (ISO 15924 / CLDR bahasa Indonesia) — 195 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 195 rekaman / 3 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

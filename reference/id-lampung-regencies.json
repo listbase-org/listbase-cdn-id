@@ -1,0 +1,136 @@
+{
+  "id": "id-lampung-regencies",
+  "name": "Daftar Kabupaten dan Kota di Lampung",
+  "title": "Daftar Kabupaten dan Kota di Lampung",
+  "description": "Daftar kabupaten dan kota di Provinsi Lampung dengan kode wilayah Kepmendagri. Total 15 kabupaten/kota.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "18.01",
+      "name": "Kabupaten Lampung Selatan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lampung-selatan"
+    },
+    {
+      "code": "18.02",
+      "name": "Kabupaten Lampung Tengah",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lampung-tengah"
+    },
+    {
+      "code": "18.03",
+      "name": "Kabupaten Lampung Utara",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lampung-utara"
+    },
+    {
+      "code": "18.04",
+      "name": "Kabupaten Lampung Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lampung-barat"
+    },
+    {
+      "code": "18.05",
+      "name": "Kabupaten Tulang Bawang",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tulang-bawang"
+    },
+    {
+      "code": "18.06",
+      "name": "Kabupaten Tanggamus",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tanggamus"
+    },
+    {
+      "code": "18.07",
+      "name": "Kabupaten Lampung Timur",
+      "type": "Kabupaten",
+      "slug": "kabupaten-lampung-timur"
+    },
+    {
+      "code": "18.08",
+      "name": "Kabupaten Way Kanan",
+      "type": "Kabupaten",
+      "slug": "kabupaten-way-kanan"
+    },
+    {
+      "code": "18.09",
+      "name": "Kabupaten Pesawaran",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pesawaran"
+    },
+    {
+      "code": "18.10",
+      "name": "Kabupaten Pringsewu",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pringsewu"
+    },
+    {
+      "code": "18.11",
+      "name": "Kabupaten Mesuji",
+      "type": "Kabupaten",
+      "slug": "kabupaten-mesuji"
+    },
+    {
+      "code": "18.12",
+      "name": "Kabupaten Tulang Bawang Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-tulang-bawang-barat"
+    },
+    {
+      "code": "18.13",
+      "name": "Kabupaten Pesisir Barat",
+      "type": "Kabupaten",
+      "slug": "kabupaten-pesisir-barat"
+    },
+    {
+      "code": "18.71",
+      "name": "Kota Bandar Lampung",
+      "type": "Kota",
+      "slug": "kota-bandar-lampung"
+    },
+    {
+      "code": "18.72",
+      "name": "Kota Metro",
+      "type": "Kota",
+      "slug": "kota-metro"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabupaten dan Kota di Lampung - Unduh Gratis",
+    "description": "Daftar kabupaten dan kota di Provinsi Lampung dengan kode wilayah Kepmendagri. Total 15 kabupaten/kota. Berisi 15 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Daftar Kabupaten dan Kota di Lampung | ListBase",
+    "seo_description": "Unduh Daftar Kabupaten dan Kota di Lampung — 15 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 15 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

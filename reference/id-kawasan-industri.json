@@ -1,0 +1,820 @@
+{
+  "id": "id-kawasan-industri",
+  "name": "Industri & Pabrik Utama Indonesia per Provinsi",
+  "title": "Industri & Pabrik Utama Indonesia per Provinsi",
+  "description": "Industri, pabrik, dan kawasan industri utama di tiap provinsi di Indonesia beserta kota/lokasinya.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 129,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "tempat",
+      "label": "Tempat",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "kode_provinsi",
+      "label": "Kode Provinsi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "PT Arun: Kilang Pencairan Gas Alam",
+      "tempat": "Lhokseumawe",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "PT Pupuk Iskandar Muda (PIM): Pabrik Pupuk Iskandar Muda",
+      "tempat": "Lhokseumawe",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "PT Aceh Asean Fertilizer (AAF): Pabrik Pupuk Asean",
+      "tempat": "Lhokseumawe",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "PT Kertas Kraft Aceh (KKA): Pabrik Kertas",
+      "tempat": "Lhokseumawe",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "PT Semen Andalas Indonesia-Lafarge (SAI): Semen Andalas",
+      "tempat": "Aceh Besar",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "ExxonMobil: Kilang Gas Alam",
+      "tempat": "Lhokseumawe",
+      "provinsi": "Aceh",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama": "Sorikmas Mining (SMM)",
+      "tempat": "",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Newmont Horas Nauli (PTNHN)",
+      "tempat": "",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Dairi Prima Mineral",
+      "tempat": "",
+      "provinsi": "Sumatera Utara",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama": "Industri Semen",
+      "tempat": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Pabrik Tenun",
+      "tempat": "",
+      "provinsi": "Sumatera Barat",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama": "Chevron Pacific Indonesia anak perusahaan Chevron Corporation",
+      "tempat": "",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "PT. Indah Kiat Pulp & Paper Tbk",
+      "tempat": "Perawang",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "PT. Riau Andalan Pulp & Paper",
+      "tempat": "Pangkalan Kerinci",
+      "provinsi": "Riau",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama": "Industri kertas",
+      "tempat": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Industri barang dari kertas dan sejenisnya",
+      "tempat": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Industri karet dan barang dari karet",
+      "tempat": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "industri Makanan",
+      "tempat": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Industri kayu",
+      "tempat": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "Industri bambu, rotan, rumput dan sejenisnya",
+      "tempat": "",
+      "provinsi": "Jambi",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama": "PT. Semen Baturaja (Persero)",
+      "tempat": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "PT. Pusri",
+      "tempat": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "PT. Dharma Niaga Putera Steel",
+      "tempat": "",
+      "provinsi": "Sumatera Selatan",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama": "Pengolahan Bahan Galian C PT.Karuna Tani",
+      "tempat": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Pengolahan Minyak CPO PT. BIO Nusantara",
+      "tempat": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Pengolahan Udang segar PT.Cendana prioritas lestari",
+      "tempat": "",
+      "provinsi": "Bengkulu",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama": "Industri penambakan udang",
+      "tempat": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "pabrik gula Gunung Madu Plantation dan Sugar Group",
+      "tempat": "",
+      "provinsi": "Lampung",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama": "industri logam mesin dan elektronika",
+      "tempat": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "Industri pengolahan hasil agro industri, perikanan, perkebunan dan hasil laut.",
+      "tempat": "",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama": "industri elektronik",
+      "tempat": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "fabrikasi baja",
+      "tempat": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "penguliran pipa",
+      "tempat": "",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "peralatan eksplorasi minyak, pra-fabrikasi minyak, jacket lepas pantai dan alat berat",
+      "tempat": "Bintan, Batam dan Karimun.",
+      "provinsi": "Kepulauan Riau",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama": "industri makanan, minuman dan tembakau",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri tekstil, pakaian jadi dan kulit",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri kayu",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri kertas, percetakan dan.penerbitan",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri kimia dan barang­barang dari kimia",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri bahan galian bukan logam",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri dari logam, mesin dan peralatan",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "industri rumah tangga dan kerajinan",
+      "tempat": "",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama": "Industri elektronik",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "industri kulit",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Industri pengolahan makanan",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Industri tekstil",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Industri furnitur",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Industri pesawat",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "Industri petrokimia",
+      "tempat": "",
+      "provinsi": "Jawa Barat",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama": "industri kerajinan",
+      "tempat": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Industri rokok",
+      "tempat": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Industri semen",
+      "tempat": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Industri tekstil",
+      "tempat": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Industri mebel/ukir",
+      "tempat": "",
+      "provinsi": "Jawa Tengah",
+      "kode_provinsi": "33"
+    },
+    {
+      "nama": "Industri cendera mata",
+      "tempat": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Industri kerajinan tangan",
+      "tempat": "",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama": "Industri perikanan",
+      "tempat": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "industri rokok",
+      "tempat": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Industri kertas",
+      "tempat": "",
+      "provinsi": "Jawa Timur",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama": "Pabrik Besi baja Krakatau Steel,",
+      "tempat": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "Industri Petrokimia",
+      "tempat": "",
+      "provinsi": "Banten",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama": "industri produk makanan olahan berbasis sapi, jagung, rumput laut dan ikan",
+      "tempat": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "industri kerajinan tangan rakyat",
+      "tempat": "",
+      "provinsi": "Nusa Tenggara barat",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama": "industri kecil dan kerajinan tangan rakyat",
+      "tempat": "",
+      "provinsi": "Nusa Tenggara Timur",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama": "industri Makanan dan Minuman",
+      "tempat": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "industri Kayu dan Barang-Barang dari Kayu (tidak termasuk furniture) dan Barang-Barang Anyaman",
+      "tempat": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "industri logam dasar",
+      "tempat": "",
+      "provinsi": "Kalimantan Barat",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama": "industri Pengolahan Kayu",
+      "tempat": "",
+      "provinsi": "Kalimantan Tengah",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama": "industri kerajinan rakyat",
+      "tempat": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "industri hasil hutan dan anyam-anyaman dari rotan",
+      "tempat": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "industri batik",
+      "tempat": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "industri perhiasan intan",
+      "tempat": "",
+      "provinsi": "Kalimantan Selatan",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama": "industri migas",
+      "tempat": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "industri kayu lapis",
+      "tempat": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "industri kimia",
+      "tempat": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "industri pupuk",
+      "tempat": "",
+      "provinsi": "Kalimantan Timur",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama": "Industri Makanan Olahan Dari Kelapa",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Industri Pengalengan Ikan",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Budidaya Nanas",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Industri Listrik",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Industri Pengolahan Ikan",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Budidaya Kentang",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Industri Rumput Laut",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Industri Minyak Kelapa Murni",
+      "tempat": "",
+      "provinsi": "Sulawesi Utara",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama": "Industri pengolahan kelapadan kakao",
+      "tempat": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "industri pengolahan daging",
+      "tempat": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "industri pengolahan susu",
+      "tempat": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "industri barang-barang jadi dari kulit",
+      "tempat": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "industri pengolahan kayu dan pengolahan rotan",
+      "tempat": "",
+      "provinsi": "Sulawesi Tengah",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama": "Industry pengolahan kelapa, kelapa sawit, tembakau dan pengolahan minyak atsiri",
+      "tempat": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Industri pengolahan daging dan susu",
+      "tempat": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Industri pengolahan kayu dan rotan (meubel dan anyaman rotan)",
+      "tempat": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Industri pengolahan hasil tambang logam",
+      "tempat": "",
+      "provinsi": "Sulawesi Selatan",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama": "Pabrik ferronickel",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pengolahan ikan kaleng, abon, kerupuk dan tepung ikan",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pengolahan rotan (meubel dan anyaman rotan)",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri meubel batang kelapa dan minyak kelapa",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pembuatan kapal penangkap ikan.",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri marmer.",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pengolahan kakao, meises, bubuk dan makanan dari coklat.",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pengolahan biji mete, mete kupas dan goreng.",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri minyak kulit mete.",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pengolahan ubi kayu dan tapioca.",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri pakan ternak dari jagung",
+      "tempat": "",
+      "provinsi": "Sulawesi Tenggara",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama": "Industri Pembekuan dan Pengalengan Ikan",
+      "tempat": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Industri Pengawetan Rotan",
+      "tempat": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Industri Perabot (Meubel Rotan)",
+      "tempat": "",
+      "provinsi": "Gorontalo",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama": "Industri Pakaian Jadi",
+      "tempat": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Industri Makanan",
+      "tempat": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Industri Kayu, Barang dari Kayu dan Gabus",
+      "tempat": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Industri Rotan",
+      "tempat": "",
+      "provinsi": "Sulawesi Barat",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama": "Industri Pakaian Jadi",
+      "tempat": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Industri Makanan",
+      "tempat": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Industri Kayu, Barang dari Kayu dan Gabus",
+      "tempat": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "Industri Rotan",
+      "tempat": "",
+      "provinsi": "Maluku",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama": "kilang penggergajian",
+      "tempat": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "manufaktur kayu lapis",
+      "tempat": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "perusahaan pertambangan emas dan nikel",
+      "tempat": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "penggilingan kelapa",
+      "tempat": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "perkebunan pisang",
+      "tempat": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "perusahaan perikanan berskala menengah",
+      "tempat": "",
+      "provinsi": "Maluku Utara",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama": "Industri Mutiara",
+      "tempat": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Industri Rumput laut",
+      "tempat": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "industri tradisional tenun ikat",
+      "tempat": "",
+      "provinsi": "Papua Barat",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama": "Industri Makanan dan Minuman",
+      "tempat": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Industri Kayu, Barang-Barang dari Kayu (tidak termasuk furnitur), dan Barang-Barang Anyaman",
+      "tempat": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Industri Penerbitan, Pencetakan dan Reproduksi Media Rekaman",
+      "tempat": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Industri Barang Galian Bukan Logam",
+      "tempat": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama": "Industri Furnitur",
+      "tempat": "",
+      "provinsi": "Papua",
+      "kode_provinsi": "92"
+    }
+  ],
+  "meta": {
+    "title": "Industri & Pabrik Utama Indonesia per Provinsi - Unduh Gratis",
+    "description": "Industri, pabrik, dan kawasan industri utama di tiap provinsi di Indonesia beserta kota/lokasinya. Berisi 129 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Industri & Pabrik Utama Indonesia per Provinsi | ListBase",
+    "seo_description": "Unduh Industri & Pabrik Utama Indonesia per Provinsi — 129 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 129 rekaman / 4 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}

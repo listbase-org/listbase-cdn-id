@@ -1,0 +1,118 @@
+{
+  "id": "id-jakarta-raya-airports",
+  "name": "Bandar Udara — Jakarta Raya",
+  "title": "Bandar Udara — Jakarta Raya",
+  "description": "Bandar udara di Provinsi Jakarta Raya, Indonesia (Airports in Jakarta Raya Province, Indonesia — 1 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "WIHH",
+      "iata": "HLP",
+      "name_en": "Halim Perdanakusuma Airport",
+      "name_slug": "halim-perdanakusuma-airport",
+      "city_en": "Jakarta",
+      "city_slug": "jakarta",
+      "province_en": "Jakarta Raya",
+      "province_slug": "jakarta-raya",
+      "country": "ID",
+      "country_en": "Indonesia",
+      "elevation_ft": 55,
+      "lat": -6.2630208,
+      "lon": 106.8989506,
+      "timezone": "Asia/Jakarta",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Bandar Udara — Jakarta Raya - Unduh Gratis",
+    "description": "Bandar udara di Provinsi Jakarta Raya, Indonesia (Airports in Jakarta Raya Province, Indonesia — 1 record(s).) Berisi 1 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Bandar Udara — Jakarta Raya | ListBase",
+    "seo_description": "Unduh Bandar Udara — Jakarta Raya — 1 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 1 rekaman / 15 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

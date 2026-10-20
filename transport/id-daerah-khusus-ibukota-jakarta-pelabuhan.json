@@ -1,0 +1,88 @@
+{
+  "id": "id-daerah-khusus-ibukota-jakarta-pelabuhan",
+  "name": "Pelabuhan Umum di DKI Jakarta (4 pelabuhan)",
+  "title": "Pelabuhan Umum di DKI Jakarta (4 pelabuhan)",
+  "description": "4 pelabuhan umum di Provinsi DKI Jakarta, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "kode_pelabuhan",
+      "label": "Kode Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "nama_pelabuhan",
+      "label": "Nama Pelabuhan",
+      "type": "string"
+    },
+    {
+      "key": "lokasi_kabupaten_kota",
+      "label": "Lokasi Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "unit_kerja",
+      "label": "Unit Kerja",
+      "type": "string"
+    },
+    {
+      "key": "alamat_kantor",
+      "label": "Alamat Kantor",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pelabuhan": "IKR",
+      "nama_pelabuhan": "Kepulauan Seribu",
+      "lokasi_kabupaten_kota": "KEPULAUAN SERIBU",
+      "unit_kerja": "KSOP KELAS IV KEPULAUAN SERIBU",
+      "alamat_kantor": "jakarta",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "IMW",
+      "nama_pelabuhan": "Marunda",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KUPP KELAS IV MARUNDA",
+      "alamat_kantor": "Jl. Jayapura No. 1 KBN Marunda Cilincing Jakarta Utara 141210",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "SKE",
+      "nama_pelabuhan": "Sunda Kelapa",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KSOP KELAS III SUNDA KELAPA",
+      "alamat_kantor": "Jl. Raya Baruna No. 2 Pelabuhan Sunda Kelapa Jakarta Utara 14430",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "kode_pelabuhan": "TPR",
+      "nama_pelabuhan": "Tanjung Priok",
+      "lokasi_kabupaten_kota": "JAKARTA UTARA",
+      "unit_kerja": "KANTOR SYAHBANDAR UTAMA TANJUNG PRIOK",
+      "alamat_kantor": "Jl. Padamarang No. 4 Tanjung Priok Jakarta Utara 14310",
+      "provinsi": "DKI Jakarta"
+    }
+  ],
+  "meta": {
+    "title": "Pelabuhan Umum di DKI Jakarta (4 pelabuhan) - Unduh Gratis",
+    "description": "4 pelabuhan umum di Provinsi DKI Jakarta, Indonesia. Snapshot Kementerian Perhubungan (simpel.dephub.go.id) 2021-08-20. Subset dari dataset nasional id-pelabuhan, difilter berdasarkan inferensi provinsi dari alamat kantor. Berisi 4 rekaman. Unduh dalam format Excel, CSV, PDF.",
+    "seo_title": "Pelabuhan Umum di DKI Jakarta (4 pelabuhan) | ListBase",
+    "seo_description": "Unduh Pelabuhan Umum di DKI Jakarta (4 pelabuhan) — 4 rekaman. Tersedia dalam format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Berisi 4 rekaman / 6 kolom",
+      "Unduh gratis dalam format Excel, CSV, dan PDF",
+      "Sumber data: open data"
+    ]
+  }
+}
