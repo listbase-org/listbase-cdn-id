@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:52.560Z",
-  "total_datasets": 518,
-  "total_records": 638171,
+  "generated": "2026-10-23T02:10:55.062Z",
+  "total_datasets": 519,
+  "total_records": 639451,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -12661,6 +12661,33 @@
         "xlsx": {
           "name": "science-solubility-rules_ID.xlsx",
           "size": 9055
+        }
+      }
+    },
+    {
+      "id": "id-klub-sepak-bola",
+      "name": "Daftar Klub Sepak Bola di Indonesia",
+      "category": "sports",
+      "record_count": 1280,
+      "columns": [
+        "klub",
+        "nama_lengkap",
+        "daerah",
+        "provinsi",
+        "stadion",
+        "liga_kelompok"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_klub_sepak_bola_di_Indonesia",
+      "updated": "2026-10",
+      "size": 273354,
+      "files": {
+        "csv": {
+          "name": "id-klub-sepak-bola_ID.csv",
+          "size": 107769
+        },
+        "xlsx": {
+          "name": "id-klub-sepak-bola_ID.xlsx",
+          "size": 59421
         }
       }
     },
