@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:45.830Z",
-  "total_datasets": 515,
-  "total_records": 638050,
+  "generated": "2026-10-23T02:10:48.158Z",
+  "total_datasets": 516,
+  "total_records": 638126,
   "categories": [
     {
       "id": "agriculture",
@@ -47,6 +47,10 @@
     {
       "id": "language",
       "dataset_count": 6
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "math",
@@ -5204,6 +5208,29 @@
         "xlsx": {
           "name": "lang-pinyin-table_ID.xlsx",
           "size": 31867
+        }
+      }
+    },
+    {
+      "id": "id-uu-direvisi-cipta-kerja",
+      "name": "Daftar Undang-Undang yang Direvisi UU Cipta Kerja",
+      "category": "law",
+      "record_count": 76,
+      "columns": [
+        "undang_undang",
+        "tentang"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_undang-undang_yang_direvisi_UU_Cipta_Kerja",
+      "updated": "2026-10",
+      "size": 8564,
+      "files": {
+        "csv": {
+          "name": "id-uu-direvisi-cipta-kerja_ID.csv",
+          "size": 2908
+        },
+        "xlsx": {
+          "name": "id-uu-direvisi-cipta-kerja_ID.xlsx",
+          "size": 8857
         }
       }
     },
