@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:41.119Z",
-  "total_datasets": 513,
-  "total_records": 637013,
+  "generated": "2026-10-23T02:10:43.397Z",
+  "total_datasets": 514,
+  "total_records": 637486,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 3
+    },
+    {
+      "id": "education",
+      "dataset_count": 1
     },
     {
       "id": "entertainment",
@@ -191,6 +195,31 @@
         "xlsx": {
           "name": "id-situs-warisan-dunia-unesco_ID.xlsx",
           "size": 10325
+        }
+      }
+    },
+    {
+      "id": "id-sma-jakarta",
+      "name": "Daftar SMA Negeri & Swasta di DKI Jakarta",
+      "category": "education",
+      "record_count": 473,
+      "columns": [
+        "nama_sekolah",
+        "alamat",
+        "status",
+        "kota_administrasi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_sekolah_menengah_atas_di_Daerah_Khusus_Ibukota_Jakarta",
+      "updated": "2026-10",
+      "size": 97820,
+      "files": {
+        "csv": {
+          "name": "id-sma-jakarta_ID.csv",
+          "size": 50292
+        },
+        "xlsx": {
+          "name": "id-sma-jakarta_ID.xlsx",
+          "size": 26415
         }
       }
     },
