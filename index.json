@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:11:04.203Z",
-  "total_datasets": 523,
-  "total_records": 639686,
+  "generated": "2026-10-23T02:11:06.368Z",
+  "total_datasets": 524,
+  "total_records": 639704,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -5508,6 +5508,33 @@
         "xlsx": {
           "name": "id-lembaga-pemasyarakatan_ID.xlsx",
           "size": 16465
+        }
+      }
+    },
+    {
+      "id": "id-presiden-indonesia",
+      "name": "Daftar Presiden Indonesia (masa jabatan & wakil presiden)",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "no",
+        "presiden",
+        "mulai_jabatan",
+        "akhir_jabatan",
+        "periode",
+        "wakil_presiden"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia",
+      "updated": "2026-10",
+      "size": 5820,
+      "files": {
+        "csv": {
+          "name": "id-presiden-indonesia_ID.csv",
+          "size": 1553
+        },
+        "xlsx": {
+          "name": "id-presiden-indonesia_ID.xlsx",
+          "size": 7739
         }
       }
     },

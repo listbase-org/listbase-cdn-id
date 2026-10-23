@@ -1,0 +1,200 @@
+{
+  "id": "id-presiden-indonesia",
+  "name": "Daftar Presiden Indonesia (masa jabatan & wakil presiden)",
+  "title": "Daftar Presiden Indonesia (masa jabatan & wakil presiden)",
+  "description": "Daftar Presiden Republik Indonesia per masa jabatan sejak 1945, lengkap dengan tanggal mulai/akhir jabatan, periode, dan wakil presiden.",
+  "category": "politics",
+  "source": "https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "presiden",
+      "label": "Presiden",
+      "type": "string"
+    },
+    {
+      "key": "mulai_jabatan",
+      "label": "Mulai Jabatan",
+      "type": "string"
+    },
+    {
+      "key": "akhir_jabatan",
+      "label": "Akhir Jabatan",
+      "type": "string"
+    },
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "string"
+    },
+    {
+      "key": "wakil_presiden",
+      "label": "Wakil Presiden",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "presiden": "Soekarno",
+      "mulai_jabatan": "18 Agustus 1945",
+      "akhir_jabatan": "18 Mei 1963",
+      "periode": "1 (1945)",
+      "wakil_presiden": "Mohammad Hatta (1945–1956)"
+    },
+    {
+      "no": "1",
+      "presiden": "Soekarno",
+      "mulai_jabatan": "18 Mei 1963",
+      "akhir_jabatan": "12 Maret 1967",
+      "periode": "2 (1963)",
+      "wakil_presiden": "Lowong"
+    },
+    {
+      "no": "",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "12 Maret 1967",
+      "akhir_jabatan": "27 Maret 1968",
+      "periode": "2 (1963)",
+      "wakil_presiden": "Lowong"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "27 Maret 1968",
+      "akhir_jabatan": "23 Maret 1973",
+      "periode": "3 (1968)",
+      "wakil_presiden": "Lowong"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "23 Maret 1973",
+      "akhir_jabatan": "23 Maret 1978",
+      "periode": "4 (1973)",
+      "wakil_presiden": "Hamengkubuwana IX"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "23 Maret 1978",
+      "akhir_jabatan": "11 Maret 1983",
+      "periode": "5 (1978)",
+      "wakil_presiden": "Adam Malik"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "11 Maret 1983",
+      "akhir_jabatan": "11 Maret 1988",
+      "periode": "6 (1983)",
+      "wakil_presiden": "Umar Wirahadikusumah"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "11 Maret 1988",
+      "akhir_jabatan": "11 Maret 1993",
+      "periode": "7 (1988)",
+      "wakil_presiden": "Soedharmono"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "11 Maret 1993",
+      "akhir_jabatan": "11 Maret 1998",
+      "periode": "8 (1993)",
+      "wakil_presiden": "Try Sutrisno"
+    },
+    {
+      "no": "2",
+      "presiden": "Soeharto",
+      "mulai_jabatan": "11 Maret 1998",
+      "akhir_jabatan": "21 Mei 1998",
+      "periode": "9 (1998)",
+      "wakil_presiden": "B. J. Habibie"
+    },
+    {
+      "no": "3",
+      "presiden": "Bacharuddin Jusuf Habibie",
+      "mulai_jabatan": "21 Mei 1998",
+      "akhir_jabatan": "20 Oktober 1999",
+      "periode": "9 (1998)",
+      "wakil_presiden": "Lowong"
+    },
+    {
+      "no": "4",
+      "presiden": "Abdurrahman Wahid",
+      "mulai_jabatan": "20 Oktober 1999",
+      "akhir_jabatan": "23 Juli 2001",
+      "periode": "10 (1999)",
+      "wakil_presiden": "Megawati Soekarnoputri (sejak 21 Oktober 1999)"
+    },
+    {
+      "no": "5",
+      "presiden": "Megawati Soekarnoputri",
+      "mulai_jabatan": "23 Juli 2001",
+      "akhir_jabatan": "20 Oktober 2004",
+      "periode": "10 (1999)",
+      "wakil_presiden": "Hamzah Haz (sejak 26 Juli 2001)"
+    },
+    {
+      "no": "6",
+      "presiden": "Susilo Bambang Yudhoyono",
+      "mulai_jabatan": "20 Oktober 2004",
+      "akhir_jabatan": "20 Oktober 2009",
+      "periode": "11 (2004)",
+      "wakil_presiden": "Jusuf Kalla"
+    },
+    {
+      "no": "6",
+      "presiden": "Susilo Bambang Yudhoyono",
+      "mulai_jabatan": "20 Oktober 2009",
+      "akhir_jabatan": "20 Oktober 2014",
+      "periode": "12 (2009)",
+      "wakil_presiden": "Boediono"
+    },
+    {
+      "no": "7",
+      "presiden": "Joko Widodo",
+      "mulai_jabatan": "20 Oktober 2014",
+      "akhir_jabatan": "20 Oktober 2019",
+      "periode": "13 (2014)",
+      "wakil_presiden": "Jusuf Kalla"
+    },
+    {
+      "no": "7",
+      "presiden": "Joko Widodo",
+      "mulai_jabatan": "20 Oktober 2019",
+      "akhir_jabatan": "20 Oktober 2024",
+      "periode": "14 (2019)",
+      "wakil_presiden": "Ma'ruf Amin"
+    },
+    {
+      "no": "8",
+      "presiden": "Prabowo Subianto",
+      "mulai_jabatan": "20 Oktober 2024",
+      "akhir_jabatan": "Petahana",
+      "periode": "15 (2024)",
+      "wakil_presiden": "Gibran Rakabuming Raka"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Presiden Indonesia (masa jabatan & wakil presiden) - Free Download",
+    "description": "Daftar Presiden Republik Indonesia per masa jabatan sejak 1945, lengkap dengan tanggal mulai/akhir jabatan, periode, dan wakil presiden. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Presiden Indonesia (masa jabatan & wakil presiden) | ListBase",
+    "seo_description": "Download Daftar Presiden Indonesia (masa jabatan & wakil presiden) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia"
+    ]
+  }
+}
