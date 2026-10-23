@@ -1,0 +1,856 @@
+{
+  "id": "id-film-terlaris",
+  "name": "100 Film Indonesia Terlaris Sepanjang Masa",
+  "title": "100 Film Indonesia Terlaris Sepanjang Masa",
+  "description": "Daftar 100 film Indonesia dengan jumlah penonton bioskop terbanyak sepanjang masa, lengkap dengan rumah produksi, tahun dan sutradara.",
+  "category": "entertainment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_film_Indonesia_terlaris_sepanjang_masa",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_film_Indonesia_terlaris_sepanjang_masa",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "number"
+    },
+    {
+      "key": "judul_film",
+      "label": "Judul Film",
+      "type": "string"
+    },
+    {
+      "key": "penonton",
+      "label": "Penonton",
+      "type": "number"
+    },
+    {
+      "key": "produksi",
+      "label": "Produksi",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "sutradara",
+      "label": "Sutradara",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "peringkat": 1,
+      "judul_film": "Agak Laen: Menyala Pantiku!",
+      "penonton": 11000866,
+      "produksi": "Imajinari, Jagartha, Trinity Entertainment Network, A&Z Films, Legact Pictures",
+      "tahun": 2025,
+      "sutradara": "Muhadkly Acho"
+    },
+    {
+      "peringkat": 2,
+      "judul_film": "Jumbo",
+      "penonton": 10233002,
+      "produksi": "Visinema Studios, Springboard, Anami Films",
+      "tahun": 2025,
+      "sutradara": "Ryan Adriandhy"
+    },
+    {
+      "peringkat": 3,
+      "judul_film": "KKN di Desa Penari",
+      "penonton": 10061033,
+      "produksi": "MD Pictures",
+      "tahun": 2022,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 4,
+      "judul_film": "Agak Laen",
+      "penonton": 9126607,
+      "produksi": "Imajinari, Jagartha, Trinity Entertainment Network, A&Z Films, Legact Pictures",
+      "tahun": 2024,
+      "sutradara": "Muhadkly Acho"
+    },
+    {
+      "peringkat": 5,
+      "judul_film": "Warkop DKI Reborn: Jangkrik Boss! Part 1",
+      "penonton": 6858616,
+      "produksi": "Falcon Pictures",
+      "tahun": 2016,
+      "sutradara": "Anggy Umbara"
+    },
+    {
+      "peringkat": 6,
+      "judul_film": "Pengabdi Setan 2: Communion",
+      "penonton": 6391982,
+      "produksi": "Rapi Films, Come and See Pictures",
+      "tahun": 2022,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 7,
+      "judul_film": "Dilan 1990",
+      "penonton": 6315664,
+      "produksi": "Max Pictures",
+      "tahun": 2018,
+      "sutradara": "Fajar Bustomi dan Pidi Baiq"
+    },
+    {
+      "peringkat": 8,
+      "judul_film": "Miracle in Cell No. 7",
+      "penonton": 5852916,
+      "produksi": "Falcon Pictures",
+      "tahun": 2022,
+      "sutradara": "Hanung Bramantyo"
+    },
+    {
+      "peringkat": 9,
+      "judul_film": "Vina: Sebelum 7 Hari",
+      "penonton": 5815945,
+      "produksi": "Dee Company",
+      "tahun": 2024,
+      "sutradara": "Anggy Umbara"
+    },
+    {
+      "peringkat": 10,
+      "judul_film": "Dilan 1991",
+      "penonton": 5253411,
+      "produksi": "Max Pictures",
+      "tahun": 2019,
+      "sutradara": "Fajar Bustomi dan Pidi Baiq"
+    },
+    {
+      "peringkat": 11,
+      "judul_film": "Sewu Dino",
+      "penonton": 4886406,
+      "produksi": "MD Pictures",
+      "tahun": 2023,
+      "sutradara": "Kimo Stamboel"
+    },
+    {
+      "peringkat": 12,
+      "judul_film": "Kang Mak from Pee Mak",
+      "penonton": 4860565,
+      "produksi": "Falcon Pictures",
+      "tahun": 2024,
+      "sutradara": "Herwin Novianto"
+    },
+    {
+      "peringkat": 13,
+      "judul_film": "Ipar adalah Maut",
+      "penonton": 4776533,
+      "produksi": "MD Pictures",
+      "tahun": 2024,
+      "sutradara": "Hanung Bramantyo"
+    },
+    {
+      "peringkat": 14,
+      "judul_film": "Pabrik Gula",
+      "penonton": 4726760,
+      "produksi": "MD Pictures",
+      "tahun": 2025,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 15,
+      "judul_film": "Laskar Pelangi",
+      "penonton": 4719453,
+      "produksi": "Miles Films",
+      "tahun": 2008,
+      "sutradara": "Riri Riza"
+    },
+    {
+      "peringkat": 16,
+      "judul_film": "Habibie & Ainun",
+      "penonton": 4583641,
+      "produksi": "MD Pictures",
+      "tahun": 2012,
+      "sutradara": "Faozan Rizal"
+    },
+    {
+      "peringkat": 17,
+      "judul_film": "Pengabdi Setan",
+      "penonton": 4206103,
+      "produksi": "Rapi Films",
+      "tahun": 2017,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 18,
+      "judul_film": "Warkop DKI Reborn: Jangkrik Boss! Part 2",
+      "penonton": 4083190,
+      "produksi": "Falcon Pictures",
+      "tahun": 2017,
+      "sutradara": "Anggy Umbara"
+    },
+    {
+      "peringkat": 19,
+      "judul_film": "Badarawuhi di Desa Penari",
+      "penonton": 4015120,
+      "produksi": "MD Pictures",
+      "tahun": 2024,
+      "sutradara": "Kimo Stamboel"
+    },
+    {
+      "peringkat": 20,
+      "judul_film": "Siksa Kubur",
+      "penonton": 4000826,
+      "produksi": "Come and See Pictures, Rapi Films",
+      "tahun": 2024,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 21,
+      "judul_film": "Bila Esok Ibu Tiada",
+      "penonton": 3927731,
+      "produksi": "Leo Pictures",
+      "tahun": 2024,
+      "sutradara": "Rudi Soedjarwo"
+    },
+    {
+      "peringkat": 22,
+      "judul_film": "Ayat-Ayat Cinta",
+      "penonton": 3676210,
+      "produksi": "MD Pictures",
+      "tahun": 2008,
+      "sutradara": "Hanung Bramantyo"
+    },
+    {
+      "peringkat": 23,
+      "judul_film": "Ada Apa dengan Cinta? 2",
+      "penonton": 3665509,
+      "produksi": "Miles Films, Legacy Pictures, Tanakhir Films",
+      "tahun": 2016,
+      "sutradara": "Riri Riza"
+    },
+    {
+      "peringkat": 24,
+      "judul_film": "Danur: The Last Chapter",
+      "penonton": 3619493,
+      "produksi": "MD Pictures",
+      "tahun": 2026,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 25,
+      "judul_film": "Ghost in the Cell",
+      "penonton": 3376865,
+      "produksi": "Come and See Pictures",
+      "tahun": 2026,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 26,
+      "judul_film": "Jangan Buang Ibu",
+      "penonton": 3356577,
+      "produksi": "Leo Pictures",
+      "tahun": 2026,
+      "sutradara": "Hadrah Daeng Ratu"
+    },
+    {
+      "peringkat": 27,
+      "judul_film": "Suzzanna: Bernapas dalam Kubur",
+      "penonton": 3346185,
+      "produksi": "Soraya Intercine Films",
+      "tahun": 2018,
+      "sutradara": "Anggy Umbara dan Rocky Soraya"
+    },
+    {
+      "peringkat": 28,
+      "judul_film": "Di Ambang Kematian",
+      "penonton": 3302047,
+      "produksi": "MVP Pictures",
+      "tahun": 2023,
+      "sutradara": "Azhar Kinoi Lubis"
+    },
+    {
+      "peringkat": 29,
+      "judul_film": "Petaka Gunung Gede",
+      "penonton": 3242843,
+      "produksi": "Starvision Plus, Legacy Pictures",
+      "tahun": 2025,
+      "sutradara": "Azhar Kinoi Lubis"
+    },
+    {
+      "peringkat": 30,
+      "judul_film": "Milea: Suara dari Dilan",
+      "penonton": 3157817,
+      "produksi": "Max Pictures",
+      "tahun": 2020,
+      "sutradara": "Fajar Bustomi dan Pidi Baiq"
+    },
+    {
+      "peringkat": 31,
+      "judul_film": "Air Mata di Ujung Sajadah",
+      "penonton": 3127861,
+      "produksi": "Beehave Pictures",
+      "tahun": 2023,
+      "sutradara": "Key Mangunsong"
+    },
+    {
+      "peringkat": 32,
+      "judul_film": "Sore: Istri dari Masa Depan",
+      "penonton": 3119896,
+      "produksi": "Cerita Films",
+      "tahun": 2025,
+      "sutradara": "Yandy Laurens"
+    },
+    {
+      "peringkat": 33,
+      "judul_film": "172 Days",
+      "penonton": 3087826,
+      "produksi": "Starvision Plus",
+      "tahun": 2023,
+      "sutradara": "Hadrah Daeng Ratu"
+    },
+    {
+      "peringkat": 34,
+      "judul_film": "My Stupid Boss",
+      "penonton": 3052657,
+      "produksi": "Falcon Pictures",
+      "tahun": 2016,
+      "sutradara": "Upi Avianto"
+    },
+    {
+      "peringkat": 35,
+      "judul_film": "Tunggu Aku Sukses Nanti",
+      "penonton": 3008239,
+      "produksi": "Rapi Films",
+      "tahun": 2026,
+      "sutradara": "Naya Anindita"
+    },
+    {
+      "peringkat": 36,
+      "judul_film": "Komang",
+      "penonton": 3002303,
+      "produksi": "Starvision Plus",
+      "tahun": 2025,
+      "sutradara": "Naya Anindita"
+    },
+    {
+      "peringkat": 37,
+      "judul_film": "Ngeri-Ngeri Sedap",
+      "penonton": 2886121,
+      "produksi": "Imajinari",
+      "tahun": 2022,
+      "sutradara": "Bene Dion Rajagukguk"
+    },
+    {
+      "peringkat": 38,
+      "judul_film": "Ayat-Ayat Cinta 2",
+      "penonton": 2840159,
+      "produksi": "MD Pictures",
+      "tahun": 2017,
+      "sutradara": "Guntur Soeharjanto"
+    },
+    {
+      "peringkat": 39,
+      "judul_film": "Jalan Pulang",
+      "penonton": 2809467,
+      "produksi": "Leo Pictures, Legacy Pictures",
+      "tahun": 2025,
+      "sutradara": "Jeropoint"
+    },
+    {
+      "peringkat": 40,
+      "judul_film": "Ivanna",
+      "penonton": 2793775,
+      "produksi": "MD Pictures",
+      "tahun": 2022,
+      "sutradara": "Kimo Stamboel"
+    },
+    {
+      "peringkat": 41,
+      "judul_film": "Danur: I Can See Ghosts",
+      "penonton": 2736391,
+      "produksi": "MD Pictures",
+      "tahun": 2017,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 42,
+      "judul_film": "Ada Apa dengan Cinta?",
+      "penonton": 2700000,
+      "produksi": "Miles Films",
+      "tahun": 2002,
+      "sutradara": "Rudi Soedjarwo"
+    },
+    {
+      "peringkat": 43,
+      "judul_film": "Imperfect: Karier, Cinta & Timbangan",
+      "penonton": 2662356,
+      "produksi": "Starvision Plus",
+      "tahun": 2019,
+      "sutradara": "Ernest Prakasa"
+    },
+    {
+      "peringkat": 44,
+      "judul_film": "Cek Toko Sebelah",
+      "penonton": 2642957,
+      "produksi": "Starvision Plus",
+      "tahun": 2016,
+      "sutradara": "Ernest Prakasa"
+    },
+    {
+      "peringkat": 45,
+      "judul_film": "Eiffel I'm in Love",
+      "penonton": 2632300,
+      "produksi": "Soraya Intercine Films",
+      "tahun": 2003,
+      "sutradara": "Nasri Cheppy"
+    },
+    {
+      "peringkat": 46,
+      "judul_film": "Hangout",
+      "penonton": 2620644,
+      "produksi": "Rapi Films",
+      "tahun": 2016,
+      "sutradara": "Raditya Dika"
+    },
+    {
+      "peringkat": 47,
+      "judul_film": "Siksa Neraka",
+      "penonton": 2610036,
+      "produksi": "Dee Company",
+      "tahun": 2023,
+      "sutradara": "Anggy Umbara"
+    },
+    {
+      "peringkat": 48,
+      "judul_film": "Danur 2: Maddah",
+      "penonton": 2572871,
+      "produksi": "MD Pictures",
+      "tahun": 2018,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 49,
+      "judul_film": "Jailangkung",
+      "penonton": 2550271,
+      "produksi": "Screenplay Films",
+      "tahun": 2017,
+      "sutradara": "Jose Poernomo dan Rizal Mantovani"
+    },
+    {
+      "peringkat": 50,
+      "judul_film": "Dua Garis Biru",
+      "penonton": 2538473,
+      "produksi": "Starvision Plus",
+      "tahun": 2019,
+      "sutradara": "Gina S. Noer"
+    },
+    {
+      "peringkat": 51,
+      "judul_film": "Sekawan Limo",
+      "penonton": 2512129,
+      "produksi": "Starvision Plus, Skak Studios",
+      "tahun": 2024,
+      "sutradara": "Bayu Skak"
+    },
+    {
+      "peringkat": 52,
+      "judul_film": "Kang Solah from Kang Mak x Nenek Gayung",
+      "penonton": 2507452,
+      "produksi": "Falcon Pictures",
+      "tahun": 2025,
+      "sutradara": "Herwin Novianto"
+    },
+    {
+      "peringkat": 53,
+      "judul_film": "Alas Roban",
+      "penonton": 2434299,
+      "produksi": "Unlimited Production",
+      "tahun": 2026,
+      "sutradara": "Hadrah Daeng Ratu"
+    },
+    {
+      "peringkat": 54,
+      "judul_film": "Sayap-Sayap Patah",
+      "penonton": 2426084,
+      "produksi": "Maxima Pictures, Denny Siregar Production",
+      "tahun": 2022,
+      "sutradara": "Rudi Soedjarwo"
+    },
+    {
+      "peringkat": 55,
+      "judul_film": "Danur 3: Sunyaruri",
+      "penonton": 2416691,
+      "produksi": "MD Pictures",
+      "tahun": 2019,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 56,
+      "judul_film": "Petualangan Sherina 2",
+      "penonton": 2414504,
+      "produksi": "Miles Films",
+      "tahun": 2023,
+      "sutradara": "Riri Riza"
+    },
+    {
+      "peringkat": 57,
+      "judul_film": "Waktu Maghrib",
+      "penonton": 2409122,
+      "produksi": "Rapi Films",
+      "tahun": 2023,
+      "sutradara": "Sidharta Tata"
+    },
+    {
+      "peringkat": 58,
+      "judul_film": "5 cm",
+      "penonton": 2402170,
+      "produksi": "Soraya Intercine Films",
+      "tahun": 2012,
+      "sutradara": "Rizal Mantovani"
+    },
+    {
+      "peringkat": 59,
+      "judul_film": "Mencuri Raden Saleh",
+      "penonton": 2350741,
+      "produksi": "Visinema Pictures",
+      "tahun": 2022,
+      "sutradara": "Angga Dwimas Sasongko"
+    },
+    {
+      "peringkat": 60,
+      "judul_film": "Nanti Kita Cerita tentang Hari Ini",
+      "penonton": 2256908,
+      "produksi": "Visinema Pictures",
+      "tahun": 2020,
+      "sutradara": "Angga Dwimas Sasongko"
+    },
+    {
+      "peringkat": 61,
+      "judul_film": "Habibie & Ainun 3",
+      "penonton": 2242782,
+      "produksi": "MD Pictures",
+      "tahun": 2019,
+      "sutradara": "Hanung Bramantyo"
+    },
+    {
+      "peringkat": 62,
+      "judul_film": "Kukira Kau Rumah",
+      "penonton": 2220180,
+      "produksi": "Sinemaku Pictures",
+      "tahun": 2022,
+      "sutradara": "Umay Shahab"
+    },
+    {
+      "peringkat": 63,
+      "judul_film": "Qodrat 2",
+      "penonton": 2214441,
+      "produksi": "Magma Entertainment, Rapi Films",
+      "tahun": 2025,
+      "sutradara": "Charles Gozali"
+    },
+    {
+      "peringkat": 64,
+      "judul_film": "Suzzanna: Malam Jumat Kliwon",
+      "penonton": 2189363,
+      "produksi": "Soraya Intercine Films",
+      "tahun": 2023,
+      "sutradara": "Guntur Soeharjanto"
+    },
+    {
+      "peringkat": 65,
+      "judul_film": "Susah Sinyal",
+      "penonton": 2172512,
+      "produksi": "Starvision Plus",
+      "tahun": 2017,
+      "sutradara": "Ernest Prakasa"
+    },
+    {
+      "peringkat": 66,
+      "judul_film": "Sekawan Limo 2: Gunung Klawih",
+      "penonton": 2125006,
+      "produksi": "Starvision Plus, Skak Studios",
+      "tahun": 2026,
+      "sutradara": "Bayu Skak"
+    },
+    {
+      "peringkat": 67,
+      "judul_film": "Ketika Cinta Bertasbih",
+      "penonton": 2105192,
+      "produksi": "SinemArt Pictures",
+      "tahun": 2009,
+      "sutradara": "Chaerul Umam"
+    },
+    {
+      "peringkat": 68,
+      "judul_film": "Rudy Habibie",
+      "penonton": 2012025,
+      "produksi": "MD Pictures",
+      "tahun": 2016,
+      "sutradara": "Hanung Bramantyo"
+    },
+    {
+      "peringkat": 69,
+      "judul_film": "Sang Pemimpi",
+      "penonton": 2005660,
+      "produksi": "Miles Films",
+      "tahun": 2009,
+      "sutradara": "Riri Riza"
+    },
+    {
+      "peringkat": 70,
+      "judul_film": "Apa Artinya Cinta?",
+      "penonton": 2000000,
+      "produksi": "Soraya Intercine Films",
+      "tahun": 2005,
+      "sutradara": "Sunil Soraya"
+    },
+    {
+      "peringkat": 71,
+      "judul_film": "Sijjin",
+      "penonton": 1930901,
+      "produksi": "Rapi Films",
+      "tahun": 2023,
+      "sutradara": "Hadrah Daeng Ratu"
+    },
+    {
+      "peringkat": 72,
+      "judul_film": "2nd Miracle in Cell No. 7",
+      "penonton": 1905977,
+      "produksi": "Falcon Pictures",
+      "tahun": 2024,
+      "sutradara": "Herwin Novianto"
+    },
+    {
+      "peringkat": 73,
+      "judul_film": "Pengepungan di Bukit Duri",
+      "penonton": 1892369,
+      "produksi": "Amazon MGM Studios, Come and See Pictures",
+      "tahun": 2025,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 74,
+      "judul_film": "My Stupid Boss 2",
+      "penonton": 1876052,
+      "produksi": "Falcon Pictures",
+      "tahun": 2019,
+      "sutradara": "Upi Avianto"
+    },
+    {
+      "peringkat": 75,
+      "judul_film": "Koala Kumal",
+      "penonton": 1863541,
+      "produksi": "Starvision Plus",
+      "tahun": 2016,
+      "sutradara": "Raditya Dika"
+    },
+    {
+      "peringkat": 76,
+      "judul_film": "The Raid",
+      "penonton": 1844817,
+      "produksi": "Merantau Films",
+      "tahun": 2012,
+      "sutradara": "Gareth Evans"
+    },
+    {
+      "peringkat": 77,
+      "judul_film": "Comic 8: Casino Kings Part 2",
+      "penonton": 1835644,
+      "produksi": "Falcon Pictures",
+      "tahun": 2016,
+      "sutradara": "Anggy Umbara"
+    },
+    {
+      "peringkat": 78,
+      "judul_film": "Panggonan Wingit",
+      "penonton": 1800003,
+      "produksi": "Hitmaker Studios",
+      "tahun": 2023,
+      "sutradara": "Guntur Soeharjanto"
+    },
+    {
+      "peringkat": 79,
+      "judul_film": "Perempuan Tanah Jahanam",
+      "penonton": 1795068,
+      "produksi": "BASE Entertainment",
+      "tahun": 2019,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 80,
+      "judul_film": "The Doll 3",
+      "penonton": 1767049,
+      "produksi": "Hitmaker Studios",
+      "tahun": 2022,
+      "sutradara": "Rocky Soraya"
+    },
+    {
+      "peringkat": 81,
+      "judul_film": "Makmum 2",
+      "penonton": 1764372,
+      "produksi": "Dee Company",
+      "tahun": 2021,
+      "sutradara": "Guntur Soeharjanto"
+    },
+    {
+      "peringkat": 82,
+      "judul_film": "Si Doel the Movie",
+      "penonton": 1757653,
+      "produksi": "Falcon Pictures",
+      "tahun": 2018,
+      "sutradara": "Rano Karno"
+    },
+    {
+      "peringkat": 83,
+      "judul_film": "Qodrat",
+      "penonton": 1751637,
+      "produksi": "Magma Entertainment",
+      "tahun": 2022,
+      "sutradara": "Charles Gozali"
+    },
+    {
+      "peringkat": 84,
+      "judul_film": "Kuntilanak 2",
+      "penonton": 1726570,
+      "produksi": "MVP Pictures",
+      "tahun": 2019,
+      "sutradara": "Rizal Mantovani"
+    },
+    {
+      "peringkat": 85,
+      "judul_film": "Tenggelamnya Kapal Van der Wijck",
+      "penonton": 1724110,
+      "produksi": "Soraya Intercine Films",
+      "tahun": 2013,
+      "sutradara": "Sunil Soraya"
+    },
+    {
+      "peringkat": 86,
+      "judul_film": "Home Sweet Loan",
+      "penonton": 1722655,
+      "produksi": "Visinema Pictures",
+      "tahun": 2024,
+      "sutradara": "Sabrina Rochelle Kalangie"
+    },
+    {
+      "peringkat": 87,
+      "judul_film": "Asih",
+      "penonton": 1714898,
+      "produksi": "MD Pictures",
+      "tahun": 2018,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 88,
+      "judul_film": "Keluarga Cemara",
+      "penonton": 1701498,
+      "produksi": "Visinema Pictures",
+      "tahun": 2019,
+      "sutradara": "Yandy Laurens"
+    },
+    {
+      "peringkat": 89,
+      "judul_film": "Gundala",
+      "penonton": 1699433,
+      "produksi": "Screenplay Bumilangit",
+      "tahun": 2019,
+      "sutradara": "Joko Anwar"
+    },
+    {
+      "peringkat": 90,
+      "judul_film": "Kisah Tanah Jawa: Pocong Gundul",
+      "penonton": 1684624,
+      "produksi": "MD Pictures",
+      "tahun": 2023,
+      "sutradara": "Awi Suryadi"
+    },
+    {
+      "peringkat": 91,
+      "judul_film": "Lembayung",
+      "penonton": 1656149,
+      "produksi": "MNC Pictures, Tiger Wong Entertainment",
+      "tahun": 2024,
+      "sutradara": "Baim Wong"
+    },
+    {
+      "peringkat": 92,
+      "judul_film": "Teman tapi Menikah",
+      "penonton": 1655829,
+      "produksi": "Falcon Pictures",
+      "tahun": 2018,
+      "sutradara": "Rako Prijanto"
+    },
+    {
+      "peringkat": 93,
+      "judul_film": "Tumbal Proyek",
+      "penonton": 1655590,
+      "produksi": "Dee Company",
+      "tahun": 2026,
+      "sutradara": "Jeropoint"
+    },
+    {
+      "peringkat": 94,
+      "judul_film": "Ayah, Ini Arahnya ke Mana, Ya?",
+      "penonton": 1652638,
+      "produksi": "Five Elements Pictures",
+      "tahun": 2026,
+      "sutradara": "Kuntz Agus"
+    },
+    {
+      "peringkat": 95,
+      "judul_film": "Pemandi Jenazah",
+      "penonton": 1645513,
+      "produksi": "Visinema Pictures",
+      "tahun": 2024,
+      "sutradara": "Hadrah Daeng Ratu"
+    },
+    {
+      "peringkat": 96,
+      "judul_film": "Surga yang Tak Dirindukan 2",
+      "penonton": 1637559,
+      "produksi": "MD Pictures",
+      "tahun": 2017,
+      "sutradara": "Hanung Bramantyo"
+    },
+    {
+      "peringkat": 97,
+      "judul_film": "Comic 8",
+      "penonton": 1624067,
+      "produksi": "Falcon Pictures",
+      "tahun": 2014,
+      "sutradara": "Anggy Umbara"
+    },
+    {
+      "peringkat": 98,
+      "judul_film": "Ketika Berhenti di Sini",
+      "penonton": 1611005,
+      "produksi": "Sinemaku Pictures",
+      "tahun": 2023,
+      "sutradara": "Umay Shahab"
+    },
+    {
+      "peringkat": 99,
+      "judul_film": "Pamali: Dusun Pocong",
+      "penonton": 1605554,
+      "produksi": "LYTO Pictures",
+      "tahun": 2023,
+      "sutradara": "Bobby Prasetyo"
+    },
+    {
+      "peringkat": 100,
+      "judul_film": "Petualangan Sherina",
+      "penonton": 1600000,
+      "produksi": "Miles Films",
+      "tahun": 2000,
+      "sutradara": "Riri Riza"
+    }
+  ],
+  "meta": {
+    "title": "100 Film Indonesia Terlaris Sepanjang Masa - Free Download",
+    "description": "Daftar 100 film Indonesia dengan jumlah penonton bioskop terbanyak sepanjang masa, lengkap dengan rumah produksi, tahun dan sutradara. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "100 Film Indonesia Terlaris Sepanjang Masa | ListBase",
+    "seo_description": "Download 100 Film Indonesia Terlaris Sepanjang Masa — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_film_Indonesia_terlaris_sepanjang_masa"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:11:02.025Z",
-  "total_datasets": 522,
-  "total_records": 639586,
+  "generated": "2026-10-23T02:11:04.203Z",
+  "total_datasets": 523,
+  "total_records": 639686,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -289,6 +289,33 @@
         "xlsx": {
           "name": "id-smk-jakarta_ID.xlsx",
           "size": 29164
+        }
+      }
+    },
+    {
+      "id": "id-film-terlaris",
+      "name": "100 Film Indonesia Terlaris Sepanjang Masa",
+      "category": "entertainment",
+      "record_count": 100,
+      "columns": [
+        "peringkat",
+        "judul_film",
+        "penonton",
+        "produksi",
+        "tahun",
+        "sutradara"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_film_Indonesia_terlaris_sepanjang_masa",
+      "updated": "2026-10",
+      "size": 22016,
+      "files": {
+        "csv": {
+          "name": "id-film-terlaris_ID.csv",
+          "size": 8102
+        },
+        "xlsx": {
+          "name": "id-film-terlaris_ID.xlsx",
+          "size": 12135
         }
       }
     },
