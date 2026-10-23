@@ -1,0 +1,231 @@
+{
+  "id": "id-pdrb-provinsi-2025",
+  "name": "PDRB Provinsi di Indonesia Tahun 2025",
+  "title": "PDRB Provinsi di Indonesia Tahun 2025",
+  "description": "Peringkat 38 provinsi di Indonesia menurut Produk Domestik Regional Bruto (PDRB) atas dasar harga berlaku tahun 2025, dalam triliun rupiah.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_PDRB",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_PDRB",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "number"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "pdrb_2025_triliun_rupiah",
+      "label": "Pdrb 2025 Triliun Rupiah",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "peringkat": 1,
+      "provinsi": "DKI Jakarta",
+      "pdrb_2025_triliun_rupiah": 3926
+    },
+    {
+      "peringkat": 2,
+      "provinsi": "Jawa Timur",
+      "pdrb_2025_triliun_rupiah": 3403
+    },
+    {
+      "peringkat": 3,
+      "provinsi": "Jawa Barat",
+      "pdrb_2025_triliun_rupiah": 3038
+    },
+    {
+      "peringkat": 4,
+      "provinsi": "Jawa Tengah",
+      "pdrb_2025_triliun_rupiah": 1943
+    },
+    {
+      "peringkat": 5,
+      "provinsi": "Sumatera Utara",
+      "pdrb_2025_triliun_rupiah": 1236
+    },
+    {
+      "peringkat": 6,
+      "provinsi": "Riau",
+      "pdrb_2025_triliun_rupiah": 1201
+    },
+    {
+      "peringkat": 7,
+      "provinsi": "Banten",
+      "pdrb_2025_triliun_rupiah": 936
+    },
+    {
+      "peringkat": 8,
+      "provinsi": "Kalimantan Timur",
+      "pdrb_2025_triliun_rupiah": 889
+    },
+    {
+      "peringkat": 9,
+      "provinsi": "Sulawesi Selatan",
+      "pdrb_2025_triliun_rupiah": 753
+    },
+    {
+      "peringkat": 10,
+      "provinsi": "Sumatera Selatan",
+      "pdrb_2025_triliun_rupiah": 720
+    },
+    {
+      "peringkat": 11,
+      "provinsi": "Lampung",
+      "pdrb_2025_triliun_rupiah": 523
+    },
+    {
+      "peringkat": 12,
+      "provinsi": "Sulawesi Tengah",
+      "pdrb_2025_triliun_rupiah": 415
+    },
+    {
+      "peringkat": 13,
+      "provinsi": "Kepulauan Riau",
+      "pdrb_2025_triliun_rupiah": 381
+    },
+    {
+      "peringkat": 14,
+      "provinsi": "Sumatera Barat",
+      "pdrb_2025_triliun_rupiah": 352
+    },
+    {
+      "peringkat": 15,
+      "provinsi": "Jambi",
+      "pdrb_2025_triliun_rupiah": 349
+    },
+    {
+      "peringkat": 16,
+      "provinsi": "Kalimantan Barat",
+      "pdrb_2025_triliun_rupiah": 328
+    },
+    {
+      "peringkat": 17,
+      "provinsi": "Bali",
+      "pdrb_2025_triliun_rupiah": 324
+    },
+    {
+      "peringkat": 18,
+      "provinsi": "Kalimantan Selatan",
+      "pdrb_2025_triliun_rupiah": 305
+    },
+    {
+      "peringkat": 19,
+      "provinsi": "Aceh",
+      "pdrb_2025_triliun_rupiah": 257
+    },
+    {
+      "peringkat": 20,
+      "provinsi": "Kalimantan Tengah",
+      "pdrb_2025_triliun_rupiah": 241
+    },
+    {
+      "peringkat": 21,
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "pdrb_2025_triliun_rupiah": 208
+    },
+    {
+      "peringkat": 22,
+      "provinsi": "Sulawesi Utara",
+      "pdrb_2025_triliun_rupiah": 204
+    },
+    {
+      "peringkat": 23,
+      "provinsi": "Sulawesi Tenggara",
+      "pdrb_2025_triliun_rupiah": 204
+    },
+    {
+      "peringkat": 24,
+      "provinsi": "Nusa Tenggara Barat",
+      "pdrb_2025_triliun_rupiah": 193
+    },
+    {
+      "peringkat": 25,
+      "provinsi": "Papua Tengah",
+      "pdrb_2025_triliun_rupiah": 160
+    },
+    {
+      "peringkat": 26,
+      "provinsi": "Kalimantan Utara",
+      "pdrb_2025_triliun_rupiah": 156
+    },
+    {
+      "peringkat": 27,
+      "provinsi": "Maluku Utara",
+      "pdrb_2025_triliun_rupiah": 133
+    },
+    {
+      "peringkat": 28,
+      "provinsi": "Nusa Tenggara Timur",
+      "pdrb_2025_triliun_rupiah": 148
+    },
+    {
+      "peringkat": 29,
+      "provinsi": "Bangka Belitung",
+      "pdrb_2025_triliun_rupiah": 117
+    },
+    {
+      "peringkat": 30,
+      "provinsi": "Bengkulu",
+      "pdrb_2025_triliun_rupiah": 112
+    },
+    {
+      "peringkat": 31,
+      "provinsi": "Papua",
+      "pdrb_2025_triliun_rupiah": 90
+    },
+    {
+      "peringkat": 32,
+      "provinsi": "Papua Barat",
+      "pdrb_2025_triliun_rupiah": 82
+    },
+    {
+      "peringkat": 33,
+      "provinsi": "Sulawesi Barat",
+      "pdrb_2025_triliun_rupiah": 71
+    },
+    {
+      "peringkat": 34,
+      "provinsi": "Maluku",
+      "pdrb_2025_triliun_rupiah": 66
+    },
+    {
+      "peringkat": 35,
+      "provinsi": "Gorontalo",
+      "pdrb_2025_triliun_rupiah": 59
+    },
+    {
+      "peringkat": 36,
+      "provinsi": "Papua Barat Daya",
+      "pdrb_2025_triliun_rupiah": 39
+    },
+    {
+      "peringkat": 37,
+      "provinsi": "Papua Selatan",
+      "pdrb_2025_triliun_rupiah": 35
+    },
+    {
+      "peringkat": 38,
+      "provinsi": "Papua Pegunungan",
+      "pdrb_2025_triliun_rupiah": 28
+    }
+  ],
+  "meta": {
+    "title": "PDRB Provinsi di Indonesia Tahun 2025 - Free Download",
+    "description": "Peringkat 38 provinsi di Indonesia menurut Produk Domestik Regional Bruto (PDRB) atas dasar harga berlaku tahun 2025, dalam triliun rupiah. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "PDRB Provinsi di Indonesia Tahun 2025 | ListBase",
+    "seo_description": "Download PDRB Provinsi di Indonesia Tahun 2025 — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_PDRB"
+    ]
+  }
+}

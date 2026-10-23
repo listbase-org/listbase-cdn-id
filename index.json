@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:55.062Z",
-  "total_datasets": 519,
-  "total_records": 639451,
+  "generated": "2026-10-23T02:10:57.260Z",
+  "total_datasets": 520,
+  "total_records": 639489,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 3
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -203,6 +207,30 @@
         "xlsx": {
           "name": "id-situs-warisan-dunia-unesco_ID.xlsx",
           "size": 10325
+        }
+      }
+    },
+    {
+      "id": "id-pdrb-provinsi-2025",
+      "name": "PDRB Provinsi di Indonesia Tahun 2025",
+      "category": "economy",
+      "record_count": 38,
+      "columns": [
+        "peringkat",
+        "provinsi",
+        "pdrb_2025_triliun_rupiah"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_PDRB",
+      "updated": "2026-10",
+      "size": 5732,
+      "files": {
+        "csv": {
+          "name": "id-pdrb-provinsi-2025_ID.csv",
+          "size": 1049
+        },
+        "xlsx": {
+          "name": "id-pdrb-provinsi-2025_ID.xlsx",
+          "size": 7635
         }
       }
     },
