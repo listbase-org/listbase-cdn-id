@@ -1,0 +1,1535 @@
+{
+  "id": "id-pabrik-gula",
+  "name": "Daftar Pabrik Gula di Indonesia",
+  "title": "Daftar Pabrik Gula di Indonesia",
+  "description": "Pabrik gula (PG) di Indonesia, aktif maupun nonaktif, dengan pulau, kabupaten/kota lokasi dan keterangan.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_pabrik_gula_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_pabrik_gula_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 212,
+  "columns": [
+    {
+      "key": "nama_pabrik",
+      "label": "Nama Pabrik",
+      "type": "string"
+    },
+    {
+      "key": "pulau",
+      "label": "Pulau",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "kabupaten_kota",
+      "label": "Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "keterangan",
+      "label": "Keterangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama_pabrik": "Pabrik Gula Asembagus",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Situbondo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Panji",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Situbondo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Olean",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Situbondo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wringinanom",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Situbondo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula de Maas",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Situbondo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Prajekan",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Bondowoso",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tenggarang",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bondowoso",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sukowidi",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Banyuwangi",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Industri Gula Glenmore",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Banyuwangi",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bedadoeng",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jember",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Semboro",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Jember",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gunungsari",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jember",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Oemboel",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kota Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Soemberkareng",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kota Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wonoaseh",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kota Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wonolangan",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gending",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Padjarakan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bagoe",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Maron",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Paiton",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bayeman",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kandang Djati",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Seboro",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jabung",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Probolinggo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Djatiroto",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Lumajang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kedawoeng",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bekasi Oost",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gayam",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula de Goede Hoop",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pleret",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wonorejo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sumberrejo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Arjosarie",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pandaan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kantjil Mas",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sukorejo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Alkmaar",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pasuruan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kebonagung",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Malang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sempalwadak",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Malang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Krebet",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Malang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Panggoengredjo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Malang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Porong",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tanggulangin",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Candi Baru",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sruni",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Buduran",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Waru",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ketegan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Krian",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Balong Bendo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Watutulis",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Seruni",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tulangan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Krembung",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Sidoarjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sedatie",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Koning Willem II",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ketanen",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pohjejer",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Dinoyo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sumengko",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tangunan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Brangkal",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bangsal",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Perning",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gempolkerep",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sentanen Lor",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kota Mojokerto",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sukodono",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sumobito",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Peterongan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Mojoagong",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Selorejo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Cukir",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Blimbing",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ceweng",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gudo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jombang",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ponen",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ngelom",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jombang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Keningo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Blitar",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Garum",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Blitar",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Rejoso Manis Indo",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Blitar",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sumberdadi",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Blitar",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kunir",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Blitar",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Merican",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kota Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pesantren lama",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kota Kediri",
+      "keterangan": "Digabung dan berada di area PG Pesantren Baru"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pesantren baru",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kota Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ngadirejo",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Minggiran",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Menang",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bogokidul",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kawarasan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tegowangi",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": "Menjadi Pabrik rokok"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kencong",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": "Menjadi Pabrik karung"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Badas",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Purwoasri",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kediri",
+      "keterangan": "bekas lahan diubah menjadi Terminal Purwoasri"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Mojopanggung",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Tulungagung",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Lestari",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Nganjuk",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Juwono",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Nganjuk",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jati",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Nganjuk",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Nganjuk",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Nganjuk",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Baron",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Nganjuk",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kujonmanis",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Nganjuk",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Rejoagung",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kota Madiun",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kanigoro",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Madiun",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pagotan",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Madiun",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Rejosari",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Magetan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Purwodadi",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Magetan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sudono",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Ngawi",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wringin Agung",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tuban",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kebonharjo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tuban",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Mojo",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Sragen",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kedungbanteng",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sragen",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tasikmadu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Karanganyar",
+      "keterangan": "Dibuka sebagai tempat wisata"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Colomadu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Karanganyar",
+      "keterangan": "Dibuka kembali menjadi Museum"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kartasura",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sukoharjo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bangak",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Boyolali",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wonosari",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Cokrotulung",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ponggok",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Delanggu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ceper",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Manisharjo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gedaren",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Karang Anom",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gondang Winangun",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Klaten",
+      "keterangan": "beralih fungsi menjadi tempat wisata dan digunakan shooting film"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Prambanan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Randu Gunting Candi Sewu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tandjong Tirto",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Demak Ijo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Cebongan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Beran",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Medari",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sendangpitu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Sleman",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kedaton Pleret",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wonotjatoer",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Padokan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": "Dibangun ulang menjadi Pabrik Gula Madukismo"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bantul",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Barongan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gondang Lipuro",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pundong",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gesikan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Rewulu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Bantul",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sewu Galur",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kulon Progo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jenar",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Purworejo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Rembun",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kebumen",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Klampok",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Banjarnegara",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bojong",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Purbalingga",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tinapan",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Blora",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kalirejo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Banyumas",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kalibagor",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Banyumas",
+      "keterangan": "Beralih fungsi menjadi pabrik garmen"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Purwokerto",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Banyumas",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pakis Baru",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Pati",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Trangkil",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Pati",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Langse",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pati",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tanjung Mojo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kudus",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Rendeng",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Kudus",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Besito",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kudus",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Mayong",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jepara",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pecangaan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jepara",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Banyuputih",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Jepara",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kaliwungu",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kendal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gemuh",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kendal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Cepiring",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Kendal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Puguh",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Kendal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kalimati",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Batang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Klidang",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Batang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Wonopringgo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pekalongan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tirto",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pekalongan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sragi",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Pekalongan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Comal",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pemalang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Petarukan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pemalang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Banjardawa",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pemalang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sumberharjo",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Pemalang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Balapulang",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Dukuhwringin",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pangkah",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kemantran",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pagongan",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Adiwerna",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kemanglen",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Maribaya",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kejambon",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kota Tegal",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jatibarang",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Brebes",
+      "keterangan": "Direvitilasi menjadi Museum Lokomotif Uap"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Banjaratma",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Brebes",
+      "keterangan": "Direvitalisasi menjadi Rest Area Heritage KM 260 B Jalan tol Pemalang-Penjagan"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Lemahabang",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Brebes",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Ketanggungan Barat (Pabrik Gula Kersana)",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Brebes",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Losari Baru",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tersana Baru",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Luwunggajah",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jatipiring",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Karangsuwung",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Sindanglaut",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Surawinangun",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Gempol",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Aryawinangun",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Cirebon",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Parungjaya",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Majalengka",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jatiwangi",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Majalengka",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Kadipaten",
+      "pulau": "Jawa",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Majalengka",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Jatitujuh",
+      "pulau": "Jawa",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Majalengka",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Pelaihari",
+      "pulau": "Kalimantan",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Tanah Laut",
+      "keterangan": "Dialihfungsikan menjadi pabrik minyak sawit"
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bone",
+      "pulau": "Sulawesi",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Bone",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Camming (Arasoe)",
+      "pulau": "Sulawesi",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Bone",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Takalar",
+      "pulau": "Sulawesi",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Takalar",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Bombana",
+      "pulau": "Sulawesi",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Bombana",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "PG Gorontalo",
+      "pulau": "Sulawesi",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Gorontalo",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Cinta Manis",
+      "pulau": "Sumatra",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Ogan Ilir",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "PT. Gunung Madu Plantations",
+      "pulau": "Sumatra",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Lampung Tengah",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "PT. Pemuka Sakti Manis Indah",
+      "pulau": "Sumatra",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Way Kanan",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "PT.Sugar Group Companies",
+      "pulau": "Sumatra",
+      "status": "Aktif",
+      "kabupaten_kota": "Kabupaten Tulang Bawang",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "PT Sumber Muatiara Indah Perdana",
+      "pulau": "Sumatra",
+      "status": "Aktif",
+      "kabupaten_kota": "Kota Dumai",
+      "keterangan": ""
+    },
+    {
+      "nama_pabrik": "Pabrik Gula Tjot Girek",
+      "pulau": "Sumatra",
+      "status": "Nonaktif",
+      "kabupaten_kota": "Kabupaten Aceh Utara",
+      "keterangan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pabrik Gula di Indonesia - Free Download",
+    "description": "Pabrik gula (PG) di Indonesia, aktif maupun nonaktif, dengan pulau, kabupaten/kota lokasi dan keterangan. Contains 212 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Pabrik Gula di Indonesia | ListBase",
+    "seo_description": "Download Daftar Pabrik Gula di Indonesia — 212 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 212 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_pabrik_gula_di_Indonesia"
+    ]
+  }
+}

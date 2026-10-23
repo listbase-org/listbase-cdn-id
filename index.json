@@ -1,9 +1,13 @@
 {
   "lang": "id",
-  "generated": "2026-10-20T04:09:48.337Z",
-  "total_datasets": 510,
-  "total_records": 636647,
+  "generated": "2026-10-23T02:10:31.061Z",
+  "total_datasets": 511,
+  "total_records": 636859,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 3
@@ -70,6 +74,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "id-pabrik-gula",
+      "name": "Daftar Pabrik Gula di Indonesia",
+      "category": "agriculture",
+      "record_count": 212,
+      "columns": [
+        "nama_pabrik",
+        "pulau",
+        "status",
+        "kabupaten_kota",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_pabrik_gula_di_Indonesia",
+      "updated": "2026-10",
+      "size": 39770,
+      "files": {
+        "csv": {
+          "name": "id-pabrik-gula_ID.csv",
+          "size": 14231
+        },
+        "xlsx": {
+          "name": "id-pabrik-gula_ID.xlsx",
+          "size": 13447
+        }
+      }
+    },
     {
       "id": "id-lembaga-amil-zakat",
       "name": "Lembaga Amil Zakat (LAZ) Indonesia (Registered Zakat Agencies)",
