@@ -1,0 +1,368 @@
+{
+  "id": "id-ipm-provinsi-2025",
+  "name": "Indeks Pembangunan Manusia (IPM) Provinsi Indonesia 2025",
+  "title": "Indeks Pembangunan Manusia (IPM) Provinsi Indonesia 2025",
+  "description": "Peringkat provinsi di Indonesia menurut Indeks Pembangunan Manusia (IPM) tahun 2025 beserta perubahan dari 2024 dan kategori pembangunan manusia.",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_IPM",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_IPM",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "peringkat_2025",
+      "label": "Peringkat 2025",
+      "type": "number"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "ipm_2025",
+      "label": "Ipm 2025",
+      "type": "number"
+    },
+    {
+      "key": "perubahan_dari_2024",
+      "label": "Perubahan Dari 2024",
+      "type": "number"
+    },
+    {
+      "key": "persentase_perubahan",
+      "label": "Persentase Perubahan",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "peringkat_2025": 1,
+      "provinsi": "Daerah Khusus Jakarta",
+      "ipm_2025": 85.05,
+      "perubahan_dari_2024": 0.9,
+      "persentase_perubahan": "1,07%",
+      "kategori": "Pembangunan Manusia Sangat Tinggi"
+    },
+    {
+      "peringkat_2025": 2,
+      "provinsi": "Yogyakarta",
+      "ipm_2025": 82.48,
+      "perubahan_dari_2024": 0.86,
+      "persentase_perubahan": "1,05%",
+      "kategori": "Pembangunan Manusia Sangat Tinggi"
+    },
+    {
+      "peringkat_2025": 3,
+      "provinsi": "Kepulauan Riau",
+      "ipm_2025": 80.53,
+      "perubahan_dari_2024": 0.64,
+      "persentase_perubahan": "0,80%",
+      "kategori": "Pembangunan Manusia Sangat Tinggi"
+    },
+    {
+      "peringkat_2025": 4,
+      "provinsi": "Kalimantan Timur",
+      "ipm_2025": 79.39,
+      "perubahan_dari_2024": 0.6,
+      "persentase_perubahan": "0,76%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 5,
+      "provinsi": "Bali",
+      "ipm_2025": 79.37,
+      "perubahan_dari_2024": 0.74,
+      "persentase_perubahan": "0,94%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 6,
+      "provinsi": "Sumatera Barat",
+      "ipm_2025": 77.27,
+      "perubahan_dari_2024": 0.84,
+      "persentase_perubahan": "1,10%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 7,
+      "provinsi": "Banten",
+      "ipm_2025": 77.25,
+      "perubahan_dari_2024": 0.9,
+      "persentase_perubahan": "1,18%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 8,
+      "provinsi": "Sumatera Utara",
+      "ipm_2025": 76.47,
+      "perubahan_dari_2024": 0.71,
+      "persentase_perubahan": "0,94%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 9,
+      "provinsi": "Sulawesi Utara",
+      "ipm_2025": 76.32,
+      "perubahan_dari_2024": 0.64,
+      "persentase_perubahan": "0,84%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 10,
+      "provinsi": "Riau",
+      "ipm_2025": 76.31,
+      "perubahan_dari_2024": 0.64,
+      "persentase_perubahan": "0,84%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 11,
+      "provinsi": "Aceh",
+      "ipm_2025": 76.23,
+      "perubahan_dari_2024": 0.87,
+      "persentase_perubahan": "1,15%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 12,
+      "provinsi": "Jawa Timur",
+      "ipm_2025": 76.13,
+      "perubahan_dari_2024": 0.78,
+      "persentase_perubahan": "1,04%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 13,
+      "provinsi": "Kalimantan Selatan",
+      "ipm_2025": 76.1,
+      "perubahan_dari_2024": 0.91,
+      "persentase_perubahan": "1,21%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 14,
+      "provinsi": "Sulawesi Selatan",
+      "ipm_2025": 75.92,
+      "perubahan_dari_2024": 0.74,
+      "persentase_perubahan": "0,78%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 15,
+      "provinsi": "Jawa Barat",
+      "ipm_2025": 75.9,
+      "perubahan_dari_2024": 0.98,
+      "persentase_perubahan": "0,98%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": "",
+      "provinsi": "Indonesia (BPS) 2024",
+      "ipm_2025": 75.9,
+      "perubahan_dari_2024": 0.88,
+      "persentase_perubahan": "1,17%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 16,
+      "provinsi": "Bengkulu",
+      "ipm_2025": 75.68,
+      "perubahan_dari_2024": 0.77,
+      "persentase_perubahan": "1,03%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 17,
+      "provinsi": "Bangka Belitung",
+      "ipm_2025": 75.26,
+      "perubahan_dari_2024": 0.71,
+      "persentase_perubahan": "0,95%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 18,
+      "provinsi": "Jambi",
+      "ipm_2025": 75.13,
+      "perubahan_dari_2024": 0.77,
+      "persentase_perubahan": "1,04%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 19,
+      "provinsi": "Kalimantan Tengah",
+      "ipm_2025": 74.86,
+      "perubahan_dari_2024": 0.58,
+      "persentase_perubahan": "0,78%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 20,
+      "provinsi": "Jawa Tengah",
+      "ipm_2025": 74.77,
+      "perubahan_dari_2024": 0.9,
+      "persentase_perubahan": "1,22%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 21,
+      "provinsi": "Sumatera Selatan",
+      "ipm_2025": 74.76,
+      "perubahan_dari_2024": 0.92,
+      "persentase_perubahan": "1,24%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 22,
+      "provinsi": "Papua",
+      "ipm_2025": 74.69,
+      "perubahan_dari_2024": 0.86,
+      "persentase_perubahan": "1,16%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 23,
+      "provinsi": "Sulawesi Tenggara",
+      "ipm_2025": 74.25,
+      "perubahan_dari_2024": 0.63,
+      "persentase_perubahan": "0,86%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 24,
+      "provinsi": "Maluku",
+      "ipm_2025": 74.09,
+      "perubahan_dari_2024": 0.69,
+      "persentase_perubahan": "0,94%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 25,
+      "provinsi": "Kalimantan Utara",
+      "ipm_2025": 74.04,
+      "perubahan_dari_2024": 0.63,
+      "persentase_perubahan": "0,86%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 26,
+      "provinsi": "Lampung",
+      "ipm_2025": 73.98,
+      "perubahan_dari_2024": 0.85,
+      "persentase_perubahan": "1,16%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 27,
+      "provinsi": "Nusa Tenggara Barat",
+      "ipm_2025": 73.97,
+      "perubahan_dari_2024": 0.87,
+      "persentase_perubahan": "1,19%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 28,
+      "provinsi": "Sulawesi Tengah",
+      "ipm_2025": 72.82,
+      "perubahan_dari_2024": 0.58,
+      "persentase_perubahan": "0,80%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 29,
+      "provinsi": "Gorontalo",
+      "ipm_2025": 72.62,
+      "perubahan_dari_2024": 0.61,
+      "persentase_perubahan": "0,85%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 30,
+      "provinsi": "Maluku Utara",
+      "ipm_2025": 72.52,
+      "perubahan_dari_2024": 0.68,
+      "persentase_perubahan": "0,95%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 31,
+      "provinsi": "Kalimantan Barat",
+      "ipm_2025": 72.09,
+      "perubahan_dari_2024": 0.9,
+      "persentase_perubahan": "1,02%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 32,
+      "provinsi": "Sulawesi Barat",
+      "ipm_2025": 71.16,
+      "perubahan_dari_2024": 0.7,
+      "persentase_perubahan": "1,26%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 33,
+      "provinsi": "Papua Barat Daya",
+      "ipm_2025": 70.55,
+      "perubahan_dari_2024": 0.9,
+      "persentase_perubahan": "1,29%",
+      "kategori": "Pembangunan Manusia Tinggi"
+    },
+    {
+      "peringkat_2025": 34,
+      "provinsi": "Nusa Tenggara Timur",
+      "ipm_2025": 69.89,
+      "perubahan_dari_2024": 0.75,
+      "persentase_perubahan": "1,08%",
+      "kategori": "Pembangunan Manusia Menengah"
+    },
+    {
+      "peringkat_2025": 35,
+      "provinsi": "Papua Selatan",
+      "ipm_2025": 69.54,
+      "perubahan_dari_2024": 0.68,
+      "persentase_perubahan": "0,99%",
+      "kategori": "Pembangunan Manusia Menengah"
+    },
+    {
+      "peringkat_2025": 36,
+      "provinsi": "Papua Barat",
+      "ipm_2025": 68.48,
+      "perubahan_dari_2024": 0.79,
+      "persentase_perubahan": "1,17%",
+      "kategori": "Pembangunan Manusia Menengah"
+    },
+    {
+      "peringkat_2025": 37,
+      "provinsi": "Papua Tengah",
+      "ipm_2025": 60.64,
+      "perubahan_dari_2024": 0.39,
+      "persentase_perubahan": "0,65%",
+      "kategori": "Pembangunan Manusia Menengah"
+    },
+    {
+      "peringkat_2025": 38,
+      "provinsi": "Papua Pegunungan",
+      "ipm_2025": 54.91,
+      "perubahan_dari_2024": 0.58,
+      "persentase_perubahan": "1,06%",
+      "kategori": "Pembangunan Manusia Rendah"
+    }
+  ],
+  "meta": {
+    "title": "Indeks Pembangunan Manusia (IPM) Provinsi Indonesia 2025 - Free Download",
+    "description": "Peringkat provinsi di Indonesia menurut Indeks Pembangunan Manusia (IPM) tahun 2025 beserta perubahan dari 2024 dan kategori pembangunan manusia. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Indeks Pembangunan Manusia (IPM) Provinsi Indonesia 2025 | ListBase",
+    "seo_description": "Download Indeks Pembangunan Manusia (IPM) Provinsi Indonesia 2025 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_IPM"
+    ]
+  }
+}

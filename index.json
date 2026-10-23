@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:57.260Z",
-  "total_datasets": 520,
-  "total_records": 639489,
+  "generated": "2026-10-23T02:10:59.692Z",
+  "total_datasets": 521,
+  "total_records": 639528,
   "categories": [
     {
       "id": "agriculture",
@@ -75,6 +75,10 @@
     {
       "id": "science",
       "dataset_count": 9
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -12689,6 +12693,33 @@
         "xlsx": {
           "name": "science-solubility-rules_ID.xlsx",
           "size": 9055
+        }
+      }
+    },
+    {
+      "id": "id-ipm-provinsi-2025",
+      "name": "Indeks Pembangunan Manusia (IPM) Provinsi Indonesia 2025",
+      "category": "society",
+      "record_count": 39,
+      "columns": [
+        "peringkat_2025",
+        "provinsi",
+        "ipm_2025",
+        "perubahan_dari_2024",
+        "persentase_perubahan",
+        "kategori"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_IPM",
+      "updated": "2026-10",
+      "size": 10661,
+      "files": {
+        "csv": {
+          "name": "id-ipm-provinsi-2025_ID.csv",
+          "size": 2935
+        },
+        "xlsx": {
+          "name": "id-ipm-provinsi-2025_ID.xlsx",
+          "size": 8476
         }
       }
     },
