@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:11:08.592Z",
-  "total_datasets": 525,
-  "total_records": 639725,
+  "generated": "2026-10-23T02:11:10.764Z",
+  "total_datasets": 526,
+  "total_records": 639734,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -342,6 +342,34 @@
         "xlsx": {
           "name": "id-penerbit_ID.xlsx",
           "size": 60532
+        }
+      }
+    },
+    {
+      "id": "id-danau-terbesar",
+      "name": "Danau Terbesar di Indonesia",
+      "category": "environment",
+      "record_count": 9,
+      "columns": [
+        "nama",
+        "jenis",
+        "luas_km2",
+        "kedalaman_maks_m",
+        "ketinggian_m",
+        "wilayah",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_danau_di_Indonesia",
+      "updated": "2026-10",
+      "size": 3740,
+      "files": {
+        "csv": {
+          "name": "id-danau-terbesar_ID.csv",
+          "size": 749
+        },
+        "xlsx": {
+          "name": "id-danau-terbesar_ID.xlsx",
+          "size": 7245
         }
       }
     },

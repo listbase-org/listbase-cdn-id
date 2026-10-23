@@ -1,0 +1,142 @@
+{
+  "id": "id-danau-terbesar",
+  "name": "Danau Terbesar di Indonesia",
+  "title": "Danau Terbesar di Indonesia",
+  "description": "Danau-danau terbesar di Indonesia dengan jenis danau, luas, kedalaman maksimal, ketinggian, pulau dan provinsi.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_danau_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_danau_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "luas_km2",
+      "label": "Luas Km2",
+      "type": "number"
+    },
+    {
+      "key": "kedalaman_maks_m",
+      "label": "Kedalaman Maks M",
+      "type": "number"
+    },
+    {
+      "key": "ketinggian_m",
+      "label": "Ketinggian M",
+      "type": "number"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Danau Toba",
+      "jenis": "Tektovulkanik",
+      "luas_km2": 1130,
+      "kedalaman_maks_m": 505,
+      "ketinggian_m": 905,
+      "wilayah": "Sumatera",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "nama": "Danau Towuti",
+      "jenis": "Tektonik",
+      "luas_km2": 561,
+      "kedalaman_maks_m": 203,
+      "ketinggian_m": 293,
+      "wilayah": "Sulawesi",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Danau Tempe",
+      "jenis": "Banjiran",
+      "luas_km2": 350,
+      "kedalaman_maks_m": 5,
+      "ketinggian_m": 5,
+      "wilayah": "Sulawesi",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Danau Poso",
+      "jenis": "Tektonik",
+      "luas_km2": 323,
+      "kedalaman_maks_m": 450,
+      "ketinggian_m": 485,
+      "wilayah": "Sulawesi",
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "nama": "Danau Matano",
+      "jenis": "Tektonik",
+      "luas_km2": 164,
+      "kedalaman_maks_m": 625,
+      "ketinggian_m": 382,
+      "wilayah": "Sulawesi",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Danau Paniai",
+      "jenis": "Tektonik",
+      "luas_km2": 154,
+      "kedalaman_maks_m": 44,
+      "ketinggian_m": 1752,
+      "wilayah": "Papua",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "nama": "Danau Ranau",
+      "jenis": "Tektovulkanik",
+      "luas_km2": 125,
+      "kedalaman_maks_m": 229,
+      "ketinggian_m": 540,
+      "wilayah": "Sumatera",
+      "provinsi": "Sumatera Selatan, Lampung"
+    },
+    {
+      "nama": "Danau Singkarak",
+      "jenis": "Tektonik",
+      "luas_km2": 107,
+      "kedalaman_maks_m": 268,
+      "ketinggian_m": 363,
+      "wilayah": "Sumatera",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "nama": "Danau Maninjau",
+      "jenis": "Vulkanik",
+      "luas_km2": 99,
+      "kedalaman_maks_m": 165,
+      "ketinggian_m": 459,
+      "wilayah": "Sumatera",
+      "provinsi": "Sumatera Barat"
+    }
+  ],
+  "meta": {
+    "title": "Danau Terbesar di Indonesia - Free Download",
+    "description": "Danau-danau terbesar di Indonesia dengan jenis danau, luas, kedalaman maksimal, ketinggian, pulau dan provinsi. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danau Terbesar di Indonesia | ListBase",
+    "seo_description": "Download Danau Terbesar di Indonesia — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_danau_di_Indonesia"
+    ]
+  }
+}
