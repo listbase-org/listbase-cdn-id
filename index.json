@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:59.692Z",
-  "total_datasets": 521,
-  "total_records": 639528,
+  "generated": "2026-10-23T02:11:02.025Z",
+  "total_datasets": 522,
+  "total_records": 639586,
   "categories": [
     {
       "id": "agriculture",
@@ -91,6 +91,10 @@
     {
       "id": "time",
       "dataset_count": 5
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -13579,6 +13583,34 @@
         "xlsx": {
           "name": "time-zodiac-signs_ID.xlsx",
           "size": 8773
+        }
+      }
+    },
+    {
+      "id": "id-taman-nasional",
+      "name": "Daftar Taman Nasional di Indonesia",
+      "category": "tourism",
+      "record_count": 58,
+      "columns": [
+        "nama",
+        "wilayah",
+        "tahun_ditetapkan",
+        "luas_km2",
+        "luas_mi2",
+        "perairan",
+        "status_internasional"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_taman_nasional_di_Indonesia",
+      "updated": "2026-10",
+      "size": 14883,
+      "files": {
+        "csv": {
+          "name": "id-taman-nasional_ID.csv",
+          "size": 4082
+        },
+        "xlsx": {
+          "name": "id-taman-nasional_ID.xlsx",
+          "size": 9513
         }
       }
     },
