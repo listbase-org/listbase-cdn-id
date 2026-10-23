@@ -1,0 +1,280 @@
+{
+  "id": "id-upt-kesehatan-lanjutan-kemenkes",
+  "name": "Unit Pelaksana Teknis (UPT) Kesehatan Lanjutan Kemenkes — RS Vertikal",
+  "title": "Unit Pelaksana Teknis (UPT) Kesehatan Lanjutan Kemenkes — RS Vertikal",
+  "description": "Daftar rumah sakit vertikal (RSUP, RS khusus) dan UPT lain di bawah Direktorat Jenderal Kesehatan Lanjutan Kementerian Kesehatan RI, beserta jenis dan lokasinya.",
+  "category": "health",
+  "source": "https://id.wikipedia.org/wiki/Direktorat_Jenderal_Kesehatan_Lanjutan",
+  "source_url": "https://id.wikipedia.org/wiki/Direktorat_Jenderal_Kesehatan_Lanjutan",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "nama_upt",
+      "label": "Nama Upt",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "kabupaten_kota",
+      "label": "Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama_upt": "Balai Besar Biomedis dan Genomika Kesehatan",
+      "jenis": "Laboratorium",
+      "kabupaten_kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "RSUP H. Adam Malik",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "nama_upt": "RSUPN dr. Cipto Mangunkusumo",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "RSUP Fatmawati",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "RSUP dr. Kariadi",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Semarang",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama_upt": "RSUP dr. J. Leimena",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Ambon",
+      "provinsi": "Maluku"
+    },
+    {
+      "nama_upt": "RSUP Dr. M. Djamil",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Padang",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "nama_upt": "RSUP Dr. Mohammad Hoesin",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Palembang",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "nama_upt": "RSUP Persahabatan",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Jakarta Timur",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "RSUP Prof. Dr. R. D. Kandou",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Manado",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "nama_upt": "RSUP Ratatotok Buyat",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Minahasa Utara",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "nama_upt": "RSUP dr. Rivai Abdullah",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Banyuasin",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "nama_upt": "RSUP Prof. dr. I.G.N.G. Ngoerah",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Denpasar",
+      "provinsi": "Bali"
+    },
+    {
+      "nama_upt": "RSUP Dr. Sitanala",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Tangerang",
+      "provinsi": "Banten"
+    },
+    {
+      "nama_upt": "RSUP dr. Soeradji Tirtonegoro",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Klaten",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama_upt": "RSUP dr. Wahidin Sudirohusodo",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Makassar",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama_upt": "Rumah Sakit Paru dr. Ario Wirawan",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Kota Salatiga",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama_upt": "Pusat Mata Nasional Rumah Sakit Mata Cicendo",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Kota Bandung",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama_upt": "Rumah Sakit Kanker Dharmais",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Barat",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Paru Dr. M. Goenawan Partowidigdo",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Bogor",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama_upt": "Rumah Sakit Jantung dan Pembuluh Darah Harapan Kita",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Barat",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Anak dan Bunda Harapan Kita",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Barat",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Ketergantungan Obat",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Timur",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Pusat Otak Nasional dr. Mahar Mardjono",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Timur",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Jiwa dr. H. Marzoeki Mahdi",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Kota Bogor",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama_upt": "Rumah Sakit Otak Dr. Drs. Mohammad Hatta",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Kota Bukittinggi",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "nama_upt": "Rumah Sakit Jiwa Dr. Radjiman Wedyodiningrat Lawang",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Malang",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "nama_upt": "Rumah Sakit Ortopedi Prof. Dr. R. Soeharso",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Sukoharjo",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama_upt": "Rumah Sakit Jiwa Dr. Soeharto Heerdjan",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Barat",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Jiwa Prof. dr. Soerojo",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Kota Magelang",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama_upt": "Rumah Sakit Penyakit Infeksi Prof. Dr. Sulianti Saroso",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Jakarta Utara",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "nama_upt": "Rumah Sakit Paru Dr. H.A. Rotinsulu",
+      "jenis": "RS Khusus",
+      "kabupaten_kota": "Kota Bandung",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama_upt": "RSUP dr. Ben Mboi",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Kupang",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "nama_upt": "RSUP Ibu Kota Nusantara",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Nusantara",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama_upt": "RSUP Jayapura",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Jayapura",
+      "provinsi": "Papua"
+    },
+    {
+      "nama_upt": "RSUP Makassar",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Makassar",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama_upt": "RSUP Surabaya",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Surabaya",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "nama_upt": "RSUP Surakarta",
+      "jenis": "RS Umum",
+      "kabupaten_kota": "Kota Surakarta",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama_upt": "Unit Pelayanan Kesehatan Kementerian Kesehatan",
+      "jenis": "UPK",
+      "kabupaten_kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta"
+    }
+  ],
+  "meta": {
+    "title": "Unit Pelaksana Teknis (UPT) Kesehatan Lanjutan Kemenkes — RS Vertikal - Free Download",
+    "description": "Daftar rumah sakit vertikal (RSUP, RS khusus) dan UPT lain di bawah Direktorat Jenderal Kesehatan Lanjutan Kementerian Kesehatan RI, beserta jenis dan lokasinya. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unit Pelaksana Teknis (UPT) Kesehatan Lanjutan Kemenkes — RS Vertikal | ListBase",
+    "seo_description": "Download Unit Pelaksana Teknis (UPT) Kesehatan Lanjutan Kemenkes — RS Vertikal — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Direktorat_Jenderal_Kesehatan_Lanjutan"
+    ]
+  }
+}

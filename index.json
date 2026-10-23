@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:38.767Z",
-  "total_datasets": 512,
-  "total_records": 636974,
+  "generated": "2026-10-23T02:10:41.119Z",
+  "total_datasets": 513,
+  "total_records": 637013,
   "categories": [
     {
       "id": "agriculture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 134
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -4922,6 +4926,31 @@
         "xlsx": {
           "name": "id-wilayah-administratif_ID.xlsx",
           "size": 204335
+        }
+      }
+    },
+    {
+      "id": "id-upt-kesehatan-lanjutan-kemenkes",
+      "name": "Unit Pelaksana Teknis (UPT) Kesehatan Lanjutan Kemenkes — RS Vertikal",
+      "category": "health",
+      "record_count": 39,
+      "columns": [
+        "nama_upt",
+        "jenis",
+        "kabupaten_kota",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Direktorat_Jenderal_Kesehatan_Lanjutan",
+      "updated": "2026-10",
+      "size": 8298,
+      "files": {
+        "csv": {
+          "name": "id-upt-kesehatan-lanjutan-kemenkes_ID.csv",
+          "size": 2902
+        },
+        "xlsx": {
+          "name": "id-upt-kesehatan-lanjutan-kemenkes_ID.xlsx",
+          "size": 8370
         }
       }
     },
