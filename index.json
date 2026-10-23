@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:43.397Z",
-  "total_datasets": 514,
-  "total_records": 637486,
+  "generated": "2026-10-23T02:10:45.830Z",
+  "total_datasets": 515,
+  "total_records": 638050,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "entertainment",
@@ -220,6 +220,31 @@
         "xlsx": {
           "name": "id-sma-jakarta_ID.xlsx",
           "size": 26415
+        }
+      }
+    },
+    {
+      "id": "id-smk-jakarta",
+      "name": "Daftar SMK Negeri & Swasta di DKI Jakarta",
+      "category": "education",
+      "record_count": 564,
+      "columns": [
+        "nama_sekolah",
+        "alamat",
+        "status",
+        "kota_administrasi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_sekolah_menengah_kejuruan_di_Jakarta",
+      "updated": "2026-10",
+      "size": 115578,
+      "files": {
+        "csv": {
+          "name": "id-smk-jakarta_ID.csv",
+          "size": 59269
+        },
+        "xlsx": {
+          "name": "id-smk-jakarta_ID.xlsx",
+          "size": 29164
         }
       }
     },
