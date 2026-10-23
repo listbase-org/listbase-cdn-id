@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:50.448Z",
-  "total_datasets": 517,
-  "total_records": 638144,
+  "generated": "2026-10-23T02:10:52.560Z",
+  "total_datasets": 518,
+  "total_records": 638171,
   "categories": [
     {
       "id": "agriculture",
@@ -71,6 +71,10 @@
     {
       "id": "science",
       "dataset_count": 9
+    },
+    {
+      "id": "sports",
+      "dataset_count": 1
     },
     {
       "id": "tech",
@@ -12657,6 +12661,34 @@
         "xlsx": {
           "name": "science-solubility-rules_ID.xlsx",
           "size": 9055
+        }
+      }
+    },
+    {
+      "id": "id-stadion-sepak-bola",
+      "name": "Daftar Stadion Sepak Bola di Indonesia menurut Kapasitas",
+      "category": "sports",
+      "record_count": 27,
+      "columns": [
+        "peringkat",
+        "stadion",
+        "kapasitas",
+        "kota_kabupaten",
+        "provinsi",
+        "rumah_tim",
+        "tahun_dibuka"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_stadion_sepak_bola_di_Indonesia",
+      "updated": "2026-10",
+      "size": 8415,
+      "files": {
+        "csv": {
+          "name": "id-stadion-sepak-bola_ID.csv",
+          "size": 2421
+        },
+        "xlsx": {
+          "name": "id-stadion-sepak-bola_ID.xlsx",
+          "size": 8372
         }
       }
     },

@@ -1,0 +1,304 @@
+{
+  "id": "id-stadion-sepak-bola",
+  "name": "Daftar Stadion Sepak Bola di Indonesia menurut Kapasitas",
+  "title": "Daftar Stadion Sepak Bola di Indonesia menurut Kapasitas",
+  "description": "Stadion sepak bola terbesar di Indonesia beserta kapasitas, kota/kabupaten, provinsi, klub tuan rumah, dan tahun dibuka.",
+  "category": "sports",
+  "source": "https://id.wikipedia.org/wiki/Daftar_stadion_sepak_bola_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_stadion_sepak_bola_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "number"
+    },
+    {
+      "key": "stadion",
+      "label": "Stadion",
+      "type": "string"
+    },
+    {
+      "key": "kapasitas",
+      "label": "Kapasitas",
+      "type": "number"
+    },
+    {
+      "key": "kota_kabupaten",
+      "label": "Kota Kabupaten",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "rumah_tim",
+      "label": "Rumah Tim",
+      "type": "string"
+    },
+    {
+      "key": "tahun_dibuka",
+      "label": "Tahun Dibuka",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "peringkat": 1,
+      "stadion": "Stadion Internasional Jakarta",
+      "kapasitas": 82000,
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Jakarta",
+      "rumah_tim": "Persija Jakarta",
+      "tahun_dibuka": 2022
+    },
+    {
+      "peringkat": 2,
+      "stadion": "Stadion Utama Gelora Bung Karno",
+      "kapasitas": 77200,
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Jakarta",
+      "rumah_tim": "Timnas Indonesia",
+      "tahun_dibuka": 1962
+    },
+    {
+      "peringkat": 3,
+      "stadion": "Stadion Gelora Bung Tomo",
+      "kapasitas": 46806,
+      "kota_kabupaten": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "rumah_tim": "Persebaya Surabaya",
+      "tahun_dibuka": 2010
+    },
+    {
+      "peringkat": 4,
+      "stadion": "Stadion Utama Riau",
+      "kapasitas": 43923,
+      "kota_kabupaten": "Pekanbaru",
+      "provinsi": "Riau",
+      "rumah_tim": "PSPS Riau",
+      "tahun_dibuka": 2012
+    },
+    {
+      "peringkat": 5,
+      "stadion": "Stadion Lukas Enembe",
+      "kapasitas": 40263,
+      "kota_kabupaten": "Jayapura",
+      "provinsi": "Papua",
+      "rumah_tim": "Persipura Jayapura",
+      "tahun_dibuka": 2019
+    },
+    {
+      "peringkat": 6,
+      "stadion": "Stadion Batakan",
+      "kapasitas": 40000,
+      "kota_kabupaten": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "rumah_tim": "Persiba Balikpapan",
+      "tahun_dibuka": 2017
+    },
+    {
+      "peringkat": 7,
+      "stadion": "Stadion Gelora Bandung Lautan Api",
+      "kapasitas": 38000,
+      "kota_kabupaten": "Kota Bandung",
+      "provinsi": "Jawa Barat",
+      "rumah_tim": "Persib Bandung",
+      "tahun_dibuka": 2013
+    },
+    {
+      "peringkat": 9,
+      "stadion": "Stadion Utama Palaran",
+      "kapasitas": 35000,
+      "kota_kabupaten": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "rumah_tim": "",
+      "tahun_dibuka": 2008
+    },
+    {
+      "peringkat": 9,
+      "stadion": "Stadion Aji Imbut",
+      "kapasitas": 35000,
+      "kota_kabupaten": "Kutai Kartanegara",
+      "provinsi": "Kalimantan Timur",
+      "rumah_tim": "Mitra Kukar",
+      "tahun_dibuka": 2008
+    },
+    {
+      "peringkat": 11,
+      "stadion": "Stadion Pakansari",
+      "kapasitas": 30000,
+      "kota_kabupaten": "Bogor",
+      "provinsi": "Jawa Barat",
+      "rumah_tim": "Garudayaksa FC",
+      "tahun_dibuka": 2015
+    },
+    {
+      "peringkat": 11,
+      "stadion": "Stadion Internasional Banten",
+      "kapasitas": 30000,
+      "kota_kabupaten": "Serang",
+      "provinsi": "Banten",
+      "rumah_tim": "Dewa United",
+      "tahun_dibuka": 2022
+    },
+    {
+      "peringkat": 12,
+      "stadion": "Stadion Si Jalak Harupat",
+      "kapasitas": 27000,
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "rumah_tim": "Persib Bandung",
+      "tahun_dibuka": 2005
+    },
+    {
+      "peringkat": 13,
+      "stadion": "Stadion Utama Sumatera Utara",
+      "kapasitas": 25750,
+      "kota_kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara",
+      "rumah_tim": "PSMS Medan",
+      "tahun_dibuka": 2024
+    },
+    {
+      "peringkat": 14,
+      "stadion": "Stadion Wibawa Mukti",
+      "kapasitas": 25395,
+      "kota_kabupaten": "Bekasi",
+      "provinsi": "Jawa Barat",
+      "rumah_tim": "",
+      "tahun_dibuka": 2014
+    },
+    {
+      "peringkat": 17,
+      "stadion": "Stadion Patriot Candrabhaga",
+      "kapasitas": 25000,
+      "kota_kabupaten": "Kota Bekasi",
+      "provinsi": "Jawa Barat",
+      "rumah_tim": "Bhayangkara",
+      "tahun_dibuka": 1982
+    },
+    {
+      "peringkat": 17,
+      "stadion": "Stadion Mandala Krida",
+      "kapasitas": 25000,
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "rumah_tim": "PSIM Yogyakarta",
+      "tahun_dibuka": 1976
+    },
+    {
+      "peringkat": 17,
+      "stadion": "Stadion Sultan Agung",
+      "kapasitas": 25000,
+      "kota_kabupaten": "Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "rumah_tim": "Persiba Bantul",
+      "tahun_dibuka": 2007
+    },
+    {
+      "peringkat": 18,
+      "stadion": "Stadion Jakabaring",
+      "kapasitas": 23000,
+      "kota_kabupaten": "Kota Palembang",
+      "provinsi": "Sumatera Selatan",
+      "rumah_tim": "Sumsel United",
+      "tahun_dibuka": 2004
+    },
+    {
+      "peringkat": 19,
+      "stadion": "Stadion Gelora Joko Samudro",
+      "kapasitas": 22272,
+      "kota_kabupaten": "Gresik",
+      "provinsi": "Jawa Timur",
+      "rumah_tim": "Gresik United",
+      "tahun_dibuka": 2015
+    },
+    {
+      "peringkat": 20,
+      "stadion": "Stadion Kanjuruhan",
+      "kapasitas": 21603,
+      "kota_kabupaten": "Malang",
+      "provinsi": "Jawa Timur",
+      "rumah_tim": "Arema",
+      "tahun_dibuka": 2004
+    },
+    {
+      "peringkat": 21,
+      "stadion": "Stadion Maguwoharjo",
+      "kapasitas": 20595,
+      "kota_kabupaten": "Sleman",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "rumah_tim": "PSS Sleman",
+      "tahun_dibuka": 2007
+    },
+    {
+      "peringkat": 27,
+      "stadion": "Stadion Gelora Delta",
+      "kapasitas": 20000,
+      "kota_kabupaten": "Sidoarjo",
+      "provinsi": "Jawa Timur",
+      "rumah_tim": "Deltras",
+      "tahun_dibuka": 2000
+    },
+    {
+      "peringkat": 27,
+      "stadion": "Stadion Manahan",
+      "kapasitas": 20000,
+      "kota_kabupaten": "Kota Surakarta",
+      "provinsi": "Jawa Tengah",
+      "rumah_tim": "Persis Solo",
+      "tahun_dibuka": 1998
+    },
+    {
+      "peringkat": 27,
+      "stadion": "Stadion Teladan",
+      "kapasitas": 20000,
+      "kota_kabupaten": "Medan",
+      "provinsi": "Sumatera Utara",
+      "rumah_tim": "PSMS Medan",
+      "tahun_dibuka": 1953
+    },
+    {
+      "peringkat": 27,
+      "stadion": "Stadion Mandala",
+      "kapasitas": 20000,
+      "kota_kabupaten": "Kota Jayapura",
+      "provinsi": "Papua",
+      "rumah_tim": "Persipura Jayapura",
+      "tahun_dibuka": 1950
+    },
+    {
+      "peringkat": 27,
+      "stadion": "Stadion Kaharudin Nasution Rumbai",
+      "kapasitas": 20000,
+      "kota_kabupaten": "Pekanbaru",
+      "provinsi": "Riau",
+      "rumah_tim": "PSPS Riau",
+      "tahun_dibuka": 1980
+    },
+    {
+      "peringkat": 27,
+      "stadion": "Stadion Moch. Soebroto",
+      "kapasitas": 20000,
+      "kota_kabupaten": "Kota Magelang",
+      "provinsi": "Jawa Tengah",
+      "rumah_tim": "",
+      "tahun_dibuka": 2015
+    }
+  ],
+  "meta": {
+    "title": "Daftar Stadion Sepak Bola di Indonesia menurut Kapasitas - Free Download",
+    "description": "Stadion sepak bola terbesar di Indonesia beserta kapasitas, kota/kabupaten, provinsi, klub tuan rumah, dan tahun dibuka. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Stadion Sepak Bola di Indonesia menurut Kapasitas | ListBase",
+    "seo_description": "Download Daftar Stadion Sepak Bola di Indonesia menurut Kapasitas — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_stadion_sepak_bola_di_Indonesia"
+    ]
+  }
+}
