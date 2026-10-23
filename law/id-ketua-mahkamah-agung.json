@@ -1,0 +1,177 @@
+{
+  "id": "id-ketua-mahkamah-agung",
+  "name": "Daftar Ketua Mahkamah Agung Republik Indonesia",
+  "title": "Daftar Ketua Mahkamah Agung Republik Indonesia",
+  "description": "Ketua Mahkamah Agung Republik Indonesia sejak 1945, dengan tanggal mulai dan selesai menjabat serta jabatan sebelumnya.",
+  "category": "law",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Mahkamah_Agung_Republik_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Ketua_Mahkamah_Agung_Republik_Indonesia",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "ketua",
+      "label": "Ketua",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "selesai_menjabat",
+      "label": "Selesai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "jabatan_sebelumnya",
+      "label": "Jabatan Sebelumnya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "ketua": "Kusumah Atmaja",
+      "mulai_menjabat": "19 Agustus 1945",
+      "selesai_menjabat": "11 Agustus 1952",
+      "jabatan_sebelumnya": "anggota BPUPKI Ketua Pengadilan Negeri Semarang"
+    },
+    {
+      "no": 2,
+      "ketua": "Wirjono Prodjodikoro",
+      "mulai_menjabat": "13 Oktober 1952",
+      "selesai_menjabat": "21 Juni 1966",
+      "jabatan_sebelumnya": "Hakim Agung"
+    },
+    {
+      "no": 3,
+      "ketua": "Soerjadi",
+      "mulai_menjabat": "21 Juni 1966",
+      "selesai_menjabat": "17 Februari 1968",
+      "jabatan_sebelumnya": "Ketua PN Semarang"
+    },
+    {
+      "no": 4,
+      "ketua": "Soebekti",
+      "mulai_menjabat": "17 Februari 1968",
+      "selesai_menjabat": "22 Januari 1974",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung"
+    },
+    {
+      "no": 5,
+      "ketua": "Oemar Seno Adji",
+      "mulai_menjabat": "22 Januari 1974",
+      "selesai_menjabat": "9 Februari 1981",
+      "jabatan_sebelumnya": "Menteri Kehakiman"
+    },
+    {
+      "no": 6,
+      "ketua": "Mudjono",
+      "mulai_menjabat": "9 Februari 1981",
+      "selesai_menjabat": "14 April 1984",
+      "jabatan_sebelumnya": "Menteri Kehakiman"
+    },
+    {
+      "no": 7,
+      "ketua": "Ali Said",
+      "mulai_menjabat": "14 April 1984",
+      "selesai_menjabat": "1 Juli 1992",
+      "jabatan_sebelumnya": "Menteri Kehakiman"
+    },
+    {
+      "no": 8,
+      "ketua": "Purwoto Gandasubrata",
+      "mulai_menjabat": "12 Agustus 1992",
+      "selesai_menjabat": "31 Oktober 1994",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung"
+    },
+    {
+      "no": 9,
+      "ketua": "Soerjono",
+      "mulai_menjabat": "1 November 1994",
+      "selesai_menjabat": "1 November 1996",
+      "jabatan_sebelumnya": "Hakim Agung"
+    },
+    {
+      "no": 10,
+      "ketua": "Sarwata",
+      "mulai_menjabat": "1 November 1996",
+      "selesai_menjabat": "1 Agustus 2000",
+      "jabatan_sebelumnya": "Hakim Agung"
+    },
+    {
+      "no": "Plh.",
+      "ketua": "Th. Ketut Suraputra",
+      "mulai_menjabat": "1 Agustus 2000",
+      "selesai_menjabat": "13 Desember 2000",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung"
+    },
+    {
+      "no": "Plt.",
+      "ketua": "Taufiq",
+      "mulai_menjabat": "21 Desember 2000",
+      "selesai_menjabat": "18 Mei 2001",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung"
+    },
+    {
+      "no": 11,
+      "ketua": "Bagir Manan",
+      "mulai_menjabat": "18 Mei 2001",
+      "selesai_menjabat": "31 Oktober 2008",
+      "jabatan_sebelumnya": "Rektor Universitas Islam Bandung Direktur Jenderal Hukum dan Perundang-undangan"
+    },
+    {
+      "no": "Plt.",
+      "ketua": "Harifin A. Tumpa",
+      "mulai_menjabat": "1 November 2008",
+      "selesai_menjabat": "15 Januari 2009",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung Bidang Non-Yudisial"
+    },
+    {
+      "no": 12,
+      "ketua": "Harifin A. Tumpa",
+      "mulai_menjabat": "15 Januari 2009",
+      "selesai_menjabat": "1 Maret 2012",
+      "jabatan_sebelumnya": "Pelaksana Tugas Ketua Mahkamah Agung"
+    },
+    {
+      "no": 13,
+      "ketua": "Muhammad Hatta Ali",
+      "mulai_menjabat": "1 Maret 2012",
+      "selesai_menjabat": "30 April 2020",
+      "jabatan_sebelumnya": "Juru Bicara Mahkamah Agung Ketua Muda Pengawasan Mahkamah Agung"
+    },
+    {
+      "no": 14,
+      "ketua": "Muhammad Syarifuddin",
+      "mulai_menjabat": "30 April 2020",
+      "selesai_menjabat": "22 Oktober 2024",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung Bidang Yudisial"
+    },
+    {
+      "no": 15,
+      "ketua": "Sunarto",
+      "mulai_menjabat": "22 Oktober 2024",
+      "selesai_menjabat": "petahana",
+      "jabatan_sebelumnya": "Wakil Ketua Mahkamah Agung Bidang Yudisial"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Ketua Mahkamah Agung Republik Indonesia - Free Download",
+    "description": "Ketua Mahkamah Agung Republik Indonesia sejak 1945, dengan tanggal mulai dan selesai menjabat serta jabatan sebelumnya. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Ketua Mahkamah Agung Republik Indonesia | ListBase",
+    "seo_description": "Download Daftar Ketua Mahkamah Agung Republik Indonesia — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Ketua_Mahkamah_Agung_Republik_Indonesia"
+    ]
+  }
+}
