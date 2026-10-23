@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:10:31.061Z",
-  "total_datasets": 511,
-  "total_records": 636859,
+  "generated": "2026-10-23T02:10:38.767Z",
+  "total_datasets": 512,
+  "total_records": 636974,
   "categories": [
     {
       "id": "agriculture",
@@ -23,6 +23,10 @@
     {
       "id": "finance",
       "dataset_count": 10
+    },
+    {
+      "id": "food",
+      "dataset_count": 1
     },
     {
       "id": "geography",
@@ -574,6 +578,32 @@
         "xlsx": {
           "name": "id-penyelenggara-kupva_ID.xlsx",
           "size": 320653
+        }
+      }
+    },
+    {
+      "id": "id-minuman-tradisional",
+      "name": "Daftar Minuman Khas Indonesia",
+      "category": "food",
+      "record_count": 115,
+      "columns": [
+        "nama",
+        "kelompok",
+        "wilayah",
+        "jenis",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_minuman_Indonesia",
+      "updated": "2026-10",
+      "size": 20604,
+      "files": {
+        "csv": {
+          "name": "id-minuman-tradisional_ID.csv",
+          "size": 7458
+        },
+        "xlsx": {
+          "name": "id-minuman-tradisional_ID.xlsx",
+          "size": 10736
         }
       }
     },

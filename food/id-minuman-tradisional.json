@@ -1,0 +1,856 @@
+{
+  "id": "id-minuman-tradisional",
+  "name": "Daftar Minuman Khas Indonesia",
+  "title": "Daftar Minuman Khas Indonesia",
+  "description": "Minuman tradisional dan khas Indonesia (panas, dingin, beralkohol) beserta daerah asal dan jenisnya.",
+  "category": "food",
+  "source": "https://id.wikipedia.org/wiki/Daftar_minuman_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_minuman_Indonesia",
+  "updated": "2026-10",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kelompok",
+      "label": "Kelompok",
+      "type": "string"
+    },
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "keterangan",
+      "label": "Keterangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Air guraka",
+      "kelompok": "Minuman panas",
+      "wilayah": "Ternate, Maluku Utara",
+      "jenis": "Minuman jahe panas",
+      "keterangan": ""
+    },
+    {
+      "nama": "Bajigur",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa Barat",
+      "jenis": "Minuman manis panas",
+      "keterangan": ""
+    },
+    {
+      "nama": "Bandrek",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa Barat",
+      "jenis": "Minuman manis panas",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi Jawa",
+      "kelompok": "Minuman panas",
+      "wilayah": "",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jahe telor",
+      "kelompok": "Minuman panas",
+      "wilayah": "",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kembang tahu",
+      "kelompok": "Minuman panas",
+      "wilayah": "Nusantara",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi dabe",
+      "kelompok": "Minuman panas",
+      "wilayah": "Tidore, Maluku Utara",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi durian",
+      "kelompok": "Minuman panas",
+      "wilayah": "Sumatera",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi hijau",
+      "kelompok": "Minuman panas",
+      "wilayah": "Tulungagung, Jawa Timur",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi jahe",
+      "kelompok": "Minuman panas",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi joss",
+      "kelompok": "Minuman panas",
+      "wilayah": "Yogyakarta",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi kasar/kopyok",
+      "kelompok": "Minuman panas",
+      "wilayah": "Gresik, Jawa Timur",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi kawa",
+      "kelompok": "Minuman panas",
+      "wilayah": "Sumatera Barat",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi khop",
+      "kelompok": "Minuman panas",
+      "wilayah": "Aceh",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi kothok",
+      "kelompok": "Minuman panas",
+      "wilayah": "Cepu, Jawa Tengah; Padangan, Jawa Timur",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi lelet",
+      "kelompok": "Minuman panas",
+      "wilayah": "Lasem, Jawa Tengah",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi luwak",
+      "kelompok": "Minuman panas",
+      "wilayah": "Sumatera, Jawa, Sulawesi, dan Nusa Tenggara",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi pala",
+      "kelompok": "Minuman panas",
+      "wilayah": "Kepulauan Banda",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi pinogu",
+      "kelompok": "Minuman panas",
+      "wilayah": "Suwawa, Gorontalo",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi rarobang",
+      "kelompok": "Minuman panas",
+      "wilayah": "Ambon, Maluku",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi sanger",
+      "kelompok": "Minuman panas",
+      "wilayah": "Aceh",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi santan",
+      "kelompok": "Minuman panas",
+      "wilayah": "Blora, Jawa Tengah",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi talua",
+      "kelompok": "Minuman panas",
+      "wilayah": "Sumatera Barat",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi takar",
+      "kelompok": "Minuman panas",
+      "wilayah": "Mandailing Natal, Sumatera Utara",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi tarik",
+      "kelompok": "Minuman panas",
+      "wilayah": "Kepulauan Riau",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Kopi tubruk",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa",
+      "jenis": "Minuman kopi",
+      "keterangan": ""
+    },
+    {
+      "nama": "Sara'ba",
+      "kelompok": "Minuman panas",
+      "wilayah": "Sulawesi Selatan, Makassar",
+      "jenis": "Minuman panas",
+      "keterangan": ""
+    },
+    {
+      "nama": "Sekoteng",
+      "kelompok": "Minuman panas",
+      "wilayah": "Peranakan, Nusantara",
+      "jenis": "Minuman jahe panas",
+      "keterangan": ""
+    },
+    {
+      "nama": "Serbat",
+      "kelompok": "Minuman panas",
+      "wilayah": "",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Susu jahe pinang",
+      "kelompok": "Minuman panas",
+      "wilayah": "",
+      "jenis": "Minuman susu",
+      "keterangan": ""
+    },
+    {
+      "nama": "Susu Telur Madu Jahe (STMJ)",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa Tengah, Jawa Timur",
+      "jenis": "Minuman susu",
+      "keterangan": ""
+    },
+    {
+      "nama": "Teh bawang dayak",
+      "kelompok": "Minuman panas",
+      "wilayah": "Kalimantan",
+      "jenis": "Minuman teh herbal",
+      "keterangan": ""
+    },
+    {
+      "nama": "Teh manis panas",
+      "kelompok": "Minuman panas",
+      "wilayah": "",
+      "jenis": "Minuman teh",
+      "keterangan": ""
+    },
+    {
+      "nama": "Teh poci",
+      "kelompok": "Minuman panas",
+      "wilayah": "Tegal",
+      "jenis": "Minuman teh",
+      "keterangan": ""
+    },
+    {
+      "nama": "Teh sarang semut",
+      "kelompok": "Minuman panas",
+      "wilayah": "Merauke, Papua",
+      "jenis": "Minuman teh herbal",
+      "keterangan": ""
+    },
+    {
+      "nama": "Teh talua",
+      "kelompok": "Minuman panas",
+      "wilayah": "Sumatera Barat",
+      "jenis": "Minuman teh",
+      "keterangan": ""
+    },
+    {
+      "nama": "Teh tarik",
+      "kelompok": "Minuman panas",
+      "wilayah": "Kepulauan Riau",
+      "jenis": "Minuman teh",
+      "keterangan": ""
+    },
+    {
+      "nama": "Wedang angsle",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa Timur",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Wedang jahe",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa Tengah",
+      "jenis": "Teh jahe",
+      "keterangan": ""
+    },
+    {
+      "nama": "Wedang kacang tanah",
+      "kelompok": "Minuman panas",
+      "wilayah": "Semarang",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Wedang ronde",
+      "kelompok": "Minuman panas",
+      "wilayah": "Yogyakarta",
+      "jenis": "Minuman jahe panas",
+      "keterangan": ""
+    },
+    {
+      "nama": "Wedang tape",
+      "kelompok": "Minuman panas",
+      "wilayah": "Jawa Tengah, Jawa Timur",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Wedang uwuh",
+      "kelompok": "Minuman panas",
+      "wilayah": "Yogyakarta",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Beras kencur",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa",
+      "jenis": "Minuman herbal",
+      "keterangan": ""
+    },
+    {
+      "nama": "Bir kocok",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Bogor, Jawa Barat",
+      "jenis": "Minuman jahe",
+      "keterangan": ""
+    },
+    {
+      "nama": "Bir pletok",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jakarta",
+      "jenis": "Minuman jahe",
+      "keterangan": ""
+    },
+    {
+      "nama": "Dadiah",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Sumatera Barat",
+      "jenis": "Yoghurt",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es asam jawa atau air gula asam",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa Tengah dan Yogyakarta",
+      "jenis": "Minuman asam",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es air mata pengantin",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Riau",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es blewah",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Koktail buah",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es buah",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Koktail buah",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es campur",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Hidangan penutup manis",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es cao",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa Tengah dan Jawa Timur",
+      "jenis": "Minuman jeli",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es cendol",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman jeli manis",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es cincau",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman jeli",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es dawet",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Banjarnegara, Jawa Tengah",
+      "jenis": "Hidangan penutup dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es doger",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Bandung, Jawa Barat",
+      "jenis": "Hidangan penutup manis dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es durian",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Hidangan penutup manis dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es goyobod",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa Barat",
+      "jenis": "Hidangan penutup manis dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es gempol",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa Tengah",
+      "jenis": "Hidangan penutup manis dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es jeruk",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es kelacin",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Sulawesi Barat",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es kelapa muda",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es kopi susu gula aren",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es kuwut",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Bali",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es laksamana mengamuk",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Kepulauan Riau",
+      "jenis": "Hidangan penutup dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es lidah buaya",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Kalimantan Barat",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es matoa",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Papua",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es omu",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Gorontalo",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es pisang ijo",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Sulawesi Selatan",
+      "jenis": "Hidangan penutup dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es puter",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa",
+      "jenis": "Ice cream",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es samudra",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Dumai, Riau",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es sekemu",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Banten",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es selendang mayang",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jakarta",
+      "jenis": "Hidangan penutup dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es serbat kweni",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Lampung",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es sinom",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Surabaya",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es siwalan",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Hidangan penutup dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es sunset papua",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Papua",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es teh tarik",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Kepulauan Riau",
+      "jenis": "Es teh manis",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es tebu",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es teler",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es timun serut",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Aceh",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jamu",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman herbal",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus alpukat",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus buah naga",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus belimbing",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Depok, Jawa Barat",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus gandaria",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Ambon",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus lidah buaya",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Depok, Jawa Barat",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus martabe",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Medan",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus patikala",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Sulawesi Tenggara",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus rumput laut",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Depok, Jawa Barat",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus tala'",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jeneponto",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Jus terung belanda",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Sumatera dan Sulawesi",
+      "jenis": "Juice",
+      "keterangan": ""
+    },
+    {
+      "nama": "Lahang",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa Barat",
+      "jenis": "Cold sweet beverage",
+      "keterangan": ""
+    },
+    {
+      "nama": "Legen",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Jawa Timur",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Liang teh",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Peranakan, Medan, Sumatera Utara",
+      "jenis": "Es teh manis",
+      "keterangan": ""
+    },
+    {
+      "nama": "Minas",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Sinjai",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Sari temulawak",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Java",
+      "jenis": "Minuman herbal",
+      "keterangan": ""
+    },
+    {
+      "nama": "Soda gembira",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Es teh manis",
+      "kelompok": "Minuman dingin",
+      "wilayah": "Nusantara",
+      "jenis": "Minuman dingin",
+      "keterangan": ""
+    },
+    {
+      "nama": "Anggur",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Nusantara",
+      "jenis": "",
+      "keterangan": "Anggur manis produksi merek Orang Tua"
+    },
+    {
+      "nama": "Arak",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Nusantara",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Balo",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Sulawesi Selatan",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Bir Bintang",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Nusantara",
+      "jenis": "Bir",
+      "keterangan": "Bir merek lokal"
+    },
+    {
+      "nama": "Brem",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Bali Madiun",
+      "jenis": "Minuman beralkohol manis",
+      "keterangan": "Brem dibuat dari fermentasi tape. Brem merupakan minuman khas dari Bali. Biasanya, brem juga tersedia dalam bentuk padat sebagai camilan."
+    },
+    {
+      "nama": "Cap Tikus",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Sulawesi Utara",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Ciu",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Jawa Tengah",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Congyang",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Semarang, Jawa Tengah",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Cukrik",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Surabaya, Jawa Timur",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Lapen",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Yogyakarta",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Moke",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Flores, Nusa Tenggara Timur",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Saguer",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Sulawesi Utara",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Sopi",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Maluku; Nusa Tenggara Timur",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Swansrai",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Papua",
+      "jenis": "",
+      "keterangan": ""
+    },
+    {
+      "nama": "Tuak",
+      "kelompok": "Minuman beralkohol",
+      "wilayah": "Nusantara",
+      "jenis": "",
+      "keterangan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Minuman Khas Indonesia - Free Download",
+    "description": "Minuman tradisional dan khas Indonesia (panas, dingin, beralkohol) beserta daerah asal dan jenisnya. Contains 115 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Minuman Khas Indonesia | ListBase",
+    "seo_description": "Download Daftar Minuman Khas Indonesia — 115 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 115 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_minuman_Indonesia"
+    ]
+  }
+}
