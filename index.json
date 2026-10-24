@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:38.879Z",
-  "total_datasets": 529,
-  "total_records": 640471,
+  "generated": "2026-10-24T02:15:41.281Z",
+  "total_datasets": 530,
+  "total_records": 640495,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -540,6 +540,33 @@
         "xlsx": {
           "name": "id-suaka-margasatwa_ID.xlsx",
           "size": 12443
+        }
+      }
+    },
+    {
+      "id": "id-sungai-terpanjang",
+      "name": "Sungai Terpanjang di Indonesia",
+      "category": "environment",
+      "record_count": 24,
+      "columns": [
+        "nama",
+        "panjang_km",
+        "luas_das_km2",
+        "debit_rata_rata_m3_s",
+        "pulau",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_sungai_di_Indonesia",
+      "updated": "2026-10",
+      "size": 6709,
+      "files": {
+        "csv": {
+          "name": "id-sungai-terpanjang_ID.csv",
+          "size": 1736
+        },
+        "xlsx": {
+          "name": "id-sungai-terpanjang_ID.xlsx",
+          "size": 8025
         }
       }
     },

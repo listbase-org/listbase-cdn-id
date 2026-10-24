@@ -1,0 +1,248 @@
+{
+  "id": "id-sungai-terpanjang",
+  "name": "Sungai Terpanjang di Indonesia",
+  "title": "Sungai Terpanjang di Indonesia",
+  "description": "Daftar sungai terpanjang di Indonesia beserta panjang (km), luas daerah aliran sungai, debit rata-rata, pulau, dan provinsi.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_sungai_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_sungai_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "panjang_km",
+      "label": "Panjang Km",
+      "type": "number"
+    },
+    {
+      "key": "luas_das_km2",
+      "label": "Luas Das Km2",
+      "type": "number"
+    },
+    {
+      "key": "debit_rata_rata_m3_s",
+      "label": "Debit Rata Rata M3 S",
+      "type": "number"
+    },
+    {
+      "key": "pulau",
+      "label": "Pulau",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Sungai Kapuas",
+      "panjang_km": "1.143",
+      "luas_das_km2": "98.749",
+      "debit_rata_rata_m3_s": "6.012",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "nama": "Sungai Mamberamo",
+      "panjang_km": "1.112",
+      "luas_das_km2": "78.992",
+      "debit_rata_rata_m3_s": "5.500",
+      "pulau": "Papua",
+      "provinsi": "Papua"
+    },
+    {
+      "nama": "Sungai Barito",
+      "panjang_km": "1.090",
+      "luas_das_km2": "81.675",
+      "debit_rata_rata_m3_s": "4.514",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah, Kalimantan Selatan"
+    },
+    {
+      "nama": "Sungai Mahakam",
+      "panjang_km": "980",
+      "luas_das_km2": "77.095",
+      "debit_rata_rata_m3_s": "4.278",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama": "Sungai Digul",
+      "panjang_km": "853",
+      "luas_das_km2": "44.954",
+      "debit_rata_rata_m3_s": "3.867",
+      "pulau": "Papua",
+      "provinsi": "Papua Selatan"
+    },
+    {
+      "nama": "Sungai Batanghari",
+      "panjang_km": "800",
+      "luas_das_km2": "46.504",
+      "debit_rata_rata_m3_s": "2.643",
+      "pulau": "Sumatera",
+      "provinsi": "Jambi, Sumatera Barat"
+    },
+    {
+      "nama": "Sungai Musi",
+      "panjang_km": "759",
+      "luas_das_km2": "56.931",
+      "debit_rata_rata_m3_s": "3.211",
+      "pulau": "Sumatera",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "nama": "Sungai Pulau",
+      "panjang_km": "674",
+      "luas_das_km2": "37.164",
+      "debit_rata_rata_m3_s": "3.133",
+      "pulau": "Papua",
+      "provinsi": "Papua Pegunungan, Papua Selatan"
+    },
+    {
+      "nama": "Sungai Kahayan",
+      "panjang_km": "658",
+      "luas_das_km2": "15.500",
+      "debit_rata_rata_m3_s": "1.178",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Sungai Mendawai",
+      "panjang_km": "616",
+      "luas_das_km2": "19.500",
+      "debit_rata_rata_m3_s": "1.135",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Sungai Bengawan Solo",
+      "panjang_km": "600",
+      "luas_das_km2": "16.100",
+      "debit_rata_rata_m3_s": "684",
+      "pulau": "Jawa",
+      "provinsi": "Jawa Tengah, Jawa Timur"
+    },
+    {
+      "nama": "Sungai Bian",
+      "panjang_km": "581",
+      "luas_das_km2": "8.044",
+      "debit_rata_rata_m3_s": "392",
+      "pulau": "Papua",
+      "provinsi": "Papua Selatan"
+    },
+    {
+      "nama": "Sungai Kayan",
+      "panjang_km": "576",
+      "luas_das_km2": "33.171",
+      "debit_rata_rata_m3_s": "2.261",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "nama": "Sungai Indragiri",
+      "panjang_km": "500",
+      "luas_das_km2": "17.968",
+      "debit_rata_rata_m3_s": "1.339",
+      "pulau": "Sumatera",
+      "provinsi": "Sumatera Barat, Riau"
+    },
+    {
+      "nama": "Sungai Barumun",
+      "panjang_km": "440",
+      "luas_das_km2": "13.384",
+      "debit_rata_rata_m3_s": "824",
+      "pulau": "Sumatera",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "nama": "Sungai Kampar",
+      "panjang_km": "414",
+      "luas_das_km2": "26.038",
+      "debit_rata_rata_m3_s": "1.351",
+      "pulau": "Sumatera",
+      "provinsi": "Sumatera Barat, Riau"
+    },
+    {
+      "nama": "Sungai Maro",
+      "panjang_km": "383",
+      "luas_das_km2": "8.100",
+      "debit_rata_rata_m3_s": "262",
+      "pulau": "Papua",
+      "provinsi": "Papua Selatan"
+    },
+    {
+      "nama": "Sungai Momats",
+      "panjang_km": "380",
+      "luas_das_km2": "4.496",
+      "debit_rata_rata_m3_s": "463",
+      "pulau": "Papua",
+      "provinsi": "Papua Pegunungan, Papua Selatan"
+    },
+    {
+      "nama": "Sungai Siak",
+      "panjang_km": "370",
+      "luas_das_km2": "10.423",
+      "debit_rata_rata_m3_s": "720",
+      "pulau": "Sumatera",
+      "provinsi": "Riau"
+    },
+    {
+      "nama": "Sungai Rokan",
+      "panjang_km": "350",
+      "luas_das_km2": "19.258",
+      "debit_rata_rata_m3_s": "1.506",
+      "pulau": "Sumatera",
+      "provinsi": "Riau"
+    },
+    {
+      "nama": "Sungai Seruyan",
+      "panjang_km": "350",
+      "luas_das_km2": "12.911",
+      "debit_rata_rata_m3_s": "1.216",
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Sungai Sampara",
+      "panjang_km": "341",
+      "luas_das_km2": "6.906",
+      "debit_rata_rata_m3_s": "157",
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "nama": "Sungai Kamundan",
+      "panjang_km": "340",
+      "luas_das_km2": "5.865",
+      "debit_rata_rata_m3_s": "386",
+      "pulau": "Papua",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "nama": "Sungai Brantas",
+      "panjang_km": "320",
+      "luas_das_km2": "11.900",
+      "debit_rata_rata_m3_s": "579",
+      "pulau": "Jawa",
+      "provinsi": "Jawa Timur"
+    }
+  ],
+  "meta": {
+    "title": "Sungai Terpanjang di Indonesia - Free Download",
+    "description": "Daftar sungai terpanjang di Indonesia beserta panjang (km), luas daerah aliran sungai, debit rata-rata, pulau, dan provinsi. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sungai Terpanjang di Indonesia | ListBase",
+    "seo_description": "Download Sungai Terpanjang di Indonesia — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_sungai_di_Indonesia"
+    ]
+  }
+}
