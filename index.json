@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:16:02.397Z",
-  "total_datasets": 539,
-  "total_records": 642227,
+  "generated": "2026-10-24T02:16:04.688Z",
+  "total_datasets": 540,
+  "total_records": 642270,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -5844,6 +5844,35 @@
         "xlsx": {
           "name": "id-dinas-kesehatan_ID.xlsx",
           "size": 19540
+        }
+      }
+    },
+    {
+      "id": "id-kabinet-indonesia",
+      "name": "Daftar Kabinet Pemerintahan Indonesia",
+      "category": "politics",
+      "record_count": 43,
+      "columns": [
+        "era",
+        "no",
+        "nama_kabinet",
+        "awal_masa_kerja",
+        "akhir_masa_kerja",
+        "pemimpin",
+        "jabatan_pemimpin",
+        "jumlah_personel"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kabinet_Indonesia",
+      "updated": "2026-10",
+      "size": 14971,
+      "files": {
+        "csv": {
+          "name": "id-kabinet-indonesia_ID.csv",
+          "size": 5060
+        },
+        "xlsx": {
+          "name": "id-kabinet-indonesia_ID.xlsx",
+          "size": 9385
         }
       }
     },

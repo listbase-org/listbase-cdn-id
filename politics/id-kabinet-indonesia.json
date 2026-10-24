@@ -1,0 +1,496 @@
+{
+  "id": "id-kabinet-indonesia",
+  "name": "Daftar Kabinet Pemerintahan Indonesia",
+  "title": "Daftar Kabinet Pemerintahan Indonesia",
+  "description": "Daftar kabinet pemerintahan Republik Indonesia sejak 1945 beserta era, masa kerja, pemimpin, jabatan pemimpin, dan jumlah personel.",
+  "category": "politics",
+  "source": "https://id.wikipedia.org/wiki/Kabinet_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Kabinet_Indonesia",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "era",
+      "label": "Era",
+      "type": "string"
+    },
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama_kabinet",
+      "label": "Nama Kabinet",
+      "type": "string"
+    },
+    {
+      "key": "awal_masa_kerja",
+      "label": "Awal Masa Kerja",
+      "type": "string"
+    },
+    {
+      "key": "akhir_masa_kerja",
+      "label": "Akhir Masa Kerja",
+      "type": "string"
+    },
+    {
+      "key": "pemimpin",
+      "label": "Pemimpin",
+      "type": "string"
+    },
+    {
+      "key": "jabatan_pemimpin",
+      "label": "Jabatan Pemimpin",
+      "type": "string"
+    },
+    {
+      "key": "jumlah_personel",
+      "label": "Jumlah Personel",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "1",
+      "nama_kabinet": "Presidensial",
+      "awal_masa_kerja": "2 September 1945",
+      "akhir_masa_kerja": "14 November 1945",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "21"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "2",
+      "nama_kabinet": "Sjahrir I",
+      "awal_masa_kerja": "14 November 1945",
+      "akhir_masa_kerja": "28 Februari 1946",
+      "pemimpin": "Sutan Syahrir",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "17"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "3",
+      "nama_kabinet": "Sjahrir II",
+      "awal_masa_kerja": "12 Maret 1946",
+      "akhir_masa_kerja": "2 Oktober 1946",
+      "pemimpin": "Sutan Syahrir",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "25"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "4",
+      "nama_kabinet": "Sjahrir III",
+      "awal_masa_kerja": "2 Oktober 1946",
+      "akhir_masa_kerja": "27 Juni 1947",
+      "pemimpin": "Sutan Syahrir",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "32"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "5",
+      "nama_kabinet": "Amir Sjarifuddin I",
+      "awal_masa_kerja": "3 Juli 1947",
+      "akhir_masa_kerja": "11 November 1947",
+      "pemimpin": "Amir Sjarifuddin",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "34"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "6",
+      "nama_kabinet": "Amir Sjarifuddin II",
+      "awal_masa_kerja": "11 November 1947",
+      "akhir_masa_kerja": "23 Januari 1948",
+      "pemimpin": "Amir Sjarifuddin",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "37"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "7",
+      "nama_kabinet": "Hatta I",
+      "awal_masa_kerja": "29 Januari 1948",
+      "akhir_masa_kerja": "4 Agustus 1949",
+      "pemimpin": "Mohammad Hatta",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "17"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "*",
+      "nama_kabinet": "Darurat",
+      "awal_masa_kerja": "19 Desember 1948",
+      "akhir_masa_kerja": "14 Juli 1949",
+      "pemimpin": "S. Prawiranegara",
+      "jabatan_pemimpin": "Ketua PDRI (Pemerintahan Darurat Republik Indonesia)",
+      "jumlah_personel": "12"
+    },
+    {
+      "era": "Era Perjuangan Kemerdekaan",
+      "no": "8",
+      "nama_kabinet": "Hatta II",
+      "awal_masa_kerja": "4 Agustus 1949",
+      "akhir_masa_kerja": "14 Desember 1949",
+      "pemimpin": "Mohammad Hatta",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "19"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "*",
+      "nama_kabinet": "RIS",
+      "awal_masa_kerja": "20 Desember 1949",
+      "akhir_masa_kerja": "6 September 1950",
+      "pemimpin": "Mohammad Hatta",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "17"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "9",
+      "nama_kabinet": "Susanto",
+      "awal_masa_kerja": "27 Desember 1949",
+      "akhir_masa_kerja": "16 Januari 1950",
+      "pemimpin": "Susanto Tirtoprodjo",
+      "jabatan_pemimpin": "Pjs Perdana Menteri",
+      "jumlah_personel": "10"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "10",
+      "nama_kabinet": "Halim",
+      "awal_masa_kerja": "22 Januari 1950",
+      "akhir_masa_kerja": "15 Agustus 1950",
+      "pemimpin": "Abdoel Halim",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "15"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "11",
+      "nama_kabinet": "Natsir",
+      "awal_masa_kerja": "6 September 1950",
+      "akhir_masa_kerja": "27 April 1951",
+      "pemimpin": "Mohammad Natsir",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "18"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "12",
+      "nama_kabinet": "Sukiman-Suwirjo",
+      "awal_masa_kerja": "27 April 1951",
+      "akhir_masa_kerja": "3 April 1952",
+      "pemimpin": "Sukiman Wirjosandjojo",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "20"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "13",
+      "nama_kabinet": "Wilopo",
+      "awal_masa_kerja": "3 April 1952",
+      "akhir_masa_kerja": "3 Juni 1953",
+      "pemimpin": "Wilopo",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "18"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "14",
+      "nama_kabinet": "Ali Sastroamidjojo I",
+      "awal_masa_kerja": "1 Agustus 1953",
+      "akhir_masa_kerja": "24 Juli 1955",
+      "pemimpin": "Ali Sastroamidjojo",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "20"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "15",
+      "nama_kabinet": "Burhanuddin Harahap",
+      "awal_masa_kerja": "12 Agustus 1955",
+      "akhir_masa_kerja": "3 Maret 1956",
+      "pemimpin": "Burhanuddin Harahap",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "23"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "16",
+      "nama_kabinet": "Ali Sastroamidjojo II",
+      "awal_masa_kerja": "24 Maret 1956",
+      "akhir_masa_kerja": "14 Maret 1957",
+      "pemimpin": "Ali Sastroamidjojo",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "25"
+    },
+    {
+      "era": "Era Demokrasi Parlementer",
+      "no": "17",
+      "nama_kabinet": "Djuanda",
+      "awal_masa_kerja": "9 April 1957",
+      "akhir_masa_kerja": "5 Juli 1959",
+      "pemimpin": "Djuanda Kartawidjaja",
+      "jabatan_pemimpin": "Perdana Menteri",
+      "jumlah_personel": "24"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "18",
+      "nama_kabinet": "Kerja I",
+      "awal_masa_kerja": "10 Juli 1959",
+      "akhir_masa_kerja": "18 Februari 1960",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "33"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "19",
+      "nama_kabinet": "Kerja II",
+      "awal_masa_kerja": "18 Februari 1960",
+      "akhir_masa_kerja": "6 Maret 1962",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "40"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "20",
+      "nama_kabinet": "Kerja III",
+      "awal_masa_kerja": "6 Maret 1962",
+      "akhir_masa_kerja": "13 November 1963",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "60"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "21",
+      "nama_kabinet": "Kerja IV",
+      "awal_masa_kerja": "13 November 1963",
+      "akhir_masa_kerja": "27 Agustus 1964",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "66"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "22",
+      "nama_kabinet": "Dwikora I",
+      "awal_masa_kerja": "27 Agustus 1964",
+      "akhir_masa_kerja": "22 Februari 1966",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "110"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "23",
+      "nama_kabinet": "Dwikora II",
+      "awal_masa_kerja": "24 Februari 1966",
+      "akhir_masa_kerja": "28 Maret 1966",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "132"
+    },
+    {
+      "era": "Era Demokrasi Terpimpin",
+      "no": "24",
+      "nama_kabinet": "Dwikora III'",
+      "awal_masa_kerja": "28 Maret 1966",
+      "akhir_masa_kerja": "25 Juli 1966",
+      "pemimpin": "Soekarno",
+      "jabatan_pemimpin": "Presiden Perdana Menteri",
+      "jumlah_personel": "79"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "25",
+      "nama_kabinet": "Ampera I",
+      "awal_masa_kerja": "28 Juli 1966",
+      "akhir_masa_kerja": "11 Oktober 1967",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Ketua Presidium",
+      "jumlah_personel": "31"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "26",
+      "nama_kabinet": "Ampera II",
+      "awal_masa_kerja": "17 Oktober 1967",
+      "akhir_masa_kerja": "10 Juni 1968",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Pjs Presiden",
+      "jumlah_personel": "24"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "27",
+      "nama_kabinet": "Pembangunan I",
+      "awal_masa_kerja": "10 Juni 1968",
+      "akhir_masa_kerja": "28 Maret 1973",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "24"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "28",
+      "nama_kabinet": "Pembangunan II",
+      "awal_masa_kerja": "28 Maret 1973",
+      "akhir_masa_kerja": "29 Maret 1978",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "24"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "29",
+      "nama_kabinet": "Pembangunan III",
+      "awal_masa_kerja": "31 Maret 1978",
+      "akhir_masa_kerja": "19 Maret 1983",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "32"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "30",
+      "nama_kabinet": "Pembangunan IV",
+      "awal_masa_kerja": "19 Maret 1983",
+      "akhir_masa_kerja": "21 Maret 1988",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "42"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "31",
+      "nama_kabinet": "Pembangunan V",
+      "awal_masa_kerja": "23 Maret 1988",
+      "akhir_masa_kerja": "17 Maret 1993",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "44"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "32",
+      "nama_kabinet": "Pembangunan VI",
+      "awal_masa_kerja": "17 Maret 1993",
+      "akhir_masa_kerja": "14 Maret 1998",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "43"
+    },
+    {
+      "era": "Era Orde Baru",
+      "no": "33",
+      "nama_kabinet": "Pembangunan VII",
+      "awal_masa_kerja": "14 Maret 1998",
+      "akhir_masa_kerja": "21 Mei 1998",
+      "pemimpin": "Soeharto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "38"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "34",
+      "nama_kabinet": "Reformasi Pembangunan",
+      "awal_masa_kerja": "23 Mei 1998",
+      "akhir_masa_kerja": "20 Oktober 1999",
+      "pemimpin": "B.J. Habibie",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "37"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "35",
+      "nama_kabinet": "Persatuan Nasional",
+      "awal_masa_kerja": "29 Oktober 1999",
+      "akhir_masa_kerja": "23 Juli 2001",
+      "pemimpin": "Abdurrahman Wahid",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "36"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "36",
+      "nama_kabinet": "Gotong Royong",
+      "awal_masa_kerja": "10 Agustus 2001",
+      "akhir_masa_kerja": "20 Oktober 2004",
+      "pemimpin": "Megawati Soekarnoputri",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "33"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "37",
+      "nama_kabinet": "Indonesia Bersatu I",
+      "awal_masa_kerja": "21 Oktober 2004",
+      "akhir_masa_kerja": "20 Oktober 2009",
+      "pemimpin": "Susilo Bambang Yudhoyono",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "34"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "38",
+      "nama_kabinet": "Indonesia Bersatu II",
+      "awal_masa_kerja": "22 Oktober 2009",
+      "akhir_masa_kerja": "20 Oktober 2014",
+      "pemimpin": "Susilo Bambang Yudhoyono",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "34"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "39",
+      "nama_kabinet": "Kerja",
+      "awal_masa_kerja": "27 Oktober 2014",
+      "akhir_masa_kerja": "20 Oktober 2019",
+      "pemimpin": "Joko Widodo",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "34"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "40",
+      "nama_kabinet": "Indonesia Maju",
+      "awal_masa_kerja": "23 Oktober 2019",
+      "akhir_masa_kerja": "20 Oktober 2024",
+      "pemimpin": "Joko Widodo",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "34"
+    },
+    {
+      "era": "Era Reformasi",
+      "no": "41",
+      "nama_kabinet": "Merah Putih",
+      "awal_masa_kerja": "21 Oktober 2024",
+      "akhir_masa_kerja": "Petahana",
+      "pemimpin": "Prabowo Subianto",
+      "jabatan_pemimpin": "Presiden",
+      "jumlah_personel": "49"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kabinet Pemerintahan Indonesia - Free Download",
+    "description": "Daftar kabinet pemerintahan Republik Indonesia sejak 1945 beserta era, masa kerja, pemimpin, jabatan pemimpin, dan jumlah personel. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Kabinet Pemerintahan Indonesia | ListBase",
+    "seo_description": "Download Daftar Kabinet Pemerintahan Indonesia — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Kabinet_Indonesia"
+    ]
+  }
+}
