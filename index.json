@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:43.625Z",
-  "total_datasets": 531,
-  "total_records": 641569,
+  "generated": "2026-10-24T02:15:45.909Z",
+  "total_datasets": 532,
+  "total_records": 641632,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -242,6 +242,34 @@
         "xlsx": {
           "name": "id-situs-warisan-dunia-unesco_ID.xlsx",
           "size": 10325
+        }
+      }
+    },
+    {
+      "id": "id-bumn",
+      "name": "Daftar Badan Usaha Milik Negara (BUMN) Indonesia",
+      "category": "economy",
+      "record_count": 63,
+      "columns": [
+        "sektor",
+        "nama_perusahaan",
+        "nama_dagang",
+        "direktur_utama",
+        "bentuk_bumn",
+        "dasar_hukum",
+        "kepemilikan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_badan_usaha_milik_negara_di_Indonesia",
+      "updated": "2026-10",
+      "size": 23028,
+      "files": {
+        "csv": {
+          "name": "id-bumn_ID.csv",
+          "size": 10549
+        },
+        "xlsx": {
+          "name": "id-bumn_ID.xlsx",
+          "size": 11359
         }
       }
     },

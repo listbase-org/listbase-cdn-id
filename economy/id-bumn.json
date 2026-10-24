@@ -1,0 +1,628 @@
+{
+  "id": "id-bumn",
+  "name": "Daftar Badan Usaha Milik Negara (BUMN) Indonesia",
+  "title": "Daftar Badan Usaha Milik Negara (BUMN) Indonesia",
+  "description": "Daftar BUMN di Indonesia per sektor beserta nama dagang, direktur utama, bentuk BUMN, dasar hukum, dan kepemilikan saham.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_badan_usaha_milik_negara_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_badan_usaha_milik_negara_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "sektor",
+      "label": "Sektor",
+      "type": "string"
+    },
+    {
+      "key": "nama_perusahaan",
+      "label": "Nama Perusahaan",
+      "type": "string"
+    },
+    {
+      "key": "nama_dagang",
+      "label": "Nama Dagang",
+      "type": "string"
+    },
+    {
+      "key": "direktur_utama",
+      "label": "Direktur Utama",
+      "type": "string"
+    },
+    {
+      "key": "bentuk_bumn",
+      "label": "Bentuk Bumn",
+      "type": "string"
+    },
+    {
+      "key": "dasar_hukum",
+      "label": "Dasar Hukum",
+      "type": "string"
+    },
+    {
+      "key": "kepemilikan",
+      "label": "Kepemilikan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sektor": "Energi dan sumber daya mineral",
+      "nama_perusahaan": "PT Pertamina (Persero)",
+      "nama_dagang": "Pertamina",
+      "direktur_utama": "Simon Aloysius Mantiri",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 31 Tahun 2003",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Energi dan sumber daya mineral",
+      "nama_perusahaan": "PT Perusahaan Listrik Negara (Persero)",
+      "nama_dagang": "PLN",
+      "direktur_utama": "Suroso Isnandar",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 23 Tahun 1994",
+      "kepemilikan": "Pemerintah: 100% (per 30 Juni 2022)"
+    },
+    {
+      "sektor": "Energi dan sumber daya mineral",
+      "nama_perusahaan": "PT Mineral Industri Indonesia (Persero)",
+      "nama_dagang": "MIND ID",
+      "direktur_utama": "Maroef Sjamsoeddin",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 46 Tahun 2022",
+      "kepemilikan": "Pemerintah: 100% (per 21 Maret 2023)"
+    },
+    {
+      "sektor": "Pertanian",
+      "nama_perusahaan": "PT Perkebunan Nusantara III (Persero)",
+      "nama_dagang": "Perkebunan Nusantara",
+      "direktur_utama": "Denaldy Mulino Mauna",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 8 Tahun 1996",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Pertanian",
+      "nama_perusahaan": "Perum Kehutanan Negara",
+      "nama_dagang": "Perhutani",
+      "direktur_utama": "Tio Handoko",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 72 Tahun 2010",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "Pertanian",
+      "nama_perusahaan": "PT Rajawali Nusantara Indonesia (Persero)",
+      "nama_dagang": "ID FOOD",
+      "direktur_utama": "Ghimoyo",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 5 Tahun 1974",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Pertanian",
+      "nama_perusahaan": "Perum BULOG",
+      "nama_dagang": "BULOG",
+      "direktur_utama": "Ahmad Rizal Ramdhani",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 13 Tahun 2016",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Bio Farma (Persero)",
+      "nama_dagang": "Biofarma",
+      "direktur_utama": "Shadiq Akasya",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 1 Tahun 1997",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Biro Klasifikasi Indonesia (Persero)",
+      "nama_dagang": "ID SURVEY",
+      "direktur_utama": "R. Benny Susanto",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 1 Tahun 1977",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2022)"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Industri Kereta Api (Persero)",
+      "nama_dagang": "INKA",
+      "direktur_utama": "Eko Purwanto",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 52 Tahun 2002",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Krakatau Steel (Persero) Tbk",
+      "nama_dagang": "Krakatau Steel",
+      "direktur_utama": "Willgo Zainar",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 52 Tahun 2002",
+      "kepemilikan": "Pemerintah: 80,00% Manajemen: 0,03% Masyarakat: 19,97% (per 30 September 2022)"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Pupuk Indonesia (Persero)",
+      "nama_dagang": "Pupuk Indonesia",
+      "direktur_utama": "Rahmad Pribadi",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 20 Tahun 1969",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Len Industri (Persero)",
+      "nama_dagang": "DEFEND ID",
+      "direktur_utama": "Joga Dharma Setiawan",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 16 Tahun 1991 PP No. 123 Tahun 2021",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Industri pengolahan",
+      "nama_perusahaan": "PT Semen Indonesia (Persero) Tbk",
+      "nama_dagang": "SIG",
+      "direktur_utama": "Indrieffouny Indra",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 19 Tahun 1969",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Bank Mandiri (Persero) Tbk",
+      "nama_dagang": "Bank Mandiri",
+      "direktur_utama": "Riduan",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 75 Tahun 1998",
+      "kepemilikan": "Pemerintah: 52,00% Lembaga Pengelola Investasi: 8,00% Direksi: 0,05% Masyarakat: 39,95% (per 31 Desember 2022)"
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Bank Negara Indonesia (Persero) Tbk",
+      "nama_dagang": "BNI",
+      "direktur_utama": "Putrama Wahju Setyawan",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 19 Tahun 1992",
+      "kepemilikan": "Pemerintah: 60,00% Perseroan terbatas: 6,44% Badan usaha asing: 24,71% Manajemen: 0,02% Masyarakat: 8,83% (per 31 Desember 2022)"
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "nama_dagang": "BRI",
+      "direktur_utama": "Hery Gunardi",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 21 Tahun 1992",
+      "kepemilikan": "Pemerintah: 53,19% Masyarakat: 46,48% Saham treasuri: 0,32% (per 31 Desember 2022)"
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Bank Tabungan Negara (Persero) Tbk",
+      "nama_dagang": "BTN",
+      "direktur_utama": "Nixon Napitupulu",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 24 Tahun 1992",
+      "kepemilikan": "Pemerintah: 60,00% Direksi: 0,08% Masyarakat: 39,92% (per 31 Desember 2022)"
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Bank Syariah Indonesia (Persero) Tbk",
+      "nama_dagang": "BSI",
+      "direktur_utama": "Anggoro Eko Cahyo",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "",
+      "kepemilikan": "Bank Mandiri (51,47%) Bank Negara Indonesia (23,24%) Bank Rakyat Indonesia (15,38%) Publik (9,91%)"
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Danareksa (Persero)",
+      "nama_dagang": "Danareksa",
+      "direktur_utama": "Yadi Jaya Ruchandi",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 113 Tahun 2021 PP No. 7 Tahun 2022",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Asuransi Sosial Angkatan Bersenjata Republik Indonesia (Persero)",
+      "nama_dagang": "ASABRI",
+      "direktur_utama": "Jeffry Haryadi P. Manullang",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 68 Tahun 1991",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Bahana Pembinaan Usaha Indonesia (Persero)",
+      "nama_dagang": "IFG",
+      "direktur_utama": "Hexana Tri Sasongko",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 18 Tahun 1973 PP No. 15 Tahun 2020",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Reasuransi Indonesia Utama (Persero)",
+      "nama_dagang": "Indonesia Re",
+      "direktur_utama": "Benny Waworuntu",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 20 Tahun 1983",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "PT Dana Tabungan dan Asuransi Pegawai Negeri (Persero)",
+      "nama_dagang": "TASPEN",
+      "direktur_utama": "Rony Hanityo Aprianto",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 26 Tahun 1981",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Jasa keuangan",
+      "nama_perusahaan": "Perum Percetakan Uang Republik Indonesia",
+      "nama_dagang": "Peruri",
+      "direktur_utama": "Dwina Septiani Wijaya",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 6 Tahun 2019",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "Telekomunikasi dan media informasi",
+      "nama_perusahaan": "PT Telkom Indonesia (Persero) Tbk",
+      "nama_dagang": "Telkom",
+      "direktur_utama": "Nanang Hendarno",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 25 Tahun 1991",
+      "kepemilikan": "Pemerintah: 52,09% The Bank of New York Mellon Corporation: 4,17% Masyarakat: 43,74% (per 30 September 2022)"
+    },
+    {
+      "sektor": "Telekomunikasi dan media informasi",
+      "nama_perusahaan": "Perum Lembaga Kantor Berita Nasional Antara",
+      "nama_dagang": "ANTARA",
+      "direktur_utama": "Abdul Hakim",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 40 Tahun 2007",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "PT Adhi Karya (Persero) Tbk",
+      "nama_dagang": "Adhi",
+      "direktur_utama": "Moeharmein Zein Chaniago",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 41 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "PT Brantas Abipraya (Persero)",
+      "nama_dagang": "Abipraya",
+      "direktur_utama": "Agung Fajarwanto",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 32 Tahun 1980",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "PT Hutama Karya (Persero)",
+      "nama_dagang": "HK",
+      "direktur_utama": "Budi Harto",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 14 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "PT Pembangunan Perumahan (Persero) Tbk",
+      "nama_dagang": "PP",
+      "direktur_utama": "Novel Arsyad",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 39 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "PT Waskita Karya (Persero) Tbk",
+      "nama_dagang": "Waskita",
+      "direktur_utama": "Muhammad Hanugroho",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 40 Tahun 1970",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "PT Wijaya Karya (Persero) Tbk",
+      "nama_dagang": "Wika",
+      "direktur_utama": "Agung Budi Waskito",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 40 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Konstruksi",
+      "nama_perusahaan": "Perum Pembangunan Perumahan Nasional",
+      "nama_dagang": "Perumnas",
+      "direktur_utama": "Budi Saddewa Soediro",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 83 Tahun 2015",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT ASDP Indonesia Ferry (Persero)",
+      "nama_dagang": "ASDP",
+      "direktur_utama": "Heru Widodo",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 15 Tahun 1992",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT Garuda Indonesia (Persero) Tbk",
+      "nama_dagang": "Garuda Indonesia",
+      "direktur_utama": "Thomas Sugiarto Oentoro",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 67 Tahun 1971",
+      "kepemilikan": "Pemerintah: 60,54% PT Trans Airways: 28,26% Masyarakat: 11,20% (per 30 September 2022)"
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT Jasa Marga (Persero) Tbk",
+      "nama_dagang": "Jasa Marga",
+      "direktur_utama": "Rivan Achmad Purwantono",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 4 Tahun 1978",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT Kereta Api Indonesia (Persero)",
+      "nama_dagang": "KAI",
+      "direktur_utama": "Bobby Rasyidin",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 19 Tahun 1998",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT Pelabuhan Indonesia (Persero)",
+      "nama_dagang": "Pelindo",
+      "direktur_utama": "Achmad Muchtasyar",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 57 Tahun 1991",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT Pelayaran Nasional Indonesia (Persero)",
+      "nama_dagang": "Pelni",
+      "direktur_utama": "Budi Setyawan Wijaya",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 9 Tahun 1973",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "PT Pos Indonesia (Persero)",
+      "nama_dagang": "POS IND",
+      "direktur_utama": "M. Iskandar Kunaefi",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 5 Tahun 1995",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "Transportasi dan logistik",
+      "nama_perusahaan": "Perum DAMRI",
+      "nama_dagang": "DAMRI",
+      "direktur_utama": "Setia N. Milatia Moemin",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 38 Tahun 2018",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "Pariwisata",
+      "nama_perusahaan": "PT Aviasi Pariwisata Indonesia (Persero)",
+      "nama_dagang": "InJourney",
+      "direktur_utama": "Maya Watono",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 48 Tahun 1991 PP No. 72 Tahun 2021",
+      "kepemilikan": "Pemerintah: 100% (per 31 Desember 2021)"
+    },
+    {
+      "sektor": "Pariwisata",
+      "nama_perusahaan": "Perum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia",
+      "nama_dagang": "AirNav Indonesia",
+      "direktur_utama": "Avirianto Suratno",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 77 Tahun 2012",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Amarta Karya (Persero)",
+      "nama_dagang": "AMKA",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 56 Tahun 1970",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Barata Indonesia (Persero)",
+      "nama_dagang": "Barata Indonesia",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 3 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Boma Bisma Indra (Persero)",
+      "nama_dagang": "BBI",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 2 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Djakarta Lloyd (Persero)",
+      "nama_dagang": "PTDL",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 20 Tahun 1974",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Dok dan Perkapalan Kodja Bahari (Persero)",
+      "nama_dagang": "DKB",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 59 Tahun 1990",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Dok dan Perkapalan Surabaya (Persero)",
+      "nama_dagang": "DPS",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 24 Tahun 1975",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Industri Kapal Indonesia (Persero)",
+      "nama_dagang": "IKI Shipyard",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 17 Tahun 1977",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Indah Karya (Persero)",
+      "nama_dagang": "Indah Karya",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 66 Tahun 1971",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Industri Telekomunikasi Indonesia (Persero)",
+      "nama_dagang": "INTI",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 34 Tahun 1974",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Semen Kupang (Persero)",
+      "nama_dagang": "Semen Kupang",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 4 Tahun 1991",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Pengusahaan Daerah Industri Pulau Batam (Persero)",
+      "nama_dagang": "Persero Batam",
+      "direktur_utama": "Djoko Prasetyo",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 43 Tahun 1973",
+      "kepemilikan": "Pemerintah: 1% PT Danantara Aset Management: 99%"
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "Perum Percetakan Negara Republik Indonesia",
+      "nama_dagang": "PNRI",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Umum",
+      "dasar_hukum": "PP No. 72 Tahun 2012",
+      "kepemilikan": "Seluruh modal Perum dimiliki oleh negara"
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Primissima (Persero)",
+      "nama_dagang": "Primissima",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 54 Tahun 1970",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN titip kelola",
+      "nama_perusahaan": "PT Varuna Tirta Prakasya (Persero)",
+      "nama_dagang": "VTP",
+      "direktur_utama": "",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "",
+      "kepemilikan": ""
+    },
+    {
+      "sektor": "BUMN yang merupakan kewenangan Kementerian Keuangan",
+      "nama_perusahaan": "PT Sarana Multi Infrastruktur (Persero)",
+      "nama_dagang": "SMI",
+      "direktur_utama": "Reynaldi Hermansjah",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 66 Tahun 2007 PP No. 75 Tahun 2008 PP No. 53 Tahun 2020",
+      "kepemilikan": "PT Indonesia Infrastructure Finance (IIF) : 45% PT Cinere Serpong Jaya : 35% PT Cimanggis Cibitung Tollways : 55%"
+    },
+    {
+      "sektor": "BUMN yang merupakan kewenangan Kementerian Keuangan",
+      "nama_perusahaan": "PT Sarana Multigriya Finansial (Persero)",
+      "nama_dagang": "SMF",
+      "direktur_utama": "Ananta Wiyogo",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 5 Tahun 2005 PP No. 75 Tahun 2011 PP No. 57 Tahun 2020",
+      "kepemilikan": "Pemerintah: 100%"
+    },
+    {
+      "sektor": "BUMN yang merupakan kewenangan Kementerian Keuangan",
+      "nama_perusahaan": "PT Penjaminan Infrastruktur Indonesia (Persero)",
+      "nama_dagang": "PT PII",
+      "direktur_utama": "Muhammad Wahid Sutopo",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 35 Tahun 2009 PP No. 50 Tahun 2016 PP No. 55 Tahun 2020",
+      "kepemilikan": "Pemerintah: 100%"
+    },
+    {
+      "sektor": "BUMN yang merupakan kewenangan Kementerian Keuangan",
+      "nama_perusahaan": "PT Geo Dipa Energi (Persero)",
+      "nama_dagang": "Geo Dipa Energi",
+      "direktur_utama": "Yudistian Yunis",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 62 Tahun 2011",
+      "kepemilikan": "Pemerintah: 94,5% PLN: 5,5%"
+    },
+    {
+      "sektor": "BUMN yang merupakan kewenangan Kementerian Keuangan",
+      "nama_perusahaan": "PT Bina Karya (Persero)",
+      "nama_dagang": "Bina Karya",
+      "direktur_utama": "Boyke P. Soebroto",
+      "bentuk_bumn": "Perusahaan Perseroan",
+      "dasar_hukum": "PP No. 41 Tahun 1970 PP No. 44 Tahun 2023",
+      "kepemilikan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Badan Usaha Milik Negara (BUMN) Indonesia - Free Download",
+    "description": "Daftar BUMN di Indonesia per sektor beserta nama dagang, direktur utama, bentuk BUMN, dasar hukum, dan kepemilikan saham. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Badan Usaha Milik Negara (BUMN) Indonesia | ListBase",
+    "seo_description": "Download Daftar Badan Usaha Milik Negara (BUMN) Indonesia — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_badan_usaha_milik_negara_di_Indonesia"
+    ]
+  }
+}
