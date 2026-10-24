@@ -1,0 +1,2016 @@
+{
+  "id": "id-cagar-alam",
+  "name": "Daftar Cagar Alam di Indonesia",
+  "title": "Daftar Cagar Alam di Indonesia",
+  "description": "Daftar kawasan cagar alam di Indonesia per provinsi beserta lokasi, luas (ha), landasan hukum, dan tanggal penetapan.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_cagar_alam_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_cagar_alam_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 245,
+  "columns": [
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "luas_ha",
+      "label": "Luas Ha",
+      "type": "number"
+    },
+    {
+      "key": "landasan_hukum",
+      "label": "Landasan Hukum",
+      "type": "string"
+    },
+    {
+      "key": "tanggal_penetapan",
+      "label": "Tanggal Penetapan",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "wilayah": "Aceh",
+      "nama": "Cagar Alam Rafflesia Aceh–Serbojadi",
+      "lokasi": "Aceh Timur",
+      "luas_ha": "300",
+      "landasan_hukum": "ZB Tahun 1936 No.159/AGR",
+      "tanggal_penetapan": "1936-12-19"
+    },
+    {
+      "wilayah": "Aceh",
+      "nama": "Cagar Alam Hutan Pinus Jantho",
+      "lokasi": "Aceh Besar",
+      "luas_ha": "16.640",
+      "landasan_hukum": "SK Menteri Kehutanan No.186/1984",
+      "tanggal_penetapan": "1984"
+    },
+    {
+      "wilayah": "Aceh",
+      "nama": "Cagar Alam Hutan Pinus Jantho",
+      "lokasi": "Aceh Besar",
+      "luas_ha": "15.356.49",
+      "landasan_hukum": "SK MenLHK No.101/2015",
+      "tanggal_penetapan": "2015"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Batu Gajah",
+      "lokasi": "Simalungun",
+      "luas_ha": "08",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.923/Kpts/Um/12/82",
+      "tanggal_penetapan": "1982-12-27"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Batu Ginurit",
+      "lokasi": "Labuhan Batu",
+      "luas_ha": "05",
+      "landasan_hukum": "ZB No. 390/1934",
+      "tanggal_penetapan": "1934-09-17"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Liang Balik",
+      "lokasi": "Labuhan Batu",
+      "luas_ha": "031",
+      "landasan_hukum": "ZB No. 221/1936",
+      "tanggal_penetapan": "1936-11-01"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Lubuk Raya",
+      "lokasi": "Tapanuli Selatan",
+      "luas_ha": "3.050",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.923/Kpts/Um/12/82",
+      "tanggal_penetapan": "1982-12-27"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Martelu Purba",
+      "lokasi": "Langkat",
+      "luas_ha": "195",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.471/Kpts-II/93",
+      "tanggal_penetapan": "1993-02-09"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Dolok Saut-Surungan",
+      "lokasi": "Tapanuli Utara",
+      "luas_ha": "39",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.923/Kpts/Um/12/82",
+      "tanggal_penetapan": "1982-12-27"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Sei Ledong",
+      "lokasi": "Labuhan Batu",
+      "luas_ha": "1.100",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.923/Kpts/Um/12/82",
+      "tanggal_penetapan": "1982-12-27"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Sibolangit",
+      "lokasi": "Sibolangit",
+      "luas_ha": "915",
+      "landasan_hukum": "ZB Tahun 1938 No. 37/PK",
+      "tanggal_penetapan": "1938-03-10"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Dolok Sibual-Buali",
+      "lokasi": "Tapanuli Selatan",
+      "luas_ha": "5.000",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.215/Kpts/Um/8/82",
+      "tanggal_penetapan": "1982-08-04"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Dolok Sipirok",
+      "lokasi": "Tapanuli Selatan",
+      "luas_ha": "6.970",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.226/Kpts/Um/8/82",
+      "tanggal_penetapan": "1982-08-04"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "nama": "Cagar Alam Dolok Tinggi Raja",
+      "lokasi": "Simalungun",
+      "luas_ha": "167",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.923/Kpts/Um/12/82",
+      "tanggal_penetapan": "1982-12-27"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Air Putih",
+      "lokasi": "Lima Puluh Koto",
+      "luas_ha": "23.467",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI dan Perkebunan No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Air Tarusan",
+      "lokasi": "Pesisir Selatan, Solok",
+      "luas_ha": "25.177",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI dan Perkebunan No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Lembah Anai",
+      "lokasi": "Tanah Datar, Sawah Lunto, Sijunjung, Solok",
+      "luas_ha": "100.221",
+      "landasan_hukum": "GB 25 ZB 765 dan Keputusan Menteri Kehutanan RI dan Perkebunan No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1922-08-12 dan 1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Arau Hilir",
+      "lokasi": "Pasaman",
+      "luas_ha": "5.377",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Barisan I",
+      "lokasi": "Padang Pariaman, Tanah Datar, Solok, Kota Padang",
+      "luas_ha": "74.821",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Batang Palupuh",
+      "lokasi": "Agam",
+      "luas_ha": "34",
+      "landasan_hukum": "GB No.3/1930",
+      "tanggal_penetapan": "1930-11-14"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Baringin Sati",
+      "lokasi": "Tanah Datar",
+      "luas_ha": "003",
+      "landasan_hukum": "GB No. 60 & ZB No. 683/1922",
+      "tanggal_penetapan": "1922-08-12"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Lembah Harau",
+      "lokasi": "Lima Puluh Koto",
+      "luas_ha": "2705",
+      "landasan_hukum": "GB No. 13/1933",
+      "tanggal_penetapan": "1933-10-01"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Malampah Alahan Panjang",
+      "lokasi": "Lima Puluh Koto, Pasaman",
+      "luas_ha": "36.919",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Maninjau Utara-Selatan",
+      "lokasi": "Agam, Pariaman",
+      "luas_ha": "22.106",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Pangean I",
+      "lokasi": "Sawah Lunto, Sijunjung, Solok",
+      "luas_ha": "12.200",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Pangean II",
+      "lokasi": "Sawah Lunto, Sijunjung, Solok",
+      "luas_ha": "33.580,1",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.222/Kpts-II/2000",
+      "tanggal_penetapan": "2000-08-02"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Rimbo Panti",
+      "lokasi": "Pasaman",
+      "luas_ha": "2.550",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.348/Kpts/Um/1/79",
+      "tanggal_penetapan": "1979-01-07"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Gunung Sago",
+      "lokasi": "Tanah Datar, Lima Puluh Koto",
+      "luas_ha": "5.486",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "nama": "Cagar Alam Gunung Singgalang Tandikat",
+      "lokasi": "Agam, Tanah Datar",
+      "luas_ha": "9.658",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.422/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Riau",
+      "nama": "Cagar Alam Pulau Berkey",
+      "lokasi": "Rokan Hilir",
+      "luas_ha": "500",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.13/Kpts/Um/3/68",
+      "tanggal_penetapan": "1968-03-13"
+    },
+    {
+      "wilayah": "Riau",
+      "nama": "Cagar Alam Bukit Bungkuk",
+      "lokasi": "Kampar",
+      "luas_ha": "20.000",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.173/Kpts-II/1986",
+      "tanggal_penetapan": "1986-06-06"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Hutan Bakau Pantai Timur",
+      "lokasi": "Tanjung Jabung",
+      "luas_ha": "4.126,6",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.14/Kpts-II/2003",
+      "tanggal_penetapan": "2003-01-07"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Sungai Batara",
+      "lokasi": "Tanjung Jabung Barat",
+      "luas_ha": "1.000",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.421/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Buluh Hitam",
+      "lokasi": "Bungo Tebo",
+      "luas_ha": "700",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.421/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Cempaka",
+      "lokasi": "Bungo Tebo",
+      "luas_ha": "1.000",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.421/Kpts-II/ 1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Durian Luncuk I",
+      "lokasi": "Sarolangun Bangko",
+      "luas_ha": "7374",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.820/Kpts-II/1997",
+      "tanggal_penetapan": "1997-12-30"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Durian Luncuk II",
+      "lokasi": "Batanghari",
+      "luas_ha": "4137",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.821/Kpts-II/ 1997",
+      "tanggal_penetapan": "1997-12-30"
+    },
+    {
+      "wilayah": "Jambi",
+      "nama": "Cagar Alam Gua Ulu Tingko",
+      "lokasi": "Sarolangun Bangko",
+      "luas_ha": "1",
+      "landasan_hukum": "GB 6 Staatsblad 1919",
+      "tanggal_penetapan": "1919-02-21"
+    },
+    {
+      "wilayah": "Sumatera Selatan",
+      "nama": "Cagar Alam Bungan Maskikim",
+      "lokasi": "Lahat",
+      "luas_ha": "1",
+      "landasan_hukum": "GB No. 83/1919 Staatsblad 392",
+      "tanggal_penetapan": "1919-07-19"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Air Alas",
+      "lokasi": "Bengkulu Selatan",
+      "luas_ha": "595",
+      "landasan_hukum": "Kep Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Air Rami I Reg 87",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "233",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Air Rami I Reg 87A",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "3899",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Air Seblat",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "89",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Sungai Bahelo",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "674",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Wang I/II",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "022",
+      "landasan_hukum": "ZB No. 36/1932 Staatsblad 465",
+      "tanggal_penetapan": "1932-08-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Despatah I/II",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "026",
+      "landasan_hukum": "ZB No. 36/1932 Staatsblad 465",
+      "tanggal_penetapan": "1932-08-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Dusun Besar",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "1.777",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.383/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Kioyo I dan II",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "305",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Klowe",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "7.271",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Konak",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "08",
+      "landasan_hukum": "GB No. 9/1932",
+      "tanggal_penetapan": "1932-05-14"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Tanjung Laksaha",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "445",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Manna",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "15",
+      "landasan_hukum": "ZB No. 36/1932 Staatsblad 435",
+      "tanggal_penetapan": "1932-08-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Danau Menghijau",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "1398",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.482/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-29"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Muko-Muko I",
+      "lokasi": "Muko-Muko",
+      "luas_ha": "230",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Muko-Muko II Reg 100",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "130",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Pager Gunung I/II",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "021",
+      "landasan_hukum": "ZB No. 36/1932 Staatsblad 465",
+      "tanggal_penetapan": "1932-08-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Pager Gunung III/IV/V",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "06",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.649/Kpts-II/1999",
+      "tanggal_penetapan": "1999-08-19"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Pasar Ngalam Reg 92",
+      "lokasi": "Bengkulu Selatan",
+      "luas_ha": "265",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Pasar Seluma Reg 93",
+      "lokasi": "Bengkulu Selatan",
+      "luas_ha": "159",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Pasar Telo Reg 94",
+      "lokasi": "Bengkulu Selatan",
+      "luas_ha": "487",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Taba Pananjung",
+      "lokasi": "Bengkulu Utara",
+      "luas_ha": "37",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.430/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Talang Ulu",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "057",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.648/Kpts-II/1999",
+      "tanggal_penetapan": "1999-08-19"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "nama": "Cagar Alam Danau Tes",
+      "lokasi": "Rejang Lebong",
+      "luas_ha": "3.230",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.385/Kpts-II/1985",
+      "tanggal_penetapan": "1985-12-27"
+    },
+    {
+      "wilayah": "Lampung",
+      "nama": "Cagar Alam Pulau Anak Krakatau",
+      "lokasi": "Lampung Selatan",
+      "luas_ha": "13.735,10",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.85/Kpts-II/1990",
+      "tanggal_penetapan": "1990-11-07"
+    },
+    {
+      "wilayah": "Lampung",
+      "nama": "Cagar Alam Pantai Cukuh Belimbing Merpas Bengkunat",
+      "lokasi": "",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Riau",
+      "nama": "Cagar Alam Bukit Bungkuk",
+      "lokasi": "Riau",
+      "luas_ha": "200",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.13/Kpts/Um/3/68",
+      "tanggal_penetapan": "1968-03-13"
+    },
+    {
+      "wilayah": "Riau",
+      "nama": "Cagar Alam Pulau Berkey dan Pulau Serusa",
+      "lokasi": "Riau",
+      "luas_ha": "400",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.13/Kpts/Um/3/68",
+      "tanggal_penetapan": "1968-03-13"
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "nama": "Cagar Alam Laut Kepulauan Karimata",
+      "lokasi": "Kalimantan Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "nama": "Cagar Alam Gunung Nyiut Penrissen",
+      "lokasi": "Kalimantan Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "nama": "Cagar Alam Gunung Raya Pasi",
+      "lokasi": "Kalimantan Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "nama": "Cagar Alam Lho Pat Foen Pi",
+      "lokasi": "Kalimantan Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "nama": "Cagar Alam Mandor",
+      "lokasi": "Kalimantan Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "nama": "Cagar Alam Muara Kendawangan",
+      "lokasi": "Kalimantan Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Selatan",
+      "nama": "Cagar Alam Teluk Kelumpang, Selat Laut dan Selat Sebuku",
+      "lokasi": "Kalimantan Selatan",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Selatan",
+      "nama": "Cagar Alam Gunung Kentawan",
+      "lokasi": "Kalimantan Selatan",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Selatan",
+      "nama": "Cagar Alam Sungai Lulan dan Sungai Bulan",
+      "lokasi": "Kalimantan Selatan",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Selatan",
+      "nama": "Cagar Alam Teluk Pamukan",
+      "lokasi": "Kalimantan Selatan",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Tengah",
+      "nama": "Cagar Alam Bukit Tangkling",
+      "lokasi": "Kalimantan Tengah",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Tengah",
+      "nama": "Cagar Alam Pararawen I dan II",
+      "lokasi": "Kalimantan Tengah",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Tengah",
+      "nama": "Cagar Alam Bukit Sapat Hawung",
+      "lokasi": "Kalimantan Tengah",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Timur",
+      "nama": "Cagar Alam Padang Luway",
+      "lokasi": "Kalimantan Timur",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Timur",
+      "nama": "Cagar Alam Teluk Apar",
+      "lokasi": "Kalimantan Timur",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Timur",
+      "nama": "Cagar Alam Muara Kaman Sedulang",
+      "lokasi": "Kalimantan Timur",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Kalimantan Timur",
+      "nama": "Cagar Alam Teluk Adang",
+      "lokasi": "Kalimantan Timur",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Utara",
+      "nama": "Cagar Alam Gunung Lokon",
+      "lokasi": "Sulawesi Utara",
+      "luas_ha": "720",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Utara",
+      "nama": "Cagar Alam Gunung Tangkoko Batuangus",
+      "lokasi": "Sulawesi Utara",
+      "luas_ha": "3.196",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Utara",
+      "nama": "Cagar Alam Gunung Duasudara",
+      "lokasi": "Sulawesi Utara",
+      "luas_ha": "7.247,5",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Utara",
+      "nama": "Cagar Alam Gunung Ambang",
+      "lokasi": "Sulawesi Utara",
+      "luas_ha": "15.008,6",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Gorontalo",
+      "nama": "Cagar Alam Mas Popaya Raja",
+      "lokasi": "Gorontalo",
+      "luas_ha": "1562",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Gorontalo",
+      "nama": "Cagar Alam Panua",
+      "lokasi": "",
+      "luas_ha": "36.575",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Gorontalo",
+      "nama": "Cagar Alam Tangale",
+      "lokasi": "",
+      "luas_ha": "1125",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Gorontalo",
+      "nama": "Cagar Alam Tanjung Panjang",
+      "lokasi": "",
+      "luas_ha": "3.000",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Tanjung Api",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "3.289,1",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Gunung Dako",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "19.727,5",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Morowali",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "213.919,6",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Pamona",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "28.235,8",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Pangi Binangga",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "6.158,8",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Pati-Pati",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "3.103,8",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Gunung Sojol",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "64.448,7",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "nama": "Cagar Alam Gunung Tinombala",
+      "lokasi": "Sulawesi Tengah",
+      "luas_ha": "37.106,1",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tenggara",
+      "nama": "Cagar Alam Kakenauwe",
+      "lokasi": "Sulawesi Tenggara",
+      "luas_ha": "8025",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tenggara",
+      "nama": "Cagar Alam Lamedae",
+      "lokasi": "Sulawesi Tenggara",
+      "luas_ha": "6352",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Tenggara",
+      "nama": "Cagar Alam Napabalano",
+      "lokasi": "Sulawesi Tenggara",
+      "luas_ha": "105",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Selatan",
+      "nama": "Cagar Alam Faruhumpenai",
+      "lokasi": "Sulawesi Selatan",
+      "luas_ha": "90.931,6",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Selatan",
+      "nama": "Cagar Alam Kalaena",
+      "lokasi": "Sulawesi Selatan",
+      "luas_ha": "109",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Sulawesi Selatan",
+      "nama": "Cagar Alam Ponda-Ponda",
+      "lokasi": "Tana Toraja, Sulawesi Selatan",
+      "luas_ha": "7722",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.201/Kpts-II/1999",
+      "tanggal_penetapan": "1999-04-14"
+    },
+    {
+      "wilayah": "Banten",
+      "nama": "Cagar Alam Rawa Danau",
+      "lokasi": "Serang",
+      "luas_ha": "2.500",
+      "landasan_hukum": "GB No. 50/1921 Staatsblad 689",
+      "tanggal_penetapan": "1921-11-16"
+    },
+    {
+      "wilayah": "Banten",
+      "nama": "Cagar Alam Pulau Dua",
+      "lokasi": "Serang",
+      "luas_ha": "3285",
+      "landasan_hukum": "Kep. Menteri Kehutanan No. 253/Kpts-II/1984",
+      "tanggal_penetapan": "1984-12-26"
+    },
+    {
+      "wilayah": "Banten",
+      "nama": "Laut Pulau Sangiang",
+      "lokasi": "Serang",
+      "luas_ha": "70035",
+      "landasan_hukum": "Kep. Menteri Kehutanan No. 112/Kpts-II/1985",
+      "tanggal_penetapan": "1985-05-23"
+    },
+    {
+      "wilayah": "Banten",
+      "nama": "Gunung Tukung Gede",
+      "lokasi": "Serang",
+      "luas_ha": "1.700",
+      "landasan_hukum": "Kep. Menteri Pertanian No. 396/Kpts/ Um/6/79",
+      "tanggal_penetapan": "1979-06-23"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Arca Domas",
+      "lokasi": "Cianjur",
+      "luas_ha": "2",
+      "landasan_hukum": "GB No.28",
+      "tanggal_penetapan": "1913-04-16"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Telaga Bodas",
+      "lokasi": "Garut",
+      "luas_ha": "2615",
+      "landasan_hukum": "Kep. Menteri Pertanian No.98/Kpts/ Um/2/78",
+      "tanggal_penetapan": "1978-02-02"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Bojonglarang Jayanti",
+      "lokasi": "Cianjur",
+      "luas_ha": "750",
+      "landasan_hukum": "Kep. Menteri Pertanian No.516/Kpts/Um/10/73",
+      "tanggal_penetapan": "1973-10-16"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Gunung Burangrang",
+      "lokasi": "Bandung",
+      "luas_ha": "2.700",
+      "landasan_hukum": "Kep. Menteri Pertanian No.479/Kpts/Um/8/79",
+      "tanggal_penetapan": "1979-08-02"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Cadas Malang",
+      "lokasi": "Cianjur",
+      "luas_ha": "21",
+      "landasan_hukum": "GB No.83/1919 Staatsblad 392",
+      "tanggal_penetapan": "1919-07-11"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Cibanteng & Suaka Margasatwa Cikepuh",
+      "lokasi": "Sukabumi",
+      "luas_ha": "51645",
+      "landasan_hukum": "GB No.3/1925 Staatsblad 243",
+      "tanggal_penetapan": "1925-05-28"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Cibanteng & Suaka Margasatwa Cikepuh",
+      "lokasi": "Sukabumi",
+      "luas_ha": "8.530,05",
+      "landasan_hukum": "SK Menteri Kehutanan No.SK.3685/Menhut-VII/KUH/2014",
+      "tanggal_penetapan": "2014-05-08"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Cigenteng - Cipanji",
+      "lokasi": "Bandung",
+      "luas_ha": "10",
+      "landasan_hukum": "GB No.6/1919 Staatsblad 90",
+      "tanggal_penetapan": "1919-02-21"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Dungus Iwul",
+      "lokasi": "Sukabumi",
+      "luas_ha": "9",
+      "landasan_hukum": "GB No.23/1931 Staatsblad 99",
+      "tanggal_penetapan": "1931-03-02"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Nusa Gede Panjalu",
+      "lokasi": "Ciamis",
+      "luas_ha": "16",
+      "landasan_hukum": "GB No.6/1919 Staatsblad 90",
+      "tanggal_penetapan": "1919-02-21"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Gunung Jagat",
+      "lokasi": "Sumedang",
+      "luas_ha": "1267",
+      "landasan_hukum": "Kep. Menteri Pertanian No.132/Kpts/Um/12/54",
+      "tanggal_penetapan": "1954-12-12"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Kawah Kamojang",
+      "lokasi": "Garut",
+      "luas_ha": "7.650",
+      "landasan_hukum": "Kep. Menteri Kehutanan dan Perkebunan No.274/ Kpts-II/1999",
+      "tanggal_penetapan": "1999-05-07"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Cagar Alam Leuweng Sancang",
+      "lokasi": "Garut",
+      "luas_ha": "2.157",
+      "landasan_hukum": "Kep. Menteri Pertanian No.370/ Kpts/Um/6/78",
+      "tanggal_penetapan": "1978-06-09"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Laut Leuweng Sancang",
+      "lokasi": "Garut",
+      "luas_ha": "1.150",
+      "landasan_hukum": "Kep. Menteri Kehutanan dan Perkebunan No.92/Kpts-II/1990",
+      "tanggal_penetapan": "1990-06-03"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Malabar",
+      "lokasi": "Bandung",
+      "luas_ha": "83",
+      "landasan_hukum": "GB No.27/1927",
+      "tanggal_penetapan": "1927-07-02"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Pananjung Pangandaran",
+      "lokasi": "Pangandaran",
+      "luas_ha": "4193",
+      "landasan_hukum": "GB No.19/1934 Staatsblad 669",
+      "tanggal_penetapan": "1934-07-12"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Laut Pananjung Pangandaran",
+      "lokasi": "Pangandaran",
+      "luas_ha": "470",
+      "landasan_hukum": "Kep. Menteri Kehutanan No.225/Kpts-II/1990",
+      "tanggal_penetapan": "1990-06-12"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Gunung Papandayan",
+      "lokasi": "Garut",
+      "luas_ha": "6.620",
+      "landasan_hukum": "Kep. Menteri Pertanian No.68/Kpts/Um/1/79",
+      "tanggal_penetapan": "1979-01-22"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Telaga Patenggang",
+      "lokasi": "Bandung",
+      "luas_ha": "2118",
+      "landasan_hukum": "Kep. Menteri Pertanian No.660/Kpts/Um/10/81",
+      "tanggal_penetapan": "1981-10-11"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Gunung Simpang",
+      "lokasi": "Cianjur & Bandung",
+      "luas_ha": "15.000",
+      "landasan_hukum": "Kep. Menteri Pertanian No.41/Kpts/Um/1/79",
+      "tanggal_penetapan": "1979-01-11"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Sukawayana",
+      "lokasi": "Sukabumi",
+      "luas_ha": "305",
+      "landasan_hukum": "GB No.83/1919 Staatsblad 392",
+      "tanggal_penetapan": "1919-07-11"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Takokak",
+      "lokasi": "Cianjur",
+      "luas_ha": "50",
+      "landasan_hukum": "GB No.6/1919 Staatsblad 90",
+      "tanggal_penetapan": "1919-02-21"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Tangkuban Perahu",
+      "lokasi": "Bandung & Subang",
+      "luas_ha": "1.204,4",
+      "landasan_hukum": "Kep. Menteri Pertanian No.528/Kpts/Um/9/74",
+      "tanggal_penetapan": "1974-09-03"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Tangkuban Perahu Palabuhanratu",
+      "lokasi": "Sukabumi",
+      "luas_ha": "22",
+      "landasan_hukum": "GB No.83 Stbl. 392",
+      "tanggal_penetapan": "1919-07-11"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Gunung Tilu",
+      "lokasi": "Bandung",
+      "luas_ha": "8.000",
+      "landasan_hukum": "Kep. Menteri Pertanian No.68/Kpts/Um/2/78",
+      "tanggal_penetapan": "1978-02-07"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Telaga Warna",
+      "lokasi": "Cianjur",
+      "luas_ha": "36825",
+      "landasan_hukum": "Kep. Menteri Pertanian No.481/Kpts/ Um/6/81",
+      "tanggal_penetapan": "1981-06-09"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Yanlapa",
+      "lokasi": "Bogor",
+      "luas_ha": "32",
+      "landasan_hukum": "Kep. Menteri Pertanian No.137/Kpts/Um/3/56",
+      "tanggal_penetapan": "1956-03-28"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "nama": "Yunghun",
+      "lokasi": "Bandung",
+      "luas_ha": "25",
+      "landasan_hukum": "GB No.6/1919 Staatsblad 90",
+      "tanggal_penetapan": "1919-02-21"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Bantarbolang",
+      "lokasi": "Pemalang",
+      "luas_ha": "2410",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Bekutuk",
+      "lokasi": "Blora",
+      "luas_ha": "25",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.595/Kpts/Um/9/79",
+      "tanggal_penetapan": "1979-09-21"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Gunung Butak",
+      "lokasi": "Rembang",
+      "luas_ha": "254",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.79/Menteri Kehutanan RI-II/2004",
+      "tanggal_penetapan": "2004-03-11"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Bak I",
+      "lokasi": "Blora",
+      "luas_ha": "30",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Gunung Celering",
+      "lokasi": "Jepara",
+      "luas_ha": "1.379",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.755/Kpts-II/1989",
+      "tanggal_penetapan": "1989-12-16"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Curug Bengkawah",
+      "lokasi": "Pemalang",
+      "luas_ha": "15",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Telog Dringo",
+      "lokasi": "Banjarnegara",
+      "luas_ha": "26",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Gunung Gebugan-Ungaran",
+      "lokasi": "Semarang",
+      "luas_ha": "18",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Getas",
+      "lokasi": "Semarang",
+      "luas_ha": "1",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Guci",
+      "lokasi": "Pemalang",
+      "luas_ha": "2",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Karang Bolong",
+      "lokasi": "Cilacap",
+      "luas_ha": "05",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Keling I/II/III",
+      "lokasi": "Jepara",
+      "luas_ha": "617",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/ 1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Kembang",
+      "lokasi": "Jepara",
+      "luas_ha": "18",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Pegunungan Cemara",
+      "lokasi": "Kebumen, Wonosobo, & Banjarnegara",
+      "luas_ha": "1.500",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Moga",
+      "lokasi": "Pemalang",
+      "luas_ha": "1",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Nusakambangan",
+      "lokasi": "Cilacap",
+      "luas_ha": "1.205",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Pager Wunung Daruprono",
+      "lokasi": "Kendal",
+      "luas_ha": "332",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.115/Menteri Kehutanan RI-II/2004",
+      "tanggal_penetapan": "2004-04-19"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Karangsambung",
+      "lokasi": "Kebumen",
+      "luas_ha": "2282",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Pantodomas",
+      "lokasi": "Wonosobo",
+      "luas_ha": "41",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Peson Subah I",
+      "lokasi": "Batang",
+      "luas_ha": "104",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.82/Menteri Kehutanan RI-II/2004",
+      "tanggal_penetapan": "2004-03-10"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Peson Subah II",
+      "lokasi": "Batang",
+      "luas_ha": "100",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Pringombo I/II",
+      "lokasi": "Banjarnegara",
+      "luas_ha": "58",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Telogo Ranjeng",
+      "lokasi": "Pemalang",
+      "luas_ha": "185",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Sepakung",
+      "lokasi": "Semarang",
+      "luas_ha": "10",
+      "landasan_hukum": "Keputusan Menhu No.74/Menteri Kehutanan RI-II/2004",
+      "tanggal_penetapan": "2004-03-10"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Subvak 18C/19B",
+      "lokasi": "Tegal",
+      "luas_ha": "66",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Telaga Sumurup",
+      "lokasi": "Banjarnegara",
+      "luas_ha": "201",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Ulo Lanang Kecubung",
+      "lokasi": "Batang",
+      "luas_ha": "697",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.106/Menteri Kehutanan RI-II/2004",
+      "tanggal_penetapan": "2004-04-14"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "nama": "Cagar Alam Vak 53 Comal",
+      "lokasi": "Pemalang",
+      "luas_ha": "241",
+      "landasan_hukum": "GB No.2980",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Gunung Abang",
+      "lokasi": "Pasuruan",
+      "luas_ha": "504",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.458/Kpts/Um/7/78",
+      "tanggal_penetapan": "1978-06-24"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Nusa Barong",
+      "lokasi": "Jember",
+      "luas_ha": "6.100",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Pulau Bawean",
+      "lokasi": "Surabaya",
+      "luas_ha": "725",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.762/Kpts/Um/12/1979",
+      "tanggal_penetapan": "1979-12-05"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Besowo Gadungan",
+      "lokasi": "Kediri",
+      "luas_ha": "7",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Ceding",
+      "lokasi": "Bondowoso",
+      "luas_ha": "2",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Corah Manis Sempolan",
+      "lokasi": "Jember",
+      "luas_ha": "168",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Kawah Ijen Merapi Unggup-Unggup",
+      "lokasi": "Banyuwangi",
+      "luas_ha": "2.468",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Janggangan Regojampi I/II",
+      "lokasi": "Banyuwangi",
+      "luas_ha": "75",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Sungai Kolbu Iyang Plateu",
+      "lokasi": "Bondowoso",
+      "luas_ha": "188",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Manggis Gadungan",
+      "lokasi": "Kediri",
+      "luas_ha": "12",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Gua Nglirip",
+      "lokasi": "Bojonegoro",
+      "luas_ha": "3",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Pancur Ijen I/II",
+      "lokasi": "Bondowoso",
+      "luas_ha": "395",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Gunung Picis",
+      "lokasi": "Ponorogo",
+      "luas_ha": "279",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Pulau Saobi",
+      "lokasi": "Sumenep (Madura)",
+      "luas_ha": "430",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Pulau Sempu",
+      "lokasi": "Malang",
+      "luas_ha": "877",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Gunung Sigogor",
+      "lokasi": "Ponorogo",
+      "luas_ha": "1905",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Watangan Puger I-VI",
+      "lokasi": "Jember",
+      "luas_ha": "2",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.417/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "nama": "Cagar Alam Wijaya Kusuma",
+      "lokasi": "Cilacap",
+      "luas_ha": "1",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.435/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Yogyakarta",
+      "nama": "Cagar Alam Teluk Baron",
+      "lokasi": "Gunung Kidul",
+      "luas_ha": "2",
+      "landasan_hukum": "GB 379/321/16",
+      "tanggal_penetapan": "1933-03-24"
+    },
+    {
+      "wilayah": "Yogyakarta",
+      "nama": "Cagar Alam Batu Gamping",
+      "lokasi": "",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Yogyakarta",
+      "nama": "Cagar Alam Imogiri",
+      "lokasi": "",
+      "luas_ha": "118",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Jakarta",
+      "nama": "Cagar Alam Pulau Bokor",
+      "lokasi": "Jakarta Utara",
+      "luas_ha": "18",
+      "landasan_hukum": "SK Gubernur Jenderal Hindia Belanda No.7",
+      "tanggal_penetapan": "1939-05-03"
+    },
+    {
+      "wilayah": "Nusakambangan",
+      "nama": "Cagar Alam Wijayakusuma",
+      "lokasi": "Nusakambangan",
+      "luas_ha": "1",
+      "landasan_hukum": "SK Tunjukan Menteri Kehutanan No.SK.359/Menhut-II/2004",
+      "tanggal_penetapan": "2004-10-01"
+    },
+    {
+      "wilayah": "Bali",
+      "nama": "Cagar Alam Batukau",
+      "lokasi": "Tabanan",
+      "luas_ha": "1.762,8",
+      "landasan_hukum": "SK Menteri Pertanian RI Nomor: 716/Kpts/Um/9/74",
+      "tanggal_penetapan": "1974-09-29"
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Hutan Bakau Maubesi",
+      "lokasi": "Belu",
+      "luas_ha": "1.830",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.394/Kpts/Um/5/81",
+      "tanggal_penetapan": "1981-05-07"
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Kemang Boleng I",
+      "lokasi": "",
+      "luas_ha": "1549",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Kemang Boleng II",
+      "lokasi": "",
+      "luas_ha": "8085",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Ndeta Kelikima",
+      "lokasi": "",
+      "luas_ha": "9801",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Watu Ata",
+      "lokasi": "Ngada",
+      "luas_ha": "4.898,8",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.432/Kpts-II/1992",
+      "tanggal_penetapan": "1992-05-05"
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Way Wuul/Mburak",
+      "lokasi": "Manggarai",
+      "luas_ha": "1.484,84",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.437/Kpts-II/1996",
+      "tanggal_penetapan": "1996-08-09"
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Wolo Tado, Ngede Nalo Merah, Siung",
+      "lokasi": "Ngada",
+      "luas_ha": "4.016",
+      "landasan_hukum": "Keputusan Menteri Kehutanan RI No.429/Kpts-II/1992",
+      "tanggal_penetapan": "1992-05-05"
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "nama": "Cagar Alam Riung",
+      "lokasi": "",
+      "luas_ha": "416",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Nusa Tenggara Barat",
+      "nama": "Cagar Alam Pulau Panjang",
+      "lokasi": "Sumbawa",
+      "luas_ha": "1.641,25",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.399/Kpts-II/1986",
+      "tanggal_penetapan": "1986-04-21"
+    },
+    {
+      "wilayah": "Nusa Tenggara Barat",
+      "nama": "Cagar Alam Pulau Sangiang",
+      "lokasi": "Sumbawa",
+      "luas_ha": "7.492,25",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.418/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Nusa Tenggara Barat",
+      "nama": "Cagar Alam Jereweh",
+      "lokasi": "",
+      "luas_ha": "5.265",
+      "landasan_hukum": "",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Nusa Tenggara Barat",
+      "nama": "Cagar Alam Tanah Pedauh",
+      "lokasi": "Sumbawa",
+      "luas_ha": "5435",
+      "landasan_hukum": "Keputusan Menteri Pertanian RI No.348/Kpts/Um/8/75",
+      "tanggal_penetapan": "1975-08-20"
+    },
+    {
+      "wilayah": "Nusa Tenggara Barat",
+      "nama": "Cagar Alam Toffo Kota Lambu",
+      "lokasi": "Sumbawa",
+      "luas_ha": "3.333",
+      "landasan_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI No.418/Kpts-II/1999",
+      "tanggal_penetapan": "1999-06-15"
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Pulau Angwarmase",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Gunung Api Kisar",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Suaka Alam Perairan Kepulauan Aru Tenggara",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Taman Wisata Perairan Laut Banda",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Bekau Huhun",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Daab",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Pulau Larat",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Masbait",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Pulau Nustaram",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Pulau Nuswotar",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Pulau Pombo",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Gunung Sahuwai",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "Cagar Alam Tefermaar",
+      "lokasi": "Maluku",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku Utara",
+      "nama": "Cagar Alam Lifamatola",
+      "lokasi": "Maluku Utara",
+      "luas_ha": "1.690,5",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku Utara",
+      "nama": "Cagar Alam Pulau Obi",
+      "lokasi": "Maluku Utara",
+      "luas_ha": "16.132,6",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku Utara",
+      "nama": "Cagar Alam Pulau Seho",
+      "lokasi": "Maluku Utara",
+      "luas_ha": "1.308,4",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku Utara",
+      "nama": "Cagar Alam Gunung Sibela",
+      "lokasi": "Maluku Utara",
+      "luas_ha": "23.024",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Maluku Utara",
+      "nama": "Cagar Alam Pulau Taliabu",
+      "lokasi": "Maluku Utara",
+      "luas_ha": "9.720,6",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Pulau Biak Utara",
+      "lokasi": "Pulau Biak Utara",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Danau Bian",
+      "lokasi": "Danau Bian",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Bupul",
+      "lokasi": "Bupul",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Pegunungan Cyclops",
+      "lokasi": "Pegunungan Cyclops",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Nabire",
+      "lokasi": "Nabire",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Pulau Pombo",
+      "lokasi": "Pulau Pombo",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Pulau Supiori",
+      "lokasi": "Pulau Supiori",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Tamrau Selatan",
+      "lokasi": "Tamrau Selatan",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "Cagar Alam Yapen Tengah",
+      "lokasi": "Yapen Tengah",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Batanta Barat",
+      "lokasi": "Batanta Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Teluk Bintuni",
+      "lokasi": "Teluk Bintuni",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pegunungan Fakfak",
+      "lokasi": "Pegunungan Fakfak",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pulau Kofiau",
+      "lokasi": "Pulau Kofiau",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pegunungan Kumawa",
+      "lokasi": "Pegunungan Kumawa",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Misool Selatan",
+      "lokasi": "Misool Selatan",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Salawati Utara",
+      "lokasi": "Salawati Utara",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Laut Sansafor",
+      "lokasi": "Laut Sansafor",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Tamrau Utara",
+      "lokasi": "Tamrau Utara",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pulau Waigeo Barat",
+      "lokasi": "Pulau Waigeo Barat",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pulau Waigeo Timur",
+      "lokasi": "Pulau Waigeo Timur",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pegunungan Wondi Boy",
+      "lokasi": "Pegunungan Wondi Boy",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Barat",
+      "nama": "Cagar Alam Pegunungan Arfak",
+      "lokasi": "Pegunungan Arfak",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Tengah",
+      "nama": "Cagar Alam Enarotali",
+      "lokasi": "Papua Tengah",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "wilayah": "Papua Tengah",
+      "nama": "Cagar Alam Pegunungan Wayland",
+      "lokasi": "Papua Tengah",
+      "luas_ha": "",
+      "landasan_hukum": "",
+      "tanggal_penetapan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Cagar Alam di Indonesia - Free Download",
+    "description": "Daftar kawasan cagar alam di Indonesia per provinsi beserta lokasi, luas (ha), landasan hukum, dan tanggal penetapan. Contains 245 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Cagar Alam di Indonesia | ListBase",
+    "seo_description": "Download Daftar Cagar Alam di Indonesia — 245 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 245 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_cagar_alam_di_Indonesia"
+    ]
+  }
+}

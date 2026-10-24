@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:28.551Z",
-  "total_datasets": 527,
-  "total_records": 640127,
+  "generated": "2026-10-24T02:15:36.730Z",
+  "total_datasets": 528,
+  "total_records": 640372,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -369,6 +369,33 @@
         "xlsx": {
           "name": "id-penerbit_ID.xlsx",
           "size": 60532
+        }
+      }
+    },
+    {
+      "id": "id-cagar-alam",
+      "name": "Daftar Cagar Alam di Indonesia",
+      "category": "environment",
+      "record_count": 245,
+      "columns": [
+        "wilayah",
+        "nama",
+        "lokasi",
+        "luas_ha",
+        "landasan_hukum",
+        "tanggal_penetapan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_cagar_alam_di_Indonesia",
+      "updated": "2026-10",
+      "size": 60168,
+      "files": {
+        "csv": {
+          "name": "id-cagar-alam_ID.csv",
+          "size": 25909
+        },
+        "xlsx": {
+          "name": "id-cagar-alam_ID.xlsx",
+          "size": 17965
         }
       }
     },
