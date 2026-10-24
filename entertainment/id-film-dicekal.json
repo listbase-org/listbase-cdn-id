@@ -1,0 +1,176 @@
+{
+  "id": "id-film-dicekal",
+  "name": "Daftar Film Indonesia yang Dicekal",
+  "title": "Daftar Film Indonesia yang Dicekal",
+  "description": "Daftar film Indonesia yang pernah dilarang/dicekal beredar beserta tahun rilis dan alasan pencekalan.",
+  "category": "entertainment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_film_Indonesia_yang_dicekal",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_film_Indonesia_yang_dicekal",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "tahun_rilis",
+      "label": "Tahun Rilis",
+      "type": "number"
+    },
+    {
+      "key": "judul_film",
+      "label": "Judul Film",
+      "type": "string"
+    },
+    {
+      "key": "alasan_dicekal",
+      "label": "Alasan Dicekal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tahun_rilis": "1961",
+      "judul_film": "Pagar Kawat Berduri",
+      "alasan_dicekal": "Diganyang oleh Partai Komunis Indonesia, diselamatkan oleh Presiden Soekarno, tetapi tetap tak bisa diputar di bioskop."
+    },
+    {
+      "tahun_rilis": "1972",
+      "judul_film": "Tiada Jalan Lain",
+      "alasan_dicekal": "Karena produsernya, Robby Tjahjadi, terlibat dalam kasus penyelundupan mobil mewah."
+    },
+    {
+      "tahun_rilis": "1972",
+      "judul_film": "Romusha",
+      "alasan_dicekal": "Dianggap dapat mengganggu hubungan dengan Jepang, pada masa Perang Dunia II melalui Pendudukan Jepang."
+    },
+    {
+      "tahun_rilis": "1976",
+      "judul_film": "Inem Pelayan Sexy",
+      "alasan_dicekal": "Diharuskan berganti judul dari judul semula \"Inem Babu Seksi\"."
+    },
+    {
+      "tahun_rilis": "1976",
+      "judul_film": "Saidjah dan Adinda",
+      "alasan_dicekal": "Judul berubah dari \"Max Havelaar\" dan menggambarkan Max Havelaar yang berhati mulia, sementara penguasa pribumi justru mengisap rakyat."
+    },
+    {
+      "tahun_rilis": "1977",
+      "judul_film": "Wasdri",
+      "alasan_dicekal": "Skenarionya dianggap bisa menyinggung pejabat Kejaksaan Agung, karena Wasdri, buruh angkut di Pasar Senen, Jakarta, hanya diberi upah oleh seorang istri jaksa hanya separuh dari yang biasanya ia terima."
+    },
+    {
+      "tahun_rilis": "1977",
+      "judul_film": "Yang Muda, Yang Bercinta",
+      "alasan_dicekal": "Dianggap mengakomodasi teori revolusi dan kontradiksi dari paham komunis."
+    },
+    {
+      "tahun_rilis": "1978",
+      "judul_film": "Bung Kecil",
+      "alasan_dicekal": "Isinya tentang orang muda yang melawan feodalisme."
+    },
+    {
+      "tahun_rilis": "1978",
+      "judul_film": "Bandot Tua",
+      "alasan_dicekal": "Dipangkas habis-habisan dan diganti judulnya menjadi \"Cinta Biru\", karena kata “Bandot” dinilai bermakna negatif."
+    },
+    {
+      "tahun_rilis": "1978",
+      "judul_film": "Jurus Maut",
+      "alasan_dicekal": ""
+    },
+    {
+      "tahun_rilis": "1978",
+      "judul_film": "Kuda-Kuda Binal",
+      "alasan_dicekal": ""
+    },
+    {
+      "tahun_rilis": "1978",
+      "judul_film": "Petualang-Petualang",
+      "alasan_dicekal": "Judulnya diharuskan diubah dari “Koruptor, Koruptor”. Film ini mengisahkan berbagai bentuk korupsi besar-besaran."
+    },
+    {
+      "tahun_rilis": "1982",
+      "judul_film": "The Year of Living Dangerously",
+      "alasan_dicekal": "Film Australia tentang Jakarta di bawah masa Demokrasi Terpimpin pada tahun 1965. Film ini sempat dilarang pada masa Orde Baru karena dianggap menggambarkan sesuatu yang tidak sesuai dengan sejarah. Di dalam film ini terdapat adegan penembakan massal yang dilakukan oleh sepasukan tentara berbaret merah. Larangan ini dicabut pada tahun 1999, sejak awal masa Reformasi dan setelah rezim Orde Baru berakhir."
+    },
+    {
+      "tahun_rilis": "1983",
+      "judul_film": "Buah Hati Mama",
+      "alasan_dicekal": "Memuat dialog tentang kakek yang pintar menyanyi karena berteman dengan mantan Kapolri Hoegeng Iman Santoso. Bagian ini dipangkas habis."
+    },
+    {
+      "tahun_rilis": "1984",
+      "judul_film": "Tinggal Landas",
+      "alasan_dicekal": "Sutradaranya, Sophan Sophiaan, diminta menambahkan kata \"Buat Kekasih\" menjadi \"Tinggal Landas buat Kekasih\" (1984), karena Indonesia saat itu sedang dalam proses \"tinggal landas\"."
+    },
+    {
+      "tahun_rilis": "1988",
+      "judul_film": "Pembalasan Ratu Laut Selatan / Lady Terminator (Internasional)",
+      "alasan_dicekal": "Film ini dianggap sangat menghebohkan saat dirilis karena menonjolkan unsur eksploitasi kekerasan dan seks. Setelah banyak protes masyarakat, film ini ditarik dari peredaran oleh Badan Sensor Film (BSF). Setelah disensor ulang pada tahun 1994, film ini diharuskan berganti judul dari judul semula \"Misteri Pusaka Laut Selatan\", dan durasi filmnya dipangkas menjadi 80 menit."
+    },
+    {
+      "tahun_rilis": "1989",
+      "judul_film": "Kanan Kiri OK",
+      "alasan_dicekal": "Diharuskan berganti judul dari judul semula \"Kiri Kanan OK\", karena kata 'Kiri' memberi kesan PKI."
+    },
+    {
+      "tahun_rilis": "1989",
+      "judul_film": "Nyoman dan Presiden",
+      "alasan_dicekal": "Diminta agar judulnya diubah menjadi Nyoman dan Bapaknya, Nyoman dan Kita, Nyoman dan Bangsa, Nyoman dan Merah Putih, atau Nyoman dan Indonesia. Film ini akhirnya berjudul \"Nyoman Cinta Merah Putih\"."
+    },
+    {
+      "tahun_rilis": "2001",
+      "judul_film": "Merdeka 17805",
+      "alasan_dicekal": "Film Jepang tentang andil Tentara Kekaisaran Jepang dalam proses kemerdekaan Indonesia pada tahun 1945."
+    },
+    {
+      "tahun_rilis": "2004",
+      "judul_film": "Satu Kecupan",
+      "alasan_dicekal": "Film ini semula berjudul \"Buruan Cium Gue\" atau \"Boleh Cium Gue\". Diprotes oleh Abdullah Gymnastiar alias Aa Gym (pendiri Pondok Pesantren Daarut Tauhiid) dan Majelis Ulama Indonesia, karena dianggap mengusik perasaan susila masyarakat."
+    },
+    {
+      "tahun_rilis": "2006",
+      "judul_film": "Pocong",
+      "alasan_dicekal": "Lembaga Sensor Film melarang film ini beredar karena dianggap sadis, menimbulkan luka lama, membawa unsur suku, agama, ras dan budaya serta pemerkosaan yang brutal."
+    },
+    {
+      "tahun_rilis": "2008",
+      "judul_film": "ML (Mau Lagi)",
+      "alasan_dicekal": "Film ini sempat dilarang beredar karena judul film yang semula ini mengandung unsur pornografi. Namun, judul film yang sempat bermasalah di Lembaga Sensor Film sudah 3 kali ganti nama, diganti menjadi \"My Love\", kemudian \"My Love Forever\", dan pada akhirnya diresmikan dengan nama \"Cintaku Selamanya\"."
+    },
+    {
+      "tahun_rilis": "2009",
+      "judul_film": "Suster Keramas",
+      "alasan_dicekal": "Diprotes oleh Majelis Ulama Indonesia karena dianggap mengusik perasaan susila masyarakat."
+    },
+    {
+      "tahun_rilis": "2009",
+      "judul_film": "Balibo",
+      "alasan_dicekal": "Film Australia yang berdasarkan peristiwa Balibo Five, kelompok jurnalis Australia yang tewas pada tanggal 16 Oktober 1975, sebelum invasi Indonesia ke Timor Timur."
+    },
+    {
+      "tahun_rilis": "2010",
+      "judul_film": "Dendam Pocong Mupeng",
+      "alasan_dicekal": "Film ini semula berjudul \"Hantu Puncak Datang Bulan\". Film tersebut mendapatkan kecaman dari banyak pihak (terutama Front Pembela Islam atau FPI) karena menampilkan adegan erotis di trailernya. Lembaga Sensor Film akhirnya memotong beberapa adegan di dalam film."
+    },
+    {
+      "tahun_rilis": "2011",
+      "judul_film": "Arwah Goyang Jupe-Depe",
+      "alasan_dicekal": "Judul film semula diubah karena masyarakat Karawang keberatan dengan penggunaan Karawang di filmnya"
+    },
+    {
+      "tahun_rilis": "2024",
+      "judul_film": "Thaghut",
+      "alasan_dicekal": "Film ini semula berjudul \"Kiblat\", film tersebut menuai kontroversi karena judulnya serta posternya yang menampilkan orang melakukan gerakan rukuk dengan posisi kepala menghadap ke atas, karena dianggap terlalu eksplisit dan sadis, serta mempromosikan kampanye hitam sekaligus melecehkan terhadap agama Islam. Selain itu, film tersebut menghadapi somasi dari para dukun putih karena dianggap memberikan pandangan negatif terhadap dukun di Indonesia."
+    }
+  ],
+  "meta": {
+    "title": "Daftar Film Indonesia yang Dicekal - Free Download",
+    "description": "Daftar film Indonesia yang pernah dilarang/dicekal beredar beserta tahun rilis dan alasan pencekalan. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Film Indonesia yang Dicekal | ListBase",
+    "seo_description": "Download Daftar Film Indonesia yang Dicekal — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_film_Indonesia_yang_dicekal"
+    ]
+  }
+}
