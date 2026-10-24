@@ -1,0 +1,170 @@
+{
+  "id": "id-perusahaan-kelapa-sawit",
+  "name": "Daftar Perusahaan Perkebunan Kelapa Sawit Terbuka di Indonesia",
+  "title": "Daftar Perusahaan Perkebunan Kelapa Sawit Terbuka di Indonesia",
+  "description": "Daftar perusahaan perkebunan kelapa sawit yang tercatat di Bursa Efek Indonesia beserta aset, kapitalisasi pasar, serta pendapatan 2017 dan 2018.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_perusahaan_kelapa_sawit_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_perusahaan_kelapa_sawit_Indonesia",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "perusahaan",
+      "label": "Perusahaan",
+      "type": "string"
+    },
+    {
+      "key": "aset",
+      "label": "Aset",
+      "type": "string"
+    },
+    {
+      "key": "kapitalisasi_pasar",
+      "label": "Kapitalisasi Pasar",
+      "type": "string"
+    },
+    {
+      "key": "pendapatan_2018",
+      "label": "Pendapatan 2018",
+      "type": "string"
+    },
+    {
+      "key": "pendapatan_2017",
+      "label": "Pendapatan 2017",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "perusahaan": "Mahkota Group, Tbk. (MGRO)",
+      "aset": "Rp 1,32 triliun",
+      "kapitalisasi_pasar": "Rp 3,17 triliun",
+      "pendapatan_2018": "Rp 2,00 triliun",
+      "pendapatan_2017": "Rp 1,76 triliun"
+    },
+    {
+      "perusahaan": "Astra Agro Lestari, Tbk. (AALI)",
+      "aset": "Rp 27,16 triliun",
+      "kapitalisasi_pasar": "Rp 21,99 triliun",
+      "pendapatan_2018": "Rp 19,08 triliun",
+      "pendapatan_2017": "Rp 17,31 triliun"
+    },
+    {
+      "perusahaan": "Andira Agro, Tbk. (ANDI)",
+      "aset": "Rp 508,70 miliar",
+      "kapitalisasi_pasar": "Rp 2,99 triliun",
+      "pendapatan_2018": "Rp 300,28 miliar",
+      "pendapatan_2017": "Rp 291,11 miliar"
+    },
+    {
+      "perusahaan": "Austindo Nusantara Jaya, Tbk. (ANJT)",
+      "aset": "Rp 8,59 triliun",
+      "kapitalisasi_pasar": "Rp 2,75 triliun",
+      "pendapatan_2018": "Rp 151,70 triliun",
+      "pendapatan_2017": "Rp 161,79 triliun"
+    },
+    {
+      "perusahaan": "Eagle High Plantations, Tbk. (BWPT)",
+      "aset": "Rp 16,45 triliun",
+      "kapitalisasi_pasar": "Rp 3,85 triliun",
+      "pendapatan_2018": "Rp 3,08 triliun",
+      "pendapatan_2017": "Rp 3,05 triliun"
+    },
+    {
+      "perusahaan": "Dharma Satya Nusantara, Tbk. (DSNG)",
+      "aset": "Rp 11,30 triliun",
+      "kapitalisasi_pasar": "Rp 3,84 triliun",
+      "pendapatan_2018": "Rp 4,76 triliun",
+      "pendapatan_2017": "Rp 5,16 triliun"
+    },
+    {
+      "perusahaan": "Golden Plantation, Tbk. (GOLL)",
+      "aset": "Rp 2,59 triliun",
+      "kapitalisasi_pasar": "Rp 183,25 miliar",
+      "pendapatan_2018": "Rp 213,86 miliar",
+      "pendapatan_2017": "Rp 177,24 miliar"
+    },
+    {
+      "perusahaan": "Gozco Plantations, Tbk. (GZCO)",
+      "aset": "Rp 2,78 triliun",
+      "kapitalisasi_pasar": "Rp 300 miliar",
+      "pendapatan_2018": "Rp 565,45 miliar",
+      "pendapatan_2017": "Rp 646,94 miliar"
+    },
+    {
+      "perusahaan": "Jaya Agra Wattie, Tbk. (JAWA)",
+      "aset": "Rp 3,52 triliun",
+      "kapitalisasi_pasar": "Rp 460,51 miliar",
+      "pendapatan_2018": "Rp 745,51 miliar",
+      "pendapatan_2017": "Rp 555,14 miliar"
+    },
+    {
+      "perusahaan": "PP London Sumatra Indonesia, Tbk. (LSIP)",
+      "aset": "Rp 10,21 triliun",
+      "kapitalisasi_pasar": "Rp 9,21 triliun",
+      "pendapatan_2018": "Rp 4,02 triliun",
+      "pendapatan_2017": "Rp 4,74 triliun"
+    },
+    {
+      "perusahaan": "Multi Agro Gemilang Plantation, Tbk. (MAGP)",
+      "aset": "Rp 1,32 triliun",
+      "kapitalisasi_pasar": "Rp 450 miliar",
+      "pendapatan_2018": "Rp 175,63 miliar",
+      "pendapatan_2017": "Rp 69,38 miliar"
+    },
+    {
+      "perusahaan": "Provident Agro, Tbk. (PALM)",
+      "aset": "Rp 2,61 triliun",
+      "kapitalisasi_pasar": "Rp 1,75 triliun",
+      "pendapatan_2018": "Rp 446,65 miliar",
+      "pendapatan_2017": "Rp 759,99 miliar"
+    },
+    {
+      "perusahaan": "Sampoerna Agro, Tbk. (SGRO)",
+      "aset": "Rp 9,21 triliun",
+      "kapitalisasi_pasar": "Rp 4,35 triliun",
+      "pendapatan_2018": "Rp 3,21 triliun",
+      "pendapatan_2017": "Rp 3,62 triliun"
+    },
+    {
+      "perusahaan": "Salim Ivomas Pratama, Tbk. (SIMP)",
+      "aset": "Rp 35,05 triliun",
+      "kapitalisasi_pasar": "Rp 5,57 triliun",
+      "pendapatan_2018": "Rp 14,19 triliun",
+      "pendapatan_2017": "Rp 15,83 triliun"
+    },
+    {
+      "perusahaan": "Smart, Tbk. (SMAR)",
+      "aset": "Rp 27,33 triliun",
+      "kapitalisasi_pasar": "Rp 11,03 triliun",
+      "pendapatan_2018": "Rp 37,39 triliun",
+      "pendapatan_2017": "Rp 35,32 triliun"
+    },
+    {
+      "perusahaan": "Sawit Sumbermas Sarana, Tbk. (SSMS)",
+      "aset": "Rp 11,24 triliun",
+      "kapitalisasi_pasar": "Rp 7,72 trilun",
+      "pendapatan_2018": "Rp 3,71 triliun",
+      "pendapatan_2017": "Rp 3,24 triliun"
+    },
+    {
+      "perusahaan": "Bakrie Sumatera Plantations, Tbk. (UNSP)",
+      "aset": "Rp 13,18 miliar",
+      "kapitalisasi_pasar": "Rp 232,52 miliar",
+      "pendapatan_2018": "Rp 1,95 triliun",
+      "pendapatan_2017": "Rp 1,50 triliun"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Perusahaan Perkebunan Kelapa Sawit Terbuka di Indonesia - Free Download",
+    "description": "Daftar perusahaan perkebunan kelapa sawit yang tercatat di Bursa Efek Indonesia beserta aset, kapitalisasi pasar, serta pendapatan 2017 dan 2018. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Perusahaan Perkebunan Kelapa Sawit Terbuka di Indonesia | ListBase",
+    "seo_description": "Download Daftar Perusahaan Perkebunan Kelapa Sawit Terbuka di Indonesia — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_perusahaan_kelapa_sawit_Indonesia"
+    ]
+  }
+}

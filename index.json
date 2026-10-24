@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:55.342Z",
-  "total_datasets": 536,
-  "total_records": 642125,
+  "generated": "2026-10-24T02:15:57.779Z",
+  "total_datasets": 537,
+  "total_records": 642142,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -157,6 +157,32 @@
         "xlsx": {
           "name": "id-pabrik-gula_ID.xlsx",
           "size": 13447
+        }
+      }
+    },
+    {
+      "id": "id-perusahaan-kelapa-sawit",
+      "name": "Daftar Perusahaan Perkebunan Kelapa Sawit Terbuka di Indonesia",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "perusahaan",
+        "aset",
+        "kapitalisasi_pasar",
+        "pendapatan_2018",
+        "pendapatan_2017"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perusahaan_kelapa_sawit_Indonesia",
+      "updated": "2026-10",
+      "size": 5984,
+      "files": {
+        "csv": {
+          "name": "id-perusahaan-kelapa-sawit_ID.csv",
+          "size": 1922
+        },
+        "xlsx": {
+          "name": "id-perusahaan-kelapa-sawit_ID.xlsx",
+          "size": 7790
         }
       }
     },
