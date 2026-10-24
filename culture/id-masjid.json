@@ -1,0 +1,3200 @@
+{
+  "id": "id-masjid",
+  "name": "Daftar Masjid di Indonesia",
+  "title": "Daftar Masjid di Indonesia",
+  "description": "Daftar masjid utama dan masjid lain di Indonesia beserta kota/kabupaten, provinsi, denominasi, dan tahun didirikan, dari Wikipedia bahasa Indonesia.",
+  "category": "culture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_masjid_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_masjid_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 393,
+  "columns": [
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kota_kabupaten",
+      "label": "Kota Kabupaten",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "denominasi",
+      "label": "Denominasi",
+      "type": "string"
+    },
+    {
+      "key": "didirikan",
+      "label": "Didirikan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ad-Darajat Babadan",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1774"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ahmad Dahlan",
+      "kota_kabupaten": "Kabupaten Gresik",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2018"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Air Pampan",
+      "kota_kabupaten": "Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1908"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Air Tiris",
+      "kota_kabupaten": "Kabupaten Kampar",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1904"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Aji Amir Hasanuddin",
+      "kota_kabupaten": "Kabupaten Kutai Kartanegara",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1930"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Akbar At-Taqwa",
+      "kota_kabupaten": "Bengkulu",
+      "provinsi": "Bengkulu",
+      "denominasi": "Sunni",
+      "didirikan": "1989"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Akbar",
+      "kota_kabupaten": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1969"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Alam Kendari",
+      "kota_kabupaten": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "denominasi": "Sunni",
+      "didirikan": "2018"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Alam Marunda",
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-15"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Azhar Jakarta",
+      "kota_kabupaten": "Jakarta Selatan",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1958"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-A'zhom",
+      "kota_kabupaten": "Tangerang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1997"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Falah Jambi",
+      "kota_kabupaten": "Jambi",
+      "provinsi": "Jambi",
+      "denominasi": "Sunni",
+      "didirikan": "1971"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Falah Mempawah",
+      "kota_kabupaten": "Kabupaten Mempawah",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2021"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Furqon",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1980"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Hakim",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Huda Pangandaran",
+      "kota_kabupaten": "Kabupaten Pangandaran",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1965"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Hurriyyah",
+      "kota_kabupaten": "Kabupaten Bogor",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1992"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Imam",
+      "kota_kabupaten": "Kabupaten Pesisir Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1924"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Imtizaj",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Istiqlal",
+      "kota_kabupaten": "Kabupaten Murung Raya",
+      "provinsi": "Kalimantan Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2008"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Jabbar",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Raya Baitul Khairaat",
+      "kota_kabupaten": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1978"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Jami",
+      "kota_kabupaten": "Kabupaten Pekalongan",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Jihad",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1969"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Juman",
+      "kota_kabupaten": "Bogor",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1963"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Karomah",
+      "kota_kabupaten": "Kabupaten Banjar",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1863"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Karomah Kresek",
+      "kota_kabupaten": "Kabupaten Probolinggo",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Makmur",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1932"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Manan",
+      "kota_kabupaten": "Dumai",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1904"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Markaz Al-Islami",
+      "kota_kabupaten": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1996"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Mashun",
+      "kota_kabupaten": "Medan",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1906"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Muhsinin",
+      "kota_kabupaten": "Kota Solok",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2009"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Munawwar Ternate",
+      "kota_kabupaten": "Ternate",
+      "provinsi": "Maluku Utara",
+      "denominasi": "Sunni",
+      "didirikan": "2003"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Osmani",
+      "kota_kabupaten": "Medan",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1872"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Al-Qana Taman",
+      "kota_kabupaten": "Madiun",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1754"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Amirul Mukminin",
+      "kota_kabupaten": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2012"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ampang Gadang",
+      "kota_kabupaten": "Kabupaten Lima Puluh Kota",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1837"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ampek Lingkuang",
+      "kota_kabupaten": "Kabupaten Padang Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1850"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ampel",
+      "kota_kabupaten": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1421"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Amuntai",
+      "kota_kabupaten": "Kabupaten Hulu Sungai Utara",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1875"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Andalas",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2012"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Angke",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1761"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid An-Nawier",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1760"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid An-Nur Pare",
+      "kota_kabupaten": "Kabupaten Kediri",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1996"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ar-Rahman",
+      "kota_kabupaten": "Pekanbaru",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1930"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ar-Raudhah",
+      "kota_kabupaten": "Kabupaten Pulang Pisau",
+      "provinsi": "Kalimantan Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ar-Raudhah Sekumpul",
+      "kota_kabupaten": "Kabupaten Banjar",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sufisme",
+      "didirikan": "1878"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Arqam Baburahman",
+      "kota_kabupaten": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2011"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Asasi",
+      "kota_kabupaten": "Padang Panjang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1770"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid As-Suada",
+      "kota_kabupaten": "Kabupaten Hulu Sungai Selatan",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1908"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ats-Tsauroh",
+      "kota_kabupaten": "Serang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1870"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid At-Taqwa Cirebon",
+      "kota_kabupaten": "Cirebon",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1951"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Azizi",
+      "kota_kabupaten": "Kabupaten Langkat",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1902"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baabul Munawwar",
+      "kota_kabupaten": "Kabupaten Mimika",
+      "provinsi": "Papua Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Babussalam",
+      "kota_kabupaten": "Sawahlunto",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1981"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baitul Hakim",
+      "kota_kabupaten": "Madiun",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1800"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baitul Makmur",
+      "kota_kabupaten": "Kabupaten Aceh Barat",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1999"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baitul Makmur Denpasar",
+      "kota_kabupaten": "Denpasar",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "1980"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baitul Makmur Jepara",
+      "kota_kabupaten": "Kabupaten Jepara",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1660"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baiturrahim",
+      "kota_kabupaten": "Banda Aceh",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1922"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baiturrahim Singkil",
+      "kota_kabupaten": "Kabupaten Aceh Singkil",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1927"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baiturrahman Aceh",
+      "kota_kabupaten": "Banda Aceh",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1881"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baiturrahman Banyuwangi",
+      "kota_kabupaten": "Kabupaten Banyuwangi",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1773"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baiturrahman Buntok",
+      "kota_kabupaten": "Kabupaten Barito Selatan",
+      "provinsi": "Kalimantan Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1995"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Baiturrahman Trenggalek",
+      "kota_kabupaten": "Kabupaten Trenggalek",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2007"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Balai Gadang Mungo",
+      "kota_kabupaten": "Kabupaten Lima Puluh Kota",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1914"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bandung",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1812"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Banjarmasin",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1777"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Banten",
+      "kota_kabupaten": "Serang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1556"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Banua Halat",
+      "kota_kabupaten": "Kabupaten Tapin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sufisme",
+      "didirikan": "1840"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Banua Lawas",
+      "kota_kabupaten": "Kabupaten Tabalong",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sufisme",
+      "didirikan": "1625"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Batam",
+      "kota_kabupaten": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1999"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bayan Beleq",
+      "kota_kabupaten": "Kabupaten Lombok Utara",
+      "provinsi": "Nusa Tenggara Barat",
+      "denominasi": "Sufisme",
+      "didirikan": "1634"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bayur",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1999"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bengkulu",
+      "kota_kabupaten": "Bengkulu",
+      "provinsi": "Bengkulu",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-18"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bingkudu",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1823"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bintungan Tinggi",
+      "kota_kabupaten": "Kabupaten Padang Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1864"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Birugo",
+      "kota_kabupaten": "Bukittinggi",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1956"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Brebes",
+      "kota_kabupaten": "Kabupaten Brebes",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1836"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Bulian",
+      "kota_kabupaten": "Kabupaten Solok Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1949"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Caringin",
+      "kota_kabupaten": "Kabupaten Pandeglang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1893"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Carita",
+      "kota_kabupaten": "Kabupaten Pandeglang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1889"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Cheng Ho Palembang",
+      "kota_kabupaten": "Palembang",
+      "provinsi": "Sumatra Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Cheng Hoo Purbalingga",
+      "kota_kabupaten": "Kabupaten Purbalingga",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2015"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Cheng Ho Surabaya",
+      "kota_kabupaten": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2001"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Cirebon",
+      "kota_kabupaten": "Cirebon",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1489"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Cut Meutia",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1922"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Darul Awwabin",
+      "kota_kabupaten": "Kabupaten Seruyan",
+      "provinsi": "Kalimantan Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2000"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Darussalam",
+      "kota_kabupaten": "Samarinda",
+      "provinsi": "Provinsi Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1967"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Darussalam Palangka Raya",
+      "kota_kabupaten": "Palangka Raya",
+      "provinsi": "Kalimantan Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1984"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Demak",
+      "kota_kabupaten": "Kabupaten Demak",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1466"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Dian Al-Mahri",
+      "kota_kabupaten": "Depok",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Fathullah",
+      "kota_kabupaten": "Tangerang Selatan",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1993"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ganting",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1805"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Garut",
+      "kota_kabupaten": "Kabupaten Garut",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1813"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Gedhe Kauman",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1773"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Gedhe Mataram",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1640"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Habib Muda Seunagan",
+      "kota_kabupaten": "Kabupaten Nagan Raya",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1960"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Harakatul Jannah",
+      "kota_kabupaten": "Kabupaten Bogor",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Hidayatullah Jakarta",
+      "kota_kabupaten": "Jakarta Selatan",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1747"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Hubbul Wathan",
+      "kota_kabupaten": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Hunto Sultan Amai",
+      "kota_kabupaten": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "denominasi": "Sunni",
+      "didirikan": "1495"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ikhsaniyyah",
+      "kota_kabupaten": "Jambi",
+      "provinsi": "Jambi",
+      "denominasi": "Sunni",
+      "didirikan": "1880"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ishlah Pariangan",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1934"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Islamic Center Jakarta",
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Islamic Center Samarinda",
+      "kota_kabupaten": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2008"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Istighfar",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1905"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Istiqlal",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1978"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Jagakariyan",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1966"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Jawa Tengah",
+      "kota_kabupaten": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Jembatan Besi",
+      "kota_kabupaten": "Padang Panjang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1895"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kali Pasir",
+      "kota_kabupaten": "Tangerang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1700"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kampung Baru",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1748"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kampus Universitas Gadjah Mada",
+      "kota_kabupaten": "Kabupaten Sleman",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1999"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kasunyatan",
+      "kota_kabupaten": "Kabupaten Serang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1570"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Katangka",
+      "kota_kabupaten": "Kabupaten Gowa",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1603"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kauman Pleret",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1649"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kayu Jao",
+      "kota_kabupaten": "Kabupaten Solok",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1729"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Keramat Kuno",
+      "kota_kabupaten": "Singaraja",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "1654"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Keraton Landak",
+      "kota_kabupaten": "Kabupaten Landak",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1895"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Keraton Sambas",
+      "kota_kabupaten": "Kabupaten Sambas",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1702"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kiai Gede",
+      "kota_kabupaten": "Kabupaten Kotawaringin Barat",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1675"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Koto Baru",
+      "kota_kabupaten": "Kabupaten Solok Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1993"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Koto Nan Ampek",
+      "kota_kabupaten": "Payakumbuh",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1840"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kubang",
+      "kota_kabupaten": "Kabupaten Lima Puluh Kota",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1846"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kubang Putih",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1810"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Kurai Taji",
+      "kota_kabupaten": "Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1900"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Lama Gang Bengkok",
+      "kota_kabupaten": "Medan",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1885"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Langgar Tinggi",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1829"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Lautze",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1991"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Latiah",
+      "kota_kabupaten": "Solok",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1880"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Lima Kaum",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1710"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Luar Batang",
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1736"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Lubuk Bauk",
+      "kota_kabupaten": "Padang Panjang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1896"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Makassar",
+      "kota_kabupaten": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1949"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Malang",
+      "kota_kabupaten": "Malang",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1890"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Mandiangin",
+      "kota_kabupaten": "Bukittinggi",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1980"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Manonjaya",
+      "kota_kabupaten": "Kabupaten Tasikmalaya",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1834"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Mantingan",
+      "kota_kabupaten": "Kabupaten Jepara",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1559"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Menara",
+      "kota_kabupaten": "Kabupaten Solok Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1894"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Menara Kudus",
+      "kota_kabupaten": "Kabupaten Kudus",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1549"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Merah Panjunan",
+      "kota_kabupaten": "Kabupaten Cirebon",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1480"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Miftahul Jannah",
+      "kota_kabupaten": "Kabupaten Lamongan",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1996"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Muhammadan",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1843"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Muhammadiyah Kelayan",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1938"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Namira",
+      "kota_kabupaten": "Kabupaten Lamongan",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2013"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Negara Ibu Kota Nusantara",
+      "kota_kabupaten": "KIPP IKN",
+      "provinsi": "IKN",
+      "denominasi": "Sunni",
+      "didirikan": "2026"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nur Balangnipa",
+      "kota_kabupaten": "Kabupaten Sinjai",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1660"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Amin",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1992"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Huda",
+      "kota_kabupaten": "Kabupaten Klungkung",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "Akhir abad ke-14"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Agung Nurul Huda",
+      "kota_kabupaten": "Kabupaten Sumbawa",
+      "provinsi": "Nusa Tenggara Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1648"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Huda",
+      "kota_kabupaten": "Sawahlunto",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1921"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Ikhlas",
+      "kota_kabupaten": "Cilegon",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1596"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Iman",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2007"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Iman Koto Gadang",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1932"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurul Islam",
+      "kota_kabupaten": "Sawahlunto",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1894"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Nurut Taqwa",
+      "kota_kabupaten": "Kabupaten Kendal",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1921"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Oman Al-Makmur",
+      "kota_kabupaten": "Banda Aceh",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1979"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Padusunan",
+      "kota_kabupaten": "Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1829"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pajimatan Imogiri",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1650"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Palembang",
+      "kota_kabupaten": "Palembang",
+      "provinsi": "Sumatra Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1893"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pandulangan",
+      "kota_kabupaten": "Kabupaten Hulu Sungai Utara",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1878"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pangeran Diponegoro",
+      "kota_kabupaten": "Jakarta Timur",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1973"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Parabek",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1908"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pariaman",
+      "kota_kabupaten": "Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1830"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pelajau",
+      "kota_kabupaten": "Kabupaten Hulu Sungai Tengah",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-13"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Piladang",
+      "kota_kabupaten": "Kabupaten Limapuluh Kota",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1890"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pincuran Gadang",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1885"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pincuran Tujuah",
+      "kota_kabupaten": "Kabupaten Padang Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1865"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pondok Tinggi",
+      "kota_kabupaten": "Sungai Penuh",
+      "provinsi": "Jambi",
+      "denominasi": "Sunni",
+      "didirikan": "1874"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pontianak",
+      "kota_kabupaten": "Pontianak",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1821"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Po Teumeureuhom",
+      "kota_kabupaten": "Kabupaten Pidie",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1607"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Pucok Krueng",
+      "kota_kabupaten": "Kabupaten Pidie Jaya",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1622"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Purbalingga",
+      "kota_kabupaten": "Kabupaten Purbalingga",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2004"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Rahmatullah Lampuuk",
+      "kota_kabupaten": "Kabupaten Aceh Besar",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1990"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ramlie Musofa",
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Rahmatan Lil-Alamin",
+      "kota_kabupaten": "Kabupaten Indramayu",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2002"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Rao-Rao",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1918"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Rao-Rao Labuhbaru",
+      "kota_kabupaten": "Payakumbuh",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1965"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Saadah",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1910"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sabilal Muhtadin",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1974"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Saka Tunggal",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Saka Tunggal Banyumas",
+      "kota_kabupaten": "Kabupaten Banyumas",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1871"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Salman ITB",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sheikh Abdul Hamid",
+      "kota_kabupaten": "Kabupaten Banjar",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1799"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sheikh Abdurrauf",
+      "kota_kabupaten": "Banda Aceh",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1970"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sheikh Burhanuddin",
+      "kota_kabupaten": "Kabupaten Padang Pariaman",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1670"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sheikh Daud Rasyidi",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1966"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sheikh Zayed",
+      "kota_kabupaten": "Surakarta",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2021"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Shiratal Mustaqiem",
+      "kota_kabupaten": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1881"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sholihin",
+      "kota_kabupaten": "Surakarta",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1954"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Singaraja",
+      "kota_kabupaten": "Kabupaten Buleleng",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "1830"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Singkawang",
+      "kota_kabupaten": "Singkawang",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1885"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sudirman",
+      "kota_kabupaten": "Denpasar",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "1974"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sultan Lingga",
+      "kota_kabupaten": "Kabupaten Lingga",
+      "provinsi": "Kepulauan Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1800"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sultan Nata",
+      "kota_kabupaten": "Kabupaten Sintang",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1672"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sultan Riau",
+      "kota_kabupaten": "Tanjungpinang",
+      "provinsi": "Kepulauan Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1844"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sultan Suriansyah",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1526"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sultan Ternate",
+      "kota_kabupaten": "Ternate",
+      "provinsi": "Maluku Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1606"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sulthani Plasakuning",
+      "kota_kabupaten": "Kabupaten Sleman",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1724"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sumatra Barat",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2014"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sumber",
+      "kota_kabupaten": "Kabupaten Cirebon",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1988"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sumenep",
+      "kota_kabupaten": "Kabupaten Sumenep",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1787"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sunda Kelapa",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1970"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sungai Banar",
+      "kota_kabupaten": "Kabupaten Hulu Sungai Utara",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1804"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Sungai Jambu",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1918"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Surakarta",
+      "kota_kabupaten": "Surakarta",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1763"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Syuhada",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1952"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Taluak",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1860"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Taram",
+      "kota_kabupaten": "Kabupaten Lima Puluh Kota",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-17"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tarok",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-19"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Taqwa Muhammadiyah",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1961"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Taqwa Wanakrama",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1701"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tegal",
+      "kota_kabupaten": "Tegal",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1825"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Teluk Bayur",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1888"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Terapung Al-Aminah",
+      "kota_kabupaten": "Kabupaten Pesawaran",
+      "provinsi": "Lampung",
+      "denominasi": "Sunni",
+      "didirikan": "2012"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Teungku di Anjong",
+      "kota_kabupaten": "Banda Aceh",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1769"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tua Indra Puri",
+      "kota_kabupaten": "Kabupaten Aceh Besar",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "1607"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tua Indra Purwa",
+      "kota_kabupaten": "Kabupaten Aceh Besar",
+      "provinsi": "Aceh",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-17"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tuanku Pamansiangan",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1800"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tua Palopo",
+      "kota_kabupaten": "Palopo",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1604"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tua Patimburak",
+      "kota_kabupaten": "Kabupaten Fakfak",
+      "provinsi": "Papua Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1879"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tua Siguntur",
+      "kota_kabupaten": "Kabupaten Dharmasraya",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1825"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Tuhfaturroghibin",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1938"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Ummil Qura",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1907"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Wahyu Al-Hadi",
+      "kota_kabupaten": "Kabupaten Kotawaringin Timur",
+      "provinsi": "Kalimantan Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2004"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Wapauwe",
+      "kota_kabupaten": "Ambon",
+      "provinsi": "Maluku",
+      "denominasi": "Sunni",
+      "didirikan": "1414"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Wolio",
+      "kota_kabupaten": "Baubau",
+      "provinsi": "Sulawesi Tenggara",
+      "denominasi": "Sunni",
+      "didirikan": "1712"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Wustha Mangkunegaran",
+      "kota_kabupaten": "Surakarta",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1918"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid 60 Kurang Aso",
+      "kota_kabupaten": "Kabupaten Solok Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-17"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Besar Al-Atiiq Kauman Salatiga",
+      "kota_kabupaten": "Kota Salatiga",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1832"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid Agung Semarang",
+      "kota_kabupaten": "Kota Semarang",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1743"
+    },
+    {
+      "kategori": "Masjid utama",
+      "nama": "Masjid 99 Kubah",
+      "kota_kabupaten": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Akbar",
+      "kota_kabupaten": "Sorong",
+      "provinsi": "Papua Barat Daya",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Alam",
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Amjad",
+      "kota_kabupaten": "Kabupaten Tangerang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "2005"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Anshor",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1648"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Anwar",
+      "kota_kabupaten": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "denominasi": "Sunni",
+      "didirikan": "1884"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Aqsha",
+      "kota_kabupaten": "Jayapura",
+      "provinsi": "Papua",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Azhar Cakung",
+      "kota_kabupaten": "Jakarta Timur",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1996"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Baitul Qadim",
+      "kota_kabupaten": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1806"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Barkah",
+      "kota_kabupaten": "Bekasi",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1890"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Birru",
+      "kota_kabupaten": "Kabupaten Bojonegoro",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2014"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Buruuj",
+      "kota_kabupaten": "Kabupaten Buru",
+      "provinsi": "Maluku",
+      "denominasi": "Sunni",
+      "didirikan": "2005"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Falah",
+      "kota_kabupaten": "Kabupaten Sragen",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1956"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Falah Batulicin",
+      "kota_kabupaten": "Kabupaten Tanah Bumbu",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2014"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Furqan",
+      "kota_kabupaten": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "denominasi": "Sunni",
+      "didirikan": "1951"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Furqan Solok",
+      "kota_kabupaten": "Solok",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1912"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Hayyu",
+      "kota_kabupaten": "Jakarta Timur",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Ihsan",
+      "kota_kabupaten": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1950"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Ikhlas",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1976"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Ikhlas Bengkulu",
+      "kota_kabupaten": "Kabupaten Bengkulu Tengah",
+      "provinsi": "Bengkulu",
+      "denominasi": "Sunni",
+      "didirikan": "1823"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Ikhwan",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1974"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Irsyad",
+      "kota_kabupaten": "Kabupaten Bandung Barat",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Istiqomah",
+      "kota_kabupaten": "Kabupaten Pangandaran",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1974"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Ittihad",
+      "kota_kabupaten": "Kabupaten Brebes",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2008"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Karim",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2012"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Kautsar",
+      "kota_kabupaten": "Depok",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2004"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Kurdi",
+      "kota_kabupaten": "Kabupaten Brebes",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1917"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Mahmudiyah",
+      "kota_kabupaten": "Palembang",
+      "provinsi": "Sumatra Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Makmur",
+      "kota_kabupaten": "Kabupaten Jepara",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1983"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Mansur",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1717"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Markaz Al-Islami",
+      "kota_kabupaten": "Kabupaten Maros",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2003"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Muhajirin",
+      "kota_kabupaten": "Denpasar",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "1926"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Mumtadz",
+      "kota_kabupaten": "Kabupaten Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2022"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Muqarrabin",
+      "kota_kabupaten": "Kabupaten Lembata",
+      "provinsi": "Nusa Tenggara Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1923"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Mustofa",
+      "kota_kabupaten": "Bogor",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1730"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Muqarramah",
+      "kota_kabupaten": "Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1789"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Riyadh",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1938"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Al-Saffar",
+      "kota_kabupaten": "Kabupaten Purwakarta",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2019"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Amir Hamzah",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1977"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Andalusia",
+      "kota_kabupaten": "Kabupaten Bogor",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid An-Nawawi",
+      "kota_kabupaten": "Kabupaten Serang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1550"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid An-Nur",
+      "kota_kabupaten": "Pekanbaru",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1968"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid An-Nur",
+      "kota_kabupaten": "Ambon",
+      "provinsi": "Maluku",
+      "denominasi": "Sunni",
+      "didirikan": "1575"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Assalafiyah",
+      "kota_kabupaten": "Jakarta Timur",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1620"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid As-Syakirin",
+      "kota_kabupaten": "Kabupaten Deli Serdang",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1819"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Asy-Syuhada",
+      "kota_kabupaten": "Denpasar",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-17"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid At-Ta'awuun",
+      "kota_kabupaten": "Kabupaten Bogor",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1997"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid At-Taqwa",
+      "kota_kabupaten": "Kabupaten Ketapang",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1950"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid At-Thohir",
+      "kota_kabupaten": "Depok",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid At-Tin",
+      "kota_kabupaten": "Jakarta Timur",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1997"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Awwal Fathul Mubien",
+      "kota_kabupaten": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1770"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Babul Chair",
+      "kota_kabupaten": "Kabupaten Ketapang",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1953"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Babul Hasanah",
+      "kota_kabupaten": "Kabupaten Kayong Utara",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1947"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baitul Jalil",
+      "kota_kabupaten": "Bukittinggi",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2004"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baitul Kamal",
+      "kota_kabupaten": "Depok",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2018"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baitul Makmur",
+      "kota_kabupaten": "Kabupaten Bintan",
+      "provinsi": "Kepulauan Riau",
+      "denominasi": "Sunni",
+      "didirikan": "2009"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baitul Mukhlisin",
+      "kota_kabupaten": "Kabupaten Lampung Barat",
+      "provinsi": "Lampung",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baitunnur",
+      "kota_kabupaten": "Kabupaten Pati",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1845"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Jami' Baiturrahim",
+      "kota_kabupaten": "Kabupaten Karangasem",
+      "provinsi": "Bali",
+      "denominasi": "Sunni",
+      "didirikan": "1768"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahim Gorontalo",
+      "kota_kabupaten": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "denominasi": "Sunni",
+      "didirikan": "1728"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahim Jayapura",
+      "kota_kabupaten": "Jayapura",
+      "provinsi": "Papua",
+      "denominasi": "Sunni",
+      "didirikan": "1971"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahman Jakarta",
+      "kota_kabupaten": "Jakarta Selatan",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1993"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahman Limboto",
+      "kota_kabupaten": "Kabupaten Gorontalo",
+      "provinsi": "Gorontalo",
+      "denominasi": "Sunni",
+      "didirikan": "1979"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahman Rembang",
+      "kota_kabupaten": "Kabupaten Rembang",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1814"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahman Robayan",
+      "kota_kabupaten": "Kabupaten Jepara",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1960"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahman Semarang",
+      "kota_kabupaten": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1968"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Baiturrahman Sungayang",
+      "kota_kabupaten": "Kabupaten Tanah Datar",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1916"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Balangan",
+      "kota_kabupaten": "Kabupaten Balangan",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Bandar Khalifah",
+      "kota_kabupaten": "Kabupaten Deli Serdang",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1890"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Banyusumurup",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1668"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Bawan Tua",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1800"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Blitar",
+      "kota_kabupaten": "Blitar",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1820"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Bubrah",
+      "kota_kabupaten": "Kabupaten Kudus",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1867"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Cheng Ho Bagansiapiapi",
+      "kota_kabupaten": "Kabupaten Rokan Hilir",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "2019"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Cheng Ho Banyuwangi",
+      "kota_kabupaten": "Kabupaten Banyuwangi",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Ciamis",
+      "kota_kabupaten": "Kabupaten Ciamis",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1882"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Cipari",
+      "kota_kabupaten": "Kabupaten Garut",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1895"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Darul Falah",
+      "kota_kabupaten": "Kabupaten Serang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1552"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Darussalam Palu",
+      "kota_kabupaten": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1978"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Darussalam Sumbawa",
+      "kota_kabupaten": "Kabupaten Sumbawa Barat",
+      "provinsi": "Nusa Tenggara Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2010"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Da'watul Iman",
+      "kota_kabupaten": "Kabupaten Pesisir Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1933"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Dukuh Tawangsari",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1954"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Fatahillah",
+      "kota_kabupaten": "Jakarta Pusat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Ghaudiyah",
+      "kota_kabupaten": "Medan",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1887"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Hasyim Asy'ari",
+      "kota_kabupaten": "Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Imanuddin",
+      "kota_kabupaten": "Kabupaten Berau",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1899"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Ismailiyah",
+      "kota_kabupaten": "Kabupaten Deli Serdang",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1884"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Istiqomah Bengkalis",
+      "kota_kabupaten": "Kabupaten Bengkalis",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1999"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Jongaya",
+      "kota_kabupaten": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1900"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kajai",
+      "kota_kabupaten": "Kabupaten Pasaman Barat",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1901"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kasang",
+      "kota_kabupaten": "Kabupaten Pasaman Barat",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1800"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kebun Bunga",
+      "kota_kabupaten": "Medan",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1887"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kendal",
+      "kota_kabupaten": "Kabupaten Kendal",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1493"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kendari",
+      "kota_kabupaten": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "denominasi": "Sunni",
+      "didirikan": "1985"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Keramat Kototuo",
+      "kota_kabupaten": "Kabupaten Kerinci",
+      "provinsi": "Jambi",
+      "denominasi": "Sunni",
+      "didirikan": "1511"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Khaera Ummah",
+      "kota_kabupaten": "Kabupaten Kolaka",
+      "provinsi": "Sulawesi Tenggara",
+      "denominasi": "Sunni",
+      "didirikan": "1996"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kiai Madja",
+      "kota_kabupaten": "Kabupaten Minahasa",
+      "provinsi": "Sulawesi Utara",
+      "denominasi": "Sufisme",
+      "didirikan": "1830"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kiai Muara Ogan",
+      "kota_kabupaten": "Palembang",
+      "provinsi": "Sumatra Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1890"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Kuncen",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1968"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Lama Gunung Pujut",
+      "kota_kabupaten": "Kabupaten Lombok Tengah",
+      "provinsi": "Nusa Tenggara Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1587"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Lama Kerinci",
+      "kota_kabupaten": "Kabupaten Kerinci",
+      "provinsi": "Jambi",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-15"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Lama Kunto",
+      "kota_kabupaten": "Kabupaten Rokan Hulu",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1918"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Lautze Bandung",
+      "kota_kabupaten": "Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1997"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Lawang Kidul",
+      "kota_kabupaten": "Palembang",
+      "provinsi": "Sumatra Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1881"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Laweyan",
+      "kota_kabupaten": "Surakarta",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1546"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Luhur Nurhasan",
+      "kota_kabupaten": "Kabupaten Jombang",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1982"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Majalaya",
+      "kota_kabupaten": "Kabupaten Bandung",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1941"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Majasem",
+      "kota_kabupaten": "Kabupaten Klaten",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1385"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Mamuju",
+      "kota_kabupaten": "Kabupaten Mamuju",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2002"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Manunggal Bantul",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1987"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Margoyuwono",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1874"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Muntok",
+      "kota_kabupaten": "Kabupaten Bangka Barat",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "denominasi": "Sunni",
+      "didirikan": "1883"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Mutaqaddimin",
+      "kota_kabupaten": "Kabupaten Lima Puluh Kota",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1930"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nanggalo",
+      "kota_kabupaten": "Padang",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1933"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Natuna",
+      "kota_kabupaten": "Kabupaten Natuna",
+      "provinsi": "Kepulauan Riau",
+      "denominasi": "Sunni",
+      "didirikan": "2007"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Amilin",
+      "kota_kabupaten": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1942"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Amin Jayapura",
+      "kota_kabupaten": "Jayapura",
+      "provinsi": "Papua",
+      "denominasi": "Sunni",
+      "didirikan": "1972"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Hilal",
+      "kota_kabupaten": "Kabupaten Bulukumba",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1605"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Huda Dongkelan",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1775"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Huda Sungai Jawi",
+      "kota_kabupaten": "Kabupaten Ketapang",
+      "provinsi": "Kalimantan Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1932"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Ibadah",
+      "kota_kabupaten": "Kabupaten Paser",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1851"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Mu'minin",
+      "kota_kabupaten": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "denominasi": "Sunni",
+      "didirikan": "2020"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Musthofa",
+      "kota_kabupaten": "Depok",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "2016"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Ulum",
+      "kota_kabupaten": "Kabupaten Banyumas",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1986"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Yaqin",
+      "kota_kabupaten": "Kabupaten Pasaman Barat",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1860"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Nurul Yaqin Matua Mudik",
+      "kota_kabupaten": "Kabupaten Agam",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1930"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Pakualaman",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1831"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Palabuhanratu",
+      "kota_kabupaten": "Kabupaten Sukabumi",
+      "provinsi": "Jawa Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1926"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Pekanbaru",
+      "kota_kabupaten": "Pekanbaru",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1762"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Perak Kotagede",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1937"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Pinrang",
+      "kota_kabupaten": "Kabupaten Pinrang",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1987"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Ponorogo",
+      "kota_kabupaten": "Kabupaten Ponorogo",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1858"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Praya",
+      "kota_kabupaten": "Kabupaten Lombok Tengah",
+      "provinsi": "Nusa Tenggara Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1979"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Pringapus",
+      "kota_kabupaten": "Kabupaten Semarang",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1950"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Raden Sayyid Kuning",
+      "kota_kabupaten": "Kabupaten Purbalingga",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-14"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Riadhussalihin",
+      "kota_kabupaten": "Kabupaten Hulu Sungai Tengah",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1962"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Rotowijayan",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1790"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sekayu",
+      "kota_kabupaten": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1413"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Selo Panembahan",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1709"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sheikh Sampu",
+      "kota_kabupaten": "Kabupaten Solok Selatan",
+      "provinsi": "Sumatra Barat",
+      "denominasi": "Sunni",
+      "didirikan": "1996"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Silalouw",
+      "kota_kabupaten": "Kabupaten Maluku Tengah",
+      "provinsi": "Maluku",
+      "denominasi": "Sunni",
+      "didirikan": "1666"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Siti Djirzanah",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Slawi",
+      "kota_kabupaten": "Kabupaten Tegal",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "2007"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Stabat",
+      "kota_kabupaten": "Kabupaten Langkat",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1904"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sultan Ahmadsyah",
+      "kota_kabupaten": "Tanjungbalai",
+      "provinsi": "Sumatra Utara",
+      "denominasi": "Sunni",
+      "didirikan": "1883"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sultan Mahmud Riayat",
+      "kota_kabupaten": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "denominasi": "Sunni",
+      "didirikan": "2017"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sultan Syarif Hasyim",
+      "kota_kabupaten": "Kabupaten Siak",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1978"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sulthonain",
+      "kota_kabupaten": "Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1983"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Sunan Cirebon",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "Abad ke-17"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Syahabuddin",
+      "kota_kabupaten": "Kabupaten Siak",
+      "provinsi": "Riau",
+      "denominasi": "Sunni",
+      "didirikan": "1926"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Syuhada Mamuju",
+      "kota_kabupaten": "Kabupaten Mamuju",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "2006"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Syuhada Pelaihari",
+      "kota_kabupaten": "Kabupaten Tanah Laut",
+      "provinsi": "Kalimantan Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1935"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Taman Arum",
+      "kota_kabupaten": "Kabupaten Magetan",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1860"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Tanara",
+      "kota_kabupaten": "Kabupaten Serang",
+      "provinsi": "Banten",
+      "denominasi": "Sunni",
+      "didirikan": "1552"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Tanjung Pauh",
+      "kota_kabupaten": "Kabupaten Kerinci",
+      "provinsi": "Jambi",
+      "denominasi": "Sunni",
+      "didirikan": "1920"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Taqorrub",
+      "kota_kabupaten": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "denominasi": "Sunni",
+      "didirikan": "1901"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Tegalsari",
+      "kota_kabupaten": "Kabupaten Ponorogo",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni",
+      "didirikan": "1742"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Tiban",
+      "kota_kabupaten": "Kabupaten Malang",
+      "provinsi": "Jawa Timur",
+      "denominasi": "Sunni Salafiyah",
+      "didirikan": ""
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Urwatul Wutsqa",
+      "kota_kabupaten": "Kabupaten Maros",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1854"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Wali Perkasa",
+      "kota_kabupaten": "Kabupaten Purbalingga",
+      "provinsi": "Jawa Tengah",
+      "denominasi": "Sunni",
+      "didirikan": "1581"
+    },
+    {
+      "kategori": "Masjid lain",
+      "nama": "Masjid Watampone",
+      "kota_kabupaten": "Kabupaten Bone",
+      "provinsi": "Sulawesi Selatan",
+      "denominasi": "Sunni",
+      "didirikan": "1905"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Masjid di Indonesia - Free Download",
+    "description": "Daftar masjid utama dan masjid lain di Indonesia beserta kota/kabupaten, provinsi, denominasi, dan tahun didirikan, dari Wikipedia bahasa Indonesia. Contains 393 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Masjid di Indonesia | ListBase",
+    "seo_description": "Download Daftar Masjid di Indonesia — 393 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 393 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_masjid_di_Indonesia"
+    ]
+  }
+}

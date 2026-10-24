@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-23T02:11:10.764Z",
-  "total_datasets": 526,
-  "total_records": 639734,
+  "generated": "2026-10-24T02:15:28.551Z",
+  "total_datasets": 527,
+  "total_records": 640127,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "economy",
@@ -153,6 +153,33 @@
         "xlsx": {
           "name": "id-lembaga-amil-zakat_ID.xlsx",
           "size": 9400
+        }
+      }
+    },
+    {
+      "id": "id-masjid",
+      "name": "Daftar Masjid di Indonesia",
+      "category": "culture",
+      "record_count": 393,
+      "columns": [
+        "kategori",
+        "nama",
+        "kota_kabupaten",
+        "provinsi",
+        "denominasi",
+        "didirikan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_masjid_di_Indonesia",
+      "updated": "2026-10",
+      "size": 86984,
+      "files": {
+        "csv": {
+          "name": "id-masjid_ID.csv",
+          "size": 33805
+        },
+        "xlsx": {
+          "name": "id-masjid_ID.xlsx",
+          "size": 21941
         }
       }
     },
