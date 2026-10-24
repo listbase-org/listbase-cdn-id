@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:41.281Z",
-  "total_datasets": 530,
-  "total_records": 640495,
+  "generated": "2026-10-24T02:15:43.625Z",
+  "total_datasets": 531,
+  "total_records": 641569,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 30
+      "dataset_count": 31
     },
     {
       "id": "units",
@@ -14461,6 +14461,33 @@
         "xlsx": {
           "name": "id-riau-pelabuhan_ID.xlsx",
           "size": 7480
+        }
+      }
+    },
+    {
+      "id": "id-stasiun-kereta-api",
+      "name": "Daftar Stasiun Kereta Api di Indonesia",
+      "category": "transport",
+      "record_count": 1074,
+      "columns": [
+        "nama_stasiun",
+        "provinsi",
+        "daop_divre",
+        "kode",
+        "status",
+        "ketinggian"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_stasiun_kereta_api_di_Indonesia",
+      "updated": "2026-10",
+      "size": 221160,
+      "files": {
+        "csv": {
+          "name": "id-stasiun-kereta-api_ID.csv",
+          "size": 81889
+        },
+        "xlsx": {
+          "name": "id-stasiun-kereta-api_ID.xlsx",
+          "size": 47530
         }
       }
     },
