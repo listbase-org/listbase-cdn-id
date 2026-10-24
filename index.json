@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:52.659Z",
-  "total_datasets": 535,
-  "total_records": 642077,
+  "generated": "2026-10-24T02:15:55.342Z",
+  "total_datasets": 536,
+  "total_records": 642125,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -106,6 +106,34 @@
     }
   ],
   "datasets": [
+    {
+      "id": "id-menteri-pertanian",
+      "name": "Daftar Menteri Pertanian Indonesia",
+      "category": "agriculture",
+      "record_count": 48,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Pertanian_Indonesia",
+      "updated": "2026-10",
+      "size": 13032,
+      "files": {
+        "csv": {
+          "name": "id-menteri-pertanian_ID.csv",
+          "size": 4282
+        },
+        "xlsx": {
+          "name": "id-menteri-pertanian_ID.xlsx",
+          "size": 9474
+        }
+      }
+    },
     {
       "id": "id-pabrik-gula",
       "name": "Daftar Pabrik Gula di Indonesia",
