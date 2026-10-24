@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:57.779Z",
-  "total_datasets": 537,
-  "total_records": 642142,
+  "generated": "2026-10-24T02:16:00.137Z",
+  "total_datasets": 538,
+  "total_records": 642192,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -348,6 +348,34 @@
         "xlsx": {
           "name": "id-pdrb-provinsi-2025_ID.xlsx",
           "size": 7635
+        }
+      }
+    },
+    {
+      "id": "id-menteri-pendidikan",
+      "name": "Daftar Menteri Pendidikan Indonesia (Pendidikan Dasar dan Menengah)",
+      "category": "education",
+      "record_count": 50,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Pendidikan_Dasar_dan_Menengah_Indonesia",
+      "updated": "2026-10",
+      "size": 13891,
+      "files": {
+        "csv": {
+          "name": "id-menteri-pendidikan_ID.csv",
+          "size": 4533
+        },
+        "xlsx": {
+          "name": "id-menteri-pendidikan_ID.xlsx",
+          "size": 9601
         }
       }
     },
