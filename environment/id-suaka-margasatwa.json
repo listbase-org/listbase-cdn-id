@@ -1,0 +1,952 @@
+{
+  "id": "id-suaka-margasatwa",
+  "name": "Daftar Suaka Margasatwa di Indonesia",
+  "title": "Daftar Suaka Margasatwa di Indonesia",
+  "description": "Daftar kawasan suaka margasatwa di Indonesia beserta pulau, provinsi, kabupaten/kota, luas (ha), dasar hukum, dan tanggal penetapan.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_suaka_margasatwa_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_suaka_margasatwa_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "pulau",
+      "label": "Pulau",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kabupaten_kota",
+      "label": "Kabupaten Kota",
+      "type": "string"
+    },
+    {
+      "key": "luas_ha",
+      "label": "Luas Ha",
+      "type": "string"
+    },
+    {
+      "key": "dasar_hukum",
+      "label": "Dasar Hukum",
+      "type": "string"
+    },
+    {
+      "key": "tanggal_penetapan",
+      "label": "Tanggal Penetapan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Aceh",
+      "nama": "Rawa Singkil",
+      "kabupaten_kota": "Aceh Selatan",
+      "luas_ha": "81.823,8",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 166/Kpts-II/1998",
+      "tanggal_penetapan": "26 Februari 1998"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Utara",
+      "nama": "Barumun",
+      "kabupaten_kota": "Tapanuli Tengah",
+      "luas_ha": "40.330",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 70/Kpts-II/1989",
+      "tanggal_penetapan": "2 Juni 1989"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Utara",
+      "nama": "Dolok Surungan",
+      "kabupaten_kota": "Tapanuli Utara",
+      "luas_ha": "23.800",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 43/Kpts/Um/2/74",
+      "tanggal_penetapan": "2 Februari 1974"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Utara",
+      "nama": "Karang Gading Langkat Timur Laut",
+      "kabupaten_kota": "",
+      "luas_ha": "",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Utara",
+      "nama": "Siranggas",
+      "kabupaten_kota": "Tapanuli Tengah",
+      "luas_ha": "5.657",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 70/Kpts-II/1989",
+      "tanggal_penetapan": "2 Juni 1989"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Utara",
+      "nama": "Dolok Lubuk Raya",
+      "kabupaten_kota": "",
+      "luas_ha": "1.940,4",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Balai Raja",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "18.000",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 173/Kpts-II/1986",
+      "tanggal_penetapan": "6 Juni 1986"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Bukit Batu",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "21.500",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 482/Kpts-II/1999",
+      "tanggal_penetapan": "29 Juni 1999"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Giam Siak Kecil",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "50.000",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 173/Kpts-II/1986",
+      "tanggal_penetapan": "6 Juni 1986"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Kerumutan",
+      "kabupaten_kota": "Kampar, Indragiri Hulu",
+      "luas_ha": "120.000",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 350/Kpts/Um/6/79",
+      "tanggal_penetapan": "14 Maret 1979"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Pusat Pelatihan Gajah Sebanga",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "5.000",
+      "dasar_hukum": "Keputusan Gubernur Riau Nomor: 387/VI1992",
+      "tanggal_penetapan": "26 Juni 1992"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Tasik Belat",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "2.529",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 480/Kpts-II/1999",
+      "tanggal_penetapan": "29 Juni 1999"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Tasik Besar–Serkap",
+      "kabupaten_kota": "Indragiri Hilir",
+      "luas_ha": "3.200",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 173/Kpts-II/1986",
+      "tanggal_penetapan": "6 Juni 1986"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Tasik Serkap-Sarang Burung",
+      "kabupaten_kota": "Indragiri Hilir, Pelalawan",
+      "luas_ha": "6.900",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 173/Kpts-II/1986",
+      "tanggal_penetapan": "6 Juni 1986"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Tasik Tanjung Padang",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "4.925",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 349/Kpts-II/1999",
+      "tanggal_penetapan": "26 Mei 1999"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau",
+      "nama": "Danau Pulau Besar–Bawah",
+      "kabupaten_kota": "Bengkalis",
+      "luas_ha": "28.237,95",
+      "dasar_hukum": "Keputusan Men-hutbun Nomor: 668/Kpts-II/1999",
+      "tanggal_penetapan": "26 Agustus 1999"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Riau dan Sumatera barat",
+      "nama": "Rimbang Bukit Baling",
+      "kabupaten_kota": "Kampar",
+      "luas_ha": "136.000",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 173/Kpts-II/1986",
+      "tanggal_penetapan": "6 Juni 1986"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Barat",
+      "nama": "Malampah Alahan Panjang",
+      "kabupaten_kota": "",
+      "luas_ha": "39.198,9",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Barat",
+      "nama": "Tarusan Arau Hilir",
+      "kabupaten_kota": "",
+      "luas_ha": "34.567,4",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Barat",
+      "nama": "Barisan",
+      "kabupaten_kota": "",
+      "luas_ha": "56.264,3",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Barat",
+      "nama": "Pagai Selatan",
+      "kabupaten_kota": "Pesisir Selatan (Kepulauan Mentawai)",
+      "luas_ha": "4.000",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 422/Kpts-II/1999",
+      "tanggal_penetapan": "15 Juni 1999"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Selatan",
+      "nama": "Bentayan",
+      "kabupaten_kota": "Banyuasin",
+      "luas_ha": "19.300",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 276/Kpts/Um/4/81",
+      "tanggal_penetapan": "6 April 1981"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Selatan",
+      "nama": "Dangku",
+      "kabupaten_kota": "Musi Banyuasin",
+      "luas_ha": "102.326",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 755/Kpts-II/1990 dan Nomor: 76/Kpts-II/2001",
+      "tanggal_penetapan": "17 Februari 1990 dan 15 Maret 2001"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Selatan",
+      "nama": "Gumai Pasemah",
+      "kabupaten_kota": "Lahat",
+      "luas_ha": "45.883",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 408/Kpts/Um/6/76",
+      "tanggal_penetapan": "30 Juni 1976"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Selatan",
+      "nama": "Gunung Raya",
+      "kabupaten_kota": "Ogan Komering Ulu",
+      "luas_ha": "39.500",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 55/Kpts/Um/2/78",
+      "tanggal_penetapan": "7 Februari 1978"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Selatan",
+      "nama": "Isau-Isau Pasemah",
+      "kabupaten_kota": "Lahat",
+      "luas_ha": "12.144",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 69/Kpts/Um/2/78",
+      "tanggal_penetapan": "7 Februari 1978"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Sumatera Selatan",
+      "nama": "Padang Sugihan",
+      "kabupaten_kota": "Musi Banyuasin",
+      "luas_ha": "75.000",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 004/Kpts-II/1983",
+      "tanggal_penetapan": "19 April 1983"
+    },
+    {
+      "pulau": "Sumatra",
+      "provinsi": "Jambi",
+      "nama": "Sungai Bengkal",
+      "kabupaten_kota": "",
+      "luas_ha": "7179",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "DKI Jakarta",
+      "nama": "Muara Angke",
+      "kabupaten_kota": "Jakarta Utara",
+      "luas_ha": "2502",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 097/Kpts-II/1988",
+      "tanggal_penetapan": "29 Februari 1988"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "DKI Jakarta",
+      "nama": "Pulau Rambut",
+      "kabupaten_kota": "Jakarta Utara",
+      "luas_ha": "90",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 275/Kpts-II/1999",
+      "tanggal_penetapan": "7 Mei 1999"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Barat",
+      "nama": "Cikepuh",
+      "kabupaten_kota": "Sukabumi",
+      "luas_ha": "8.127,5",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 532/Kpts/Um/10/73",
+      "tanggal_penetapan": "20 Oktober 1973"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Barat",
+      "nama": "Gunung Sawal",
+      "kabupaten_kota": "Ciamis",
+      "luas_ha": "5.400",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 420/Kpts/Um/6/79",
+      "tanggal_penetapan": "4 Juni 1979"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Barat",
+      "nama": "Sindangkerta",
+      "kabupaten_kota": "Tasikmalaya",
+      "luas_ha": "90",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 6964/Kpts-II/2002",
+      "tanggal_penetapan": "17 Januari 2002"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Tengah",
+      "nama": "Gunung Tunggangan",
+      "kabupaten_kota": "Sragen",
+      "luas_ha": "1039",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 435/Kpts-II/1999",
+      "tanggal_penetapan": "15 Juni 1999"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "DI Yogyakarta",
+      "nama": "Paliyan",
+      "kabupaten_kota": "Gunung Kidul",
+      "luas_ha": "6156",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 171/Kpts-II/2000",
+      "tanggal_penetapan": "20 Desember 2000"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "DI Yogyakarta",
+      "nama": "Sermo",
+      "kabupaten_kota": "",
+      "luas_ha": "185",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Timur",
+      "nama": "Dataran Tinggi Yang",
+      "kabupaten_kota": "Jember, Probolinggo",
+      "luas_ha": "14.145",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 417/Kpts-II/1999",
+      "tanggal_penetapan": "15 Juni 1999"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Timur",
+      "nama": "Bawean",
+      "kabupaten_kota": "Gresik",
+      "luas_ha": "3.831,6",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 762/Kpts/Um/5/79",
+      "tanggal_penetapan": "12 Mei 1979"
+    },
+    {
+      "pulau": "Jawa",
+      "provinsi": "Jawa Timur",
+      "nama": "Pulau Nusa Barung",
+      "kabupaten_kota": "",
+      "luas_ha": "7.635,9",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah",
+      "nama": "Lamandau",
+      "kabupaten_kota": "Kotawaringin Barat",
+      "luas_ha": "76.110",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 162/Kpts-II/1998",
+      "tanggal_penetapan": "26 Februari 1998"
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah",
+      "nama": "Mandau Talawang",
+      "kabupaten_kota": "",
+      "luas_ha": "124.004,8",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah",
+      "nama": "Sungai Rangga Ilung",
+      "kabupaten_kota": "",
+      "luas_ha": "86.308,9",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Tengah",
+      "nama": "Tanjung Malatayur",
+      "kabupaten_kota": "",
+      "luas_ha": "7.611,9",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Pulau Kaget",
+      "kabupaten_kota": "Barito Kuala",
+      "luas_ha": "3186",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 337/Kpts-II/1999",
+      "tanggal_penetapan": "27 September 1999"
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Kuala Lupak",
+      "kabupaten_kota": "Barito Kuala",
+      "luas_ha": "3.375",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 453/Kpts-II/1999",
+      "tanggal_penetapan": "17 Juni 1999"
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Pelaihari I dan Pelaihari II",
+      "kabupaten_kota": "Tanah Laut",
+      "luas_ha": "6.000",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 695/Kpts-II/1991",
+      "tanggal_penetapan": "10 November 1991"
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Asam Asam",
+      "kabupaten_kota": "Tanah Laut",
+      "luas_ha": "1754",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Pulau Kunyit Matasirih dan Pulau Pemalikan",
+      "kabupaten_kota": "Kotabaru",
+      "luas_ha": "145",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Pulau Denawan",
+      "kabupaten_kota": "Kotabaru",
+      "luas_ha": "461",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Birah-Birahan",
+      "kabupaten_kota": "Kotabaru",
+      "luas_ha": "156",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Selatan",
+      "nama": "Pulau Pedamaian dan Pulau Haur",
+      "kabupaten_kota": "Kotabaru",
+      "luas_ha": "243",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Timur",
+      "nama": "Pulau Semama",
+      "kabupaten_kota": "Berau",
+      "luas_ha": "220",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 604/Kpts/Um/8/82",
+      "tanggal_penetapan": "19 Agustus 1982"
+    },
+    {
+      "pulau": "Kalimantan",
+      "provinsi": "Kalimantan Timur",
+      "nama": "Kelian",
+      "kabupaten_kota": "",
+      "luas_ha": "5.904,6",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Timur",
+      "nama": "Kateri",
+      "kabupaten_kota": "Belu",
+      "luas_ha": "4.560",
+      "dasar_hukum": "SK Menteri Pertanian RI Nomor: 394/Kpts/Um/5/81",
+      "tanggal_penetapan": "5 Juli 1981"
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Timur",
+      "nama": "Harlu",
+      "kabupaten_kota": "Kupang",
+      "luas_ha": "2.000",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 84/Kpts-II/1993",
+      "tanggal_penetapan": "16 Februari 1993"
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Timur",
+      "nama": "Danau Tuadale",
+      "kabupaten_kota": "Kupang",
+      "luas_ha": "500",
+      "dasar_hukum": "SK Menteri Kehutanan RI Nomor: 195/Kpts-II/1993",
+      "tanggal_penetapan": "27 Februari 1993"
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Timur",
+      "nama": "Perhatu",
+      "kabupaten_kota": "",
+      "luas_ha": "4532",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Timur",
+      "nama": "Ale Asisio",
+      "kabupaten_kota": "Timor Tengah Selatan",
+      "luas_ha": "5.918",
+      "dasar_hukum": "SK Menteri Kehutanan dan Perkebunan RI Nomor: 423/Kpts-II/1999",
+      "tanggal_penetapan": "15 Juni 1999"
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Timur",
+      "nama": "Egon Ile Medo",
+      "kabupaten_kota": "",
+      "luas_ha": "1.694,2",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Nusa Tenggara",
+      "provinsi": "Nusa Tenggara Barat",
+      "nama": "Tamboran Selatan",
+      "kabupaten_kota": "Dompu",
+      "luas_ha": "21.674,68",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 418/Kpts-II/1999",
+      "tanggal_penetapan": "15 Juni 1999"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Gorontalo",
+      "nama": "Nantu",
+      "kabupaten_kota": "Gorontalo, Nantu",
+      "luas_ha": "31.215",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 573/Kpts-II/1999",
+      "tanggal_penetapan": "22 Juli 1999"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tenggara",
+      "nama": "Tanjung Amolengo",
+      "kabupaten_kota": "Kendari",
+      "luas_ha": "605",
+      "dasar_hukum": "SK Menteri Kehutanan dan Perkebunan RI Nomor: 95/Kpts-II/1999",
+      "tanggal_penetapan": "2 Maret 1999"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tenggara",
+      "nama": "Tanjung Batikolo",
+      "kabupaten_kota": "Kendari",
+      "luas_ha": "4.016",
+      "dasar_hukum": "Kepututusan Menteri Kehutanan RI Nomor: 425/Kpts-II/1995",
+      "tanggal_penetapan": "16 Agustus 1995"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tenggara",
+      "nama": "Buton Utara",
+      "kabupaten_kota": "Muna",
+      "luas_ha": "82.000",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 782/Kpts/Um/12/79",
+      "tanggal_penetapan": "17 Desember 1979"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tenggara",
+      "nama": "Lambusango",
+      "kabupaten_kota": "Buton",
+      "luas_ha": "28.510",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 639/Kpts/Um/9/82",
+      "tanggal_penetapan": "1 September 1982"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tenggara",
+      "nama": "Tanjung Peropa",
+      "kabupaten_kota": "Kendari",
+      "luas_ha": "38.937",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 393/Kpts-II/1986",
+      "tanggal_penetapan": "23 Desember 1986"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Bakiriang",
+      "kabupaten_kota": "Banggai",
+      "luas_ha": "12.500",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 398/Kpts-II/1998",
+      "tanggal_penetapan": "21 April 1998"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Lombuyan I/II",
+      "kabupaten_kota": "Banggai",
+      "luas_ha": "3.069",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 124/Kpts-II/1999",
+      "tanggal_penetapan": "5 Maret 1999"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Pinjan Tanjung Matop",
+      "kabupaten_kota": "Buol Toli-toli",
+      "luas_ha": "1.612,5",
+      "dasar_hukum": "Kepu-tusan Menteri Pertanian RI Nomor: 445/Kpts/Um/5/81",
+      "tanggal_penetapan": "21 Mei 1981"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Pulau Dolangan",
+      "kabupaten_kota": "Buol Toli-Toli",
+      "luas_ha": "462",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 441/Kpts/Um/5/81",
+      "tanggal_penetapan": "21 Mei 1981"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Tanjung Santigi",
+      "kabupaten_kota": "Donggala",
+      "luas_ha": "1.131,25",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 50/Kpts-VII/1987",
+      "tanggal_penetapan": "25 Februari 1987"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Pati-Pati",
+      "kabupaten_kota": "Banggai",
+      "luas_ha": "3.103,79",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 239/Kpts-II/1999",
+      "tanggal_penetapan": "27 April 1999"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Tengah",
+      "nama": "Pulau Pasoso",
+      "kabupaten_kota": "",
+      "luas_ha": "493",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Utara",
+      "nama": "Karakelang",
+      "kabupaten_kota": "Sangihe Talaud",
+      "luas_ha": "24.669",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 97/Kpts-II/2000",
+      "tanggal_penetapan": "22 Desember 2000"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Utara",
+      "nama": "Gunung Manembo-Nembo",
+      "kabupaten_kota": "Minahasa",
+      "luas_ha": "6.500",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 441/Kpts/Um/7/78",
+      "tanggal_penetapan": "16 Juli 1978"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Barat",
+      "nama": "Lampoko-Mampie",
+      "kabupaten_kota": "Polewali Mandar",
+      "luas_ha": "2.000",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 699/Kpts/Um/11/78",
+      "tanggal_penetapan": "13 November 1978"
+    },
+    {
+      "pulau": "Sulawesi",
+      "provinsi": "Sulawesi Selatan",
+      "nama": "Komara",
+      "kabupaten_kota": "Takalar",
+      "luas_ha": "3.390",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 147/Kpts-II/1987",
+      "tanggal_penetapan": "19 Februari 1987"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Pulau Baun",
+      "kabupaten_kota": "Maluku Tenggara",
+      "luas_ha": "13.000",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 711/Kpts/Um/11/74",
+      "tanggal_penetapan": "25 November 1974"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Pulau Kobror",
+      "kabupaten_kota": "Maluku Tenggara",
+      "luas_ha": "61.657,75",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 415/Kpts-II/1999",
+      "tanggal_penetapan": "15 Juni 1999"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Tanimbar",
+      "kabupaten_kota": "Maluku Tenggara",
+      "luas_ha": "65.671",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 249/Kpts-II/1985",
+      "tanggal_penetapan": "11 September 1985"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Pulau Manuk",
+      "kabupaten_kota": "Maluku Tengah",
+      "luas_ha": "100",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 444/Kpts/Um/5/81",
+      "tanggal_penetapan": "25 Mei 1981"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Pulau Kassa",
+      "kabupaten_kota": "Maluku Tengah",
+      "luas_ha": "2.000",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 653/Kpts/Um/10/78",
+      "tanggal_penetapan": "25 April 1978"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Danau Tihu",
+      "kabupaten_kota": "",
+      "luas_ha": "6.258,9",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Gunung Sahuwai",
+      "kabupaten_kota": "",
+      "luas_ha": "18.620",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Sungai Nief",
+      "kabupaten_kota": "",
+      "luas_ha": "1.232,2",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku",
+      "nama": "Tafermaar",
+      "kabupaten_kota": "",
+      "luas_ha": "3.039,3",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Maluku Utara",
+      "nama": "Pulau Tobalai",
+      "kabupaten_kota": "",
+      "luas_ha": "3.548,8",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua Barat",
+      "nama": "Pulau Venu",
+      "kabupaten_kota": "Fakfak",
+      "luas_ha": "16.320",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 891/Kpts-II/1999",
+      "tanggal_penetapan": "14 Oktober 1999"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua Barat",
+      "nama": "Mubrani Kaironi",
+      "kabupaten_kota": "Manokwari",
+      "luas_ha": "9.142,63",
+      "dasar_hukum": "Keputusan Menteri Kehutanan dan Perkebunan RI Nomor: 891/Kpts-II/1999",
+      "tanggal_penetapan": "14 Oktober 1999"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua Barat",
+      "nama": "Sidei Wibain",
+      "kabupaten_kota": "",
+      "luas_ha": "2244",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua Barat",
+      "nama": "Pulau Sabuda dan Pulau Tataruga",
+      "kabupaten_kota": "",
+      "luas_ha": "16.829,2",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua Barat",
+      "nama": "Waigeo",
+      "kabupaten_kota": "",
+      "luas_ha": "1.396,5",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua Barat",
+      "nama": "Tuwanwouwi",
+      "kabupaten_kota": "",
+      "luas_ha": "7.656,2",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua",
+      "nama": "Danau Bian",
+      "kabupaten_kota": "",
+      "luas_ha": "110.463,6",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua",
+      "nama": "Pulau Pombo",
+      "kabupaten_kota": "",
+      "luas_ha": "1816",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua",
+      "nama": "Pegunungan Jayawijaya",
+      "kabupaten_kota": "Jayawijaya",
+      "luas_ha": "800.000",
+      "dasar_hukum": "Keputusan Menteri Pertanian RI Nomor: 914/Kpts/Um/10/81",
+      "tanggal_penetapan": "30 Oktober 1981"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua",
+      "nama": "Pulau Dolok",
+      "kabupaten_kota": "Merauke",
+      "luas_ha": "664.627,97",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 305/Kpts-II/1998",
+      "tanggal_penetapan": "27 Februari 1998"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua",
+      "nama": "Pulau Komolon",
+      "kabupaten_kota": "Merauke",
+      "luas_ha": "84.130,4",
+      "dasar_hukum": "Keputusan Menteri Kehutanan RI Nomor: 820/Kpts/Um/11/82",
+      "tanggal_penetapan": "10 November 1982"
+    },
+    {
+      "pulau": "Maluku dan Papua",
+      "provinsi": "Papua",
+      "nama": "Savan",
+      "kabupaten_kota": "",
+      "luas_ha": "6.684,6",
+      "dasar_hukum": "",
+      "tanggal_penetapan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Suaka Margasatwa di Indonesia - Free Download",
+    "description": "Daftar kawasan suaka margasatwa di Indonesia beserta pulau, provinsi, kabupaten/kota, luas (ha), dasar hukum, dan tanggal penetapan. Contains 99 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Suaka Margasatwa di Indonesia | ListBase",
+    "seo_description": "Download Daftar Suaka Margasatwa di Indonesia — 99 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 99 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_suaka_margasatwa_di_Indonesia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:36.730Z",
-  "total_datasets": 528,
-  "total_records": 640372,
+  "generated": "2026-10-24T02:15:38.879Z",
+  "total_datasets": 529,
+  "total_records": 640471,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -512,6 +512,34 @@
         "xlsx": {
           "name": "id-satuan-ukuran-temperature_ID.xlsx",
           "size": 7017
+        }
+      }
+    },
+    {
+      "id": "id-suaka-margasatwa",
+      "name": "Daftar Suaka Margasatwa di Indonesia",
+      "category": "environment",
+      "record_count": 99,
+      "columns": [
+        "pulau",
+        "provinsi",
+        "nama",
+        "kabupaten_kota",
+        "luas_ha",
+        "dasar_hukum",
+        "tanggal_penetapan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_suaka_margasatwa_di_Indonesia",
+      "updated": "2026-10",
+      "size": 28936,
+      "files": {
+        "csv": {
+          "name": "id-suaka-margasatwa_ID.csv",
+          "size": 11755
+        },
+        "xlsx": {
+          "name": "id-suaka-margasatwa_ID.xlsx",
+          "size": 12443
         }
       }
     },
