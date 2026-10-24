@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:50.319Z",
-  "total_datasets": 534,
-  "total_records": 642053,
+  "generated": "2026-10-24T02:15:52.659Z",
+  "total_datasets": 535,
+  "total_records": 642077,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -394,6 +394,32 @@
         "xlsx": {
           "name": "id-film-dicekal_ID.xlsx",
           "size": 9493
+        }
+      }
+    },
+    {
+      "id": "id-film-oscar-indonesia",
+      "name": "Film Indonesia yang Diajukan ke Academy Award (Oscar)",
+      "category": "entertainment",
+      "record_count": 24,
+      "columns": [
+        "tahun_acara",
+        "judul_nominasi",
+        "judul_asli",
+        "sutradara",
+        "hasil"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perwakilan_Indonesia_untuk_Film_Internasional_Terbaik_pada_Academy_Award",
+      "updated": "2026-10",
+      "size": 6959,
+      "files": {
+        "csv": {
+          "name": "id-film-oscar-indonesia_ID.csv",
+          "size": 2250
+        },
+        "xlsx": {
+          "name": "id-film-oscar-indonesia_ID.xlsx",
+          "size": 8216
         }
       }
     },
