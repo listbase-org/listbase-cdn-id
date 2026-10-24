@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:15:45.909Z",
-  "total_datasets": 532,
-  "total_records": 641632,
+  "generated": "2026-10-24T02:15:48.060Z",
+  "total_datasets": 533,
+  "total_records": 642026,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -344,6 +344,32 @@
         "xlsx": {
           "name": "id-smk-jakarta_ID.xlsx",
           "size": 29164
+        }
+      }
+    },
+    {
+      "id": "id-acara-kuis-tv",
+      "name": "Daftar Acara Kuis & Permainan Televisi Indonesia",
+      "category": "entertainment",
+      "record_count": 394,
+      "columns": [
+        "judul",
+        "pembawa_acara",
+        "stasiun_tv",
+        "awal_tayang",
+        "akhir_tayang"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_acara_permainan_Indonesia",
+      "updated": "2026-10",
+      "size": 80036,
+      "files": {
+        "csv": {
+          "name": "id-acara-kuis-tv_ID.csv",
+          "size": 31808
+        },
+        "xlsx": {
+          "name": "id-acara-kuis-tv_ID.xlsx",
+          "size": 25716
         }
       }
     },
