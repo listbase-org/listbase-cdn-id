@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:50.980Z",
-  "total_datasets": 545,
-  "total_records": 642477,
+  "generated": "2026-10-25T02:06:53.395Z",
+  "total_datasets": 546,
+  "total_records": 642492,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -348,6 +348,35 @@
         "xlsx": {
           "name": "id-pdrb-provinsi-2025_ID.xlsx",
           "size": 7635
+        }
+      }
+    },
+    {
+      "id": "id-perusahaan-terbesar-fortune",
+      "name": "Daftar Perusahaan Terbesar di Indonesia (Fortune Indonesia)",
+      "category": "economy",
+      "record_count": 15,
+      "columns": [
+        "peringkat",
+        "nama",
+        "industri",
+        "pendapatan_miliar_rupiah",
+        "laba_miliar_rupiah",
+        "karyawan",
+        "kantor_pusat",
+        "tipe"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perusahaan_terbesar_di_Indonesia",
+      "updated": "2026-10",
+      "size": 6192,
+      "files": {
+        "csv": {
+          "name": "id-perusahaan-terbesar-fortune_ID.csv",
+          "size": 1364
+        },
+        "xlsx": {
+          "name": "id-perusahaan-terbesar-fortune_ID.xlsx",
+          "size": 7916
         }
       }
     },

@@ -1,0 +1,216 @@
+{
+  "id": "id-perusahaan-terbesar-fortune",
+  "name": "Daftar Perusahaan Terbesar di Indonesia (Fortune Indonesia)",
+  "title": "Daftar Perusahaan Terbesar di Indonesia (Fortune Indonesia)",
+  "description": "Peringkat perusahaan terbesar di Indonesia menurut Fortune Indonesia beserta pendapatan, laba, dan jumlah karyawan.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_perusahaan_terbesar_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_perusahaan_terbesar_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "industri",
+      "label": "Industri",
+      "type": "string"
+    },
+    {
+      "key": "pendapatan_miliar_rupiah",
+      "label": "Pendapatan Miliar Rupiah",
+      "type": "string"
+    },
+    {
+      "key": "laba_miliar_rupiah",
+      "label": "Laba Miliar Rupiah",
+      "type": "number"
+    },
+    {
+      "key": "karyawan",
+      "label": "Karyawan",
+      "type": "number"
+    },
+    {
+      "key": "kantor_pusat",
+      "label": "Kantor Pusat",
+      "type": "string"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "peringkat": "1",
+      "nama": "Pertamina",
+      "industri": "Minyak & Gas Bumi",
+      "pendapatan_miliar_rupiah": "1.189.743",
+      "laba_miliar_rupiah": "56.231",
+      "karyawan": "35.295",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "2",
+      "nama": "Perusahaan Listrik Negara",
+      "industri": "Utilitas",
+      "pendapatan_miliar_rupiah": "582.682",
+      "laba_miliar_rupiah": "7.015",
+      "karyawan": "49.979",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "3",
+      "nama": "Bank Rakyat Indonesia",
+      "industri": "Perbankan",
+      "pendapatan_miliar_rupiah": "324.329",
+      "laba_miliar_rupiah": "56.652",
+      "karyawan": "82.192",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "4",
+      "nama": "Astra International",
+      "industri": "Konglomerat",
+      "pendapatan_miliar_rupiah": "323.392",
+      "laba_miliar_rupiah": "32.769",
+      "karyawan": "133.667",
+      "kantor_pusat": "Jakarta",
+      "tipe": "Swasta"
+    },
+    {
+      "peringkat": "5",
+      "nama": "Bank Mandiri",
+      "industri": "Perbankan",
+      "pendapatan_miliar_rupiah": "212.965",
+      "laba_miliar_rupiah": "56.294",
+      "karyawan": "38.751",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "6",
+      "nama": "MIND ID",
+      "industri": "Pertambangan",
+      "pendapatan_miliar_rupiah": "159.461",
+      "laba_miliar_rupiah": "25.120",
+      "karyawan": "-",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "7",
+      "nama": "Telkom Indonesia",
+      "industri": "Telekomunikasi",
+      "pendapatan_miliar_rupiah": "146.742",
+      "laba_miliar_rupiah": "17.814",
+      "karyawan": "19.082",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "8",
+      "nama": "Barito Pacific",
+      "industri": "Petrokimia",
+      "pendapatan_miliar_rupiah": "128.058",
+      "laba_miliar_rupiah": "8.219",
+      "karyawan": "5.062",
+      "kantor_pusat": "Jakarta",
+      "tipe": "Swasta"
+    },
+    {
+      "peringkat": "9",
+      "nama": "Sumber Alfaria Trijaya",
+      "industri": "Ritel",
+      "pendapatan_miliar_rupiah": "126.737",
+      "laba_miliar_rupiah": "3.410",
+      "karyawan": "98.515",
+      "kantor_pusat": "Tangerang",
+      "tipe": "Swasta"
+    },
+    {
+      "peringkat": "10",
+      "nama": "Bank Central Asia",
+      "industri": "Perbankan",
+      "pendapatan_miliar_rupiah": "125.298",
+      "laba_miliar_rupiah": "57.537",
+      "karyawan": "27.682",
+      "kantor_pusat": "Jakarta",
+      "tipe": "Swasta"
+    },
+    {
+      "peringkat": "11",
+      "nama": "Indofood Sukses Makmur",
+      "industri": "Makanan dan Minuman",
+      "pendapatan_miliar_rupiah": "123.493",
+      "laba_miliar_rupiah": "10.685",
+      "karyawan": "98.874",
+      "kantor_pusat": "Jakarta",
+      "tipe": "Swasta"
+    },
+    {
+      "peringkat": "12",
+      "nama": "HM Sampoerna",
+      "industri": "Rokok dan Tembakau",
+      "pendapatan_miliar_rupiah": "112.172",
+      "laba_miliar_rupiah": "6.609",
+      "karyawan": "19.816",
+      "kantor_pusat": "Surabaya",
+      "tipe": "Swasta"
+    },
+    {
+      "peringkat": "13",
+      "nama": "Bank Negara Indonesia",
+      "industri": "Perbankan",
+      "pendapatan_miliar_rupiah": "94.039",
+      "laba_miliar_rupiah": "20.041",
+      "karyawan": "25.265",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "14",
+      "nama": "Pupuk Indonesia",
+      "industri": "Pupuk",
+      "pendapatan_miliar_rupiah": "90.402",
+      "laba_miliar_rupiah": "5.536",
+      "karyawan": "7.882",
+      "kantor_pusat": "Jakarta",
+      "tipe": "BUMN"
+    },
+    {
+      "peringkat": "15",
+      "nama": "Gudang Garam",
+      "industri": "Rokok dan Tembakau",
+      "pendapatan_miliar_rupiah": "89.370",
+      "laba_miliar_rupiah": "1.557",
+      "karyawan": "21.964",
+      "kantor_pusat": "Kediri",
+      "tipe": "Swasta"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Perusahaan Terbesar di Indonesia (Fortune Indonesia) - Free Download",
+    "description": "Peringkat perusahaan terbesar di Indonesia menurut Fortune Indonesia beserta pendapatan, laba, dan jumlah karyawan. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Perusahaan Terbesar di Indonesia (Fortune Indonesia) | ListBase",
+    "seo_description": "Download Daftar Perusahaan Terbesar di Indonesia (Fortune Indonesia) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_perusahaan_terbesar_di_Indonesia"
+    ]
+  }
+}
