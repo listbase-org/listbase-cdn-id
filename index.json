@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-24T02:16:04.688Z",
-  "total_datasets": 540,
-  "total_records": 642270,
+  "generated": "2026-10-25T02:06:41.397Z",
+  "total_datasets": 541,
+  "total_records": 642293,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -1092,6 +1092,30 @@
         "xlsx": {
           "name": "id-minuman-tradisional_ID.xlsx",
           "size": 10736
+        }
+      }
+    },
+    {
+      "id": "id-sambal-khas",
+      "name": "Daftar Sambal Khas Indonesia",
+      "category": "food",
+      "record_count": 23,
+      "columns": [
+        "nama",
+        "pulau",
+        "deskripsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_sambal_khas_Indonesia",
+      "updated": "2026-10",
+      "size": 10327,
+      "files": {
+        "csv": {
+          "name": "id-sambal-khas_ID.csv",
+          "size": 7532
+        },
+        "xlsx": {
+          "name": "id-sambal-khas_ID.xlsx",
+          "size": 9269
         }
       }
     },
