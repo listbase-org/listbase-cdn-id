@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:04.960Z",
-  "total_datasets": 551,
-  "total_records": 642648,
+  "generated": "2026-10-25T02:07:07.284Z",
+  "total_datasets": 552,
+  "total_records": 642678,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -13487,6 +13487,33 @@
         "xlsx": {
           "name": "id-klub-sepak-bola_ID.xlsx",
           "size": 59421
+        }
+      }
+    },
+    {
+      "id": "id-menteri-pemuda-olahraga",
+      "name": "Daftar Menteri Pemuda dan Olahraga Indonesia",
+      "category": "sports",
+      "record_count": 30,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Pemuda_dan_Olahraga_Indonesia",
+      "updated": "2026-10",
+      "size": 8554,
+      "files": {
+        "csv": {
+          "name": "id-menteri-pemuda-olahraga_ID.csv",
+          "size": 3042
+        },
+        "xlsx": {
+          "name": "id-menteri-pemuda-olahraga_ID.xlsx",
+          "size": 8474
         }
       }
     },
