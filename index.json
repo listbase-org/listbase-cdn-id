@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:46.204Z",
-  "total_datasets": 543,
-  "total_records": 642408,
+  "generated": "2026-10-25T02:06:48.394Z",
+  "total_datasets": 544,
+  "total_records": 642465,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -13270,6 +13270,33 @@
         "xlsx": {
           "name": "id-ipm-provinsi-2025_ID.xlsx",
           "size": 8476
+        }
+      }
+    },
+    {
+      "id": "id-menteri-sosial",
+      "name": "Daftar Menteri Sosial Indonesia",
+      "category": "society",
+      "record_count": 57,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Sosial_Indonesia",
+      "updated": "2026-10",
+      "size": 13782,
+      "files": {
+        "csv": {
+          "name": "id-menteri-sosial_ID.csv",
+          "size": 5031
+        },
+        "xlsx": {
+          "name": "id-menteri-sosial_ID.xlsx",
+          "size": 9777
         }
       }
     },

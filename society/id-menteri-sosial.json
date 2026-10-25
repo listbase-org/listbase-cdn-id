@@ -1,0 +1,512 @@
+{
+  "id": "id-menteri-sosial",
+  "name": "Daftar Menteri Sosial Indonesia",
+  "title": "Daftar Menteri Sosial Indonesia",
+  "description": "Daftar Menteri Sosial Republik Indonesia sejak 1945 beserta partai, kabinet, dan masa jabatan.",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Sosial_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Sosial_Indonesia",
+  "updated": "2026-10",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "partai",
+      "label": "Partai",
+      "type": "string"
+    },
+    {
+      "key": "kabinet",
+      "label": "Kabinet",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Mr. Iwa Kusumasumantri",
+      "partai": "Independen",
+      "kabinet": "Presidentil",
+      "mulai_menjabat": "19 Agustus 1945",
+      "akhir_menjabat": "14 November 1945"
+    },
+    {
+      "no": "2",
+      "nama": "Adjidarmo Tjokronegoro",
+      "partai": "Sosialis",
+      "kabinet": "Sjahrir I",
+      "mulai_menjabat": "14 November 1945",
+      "akhir_menjabat": "5 Desember 1945"
+    },
+    {
+      "no": "3",
+      "nama": "Sudarsono",
+      "partai": "Sosialis",
+      "kabinet": "Sjahrir I",
+      "mulai_menjabat": "5 Desember 1945",
+      "akhir_menjabat": "12 Maret 1946"
+    },
+    {
+      "no": "4",
+      "nama": "Maria Ulfah Santoso",
+      "partai": "Independen (Perwari–PPI)",
+      "kabinet": "Sjahrir II",
+      "mulai_menjabat": "12 Maret 1946",
+      "akhir_menjabat": "26 Juni 1946"
+    },
+    {
+      "no": "4",
+      "nama": "Maria Ulfah Santoso",
+      "partai": "Independen (Perwari–PPI)",
+      "kabinet": "Sjahrir III",
+      "mulai_menjabat": "2 Oktober 1946",
+      "akhir_menjabat": "26 Juni 1947"
+    },
+    {
+      "no": "5",
+      "nama": "Soeprodjo",
+      "partai": "PBI",
+      "kabinet": "Amir Sjarifuddin I",
+      "mulai_menjabat": "3 Juli 1947",
+      "akhir_menjabat": "11 November 1947"
+    },
+    {
+      "no": "5",
+      "nama": "Soeprodjo",
+      "partai": "PBI",
+      "kabinet": "Amir Sjarifuddin II",
+      "mulai_menjabat": "11 November 1947",
+      "akhir_menjabat": "29 Januari 1948"
+    },
+    {
+      "no": "6",
+      "nama": "Kusnan",
+      "partai": "Independen",
+      "kabinet": "Hatta I",
+      "mulai_menjabat": "29 Januari 1948",
+      "akhir_menjabat": "4 Agustus 1948"
+    },
+    {
+      "no": "—",
+      "nama": "Sutan Rasjid",
+      "partai": "Independen",
+      "kabinet": "Darurat",
+      "mulai_menjabat": "19 Desember 1948",
+      "akhir_menjabat": "13 Juli 1949"
+    },
+    {
+      "no": "(6)",
+      "nama": "Kusnan",
+      "partai": "Independen",
+      "kabinet": "Hatta II",
+      "mulai_menjabat": "4 Agustus 1949",
+      "akhir_menjabat": "20 Desember 1949"
+    },
+    {
+      "no": "—",
+      "nama": "Kosasih Purwanegara",
+      "partai": "Independen",
+      "kabinet": "RIS",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "6 September 1950"
+    },
+    {
+      "no": "(6)",
+      "nama": "Kusnan",
+      "partai": "Independen",
+      "kabinet": "Susanto",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "21 Januari 1950"
+    },
+    {
+      "no": "7",
+      "nama": "Hamdani",
+      "partai": "Independen",
+      "kabinet": "Halim",
+      "mulai_menjabat": "21 Januari 1950",
+      "akhir_menjabat": "6 September 1950"
+    },
+    {
+      "no": "8",
+      "nama": "F.S. Haryadi",
+      "partai": "Katolik",
+      "kabinet": "Natsir",
+      "mulai_menjabat": "6 September 1950",
+      "akhir_menjabat": "3 April 1951"
+    },
+    {
+      "no": "9",
+      "nama": "Sjamsuddin Sutan Makmur",
+      "partai": "Masyumi",
+      "kabinet": "Sukiman-Suwirjo",
+      "mulai_menjabat": "27 April 1951",
+      "akhir_menjabat": "3 April 1952"
+    },
+    {
+      "no": "10",
+      "nama": "Anwar Tjokroaminoto",
+      "partai": "PSII",
+      "kabinet": "Wilopo",
+      "mulai_menjabat": "3 April 1952",
+      "akhir_menjabat": "5 Mei 1953"
+    },
+    {
+      "no": "11",
+      "nama": "Raden Panji Suroso",
+      "partai": "Parindra",
+      "kabinet": "Wilopo",
+      "mulai_menjabat": "5 Mei 1953",
+      "akhir_menjabat": "30 Juli 1953"
+    },
+    {
+      "no": "11",
+      "nama": "Raden Panji Suroso",
+      "partai": "Parindra",
+      "kabinet": "Ali Sastroamidjojo I",
+      "mulai_menjabat": "30 Juli 1953",
+      "akhir_menjabat": "12 Agustus 1955"
+    },
+    {
+      "no": "12",
+      "nama": "Sudibjo",
+      "partai": "PSII",
+      "kabinet": "Burhanuddin Harahap",
+      "mulai_menjabat": "12 Agustus 1955",
+      "akhir_menjabat": "18 Januari 1956"
+    },
+    {
+      "no": "—",
+      "nama": "Sutomo (Pelaksana Tugas)",
+      "partai": "PRI",
+      "kabinet": "Burhanuddin Harahap",
+      "mulai_menjabat": "18 Januari 1956",
+      "akhir_menjabat": "24 Maret 1956"
+    },
+    {
+      "no": "13",
+      "nama": "Fatah Jasin",
+      "partai": "NU",
+      "kabinet": "Ali Sastroamidjojo II",
+      "mulai_menjabat": "24 Maret 1956",
+      "akhir_menjabat": "14 Maret 1957"
+    },
+    {
+      "no": "14",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Karya",
+      "mulai_menjabat": "29 April 1957",
+      "akhir_menjabat": "24 Mei 1957"
+    },
+    {
+      "no": "15",
+      "nama": "Muljadi Djojomartono",
+      "partai": "Masyumi",
+      "kabinet": "Karya",
+      "mulai_menjabat": "25 Mei 1957",
+      "akhir_menjabat": "6 Juli 1959"
+    },
+    {
+      "no": "16",
+      "nama": "Mohammad Yamin",
+      "partai": "Independen",
+      "kabinet": "Kerja I",
+      "mulai_menjabat": "10 Juli 1959",
+      "akhir_menjabat": "30 Juli 1959"
+    },
+    {
+      "no": "(15)",
+      "nama": "Muljadi Djojomartono",
+      "partai": "Masyumi",
+      "kabinet": "Kerja I",
+      "mulai_menjabat": "10 Juli 1959",
+      "akhir_menjabat": "18 Februari 1960"
+    },
+    {
+      "no": "(15)",
+      "nama": "Muljadi Djojomartono",
+      "partai": "Masyumi",
+      "kabinet": "Kerja II",
+      "mulai_menjabat": "18 Februari 1960",
+      "akhir_menjabat": "6 Maret 1962"
+    },
+    {
+      "no": "17",
+      "nama": "Rusiah Sardjono",
+      "partai": "Independen",
+      "kabinet": "Kerja III",
+      "mulai_menjabat": "6 Maret 1962",
+      "akhir_menjabat": "13 November 1963"
+    },
+    {
+      "no": "17",
+      "nama": "Rusiah Sardjono",
+      "partai": "Independen",
+      "kabinet": "Kerja IV",
+      "mulai_menjabat": "13 November 1963",
+      "akhir_menjabat": "27 Agustus 1964"
+    },
+    {
+      "no": "17",
+      "nama": "Rusiah Sardjono",
+      "partai": "Independen",
+      "kabinet": "Dwikora I",
+      "mulai_menjabat": "27 Agustus 1964",
+      "akhir_menjabat": "22 Februari 1966"
+    },
+    {
+      "no": "17",
+      "nama": "Rusiah Sardjono",
+      "partai": "Independen",
+      "kabinet": "Dwikora II",
+      "mulai_menjabat": "24 Februari 1966",
+      "akhir_menjabat": "26 Maret 1966"
+    },
+    {
+      "no": "(15)",
+      "nama": "Muljadi Djojomartono",
+      "partai": "Masyumi",
+      "kabinet": "Dwikora III",
+      "mulai_menjabat": "28 Maret 1966",
+      "akhir_menjabat": "25 Juli 1966"
+    },
+    {
+      "no": "18",
+      "nama": "Albert M. Tambunan",
+      "partai": "Parkindo",
+      "kabinet": "Ampera I",
+      "mulai_menjabat": "28 Juli 1966",
+      "akhir_menjabat": "14 Oktober 1967"
+    },
+    {
+      "no": "18",
+      "nama": "Albert M. Tambunan",
+      "partai": "Parkindo",
+      "kabinet": "Ampera II",
+      "mulai_menjabat": "14 Oktober 1967",
+      "akhir_menjabat": "10 Juni 1968"
+    },
+    {
+      "no": "18",
+      "nama": "Albert M. Tambunan",
+      "partai": "Parkindo",
+      "kabinet": "Pembangunan I",
+      "mulai_menjabat": "10 Juni 1968",
+      "akhir_menjabat": "12 Desember 1970"
+    },
+    {
+      "no": "—",
+      "nama": "Idham Chalid (Pelaksana Tugas)",
+      "partai": "NU",
+      "kabinet": "Pembangunan I",
+      "mulai_menjabat": "12 Desember 1970",
+      "akhir_menjabat": "11 September 1971"
+    },
+    {
+      "no": "19",
+      "nama": "Mohammad Syafa'at Mintaredja",
+      "partai": "Parmusi",
+      "kabinet": "Pembangunan I",
+      "mulai_menjabat": "11 September 1971",
+      "akhir_menjabat": "27 Maret 1973"
+    },
+    {
+      "no": "19",
+      "nama": "Mohammad Syafa'at Mintaredja",
+      "partai": "PPP",
+      "kabinet": "Pembangunan II",
+      "mulai_menjabat": "28 Maret 1973",
+      "akhir_menjabat": "29 Maret 1978"
+    },
+    {
+      "no": "20",
+      "nama": "Sapardjo",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan III",
+      "mulai_menjabat": "29 Maret 1978",
+      "akhir_menjabat": "19 Maret 1983"
+    },
+    {
+      "no": "21",
+      "nama": "Nani Soedarsono",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan IV",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "22",
+      "nama": "Haryati Soebadio",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan V",
+      "mulai_menjabat": "23 Maret 1988",
+      "akhir_menjabat": "17 Maret 1993"
+    },
+    {
+      "no": "23",
+      "nama": "Endang Kusuma Inten",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VI",
+      "mulai_menjabat": "19 Maret 1993",
+      "akhir_menjabat": "11 Maret 1998"
+    },
+    {
+      "no": "24",
+      "nama": "St. Hardijanti Rukmana",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VII",
+      "mulai_menjabat": "16 Maret 1998",
+      "akhir_menjabat": "21 Mei 1998"
+    },
+    {
+      "no": "25",
+      "nama": "Justika Baharsjah",
+      "partai": "Golkar",
+      "kabinet": "Reformasi Pembangunan",
+      "mulai_menjabat": "23 Mei 1998",
+      "akhir_menjabat": "20 Oktober 1999"
+    },
+    {
+      "no": "26",
+      "nama": "Anak Agung Gde Agung",
+      "partai": "Independen",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "20 Oktober 1999",
+      "akhir_menjabat": "28 Agustus 2000"
+    },
+    {
+      "no": "Posisi dialihkan ke Menteri Kesehatan dan Kesejahteraan Sosial",
+      "nama": "Posisi dialihkan ke Menteri Kesehatan dan Kesejahteraan Sosial",
+      "partai": "Posisi dialihkan ke Menteri Kesehatan dan Kesejahteraan Sosial",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "28 Agustus 2000",
+      "akhir_menjabat": "23 Juli 2001"
+    },
+    {
+      "no": "27",
+      "nama": "Bachtiar Chamsyah",
+      "partai": "PPP",
+      "kabinet": "Gotong Royong",
+      "mulai_menjabat": "10 Agustus 2001",
+      "akhir_menjabat": "20 Oktober 2004"
+    },
+    {
+      "no": "27",
+      "nama": "Bachtiar Chamsyah",
+      "partai": "PPP",
+      "kabinet": "Indonesia Bersatu",
+      "mulai_menjabat": "21 Oktober 2004",
+      "akhir_menjabat": "20 Oktober 2009"
+    },
+    {
+      "no": "28",
+      "nama": "Salim Segaf Al-Jufri",
+      "partai": "PKS",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "22 Oktober 2009",
+      "akhir_menjabat": "20 Oktober 2014"
+    },
+    {
+      "no": "29",
+      "nama": "Khofifah Indar Parawansa",
+      "partai": "PKB",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "27 Oktober 2014",
+      "akhir_menjabat": "17 Januari 2018"
+    },
+    {
+      "no": "30",
+      "nama": "Idrus Marham",
+      "partai": "Golkar",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "17 Januari 2018",
+      "akhir_menjabat": "24 Agustus 2018"
+    },
+    {
+      "no": "31",
+      "nama": "Agus Gumiwang Kartasasmita",
+      "partai": "Golkar",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "24 Agustus 2018",
+      "akhir_menjabat": "20 Oktober 2019"
+    },
+    {
+      "no": "32",
+      "nama": "Juliari Batubara",
+      "partai": "PDIP",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "23 Oktober 2019",
+      "akhir_menjabat": "6 Desember 2020"
+    },
+    {
+      "no": "—",
+      "nama": "Muhadjir Effendy (ad-interim)",
+      "partai": "Independen",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "6 Desember 2020",
+      "akhir_menjabat": "23 Desember 2020"
+    },
+    {
+      "no": "33",
+      "nama": "Tri Rismaharini",
+      "partai": "PDIP",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "23 Desember 2020",
+      "akhir_menjabat": "6 September 2024"
+    },
+    {
+      "no": "—",
+      "nama": "Muhadjir Effendy (pelaksana tugas)",
+      "partai": "Independen",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "6 September 2024",
+      "akhir_menjabat": "11 September 2024"
+    },
+    {
+      "no": "34",
+      "nama": "Saifullah Yusuf",
+      "partai": "PKB",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "11 September 2024",
+      "akhir_menjabat": "20 Oktober 2024"
+    },
+    {
+      "no": "34",
+      "nama": "Saifullah Yusuf",
+      "partai": "PKB",
+      "kabinet": "Merah Putih",
+      "mulai_menjabat": "21 Oktober 2024",
+      "akhir_menjabat": "Petahana"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Sosial Indonesia - Free Download",
+    "description": "Daftar Menteri Sosial Republik Indonesia sejak 1945 beserta partai, kabinet, dan masa jabatan. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Sosial Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Sosial Indonesia — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Sosial_Indonesia"
+    ]
+  }
+}
