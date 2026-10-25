@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:07.284Z",
-  "total_datasets": 552,
-  "total_records": 642678,
+  "generated": "2026-10-25T02:07:09.677Z",
+  "total_datasets": 553,
+  "total_records": 642686,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -183,6 +183,31 @@
         "xlsx": {
           "name": "id-perusahaan-kelapa-sawit_ID.xlsx",
           "size": 7790
+        }
+      }
+    },
+    {
+      "id": "id-rumpun-sapi-lokal",
+      "name": "Rumpun Sapi Lokal Indonesia",
+      "category": "agriculture",
+      "record_count": 8,
+      "columns": [
+        "nama",
+        "subspesies",
+        "asal",
+        "fungsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_rumpun_sapi",
+      "updated": "2026-10",
+      "size": 2398,
+      "files": {
+        "csv": {
+          "name": "id-rumpun-sapi-lokal_ID.csv",
+          "size": 391
+        },
+        "xlsx": {
+          "name": "id-rumpun-sapi-lokal_ID.xlsx",
+          "size": 6973
         }
       }
     },

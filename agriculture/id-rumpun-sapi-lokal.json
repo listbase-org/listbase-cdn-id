@@ -1,0 +1,94 @@
+{
+  "id": "id-rumpun-sapi-lokal",
+  "name": "Rumpun Sapi Lokal Indonesia",
+  "title": "Rumpun Sapi Lokal Indonesia",
+  "description": "Daftar rumpun (ras) sapi asal Indonesia beserta subspesies dan fungsinya.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_rumpun_sapi",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_rumpun_sapi",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "subspesies",
+      "label": "Subspesies",
+      "type": "string"
+    },
+    {
+      "key": "asal",
+      "label": "Asal",
+      "type": "string"
+    },
+    {
+      "key": "fungsi",
+      "label": "Fungsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Sapi aceh",
+      "subspesies": "Taurus",
+      "asal": "Indonesia",
+      "fungsi": "Potong"
+    },
+    {
+      "nama": "Sapi bali",
+      "subspesies": "Banteng",
+      "asal": "Indonesia",
+      "fungsi": "Potong"
+    },
+    {
+      "nama": "Sapi jabres",
+      "subspesies": "",
+      "asal": "Indonesia",
+      "fungsi": ""
+    },
+    {
+      "nama": "Sapi madura",
+      "subspesies": "Persilangan banteng-indicus",
+      "asal": "Indonesia",
+      "fungsi": "Potong, perah, pekerja, pebalap"
+    },
+    {
+      "nama": "Sapi peranakan ongole",
+      "subspesies": "",
+      "asal": "Indonesia",
+      "fungsi": ""
+    },
+    {
+      "nama": "Sapi pesisir",
+      "subspesies": "",
+      "asal": "Indonesia",
+      "fungsi": ""
+    },
+    {
+      "nama": "Sapi sumba ongole",
+      "subspesies": "",
+      "asal": "Indonesia",
+      "fungsi": ""
+    },
+    {
+      "nama": "Sapi sumbawa",
+      "subspesies": "",
+      "asal": "Indonesia",
+      "fungsi": ""
+    }
+  ],
+  "meta": {
+    "title": "Rumpun Sapi Lokal Indonesia - Free Download",
+    "description": "Daftar rumpun (ras) sapi asal Indonesia beserta subspesies dan fungsinya. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rumpun Sapi Lokal Indonesia | ListBase",
+    "seo_description": "Download Rumpun Sapi Lokal Indonesia — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_rumpun_sapi"
+    ]
+  }
+}
