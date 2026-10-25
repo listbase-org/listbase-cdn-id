@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:12.422Z",
-  "total_datasets": 554,
-  "total_records": 642701,
+  "generated": "2026-10-25T02:07:14.688Z",
+  "total_datasets": 555,
+  "total_records": 642718,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -106,6 +106,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "id-menteri-kehutanan",
+      "name": "Daftar Menteri Kehutanan Indonesia",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kehutanan_Indonesia",
+      "updated": "2026-10",
+      "size": 5558,
+      "files": {
+        "csv": {
+          "name": "id-menteri-kehutanan_ID.csv",
+          "size": 1770
+        },
+        "xlsx": {
+          "name": "id-menteri-kehutanan_ID.xlsx",
+          "size": 7736
+        }
+      }
+    },
     {
       "id": "id-menteri-pertanian",
       "name": "Daftar Menteri Pertanian Indonesia",

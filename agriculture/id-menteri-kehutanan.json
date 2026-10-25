@@ -1,0 +1,192 @@
+{
+  "id": "id-menteri-kehutanan",
+  "name": "Daftar Menteri Kehutanan Indonesia",
+  "title": "Daftar Menteri Kehutanan Indonesia",
+  "description": "Daftar Menteri Kehutanan Republik Indonesia sejak 1964 beserta partai, kabinet, dan masa jabatan.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kehutanan_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kehutanan_Indonesia",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "partai",
+      "label": "Partai",
+      "type": "string"
+    },
+    {
+      "key": "kabinet",
+      "label": "Kabinet",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Soedjarwo",
+      "partai": "Independen",
+      "kabinet": "Dwikora I",
+      "mulai_menjabat": "27 Agustus 1964",
+      "akhir_menjabat": "22 Februari 1966"
+    },
+    {
+      "no": "1",
+      "nama": "Soedjarwo",
+      "partai": "Independen",
+      "kabinet": "Dwikora II",
+      "mulai_menjabat": "22 Februari 1966",
+      "akhir_menjabat": "28 Maret 1966"
+    },
+    {
+      "no": "1",
+      "nama": "Soedjarwo",
+      "partai": "Independen",
+      "kabinet": "Dwikora III",
+      "mulai_menjabat": "28 Maret 1966",
+      "akhir_menjabat": "25 Juli 1966"
+    },
+    {
+      "no": "(1)",
+      "nama": "Soedjarwo",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan IV",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "2",
+      "nama": "Hasjrul Harahap",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan V",
+      "mulai_menjabat": "23 Maret 1988",
+      "akhir_menjabat": "17 Maret 1993"
+    },
+    {
+      "no": "3",
+      "nama": "Djamaluddin Suryohadikusumo",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VI",
+      "mulai_menjabat": "19 Maret 1993",
+      "akhir_menjabat": "11 Maret 1998"
+    },
+    {
+      "no": "4",
+      "nama": "Sumahadi",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VII",
+      "mulai_menjabat": "16 Maret 1998",
+      "akhir_menjabat": "21 Mei 1998"
+    },
+    {
+      "no": "5",
+      "nama": "Muslimin Nasution",
+      "partai": "Independen",
+      "kabinet": "Reformasi Pembangunan",
+      "mulai_menjabat": "23 Mei 1998",
+      "akhir_menjabat": "20 Oktober 1999"
+    },
+    {
+      "no": "6",
+      "nama": "Nur Mahmudi Ismail",
+      "partai": "PKS",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "29 Oktober 1999",
+      "akhir_menjabat": "28 Agustus 2000"
+    },
+    {
+      "no": "Digabungkan dengan Menteri Pertanian",
+      "nama": "Digabungkan dengan Menteri Pertanian",
+      "partai": "Digabungkan dengan Menteri Pertanian",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "28 Agustus 2000",
+      "akhir_menjabat": "23 Juli 2001"
+    },
+    {
+      "no": "7",
+      "nama": "Muhammad Prakosa",
+      "partai": "PDIP",
+      "kabinet": "Gotong Royong",
+      "mulai_menjabat": "10 Agustus 2001",
+      "akhir_menjabat": "20 Oktober 2004"
+    },
+    {
+      "no": "8",
+      "nama": "MS Kaban",
+      "partai": "PBB",
+      "kabinet": "Indonesia Bersatu",
+      "mulai_menjabat": "21 Oktober 2004",
+      "akhir_menjabat": "20 Oktober 2009"
+    },
+    {
+      "no": "9",
+      "nama": "Zulkifli Hasan",
+      "partai": "PAN",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "22 Oktober 2009",
+      "akhir_menjabat": "1 Oktober 2014"
+    },
+    {
+      "no": "—",
+      "nama": "Chairul Tanjung (pelaksana tugas)",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "1 Oktober 2014",
+      "akhir_menjabat": "20 Oktober 2014"
+    },
+    {
+      "no": "Digabungkan dengan Menteri Lingkungan Hidup",
+      "nama": "Digabungkan dengan Menteri Lingkungan Hidup",
+      "partai": "Digabungkan dengan Menteri Lingkungan Hidup",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "27 Oktober 2014",
+      "akhir_menjabat": "20 Oktober 2019"
+    },
+    {
+      "no": "Digabungkan dengan Menteri Lingkungan Hidup",
+      "nama": "Digabungkan dengan Menteri Lingkungan Hidup",
+      "partai": "Digabungkan dengan Menteri Lingkungan Hidup",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "23 Oktober 2019",
+      "akhir_menjabat": "20 Oktober 2024"
+    },
+    {
+      "no": "10",
+      "nama": "Raja Juli Antoni",
+      "partai": "PSI",
+      "kabinet": "Merah Putih",
+      "mulai_menjabat": "21 Oktober 2024",
+      "akhir_menjabat": "Petahana"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Kehutanan Indonesia - Free Download",
+    "description": "Daftar Menteri Kehutanan Republik Indonesia sejak 1964 beserta partai, kabinet, dan masa jabatan. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Kehutanan Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Kehutanan Indonesia — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Kehutanan_Indonesia"
+    ]
+  }
+}
