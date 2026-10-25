@@ -1,0 +1,135 @@
+{
+  "id": "id-desa-wisata",
+  "name": "Daftar Desa Wisata di Indonesia",
+  "title": "Daftar Desa Wisata di Indonesia",
+  "description": "Desa wisata pilihan di Indonesia beserta lokasi, kategori penghargaan, dan keterangan singkat.",
+  "category": "tourism",
+  "source": "https://id.wikipedia.org/wiki/Daftar_desa_wisata_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_desa_wisata_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "nama_desa",
+      "label": "Nama Desa",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "keterangan",
+      "label": "Keterangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1.",
+      "nama_desa": "Desa Sungai Nyalo, Painan",
+      "lokasi": "Koto XI Tarusan, Pesisir Selatan, Sumatera Barat",
+      "kategori": "Perkembangan Tercepat",
+      "keterangan": "Desa adat berbentuk nagari ini dikenal sebagai Kawasan Mandeh Painan. Kawasan pesisir pantai ini miliki pantai dan bukit yang menjadi andalan. Selain Bukit Mandeh yang menawarkan pemandangan batu-batu berbentuk pulau, ada pula Pantai Carocok yang terkenal dengan Pulau Cubadak yang masih sangat asri. Meski belum begitu dikenal di dalam negeri, turis asing banyak yang berwisata ke kawasan yang dijuluki \"Paradise of the South\" ini."
+    },
+    {
+      "no": "2.",
+      "nama_desa": "Desa Madobak, Mentawai",
+      "lokasi": "Siberut Selatan, Kepulauan Mentawai, Sumatera Barat",
+      "kategori": "Desa Adat Terbaik",
+      "keterangan": "Desa ini memiliki budaya tato yang diyakini sebagai budaya tato tertua di dunia."
+    },
+    {
+      "no": "3.",
+      "nama_desa": "Desa Taman Sari, Banyuwangi",
+      "lokasi": "Banyuwangi, Jawa Timur",
+      "kategori": "Jejaring Bisnis",
+      "keterangan": "Berada di kawasan Gunung Ijen di Kecamatan Licin yang populer dengan wisata alamnya, Desa Taman Sari yang diapit Kampung Penambang, Kampung Bunga dan Kampung Susu ini diresmikan sebagai desa wisata pada pertengahan 2016. Selain kawah gunung di Ijen, integrasi keunikan budaya di tiga kampung di Taman Sari, membuat wisatawan tertarik untuk mampir dan melihat keunikan budaya masyarakat Osing. Osing merupakan suku asli di Kabupaten Banyuwangi, Jawa Timur. Pentas musik kelas dunia pun diselenggarakan di sini, Ijen Summer Festival merupakan salah satunya."
+    },
+    {
+      "no": "4.",
+      "nama_desa": "Desa Pujon Kidul",
+      "lokasi": "Pujon, Malang, Jawa Timur",
+      "kategori": "Agro",
+      "keterangan": "Perpaduan gunung dan sawah tak pernah gagal manjakan mata. Dinaungi Rumah Kampung Lestari, kegiatan argobisnis yang dilakukan warga menjadi daya tarik tersendiri. Ada dusun pengolah susu sapi, budidaya tanaman obat keluarga, hingga perkebunan seperti markisa, apel dan jambu."
+    },
+    {
+      "no": "5.",
+      "nama_desa": "Desa Seigentung",
+      "lokasi": "Kabupaten Gunungkidul, Yogyakarta",
+      "kategori": "Iptek",
+      "keterangan": "Gunungkidul merupakan salah satu kabupaten di DI Yogyakarta yang berkembang karena potensi wisatanya. Berada di dataran tinggi yang terbentuk atas muntahan gunungapi, Gunungkidul menyimpan beragam ilmu pengetahuan."
+    },
+    {
+      "no": "6.",
+      "nama_desa": "Desa Ubud, Gianyar",
+      "lokasi": "Kabupaten Gianyar, Bali",
+      "kategori": "Budaya",
+      "keterangan": "Kemasyuran Desa Ubud, Kabupaten Gianyar, Bali, telah merambah dunia, akibat buku \"Eat, Pray, Love\" karangan Elizabeth Gilbert. Juga film adaptasi buku tersebut, yang dibintangi Julia Roberts. Buku dan film ini secara utuh mampu gambarkan keindahan budaya Ubud, beserta keunikan masyarakatnya. Ubud telah menjadi alasan bagi pelancong dalam dan luar negeri, untuk datang ke Indonesia."
+    },
+    {
+      "no": "7.",
+      "nama_desa": "Desa Waturaka, Ende",
+      "lokasi": "Kelimutu, Ende Tengah, Ende, Nusa Tenggara Timur",
+      "kategori": "Alam",
+      "keterangan": "Terletak tak jauh dari kawasan terkenal Danau Kelimutu. Selain pemandangan cantik, desa ini mengusung konsep wisata yang sangat unik, yaitu melibatkan wisatawan dalam kegiatan sehari-hari. Wisatawan yang berkunjung akan tinggal di rumah penduduk, lalu melakukan kegiatan sebagaimana keseharaian warga. Jadi jangan heran, jika tiba di sana melihat bule yang mencangkul di ladang, mengangkat batu untuk bangunan rumah, maupun mengajar bahasa Inggris di sekolah."
+    },
+    {
+      "no": "8.",
+      "nama_desa": "Desa Ponggok, Klaten",
+      "lokasi": "Polanharjo, Klaten, Jawa Tengah",
+      "kategori": "Pemberdayaan Masyarakat",
+      "keterangan": "Umbul Ponggok di Desa Ponggok, Kecamatan Polanharjo, bisa jadi merupakan lokasi wisata paling populer se-Kabupaten Klaten, Jawa Tengah. Tempat berbentuk kolam alami ini, dikenal sebagai tempat belajar bagi para penyelam pemula. Yang menarik adalah, adanya beragam instalasi bawah air yang sangat seru untuk pecinta foto. Salah satu dampak dari adanya Umbul Ponggok, warga desa di sekitar lokasi wisata pun ikut merasakan manfaat. Desa ini mampu hasilkan Rp 6,5 miliar dalam setahun."
+    },
+    {
+      "no": "9.",
+      "nama_desa": "Desa Teluk Meranti",
+      "lokasi": "Pelalawan, Riau",
+      "kategori": "Kreatif",
+      "keterangan": "Terletak di Kabupaten Pelalawan, Riau, Desa Teluk Meranti menjadi salah satu desa yang dikenal peselancar dunia. Meski tidak memiliki ombak sebaik di Kepulauan Nias, ombak bono telah dijajal peselancar dunia. Sebab di isnilah satu-satunya tempat di mana wisatawan dapat berselancar di sungai, bukan laut. Ombak bono merupakan gelombang air yang terletak di muara Sungai Kampar, Pelalawan, Riau. Kreativitas pengelola wisata setempat mampu promosikan potensi tersebut secara kreatif."
+    },
+    {
+      "no": "10.",
+      "nama_desa": "Desa Bontagula",
+      "lokasi": "Bontang, Kalimantan Timur",
+      "kategori": "Maritim",
+      "keterangan": "Menjadi wilayah industri tak membuat Kabupaten Bontang, Kalimantan Timur menjadi tak menarik untuk dikunjungi. Posisi Bontang yang diapit laut, membuat bibir pantainya sangat indah. Salah satu keindahan maritim terbaik yang dapat dikunjungi di Bontang adalah Desa Bontagula. Dengan menjadikan keindahan laut dan aktivitas warga pesisir pantai sebagai atraksi utama, desa ini diganjar penghargaan."
+    },
+    {
+      "no": "11.",
+      "nama_desa": "Desa Kasongan",
+      "lokasi": "Kasihan, Bantul, Yogyakarta",
+      "kategori": "Sentra Gerabah",
+      "keterangan": "Gerabah Kasongan punya sejarah panjang dan diperkirakan sudah ada sejak abad ke-17. Lokasi yang sekarang menjadi rumah bagi lebih dari 400 UKM ini dulunya merupakan tempat kundi atau gundi, yaitu para pembuat kendi, kuali, dan semua jenis peralatan dapur dari tanah liat."
+    },
+    {
+      "no": "12.",
+      "nama_desa": "Desa Wisata Tinalah",
+      "lokasi": "Samigaluh, Kulon Progo, Yogyakarta",
+      "kategori": "Alam, Budaya, Sejarah",
+      "keterangan": "Berada di kawasan Pegunungan Menoreh Samigaluh Kulon Progo. Desa Wisata Tinalah merupakan desa wisata yang terletak di kawasan Sungai Tinalah dan Pegunungan Menoreh yang memiliki konsep penyatuan alam dan nilai-nilai budaya. Paket menarik dan berbagai kegiatan di desa wisata yang disediakan di sini, seperti: Menginap di Joglo Wiguna dan Omahku, menginap bersama alam, menginap di rumah Joglo, out bound (mancakrida: ina), camping area, makrab Jogja, Tinalah Tubing, family dan community gathering, Tinalah Trekking, susur Sungai Tinalah, Joglo Meeting Room, Live in, wisata alam di Puncak Kleco."
+    }
+  ],
+  "meta": {
+    "title": "Daftar Desa Wisata di Indonesia - Free Download",
+    "description": "Desa wisata pilihan di Indonesia beserta lokasi, kategori penghargaan, dan keterangan singkat. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Desa Wisata di Indonesia | ListBase",
+    "seo_description": "Download Daftar Desa Wisata di Indonesia — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_desa_wisata_di_Indonesia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:48.394Z",
-  "total_datasets": 544,
-  "total_records": 642465,
+  "generated": "2026-10-25T02:06:50.980Z",
+  "total_datasets": 545,
+  "total_records": 642477,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -14156,6 +14156,32 @@
         "xlsx": {
           "name": "time-zodiac-signs_ID.xlsx",
           "size": 8773
+        }
+      }
+    },
+    {
+      "id": "id-desa-wisata",
+      "name": "Daftar Desa Wisata di Indonesia",
+      "category": "tourism",
+      "record_count": 12,
+      "columns": [
+        "no",
+        "nama_desa",
+        "lokasi",
+        "kategori",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_desa_wisata_di_Indonesia",
+      "updated": "2026-10",
+      "size": 8407,
+      "files": {
+        "csv": {
+          "name": "id-desa-wisata_ID.csv",
+          "size": 5641
+        },
+        "xlsx": {
+          "name": "id-desa-wisata_ID.xlsx",
+          "size": 9464
         }
       }
     },
