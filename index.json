@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:43.803Z",
-  "total_datasets": 542,
-  "total_records": 642341,
+  "generated": "2026-10-25T02:06:46.204Z",
+  "total_datasets": 543,
+  "total_records": 642408,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -5486,6 +5486,32 @@
         "xlsx": {
           "name": "id-upt-kesehatan-lanjutan-kemenkes_ID.xlsx",
           "size": 8370
+        }
+      }
+    },
+    {
+      "id": "id-gubernur-jenderal-hindia-belanda",
+      "name": "Daftar Gubernur-Jenderal Hindia Belanda (1610–1949)",
+      "category": "history",
+      "record_count": 67,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Gubernur-Jenderal_Hindia_Belanda",
+      "updated": "2026-10",
+      "size": 31173,
+      "files": {
+        "csv": {
+          "name": "id-gubernur-jenderal-hindia-belanda_ID.csv",
+          "size": 22014
+        },
+        "xlsx": {
+          "name": "id-gubernur-jenderal-hindia-belanda_ID.xlsx",
+          "size": 15487
         }
       }
     },
