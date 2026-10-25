@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:41.397Z",
-  "total_datasets": 541,
-  "total_records": 642293,
+  "generated": "2026-10-25T02:06:43.803Z",
+  "total_datasets": 542,
+  "total_records": 642341,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -5434,6 +5434,33 @@
         "xlsx": {
           "name": "id-wilayah-administratif_ID.xlsx",
           "size": 204335
+        }
+      }
+    },
+    {
+      "id": "id-menteri-kesehatan",
+      "name": "Daftar Menteri Kesehatan Indonesia",
+      "category": "health",
+      "record_count": 48,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kesehatan_Indonesia",
+      "updated": "2026-10",
+      "size": 11745,
+      "files": {
+        "csv": {
+          "name": "id-menteri-kesehatan_ID.csv",
+          "size": 4087
+        },
+        "xlsx": {
+          "name": "id-menteri-kesehatan_ID.xlsx",
+          "size": 9148
         }
       }
     },

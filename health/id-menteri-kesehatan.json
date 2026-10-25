@@ -1,0 +1,440 @@
+{
+  "id": "id-menteri-kesehatan",
+  "name": "Daftar Menteri Kesehatan Indonesia",
+  "title": "Daftar Menteri Kesehatan Indonesia",
+  "description": "Daftar Menteri Kesehatan Republik Indonesia sejak 1945 beserta partai, kabinet, dan masa jabatan.",
+  "category": "health",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kesehatan_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kesehatan_Indonesia",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "partai",
+      "label": "Partai",
+      "type": "string"
+    },
+    {
+      "key": "kabinet",
+      "label": "Kabinet",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Boentaran Martoatmodjo",
+      "partai": "Independen",
+      "kabinet": "Presidentil",
+      "mulai_menjabat": "19 Agustus 1945",
+      "akhir_menjabat": "14 November 1945"
+    },
+    {
+      "no": "2",
+      "nama": "Darma Setiawan",
+      "partai": "Independen",
+      "kabinet": "Sjahrir I",
+      "mulai_menjabat": "14 November 1945",
+      "akhir_menjabat": "12 Maret 1946"
+    },
+    {
+      "no": "2",
+      "nama": "Darma Setiawan",
+      "partai": "Independen",
+      "kabinet": "Sjahrir II",
+      "mulai_menjabat": "12 Maret 1946",
+      "akhir_menjabat": "2 Oktober 1946"
+    },
+    {
+      "no": "2",
+      "nama": "Darma Setiawan",
+      "partai": "Independen",
+      "kabinet": "Sjahrir III",
+      "mulai_menjabat": "2 Oktober 1946",
+      "akhir_menjabat": "26 Juni 1947"
+    },
+    {
+      "no": "3",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Amir Sjarifuddin I",
+      "mulai_menjabat": "3 Juli 1947",
+      "akhir_menjabat": "11 November 1947"
+    },
+    {
+      "no": "3",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Amir Sjarifuddin II",
+      "mulai_menjabat": "11 November 1947",
+      "akhir_menjabat": "29 Januari 1948"
+    },
+    {
+      "no": "3",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Hatta I",
+      "mulai_menjabat": "29 Januari 1948",
+      "akhir_menjabat": "4 Agustus 1949"
+    },
+    {
+      "no": "—",
+      "nama": "Mananti Sitompul",
+      "partai": "Parkindo",
+      "kabinet": "Darurat",
+      "mulai_menjabat": "19 Desember 1948",
+      "akhir_menjabat": "14 Maret 1949"
+    },
+    {
+      "no": "—",
+      "nama": "Soekiman Wirjosandjojo",
+      "partai": "Masyumi",
+      "kabinet": "Darurat",
+      "mulai_menjabat": "14 Maret 1949",
+      "akhir_menjabat": "13 Juli 1949"
+    },
+    {
+      "no": "—",
+      "nama": "Surono (ad-interim)",
+      "partai": "Independen",
+      "kabinet": "Hatta II",
+      "mulai_menjabat": "4 Agustus 1949",
+      "akhir_menjabat": "1 Desember 1949"
+    },
+    {
+      "no": "(3)",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Hatta II",
+      "mulai_menjabat": "1 Desember 1949",
+      "akhir_menjabat": "14 Desember 1949"
+    },
+    {
+      "no": "(3)",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "RIS",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "6 September 1950"
+    },
+    {
+      "no": "4",
+      "nama": "Sutopo",
+      "partai": "PIR",
+      "kabinet": "Halim",
+      "mulai_menjabat": "21 Januari 1950",
+      "akhir_menjabat": "6 September 1950"
+    },
+    {
+      "no": "(3)",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Natsir",
+      "mulai_menjabat": "6 September 1950",
+      "akhir_menjabat": "27 April 1951"
+    },
+    {
+      "no": "(3)",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Sukiman Suwirjo",
+      "mulai_menjabat": "27 April 1951",
+      "akhir_menjabat": "23 Februari 1952"
+    },
+    {
+      "no": "(3)",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Wilopo",
+      "mulai_menjabat": "3 April 1952",
+      "akhir_menjabat": "3 Juni 1953"
+    },
+    {
+      "no": "—",
+      "nama": "Ferdinand Lumban Tobing (ad-interim)",
+      "partai": "SKI",
+      "kabinet": "Ali Sastroamidjojo I",
+      "mulai_menjabat": "1 Agustus 1953",
+      "akhir_menjabat": "9 Oktober 1953"
+    },
+    {
+      "no": "5",
+      "nama": "Lie Kiat Teng",
+      "partai": "PSII",
+      "kabinet": "Ali Sastroamidjojo I",
+      "mulai_menjabat": "9 Oktober 1953",
+      "akhir_menjabat": "24 Juli 1955"
+    },
+    {
+      "no": "(3)",
+      "nama": "Johannes Leimena",
+      "partai": "Parkindo",
+      "kabinet": "Burhanuddin Harahap",
+      "mulai_menjabat": "12 Agustus 1955",
+      "akhir_menjabat": "3 Maret 1956"
+    },
+    {
+      "no": "6",
+      "nama": "Hadrianus Sinaga",
+      "partai": "Parkindo",
+      "kabinet": "Ali Sastroamidjojo II",
+      "mulai_menjabat": "24 Maret 1956",
+      "akhir_menjabat": "14 Maret 1957"
+    },
+    {
+      "no": "7",
+      "nama": "Abdul Azis Saleh",
+      "partai": "IPKI",
+      "kabinet": "Karya",
+      "mulai_menjabat": "9 April 1957",
+      "akhir_menjabat": "6 Juli 1959"
+    },
+    {
+      "no": "Berstatus Menteri Muda",
+      "nama": "Berstatus Menteri Muda",
+      "partai": "Berstatus Menteri Muda",
+      "kabinet": "Kerja I",
+      "mulai_menjabat": "10 Juli 1959",
+      "akhir_menjabat": "18 Februari 1960"
+    },
+    {
+      "no": "8",
+      "nama": "Satrio",
+      "partai": "ABRI",
+      "kabinet": "Kerja II",
+      "mulai_menjabat": "18 Februari 1960",
+      "akhir_menjabat": "6 Maret 1962"
+    },
+    {
+      "no": "8",
+      "nama": "Satrio",
+      "partai": "ABRI",
+      "kabinet": "Kerja III",
+      "mulai_menjabat": "6 Maret 1962",
+      "akhir_menjabat": "13 November 1963"
+    },
+    {
+      "no": "8",
+      "nama": "Satrio",
+      "partai": "ABRI",
+      "kabinet": "Kerja IV",
+      "mulai_menjabat": "13 November 1963",
+      "akhir_menjabat": "27 Agustus 1964"
+    },
+    {
+      "no": "8",
+      "nama": "Satrio",
+      "partai": "ABRI",
+      "kabinet": "Dwikora I",
+      "mulai_menjabat": "27 Agustus 1964",
+      "akhir_menjabat": "22 Februari 1966"
+    },
+    {
+      "no": "8",
+      "nama": "Satrio",
+      "partai": "ABRI",
+      "kabinet": "Dwikora II",
+      "mulai_menjabat": "24 Februari 1966",
+      "akhir_menjabat": "28 Maret 1966"
+    },
+    {
+      "no": "8",
+      "nama": "Satrio",
+      "partai": "ABRI",
+      "kabinet": "Dwikora III",
+      "mulai_menjabat": "31 Maret 1966",
+      "akhir_menjabat": "25 Juli 1966"
+    },
+    {
+      "no": "9",
+      "nama": "G.A. Siwabessy",
+      "partai": "Independen",
+      "kabinet": "Ampera I",
+      "mulai_menjabat": "28 Juli 1966",
+      "akhir_menjabat": "17 Oktober 1967"
+    },
+    {
+      "no": "9",
+      "nama": "G.A. Siwabessy",
+      "partai": "Independen",
+      "kabinet": "Ampera II",
+      "mulai_menjabat": "17 Oktober 1967",
+      "akhir_menjabat": "6 Juni 1968"
+    },
+    {
+      "no": "9",
+      "nama": "G.A. Siwabessy",
+      "partai": "Independen",
+      "kabinet": "Pembangunan I",
+      "mulai_menjabat": "6 Juni 1968",
+      "akhir_menjabat": "28 Maret 1973"
+    },
+    {
+      "no": "9",
+      "nama": "G.A. Siwabessy",
+      "partai": "Independen",
+      "kabinet": "Pembangunan II",
+      "mulai_menjabat": "28 Maret 1973",
+      "akhir_menjabat": "29 Maret 1978"
+    },
+    {
+      "no": "10",
+      "nama": "Suwardjono Surjaningrat",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan III",
+      "mulai_menjabat": "31 Maret 1978",
+      "akhir_menjabat": "16 Maret 1983"
+    },
+    {
+      "no": "10",
+      "nama": "Suwardjono Surjaningrat",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan IV",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "11",
+      "nama": "Adhyatma",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan V",
+      "mulai_menjabat": "23 Maret 1988",
+      "akhir_menjabat": "17 Maret 1993"
+    },
+    {
+      "no": "12",
+      "nama": "Sujudi",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VI",
+      "mulai_menjabat": "19 Maret 1993",
+      "akhir_menjabat": "11 Maret 1998"
+    },
+    {
+      "no": "13",
+      "nama": "Faried Anfasa Moeloek",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VII",
+      "mulai_menjabat": "16 Maret 1998",
+      "akhir_menjabat": "21 Mei 1998"
+    },
+    {
+      "no": "13",
+      "nama": "Faried Anfasa Moeloek",
+      "partai": "Golkar",
+      "kabinet": "Reformasi Pembangunan",
+      "mulai_menjabat": "23 Mei 1998",
+      "akhir_menjabat": "20 Oktober 1999"
+    },
+    {
+      "no": "14",
+      "nama": "Achmad Sujudi",
+      "partai": "Independen",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "29 Oktober 1999",
+      "akhir_menjabat": "23 Juli 2001"
+    },
+    {
+      "no": "14",
+      "nama": "Achmad Sujudi",
+      "partai": "Independen",
+      "kabinet": "Gotong Royong",
+      "mulai_menjabat": "10 Agustus 2001",
+      "akhir_menjabat": "20 Oktober 2004"
+    },
+    {
+      "no": "15",
+      "nama": "Siti Fadilah Supari",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu",
+      "mulai_menjabat": "21 Oktober 2004",
+      "akhir_menjabat": "20 Oktober 2009"
+    },
+    {
+      "no": "16",
+      "nama": "Endang Rahayu Sedyaningsih",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "22 Oktober 2009",
+      "akhir_menjabat": "30 April 2012"
+    },
+    {
+      "no": "—",
+      "nama": "Ali Ghufron Mukti (Pelaksana Tugas)",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "30 April 2012",
+      "akhir_menjabat": "14 Juni 2012"
+    },
+    {
+      "no": "17",
+      "nama": "Nafsiah Mboi",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "14 Juni 2012",
+      "akhir_menjabat": "20 Oktober 2014"
+    },
+    {
+      "no": "18",
+      "nama": "Nila Moeloek",
+      "partai": "Independen",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "27 Oktober 2014",
+      "akhir_menjabat": "20 Oktober 2019"
+    },
+    {
+      "no": "19",
+      "nama": "Terawan Agus Putranto",
+      "partai": "Independen",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "23 Oktober 2019",
+      "akhir_menjabat": "23 Desember 2020"
+    },
+    {
+      "no": "20",
+      "nama": "Budi Gunadi Sadikin",
+      "partai": "Independen",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "23 Desember 2020",
+      "akhir_menjabat": "20 Oktober 2024"
+    },
+    {
+      "no": "20",
+      "nama": "Budi Gunadi Sadikin",
+      "partai": "Independen",
+      "kabinet": "Merah Putih",
+      "mulai_menjabat": "21 Oktober 2024",
+      "akhir_menjabat": "Petahana"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Kesehatan Indonesia - Free Download",
+    "description": "Daftar Menteri Kesehatan Republik Indonesia sejak 1945 beserta partai, kabinet, dan masa jabatan. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Kesehatan Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Kesehatan Indonesia — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Kesehatan_Indonesia"
+    ]
+  }
+}
