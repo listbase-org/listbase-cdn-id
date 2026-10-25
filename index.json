@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:58.007Z",
-  "total_datasets": 548,
-  "total_records": 642551,
+  "generated": "2026-10-25T02:07:00.360Z",
+  "total_datasets": 549,
+  "total_records": 642601,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "math",
@@ -5766,6 +5766,34 @@
         "xlsx": {
           "name": "lang-pinyin-table_ID.xlsx",
           "size": 31867
+        }
+      }
+    },
+    {
+      "id": "id-hakim-mahkamah-konstitusi",
+      "name": "Daftar Hakim Mahkamah Konstitusi Republik Indonesia",
+      "category": "law",
+      "record_count": 50,
+      "columns": [
+        "no",
+        "nama",
+        "jabatan",
+        "lembaga_pengusul",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "lama_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_hakim_Mahkamah_Konstitusi_Republik_Indonesia",
+      "updated": "2026-10",
+      "size": 16425,
+      "files": {
+        "csv": {
+          "name": "id-hakim-mahkamah-konstitusi_ID.csv",
+          "size": 6600
+        },
+        "xlsx": {
+          "name": "id-hakim-mahkamah-konstitusi_ID.xlsx",
+          "size": 9533
         }
       }
     },

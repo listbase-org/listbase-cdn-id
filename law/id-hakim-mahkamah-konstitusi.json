@@ -1,0 +1,511 @@
+{
+  "id": "id-hakim-mahkamah-konstitusi",
+  "name": "Daftar Hakim Mahkamah Konstitusi Republik Indonesia",
+  "title": "Daftar Hakim Mahkamah Konstitusi Republik Indonesia",
+  "description": "Daftar hakim Mahkamah Konstitusi RI sejak 2003 beserta lembaga pengusul dan masa jabatan.",
+  "category": "law",
+  "source": "https://id.wikipedia.org/wiki/Daftar_hakim_Mahkamah_Konstitusi_Republik_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_hakim_Mahkamah_Konstitusi_Republik_Indonesia",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "jabatan",
+      "label": "Jabatan",
+      "type": "string"
+    },
+    {
+      "key": "lembaga_pengusul",
+      "label": "Lembaga Pengusul",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "lama_menjabat",
+      "label": "Lama Menjabat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Dr. I Dewa Gede Palguna S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat (2003)",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "16 Agustus 2008",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "1",
+      "nama": "Dr. I Dewa Gede Palguna S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Joko Widodo (2015)",
+      "mulai_menjabat": "7 Januari 2015",
+      "akhir_menjabat": "7 Januari 2020",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "2",
+      "nama": "Letjen TNI (Purn.) H. Achmad Roestandi S.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "10 Maret 2008",
+      "lama_menjabat": "4 tahun, 207 hari"
+    },
+    {
+      "no": "3",
+      "nama": "Prof. Dr. H. Mohammad Laica Marzuki S.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "31 Mei 2008",
+      "lama_menjabat": "4 tahun, 289 hari"
+    },
+    {
+      "no": "3",
+      "nama": "Prof. Dr. H. Mohammad Laica Marzuki S.H.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "19 Agustus 2003",
+      "akhir_menjabat": "31 Mei 2008",
+      "lama_menjabat": "4 tahun, 286 hari"
+    },
+    {
+      "no": "4",
+      "nama": "Dr. H. Harjono S.H., M.C.L.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "16 Agustus 2008",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "4",
+      "nama": "Dr. H. Harjono S.H., M.C.L.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "4 Juni 2008",
+      "akhir_menjabat": "16 Agustus 2008",
+      "lama_menjabat": "73 hari"
+    },
+    {
+      "no": "4",
+      "nama": "Dr. H. Harjono S.H., M.C.L.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "3 Maret 2009",
+      "akhir_menjabat": "20 Maret 2014",
+      "lama_menjabat": "5 tahun, 17 hari"
+    },
+    {
+      "no": "5",
+      "nama": "Soedarsono S.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "30 Juni 2008",
+      "lama_menjabat": "4 tahun, 319 hari"
+    },
+    {
+      "no": "6",
+      "nama": "Prof. Ahmad Syarifuddin Natabaya S.H., LL.M.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Megawati Soekarnoputri",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "16 Agustus 2003",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "7",
+      "nama": "Prof. Dr. Jimly Asshiddiqie S.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Megawati Soekarnoputri (2003) Dewan Perwakilan Rakyat (2008)",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "3 Maret 2009",
+      "lama_menjabat": "5 tahun, 199 hari"
+    },
+    {
+      "no": "7",
+      "nama": "Prof. Dr. Jimly Asshiddiqie S.H.",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Presiden Megawati Soekarnoputri (2003) Dewan Perwakilan Rakyat (2008)",
+      "mulai_menjabat": "19 Agustus 2003",
+      "akhir_menjabat": "21 Agustus 2008",
+      "lama_menjabat": "5 tahun, 2 hari"
+    },
+    {
+      "no": "8",
+      "nama": "Prof. Abdul Mukthie Fadjar S.H., M.S.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Megawati Soekarnoputri",
+      "mulai_menjabat": "16 Maret 2008",
+      "akhir_menjabat": "16 Agustus 2008",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "8",
+      "nama": "Prof. Abdul Mukthie Fadjar S.H., M.S.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "16 Agustus 2008",
+      "akhir_menjabat": "31 Desember 2009",
+      "lama_menjabat": "1 tahun, 137 hari"
+    },
+    {
+      "no": "8",
+      "nama": "Prof. Abdul Mukthie Fadjar S.H., M.S.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "21 Agustus 2008",
+      "akhir_menjabat": "31 Desember 2009",
+      "lama_menjabat": "1 tahun, 132 hari"
+    },
+    {
+      "no": "9",
+      "nama": "Dr. Maruarar Siahaan S.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "16 Agustus 2003",
+      "akhir_menjabat": "7 Desember 2009",
+      "lama_menjabat": "6 tahun, 113 hari"
+    },
+    {
+      "no": "10",
+      "nama": "Prof. Dr. Mohammad Mahfud MD S.H., S.U., M.I.P.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "1 April 2008",
+      "akhir_menjabat": "1 April 2013",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "10",
+      "nama": "Prof. Dr. Mohammad Mahfud MD S.H., S.U., M.I.P.",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "21 Agustus 2008",
+      "akhir_menjabat": "1 April 2013",
+      "lama_menjabat": "4 tahun, 223 hari"
+    },
+    {
+      "no": "11",
+      "nama": "Dr. H. Muhammad Arsyad Sanusi S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "29 Mei 2008",
+      "akhir_menjabat": "2 Maret 2011",
+      "lama_menjabat": "2 tahun, 277 hari"
+    },
+    {
+      "no": "12",
+      "nama": "Dr. Muhammad Alim S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "29 Mei 2008",
+      "akhir_menjabat": "21 April 2015",
+      "lama_menjabat": "6 tahun, 327 hari"
+    },
+    {
+      "no": "13",
+      "nama": "Prof. Dr. Achmad Sodiki S.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "16 Agustus 2008",
+      "akhir_menjabat": "22 Juli 2013",
+      "lama_menjabat": "4 tahun, 340 hari"
+    },
+    {
+      "no": "13",
+      "nama": "Prof. Dr. Achmad Sodiki S.H.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "14 Januari 2010",
+      "akhir_menjabat": "22 Juli 2013",
+      "lama_menjabat": "3 tahun, 189 hari"
+    },
+    {
+      "no": "14",
+      "nama": "Dr. Akil Mochtar S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "16 Agustus 2008",
+      "akhir_menjabat": "15 November 2013",
+      "lama_menjabat": "5 tahun, 91 hari"
+    },
+    {
+      "no": "14",
+      "nama": "Dr. Akil Mochtar S.H., M.H.",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "5 April 2013",
+      "akhir_menjabat": "5 Oktober 2013",
+      "lama_menjabat": "183 hari"
+    },
+    {
+      "no": "15",
+      "nama": "Prof. Dr. Maria Farida Indrati S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "16 Agustus 2008",
+      "akhir_menjabat": "13 Agustus 2018",
+      "lama_menjabat": "9 tahun, 362 hari"
+    },
+    {
+      "no": "16",
+      "nama": "Dr. Hamdan Zoelva S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "7 Januari 2010",
+      "akhir_menjabat": "7 Januari 2015",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "16",
+      "nama": "Dr. Hamdan Zoelva S.H., M.H.",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "6 November 2013",
+      "akhir_menjabat": "7 Januari 2015",
+      "lama_menjabat": "1 tahun, 62 hari"
+    },
+    {
+      "no": "17",
+      "nama": "Dr. H. Ahmad Fadlil Sumadi S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "7 Januari 2010",
+      "akhir_menjabat": "7 Januari 2015",
+      "lama_menjabat": "5 tahun, 0 hari"
+    },
+    {
+      "no": "18",
+      "nama": "Prof. Dr. Anwar Usman S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "6 April 2011",
+      "akhir_menjabat": "10 April 2026",
+      "lama_menjabat": "15 tahun, 202 hari"
+    },
+    {
+      "no": "18",
+      "nama": "Prof. Dr. Anwar Usman S.H., M.H.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "12 Januari 2015",
+      "akhir_menjabat": "2 April 2018",
+      "lama_menjabat": "3 tahun, 80 hari"
+    },
+    {
+      "no": "18",
+      "nama": "Prof. Dr. Anwar Usman S.H., M.H.",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "2 April 2018",
+      "akhir_menjabat": "7 November 2023",
+      "lama_menjabat": "5 tahun, 219 hari"
+    },
+    {
+      "no": "19",
+      "nama": "Prof. Dr. Arief Hidayat S.H., M.S",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "1 April 2013",
+      "akhir_menjabat": "3 Februari 2026",
+      "lama_menjabat": "12 tahun, 308 hari"
+    },
+    {
+      "no": "19",
+      "nama": "Prof. Dr. Arief Hidayat S.H., M.S",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "1 November 2013",
+      "akhir_menjabat": "12 Januari 2015",
+      "lama_menjabat": "1 tahun, 72 hari"
+    },
+    {
+      "no": "19",
+      "nama": "Prof. Dr. Arief Hidayat S.H., M.S",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "12 Januari 2015",
+      "akhir_menjabat": "2 April 2018",
+      "lama_menjabat": "3 tahun, 80 hari"
+    },
+    {
+      "no": "20",
+      "nama": "Dr. Patrialis Akbar S.H., M.H",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Susilo Bambang Yudhoyono",
+      "mulai_menjabat": "22 Juli 2013",
+      "akhir_menjabat": "22 Januari 2017",
+      "lama_menjabat": "3 tahun, 184 hari"
+    },
+    {
+      "no": "21",
+      "nama": "Prof. Dr. Aswanto S.H., M.Si., DFM.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "21 Maret 2014",
+      "akhir_menjabat": "29 September 2022",
+      "lama_menjabat": "8 tahun, 192 hari"
+    },
+    {
+      "no": "21",
+      "nama": "Prof. Dr. Aswanto S.H., M.Si., DFM.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "2 April 2018",
+      "akhir_menjabat": "29 September 2022",
+      "lama_menjabat": "4 tahun, 180 hari"
+    },
+    {
+      "no": "22",
+      "nama": "Dr. H. Wahiduddin Adams S.H., M.A",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "21 Maret 2014",
+      "akhir_menjabat": "18 Januari 2024",
+      "lama_menjabat": "9 tahun, 303 hari"
+    },
+    {
+      "no": "23",
+      "nama": "Dr. Suhartoyo S.H., M.H",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "7 Januari 2015",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "11 tahun, 291 hari"
+    },
+    {
+      "no": "23",
+      "nama": "Dr. Suhartoyo S.H., M.H",
+      "jabatan": "Ketua",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "13 November 2023",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "2 tahun, 346 hari"
+    },
+    {
+      "no": "24",
+      "nama": "Dr. Manahan M.P. Sitompul S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "28 April 2015",
+      "akhir_menjabat": "8 Desember 2023",
+      "lama_menjabat": "8 tahun, 224 hari"
+    },
+    {
+      "no": "25",
+      "nama": "Prof. Dr. Saldi Isra S.H., M.P.A.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Joko Widodo",
+      "mulai_menjabat": "11 April 2017",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "9 tahun, 197 hari"
+    },
+    {
+      "no": "25",
+      "nama": "Prof. Dr. Saldi Isra S.H., M.P.A.",
+      "jabatan": "Wakil Ketua",
+      "lembaga_pengusul": "Presiden Joko Widodo",
+      "mulai_menjabat": "20 Maret 2023",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "3 tahun, 219 hari"
+    },
+    {
+      "no": "26",
+      "nama": "Prof. Dr. Enny Nurbaningsih S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Joko Widodo",
+      "mulai_menjabat": "13 Agustus 2018",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "8 tahun, 73 hari"
+    },
+    {
+      "no": "27",
+      "nama": "Dr. Daniel Yusmic Pancastaki Foekh S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Presiden Joko Widodo",
+      "mulai_menjabat": "7 Januari 2020",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "6 tahun, 291 hari"
+    },
+    {
+      "no": "28",
+      "nama": "Prof. Dr. M. Guntur Hamzah S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "23 November 2022",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "3 tahun, 336 hari"
+    },
+    {
+      "no": "29",
+      "nama": "Dr. Ridwan Mansyur S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "8 Desember 2023",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "2 tahun, 321 hari"
+    },
+    {
+      "no": "30",
+      "nama": "H. Arsul Sani S.H, M.Si., Pr.M., LL.D",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "18 Januari 2024",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "2 tahun, 280 hari"
+    },
+    {
+      "no": "31",
+      "nama": "Dr. Ir. H. Adies Kadir S.H., M.Hum.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Dewan Perwakilan Rakyat",
+      "mulai_menjabat": "5 Februari 2026",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "262 hari"
+    },
+    {
+      "no": "32",
+      "nama": "Dr. Liliek Prisbawono Adi S.H., M.H.",
+      "jabatan": "Anggota",
+      "lembaga_pengusul": "Mahkamah Agung",
+      "mulai_menjabat": "10 April 2026",
+      "akhir_menjabat": "Petahana",
+      "lama_menjabat": "198 hari"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Hakim Mahkamah Konstitusi Republik Indonesia - Free Download",
+    "description": "Daftar hakim Mahkamah Konstitusi RI sejak 2003 beserta lembaga pengusul dan masa jabatan. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Hakim Mahkamah Konstitusi Republik Indonesia | ListBase",
+    "seo_description": "Download Daftar Hakim Mahkamah Konstitusi Republik Indonesia — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_hakim_Mahkamah_Konstitusi_Republik_Indonesia"
+    ]
+  }
+}
