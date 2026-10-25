@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:55.615Z",
-  "total_datasets": 547,
-  "total_records": 642520,
+  "generated": "2026-10-25T02:06:58.007Z",
+  "total_datasets": 548,
+  "total_records": 642551,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "math",
@@ -5766,6 +5766,31 @@
         "xlsx": {
           "name": "lang-pinyin-table_ID.xlsx",
           "size": 31867
+        }
+      }
+    },
+    {
+      "id": "id-jaksa-agung",
+      "name": "Daftar Jaksa Agung Republik Indonesia",
+      "category": "law",
+      "record_count": 31,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Jaksa_Agung_Indonesia",
+      "updated": "2026-10",
+      "size": 6035,
+      "files": {
+        "csv": {
+          "name": "id-jaksa-agung_ID.csv",
+          "size": 1798
+        },
+        "xlsx": {
+          "name": "id-jaksa-agung_ID.xlsx",
+          "size": 8052
         }
       }
     },
