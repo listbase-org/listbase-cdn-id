@@ -1,0 +1,241 @@
+{
+  "id": "id-asian-games-medali",
+  "name": "Perolehan Medali Indonesia di Asian Games",
+  "title": "Perolehan Medali Indonesia di Asian Games",
+  "description": "Perolehan medali emas, perak, dan perunggu Indonesia di setiap penyelenggaraan Pesta Olahraga Asia (Asian Games).",
+  "category": "sports",
+  "source": "https://id.wikipedia.org/wiki/Indonesia_pada_Pesta_Olahraga_Asia",
+  "source_url": "https://id.wikipedia.org/wiki/Indonesia_pada_Pesta_Olahraga_Asia",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "ajang",
+      "label": "Ajang",
+      "type": "string"
+    },
+    {
+      "key": "jumlah_atlet",
+      "label": "Jumlah Atlet",
+      "type": "number"
+    },
+    {
+      "key": "emas",
+      "label": "Emas",
+      "type": "number"
+    },
+    {
+      "key": "perak",
+      "label": "Perak",
+      "type": "number"
+    },
+    {
+      "key": "perunggu",
+      "label": "Perunggu",
+      "type": "number"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    },
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ajang": "New Delhi 1951",
+      "jumlah_atlet": "35",
+      "emas": "0",
+      "perak": "0",
+      "perunggu": "5",
+      "total": "5",
+      "peringkat": "7"
+    },
+    {
+      "ajang": "Manila 1954",
+      "jumlah_atlet": "85",
+      "emas": "0",
+      "perak": "0",
+      "perunggu": "3",
+      "total": "3",
+      "peringkat": "12"
+    },
+    {
+      "ajang": "Tokyo 1958",
+      "jumlah_atlet": "66",
+      "emas": "0",
+      "perak": "0",
+      "perunggu": "6",
+      "total": "6",
+      "peringkat": "14"
+    },
+    {
+      "ajang": "Jakarta 1962",
+      "jumlah_atlet": "285",
+      "emas": "11",
+      "perak": "12",
+      "perunggu": "28",
+      "total": "51",
+      "peringkat": "2"
+    },
+    {
+      "ajang": "Bangkok 1966",
+      "jumlah_atlet": "257",
+      "emas": "5",
+      "perak": "5",
+      "perunggu": "12",
+      "total": "22",
+      "peringkat": "6"
+    },
+    {
+      "ajang": "Bangkok 1970",
+      "jumlah_atlet": "95",
+      "emas": "2",
+      "perak": "5",
+      "perunggu": "13",
+      "total": "20",
+      "peringkat": "4"
+    },
+    {
+      "ajang": "Teheran 1974",
+      "jumlah_atlet": "21",
+      "emas": "3",
+      "perak": "4",
+      "perunggu": "4",
+      "total": "11",
+      "peringkat": "9"
+    },
+    {
+      "ajang": "Bangkok 1978",
+      "jumlah_atlet": "104",
+      "emas": "8",
+      "perak": "7",
+      "perunggu": "18",
+      "total": "33",
+      "peringkat": "7"
+    },
+    {
+      "ajang": "New Delhi 1982",
+      "jumlah_atlet": "170",
+      "emas": "4",
+      "perak": "4",
+      "perunggu": "7",
+      "total": "15",
+      "peringkat": "6"
+    },
+    {
+      "ajang": "Seoul 1986",
+      "jumlah_atlet": "205",
+      "emas": "1",
+      "perak": "5",
+      "perunggu": "14",
+      "total": "20",
+      "peringkat": "9"
+    },
+    {
+      "ajang": "Beijing 1990",
+      "jumlah_atlet": "152",
+      "emas": "3",
+      "perak": "6",
+      "perunggu": "21",
+      "total": "30",
+      "peringkat": "7"
+    },
+    {
+      "ajang": "Hiroshima 1994",
+      "jumlah_atlet": "117",
+      "emas": "3",
+      "perak": "12",
+      "perunggu": "11",
+      "total": "26",
+      "peringkat": "11"
+    },
+    {
+      "ajang": "Bangkok 1998",
+      "jumlah_atlet": "213",
+      "emas": "6",
+      "perak": "10",
+      "perunggu": "11",
+      "total": "27",
+      "peringkat": "11"
+    },
+    {
+      "ajang": "Busan 2002",
+      "jumlah_atlet": "102",
+      "emas": "4",
+      "perak": "7",
+      "perunggu": "12",
+      "total": "23",
+      "peringkat": "14"
+    },
+    {
+      "ajang": "Doha 2006",
+      "jumlah_atlet": "140",
+      "emas": "2",
+      "perak": "4",
+      "perunggu": "14",
+      "total": "20",
+      "peringkat": "22"
+    },
+    {
+      "ajang": "Guangzhou 2010",
+      "jumlah_atlet": "216",
+      "emas": "4",
+      "perak": "9",
+      "perunggu": "13",
+      "total": "26",
+      "peringkat": "15"
+    },
+    {
+      "ajang": "Incheon 2014",
+      "jumlah_atlet": "186",
+      "emas": "4",
+      "perak": "5",
+      "perunggu": "11",
+      "total": "20",
+      "peringkat": "17"
+    },
+    {
+      "ajang": "Jakarta-Palembang 2018",
+      "jumlah_atlet": "958",
+      "emas": "31",
+      "perak": "24",
+      "perunggu": "43",
+      "total": "98",
+      "peringkat": "4"
+    },
+    {
+      "ajang": "Hangzhou 2022",
+      "jumlah_atlet": "415",
+      "emas": "7",
+      "perak": "11",
+      "perunggu": "18",
+      "total": "36",
+      "peringkat": "13"
+    },
+    {
+      "ajang": "Aichi-Nagoya 2026",
+      "jumlah_atlet": "432",
+      "emas": "5",
+      "perak": "11",
+      "perunggu": "23",
+      "total": "39",
+      "peringkat": "16"
+    }
+  ],
+  "meta": {
+    "title": "Perolehan Medali Indonesia di Asian Games - Free Download",
+    "description": "Perolehan medali emas, perak, dan perunggu Indonesia di setiap penyelenggaraan Pesta Olahraga Asia (Asian Games). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Perolehan Medali Indonesia di Asian Games | ListBase",
+    "seo_description": "Download Perolehan Medali Indonesia di Asian Games — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Indonesia_pada_Pesta_Olahraga_Asia"
+    ]
+  }
+}

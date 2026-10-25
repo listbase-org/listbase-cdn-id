@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:02.738Z",
-  "total_datasets": 550,
-  "total_records": 642628,
+  "generated": "2026-10-25T02:07:04.960Z",
+  "total_datasets": 551,
+  "total_records": 642648,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -13432,6 +13432,34 @@
         "xlsx": {
           "name": "id-menteri-sosial_ID.xlsx",
           "size": 9777
+        }
+      }
+    },
+    {
+      "id": "id-asian-games-medali",
+      "name": "Perolehan Medali Indonesia di Asian Games",
+      "category": "sports",
+      "record_count": 20,
+      "columns": [
+        "ajang",
+        "jumlah_atlet",
+        "emas",
+        "perak",
+        "perunggu",
+        "total",
+        "peringkat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Indonesia_pada_Pesta_Olahraga_Asia",
+      "updated": "2026-10",
+      "size": 5486,
+      "files": {
+        "csv": {
+          "name": "id-asian-games-medali_ID.csv",
+          "size": 950
+        },
+        "xlsx": {
+          "name": "id-asian-games-medali_ID.xlsx",
+          "size": 7741
         }
       }
     },
