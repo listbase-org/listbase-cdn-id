@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:14.688Z",
-  "total_datasets": 555,
-  "total_records": 642718,
+  "generated": "2026-10-25T02:07:36.939Z",
+  "total_datasets": 556,
+  "total_records": 642793,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -6052,6 +6052,29 @@
         "xlsx": {
           "name": "id-album-terlaris_ID.xlsx",
           "size": 8193
+        }
+      }
+    },
+    {
+      "id": "id-lagu-patriotik",
+      "name": "Daftar Lagu Patriotik / Lagu Wajib Nasional Indonesia",
+      "category": "music",
+      "record_count": 75,
+      "columns": [
+        "judul",
+        "pencipta"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_lagu_patriotik_Indonesia",
+      "updated": "2026-10",
+      "size": 7766,
+      "files": {
+        "csv": {
+          "name": "id-lagu-patriotik_ID.csv",
+          "size": 2855
+        },
+        "xlsx": {
+          "name": "id-lagu-patriotik_ID.xlsx",
+          "size": 8765
         }
       }
     },
