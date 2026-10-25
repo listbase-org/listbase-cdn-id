@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:09.677Z",
-  "total_datasets": 553,
-  "total_records": 642686,
+  "generated": "2026-10-25T02:07:12.422Z",
+  "total_datasets": 554,
+  "total_records": 642701,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -208,6 +208,33 @@
         "xlsx": {
           "name": "id-rumpun-sapi-lokal_ID.xlsx",
           "size": 6973
+        }
+      }
+    },
+    {
+      "id": "id-wakil-menteri-pertanian",
+      "name": "Daftar Wakil Menteri Pertanian Indonesia",
+      "category": "agriculture",
+      "record_count": 15,
+      "columns": [
+        "no",
+        "nama",
+        "kabinet",
+        "menteri_pertanian",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Pertanian_Indonesia",
+      "updated": "2026-10",
+      "size": 5227,
+      "files": {
+        "csv": {
+          "name": "id-wakil-menteri-pertanian_ID.csv",
+          "size": 1435
+        },
+        "xlsx": {
+          "name": "id-wakil-menteri-pertanian_ID.xlsx",
+          "size": 7648
         }
       }
     },

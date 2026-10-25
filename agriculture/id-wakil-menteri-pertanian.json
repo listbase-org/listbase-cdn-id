@@ -1,0 +1,176 @@
+{
+  "id": "id-wakil-menteri-pertanian",
+  "name": "Daftar Wakil Menteri Pertanian Indonesia",
+  "title": "Daftar Wakil Menteri Pertanian Indonesia",
+  "description": "Daftar Wakil Menteri Pertanian Republik Indonesia beserta kabinet, menteri yang didampingi, dan masa jabatan.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Pertanian_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Pertanian_Indonesia",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "kabinet",
+      "label": "Kabinet",
+      "type": "string"
+    },
+    {
+      "key": "menteri_pertanian",
+      "label": "Menteri Pertanian",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Saksono",
+      "kabinet": "Sjahrir II",
+      "menteri_pertanian": "Zainuddin Rasad",
+      "mulai_menjabat": "12 Maret 1946",
+      "akhir_menjabat": "2 Oktober 1946"
+    },
+    {
+      "no": "2",
+      "nama": "Syech Marhaban bin Hasan Krueng Kale",
+      "kabinet": "Ali Sastroamidjojo II",
+      "menteri_pertanian": "Eny Karim",
+      "mulai_menjabat": "24 Maret 1956",
+      "akhir_menjabat": "14 Maret 1957"
+    },
+    {
+      "no": "—",
+      "nama": "Achmad Affandi",
+      "kabinet": "Pembangunan III",
+      "menteri_pertanian": "Soedarsono Hadisapoetro",
+      "mulai_menjabat": "22 April 1978",
+      "akhir_menjabat": "19 Maret 1983"
+    },
+    {
+      "no": "—",
+      "nama": "Wardojo",
+      "kabinet": "Pembangunan IV",
+      "menteri_pertanian": "Achmad Affandi",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "—",
+      "nama": "Hasjrul Harahap",
+      "kabinet": "Pembangunan IV",
+      "menteri_pertanian": "Achmad Affandi",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "—",
+      "nama": "Jannes Humuntal Hutasoit",
+      "kabinet": "Pembangunan IV",
+      "menteri_pertanian": "Achmad Affandi",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "3",
+      "nama": "Sjarifuddin Baharsjah",
+      "kabinet": "Pembangunan V",
+      "menteri_pertanian": "Wardojo",
+      "mulai_menjabat": "23 Maret 1988",
+      "akhir_menjabat": "17 Maret 1993"
+    },
+    {
+      "no": "4",
+      "nama": "Bayu Krisnamurthi",
+      "kabinet": "Indonesia Bersatu II",
+      "menteri_pertanian": "Suswono",
+      "mulai_menjabat": "11 November 2009",
+      "akhir_menjabat": "19 Oktober 2011"
+    },
+    {
+      "no": "5",
+      "nama": "Rusman Heriawan",
+      "kabinet": "Indonesia Bersatu II",
+      "menteri_pertanian": "Suswono",
+      "mulai_menjabat": "19 Oktober 2011",
+      "akhir_menjabat": "20 Oktober 2014"
+    },
+    {
+      "no": "6",
+      "nama": "Harvick Hasnul Qolbi",
+      "kabinet": "Indonesia Maju",
+      "menteri_pertanian": "Syahrul Yasin Limpo",
+      "mulai_menjabat": "23 Desember 2020",
+      "akhir_menjabat": "18 Juli 2024"
+    },
+    {
+      "no": "6",
+      "nama": "Harvick Hasnul Qolbi",
+      "kabinet": "Indonesia Maju",
+      "menteri_pertanian": "Amran Sulaiman",
+      "mulai_menjabat": "23 Desember 2020",
+      "akhir_menjabat": "18 Juli 2024"
+    },
+    {
+      "no": "7",
+      "nama": "Sudaryono",
+      "kabinet": "Indonesia Maju",
+      "menteri_pertanian": "Amran Sulaiman",
+      "mulai_menjabat": "18 Juli 2024",
+      "akhir_menjabat": "20 Oktober 2024"
+    },
+    {
+      "no": "7",
+      "nama": "Sudaryono",
+      "kabinet": "Merah Putih",
+      "menteri_pertanian": "Amran Sulaiman",
+      "mulai_menjabat": "21 Oktober 2024",
+      "akhir_menjabat": "22 Juli 2026"
+    },
+    {
+      "no": "8",
+      "nama": "M. Saleh Mustafa",
+      "kabinet": "Merah Putih",
+      "menteri_pertanian": "Amran Sulaiman",
+      "mulai_menjabat": "1 Oktober 2026",
+      "akhir_menjabat": "Petahana"
+    },
+    {
+      "no": "9",
+      "nama": "Alim Setiawan Slamet",
+      "kabinet": "Merah Putih",
+      "menteri_pertanian": "Amran Sulaiman",
+      "mulai_menjabat": "15 Oktober 2026",
+      "akhir_menjabat": "Petahana"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Wakil Menteri Pertanian Indonesia - Free Download",
+    "description": "Daftar Wakil Menteri Pertanian Republik Indonesia beserta kabinet, menteri yang didampingi, dan masa jabatan. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Wakil Menteri Pertanian Indonesia | ListBase",
+    "seo_description": "Download Daftar Wakil Menteri Pertanian Indonesia — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Pertanian_Indonesia"
+    ]
+  }
+}
