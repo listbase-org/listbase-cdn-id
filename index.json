@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:00.360Z",
-  "total_datasets": 549,
-  "total_records": 642601,
+  "generated": "2026-10-25T02:07:02.738Z",
+  "total_datasets": 550,
+  "total_records": 642628,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -5946,6 +5946,33 @@
         "xlsx": {
           "name": "math-laplace-transform_ID.xlsx",
           "size": 8549
+        }
+      }
+    },
+    {
+      "id": "id-album-terlaris",
+      "name": "Daftar Album Terlaris di Indonesia",
+      "category": "music",
+      "record_count": 27,
+      "columns": [
+        "artis",
+        "album",
+        "tahun_rilis",
+        "jenis_musik",
+        "estimasi_penjualan",
+        "kategori"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_album_terlaris_di_Indonesia",
+      "updated": "2026-10",
+      "size": 8193,
+      "files": {
+        "csv": {
+          "name": "id-album-terlaris_ID.csv",
+          "size": 2836
+        },
+        "xlsx": {
+          "name": "id-album-terlaris_ID.xlsx",
+          "size": 8193
         }
       }
     },
