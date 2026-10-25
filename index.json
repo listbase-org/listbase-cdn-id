@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:06:53.395Z",
-  "total_datasets": 546,
-  "total_records": 642492,
+  "generated": "2026-10-25T02:06:55.615Z",
+  "total_datasets": 547,
+  "total_records": 642520,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -377,6 +377,32 @@
         "xlsx": {
           "name": "id-perusahaan-terbesar-fortune_ID.xlsx",
           "size": 7916
+        }
+      }
+    },
+    {
+      "id": "id-ump-dki-jakarta",
+      "name": "Upah Minimum Provinsi (UMP) DKI Jakarta dari Tahun ke Tahun",
+      "category": "economy",
+      "record_count": 28,
+      "columns": [
+        "tahun",
+        "ump_per_bulan",
+        "tanggal_berlaku",
+        "kenaikan",
+        "ump_usd"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Upah_minimum_di_Indonesia",
+      "updated": "2026-10",
+      "size": 6373,
+      "files": {
+        "csv": {
+          "name": "id-ump-dki-jakarta_ID.csv",
+          "size": 1416
+        },
+        "xlsx": {
+          "name": "id-ump-dki-jakarta_ID.xlsx",
+          "size": 7985
         }
       }
     },

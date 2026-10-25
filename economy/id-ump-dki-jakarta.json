@@ -1,0 +1,247 @@
+{
+  "id": "id-ump-dki-jakarta",
+  "name": "Upah Minimum Provinsi (UMP) DKI Jakarta dari Tahun ke Tahun",
+  "title": "Upah Minimum Provinsi (UMP) DKI Jakarta dari Tahun ke Tahun",
+  "description": "Riwayat Upah Minimum Provinsi DKI Jakarta per bulan sejak tahun 2000 beserta persentase kenaikan dan nilai dalam dolar AS.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Upah_minimum_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Upah_minimum_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "ump_per_bulan",
+      "label": "Ump Per Bulan",
+      "type": "string"
+    },
+    {
+      "key": "tanggal_berlaku",
+      "label": "Tanggal Berlaku",
+      "type": "string"
+    },
+    {
+      "key": "kenaikan",
+      "label": "Kenaikan",
+      "type": "string"
+    },
+    {
+      "key": "ump_usd",
+      "label": "Ump Usd",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tahun": "2000",
+      "ump_per_bulan": "Rp231.000",
+      "tanggal_berlaku": "1-Jan-00",
+      "kenaikan": "16,7%",
+      "ump_usd": "$27,64"
+    },
+    {
+      "tahun": "2000",
+      "ump_per_bulan": "Rp286.000",
+      "tanggal_berlaku": "1-Apr-00",
+      "kenaikan": "23,8%",
+      "ump_usd": "$34,22"
+    },
+    {
+      "tahun": "2000",
+      "ump_per_bulan": "Rp344.257",
+      "tanggal_berlaku": "1-Sep-00",
+      "kenaikan": "20,4%",
+      "ump_usd": "$41,20"
+    },
+    {
+      "tahun": "2001",
+      "ump_per_bulan": "Rp426.257",
+      "tanggal_berlaku": "1-Jan-01",
+      "kenaikan": "23,8%",
+      "ump_usd": "$41,78"
+    },
+    {
+      "tahun": "2002",
+      "ump_per_bulan": "Rp591.266",
+      "tanggal_berlaku": "21-Jan-02",
+      "kenaikan": "38,7%",
+      "ump_usd": "$63,68"
+    },
+    {
+      "tahun": "2003",
+      "ump_per_bulan": "Rp631.554",
+      "tanggal_berlaku": "1-Jan-03",
+      "kenaikan": "6,8%",
+      "ump_usd": "$73,60"
+    },
+    {
+      "tahun": "2004",
+      "ump_per_bulan": "Rp671.550",
+      "tanggal_berlaku": "1-Jan-04",
+      "kenaikan": "6,3%",
+      "ump_usd": "$75,22"
+    },
+    {
+      "tahun": "2005",
+      "ump_per_bulan": "Rp711.843",
+      "tanggal_berlaku": "1-Jan-05",
+      "kenaikan": "6,0%",
+      "ump_usd": "$73,43"
+    },
+    {
+      "tahun": "2006",
+      "ump_per_bulan": "Rp819.100",
+      "tanggal_berlaku": "1-Jan-06",
+      "kenaikan": "15,1%",
+      "ump_usd": "$89,44"
+    },
+    {
+      "tahun": "2007",
+      "ump_per_bulan": "Rp900.560",
+      "tanggal_berlaku": "1-Jan-07",
+      "kenaikan": "9,9%",
+      "ump_usd": "$98,55"
+    },
+    {
+      "tahun": "2008",
+      "ump_per_bulan": "Rp972.604",
+      "tanggal_berlaku": "1-Jan-08",
+      "kenaikan": "8,0%",
+      "ump_usd": "$100,99"
+    },
+    {
+      "tahun": "2009",
+      "ump_per_bulan": "Rp1.069.865",
+      "tanggal_berlaku": "1-Jan-09",
+      "kenaikan": "10,0%",
+      "ump_usd": "$103,62"
+    },
+    {
+      "tahun": "2010",
+      "ump_per_bulan": "Rp1.118.009",
+      "tanggal_berlaku": "1-Jan-10",
+      "kenaikan": "4,5%",
+      "ump_usd": "$125,33"
+    },
+    {
+      "tahun": "2011",
+      "ump_per_bulan": "Rp1.290.000",
+      "tanggal_berlaku": "1-Jan-11",
+      "kenaikan": "15,38%",
+      "ump_usd": "$143,33*"
+    },
+    {
+      "tahun": "2012",
+      "ump_per_bulan": "Rp1.529.150",
+      "tanggal_berlaku": "1-Jan-12",
+      "kenaikan": "18,53%",
+      "ump_usd": "$169,90*"
+    },
+    {
+      "tahun": "2013",
+      "ump_per_bulan": "Rp2.200.000",
+      "tanggal_berlaku": "1-Jan-13",
+      "kenaikan": "43,88%",
+      "ump_usd": "$244*"
+    },
+    {
+      "tahun": "2014",
+      "ump_per_bulan": "Rp2.441.000",
+      "tanggal_berlaku": "1-Jan-14",
+      "kenaikan": "10,95%",
+      "ump_usd": "$206"
+    },
+    {
+      "tahun": "2015",
+      "ump_per_bulan": "Rp2.700.000",
+      "tanggal_berlaku": "1-Jan-15",
+      "kenaikan": "10,61%",
+      "ump_usd": "$218 (Rp 12,400: 1 USD"
+    },
+    {
+      "tahun": "2016",
+      "ump_per_bulan": "Rp3.100.000",
+      "tanggal_berlaku": "1-Jan-16",
+      "kenaikan": "14,81%",
+      "ump_usd": "$221 (Rp 14,000)"
+    },
+    {
+      "tahun": "2017",
+      "ump_per_bulan": "Rp3.355.750",
+      "tanggal_berlaku": "1-Jan-17",
+      "kenaikan": "8,25%",
+      "ump_usd": ""
+    },
+    {
+      "tahun": "2018",
+      "ump_per_bulan": "Rp3.648.035",
+      "tanggal_berlaku": "1-Jan-18",
+      "kenaikan": "8,71%",
+      "ump_usd": ""
+    },
+    {
+      "tahun": "2019",
+      "ump_per_bulan": "Rp3.940.973",
+      "tanggal_berlaku": "1-Jan-19",
+      "kenaikan": "8,03%",
+      "ump_usd": ""
+    },
+    {
+      "tahun": "2020",
+      "ump_per_bulan": "Rp4.276.350",
+      "tanggal_berlaku": "1-Jan-2020",
+      "kenaikan": "8,5%",
+      "ump_usd": ""
+    },
+    {
+      "tahun": "2021",
+      "ump_per_bulan": "Rp4.416.186",
+      "tanggal_berlaku": "1-Jan-2021",
+      "kenaikan": "3,2%",
+      "ump_usd": ""
+    },
+    {
+      "tahun": "2022",
+      "ump_per_bulan": "Rp4.641.854",
+      "tanggal_berlaku": "1-Jan-2022",
+      "kenaikan": "5.8%",
+      "ump_usd": "$300"
+    },
+    {
+      "tahun": "2023",
+      "ump_per_bulan": "Rp 4.901.798",
+      "tanggal_berlaku": "1-Jan-2023",
+      "kenaikan": "10%",
+      "ump_usd": "$325"
+    },
+    {
+      "tahun": "2024",
+      "ump_per_bulan": "Rp 5.067.381",
+      "tanggal_berlaku": "10-Jan-2024",
+      "kenaikan": "3,6%",
+      "ump_usd": "$321"
+    },
+    {
+      "tahun": "2025",
+      "ump_per_bulan": "Rp5.396.760",
+      "tanggal_berlaku": "1-Jan-2025",
+      "kenaikan": "6,5%",
+      "ump_usd": "$339"
+    }
+  ],
+  "meta": {
+    "title": "Upah Minimum Provinsi (UMP) DKI Jakarta dari Tahun ke Tahun - Free Download",
+    "description": "Riwayat Upah Minimum Provinsi DKI Jakarta per bulan sejak tahun 2000 beserta persentase kenaikan dan nilai dalam dolar AS. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Upah Minimum Provinsi (UMP) DKI Jakarta dari Tahun ke Tahun | ListBase",
+    "seo_description": "Download Upah Minimum Provinsi (UMP) DKI Jakarta dari Tahun ke Tahun — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Upah_minimum_di_Indonesia"
+    ]
+  }
+}
