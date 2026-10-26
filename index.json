@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:08.995Z",
-  "total_datasets": 574,
-  "total_records": 646951,
+  "generated": "2026-10-26T02:13:11.290Z",
+  "total_datasets": 575,
+  "total_records": 646999,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -6439,6 +6439,33 @@
         "xlsx": {
           "name": "id-album-terlaris_ID.xlsx",
           "size": 8193
+        }
+      }
+    },
+    {
+      "id": "id-artis-billboard",
+      "name": "Daftar Artis Indonesia di Tangga Musik Billboard Amerika Serikat",
+      "category": "music",
+      "record_count": 48,
+      "columns": [
+        "tanggal_debut",
+        "artis",
+        "judul",
+        "tangga_musik",
+        "posisi_puncak",
+        "jumlah_minggu"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_artis_Indonesia_di_tangga_musik_Billboard_Amerika_Serikat",
+      "updated": "2026-10",
+      "size": 12580,
+      "files": {
+        "csv": {
+          "name": "id-artis-billboard_ID.csv",
+          "size": 4111
+        },
+        "xlsx": {
+          "name": "id-artis-billboard_ID.xlsx",
+          "size": 8956
         }
       }
     },

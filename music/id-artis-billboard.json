@@ -1,0 +1,440 @@
+{
+  "id": "id-artis-billboard",
+  "name": "Daftar Artis Indonesia di Tangga Musik Billboard Amerika Serikat",
+  "title": "Daftar Artis Indonesia di Tangga Musik Billboard Amerika Serikat",
+  "description": "Kronologi lagu dan album artis Indonesia yang masuk tangga musik Billboard Amerika Serikat beserta posisi puncak dan jumlah minggu.",
+  "category": "music",
+  "source": "https://id.wikipedia.org/wiki/Daftar_artis_Indonesia_di_tangga_musik_Billboard_Amerika_Serikat",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_artis_Indonesia_di_tangga_musik_Billboard_Amerika_Serikat",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "tanggal_debut",
+      "label": "Tanggal Debut",
+      "type": "string"
+    },
+    {
+      "key": "artis",
+      "label": "Artis",
+      "type": "string"
+    },
+    {
+      "key": "judul",
+      "label": "Judul",
+      "type": "string"
+    },
+    {
+      "key": "tangga_musik",
+      "label": "Tangga Musik",
+      "type": "string"
+    },
+    {
+      "key": "posisi_puncak",
+      "label": "Posisi Puncak",
+      "type": "number"
+    },
+    {
+      "key": "jumlah_minggu",
+      "label": "Jumlah Minggu",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tanggal_debut": "11 Juli 1998",
+      "artis": "Anggun",
+      "judul": "\"Snow on the Sahara\"",
+      "tangga_musik": "Adult Pop Airplay",
+      "posisi_puncak": 22,
+      "jumlah_minggu": 18
+    },
+    {
+      "tanggal_debut": "5 September 1998",
+      "artis": "Anggun",
+      "judul": "Snow on the Sahara",
+      "tangga_musik": "Heatseekers Albums",
+      "posisi_puncak": 23,
+      "jumlah_minggu": 9
+    },
+    {
+      "tanggal_debut": "14 November 1998",
+      "artis": "Anggun",
+      "judul": "\"Snow on the Sahara\"",
+      "tangga_musik": "Dance Club Songs",
+      "posisi_puncak": 16,
+      "jumlah_minggu": 12
+    },
+    {
+      "tanggal_debut": "12 Juni 2010",
+      "artis": "Dara Puspita",
+      "judul": "Dara Puspita 1966–1968",
+      "tangga_musik": "World Albums",
+      "posisi_puncak": 15,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Billboard 200",
+      "posisi_puncak": 59,
+      "jumlah_minggu": 4
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Heatseekers Albums",
+      "posisi_puncak": 4,
+      "jumlah_minggu": 5
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Independent Albums",
+      "posisi_puncak": 1,
+      "jumlah_minggu": 11
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Jazz Albums",
+      "posisi_puncak": 1,
+      "jumlah_minggu": 46
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Top Album Sales",
+      "posisi_puncak": 26,
+      "jumlah_minggu": 4
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Top Current Album Sales",
+      "posisi_puncak": 24,
+      "jumlah_minggu": 5
+    },
+    {
+      "tanggal_debut": "30 Mei 2015",
+      "artis": "Joey Alexander",
+      "judul": "My Favorite Things",
+      "tangga_musik": "Traditional Jazz Albums",
+      "posisi_puncak": 1,
+      "jumlah_minggu": 49
+    },
+    {
+      "tanggal_debut": "26 Desember 2015",
+      "artis": "Agnez Mo",
+      "judul": "\"Boy Magnet\"",
+      "tangga_musik": "Dance Club Songs",
+      "posisi_puncak": 52,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "23 Januari 2016",
+      "artis": "Joey Alexander",
+      "judul": "Blissful",
+      "tangga_musik": "World Albums",
+      "posisi_puncak": 4,
+      "jumlah_minggu": 2
+    },
+    {
+      "tanggal_debut": "23 Juli 2016",
+      "artis": "Rich Brian",
+      "judul": "\"Dat Stick\"",
+      "tangga_musik": "Bubbling Under R&B/Hip-Hop Singles",
+      "posisi_puncak": 4,
+      "jumlah_minggu": ""
+    },
+    {
+      "tanggal_debut": "1 Oktober 2016",
+      "artis": "Joey Alexander",
+      "judul": "Countdown",
+      "tangga_musik": "Independent Albums",
+      "posisi_puncak": 35,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "1 Oktober 2016",
+      "artis": "Joey Alexander",
+      "judul": "Countdown",
+      "tangga_musik": "Jazz Albums",
+      "posisi_puncak": 1,
+      "jumlah_minggu": 23
+    },
+    {
+      "tanggal_debut": "1 Oktober 2016",
+      "artis": "Joey Alexander",
+      "judul": "Countdown",
+      "tangga_musik": "Traditional Jazz Albums",
+      "posisi_puncak": 1,
+      "jumlah_minggu": 21
+    },
+    {
+      "tanggal_debut": "20 Mei 2017",
+      "artis": "Rich Brian",
+      "judul": "\"Gospel\" (bersama Keith Ape dan XXXTentacion)",
+      "tangga_musik": "Bubbling Under R&B/Hip-Hop Singles",
+      "posisi_puncak": 7,
+      "jumlah_minggu": ""
+    },
+    {
+      "tanggal_debut": "21 Oktober 2017",
+      "artis": "Joey Alexander",
+      "judul": "Joey.Monk.Live!",
+      "tangga_musik": "Jazz Albums",
+      "posisi_puncak": 20,
+      "jumlah_minggu": 2
+    },
+    {
+      "tanggal_debut": "21 Oktober 2017",
+      "artis": "Joey Alexander",
+      "judul": "Joey.Monk.Live!",
+      "tangga_musik": "Traditional Jazz Albums",
+      "posisi_puncak": 11,
+      "jumlah_minggu": 3
+    },
+    {
+      "tanggal_debut": "3 Januari 2018",
+      "artis": "Anggun",
+      "judul": "\"What We Remember\"",
+      "tangga_musik": "Dance Club Songs",
+      "posisi_puncak": 8,
+      "jumlah_minggu": 16
+    },
+    {
+      "tanggal_debut": "17 Februari 2018",
+      "artis": "Rich Brian",
+      "judul": "Amen",
+      "tangga_musik": "Billboard 200",
+      "posisi_puncak": 18,
+      "jumlah_minggu": 3
+    },
+    {
+      "tanggal_debut": "17 Februari 2018",
+      "artis": "Rich Brian",
+      "judul": "Amen",
+      "tangga_musik": "Top Album Sales",
+      "posisi_puncak": 36,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "19 Mei 2018",
+      "artis": "Joey Alexander",
+      "judul": "Eclipse",
+      "tangga_musik": "Independent Albums",
+      "posisi_puncak": 3,
+      "jumlah_minggu": 6
+    },
+    {
+      "tanggal_debut": "19 Mei 2018",
+      "artis": "Joey Alexander",
+      "judul": "Eclipse",
+      "tangga_musik": "Jazz Albums",
+      "posisi_puncak": 37,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "19 Mei 2018",
+      "artis": "Joey Alexander",
+      "judul": "Eclipse",
+      "tangga_musik": "Traditional Jazz Albums",
+      "posisi_puncak": 3,
+      "jumlah_minggu": 8
+    },
+    {
+      "tanggal_debut": "23 Juni 2018",
+      "artis": "Rich Brian",
+      "judul": "\"Midsummer Madness\" (88rising feat. Joji, Rich Brian, Higher Brothers, 8 August)",
+      "tangga_musik": "Hot R&B Songs",
+      "posisi_puncak": 23,
+      "jumlah_minggu": ""
+    },
+    {
+      "tanggal_debut": "22 September 2018",
+      "artis": "Anggun",
+      "judul": "\"The Good Is Back\"",
+      "tangga_musik": "Dance Club Songs",
+      "posisi_puncak": 20,
+      "jumlah_minggu": 11
+    },
+    {
+      "tanggal_debut": "10 November 2018",
+      "artis": "Agnez Mo",
+      "judul": "\"Overdose\" (bersama Chris Brown)",
+      "tangga_musik": "Mainstream R&B/Hip-Hop Airplay",
+      "posisi_puncak": 20,
+      "jumlah_minggu": 10
+    },
+    {
+      "tanggal_debut": "17 November 2018",
+      "artis": "Joey Alexander",
+      "judul": "A Joey Alexander Christmas",
+      "tangga_musik": "Jazz Albums",
+      "posisi_puncak": 21,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "17 November 2018",
+      "artis": "Joey Alexander",
+      "judul": "A Joey Alexander Christmas",
+      "tangga_musik": "Traditional Jazz Albums",
+      "posisi_puncak": 13,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "17 November 2018",
+      "artis": "Agnez Mo",
+      "judul": "\"Overdose\" (bersama Chris Brown)",
+      "tangga_musik": "R&B/Hip-Hop Airplay",
+      "posisi_puncak": 31,
+      "jumlah_minggu": 9
+    },
+    {
+      "tanggal_debut": "24 November 2018",
+      "artis": "Agnez Mo",
+      "judul": "\"Overdose\" (bersama Chris Brown)",
+      "tangga_musik": "Rhythmic Airplay",
+      "posisi_puncak": 36,
+      "jumlah_minggu": 4
+    },
+    {
+      "tanggal_debut": "8 Desember 2018",
+      "artis": "Agnez Mo",
+      "judul": "\"Overdose\" (bersama Chris Brown)",
+      "tangga_musik": "Hot R&B Songs",
+      "posisi_puncak": 24,
+      "jumlah_minggu": 2
+    },
+    {
+      "tanggal_debut": "10 Agustus 2019",
+      "artis": "Rich Brian",
+      "judul": "The Sailor",
+      "tangga_musik": "Billboard 200",
+      "posisi_puncak": 12,
+      "jumlah_minggu": ""
+    },
+    {
+      "tanggal_debut": "10 Agustus 2019",
+      "artis": "Rich Brian",
+      "judul": "The Sailor",
+      "tangga_musik": "Independent Albums",
+      "posisi_puncak": 62,
+      "jumlah_minggu": ""
+    },
+    {
+      "tanggal_debut": "10 Agustus 2019",
+      "artis": "Rich Brian",
+      "judul": "The Sailor",
+      "tangga_musik": "Top R&B/Hip-Hop Albums",
+      "posisi_puncak": 31,
+      "jumlah_minggu": ""
+    },
+    {
+      "tanggal_debut": "24 Agustus 2019",
+      "artis": "Anggun",
+      "judul": "\"Perfect World\"",
+      "tangga_musik": "Dance Club Songs",
+      "posisi_puncak": 5,
+      "jumlah_minggu": 13
+    },
+    {
+      "tanggal_debut": "15 Februari 2020",
+      "artis": "Joey Alexander",
+      "judul": "Warna",
+      "tangga_musik": "Jazz Albums",
+      "posisi_puncak": 20,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "28 Agustus 2021",
+      "artis": "Rich Brian",
+      "judul": "\"Run It\" (bersama DJ Snake dan Rick Ross)",
+      "tangga_musik": "Hot Dance/Electronic Songs",
+      "posisi_puncak": 13,
+      "jumlah_minggu": 20
+    },
+    {
+      "tanggal_debut": "28 Agustus 2021",
+      "artis": "Rich Brian",
+      "judul": "\"Run It\" (bersama DJ Snake dan Rick Ross)",
+      "tangga_musik": "Dance/Electronic Digital Song Sales",
+      "posisi_puncak": 9,
+      "jumlah_minggu": 7
+    },
+    {
+      "tanggal_debut": "7 Agustus 2021",
+      "artis": "Rich Brian",
+      "judul": "\"Edamame\" (bbno$ feat. Rich Brian)",
+      "tangga_musik": "Hot Rock & Alternative Songs",
+      "posisi_puncak": 13,
+      "jumlah_minggu": 25
+    },
+    {
+      "tanggal_debut": "9 Oktober 2021",
+      "artis": "Rich Brian",
+      "judul": "\"Edamame\" (bbno$ feat. Rich Brian)",
+      "tangga_musik": "Pop Airplay",
+      "posisi_puncak": 23,
+      "jumlah_minggu": 17
+    },
+    {
+      "tanggal_debut": "15 Januari 2022",
+      "artis": "Rich Brian",
+      "judul": "\"Edamame\" (bbno$ feat. Rich Brian)",
+      "tangga_musik": "Bubbling Under Hot 100",
+      "posisi_puncak": 22,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "19 Maret 2022",
+      "artis": "Agnez Mo",
+      "judul": "\"Patience\"",
+      "tangga_musik": "Adult R&B Airplay",
+      "posisi_puncak": 11,
+      "jumlah_minggu": 25
+    },
+    {
+      "tanggal_debut": "11 Juni 2022",
+      "artis": "Agnez Mo",
+      "judul": "\"Patience\"",
+      "tangga_musik": "R&B/Hip-Hop Airplay",
+      "posisi_puncak": 40,
+      "jumlah_minggu": 12
+    },
+    {
+      "tanggal_debut": "14 Januari 2023",
+      "artis": "Niki",
+      "judul": "Nicole",
+      "tangga_musik": "Top Current Album Sales",
+      "posisi_puncak": 64,
+      "jumlah_minggu": 1
+    },
+    {
+      "tanggal_debut": "24 Agustus 2024",
+      "artis": "Niki",
+      "judul": "Buzz",
+      "tangga_musik": "Heatseekers Albums",
+      "posisi_puncak": 22,
+      "jumlah_minggu": 1
+    }
+  ],
+  "meta": {
+    "title": "Daftar Artis Indonesia di Tangga Musik Billboard Amerika Serikat - Free Download",
+    "description": "Kronologi lagu dan album artis Indonesia yang masuk tangga musik Billboard Amerika Serikat beserta posisi puncak dan jumlah minggu. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Artis Indonesia di Tangga Musik Billboard Amerika Serikat | ListBase",
+    "seo_description": "Download Daftar Artis Indonesia di Tangga Musik Billboard Amerika Serikat — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_artis_Indonesia_di_tangga_musik_Billboard_Amerika_Serikat"
+    ]
+  }
+}
