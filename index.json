@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:04.477Z",
-  "total_datasets": 572,
-  "total_records": 646552,
+  "generated": "2026-10-26T02:13:06.659Z",
+  "total_datasets": 573,
+  "total_records": 646560,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -6232,6 +6232,33 @@
         "xlsx": {
           "name": "id-kapolri_ID.xlsx",
           "size": 8953
+        }
+      }
+    },
+    {
+      "id": "id-ketua-komisi-yudisial",
+      "name": "Daftar Ketua Komisi Yudisial Republik Indonesia",
+      "category": "law",
+      "record_count": 8,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "periode",
+        "wakil_ketua"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Komisi_Yudisial_Republik_Indonesia",
+      "updated": "2026-10",
+      "size": 3513,
+      "files": {
+        "csv": {
+          "name": "id-ketua-komisi-yudisial_ID.csv",
+          "size": 693
+        },
+        "xlsx": {
+          "name": "id-ketua-komisi-yudisial_ID.xlsx",
+          "size": 7281
         }
       }
     },
