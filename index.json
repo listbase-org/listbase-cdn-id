@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:02.148Z",
-  "total_datasets": 571,
-  "total_records": 646542,
+  "generated": "2026-10-26T02:13:04.477Z",
+  "total_datasets": 572,
+  "total_records": 646552,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "math",
@@ -6232,6 +6232,32 @@
         "xlsx": {
           "name": "id-kapolri_ID.xlsx",
           "size": 8953
+        }
+      }
+    },
+    {
+      "id": "id-ketua-kpk",
+      "name": "Daftar Ketua Komisi Pemberantasan Korupsi (KPK)",
+      "category": "law",
+      "record_count": 10,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "periode"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Komisi_Pemberantasan_Korupsi_Republik_Indonesia",
+      "updated": "2026-10",
+      "size": 3567,
+      "files": {
+        "csv": {
+          "name": "id-ketua-kpk_ID.csv",
+          "size": 762
+        },
+        "xlsx": {
+          "name": "id-ketua-kpk_ID.xlsx",
+          "size": 7236
         }
       }
     },
