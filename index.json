@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:32.976Z",
-  "total_datasets": 559,
-  "total_records": 645782,
+  "generated": "2026-10-26T02:12:35.350Z",
+  "total_datasets": 560,
+  "total_records": 645910,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -1226,6 +1226,30 @@
         "xlsx": {
           "name": "id-penyelenggara-kupva_ID.xlsx",
           "size": 320653
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-aceh",
+      "name": "Daftar Hidangan Khas Aceh",
+      "category": "food",
+      "record_count": 128,
+      "columns": [
+        "nama",
+        "kelompok",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Hidangan_Aceh",
+      "updated": "2026-10",
+      "size": 18531,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-aceh_ID.csv",
+          "size": 8561
+        },
+        "xlsx": {
+          "name": "id-hidangan-aceh_ID.xlsx",
+          "size": 11217
         }
       }
     },
