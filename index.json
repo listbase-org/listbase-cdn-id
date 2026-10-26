@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:11.290Z",
-  "total_datasets": 575,
-  "total_records": 646999,
+  "generated": "2026-10-26T02:13:13.607Z",
+  "total_datasets": 576,
+  "total_records": 647082,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -14027,6 +14027,33 @@
         "xlsx": {
           "name": "id-asian-games-medali_ID.xlsx",
           "size": 7741
+        }
+      }
+    },
+    {
+      "id": "id-juara-liga-sepak-bola",
+      "name": "Daftar Juara Liga Sepak Bola Indonesia (1930–Sekarang)",
+      "category": "sports",
+      "record_count": 83,
+      "columns": [
+        "kompetisi",
+        "musim",
+        "juara",
+        "tempat_kedua",
+        "pelatih_juara",
+        "pencetak_gol_terbanyak"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_juara_sepak_bola_Indonesia",
+      "updated": "2026-10",
+      "size": 23598,
+      "files": {
+        "csv": {
+          "name": "id-juara-liga-sepak-bola_ID.csv",
+          "size": 9710
+        },
+        "xlsx": {
+          "name": "id-juara-liga-sepak-bola_ID.xlsx",
+          "size": 10873
         }
       }
     },
