@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:26.222Z",
-  "total_datasets": 581,
-  "total_records": 647270,
+  "generated": "2026-10-26T02:13:28.503Z",
+  "total_datasets": 582,
+  "total_records": 647282,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -14917,6 +14917,30 @@
         "xlsx": {
           "name": "tech-unicode-symbols_ID.xlsx",
           "size": 9768
+        }
+      }
+    },
+    {
+      "id": "id-bulan-jawa",
+      "name": "Daftar Nama Bulan dalam Kalender Jawa (Sultan Agungan)",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "no",
+        "nama_bulan",
+        "jumlah_hari"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kalender_Jawa",
+      "updated": "2026-10",
+      "size": 2644,
+      "files": {
+        "csv": {
+          "name": "id-bulan-jawa_ID.csv",
+          "size": 371
+        },
+        "xlsx": {
+          "name": "id-bulan-jawa_ID.xlsx",
+          "size": 7065
         }
       }
     },

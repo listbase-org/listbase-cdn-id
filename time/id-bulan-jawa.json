@@ -1,0 +1,101 @@
+{
+  "id": "id-bulan-jawa",
+  "name": "Daftar Nama Bulan dalam Kalender Jawa (Sultan Agungan)",
+  "title": "Daftar Nama Bulan dalam Kalender Jawa (Sultan Agungan)",
+  "description": "Daftar 12 nama bulan dalam penanggalan Jawa Islam (Sultan Agungan) beserta jumlah hari tiap bulan.",
+  "category": "time",
+  "source": "https://id.wikipedia.org/wiki/Kalender_Jawa",
+  "source_url": "https://id.wikipedia.org/wiki/Kalender_Jawa",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama_bulan",
+      "label": "Nama Bulan",
+      "type": "string"
+    },
+    {
+      "key": "jumlah_hari",
+      "label": "Jumlah Hari",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama_bulan": "Sura",
+      "jumlah_hari": "30"
+    },
+    {
+      "no": "2",
+      "nama_bulan": "Sapar",
+      "jumlah_hari": "29"
+    },
+    {
+      "no": "3",
+      "nama_bulan": "Mulud atau Rabingulawal",
+      "jumlah_hari": "30"
+    },
+    {
+      "no": "4",
+      "nama_bulan": "Bakda Mulud atau Rabingulakir",
+      "jumlah_hari": "29"
+    },
+    {
+      "no": "5",
+      "nama_bulan": "Jumadil awal",
+      "jumlah_hari": "30"
+    },
+    {
+      "no": "6",
+      "nama_bulan": "Jumadil akir",
+      "jumlah_hari": "29"
+    },
+    {
+      "no": "7",
+      "nama_bulan": "Rejeb",
+      "jumlah_hari": "30"
+    },
+    {
+      "no": "8",
+      "nama_bulan": "Ruwah (Arwah, Saban)",
+      "jumlah_hari": "29"
+    },
+    {
+      "no": "9",
+      "nama_bulan": "Pasa (Puwasa, Siyam, Ramelan)",
+      "jumlah_hari": "30"
+    },
+    {
+      "no": "10",
+      "nama_bulan": "Sawal",
+      "jumlah_hari": "29"
+    },
+    {
+      "no": "11",
+      "nama_bulan": "Sela (Dulkangidah, Apit)",
+      "jumlah_hari": "30"
+    },
+    {
+      "no": "12",
+      "nama_bulan": "Besar (Dulkahijjah)",
+      "jumlah_hari": "29/30"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Nama Bulan dalam Kalender Jawa (Sultan Agungan) - Free Download",
+    "description": "Daftar 12 nama bulan dalam penanggalan Jawa Islam (Sultan Agungan) beserta jumlah hari tiap bulan. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Nama Bulan dalam Kalender Jawa (Sultan Agungan) | ListBase",
+    "seo_description": "Download Daftar Nama Bulan dalam Kalender Jawa (Sultan Agungan) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Kalender_Jawa"
+    ]
+  }
+}
