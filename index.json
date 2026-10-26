@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:42.464Z",
-  "total_datasets": 563,
-  "total_records": 646197,
+  "generated": "2026-10-26T02:12:44.827Z",
+  "total_datasets": 564,
+  "total_records": 646216,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -5853,6 +5853,32 @@
         "xlsx": {
           "name": "id-pahlawan-nasional_ID.xlsx",
           "size": 95765
+        }
+      }
+    },
+    {
+      "id": "id-perdana-menteri",
+      "name": "Daftar Perdana Menteri Indonesia (1945–1959)",
+      "category": "history",
+      "record_count": 19,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "partai"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Perdana_Menteri_Indonesia",
+      "updated": "2026-10",
+      "size": 5417,
+      "files": {
+        "csv": {
+          "name": "id-perdana-menteri_ID.csv",
+          "size": 1730
+        },
+        "xlsx": {
+          "name": "id-perdana-menteri_ID.xlsx",
+          "size": 7652
         }
       }
     },

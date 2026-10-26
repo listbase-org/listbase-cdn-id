@@ -1,0 +1,184 @@
+{
+  "id": "id-perdana-menteri",
+  "name": "Daftar Perdana Menteri Indonesia (1945–1959)",
+  "title": "Daftar Perdana Menteri Indonesia (1945–1959)",
+  "description": "Daftar Perdana Menteri Republik Indonesia pada masa demokrasi parlementer beserta masa jabatan dan partai politiknya.",
+  "category": "history",
+  "source": "https://id.wikipedia.org/wiki/Perdana_Menteri_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Perdana_Menteri_Indonesia",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "partai",
+      "label": "Partai",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Sutan Sjahrir (1909–1966)",
+      "mulai_menjabat": "14 November 1945",
+      "akhir_menjabat": "12 Maret 1946",
+      "partai": "Partai Sosialis"
+    },
+    {
+      "no": "1",
+      "nama": "Sutan Sjahrir (1909–1966)",
+      "mulai_menjabat": "12 Maret 1946",
+      "akhir_menjabat": "2 Oktober 1946",
+      "partai": "Partai Sosialis"
+    },
+    {
+      "no": "1",
+      "nama": "Sutan Sjahrir (1909–1966)",
+      "mulai_menjabat": "2 Oktober 1946",
+      "akhir_menjabat": "3 Juli 1947",
+      "partai": "Partai Sosialis"
+    },
+    {
+      "no": "2",
+      "nama": "Amir Sjarifoeddin (1907–1948)",
+      "mulai_menjabat": "3 Juli 1947",
+      "akhir_menjabat": "11 November 1947",
+      "partai": "Partai Sosialis"
+    },
+    {
+      "no": "2",
+      "nama": "Amir Sjarifoeddin (1907–1948)",
+      "mulai_menjabat": "11 November 1947",
+      "akhir_menjabat": "29 Januari 1948",
+      "partai": "Partai Sosialis"
+    },
+    {
+      "no": "3",
+      "nama": "Mohammad Hatta (1902–1980)",
+      "mulai_menjabat": "29 Januari 1948",
+      "akhir_menjabat": "19 Desember 1948",
+      "partai": "Nonpartisan"
+    },
+    {
+      "no": "Syafruddin Prawiranegara",
+      "nama": "Syafruddin Prawiranegara",
+      "mulai_menjabat": "19 Desember 1948",
+      "akhir_menjabat": "14 Juli 1949",
+      "partai": "–"
+    },
+    {
+      "no": "(3)",
+      "nama": "Mohammad Hatta",
+      "mulai_menjabat": "14 Juli 1949",
+      "akhir_menjabat": "4 Agustus 1949",
+      "partai": "Nonpartisan"
+    },
+    {
+      "no": "(3)",
+      "nama": "Mohammad Hatta",
+      "mulai_menjabat": "4 Agustus 1949",
+      "akhir_menjabat": "20 Desember 1949",
+      "partai": "Nonpartisan"
+    },
+    {
+      "no": "(3)",
+      "nama": "Mohammad Hatta",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "6 September 1950",
+      "partai": "Nonpartisan"
+    },
+    {
+      "no": "–",
+      "nama": "Soesanto Tirtoprodjo (Penjabat Sementara) (1900–1967)",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "21 Januari 1950",
+      "partai": "Partai Nasional Indonesia"
+    },
+    {
+      "no": "4",
+      "nama": "Abdoel Halim (1911–1987)",
+      "mulai_menjabat": "21 Januari 1950",
+      "akhir_menjabat": "6 September 1950",
+      "partai": "Nonpartisan"
+    },
+    {
+      "no": "5",
+      "nama": "Mohammad Natsir (1908–1993)",
+      "mulai_menjabat": "6 September 1950",
+      "akhir_menjabat": "21 April 1951",
+      "partai": "Partai Masyumi"
+    },
+    {
+      "no": "6",
+      "nama": "Soekiman Wirjosandjojo (1898–1974)",
+      "mulai_menjabat": "26 April 1951",
+      "akhir_menjabat": "1 April 1952",
+      "partai": "Partai Masyumi"
+    },
+    {
+      "no": "7",
+      "nama": "Wilopo (1909–1981)",
+      "mulai_menjabat": "1 April 1952",
+      "akhir_menjabat": "30 Juli 1953",
+      "partai": "Partai Nasional Indonesia"
+    },
+    {
+      "no": "8",
+      "nama": "Ali Sastroamidjojo (1903–1976)",
+      "mulai_menjabat": "30 Juli 1953",
+      "akhir_menjabat": "12 Agustus 1955",
+      "partai": "Partai Nasional Indonesia"
+    },
+    {
+      "no": "9",
+      "nama": "Burhanuddin Harahap (1917–1987)",
+      "mulai_menjabat": "12 Agustus 1955",
+      "akhir_menjabat": "24 Maret 1956",
+      "partai": "Partai Masyumi"
+    },
+    {
+      "no": "10",
+      "nama": "Ali Sastroamidjojo",
+      "mulai_menjabat": "24 Maret 1956",
+      "akhir_menjabat": "9 April 1957",
+      "partai": "Partai Nasional Indonesia"
+    },
+    {
+      "no": "11",
+      "nama": "Djoeanda Kartawidjaja (1911–1963)",
+      "mulai_menjabat": "9 April 1957",
+      "akhir_menjabat": "6 Juli 1959",
+      "partai": "Nonpartisan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Perdana Menteri Indonesia (1945–1959) - Free Download",
+    "description": "Daftar Perdana Menteri Republik Indonesia pada masa demokrasi parlementer beserta masa jabatan dan partai politiknya. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Perdana Menteri Indonesia (1945–1959) | ListBase",
+    "seo_description": "Download Daftar Perdana Menteri Indonesia (1945–1959) — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Perdana_Menteri_Indonesia"
+    ]
+  }
+}
