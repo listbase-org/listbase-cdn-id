@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:44.827Z",
-  "total_datasets": 564,
-  "total_records": 646216,
+  "generated": "2026-10-26T02:12:47.101Z",
+  "total_datasets": 565,
+  "total_records": 646289,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -13735,6 +13735,31 @@
         "xlsx": {
           "name": "id-menteri-sosial_ID.xlsx",
           "size": 9777
+        }
+      }
+    },
+    {
+      "id": "id-organisasi-penghayat-kepercayaan",
+      "name": "Daftar Organisasi Penghayat Kepercayaan di Indonesia",
+      "category": "society",
+      "record_count": 73,
+      "columns": [
+        "nama",
+        "pendiri",
+        "tahun",
+        "macam"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_organisasi_penghayat_kepercayaan_Indonesia",
+      "updated": "2026-10",
+      "size": 12196,
+      "files": {
+        "csv": {
+          "name": "id-organisasi-penghayat-kepercayaan_ID.csv",
+          "size": 4846
+        },
+        "xlsx": {
+          "name": "id-organisasi-penghayat-kepercayaan_ID.xlsx",
+          "size": 10248
         }
       }
     },

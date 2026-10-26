@@ -1,0 +1,484 @@
+{
+  "id": "id-organisasi-penghayat-kepercayaan",
+  "name": "Daftar Organisasi Penghayat Kepercayaan di Indonesia",
+  "title": "Daftar Organisasi Penghayat Kepercayaan di Indonesia",
+  "description": "Daftar organisasi penghayat kepercayaan terhadap Tuhan Yang Maha Esa di Indonesia beserta pendiri, tahun berdiri, dan jenis kepercayaannya.",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_organisasi_penghayat_kepercayaan_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_organisasi_penghayat_kepercayaan_Indonesia",
+  "updated": "2026-10",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "pendiri",
+      "label": "Pendiri",
+      "type": "string"
+    },
+    {
+      "key": "tahun",
+      "label": "Tahun",
+      "type": "number"
+    },
+    {
+      "key": "macam",
+      "label": "Macam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Adat Karuhun Urang",
+      "pendiri": "Pangeran Djatikusumah",
+      "tahun": "1999",
+      "macam": "Sunda Wiwitan"
+    },
+    {
+      "nama": "Adat Lawas",
+      "pendiri": "Usman Achmad",
+      "tahun": "1980",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Agama Helu",
+      "pendiri": "Wiko Agan",
+      "tahun": "1979",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Aliran Kebatinan \"Perjalanan\"",
+      "pendiri": "Mei Kartawinata, dkk",
+      "tahun": "1927",
+      "macam": "Kejawen, Sunda Wiwitan"
+    },
+    {
+      "nama": "Aliran Kepercayaan \"Aji Dipa\"",
+      "pendiri": "Aji Suja'i",
+      "tahun": "1979",
+      "macam": "Kejawen, Sunda Wiwitan"
+    },
+    {
+      "nama": "Aliran Mulajadi Nabolon",
+      "pendiri": "Guru Jonggi Pulomorsa, dkk",
+      "tahun": "1911",
+      "macam": "Parmalim"
+    },
+    {
+      "nama": "Anak Cucu Bandha Yudha",
+      "pendiri": "R. Sumbono Djonudin",
+      "tahun": "1970",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Anggayuh Panglereming Nafsu",
+      "pendiri": "Subardjo Zein",
+      "tahun": "1972",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Babolin",
+      "pendiri": "Benteng S. (?)",
+      "tahun": "1981",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Badan Kebatinan Indonesia",
+      "pendiri": "R. Moehamad Hadi",
+      "tahun": "1936",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Badan Keluarga Kebatinan Wisnu",
+      "pendiri": "Kyai Jakoeb Bin",
+      "tahun": "1916",
+      "macam": "Kejawen, Hindu Jawa"
+    },
+    {
+      "nama": "Badan Penghayat Ketuhanan Yang Maha Esa \"Rila\"",
+      "pendiri": "Drs. Soetadi",
+      "tahun": "1978",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Basorah",
+      "pendiri": "Etoi (?)",
+      "tahun": "1982",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Budi Luhur",
+      "pendiri": "Drs. B.R.M. Tjokrodiningrat, dkk",
+      "tahun": "1946",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Budi Rahayu",
+      "pendiri": "Natasukardjo, dkk",
+      "tahun": "1981",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Budi Sejati",
+      "pendiri": "R. Imam Subroto",
+      "tahun": "1978",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Budi Suci:107",
+      "pendiri": "I Nengah Sukanatra, SH",
+      "tahun": "1979",
+      "macam": "Hindu Bali"
+    },
+    {
+      "nama": "Bumi Hantoro",
+      "pendiri": "Ersan",
+      "tahun": "1984",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Dharma Murti:111-112: 41-43",
+      "pendiri": "Pan Putu Budihartini",
+      "tahun": "1982",
+      "macam": "Hindu Bali"
+    },
+    {
+      "nama": "Empung Lokon Esa",
+      "pendiri": "J.L. Weku",
+      "tahun": "1982",
+      "macam": "Tonaas Walian"
+    },
+    {
+      "nama": "Gantharwa",
+      "pendiri": "Joko Lelono Trihargono",
+      "tahun": "1979",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Gereja Adat Musi",
+      "pendiri": "Bawangin Panahal",
+      "tahun": "1888",
+      "macam": "Adat Musi"
+    },
+    {
+      "nama": "Golongan Si Raja Batak",
+      "pendiri": "Muria Sitompul",
+      "tahun": "1980",
+      "macam": "Parmalim"
+    },
+    {
+      "nama": "Ilmu Goib",
+      "pendiri": "Ki Suwito",
+      "tahun": "1948",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Ilmu Goib Kodrat Alam",
+      "pendiri": "Mitro Sarjono",
+      "tahun": "1982",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Induk Wargo Kawruh Utomo",
+      "pendiri": "Widi Prawiro Wasito",
+      "tahun": "1972",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Jawa Domas",
+      "pendiri": "Dono Tjanto",
+      "tahun": "1932",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Jowo Sanyoto",
+      "pendiri": "Ki Kere Sabda Gedibal",
+      "tahun": "-",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kaharingan Dayak Maanyan Hiang Piumpang",
+      "pendiri": "Kataut Ngaweng (?)",
+      "tahun": "1980",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Kalkikan",
+      "pendiri": "U.J. Mames",
+      "tahun": "1986",
+      "macam": "Tonaas Walian"
+    },
+    {
+      "nama": "Kapitayan",
+      "pendiri": "R. Soekandar Sastroatmodjo",
+      "tahun": "1979",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kasampurnan Ketuhanan Awal dan Akhir",
+      "pendiri": "Hadiprayitno",
+      "tahun": "1971",
+      "macam": "Kejawen(?)"
+    },
+    {
+      "nama": "Kawruh Batin Tulis Tanpa Papan Kasunyatan",
+      "pendiri": "Soepardi Soerjosendjojo",
+      "tahun": "1955",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kawruh Budi Jati",
+      "pendiri": "E. Soesilo Oetojo",
+      "tahun": "1976",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kawruh Budi Lestari Adjining Djiwo",
+      "pendiri": "Ki Tjitroprawiro",
+      "tahun": "1937",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kawruh Hak",
+      "pendiri": "Rochmat",
+      "tahun": "1979",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kawruh Kasampurnan Kasunyatan Ketuhanan Pusoko Budi Utomo",
+      "pendiri": "Harjo Tulus Asma Hutomo",
+      "tahun": "1940",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kejawen Maneges",
+      "pendiri": "Bahurekso Maneges",
+      "tahun": "2006",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kekadangan Wringin Seto",
+      "pendiri": "Eyang Amiseno & Amiluhur",
+      "tahun": "1895",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Kekeluargaan: 152",
+      "pendiri": "I Ketut Sudiarsa",
+      "tahun": "1980",
+      "macam": "Hindu Bali"
+    },
+    {
+      "nama": "Komunitas Pelajar Kawruh Jiwa (Kawruh Begja)",
+      "pendiri": "Ki Ageng Suryomentaram",
+      "tahun": "1927",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Marapu",
+      "pendiri": "",
+      "tahun": "1982",
+      "macam": "Marapu"
+    },
+    {
+      "nama": "Majelis Agama Kaharingan Indonesia",
+      "pendiri": "",
+      "tahun": "",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Majelis Luhur Kepercayaan terhadap Tuhan yang Maha Esa Indonesia",
+      "pendiri": "",
+      "tahun": "2014",
+      "macam": "Majelis Tunggal"
+    },
+    {
+      "nama": "Majelis Umat Kepercayaan Kaharingan Indonesia",
+      "pendiri": "",
+      "tahun": "",
+      "macam": "Kaharingan"
+    },
+    {
+      "nama": "Masade",
+      "pendiri": "Mawu Masade",
+      "tahun": "1984",
+      "macam": "Masade"
+    },
+    {
+      "nama": "Ngesti Kesampurnaan",
+      "pendiri": "Poedjijo Prawirohardjono",
+      "tahun": "1971",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Padepokan Lemah Putih (Amerta)",
+      "pendiri": "Suprapto Suryadarmo",
+      "tahun": "1986",
+      "macam": "Kejawen, Buddha"
+    },
+    {
+      "nama": "Padepokan Wisanggeni",
+      "pendiri": "Romo Didit Rudi Endar W",
+      "tahun": "1994",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Paguyuban Kawruh Hardo Pusoro",
+      "pendiri": "Ki Soemotjitro",
+      "tahun": "1910",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Paguyuban Kawruh Jawa Jawata",
+      "pendiri": "Darim",
+      "tahun": "1981",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Paguyuban Ngesti Tunggal (Pangestu)",
+      "pendiri": "Soenarto Mertowardojo",
+      "tahun": "1949",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Paguyuban Penghayat Kapribaden",
+      "pendiri": "Romo Herucokro Semono",
+      "tahun": "1980",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Pahoman Sejati[butuh rujukan]",
+      "pendiri": "Ki Rekso Jiwo",
+      "tahun": "1999",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Patembayan Jawadipa",
+      "pendiri": "KRT. Sastrasasangka (Damar Shashangka)",
+      "tahun": "2021",
+      "macam": "Siwa-Buddha, Kejawen"
+    },
+    {
+      "nama": "Perguruan Kebatinan Makdum Sarpin",
+      "pendiri": "",
+      "tahun": "1990",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Perguruan Kebathinan dan Kanuragan Surya Candra Bhuana: 656",
+      "pendiri": "Ida Bagus Alit Kusuma Negara",
+      "tahun": "1994",
+      "macam": "Hindu Bali"
+    },
+    {
+      "nama": "Perguruan Tenaga Dalam Bambu Kuning: 672-674",
+      "pendiri": "Drs. I Nyoman Serengan",
+      "tahun": "1989",
+      "macam": "Hindu Bali"
+    },
+    {
+      "nama": "Perhimpunan Kamanuhosan",
+      "pendiri": "Ki Joedo Prajitno",
+      "tahun": "1934",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Perhimpunan Kepribadian Indonesia",
+      "pendiri": "Soekariadji",
+      "tahun": "1978",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Ramai (Rumuat, Ali, Marie, Ayax, Ifrid)",
+      "pendiri": "Dahi Rumuat",
+      "tahun": "1950",
+      "macam": "Tonaas Walian"
+    },
+    {
+      "nama": "Persatuan Warga Sapta Darma (Persada)",
+      "pendiri": "Harjo Sapura",
+      "tahun": "1965",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Sanata Dharma Majapahit dan Pancasila",
+      "pendiri": "W. Hardjanta Parjapangarsa",
+      "tahun": "1955",
+      "macam": "Hindu Jawa"
+    },
+    {
+      "nama": "Sanggar Pengayoman Warga Kebatinan Majapahit: 425",
+      "pendiri": "Raden Ayu Siti Sutarni, dkk",
+      "tahun": "1963",
+      "macam": "Hindu Bali, Kejawen"
+    },
+    {
+      "nama": "Sedulur Sikep",
+      "pendiri": "Samin Surosentiko",
+      "tahun": "",
+      "macam": "Saminisme"
+    },
+    {
+      "nama": "Sirnagalih",
+      "pendiri": "Haris Suhyar",
+      "tahun": "",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Paguyuban Sumarah",
+      "pendiri": "Raden Ngabei Soekinohartono",
+      "tahun": "1935",
+      "macam": "Kejawen"
+    },
+    {
+      "nama": "Perkumpulan Persaudaraan Kejiwaan Susila Budhi Dharma (Subud)",
+      "pendiri": "Muhammad Subuh Sumohadiwidjojo",
+      "tahun": "1947",
+      "macam": "Kejawen, Sufisme"
+    },
+    {
+      "nama": "Tonaas Walian",
+      "pendiri": "Rumondor, dkk",
+      "tahun": "1976",
+      "macam": "Tonaas Walian"
+    },
+    {
+      "nama": "Ugamo Bangso Batak",
+      "pendiri": "",
+      "tahun": "",
+      "macam": "Parmalim"
+    },
+    {
+      "nama": "Ugamo Malim (Parmalim)",
+      "pendiri": "Mulia Naipospos",
+      "tahun": "1921",
+      "macam": "Parmalim"
+    },
+    {
+      "nama": "Ugamo Parmalim Budaya Adat Batak",
+      "pendiri": "",
+      "tahun": "1980",
+      "macam": "Parmalim"
+    },
+    {
+      "nama": "Wisnu Buddha/Eka Adnyana",
+      "pendiri": "Gusti Made Oka Mustika, SH",
+      "tahun": "1954",
+      "macam": "Hindu Bali, Buddha"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Organisasi Penghayat Kepercayaan di Indonesia - Free Download",
+    "description": "Daftar organisasi penghayat kepercayaan terhadap Tuhan Yang Maha Esa di Indonesia beserta pendiri, tahun berdiri, dan jenis kepercayaannya. Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Organisasi Penghayat Kepercayaan di Indonesia | ListBase",
+    "seo_description": "Download Daftar Organisasi Penghayat Kepercayaan di Indonesia — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_organisasi_penghayat_kepercayaan_Indonesia"
+    ]
+  }
+}
