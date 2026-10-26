@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:28.503Z",
-  "total_datasets": 582,
-  "total_records": 647282,
+  "generated": "2026-10-26T02:13:30.846Z",
+  "total_datasets": 583,
+  "total_records": 647294,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -15029,6 +15029,31 @@
         "xlsx": {
           "name": "id-hari-libur-completos_ID.xlsx",
           "size": 80510
+        }
+      }
+    },
+    {
+      "id": "id-mangsa-pranata-mangsa",
+      "name": "Daftar Mangsa dalam Pranata Mangsa (Kalender Jawa Matahari)",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "no",
+        "nama_mangsa",
+        "awal",
+        "akhir"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kalender_Jawa",
+      "updated": "2026-10",
+      "size": 3044,
+      "files": {
+        "csv": {
+          "name": "id-mangsa-pranata-mangsa_ID.csv",
+          "size": 487
+        },
+        "xlsx": {
+          "name": "id-mangsa-pranata-mangsa_ID.xlsx",
+          "size": 7161
         }
       }
     },

@@ -1,0 +1,118 @@
+{
+  "id": "id-mangsa-pranata-mangsa",
+  "name": "Daftar Mangsa dalam Pranata Mangsa (Kalender Jawa Matahari)",
+  "title": "Daftar Mangsa dalam Pranata Mangsa (Kalender Jawa Matahari)",
+  "description": "Daftar 12 mangsa dalam penanggalan Jawa berbasis matahari (pranata mangsa) beserta tanggal awal dan akhir dalam kalender Masehi.",
+  "category": "time",
+  "source": "https://id.wikipedia.org/wiki/Kalender_Jawa",
+  "source_url": "https://id.wikipedia.org/wiki/Kalender_Jawa",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama_mangsa",
+      "label": "Nama Mangsa",
+      "type": "string"
+    },
+    {
+      "key": "awal",
+      "label": "Awal",
+      "type": "string"
+    },
+    {
+      "key": "akhir",
+      "label": "Akhir",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama_mangsa": "Kasa",
+      "awal": "23 Juni",
+      "akhir": "2 Agustus"
+    },
+    {
+      "no": "2",
+      "nama_mangsa": "Karo",
+      "awal": "3 Agustus",
+      "akhir": "25 Agustus"
+    },
+    {
+      "no": "3",
+      "nama_mangsa": "Katiga (Katelu)",
+      "awal": "26 Agustus",
+      "akhir": "18 September"
+    },
+    {
+      "no": "4",
+      "nama_mangsa": "Kapat",
+      "awal": "19 September",
+      "akhir": "13 Oktober"
+    },
+    {
+      "no": "5",
+      "nama_mangsa": "Kalima",
+      "awal": "14 Oktober",
+      "akhir": "9 November"
+    },
+    {
+      "no": "6",
+      "nama_mangsa": "Kanem",
+      "awal": "10 November",
+      "akhir": "22 Desember"
+    },
+    {
+      "no": "7",
+      "nama_mangsa": "Kapitu",
+      "awal": "23 Desember",
+      "akhir": "3 Februari"
+    },
+    {
+      "no": "8",
+      "nama_mangsa": "Kawolu",
+      "awal": "4 Februari",
+      "akhir": "1 Maret"
+    },
+    {
+      "no": "9",
+      "nama_mangsa": "Kasanga",
+      "awal": "2 Maret",
+      "akhir": "26 Maret"
+    },
+    {
+      "no": "10",
+      "nama_mangsa": "Kadasa",
+      "awal": "27 Maret",
+      "akhir": "19 April"
+    },
+    {
+      "no": "11",
+      "nama_mangsa": "Dhesta",
+      "awal": "20 April",
+      "akhir": "12 Mei"
+    },
+    {
+      "no": "12",
+      "nama_mangsa": "Sadha",
+      "awal": "13 Mei",
+      "akhir": "22 Juni"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Mangsa dalam Pranata Mangsa (Kalender Jawa Matahari) - Free Download",
+    "description": "Daftar 12 mangsa dalam penanggalan Jawa berbasis matahari (pranata mangsa) beserta tanggal awal dan akhir dalam kalender Masehi. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Mangsa dalam Pranata Mangsa (Kalender Jawa Matahari) | ListBase",
+    "seo_description": "Download Daftar Mangsa dalam Pranata Mangsa (Kalender Jawa Matahari) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Kalender_Jawa"
+    ]
+  }
+}
