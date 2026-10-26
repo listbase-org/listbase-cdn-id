@@ -1,0 +1,296 @@
+{
+  "id": "id-wuku",
+  "name": "Daftar 30 Wuku dalam Kalender Jawa dan Bali",
+  "title": "Daftar 30 Wuku dalam Kalender Jawa dan Bali",
+  "description": "Daftar 30 wuku dalam siklus pawukon kalender Jawa dan Bali beserta dewa pelindung dan rentang harinya.",
+  "category": "time",
+  "source": "https://id.wikipedia.org/wiki/Wuku",
+  "source_url": "https://id.wikipedia.org/wiki/Wuku",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "wuku_jawa",
+      "label": "Wuku Jawa",
+      "type": "string"
+    },
+    {
+      "key": "wuku_bali",
+      "label": "Wuku Bali",
+      "type": "string"
+    },
+    {
+      "key": "dewa",
+      "label": "Dewa",
+      "type": "string"
+    },
+    {
+      "key": "rentang_hari",
+      "label": "Rentang Hari",
+      "type": "string"
+    },
+    {
+      "key": "catatan",
+      "label": "Catatan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "wuku_jawa": "Sinta",
+      "wuku_bali": "Sinta",
+      "dewa": "Batara Yama",
+      "rentang_hari": "(Ahad Pahing - Sabtu Pon)",
+      "catatan": ""
+    },
+    {
+      "no": "2",
+      "wuku_jawa": "Landep",
+      "wuku_bali": "Landep",
+      "dewa": "Batara Mahadewa",
+      "rentang_hari": "(Ahad Wage - Sabtu Kliwon)",
+      "catatan": ""
+    },
+    {
+      "no": "3",
+      "wuku_jawa": "Wukir",
+      "wuku_bali": "Ukir",
+      "dewa": "Batara Mahayakti",
+      "rentang_hari": "(Ahad Legi - Sabtu Pahing)",
+      "catatan": ""
+    },
+    {
+      "no": "4",
+      "wuku_jawa": "Kurantil",
+      "wuku_bali": "Kulantir",
+      "dewa": "Batara Langsur",
+      "rentang_hari": "(Ahad Pon - Sabtu Wage)",
+      "catatan": ""
+    },
+    {
+      "no": "5",
+      "wuku_jawa": "Tolu",
+      "wuku_bali": "Tulu",
+      "dewa": "Batara Bayu",
+      "rentang_hari": "(Ahad Kliwon - Sabtu Legi)",
+      "catatan": ""
+    },
+    {
+      "no": "6",
+      "wuku_jawa": "Gumbreg",
+      "wuku_bali": "Gumbreg",
+      "dewa": "Batara Candra",
+      "rentang_hari": "(Ahad Pahing - Sabtu Pon)",
+      "catatan": ""
+    },
+    {
+      "no": "7",
+      "wuku_jawa": "Warigalit",
+      "wuku_bali": "Wariga",
+      "dewa": "Batara Asmara",
+      "rentang_hari": "(Ahad Wage - Sabtu Kliwon)",
+      "catatan": ""
+    },
+    {
+      "no": "8",
+      "wuku_jawa": "Warigagung",
+      "wuku_bali": "Warigadian",
+      "dewa": "Batara Maharesi",
+      "rentang_hari": "(Ahad Legi - Sabtu Pahing)",
+      "catatan": ""
+    },
+    {
+      "no": "9",
+      "wuku_jawa": "Julungwangi",
+      "wuku_bali": "Julangwangi",
+      "dewa": "Batara Sambu",
+      "rentang_hari": "(Ahad Pon - Sabtu Wage)",
+      "catatan": ""
+    },
+    {
+      "no": "10",
+      "wuku_jawa": "Sungsang",
+      "wuku_bali": "Sungsang",
+      "dewa": "Batara Gana Ganesa",
+      "rentang_hari": "(Ahad Kliwon - Sabtu Legi)",
+      "catatan": ""
+    },
+    {
+      "no": "11",
+      "wuku_jawa": "Galungan",
+      "wuku_bali": "Dungulan",
+      "dewa": "Batara Kamajaya",
+      "rentang_hari": "(Ahad Pahing - Sabtu Pon)",
+      "catatan": "Pada minggu ini, jatuh hari raya Galungan pada hari Rabu-Kliwon"
+    },
+    {
+      "no": "12",
+      "wuku_jawa": "Kuningan",
+      "wuku_bali": "Kuningan",
+      "dewa": "Batara Indra.",
+      "rentang_hari": "(Ahad Wage - Sabtu Kliwon)",
+      "catatan": "Pada minggu ini, jatuh hari raya Kuningan pada hari Sabtu-Kliwon."
+    },
+    {
+      "no": "13",
+      "wuku_jawa": "Langkir",
+      "wuku_bali": "Langkir",
+      "dewa": "Batara Kala",
+      "rentang_hari": "(Ahad Legi - Sabtu Pahing)",
+      "catatan": ""
+    },
+    {
+      "no": "14",
+      "wuku_jawa": "Mandasiya",
+      "wuku_bali": "Medangsia",
+      "dewa": "Batara Brahma",
+      "rentang_hari": "(Ahad Pon - Sabtu Wage)",
+      "catatan": ""
+    },
+    {
+      "no": "15",
+      "wuku_jawa": "Julungpujut",
+      "wuku_bali": "Pujut",
+      "dewa": "Batara Guritna",
+      "rentang_hari": "(Ahad Kliwon - Sabtu Legi)",
+      "catatan": ""
+    },
+    {
+      "no": "16",
+      "wuku_jawa": "Pahang",
+      "wuku_bali": "Pahang",
+      "dewa": "Batara Tantra",
+      "rentang_hari": "(Ahad Pahing - Sabtu Pon)",
+      "catatan": ""
+    },
+    {
+      "no": "17",
+      "wuku_jawa": "Kuruwelut",
+      "wuku_bali": "Krulut",
+      "dewa": "Batara Wisnu",
+      "rentang_hari": "(Ahad Wage - Sabtu Kliwon)",
+      "catatan": ""
+    },
+    {
+      "no": "18",
+      "wuku_jawa": "Marakeh",
+      "wuku_bali": "Merakih",
+      "dewa": "Batara Suranggana",
+      "rentang_hari": "(Ahad Legi - Sabtu Pahing)",
+      "catatan": ""
+    },
+    {
+      "no": "19",
+      "wuku_jawa": "Tambir",
+      "wuku_bali": "Tambir",
+      "dewa": "Batara Siwa",
+      "rentang_hari": "(Ahad Pon - Sabtu Wage)",
+      "catatan": ""
+    },
+    {
+      "no": "20",
+      "wuku_jawa": "Medangkungan",
+      "wuku_bali": "Medangkungan",
+      "dewa": "Batara Basuki",
+      "rentang_hari": "(Ahad Kliwon - Sabtu Legi)",
+      "catatan": ""
+    },
+    {
+      "no": "21",
+      "wuku_jawa": "Maktal",
+      "wuku_bali": "Maktal",
+      "dewa": "Batara Sakri",
+      "rentang_hari": "(Ahad Pahing - Sabtu Pon)",
+      "catatan": ""
+    },
+    {
+      "no": "22",
+      "wuku_jawa": "Wuye",
+      "wuku_bali": "Uye",
+      "dewa": "Batara Kowera",
+      "rentang_hari": "(Ahad Wage - Sabtu Kliwon)",
+      "catatan": ""
+    },
+    {
+      "no": "23",
+      "wuku_jawa": "Manahil",
+      "wuku_bali": "Menail",
+      "dewa": "Batara Citragotra",
+      "rentang_hari": "(Ahad Legi - Sabtu Pahing)",
+      "catatan": ""
+    },
+    {
+      "no": "24",
+      "wuku_jawa": "Prangbakat",
+      "wuku_bali": "Prangbakat",
+      "dewa": "Batara Bisma",
+      "rentang_hari": "(Ahad Pon - Sabtu Wage)",
+      "catatan": ""
+    },
+    {
+      "no": "25",
+      "wuku_jawa": "Bala",
+      "wuku_bali": "Bala",
+      "dewa": "Batara Durga",
+      "rentang_hari": "(Ahad Kliwon - Sabtu Legi)",
+      "catatan": ""
+    },
+    {
+      "no": "26",
+      "wuku_jawa": "Wugu",
+      "wuku_bali": "Ugu",
+      "dewa": "Batara Singajanma",
+      "rentang_hari": "(Ahad Pahing - Sabtu Pon)",
+      "catatan": ""
+    },
+    {
+      "no": "27",
+      "wuku_jawa": "Wayang",
+      "wuku_bali": "Wayang",
+      "dewa": "Batara Sri",
+      "rentang_hari": "(Ahad Wage - Sabtu Kliwon)",
+      "catatan": ""
+    },
+    {
+      "no": "28",
+      "wuku_jawa": "Kulawu",
+      "wuku_bali": "Kelawu",
+      "dewa": "Batara Sadana",
+      "rentang_hari": "(Ahad Legi - Sabtu Pahing)",
+      "catatan": ""
+    },
+    {
+      "no": "29",
+      "wuku_jawa": "Dukut",
+      "wuku_bali": "Dukut",
+      "dewa": "Batara Baruna",
+      "rentang_hari": "(Ahad Pon - Sabtu Wage)",
+      "catatan": "Pada minggu ini, jatuh hari Anggara Kasih pada hari Selasa Kliwon yang dianggap keramat oleh orang Jawa."
+    },
+    {
+      "no": "30",
+      "wuku_jawa": "Watugunung",
+      "wuku_bali": "Watugunung",
+      "dewa": "Batara Anantaboga.",
+      "rentang_hari": "(Ahad Kliwon - Sabtu Legi)",
+      "catatan": "Dalam minggu ini jatuh hari Sabtu Umanis adalah hari Saraswati yang dianggap suci oleh orang Bali."
+    }
+  ],
+  "meta": {
+    "title": "Daftar 30 Wuku dalam Kalender Jawa dan Bali - Free Download",
+    "description": "Daftar 30 wuku dalam siklus pawukon kalender Jawa dan Bali beserta dewa pelindung dan rentang harinya. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar 30 Wuku dalam Kalender Jawa dan Bali | ListBase",
+    "seo_description": "Download Daftar 30 Wuku dalam Kalender Jawa dan Bali — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Wuku"
+    ]
+  }
+}

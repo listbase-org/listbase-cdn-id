@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:30.846Z",
-  "total_datasets": 583,
-  "total_records": 647294,
+  "generated": "2026-10-26T02:13:33.276Z",
+  "total_datasets": 584,
+  "total_records": 647324,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -15054,6 +15054,33 @@
         "xlsx": {
           "name": "id-mangsa-pranata-mangsa_ID.xlsx",
           "size": 7161
+        }
+      }
+    },
+    {
+      "id": "id-wuku",
+      "name": "Daftar 30 Wuku dalam Kalender Jawa dan Bali",
+      "category": "time",
+      "record_count": 30,
+      "columns": [
+        "no",
+        "wuku_jawa",
+        "wuku_bali",
+        "dewa",
+        "rentang_hari",
+        "catatan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Wuku",
+      "updated": "2026-10",
+      "size": 7801,
+      "files": {
+        "csv": {
+          "name": "id-wuku_ID.csv",
+          "size": 2567
+        },
+        "xlsx": {
+          "name": "id-wuku_ID.xlsx",
+          "size": 8277
         }
       }
     },
