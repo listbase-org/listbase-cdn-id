@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:52.775Z",
-  "total_datasets": 567,
-  "total_records": 646428,
+  "generated": "2026-10-26T02:12:55.126Z",
+  "total_datasets": 568,
+  "total_records": 646484,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -455,6 +455,33 @@
         "xlsx": {
           "name": "id-gubernur-bank-indonesia_ID.xlsx",
           "size": 7784
+        }
+      }
+    },
+    {
+      "id": "id-menteri-keuangan",
+      "name": "Daftar Menteri Keuangan Indonesia",
+      "category": "economy",
+      "record_count": 56,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Keuangan_Indonesia",
+      "updated": "2026-10",
+      "size": 13415,
+      "files": {
+        "csv": {
+          "name": "id-menteri-keuangan_ID.csv",
+          "size": 4723
+        },
+        "xlsx": {
+          "name": "id-menteri-keuangan_ID.xlsx",
+          "size": 9555
         }
       }
     },

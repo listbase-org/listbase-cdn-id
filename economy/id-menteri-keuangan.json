@@ -1,0 +1,504 @@
+{
+  "id": "id-menteri-keuangan",
+  "name": "Daftar Menteri Keuangan Indonesia",
+  "title": "Daftar Menteri Keuangan Indonesia",
+  "description": "Daftar Menteri Keuangan Republik Indonesia dari tahun 1945 hingga sekarang, beserta partai, kabinet, dan masa jabatan.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Keuangan_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Keuangan_Indonesia",
+  "updated": "2026-10",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "partai",
+      "label": "Partai",
+      "type": "string"
+    },
+    {
+      "key": "kabinet",
+      "label": "Kabinet",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Samsi Sastrawidagda",
+      "partai": "Independen",
+      "kabinet": "Presidentil",
+      "mulai_menjabat": "2 September 1945",
+      "akhir_menjabat": "26 September 1945"
+    },
+    {
+      "no": "2",
+      "nama": "A. A. Maramis",
+      "partai": "Independen",
+      "kabinet": "Presidentil",
+      "mulai_menjabat": "26 September 1945",
+      "akhir_menjabat": "14 November 1945"
+    },
+    {
+      "no": "3",
+      "nama": "Sunarjo Kolopaking",
+      "partai": "Independen",
+      "kabinet": "Syahrir I",
+      "mulai_menjabat": "14 November 1945",
+      "akhir_menjabat": "5 Desember 1945"
+    },
+    {
+      "no": "4",
+      "nama": "Surachman Tjokroadisurjo",
+      "partai": "Independen",
+      "kabinet": "Syahrir I",
+      "mulai_menjabat": "5 Desember 1945",
+      "akhir_menjabat": "12 Maret 1946"
+    },
+    {
+      "no": "4",
+      "nama": "Surachman Tjokroadisurjo",
+      "partai": "Independen",
+      "kabinet": "Syahrir II",
+      "mulai_menjabat": "12 Maret 1946",
+      "akhir_menjabat": "2 Oktober 1946"
+    },
+    {
+      "no": "5",
+      "nama": "Syafruddin Prawiranegara",
+      "partai": "Masyumi",
+      "kabinet": "Syahrir III",
+      "mulai_menjabat": "2 Oktober 1946",
+      "akhir_menjabat": "26 Juni 1947"
+    },
+    {
+      "no": "(2)",
+      "nama": "A. A. Maramis",
+      "partai": "PNI",
+      "kabinet": "Amir Syarifuddin I",
+      "mulai_menjabat": "3 Juli 1947",
+      "akhir_menjabat": "11 November 1947"
+    },
+    {
+      "no": "(2)",
+      "nama": "A. A. Maramis",
+      "partai": "PNI",
+      "kabinet": "Amir Syarifuddin II",
+      "mulai_menjabat": "11 November 1947",
+      "akhir_menjabat": "29 Januari 1948"
+    },
+    {
+      "no": "(2)",
+      "nama": "A. A. Maramis",
+      "partai": "PNI",
+      "kabinet": "Hatta I",
+      "mulai_menjabat": "29 Januari 1948",
+      "akhir_menjabat": "4 Agustus 1949"
+    },
+    {
+      "no": "6",
+      "nama": "Lukman Hakim",
+      "partai": "PNI",
+      "kabinet": "Darurat",
+      "mulai_menjabat": "19 Desember 1948",
+      "akhir_menjabat": "13 Juli 1949"
+    },
+    {
+      "no": "6",
+      "nama": "Lukman Hakim",
+      "partai": "PNI",
+      "kabinet": "Hatta II",
+      "mulai_menjabat": "4 Agustus 1949",
+      "akhir_menjabat": "20 Desember 1949"
+    },
+    {
+      "no": "(5)",
+      "nama": "Syafruddin Prawiranegara",
+      "partai": "Masyumi",
+      "kabinet": "RIS",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "15 Agustus 1950"
+    },
+    {
+      "no": "(6)",
+      "nama": "Lukman Hakim",
+      "partai": "PNI",
+      "kabinet": "Soesanto",
+      "mulai_menjabat": "20 Desember 1949",
+      "akhir_menjabat": "21 Januari 1950"
+    },
+    {
+      "no": "(6)",
+      "nama": "Lukman Hakim",
+      "partai": "PNI",
+      "kabinet": "Halim",
+      "mulai_menjabat": "21 Januari 1950",
+      "akhir_menjabat": "15 Agustus 1950"
+    },
+    {
+      "no": "(5)",
+      "nama": "Syafruddin Prawiranegara",
+      "partai": "Masyumi",
+      "kabinet": "Natsir",
+      "mulai_menjabat": "6 September 1950",
+      "akhir_menjabat": "27 April 1951"
+    },
+    {
+      "no": "7",
+      "nama": "Jusuf Wibisono",
+      "partai": "Masyumi",
+      "kabinet": "Sukiman Suwirjo",
+      "mulai_menjabat": "27 April 1951",
+      "akhir_menjabat": "3 April 1952"
+    },
+    {
+      "no": "8",
+      "nama": "Soemitro Djojohadikoesoemo",
+      "partai": "PSI",
+      "kabinet": "Wilopo",
+      "mulai_menjabat": "3 April 1952",
+      "akhir_menjabat": "3 Juni 1953"
+    },
+    {
+      "no": "9",
+      "nama": "Ong Eng Die",
+      "partai": "PNI",
+      "kabinet": "Ali Sastroamidjojo I",
+      "mulai_menjabat": "1 Agustus 1953",
+      "akhir_menjabat": "24 Juli 1955"
+    },
+    {
+      "no": "(8)",
+      "nama": "Soemitro Djojohadikoesoemo",
+      "partai": "PSI",
+      "kabinet": "Burhanuddin Harahap",
+      "mulai_menjabat": "12 Agustus 1955",
+      "akhir_menjabat": "3 Maret 1956"
+    },
+    {
+      "no": "(7)",
+      "nama": "Jusuf Wibisono",
+      "partai": "Masyumi",
+      "kabinet": "Ali Sastroamidjojo II",
+      "mulai_menjabat": "26 Maret 1956",
+      "akhir_menjabat": "9 Januari 1957"
+    },
+    {
+      "no": "",
+      "nama": "Djoeanda Kartawidjaja (ad-interim)",
+      "partai": "Independen",
+      "kabinet": "Ali Sastroamidjojo II",
+      "mulai_menjabat": "9 Januari 1957",
+      "akhir_menjabat": "14 Maret 1957"
+    },
+    {
+      "no": "10",
+      "nama": "Soetikno Slamet",
+      "partai": "PNI",
+      "kabinet": "Karya",
+      "mulai_menjabat": "9 April 1957",
+      "akhir_menjabat": "5 Juli 1959"
+    },
+    {
+      "no": "11",
+      "nama": "Djoeanda Kartawidjaja",
+      "partai": "Independen",
+      "kabinet": "Kerja I",
+      "mulai_menjabat": "10 Juli 1959",
+      "akhir_menjabat": "18 Februari 1960"
+    },
+    {
+      "no": "11",
+      "nama": "Djoeanda Kartawidjaja",
+      "partai": "Independen",
+      "kabinet": "Kerja II",
+      "mulai_menjabat": "18 Februari 1960",
+      "akhir_menjabat": "1 Juli 1960"
+    },
+    {
+      "no": "12",
+      "nama": "Notohamiprodjo",
+      "partai": "Independen",
+      "kabinet": "Kerja II",
+      "mulai_menjabat": "1 Juli 1960",
+      "akhir_menjabat": "6 Maret 1962"
+    },
+    {
+      "no": "12",
+      "nama": "Notohamiprodjo",
+      "partai": "Independen",
+      "kabinet": "Kerja III",
+      "mulai_menjabat": "6 Maret 1962",
+      "akhir_menjabat": "13 November 1963"
+    },
+    {
+      "no": "13",
+      "nama": "Soemarno",
+      "partai": "Independen",
+      "kabinet": "Kerja IV",
+      "mulai_menjabat": "13 November 1963",
+      "akhir_menjabat": "27 Agustus 1964"
+    },
+    {
+      "no": "13",
+      "nama": "Soemarno",
+      "partai": "Independen",
+      "kabinet": "Dwikora I",
+      "mulai_menjabat": "27 Agustus 1964",
+      "akhir_menjabat": "22 Februari 1966"
+    },
+    {
+      "no": "13",
+      "nama": "Soemarno",
+      "partai": "Independen",
+      "kabinet": "Dwikora II",
+      "mulai_menjabat": "24 Februari 1966",
+      "akhir_menjabat": "27 Maret 1966"
+    },
+    {
+      "no": "13",
+      "nama": "Soemarno",
+      "partai": "Independen",
+      "kabinet": "Dwikora III",
+      "mulai_menjabat": "31 Maret 1966",
+      "akhir_menjabat": "25 Juli 1966"
+    },
+    {
+      "no": "14",
+      "nama": "Frans Seda",
+      "partai": "Katolik",
+      "kabinet": "Ampera I",
+      "mulai_menjabat": "28 Juli 1966",
+      "akhir_menjabat": "17 Oktober 1967"
+    },
+    {
+      "no": "14",
+      "nama": "Frans Seda",
+      "partai": "Katolik",
+      "kabinet": "Ampera II",
+      "mulai_menjabat": "17 Oktober 1967",
+      "akhir_menjabat": "6 Juni 1968"
+    },
+    {
+      "no": "15",
+      "nama": "Ali Wardhana",
+      "partai": "Independen",
+      "kabinet": "Pembangunan I",
+      "mulai_menjabat": "10 Juni 1968",
+      "akhir_menjabat": "27 Maret 1973"
+    },
+    {
+      "no": "15",
+      "nama": "Ali Wardhana",
+      "partai": "Independen",
+      "kabinet": "Pembangunan II",
+      "mulai_menjabat": "28 Maret 1973",
+      "akhir_menjabat": "29 Maret 1978"
+    },
+    {
+      "no": "15",
+      "nama": "Ali Wardhana",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan III",
+      "mulai_menjabat": "31 Maret 1978",
+      "akhir_menjabat": "16 Maret 1983"
+    },
+    {
+      "no": "16",
+      "nama": "Radius Prawiro",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan IV",
+      "mulai_menjabat": "19 Maret 1983",
+      "akhir_menjabat": "21 Maret 1988"
+    },
+    {
+      "no": "17",
+      "nama": "J.B. Sumarlin",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan V",
+      "mulai_menjabat": "23 Maret 1988",
+      "akhir_menjabat": "17 Maret 1993"
+    },
+    {
+      "no": "18",
+      "nama": "Mar'ie Muhammad",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VI",
+      "mulai_menjabat": "19 Maret 1993",
+      "akhir_menjabat": "11 Maret 1998"
+    },
+    {
+      "no": "19",
+      "nama": "Fuad Bawazier",
+      "partai": "Golkar",
+      "kabinet": "Pembangunan VII",
+      "mulai_menjabat": "16 Maret 1998",
+      "akhir_menjabat": "21 Mei 1998"
+    },
+    {
+      "no": "20",
+      "nama": "Bambang Subianto",
+      "partai": "Independen",
+      "kabinet": "Reformasi Pembangunan",
+      "mulai_menjabat": "23 Mei 1998",
+      "akhir_menjabat": "20 Oktober 1999"
+    },
+    {
+      "no": "21",
+      "nama": "Bambang Sudibyo",
+      "partai": "PAN",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "28 Oktober 1999",
+      "akhir_menjabat": "23 Agustus 2000"
+    },
+    {
+      "no": "22",
+      "nama": "Prijadi Praptosuhardjo",
+      "partai": "Independen",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "23 Agustus 2000",
+      "akhir_menjabat": "12 Juni 2001"
+    },
+    {
+      "no": "23",
+      "nama": "Rizal Ramli",
+      "partai": "Independen",
+      "kabinet": "Persatuan Nasional",
+      "mulai_menjabat": "12 Juni 2001",
+      "akhir_menjabat": "23 Juli 2001"
+    },
+    {
+      "no": "24",
+      "nama": "Boediono",
+      "partai": "Independen",
+      "kabinet": "Gotong Royong",
+      "mulai_menjabat": "10 Agustus 2001",
+      "akhir_menjabat": "20 Oktober 2004"
+    },
+    {
+      "no": "25",
+      "nama": "Jusuf Anwar",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu I",
+      "mulai_menjabat": "21 Oktober 2004",
+      "akhir_menjabat": "7 Desember 2005"
+    },
+    {
+      "no": "26",
+      "nama": "Sri Mulyani",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu I",
+      "mulai_menjabat": "7 Desember 2005",
+      "akhir_menjabat": "20 Oktober 2009"
+    },
+    {
+      "no": "26",
+      "nama": "Sri Mulyani",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "22 Oktober 2009",
+      "akhir_menjabat": "20 Mei 2010"
+    },
+    {
+      "no": "27",
+      "nama": "Agus Martowardojo",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "20 Mei 2010",
+      "akhir_menjabat": "19 April 2013"
+    },
+    {
+      "no": "—",
+      "nama": "Hatta Rajasa (Pelaksana Tugas)",
+      "partai": "PAN",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "19 April 2013",
+      "akhir_menjabat": "21 Mei 2013"
+    },
+    {
+      "no": "28",
+      "nama": "Chatib Basri",
+      "partai": "Independen",
+      "kabinet": "Indonesia Bersatu II",
+      "mulai_menjabat": "21 Mei 2013",
+      "akhir_menjabat": "20 Oktober 2014"
+    },
+    {
+      "no": "29",
+      "nama": "Bambang Brodjonegoro",
+      "partai": "Independen",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "27 Oktober 2014",
+      "akhir_menjabat": "27 Juli 2016"
+    },
+    {
+      "no": "(26)",
+      "nama": "Sri Mulyani",
+      "partai": "Independen",
+      "kabinet": "Kerja",
+      "mulai_menjabat": "27 Juli 2016",
+      "akhir_menjabat": "20 Oktober 2019"
+    },
+    {
+      "no": "(26)",
+      "nama": "Sri Mulyani",
+      "partai": "Independen",
+      "kabinet": "Indonesia Maju",
+      "mulai_menjabat": "23 Oktober 2019",
+      "akhir_menjabat": "20 Oktober 2024"
+    },
+    {
+      "no": "(26)",
+      "nama": "Sri Mulyani",
+      "partai": "Independen",
+      "kabinet": "Merah Putih",
+      "mulai_menjabat": "21 Oktober 2024",
+      "akhir_menjabat": "8 September 2025"
+    },
+    {
+      "no": "30",
+      "nama": "Purbaya Yudhi Sadewa",
+      "partai": "Independen",
+      "kabinet": "Merah Putih",
+      "mulai_menjabat": "8 September 2025",
+      "akhir_menjabat": "14 September 2026"
+    },
+    {
+      "no": "31",
+      "nama": "Suahasil Nazara",
+      "partai": "Independen",
+      "kabinet": "Merah Putih",
+      "mulai_menjabat": "14 September 2026",
+      "akhir_menjabat": "Petahana"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Keuangan Indonesia - Free Download",
+    "description": "Daftar Menteri Keuangan Republik Indonesia dari tahun 1945 hingga sekarang, beserta partai, kabinet, dan masa jabatan. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Keuangan Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Keuangan Indonesia — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Keuangan_Indonesia"
+    ]
+  }
+}
