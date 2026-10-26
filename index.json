@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-25T02:07:36.939Z",
-  "total_datasets": 556,
-  "total_records": 642793,
+  "generated": "2026-10-26T02:12:28.051Z",
+  "total_datasets": 557,
+  "total_records": 645496,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -375,6 +375,32 @@
         "xlsx": {
           "name": "id-situs-warisan-dunia-unesco_ID.xlsx",
           "size": 10325
+        }
+      }
+    },
+    {
+      "id": "id-warisan-budaya-takbenda",
+      "name": "Daftar Warisan Budaya Takbenda (WBTb) Indonesia per Provinsi",
+      "category": "culture",
+      "record_count": 2703,
+      "columns": [
+        "provinsi",
+        "nomor_registrasi",
+        "tahun_penetapan",
+        "karya_budaya",
+        "domain"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Warisan_Budaya_Takbenda_Indonesia",
+      "updated": "2026-10",
+      "size": 558969,
+      "files": {
+        "csv": {
+          "name": "id-warisan-budaya-takbenda_ID.csv",
+          "size": 227325
+        },
+        "xlsx": {
+          "name": "id-warisan-budaya-takbenda_ID.xlsx",
+          "size": 98473
         }
       }
     },
