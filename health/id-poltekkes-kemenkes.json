@@ -1,0 +1,274 @@
+{
+  "id": "id-poltekkes-kemenkes",
+  "name": "Daftar Politeknik Kesehatan (Poltekkes) Kemenkes di Indonesia",
+  "title": "Daftar Politeknik Kesehatan (Poltekkes) Kemenkes di Indonesia",
+  "description": "Daftar 38 Politeknik Kesehatan di bawah Kementerian Kesehatan Republik Indonesia beserta alamat dan nomor telepon.",
+  "category": "health",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Politeknik_Kesehatan_Kementerian_Kesehatan_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Politeknik_Kesehatan_Kementerian_Kesehatan_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "poltekkes",
+      "label": "Poltekkes",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "telepon",
+      "label": "Telepon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1.",
+      "poltekkes": "Aceh",
+      "alamat": "Jl. Soekarno-Hatta, Kabupaten Aceh Besar, Aceh",
+      "telepon": "0651-46127"
+    },
+    {
+      "no": "2.",
+      "poltekkes": "Medan",
+      "alamat": "Jl. Jamin Ginting No.135, Kota Medan, Sumatera Utara",
+      "telepon": "061-8368633"
+    },
+    {
+      "no": "3.",
+      "poltekkes": "Riau",
+      "alamat": "Jl. Melur No.103, Kota Pekanbaru, Riau",
+      "telepon": "0761-36581"
+    },
+    {
+      "no": "4.",
+      "poltekkes": "Padang",
+      "alamat": "Jl. Raya Siteba, Kota Padang, Sumatera Barat",
+      "telepon": "0751-7051718"
+    },
+    {
+      "no": "5.",
+      "poltekkes": "Jambi",
+      "alamat": "Jl. H. Agus Salim No.9, Kota Jambi, Jambi",
+      "telepon": "0741-445450"
+    },
+    {
+      "no": "6.",
+      "poltekkes": "Bengkulu",
+      "alamat": "Jl. Indragiri No.4, Kota Bengkulu, Bengkulu",
+      "telepon": "0736-341212"
+    },
+    {
+      "no": "7.",
+      "poltekkes": "Palembang",
+      "alamat": "Jl. Sukabangun 1 No.115, Kota Palembang, Sumatera Selatan",
+      "telepon": "0711-5610029"
+    },
+    {
+      "no": "8.",
+      "poltekkes": "Jakarta I",
+      "alamat": "Jl. Wijaya Kusuma No.47-48, Kota Jakarta Selatan, DKI Jakarta",
+      "telepon": "021-7657701"
+    },
+    {
+      "no": "9.",
+      "poltekkes": "Jakarta II",
+      "alamat": "Jl. Hang Jebat III No.4, Kota Jakarta Selatan, DKI Jakarta",
+      "telepon": "021-7397641"
+    },
+    {
+      "no": "10.",
+      "poltekkes": "Jakarta III",
+      "alamat": "Jl. Melati 2 No.15, Kota Bekasi, Jawa Barat",
+      "telepon": "021-84978693"
+    },
+    {
+      "no": "11.",
+      "poltekkes": "Bandung",
+      "alamat": "Jl. Pajajaran No.56, Kota Bandung, Jawa Barat",
+      "telepon": "022-4231639"
+    },
+    {
+      "no": "12.",
+      "poltekkes": "Tasikmalaya",
+      "alamat": "Jl. Babakan Siliwangi No.35, Kabupaten Tasikmalaya, Jawa Barat",
+      "telepon": "0265-340186"
+    },
+    {
+      "no": "13.",
+      "poltekkes": "Semarang",
+      "alamat": "Jl. Tirto Agung, Kota Semarang, Jawa Tengah",
+      "telepon": "024-7460274"
+    },
+    {
+      "no": "14.",
+      "poltekkes": "Surakarta",
+      "alamat": "Jl. Letdjen Sutoyo, Kota Surakarta, Jawa Tengah",
+      "telepon": "0271-856929"
+    },
+    {
+      "no": "15.",
+      "poltekkes": "Yogyakarta",
+      "alamat": "Jl. Tata Bumi No.3 Kota Yogyakarta, D.I Yogyakarta",
+      "telepon": "0274-617601"
+    },
+    {
+      "no": "16.",
+      "poltekkes": "Surabaya",
+      "alamat": "Jl. Pucang Jajar Tengah, Kota Surabaya, Jawa Timur",
+      "telepon": "021-5027058"
+    },
+    {
+      "no": "17.",
+      "poltekkes": "Malang",
+      "alamat": "Jl.Besar Ijen No.77C, Kota Malang, Jawa Timur",
+      "telepon": "0341-551893"
+    },
+    {
+      "no": "18.",
+      "poltekkes": "Denpasar",
+      "alamat": "Jl. Sanitas No.1, Kota Denpasar, Bali",
+      "telepon": "0361-710447"
+    },
+    {
+      "no": "19.",
+      "poltekkes": "Mataram",
+      "alamat": "Jl. Prabu Rangkasari, Kota Mataram, Nusa Tenggara Barat",
+      "telepon": ""
+    },
+    {
+      "no": "20.",
+      "poltekkes": "Kupang",
+      "alamat": "Jl. Raden Ajeng Kartini, Kota Kupang, Nusa Tenggara Timur",
+      "telepon": "0380-833420"
+    },
+    {
+      "no": "21.",
+      "poltekkes": "Pontianak",
+      "alamat": "Jl. Lapan, Kota Pontianak, Kalimantan Barat",
+      "telepon": "0561-737639"
+    },
+    {
+      "no": "22.",
+      "poltekkes": "Banjarmasin",
+      "alamat": "Jl. Mistar Cokrokusumo No.1, Kota Banjarmasin, Kalimantan Selatan",
+      "telepon": "0511-4781619"
+    },
+    {
+      "no": "23.",
+      "poltekkes": "Palangka Raya",
+      "alamat": "Jl. George Obos No.30, Kota Palangka Raya, Kalimantan Tengah",
+      "telepon": "0536-3221768"
+    },
+    {
+      "no": "24.",
+      "poltekkes": "Kalimantan Timur",
+      "alamat": "Jl. Wolter Monginsidi No.38, Kota Samarinda, Kalimantan Timur",
+      "telepon": "0541-738153"
+    },
+    {
+      "no": "25.",
+      "poltekkes": "Manado",
+      "alamat": "Jl. Wolter Monginsidi, Kota Manado, Sulawesi Utara",
+      "telepon": "0431-833773"
+    },
+    {
+      "no": "26.",
+      "poltekkes": "Palu",
+      "alamat": "Jl. Thalua Konchi, Kota Palu, Sulawesi Tengah",
+      "telepon": "0451-492518"
+    },
+    {
+      "no": "27.",
+      "poltekkes": "Makassar",
+      "alamat": "Jl. Wijaya Kusuma No.46, Kota Makassar, Sulawesi Selatan",
+      "telepon": "0411-11853336"
+    },
+    {
+      "no": "28.",
+      "poltekkes": "Kendari",
+      "alamat": "Jl. A.H. Nasution No.14, Kota Kendari, Sulawesi Tenggara",
+      "telepon": "0401-3190492"
+    },
+    {
+      "no": "29.",
+      "poltekkes": "Maluku",
+      "alamat": "Jl. Laksdya Wattimena, Kota Ambon, Maluku",
+      "telepon": "0911-362949"
+    },
+    {
+      "no": "30.",
+      "poltekkes": "Ternate",
+      "alamat": "Jl. Cempaka, Kota Ternate, Maluku Utara",
+      "telepon": ""
+    },
+    {
+      "no": "31.",
+      "poltekkes": "Jayapura",
+      "alamat": "Jl. Padang Bulan II, Kota Jayapura, Papua",
+      "telepon": "0967-584280"
+    },
+    {
+      "no": "32.",
+      "poltekkes": "Gorontalo",
+      "alamat": "Jl. Taman Pendidikan, Kota Gorontalo, Gorontalo",
+      "telepon": "(0435) 8583111"
+    },
+    {
+      "no": "33.",
+      "poltekkes": "Banten",
+      "alamat": "Jl. Nawawi Albantani, Kota Serang, Banten",
+      "telepon": "0858-2146-6172"
+    },
+    {
+      "no": "34.",
+      "poltekkes": "Tanjung Karang",
+      "alamat": "Jl. Haji Mena, Kabupaten Lampung Selatan, Lampung",
+      "telepon": "0721-782159"
+    },
+    {
+      "no": "35.",
+      "poltekkes": "Pangkalpinang",
+      "alamat": "Jl. Pulau Bangka, Kota Pangkalpinang, Kepulauan Bangka Belitung",
+      "telepon": "0717-422014"
+    },
+    {
+      "no": "36.",
+      "poltekkes": "Tanjungpinang",
+      "alamat": "Jl. Arif Rahman Hakim No.11, Kota Tanjungpinang, Kepulauan Riau",
+      "telepon": "(0771) 24086"
+    },
+    {
+      "no": "37.",
+      "poltekkes": "Mamuju",
+      "alamat": "Jl. Poros Mamuju No.16, Kabupaten Mamuju, Sulawesi Barat",
+      "telepon": ""
+    },
+    {
+      "no": "38.",
+      "poltekkes": "Sorong",
+      "alamat": "Jl. Basuki Rahmat, Kota Sorong, Papua Barat",
+      "telepon": "0951-324309"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Politeknik Kesehatan (Poltekkes) Kemenkes di Indonesia - Free Download",
+    "description": "Daftar 38 Politeknik Kesehatan di bawah Kementerian Kesehatan Republik Indonesia beserta alamat dan nomor telepon. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Politeknik Kesehatan (Poltekkes) Kemenkes di Indonesia | ListBase",
+    "seo_description": "Download Daftar Politeknik Kesehatan (Poltekkes) Kemenkes di Indonesia — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Politeknik_Kesehatan_Kementerian_Kesehatan_di_Indonesia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:35.350Z",
-  "total_datasets": 560,
-  "total_records": 645910,
+  "generated": "2026-10-26T02:12:37.812Z",
+  "total_datasets": 561,
+  "total_records": 645948,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -5691,6 +5691,31 @@
         "xlsx": {
           "name": "id-menteri-kesehatan_ID.xlsx",
           "size": 9148
+        }
+      }
+    },
+    {
+      "id": "id-poltekkes-kemenkes",
+      "name": "Daftar Politeknik Kesehatan (Poltekkes) Kemenkes di Indonesia",
+      "category": "health",
+      "record_count": 38,
+      "columns": [
+        "no",
+        "poltekkes",
+        "alamat",
+        "telepon"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Politeknik_Kesehatan_Kementerian_Kesehatan_di_Indonesia",
+      "updated": "2026-10",
+      "size": 7994,
+      "files": {
+        "csv": {
+          "name": "id-poltekkes-kemenkes_ID.csv",
+          "size": 3203
+        },
+        "xlsx": {
+          "name": "id-poltekkes-kemenkes_ID.xlsx",
+          "size": 8896
         }
       }
     },
