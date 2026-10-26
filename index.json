@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:55.126Z",
-  "total_datasets": 568,
-  "total_records": 646484,
+  "generated": "2026-10-26T02:12:57.446Z",
+  "total_datasets": 569,
+  "total_records": 646495,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -625,6 +625,33 @@
         "xlsx": {
           "name": "id-menteri-pendidikan_ID.xlsx",
           "size": 9601
+        }
+      }
+    },
+    {
+      "id": "id-menteri-pendidikan-tinggi",
+      "name": "Daftar Menteri Pendidikan Tinggi, Sains, dan Teknologi Indonesia",
+      "category": "education",
+      "record_count": 11,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Pendidikan_Tinggi%2C_Sains%2C_dan_Teknologi_Indonesia",
+      "updated": "2026-10",
+      "size": 4812,
+      "files": {
+        "csv": {
+          "name": "id-menteri-pendidikan-tinggi_ID.csv",
+          "size": 1468
+        },
+        "xlsx": {
+          "name": "id-menteri-pendidikan-tinggi_ID.xlsx",
+          "size": 7514
         }
       }
     },
