@@ -1,0 +1,296 @@
+{
+  "id": "id-kapolri",
+  "name": "Daftar Kepala Kepolisian Negara Republik Indonesia (Kapolri)",
+  "title": "Daftar Kepala Kepolisian Negara Republik Indonesia (Kapolri)",
+  "description": "Daftar Kapolri sejak tahun 1945 hingga sekarang beserta masa jabatan dan jabatan sebelumnya.",
+  "category": "law",
+  "source": "https://id.wikipedia.org/wiki/Kepala_Kepolisian_Negara_Republik_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Kepala_Kepolisian_Negara_Republik_Indonesia",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "jabatan_sebelumnya",
+      "label": "Jabatan Sebelumnya",
+      "type": "string"
+    },
+    {
+      "key": "keterangan",
+      "label": "Keterangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Komisaris Jenderal Polisi Raden Said Soekanto Tjokrodiatmodjo",
+      "mulai_menjabat": "29 September 1945",
+      "akhir_menjabat": "14 Desember 1959",
+      "jabatan_sebelumnya": "Ajunct Technisch Leider der Veldpolitie van Residentie Zuid-Borneo en Oost-Borneo",
+      "keterangan": "Jabatan bernama Kepala Kepolisian Negara"
+    },
+    {
+      "no": "2",
+      "nama": "Komisaris Jenderal Polisi Soekarno Djojonegoro",
+      "mulai_menjabat": "15 Desember 1959",
+      "akhir_menjabat": "29 Desember 1963",
+      "jabatan_sebelumnya": "Ajun Kepala Kepolisian Negara",
+      "keterangan": ""
+    },
+    {
+      "no": "3",
+      "nama": "Inspektur Jenderal Polisi Soetjipto Danoekoesoemo",
+      "mulai_menjabat": "30 Desember 1963",
+      "akhir_menjabat": "8 Mei 1965",
+      "jabatan_sebelumnya": "Komandan Mobrig Polisi Pusat",
+      "keterangan": "Jabatan bernama Menteri/Panglima Angkatan Kepolisian (Men/Pangak)"
+    },
+    {
+      "no": "4",
+      "nama": "Komisaris Jenderal Polisi Soetjipto Joedodihardjo",
+      "mulai_menjabat": "9 Mei 1965",
+      "akhir_menjabat": "15 Mei 1968",
+      "jabatan_sebelumnya": "Kepala Pusat Pertahanan Sipil",
+      "keterangan": ""
+    },
+    {
+      "no": "5",
+      "nama": "Jenderal Polisi Drs. Hoegeng Iman Santoso",
+      "mulai_menjabat": "15 Mei 1968",
+      "akhir_menjabat": "2 Oktober 1971",
+      "jabatan_sebelumnya": "Deputi Menteri/Panglima AK Urusan Operasi Polri",
+      "keterangan": "Jabatan bernama Kepala Staf Angkatan Kepolisian RI (Kapolri)"
+    },
+    {
+      "no": "6",
+      "nama": "Letnan Jenderal Polisi Drs. Mohamad Hasan",
+      "mulai_menjabat": "3 Oktober 1971",
+      "akhir_menjabat": "24 Juni 1974",
+      "jabatan_sebelumnya": "Irjen Hankam",
+      "keterangan": ""
+    },
+    {
+      "no": "7",
+      "nama": "Letnan Jenderal Polisi Drs. Widodo Budidarmo",
+      "mulai_menjabat": "26 Juni 1974",
+      "akhir_menjabat": "25 September 1978",
+      "jabatan_sebelumnya": "Panglima Komando Daerah Kepolisian VII/Metropolitan Jakarta Raya",
+      "keterangan": ""
+    },
+    {
+      "no": "8",
+      "nama": "Jenderal Polisi Prof. Dr. Drs. Awaluddin Djamin, M.P.A.",
+      "mulai_menjabat": "26 September 1978",
+      "akhir_menjabat": "3 Desember 1982",
+      "jabatan_sebelumnya": "Duta Besar Republik Indonesia untuk Jerman Barat",
+      "keterangan": ""
+    },
+    {
+      "no": "9",
+      "nama": "Jenderal Polisi Anton Soedjarwo",
+      "mulai_menjabat": "4 Desember 1982",
+      "akhir_menjabat": "6 Juni 1986",
+      "jabatan_sebelumnya": "Panglima Komando Daerah Kepolisian VII/Metropolitan Jakarta Raya",
+      "keterangan": ""
+    },
+    {
+      "no": "10",
+      "nama": "Jenderal Polisi Mochammad Sanoesi",
+      "mulai_menjabat": "7 Juni 1986",
+      "akhir_menjabat": "19 Februari 1991",
+      "jabatan_sebelumnya": "Kepala Kepolisian Daerah Jawa Tengah",
+      "keterangan": ""
+    },
+    {
+      "no": "11",
+      "nama": "Jenderal Polisi Kunarto",
+      "mulai_menjabat": "20 Februari 1991",
+      "akhir_menjabat": "5 April 1993",
+      "jabatan_sebelumnya": "Kepala Kepolisian Daerah Sumatera Utara",
+      "keterangan": ""
+    },
+    {
+      "no": "12",
+      "nama": "Jenderal Polisi Banurusman Astrosemitro",
+      "mulai_menjabat": "6 April 1993",
+      "akhir_menjabat": "14 Maret 1996",
+      "jabatan_sebelumnya": "Kepala Kepolisian Daerah Metropolitan Jakarta Raya",
+      "keterangan": ""
+    },
+    {
+      "no": "13",
+      "nama": "Jenderal Polisi Dibyo Widodo",
+      "mulai_menjabat": "15 Maret 1996",
+      "akhir_menjabat": "28 Juni 1998",
+      "jabatan_sebelumnya": "Kepala Kepolisian Daerah Metropolitan Jakarta Raya",
+      "keterangan": ""
+    },
+    {
+      "no": "14",
+      "nama": "Letnan Jenderal Polisi Roesmanhadi",
+      "mulai_menjabat": "29 Juni 1998",
+      "akhir_menjabat": "3 Januari 2000",
+      "jabatan_sebelumnya": "Staf Ahli Menhankam Bidang Kamtibmas",
+      "keterangan": ""
+    },
+    {
+      "no": "15",
+      "nama": "Jenderal Polisi Roesdihardjo",
+      "mulai_menjabat": "4 Januari 2000",
+      "akhir_menjabat": "18 Agustus 2000",
+      "jabatan_sebelumnya": "Kepala Sekolah Staf dan Pimpinan Polri",
+      "keterangan": "Jabatan bernama Kepala Kepolisian Republik Indonesia (Kapolri)"
+    },
+    {
+      "no": "15",
+      "nama": "Jenderal Polisi Roesdihardjo",
+      "mulai_menjabat": "18 Agustus 2000",
+      "akhir_menjabat": "23 September 2000",
+      "jabatan_sebelumnya": "",
+      "keterangan": ""
+    },
+    {
+      "no": "16",
+      "nama": "Jenderal Polisi Suroyo Bimantoro",
+      "mulai_menjabat": "23 September 2000",
+      "akhir_menjabat": "29 November 2001",
+      "jabatan_sebelumnya": "Wakil Kepala Kepolisian Republik Indonesia",
+      "keterangan": ""
+    },
+    {
+      "no": "—",
+      "nama": "Jenderal Polisi Chairuddin Ismail",
+      "mulai_menjabat": "20 Juli 2001",
+      "akhir_menjabat": "3 Agustus 2001",
+      "jabatan_sebelumnya": "Wakil Kepala Kepolisian Republik Indonesia",
+      "keterangan": "Pejabat Sementara de facto Kapolri, dalam Keppres 97/2001 dianggap tidak sah."
+    },
+    {
+      "no": "17",
+      "nama": "Jenderal Polisi Da'i Bachtiar",
+      "mulai_menjabat": "29 November 2001",
+      "akhir_menjabat": "7 Juli 2005",
+      "jabatan_sebelumnya": "Ketua Pelaksana Harian Badan Koordinasi Narkotika Nasional",
+      "keterangan": ""
+    },
+    {
+      "no": "18",
+      "nama": "Jenderal Polisi Sutanto",
+      "mulai_menjabat": "8 Juli 2005",
+      "akhir_menjabat": "30 September 2008",
+      "jabatan_sebelumnya": "Kepala Pelaksana Harian Badan Narkotika Nasional",
+      "keterangan": ""
+    },
+    {
+      "no": "19",
+      "nama": "Jenderal Polisi Bambang Hendarso Danuri",
+      "mulai_menjabat": "1 Oktober 2008",
+      "akhir_menjabat": "22 Oktober 2010",
+      "jabatan_sebelumnya": "Kepala Badan Reserse Kriminal Polri",
+      "keterangan": ""
+    },
+    {
+      "no": "20",
+      "nama": "Jenderal Polisi Timur Pradopo",
+      "mulai_menjabat": "22 Oktober 2010",
+      "akhir_menjabat": "25 Oktober 2013",
+      "jabatan_sebelumnya": "Kepala Badan Pemelihara Keamanan Polri",
+      "keterangan": ""
+    },
+    {
+      "no": "21",
+      "nama": "Jenderal Polisi Sutarman",
+      "mulai_menjabat": "25 Oktober 2013",
+      "akhir_menjabat": "16 Januari 2015",
+      "jabatan_sebelumnya": "Kepala Badan Reserse Kriminal Polri",
+      "keterangan": ""
+    },
+    {
+      "no": "—",
+      "nama": "Jenderal Polisi Badrodin Haiti",
+      "mulai_menjabat": "16 Januari 2015",
+      "akhir_menjabat": "17 April 2015",
+      "jabatan_sebelumnya": "Wakil Kepala Kepolisian Republik Indonesia",
+      "keterangan": "Pelaksana Tugas Kapolri dengan pangkat Komisaris Jenderal"
+    },
+    {
+      "no": "22",
+      "nama": "Jenderal Polisi Badrodin Haiti",
+      "mulai_menjabat": "17 April 2015",
+      "akhir_menjabat": "13 Juli 2016",
+      "jabatan_sebelumnya": "Pelaksana Tugas Kepala Kepolisian Republik Indonesia",
+      "keterangan": ""
+    },
+    {
+      "no": "23",
+      "nama": "Jenderal Polisi Tito Karnavian",
+      "mulai_menjabat": "13 Juli 2016",
+      "akhir_menjabat": "23 Oktober 2019",
+      "jabatan_sebelumnya": "Kepala Badan Nasional Penanggulangan Terorisme",
+      "keterangan": ""
+    },
+    {
+      "no": "—",
+      "nama": "Komisaris Jenderal Polisi Ari Dono Sukmanto",
+      "mulai_menjabat": "23 Oktober 2019",
+      "akhir_menjabat": "1 November 2019",
+      "jabatan_sebelumnya": "Wakil Kepala Kepolisian Republik Indonesia",
+      "keterangan": "Pelaksana Tugas Kapolri sampai dengan ditetapkan calon Kapolri yang baru"
+    },
+    {
+      "no": "24",
+      "nama": "Jenderal Polisi Idham Azis",
+      "mulai_menjabat": "1 November 2019",
+      "akhir_menjabat": "27 Januari 2021",
+      "jabatan_sebelumnya": "Kepala Badan Reserse Kriminal Polri",
+      "keterangan": ""
+    },
+    {
+      "no": "25",
+      "nama": "Jenderal Polisi Listyo Sigit Prabowo",
+      "mulai_menjabat": "27 Januari 2021",
+      "akhir_menjabat": "1 Oktober 2026",
+      "jabatan_sebelumnya": "Kepala Badan Reserse Kriminal Polri",
+      "keterangan": ""
+    },
+    {
+      "no": "26",
+      "nama": "Jenderal Polisi Suyudi Ario Seto",
+      "mulai_menjabat": "1 Oktober 2026",
+      "akhir_menjabat": "Petahana",
+      "jabatan_sebelumnya": "Kepala Badan Narkotika Nasional",
+      "keterangan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kepala Kepolisian Negara Republik Indonesia (Kapolri) - Free Download",
+    "description": "Daftar Kapolri sejak tahun 1945 hingga sekarang beserta masa jabatan dan jabatan sebelumnya. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Kepala Kepolisian Negara Republik Indonesia (Kapolri) | ListBase",
+    "seo_description": "Download Daftar Kepala Kepolisian Negara Republik Indonesia (Kapolri) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Kepala_Kepolisian_Negara_Republik_Indonesia"
+    ]
+  }
+}

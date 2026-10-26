@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:59.695Z",
-  "total_datasets": 570,
-  "total_records": 646512,
+  "generated": "2026-10-26T02:13:02.148Z",
+  "total_datasets": 571,
+  "total_records": 646542,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "math",
@@ -6205,6 +6205,33 @@
         "xlsx": {
           "name": "id-jaksa-agung_ID.xlsx",
           "size": 8052
+        }
+      }
+    },
+    {
+      "id": "id-kapolri",
+      "name": "Daftar Kepala Kepolisian Negara Republik Indonesia (Kapolri)",
+      "category": "law",
+      "record_count": 30,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "jabatan_sebelumnya",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kepala_Kepolisian_Negara_Republik_Indonesia",
+      "updated": "2026-10",
+      "size": 10250,
+      "files": {
+        "csv": {
+          "name": "id-kapolri_ID.csv",
+          "size": 4243
+        },
+        "xlsx": {
+          "name": "id-kapolri_ID.xlsx",
+          "size": 8953
         }
       }
     },
