@@ -1,0 +1,584 @@
+{
+  "id": "id-stasiun-televisi",
+  "name": "Daftar Stasiun Televisi Satelit di Indonesia (Pemerintah & Swasta)",
+  "title": "Daftar Stasiun Televisi Satelit di Indonesia (Pemerintah & Swasta)",
+  "description": "Daftar stasiun televisi pemerintah dan swasta di Indonesia yang bersiaran melalui satelit, beserta pemilik, tanggal diluncurkan, aliran siaran, dan satelit.",
+  "category": "entertainment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "kelompok",
+      "label": "Kelompok",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "pemilik",
+      "label": "Pemilik",
+      "type": "string"
+    },
+    {
+      "key": "diluncurkan",
+      "label": "Diluncurkan",
+      "type": "string"
+    },
+    {
+      "key": "aliran",
+      "label": "Aliran",
+      "type": "string"
+    },
+    {
+      "key": "satelit",
+      "label": "Satelit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kelompok": "Televisi pemerintah",
+      "nama": "RRI NET",
+      "pemilik": "LPP Radio Republik Indonesia",
+      "diluncurkan": "12 September 2018",
+      "aliran": "Umum (nasional)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi pemerintah",
+      "nama": "Siak TV",
+      "pemilik": "Pemerintah Kabupaten Siak (LPPL Siak TV)",
+      "diluncurkan": "12 April 2021 (satelit)",
+      "aliran": "Umum (lokal dari Kabupaten Siak)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi pemerintah",
+      "nama": "TV Tabalong",
+      "pemilik": "Pemerintah Kabupaten Tabalong (LPPL TV Tabalong)",
+      "diluncurkan": "2017/2018[butuh rujukan]",
+      "aliran": "Umum (lokal dari Kabupaten Tabalong)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi pemerintah",
+      "nama": "GPRTV",
+      "pemilik": "Kementerian Komunikasi dan Digital Republik Indonesia",
+      "diluncurkan": "10 Desember 2018",
+      "aliran": "Berita dan Faktual (Pemerintah Indonesia)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi pemerintah",
+      "nama": "Indonesiana TV",
+      "pemilik": "Kementerian Kebudayaan Republik Indonesia",
+      "diluncurkan": "3 September 2021",
+      "aliran": "Kebudayaan (Indonesia)",
+      "satelit": "Telkom-3S"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Ashiil TV",
+      "pemilik": "PT Ashiil Cahaya Tauhid",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Ahsan TV",
+      "pemilik": "Ahsan TV Media Muslim Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Ajwa TV",
+      "pemilik": "Surya Citra Media",
+      "diluncurkan": "29 Oktober 2020",
+      "aliran": "Religi (Islam)",
+      "satelit": "SES-9"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Ajwa TV",
+      "pemilik": "Surya Citra Media",
+      "diluncurkan": "29 Oktober 2020",
+      "aliran": "Religi (Islam)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Al Wafa Tarim TV",
+      "pemilik": "AM Media (oleh Al Habib Hasan bin Ismail Al Muhdhor)",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Al-Bahjah TV",
+      "pemilik": "Yayasan Al-Bahjah Cirebon (oleh Buya Yahya)",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Al-Iman TV",
+      "pemilik": "Radio Suara Al-Iman",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "AllPlay Ent.",
+      "pemilik": "IndiHome TV (oleh Telkom Indonesia)",
+      "diluncurkan": "2017",
+      "aliran": "Hiburan",
+      "satelit": "Telkom-3S"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Bali TV",
+      "pemilik": "Kelompok Media Bali Post (Indonesia Network)",
+      "diluncurkan": "26 Mei 2002",
+      "aliran": "Umum (lokal dari Bali)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Bali TV",
+      "pemilik": "Kelompok Media Bali Post (Indonesia Network)",
+      "diluncurkan": "26 Mei 2002",
+      "aliran": "Umum (lokal dari Bali)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "BETV",
+      "pemilik": "Disway National Network",
+      "diluncurkan": "18 Desember 2013",
+      "aliran": "Umum (lokal dari Bengkulu)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Efarina TV",
+      "pemilik": "Efarina Etaham Group",
+      "diluncurkan": "19 Agustus 2011",
+      "aliran": "Umum (lokal dari Simalungun)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Fatwa TV",
+      "pemilik": "Dewan Fatwa Perhimpunan Al-Irsyad",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "SES-9"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Fatwa TV",
+      "pemilik": "Dewan Fatwa Perhimpunan Al-Irsyad",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Gazwah TV",
+      "pemilik": "Gazwah Enterprises (oleh Ustadz Khalid Basalamah)",
+      "diluncurkan": "-",
+      "aliran": "Religi dan Bisnis Syariat (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Hayat TV",
+      "pemilik": "PT Hayat Televisi Entertainment",
+      "diluncurkan": "-",
+      "aliran": "Umum (lokal dari Kotawaringin Timur)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "HCBN Indonesia",
+      "pemilik": "Gereja Masehi Advent Hari Ketujuh Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi (Kristen Protestan - Advent)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Hijrah TV",
+      "pemilik": "Media Hijrah Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi dan Bisnis Syariat (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Hope Channel Indonesia",
+      "pemilik": "Gereja Masehi Advent Hari Ketujuh Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi dan Gaya Hidup (Kristen Protestan - Advent)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "I Am Channel",
+      "pemilik": "-",
+      "diluncurkan": "-",
+      "aliran": "Religi (Kristen)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Indihome Shopping",
+      "pemilik": "Indihome TV (oleh Telkom Indonesia)",
+      "diluncurkan": "-",
+      "aliran": "Belanja",
+      "satelit": "Telkom-3S"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Insan TV",
+      "pemilik": "Insan Media Group",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Izzah TV",
+      "pemilik": "Pondok Pesantren Ubay bin Ka'ab Jambi",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Jaya TV",
+      "pemilik": "PT Jayapura Televisi",
+      "diluncurkan": "07 Februari 2007",
+      "aliran": "Umum (lokal dari Jayapura)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "JTV",
+      "pemilik": "Jawa Pos Group",
+      "diluncurkan": "08 November 2001",
+      "aliran": "Umum (lokal dari Jawa Timur)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "JTV",
+      "pemilik": "Jawa Pos Group",
+      "diluncurkan": "08 November 2001",
+      "aliran": "Umum (lokal dari Jawa Timur)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Java TV",
+      "pemilik": "",
+      "diluncurkan": "2014",
+      "aliran": "Umum (lokal dari Kota Kediri)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "KTV",
+      "pemilik": "KG Media",
+      "diluncurkan": "01 September 2008",
+      "aliran": "Umum (lokal dari Jakarta)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Madani TV",
+      "pemilik": "Yayasan Bina Madani Foundation",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam)",
+      "satelit": "Nusantara Satu"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "M Channel",
+      "pemilik": "Nex Parabola",
+      "diluncurkan": "-",
+      "aliran": "Musik dan belanja",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "M Channel",
+      "pemilik": "Nex Parabola",
+      "diluncurkan": "-",
+      "aliran": "Musik dan belanja",
+      "satelit": "SES-9"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Meds TV",
+      "pemilik": "Yayasan Media Sunnah Aceh",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "MGI TV",
+      "pemilik": "PT Televisi Media Gema Islam",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "MTA TV",
+      "pemilik": "Yayasan Majlis Tafsir Al-Qur'an",
+      "diluncurkan": "01 Oktober 2014",
+      "aliran": "Religi (Islam)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "MQH TV",
+      "pemilik": "-",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Muadz TV",
+      "pemilik": "Islamic Center Mu'adz Bin Jabal",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Naajiya TV",
+      "pemilik": "Yayasan An-Naajiya Pasaman Barat",
+      "diluncurkan": "11 Oktober 2015",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Nabawi TV",
+      "pemilik": "Rabithah Alawiyah",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Rabithah Alawiyah)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Niaga TV",
+      "pemilik": "Yayasan Mulia Rabbani",
+      "diluncurkan": "-",
+      "aliran": "Religi dan Bisnis Syariat (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "On Channel",
+      "pemilik": "K-Vision",
+      "diluncurkan": "-",
+      "aliran": "Hiburan, musik, tutorial dan promosi K-Vision",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "On Channel",
+      "pemilik": "K-Vision",
+      "diluncurkan": "-",
+      "aliran": "Hiburan, musik, tutorial dan promosi K-Vision",
+      "satelit": "Measat-3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "PALTV",
+      "pemilik": "Disway National Network",
+      "diluncurkan": "09 September 2005",
+      "aliran": "Umum (lokal dari Palembang)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Paliko TV",
+      "pemilik": "Media Dakwah Sunnah",
+      "diluncurkan": "07 Februari 2020",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Pijar TV",
+      "pemilik": "Yayasan Pelayanan Media Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi (Kristen Protestan)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Puldapii TV",
+      "pemilik": "Perkumpulan Lembaga Dakwah dan Pendidikan Islam Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "RBTV",
+      "pemilik": "Disway National Network",
+      "diluncurkan": "18 November 2009",
+      "aliran": "Umum (lokal dari Bengkulu)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Reformed 21",
+      "pemilik": "Gereja Reformed Injili Indonesia, melalui Stephen Tong Evangelistic Ministries International (oleh Pdt. Stephen Tong)",
+      "diluncurkan": "-",
+      "aliran": "Religi (Kristen Protestan)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Rinjani TV",
+      "pemilik": "Media Dakwah As-Sunnah Lombok Timur",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Rodja TV",
+      "pemilik": "Yayasan Cahaya Sunnah (oleh Ustadz Abu Yahya Badrusalam)",
+      "diluncurkan": "2009",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Rodja TV",
+      "pemilik": "Yayasan Cahaya Sunnah (oleh Ustadz Abu Yahya Badrusalam)",
+      "diluncurkan": "2009",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "SES-9"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Ruai TV",
+      "pemilik": "PT Ruai Televisi",
+      "diluncurkan": "-",
+      "aliran": "Umum (lokal dari Pontianak)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Ruang Trampil",
+      "pemilik": "Indihome TV (oleh Telkom Indonesia)",
+      "diluncurkan": "2014",
+      "aliran": "Gaya Hidup",
+      "satelit": "Telkom-3S"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Salam TV",
+      "pemilik": "-",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "SalingSapa TV",
+      "pemilik": "-",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Sunnah Jalan Pasti TV",
+      "pemilik": "-",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Surau TV",
+      "pemilik": "Yayasan Dar el-Iman",
+      "diluncurkan": "24 November 2013",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "TV9 Nusantara",
+      "pemilik": "Nahdlatul Ulama (melalui PWNU Jawa Timur)",
+      "diluncurkan": "31 Januari 2010",
+      "aliran": "Religi (Islam - Nahdlatul Ulama)",
+      "satelit": "Measat 3b"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "TvMu",
+      "pemilik": "Muhammadiyah",
+      "diluncurkan": "18 November 2013",
+      "aliran": "Religi (Islam - Muhammadiyah)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "U Channel",
+      "pemilik": "United Christian Broadcasters International",
+      "diluncurkan": "26 Juni 2006",
+      "aliran": "Religi (Kristen Protestan)",
+      "satelit": "Telkom-4"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Usee Photo",
+      "pemilik": "Indihome TV (oleh Telkom Indonesia)",
+      "diluncurkan": "2014",
+      "aliran": "Gaya Hidup (Fotografi)",
+      "satelit": "Telkom-3S"
+    },
+    {
+      "kelompok": "Televisi swasta",
+      "nama": "Wesal TV",
+      "pemilik": "Yayasan Mawaddah Indonesia",
+      "diluncurkan": "-",
+      "aliran": "Religi (Islam - Salafiyah)",
+      "satelit": "Telkom-4"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Stasiun Televisi Satelit di Indonesia (Pemerintah & Swasta) - Free Download",
+    "description": "Daftar stasiun televisi pemerintah dan swasta di Indonesia yang bersiaran melalui satelit, beserta pemilik, tanggal diluncurkan, aliran siaran, dan satelit. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Stasiun Televisi Satelit di Indonesia (Pemerintah & Swasta) | ListBase",
+    "seo_description": "Download Daftar Stasiun Televisi Satelit di Indonesia (Pemerintah & Swasta) — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Indonesia"
+    ]
+  }
+}
