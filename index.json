@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:23.888Z",
-  "total_datasets": 580,
-  "total_records": 647222,
+  "generated": "2026-10-26T02:13:26.222Z",
+  "total_datasets": 581,
+  "total_records": 647270,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -6731,6 +6731,33 @@
         "xlsx": {
           "name": "id-lembaga-pemasyarakatan_ID.xlsx",
           "size": 16465
+        }
+      }
+    },
+    {
+      "id": "id-menteri-luar-negeri",
+      "name": "Daftar Menteri Luar Negeri Indonesia",
+      "category": "politics",
+      "record_count": 48,
+      "columns": [
+        "no",
+        "nama",
+        "partai",
+        "kabinet",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Luar_Negeri_Indonesia",
+      "updated": "2026-10",
+      "size": 12298,
+      "files": {
+        "csv": {
+          "name": "id-menteri-luar-negeri_ID.csv",
+          "size": 4604
+        },
+        "xlsx": {
+          "name": "id-menteri-luar-negeri_ID.xlsx",
+          "size": 9268
         }
       }
     },
