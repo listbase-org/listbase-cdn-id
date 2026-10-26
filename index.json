@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:37.812Z",
-  "total_datasets": 561,
-  "total_records": 645948,
+  "generated": "2026-10-26T02:12:40.082Z",
+  "total_datasets": 562,
+  "total_records": 645956,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -5664,6 +5664,31 @@
         "xlsx": {
           "name": "id-wilayah-administratif_ID.xlsx",
           "size": 204335
+        }
+      }
+    },
+    {
+      "id": "id-kepala-bpom",
+      "name": "Daftar Kepala Badan Pengawas Obat dan Makanan (BPOM)",
+      "category": "health",
+      "record_count": 8,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kepala_Badan_Pengawas_Obat_dan_Makanan",
+      "updated": "2026-10",
+      "size": 2987,
+      "files": {
+        "csv": {
+          "name": "id-kepala-bpom_ID.csv",
+          "size": 648
+        },
+        "xlsx": {
+          "name": "id-kepala-bpom_ID.xlsx",
+          "size": 7174
         }
       }
     },
