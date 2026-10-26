@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:15.840Z",
-  "total_datasets": 577,
-  "total_records": 647148,
+  "generated": "2026-10-26T02:13:18.074Z",
+  "total_datasets": 578,
+  "total_records": 647177,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -6677,6 +6677,35 @@
         "xlsx": {
           "name": "id-lembaga-pemasyarakatan_ID.xlsx",
           "size": 16465
+        }
+      }
+    },
+    {
+      "id": "id-partai-politik",
+      "name": "Daftar Partai Politik Nasional di Indonesia",
+      "category": "politics",
+      "record_count": 29,
+      "columns": [
+        "nama_partai",
+        "singkatan",
+        "pimpinan",
+        "ideologi",
+        "dibentuk",
+        "pemilu_terakhir",
+        "kursi_dpr",
+        "status_di_dpr"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_partai_politik_di_Indonesia",
+      "updated": "2026-10",
+      "size": 10337,
+      "files": {
+        "csv": {
+          "name": "id-partai-politik_ID.csv",
+          "size": 3082
+        },
+        "xlsx": {
+          "name": "id-partai-politik_ID.xlsx",
+          "size": 8817
         }
       }
     },

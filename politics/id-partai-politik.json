@@ -1,0 +1,356 @@
+{
+  "id": "id-partai-politik",
+  "name": "Daftar Partai Politik Nasional di Indonesia",
+  "title": "Daftar Partai Politik Nasional di Indonesia",
+  "description": "Daftar partai politik nasional di Indonesia, baik yang memiliki kursi di DPR maupun nonparlemen, beserta pimpinan, ideologi, tanggal dibentuk, dan pemilu terakhir.",
+  "category": "politics",
+  "source": "https://id.wikipedia.org/wiki/Daftar_partai_politik_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_partai_politik_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "nama_partai",
+      "label": "Nama Partai",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "pimpinan",
+      "label": "Pimpinan",
+      "type": "string"
+    },
+    {
+      "key": "ideologi",
+      "label": "Ideologi",
+      "type": "string"
+    },
+    {
+      "key": "dibentuk",
+      "label": "Dibentuk",
+      "type": "string"
+    },
+    {
+      "key": "pemilu_terakhir",
+      "label": "Pemilu Terakhir",
+      "type": "number"
+    },
+    {
+      "key": "kursi_dpr",
+      "label": "Kursi Dpr",
+      "type": "string"
+    },
+    {
+      "key": "status_di_dpr",
+      "label": "Status Di Dpr",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama_partai": "Partai Demokrasi Indonesia Perjuangan",
+      "singkatan": "PDI-P",
+      "pimpinan": "Megawati Soekarnoputri",
+      "ideologi": "Progresivisme Populisme sayap kiri",
+      "dibentuk": "21 Agustus 1998",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "110 / 575",
+      "status_di_dpr": "Penyeimbang"
+    },
+    {
+      "nama_partai": "Partai Golongan Karya",
+      "singkatan": "Golkar",
+      "pimpinan": "Bahlil Lahadalia",
+      "ideologi": "Developmentalisme Konservatisme bangsa",
+      "dibentuk": "20 Oktober 1964",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "102 / 575",
+      "status_di_dpr": "Koalisi Pemerintah"
+    },
+    {
+      "nama_partai": "Partai Gerakan Indonesia Raya",
+      "singkatan": "Gerindra",
+      "pimpinan": "Prabowo Subianto",
+      "ideologi": "Konservatisme bangsa Populisme sayap kanan",
+      "dibentuk": "6 Februari 2008",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "86 / 575",
+      "status_di_dpr": "Koalisi Pemerintah"
+    },
+    {
+      "nama_partai": "Partai NasDem",
+      "singkatan": "NasDem",
+      "pimpinan": "Surya Paloh",
+      "ideologi": "Liberalisme sosial",
+      "dibentuk": "26 Juli 2011",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "69 / 575",
+      "status_di_dpr": "Mendukung mosi kepercayaan"
+    },
+    {
+      "nama_partai": "Partai Kebangkitan Bangsa",
+      "singkatan": "PKB",
+      "pimpinan": "Muhaimin Iskandar",
+      "ideologi": "Demokrasi Islam",
+      "dibentuk": "23 Juli 1998",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "68 / 575",
+      "status_di_dpr": "Koalisi Pemerintah"
+    },
+    {
+      "nama_partai": "Partai Keadilan Sejahtera",
+      "singkatan": "PKS",
+      "pimpinan": "Al Muzzammil Yusuf",
+      "ideologi": "Konservatisme sosial Islamisme",
+      "dibentuk": "20 Juli 1998",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "53 / 575",
+      "status_di_dpr": "Mendukung mosi kepercayaan"
+    },
+    {
+      "nama_partai": "Partai Amanat Nasional",
+      "singkatan": "PAN",
+      "pimpinan": "Zulkifli Hasan",
+      "ideologi": "Demokrasi Islam",
+      "dibentuk": "23 Agustus 1998",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "48 / 575",
+      "status_di_dpr": "Koalisi Pemerintah"
+    },
+    {
+      "nama_partai": "Partai Demokrat",
+      "singkatan": "Demokrat",
+      "pimpinan": "Agus Harimurti Yudhoyono",
+      "ideologi": "Populisme Konstitusionalisme",
+      "dibentuk": "9 September 2001",
+      "pemilu_terakhir": "2024",
+      "kursi_dpr": "44 / 575",
+      "status_di_dpr": "Koalisi Pemerintah"
+    },
+    {
+      "nama_partai": "Partai Nasional Indonesia Marhaenisme",
+      "singkatan": "PNIM",
+      "pimpinan": "",
+      "ideologi": "Marhaenisme",
+      "dibentuk": "20 Mei 1998 / 20 Mei 2002",
+      "pemilu_terakhir": "2009",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Republik",
+      "singkatan": "PR",
+      "pimpinan": "",
+      "ideologi": "Republikanisme",
+      "dibentuk": "21 Mei / 17 Agustus 1998",
+      "pemilu_terakhir": "1999",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Bhinneka Indonesia",
+      "singkatan": "PBI",
+      "pimpinan": "",
+      "ideologi": "Progresivisme",
+      "dibentuk": "1 Juni 1998 / 17 Desember 2002",
+      "pemilu_terakhir": "1999",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Keadilan dan Persatuan",
+      "singkatan": "PKP",
+      "pimpinan": "",
+      "ideologi": "Sekularisme",
+      "dibentuk": "15 Januari 1999",
+      "pemilu_terakhir": "2019",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Damai Sejahtera Pembaharuan",
+      "singkatan": "PDSP",
+      "pimpinan": "",
+      "ideologi": "Demokrasi Kristen",
+      "dibentuk": "1 Oktober 2001",
+      "pemilu_terakhir": "2009",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Serikat Rakyat Independen",
+      "singkatan": "SRI",
+      "pimpinan": "",
+      "ideologi": "Republikanisme",
+      "dibentuk": "2 Mei 2011",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Hijau Indonesia",
+      "singkatan": "PHI",
+      "pimpinan": "",
+      "ideologi": "Politik hijau",
+      "dibentuk": "5 Juni 2012",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Swara Rakyat Indonesia",
+      "singkatan": "Parsindo",
+      "pimpinan": "",
+      "ideologi": "Resoehartoisasi Konservatisme bangsa",
+      "dibentuk": "15 November 2013",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Demokrasi Rakyat Indonesia",
+      "singkatan": "PDRI",
+      "pimpinan": "",
+      "ideologi": "Marhaenisme",
+      "dibentuk": "2015",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Berkarya",
+      "singkatan": "Berkarya",
+      "pimpinan": "",
+      "ideologi": "Populisme sayap kanan",
+      "dibentuk": "15 Juli 2016",
+      "pemilu_terakhir": "2019",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Damai Kasih Bangsa",
+      "singkatan": "PDKB",
+      "pimpinan": "",
+      "ideologi": "Demokrasi Kristen",
+      "dibentuk": "28 Oktober 2020",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Masyumi",
+      "singkatan": "Masyumi",
+      "pimpinan": "",
+      "ideologi": "Pan-Islamisme Konservatisme sosial",
+      "dibentuk": "7 November 2020",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Cinta Negeri",
+      "singkatan": "PCN",
+      "pimpinan": "",
+      "ideologi": "Nasionalisme Populisme",
+      "dibentuk": "20 November 2020",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Rakyat Adil Makmur",
+      "singkatan": "PRIMA",
+      "pimpinan": "",
+      "ideologi": "Populisme sayap kiri Sosialisme demokratis",
+      "dibentuk": "1 Juni 2021",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Mahasiswa Indonesia",
+      "singkatan": "PMI",
+      "pimpinan": "",
+      "ideologi": "Demokrasi sosial",
+      "dibentuk": "3 September 2021",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Kedaulatan Rakyat",
+      "singkatan": "PKR",
+      "pimpinan": "",
+      "ideologi": "Populisme",
+      "dibentuk": "28 Oktober 2021",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Pelita",
+      "singkatan": "Pelita",
+      "pimpinan": "",
+      "ideologi": "Populisme",
+      "dibentuk": "28 Februari 2022",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Perubahan",
+      "singkatan": "Perubahan",
+      "pimpinan": "",
+      "ideologi": "Populisme",
+      "dibentuk": "10 November 2024",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Gerakan Mandiri Bangsa",
+      "singkatan": "Gema Bangsa",
+      "pimpinan": "",
+      "ideologi": "Populisme",
+      "dibentuk": "17 Januari 2025",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Rakyat Indonesia",
+      "singkatan": "PRI",
+      "pimpinan": "",
+      "ideologi": "Populisme Nasionalisme religius",
+      "dibentuk": "8 Agustus 2025",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    },
+    {
+      "nama_partai": "Partai Gerakan Rakyat",
+      "singkatan": "PGR",
+      "pimpinan": "",
+      "ideologi": "Demokrasi sosial",
+      "dibentuk": "18 Januari 2026",
+      "pemilu_terakhir": "",
+      "kursi_dpr": "",
+      "status_di_dpr": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Partai Politik Nasional di Indonesia - Free Download",
+    "description": "Daftar partai politik nasional di Indonesia, baik yang memiliki kursi di DPR maupun nonparlemen, beserta pimpinan, ideologi, tanggal dibentuk, dan pemilu terakhir. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Partai Politik Nasional di Indonesia | ListBase",
+    "seo_description": "Download Daftar Partai Politik Nasional di Indonesia — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_partai_politik_di_Indonesia"
+    ]
+  }
+}
