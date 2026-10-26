@@ -1,0 +1,192 @@
+{
+  "id": "id-ketua-mpr",
+  "name": "Daftar Ketua Majelis Permusyawaratan Rakyat (MPR) Republik Indonesia",
+  "title": "Daftar Ketua Majelis Permusyawaratan Rakyat (MPR) Republik Indonesia",
+  "description": "Daftar Ketua MPR/MPRS Republik Indonesia sejak tahun 1959 beserta masa jabatan, partai politik, dan para wakil ketua.",
+  "category": "politics",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Majelis_Permusyawaratan_Rakyat_Republik_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Ketua_Majelis_Permusyawaratan_Rakyat_Republik_Indonesia",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "partai",
+      "label": "Partai",
+      "type": "string"
+    },
+    {
+      "key": "wakil_ketua",
+      "label": "Wakil Ketua",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Chaerul Saleh (1916–1967)",
+      "mulai_menjabat": "5 Juli 1959",
+      "akhir_menjabat": "18 Maret 1966",
+      "partai": "Murba",
+      "wakil_ketua": "Idham Chalid Ali Sastroamidjojo Wilujo Puspojudo Dipa Nusantara Aidit"
+    },
+    {
+      "no": "–",
+      "nama": "Wilujo Puspojudo (1919–1968)",
+      "mulai_menjabat": "27 Maret 1966",
+      "akhir_menjabat": "21 Juni 1966",
+      "partai": "ABRI–AD",
+      "wakil_ketua": "Idham Chalid Ali Sastroamidjojo"
+    },
+    {
+      "no": "2",
+      "nama": "Abdul Haris Nasution (1918–2000)",
+      "mulai_menjabat": "21 Juni 1966",
+      "akhir_menjabat": "28 Oktober 1971",
+      "partai": "ABRI–AD",
+      "wakil_ketua": "Osa Maliki Mashudi Mohammad Subchan Z. E. Melanchton Siregar"
+    },
+    {
+      "no": "3",
+      "nama": "Idham Chalid (1921–2010)",
+      "mulai_menjabat": "28 Oktober 1971",
+      "akhir_menjabat": "30 September 1977",
+      "partai": "NU",
+      "wakil_ketua": "Sumiskum Djaelani Naro Domo Pranoto Kartidjo Mohammad Isnaeni"
+    },
+    {
+      "no": "4",
+      "nama": "Adam Malik (1917–1984)",
+      "mulai_menjabat": "1 Oktober 1977",
+      "akhir_menjabat": "23 Maret 1978",
+      "partai": "Golkar",
+      "wakil_ketua": "Mashuri Saleh Achmad Lamo Masjkur Kartidjo Mohammad Isnaeni"
+    },
+    {
+      "no": "5",
+      "nama": "Daryatmo (1925–1992)",
+      "mulai_menjabat": "23 Maret 1978",
+      "akhir_menjabat": "30 September 1982",
+      "partai": "Golkar",
+      "wakil_ketua": "Mashuri Saleh Achmad Lamo Masjkur Kartidjo Mohammad Isnaeni"
+    },
+    {
+      "no": "6",
+      "nama": "Amir Machmud (1923–1995)",
+      "mulai_menjabat": "1 Oktober 1982",
+      "akhir_menjabat": "30 September 1987",
+      "partai": "Golkar",
+      "wakil_ketua": "Kharis Suhud Amir Murtono Hardjantho Sumodisastro Nuddin Lubis Soenandar Prijosoedarmo"
+    },
+    {
+      "no": "7",
+      "nama": "Kharis Suhud (1925–2012)",
+      "mulai_menjabat": "1 Oktober 1987",
+      "akhir_menjabat": "30 September 1992",
+      "partai": "Golkar",
+      "wakil_ketua": "Syaiful Sulun Raden Sukardi Raden Soeprapto Soerjadi Djaelani Naro"
+    },
+    {
+      "no": "8",
+      "nama": "Wahono (1925–2004)",
+      "mulai_menjabat": "1 Oktober 1992",
+      "akhir_menjabat": "30 September 1997",
+      "partai": "Golkar",
+      "wakil_ketua": "Ismail Hassan Metareum Ahmad Amiruddin Soerjadi Soetedjo"
+    },
+    {
+      "no": "9",
+      "nama": "Harmoko (1939–2021)",
+      "mulai_menjabat": "4 Oktober 1997",
+      "akhir_menjabat": "30 September 1999",
+      "partai": "Golkar",
+      "wakil_ketua": "Syarwan Hamid Abdul Gafur Ismail Hassan Metareum Fatimah Achmad Poedjono Pranyoto"
+    },
+    {
+      "no": "10",
+      "nama": "Amien Rais (1944–)",
+      "mulai_menjabat": "3 Oktober 1999",
+      "akhir_menjabat": "30 September 2004",
+      "partai": "PAN",
+      "wakil_ketua": "Ginandjar Kartasasmita Kwik Kian Gie Soetjipto Soedjono Husnie Thamrin Matori A. Djalil Cholil Bisri Hari Sabarno Agus Widjojo Oesman Sapta Odang Jusuf Amir Feisal Nazri Adlani"
+    },
+    {
+      "no": "11",
+      "nama": "Hidayat Nur Wahid (1960–)",
+      "mulai_menjabat": "7 Oktober 2004",
+      "akhir_menjabat": "30 September 2009",
+      "partai": "PKS",
+      "wakil_ketua": "Andi Mappetahang Fatwa Aksa Mahmud Mooryati Soedibyo"
+    },
+    {
+      "no": "12",
+      "nama": "Taufiq Kiemas (1942–2013)",
+      "mulai_menjabat": "4 Oktober 2009",
+      "akhir_menjabat": "8 Juni 2013",
+      "partai": "PDI-P",
+      "wakil_ketua": "Hajriyanto Y. Thohari Lukman Hakim Saifuddin Melani Leimena Suharli Ahmad Farhan Hamid Achmad Dimyati Natakusumah (2014)"
+    },
+    {
+      "no": "13",
+      "nama": "Sidarto Danusubroto (1936–)",
+      "mulai_menjabat": "8 Juli 2013",
+      "akhir_menjabat": "30 September 2014",
+      "partai": "PDI-P",
+      "wakil_ketua": "Hajriyanto Y. Thohari Lukman Hakim Saifuddin Melani Leimena Suharli Ahmad Farhan Hamid Achmad Dimyati Natakusumah (2014)"
+    },
+    {
+      "no": "14",
+      "nama": "Zulkifli Hasan (1962–)",
+      "mulai_menjabat": "8 Oktober 2014",
+      "akhir_menjabat": "30 September 2019",
+      "partai": "PAN",
+      "wakil_ketua": "Mahyudin E.E. Mangindaan Hidayat Nur Wahid Oesman Sapta Odang Ahmad Basarah (2018-19) Ahmad Muzani (2018-19) Muhaimin Iskandar (2018-19)"
+    },
+    {
+      "no": "15",
+      "nama": "Bambang Soesatyo (1962–)",
+      "mulai_menjabat": "3 Oktober 2019",
+      "akhir_menjabat": "30 September 2024",
+      "partai": "Golkar",
+      "wakil_ketua": "Ahmad Basarah Ahmad Muzani Lestari Moerdijat Jazilul Fawaid Syarief Hasan Hidayat Nur Wahid Zulkifli Hasan (2019-22) Yandri Susanto (2022-24) Arsul Sani (2019-24) Amir Uskara (2024) Fadel Muhammad"
+    },
+    {
+      "no": "16",
+      "nama": "Ahmad Muzani (1968–)",
+      "mulai_menjabat": "3 Oktober 2024",
+      "akhir_menjabat": "petahana",
+      "partai": "Gerindra",
+      "wakil_ketua": "Bambang Wuryanto Kahar Muzakir Lestari Moerdijat Rusdi Kirana Hidayat Nur Wahid Eddy Soeparno Edhie Baskoro Yudhoyono Abcandra Akbar Supratman"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Ketua Majelis Permusyawaratan Rakyat (MPR) Republik Indonesia - Free Download",
+    "description": "Daftar Ketua MPR/MPRS Republik Indonesia sejak tahun 1959 beserta masa jabatan, partai politik, dan para wakil ketua. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Ketua Majelis Permusyawaratan Rakyat (MPR) Republik Indonesia | ListBase",
+    "seo_description": "Download Daftar Ketua Majelis Permusyawaratan Rakyat (MPR) Republik Indonesia — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Ketua_Majelis_Permusyawaratan_Rakyat_Republik_Indonesia"
+    ]
+  }
+}

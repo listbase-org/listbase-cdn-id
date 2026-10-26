@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:20.419Z",
-  "total_datasets": 579,
-  "total_records": 647205,
+  "generated": "2026-10-26T02:13:23.888Z",
+  "total_datasets": 580,
+  "total_records": 647222,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -6681,6 +6681,33 @@
         "xlsx": {
           "name": "id-ketua-dpr_ID.xlsx",
           "size": 8224
+        }
+      }
+    },
+    {
+      "id": "id-ketua-mpr",
+      "name": "Daftar Ketua Majelis Permusyawaratan Rakyat (MPR) Republik Indonesia",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "partai",
+        "wakil_ketua"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Majelis_Permusyawaratan_Rakyat_Republik_Indonesia",
+      "updated": "2026-10",
+      "size": 7129,
+      "files": {
+        "csv": {
+          "name": "id-ketua-mpr_ID.csv",
+          "size": 2986
+        },
+        "xlsx": {
+          "name": "id-ketua-mpr_ID.xlsx",
+          "size": 8476
         }
       }
     },
