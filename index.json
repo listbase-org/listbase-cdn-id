@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:40.082Z",
-  "total_datasets": 562,
-  "total_records": 645956,
+  "generated": "2026-10-26T02:12:42.464Z",
+  "total_datasets": 563,
+  "total_records": 646197,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -5766,6 +5766,35 @@
         "xlsx": {
           "name": "id-upt-kesehatan-lanjutan-kemenkes_ID.xlsx",
           "size": 8370
+        }
+      }
+    },
+    {
+      "id": "id-gempa-bumi",
+      "name": "Daftar Gempa Bumi di Indonesia (1600–Sekarang)",
+      "category": "history",
+      "record_count": 241,
+      "columns": [
+        "tanggal",
+        "lokasi",
+        "magnitudo",
+        "kedalaman_km",
+        "mmi",
+        "korban_jiwa",
+        "korban_luka",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_gempa_bumi_di_Indonesia",
+      "updated": "2026-10",
+      "size": 63555,
+      "files": {
+        "csv": {
+          "name": "id-gempa-bumi_ID.csv",
+          "size": 20840
+        },
+        "xlsx": {
+          "name": "id-gempa-bumi_ID.xlsx",
+          "size": 19780
         }
       }
     },

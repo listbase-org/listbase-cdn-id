@@ -1,0 +1,2476 @@
+{
+  "id": "id-gempa-bumi",
+  "name": "Daftar Gempa Bumi di Indonesia (1600–Sekarang)",
+  "title": "Daftar Gempa Bumi di Indonesia (1600–Sekarang)",
+  "description": "Daftar gempa bumi signifikan yang pernah terjadi di Indonesia sejak tahun 1600, lengkap dengan lokasi, magnitudo, kedalaman, skala MMI, dan jumlah korban.",
+  "category": "history",
+  "source": "https://id.wikipedia.org/wiki/Daftar_gempa_bumi_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_gempa_bumi_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 241,
+  "columns": [
+    {
+      "key": "tanggal",
+      "label": "Tanggal",
+      "type": "date"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "magnitudo",
+      "label": "Magnitudo",
+      "type": "string"
+    },
+    {
+      "key": "kedalaman_km",
+      "label": "Kedalaman Km",
+      "type": "number"
+    },
+    {
+      "key": "mmi",
+      "label": "Mmi",
+      "type": "string"
+    },
+    {
+      "key": "korban_jiwa",
+      "label": "Korban Jiwa",
+      "type": "number"
+    },
+    {
+      "key": "korban_luka",
+      "label": "Korban Luka",
+      "type": "number"
+    },
+    {
+      "key": "keterangan",
+      "label": "Keterangan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tanggal": "2026-08-20",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "1",
+      "korban_luka": "",
+      "keterangan": "Gempa susulan"
+    },
+    {
+      "tanggal": "2026-08-17",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "5.5 Mw",
+      "kedalaman_km": "15.5",
+      "mmi": "V",
+      "korban_jiwa": "2",
+      "korban_luka": "",
+      "keterangan": "Gempa susulan"
+    },
+    {
+      "tanggal": "2026-08-15",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "142",
+      "korban_luka": "1.776",
+      "keterangan": "Gempa bumi Flores 2026"
+    },
+    {
+      "tanggal": "2026-07-12",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "5.4 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "IV",
+      "korban_jiwa": "2",
+      "korban_luka": "3",
+      "keterangan": "Kerusakan bangunan di Buol"
+    },
+    {
+      "tanggal": "2026-06-16",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "6.7 Mw",
+      "kedalaman_km": "11.0",
+      "mmi": "VIII",
+      "korban_jiwa": "3",
+      "korban_luka": "125",
+      "keterangan": "Gempa bumi Sulawesi Tengah 2026"
+    },
+    {
+      "tanggal": "2026-06-08",
+      "lokasi": "Sulawesi Utara",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "57.2",
+      "mmi": "IX",
+      "korban_jiwa": "1",
+      "korban_luka": "4",
+      "keterangan": "Gempa bumi Mindanao 2026"
+    },
+    {
+      "tanggal": "2026-04-02",
+      "lokasi": "Sulawesi Utara, Maluku Utara",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "1",
+      "korban_luka": "4",
+      "keterangan": "Gempa bumi Laut Maluku 2026"
+    },
+    {
+      "tanggal": "2026-02-06",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "40.0",
+      "mmi": "IV",
+      "korban_jiwa": "1",
+      "korban_luka": "47",
+      "keterangan": "Gempa bumi Pacitan 2026"
+    },
+    {
+      "tanggal": "2025-10-16",
+      "lokasi": "Papua",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "33.3",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "2",
+      "keterangan": "Gempa bumi Sarmi 2025"
+    },
+    {
+      "tanggal": "2025-09-30",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.0 Mw",
+      "kedalaman_km": "24.6",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "6",
+      "keterangan": "Gempa bumi Sumenep 2025"
+    },
+    {
+      "tanggal": "2025-09-18",
+      "lokasi": "Papua Tengah",
+      "magnitudo": "6.0 Mw",
+      "kedalaman_km": "28.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "3",
+      "keterangan": "Kerusakan sedang di Nabire"
+    },
+    {
+      "tanggal": "2025-08-20",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "4.9 Mw",
+      "kedalaman_km": "9.8",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "101 bangunan rusak di Karawang, Bekasi"
+    },
+    {
+      "tanggal": "2025-08-17",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "8.0",
+      "mmi": "VI",
+      "korban_jiwa": "2",
+      "korban_luka": "44",
+      "keterangan": "Gempa bumi Poso 2025"
+    },
+    {
+      "tanggal": "2025-08-12",
+      "lokasi": "Papua",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sarmi 2025"
+    },
+    {
+      "tanggal": "2025-05-23",
+      "lokasi": "Bengkulu",
+      "magnitudo": "5.7 Mw",
+      "kedalaman_km": "47.0",
+      "mmi": "VI",
+      "korban_jiwa": "1",
+      "korban_luka": "2",
+      "keterangan": "358 bangunan rusak di Kota Bengkulu"
+    },
+    {
+      "tanggal": "2025-03-18",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "5.4 Mw",
+      "kedalaman_km": "46.9",
+      "mmi": "V",
+      "korban_jiwa": "1",
+      "korban_luka": "1",
+      "keterangan": "Gempa bumi Tapanuli Utara 2025"
+    },
+    {
+      "tanggal": "2024-09-18",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "159",
+      "keterangan": "Gempa bumi Jawa Barat 2024"
+    },
+    {
+      "tanggal": "2024-09-07",
+      "lokasi": "Bali",
+      "magnitudo": "4.9 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "1",
+      "korban_luka": "3",
+      "keterangan": "10 bangunan rusak"
+    },
+    {
+      "tanggal": "2024-04-27",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "59.7",
+      "mmi": "V",
+      "korban_jiwa": "1",
+      "korban_luka": "12",
+      "keterangan": "Ratusan bangunan rusak"
+    },
+    {
+      "tanggal": "2024-03-22",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "9.5",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "4",
+      "keterangan": "Gempa bumi Laut Jawa 2024"
+    },
+    {
+      "tanggal": "2024-02-13",
+      "lokasi": "Kalimantan Selatan",
+      "magnitudo": "4.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Kalimantan Selatan 2024"
+    },
+    {
+      "tanggal": "2024-01-01",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "4.5 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IV",
+      "korban_jiwa": "",
+      "korban_luka": "11",
+      "keterangan": "Gempa bumi swarm. 1.005 rumah rusak di Sumedang"
+    },
+    {
+      "tanggal": "2023-12-31",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "4.8 Mw",
+      "kedalaman_km": "12.0",
+      "mmi": "V",
+      "korban_jiwa": "",
+      "korban_luka": "3",
+      "keterangan": "Gempa bumi swarm. 1.005 rumah rusak di Sumedang"
+    },
+    {
+      "tanggal": "2023-11-22",
+      "lokasi": "Halmahera",
+      "magnitudo": "6.0 Mw",
+      "kedalaman_km": "102.0",
+      "mmi": "VI",
+      "korban_jiwa": "1",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "2023-06-30",
+      "lokasi": "Daerah Istimewa Yogyakarta",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "76.4",
+      "mmi": "IV",
+      "korban_jiwa": "1",
+      "korban_luka": "22",
+      "keterangan": "Gempa bumi Yogyakarta 2023"
+    },
+    {
+      "tanggal": "2023-04-25",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "34.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Kepulauan Mentawai April 2023"
+    },
+    {
+      "tanggal": "2023-04-14",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "643.0",
+      "mmi": "IV",
+      "korban_jiwa": "1",
+      "korban_luka": "",
+      "keterangan": "Kerusakan beberapa"
+    },
+    {
+      "tanggal": "2023-02-09",
+      "lokasi": "Papua",
+      "magnitudo": "5.1 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "4",
+      "korban_luka": "5",
+      "keterangan": "Gempa bumi Jayapura 2023"
+    },
+    {
+      "tanggal": "2023-01-09",
+      "lokasi": "Maluku",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "105.2",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "11",
+      "keterangan": "Gempa bumi Maluku 2023"
+    },
+    {
+      "tanggal": "2022-11-21",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.6 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IX",
+      "korban_jiwa": "335–635",
+      "korban_luka": "10.595",
+      "keterangan": "Gempa bumi Cianjur 2022"
+    },
+    {
+      "tanggal": "2022-10-01",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "26",
+      "keterangan": "Gempa bumi Tapanuli Utara 2022"
+    },
+    {
+      "tanggal": "2022-02-25",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "6.2 Mw",
+      "kedalaman_km": "4.0",
+      "mmi": "VIII",
+      "korban_jiwa": "27",
+      "korban_luka": "457",
+      "keterangan": "Gempa bumi Pasaman Barat 2022"
+    },
+    {
+      "tanggal": "2022-01-14",
+      "lokasi": "Banten",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "22",
+      "keterangan": "Gempa bumi Banten 2022"
+    },
+    {
+      "tanggal": "2021-12-14",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "16.0",
+      "mmi": "VI",
+      "korban_jiwa": "1",
+      "korban_luka": "173",
+      "keterangan": "Gempa bumi Laut Flores 2021"
+    },
+    {
+      "tanggal": "2021-10-15",
+      "lokasi": "Bali",
+      "magnitudo": "4.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "5",
+      "korban_luka": "62",
+      "keterangan": "Gempa bumi Karangasem 2021"
+    },
+    {
+      "tanggal": "2021-07-26",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Tojo Una-Una 2021"
+    },
+    {
+      "tanggal": "2021-04-10",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.0 Mw",
+      "kedalaman_km": "67.0",
+      "mmi": "V",
+      "korban_jiwa": "10",
+      "korban_luka": "104",
+      "keterangan": "Gempa bumi Jawa Timur April 2021"
+    },
+    {
+      "tanggal": "2021-01-15",
+      "lokasi": "Sulawesi Barat",
+      "magnitudo": "6.2 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "105",
+      "korban_luka": "6.489",
+      "keterangan": "Gempa bumi Sulawesi Barat 2021"
+    },
+    {
+      "tanggal": "2020-03-10",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "9",
+      "keterangan": "1.137 bangunan rusak di Sukabumi"
+    },
+    {
+      "tanggal": "2019-11-14",
+      "lokasi": "Maluku Utara, Sulawesi Utara",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VI",
+      "korban_jiwa": "1",
+      "korban_luka": "3",
+      "keterangan": "Gempa bumi Laut Maluku 2019"
+    },
+    {
+      "tanggal": "2019-11-12",
+      "lokasi": "Maluku",
+      "magnitudo": "5.2 Mw",
+      "kedalaman_km": "48.3",
+      "mmi": "V",
+      "korban_jiwa": "2",
+      "korban_luka": "9",
+      "keterangan": "Gempa susulan. 16 bangunan rusak"
+    },
+    {
+      "tanggal": "2019-10-10",
+      "lokasi": "Maluku",
+      "magnitudo": "5.2 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VII",
+      "korban_jiwa": "1",
+      "korban_luka": "2",
+      "keterangan": "Beberapa bangunan rusak."
+    },
+    {
+      "tanggal": "2019-09-26",
+      "lokasi": "Maluku",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "41",
+      "korban_luka": "1.578",
+      "keterangan": "Gempa bumi Maluku 2019"
+    },
+    {
+      "tanggal": "2019-08-02",
+      "lokasi": "Banten, Jakarta, Jawa Barat",
+      "magnitudo": "6.9 Mw",
+      "kedalaman_km": "49.0",
+      "mmi": "VI",
+      "korban_jiwa": "5",
+      "korban_luka": "4",
+      "keterangan": "Gempa bumi Banten 2019"
+    },
+    {
+      "tanggal": "2019-07-14",
+      "lokasi": "Maluku Utara",
+      "magnitudo": "7.2 Mw",
+      "kedalaman_km": "19.0",
+      "mmi": "VII",
+      "korban_jiwa": "14",
+      "korban_luka": "129",
+      "keterangan": "Gempa bumi Halmahera 2019"
+    },
+    {
+      "tanggal": "2019-03-17",
+      "lokasi": "Lombok",
+      "magnitudo": "5.6 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "6",
+      "korban_luka": "150",
+      "keterangan": "Gempa bumi Lombok 2019"
+    },
+    {
+      "tanggal": "2018-10-10",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.0 Mw",
+      "kedalaman_km": "5.1",
+      "mmi": "V",
+      "korban_jiwa": "4",
+      "korban_luka": "26",
+      "keterangan": "Gempa bumi Situbondo 2018"
+    },
+    {
+      "tanggal": "2018-09-28",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "7.5 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "X",
+      "korban_jiwa": "4.340",
+      "korban_luka": "10.679",
+      "keterangan": "Gempa bumi dan tsunami Sulawesi 2018"
+    },
+    {
+      "tanggal": "2018-08-19",
+      "lokasi": "Lombok",
+      "magnitudo": "6.9 Mw",
+      "kedalaman_km": "21.0",
+      "mmi": "VII",
+      "korban_jiwa": "14",
+      "korban_luka": "200",
+      "keterangan": "Gempa bumi Lombok 19 Agustus 2018"
+    },
+    {
+      "tanggal": "2018-08-19",
+      "lokasi": "Lombok",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "16.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "3",
+      "keterangan": "Gempa susulan."
+    },
+    {
+      "tanggal": "2018-08-09",
+      "lokasi": "Lombok",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "VI",
+      "korban_jiwa": "6",
+      "korban_luka": "27",
+      "keterangan": "Gempa susulan"
+    },
+    {
+      "tanggal": "2018-08-05",
+      "lokasi": "Lombok",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "31.0",
+      "mmi": "VIII",
+      "korban_jiwa": "564",
+      "korban_luka": "7.000",
+      "keterangan": "Gempa bumi Lombok Agustus 2018"
+    },
+    {
+      "tanggal": "2018-07-29",
+      "lokasi": "Lombok",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "24.0",
+      "mmi": "VII",
+      "korban_jiwa": "20",
+      "korban_luka": "401",
+      "keterangan": "Gempa bumi Lombok Juli 2018"
+    },
+    {
+      "tanggal": "2018-04-18",
+      "lokasi": "Jawa Tengah",
+      "magnitudo": "4.6 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "V",
+      "korban_jiwa": "3",
+      "korban_luka": "21",
+      "keterangan": "316 bangunan rusak"
+    },
+    {
+      "tanggal": "2018-01-23",
+      "lokasi": "Banten, Jakarta",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "48.0",
+      "mmi": "V",
+      "korban_jiwa": "2",
+      "korban_luka": "41",
+      "keterangan": "Gempa bumi Banten 2018"
+    },
+    {
+      "tanggal": "2017-12-15",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "90.0",
+      "mmi": "VII",
+      "korban_jiwa": "4",
+      "korban_luka": "36",
+      "keterangan": "Gempa bumi Jawa 2017"
+    },
+    {
+      "tanggal": "2017-01-16",
+      "lokasi": "Medan, Sumatera Utara",
+      "magnitudo": "5.6 Mw",
+      "kedalaman_km": "6.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Puluhan bangunan rusak"
+    },
+    {
+      "tanggal": "2016-12-07",
+      "lokasi": "Aceh",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "VIII",
+      "korban_jiwa": "104",
+      "korban_luka": "857",
+      "keterangan": "Gempa bumi Pidie Jaya 2016"
+    },
+    {
+      "tanggal": "2015-12-20",
+      "lokasi": "Kalimantan Utara",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "14.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Tarakan 2015"
+    },
+    {
+      "tanggal": "2015-09-24",
+      "lokasi": "Sorong",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "18.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "62",
+      "keterangan": "26 rumah rusak."
+    },
+    {
+      "tanggal": "2014-01-25",
+      "lokasi": "Jawa Tengah",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "66.0",
+      "mmi": "V",
+      "korban_jiwa": "",
+      "korban_luka": "2",
+      "keterangan": "69 rumah rusak"
+    },
+    {
+      "tanggal": "2013-07-02",
+      "lokasi": "Aceh",
+      "magnitudo": "6.2 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "43",
+      "korban_luka": "2.532",
+      "keterangan": "Gempa bumi Aceh 2013"
+    },
+    {
+      "tanggal": "2012-08-18",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "6",
+      "korban_luka": "258",
+      "keterangan": "Gempa bumi Sulawesi Tengah 2012"
+    },
+    {
+      "tanggal": "2012-04-11",
+      "lokasi": "Sumatra",
+      "magnitudo": "8.6 Mw",
+      "kedalaman_km": "22.9",
+      "mmi": "VI",
+      "korban_jiwa": "5",
+      "korban_luka": "7",
+      "keterangan": "Gempa bumi Sumatra 2012"
+    },
+    {
+      "tanggal": "2012-04-11",
+      "lokasi": "Sumatra",
+      "magnitudo": "8.2 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "V",
+      "korban_jiwa": "5",
+      "korban_luka": "7",
+      "keterangan": "Gempa bumi Sumatra 2012"
+    },
+    {
+      "tanggal": "2011-10-13",
+      "lokasi": "Bali",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "29.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "60",
+      "keterangan": "Gempa bumi Bali 2011"
+    },
+    {
+      "tanggal": "2011-09-06",
+      "lokasi": "Aceh",
+      "magnitudo": "6.7 Mw",
+      "kedalaman_km": "78.0",
+      "mmi": "VII",
+      "korban_jiwa": "10",
+      "korban_luka": "147",
+      "keterangan": "Gempa bumi Singkil 2011"
+    },
+    {
+      "tanggal": "2011-04-03",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "6.7 Mw",
+      "kedalaman_km": "14.0",
+      "mmi": "V",
+      "korban_jiwa": "1",
+      "korban_luka": "",
+      "keterangan": "Terasa pada area yang luas"
+    },
+    {
+      "tanggal": "2010-10-25",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "20.6",
+      "mmi": "VII",
+      "korban_jiwa": "408",
+      "korban_luka": "498",
+      "keterangan": "Gempa bumi Kepulauan Mentawai 2010"
+    },
+    {
+      "tanggal": "2010-06-16",
+      "lokasi": "Papua",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "28.0",
+      "mmi": "VIII",
+      "korban_jiwa": "17",
+      "korban_luka": "75",
+      "keterangan": "Gempa bumi Papua 2010"
+    },
+    {
+      "tanggal": "2010-04-06",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "31.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "62",
+      "keterangan": "Gempa bumi Sumatera Utara 2010"
+    },
+    {
+      "tanggal": "2009-11-09",
+      "lokasi": "Bima",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "18.0",
+      "mmi": "VII",
+      "korban_jiwa": "1",
+      "korban_luka": "6",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "2009-09-30",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "81.0",
+      "mmi": "VIII",
+      "korban_jiwa": "1.117",
+      "korban_luka": "2.180",
+      "keterangan": "Gempa bumi Sumatra Barat 2009"
+    },
+    {
+      "tanggal": "2009-09-02",
+      "lokasi": "Jawa Barat, Jakarta, Banten",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "46.0",
+      "mmi": "VII",
+      "korban_jiwa": "81",
+      "korban_luka": "1.297",
+      "keterangan": "Gempa bumi Jawa Barat 2009"
+    },
+    {
+      "tanggal": "2009-02-12",
+      "lokasi": "Sulawesi Utara",
+      "magnitudo": "7.2 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "64",
+      "keterangan": "Gempa bumi Kepulauan Talaud 2009"
+    },
+    {
+      "tanggal": "2009-01-03",
+      "lokasi": "Papua Barat",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "17.0",
+      "mmi": "VIII",
+      "korban_jiwa": "4",
+      "korban_luka": "13",
+      "keterangan": "Gempa bumi Papua Barat 2009"
+    },
+    {
+      "tanggal": "2009-01-03",
+      "lokasi": "Papua Barat",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "23.0",
+      "mmi": "VIII",
+      "korban_jiwa": "4",
+      "korban_luka": "13",
+      "keterangan": "Gempa bumi Papua Barat 2009"
+    },
+    {
+      "tanggal": "2008-11-17",
+      "lokasi": "Gorontalo",
+      "magnitudo": "7.3 Mw",
+      "kedalaman_km": "21.0",
+      "mmi": "VII",
+      "korban_jiwa": "4",
+      "korban_luka": "59",
+      "keterangan": "Gempa bumi Sulawesi 2008"
+    },
+    {
+      "tanggal": "2008-02-20",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VII",
+      "korban_jiwa": "4",
+      "korban_luka": "35",
+      "keterangan": "Gempa bumi Simeulue 2008"
+    },
+    {
+      "tanggal": "2007-09-13",
+      "lokasi": "Bengkulu",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VII",
+      "korban_jiwa": "23",
+      "korban_luka": "161",
+      "keterangan": "Gempa bumi Sumatra September 2007"
+    },
+    {
+      "tanggal": "2007-09-12",
+      "lokasi": "Bengkulu",
+      "magnitudo": "8.4 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VII",
+      "korban_jiwa": "23",
+      "korban_luka": "161",
+      "keterangan": "Gempa bumi Sumatra September 2007"
+    },
+    {
+      "tanggal": "2007-08-09",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "7.5 Mw",
+      "kedalaman_km": "282.0",
+      "mmi": "V",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Jawa 2007"
+    },
+    {
+      "tanggal": "2007-03-06",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "68",
+      "korban_luka": "460",
+      "keterangan": "Gempa bumi Sumatra Maret 2007"
+    },
+    {
+      "tanggal": "2007-03-06",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VIII",
+      "korban_jiwa": "68",
+      "korban_luka": "460",
+      "keterangan": "Gempa bumi Sumatra Maret 2007"
+    },
+    {
+      "tanggal": "2006-07-17",
+      "lokasi": "Jawa Barat, Jawa Tengah",
+      "magnitudo": "7.7 Mw",
+      "kedalaman_km": "12.0",
+      "mmi": "V",
+      "korban_jiwa": "668",
+      "korban_luka": "9.299",
+      "keterangan": "Gempa bumi dan tsunami Jawa 2006"
+    },
+    {
+      "tanggal": "2006-05-27",
+      "lokasi": "Daerah Istimewa Yogyakarta, Jawa Tengah",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "12.5",
+      "mmi": "IX",
+      "korban_jiwa": "5.778–6.234",
+      "korban_luka": "38.568–137.883",
+      "keterangan": "Gempa bumi Yogyakarta 2006"
+    },
+    {
+      "tanggal": "2005-03-28",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "8.6 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VIII",
+      "korban_jiwa": "915–1.314",
+      "korban_luka": "340–1.146",
+      "keterangan": "Gempa bumi Sumatra 2005"
+    },
+    {
+      "tanggal": "2005-02-02",
+      "lokasi": "Cicalengka, Bandung",
+      "magnitudo": "4.8 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "VI",
+      "korban_jiwa": "1",
+      "korban_luka": "3",
+      "keterangan": "Puluhan rumah hancur"
+    },
+    {
+      "tanggal": "2004-12-26",
+      "lokasi": "Sumatra",
+      "magnitudo": "9.1–9.3 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "IX",
+      "korban_jiwa": "227.898",
+      "korban_luka": "125.000",
+      "keterangan": "Gempa bumi dan tsunami Samudra Hindia 2004"
+    },
+    {
+      "tanggal": "2004-11-26",
+      "lokasi": "Papua Tengah",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "37.8",
+      "mmi": "VIII",
+      "korban_jiwa": "34",
+      "korban_luka": "315",
+      "keterangan": "Gempa bumi Nabire November 2004"
+    },
+    {
+      "tanggal": "2004-11-12",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "7.5 Mw",
+      "kedalaman_km": "23.0",
+      "mmi": "IX",
+      "korban_jiwa": "34",
+      "korban_luka": "234",
+      "keterangan": "Gempa bumi Alor 2004"
+    },
+    {
+      "tanggal": "2004-02-07",
+      "lokasi": "Papua Tengah",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "44.5",
+      "mmi": "VII",
+      "korban_jiwa": "37",
+      "korban_luka": "682",
+      "keterangan": "Gempa bumi Nabire 2004"
+    },
+    {
+      "tanggal": "2004-01-02",
+      "lokasi": "Bali",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "V-VI",
+      "korban_jiwa": "1",
+      "korban_luka": "33",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "2002-11-02",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "3",
+      "korban_luka": "65",
+      "keterangan": "Gempa bumi Sumatra 2002"
+    },
+    {
+      "tanggal": "2002-10-10",
+      "lokasi": "Papua Barat",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "33.8",
+      "mmi": "X",
+      "korban_jiwa": "8",
+      "korban_luka": "632",
+      "keterangan": "Gempa bumi Papua Barat 2002"
+    },
+    {
+      "tanggal": "2000-10-25",
+      "lokasi": "Banten",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "38.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "Beberapa",
+      "keterangan": "Gempa bumi Banten 2000"
+    },
+    {
+      "tanggal": "2000-06-12",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.4 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "V",
+      "korban_jiwa": "",
+      "korban_luka": "6",
+      "keterangan": "250 rumah rusak"
+    },
+    {
+      "tanggal": "2000-06-04",
+      "lokasi": "Bengkulu",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VIII",
+      "korban_jiwa": "103",
+      "korban_luka": "2.585",
+      "keterangan": "Gempa bumi Bengkulu 2000"
+    },
+    {
+      "tanggal": "2000-05-04",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "26.0",
+      "mmi": "VII",
+      "korban_jiwa": "54",
+      "korban_luka": "264",
+      "keterangan": "Gempa bumi Kepulauan Banggai 2000"
+    },
+    {
+      "tanggal": "1999-12-21",
+      "lokasi": "Banten, Jakarta",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "56.0",
+      "mmi": "VII",
+      "korban_jiwa": "5",
+      "korban_luka": "220",
+      "keterangan": "Gempa bumi Banten 1999"
+    },
+    {
+      "tanggal": "1998-11-29",
+      "lokasi": "Maluku Utara",
+      "magnitudo": "7.7 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "IX",
+      "korban_jiwa": "41",
+      "korban_luka": "171",
+      "keterangan": "Gempa bumi Maluku Utara 1998"
+    },
+    {
+      "tanggal": "1998-09-28",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "151.6",
+      "mmi": "V",
+      "korban_jiwa": "1",
+      "korban_luka": "200",
+      "keterangan": "Puluhan bangunan hancur di Malang-Blitar-Tulungagung"
+    },
+    {
+      "tanggal": "1997-09-28",
+      "lokasi": "Sulawesi Selatan",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VII",
+      "korban_jiwa": "18",
+      "korban_luka": "300",
+      "keterangan": "Gempa bumi Parepare–Pinrang 1997"
+    },
+    {
+      "tanggal": "1997-03-17",
+      "lokasi": "Banten, Jakarta",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Kerusakan beberapa di Jakarta"
+    },
+    {
+      "tanggal": "1996-02-17",
+      "lokasi": "Papua",
+      "magnitudo": "8.2 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "IX",
+      "korban_jiwa": "166",
+      "korban_luka": "423",
+      "keterangan": "Gempa bumi Biak 1996"
+    },
+    {
+      "tanggal": "1996-01-01",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "24.0",
+      "mmi": "X",
+      "korban_jiwa": "9",
+      "korban_luka": "63",
+      "keterangan": "Gempa bumi Sulawesi Tengah 1996"
+    },
+    {
+      "tanggal": "1995-10-07",
+      "lokasi": "Jambi",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VIII",
+      "korban_jiwa": "84",
+      "korban_luka": "2.073",
+      "keterangan": "Gempa bumi Kerinci 1995"
+    },
+    {
+      "tanggal": "1994-06-03",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "18.0",
+      "mmi": "V",
+      "korban_jiwa": "250",
+      "korban_luka": "423",
+      "keterangan": "Gempa bumi dan tsunami Jawa Timur 1994"
+    },
+    {
+      "tanggal": "1994-02-16",
+      "lokasi": "Lampung",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "23.0",
+      "mmi": "X",
+      "korban_jiwa": "204",
+      "korban_luka": "2.000",
+      "keterangan": "Gempa bumi Liwa 1994"
+    },
+    {
+      "tanggal": "1992-12-12",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "27.7",
+      "mmi": "VIII",
+      "korban_jiwa": "2.500",
+      "korban_luka": "500",
+      "keterangan": "Gempa bumi dan tsunami Flores 1992"
+    },
+    {
+      "tanggal": "1991-07-04",
+      "lokasi": "Alor",
+      "magnitudo": "6.9 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VII",
+      "korban_jiwa": "23",
+      "korban_luka": "200",
+      "keterangan": "Gempa bumi Kalabahi 1991"
+    },
+    {
+      "tanggal": "1990-07-06",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.5 Mw",
+      "kedalaman_km": "13.5",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "103",
+      "keterangan": "10.300 bangunan rusak di Majalengka"
+    },
+    {
+      "tanggal": "1990-04-18",
+      "lokasi": "Gorontalo",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "25.7",
+      "mmi": "VIII",
+      "korban_jiwa": "3",
+      "korban_luka": "25",
+      "keterangan": "Tsunami (lokal)"
+    },
+    {
+      "tanggal": "1989-08-01",
+      "lokasi": "Papua Pegunungan",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "14.3",
+      "mmi": "VIII",
+      "korban_jiwa": "120",
+      "korban_luka": "125",
+      "keterangan": "Gempa bumi Irian Barat 1989"
+    },
+    {
+      "tanggal": "1987-04-25",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "11.1",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "30",
+      "keterangan": "300 bangunan rusak di Tarutung-Danau Toba"
+    },
+    {
+      "tanggal": "1984-11-17",
+      "lokasi": "Sumatera Utara",
+      "magnitudo": "7.2 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "1",
+      "keterangan": "Gempa bumi Sumatera Utara 1984"
+    },
+    {
+      "tanggal": "1984-01-08",
+      "lokasi": "Sulawesi Barat",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "23",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1982-12-25",
+      "lokasi": "Nusa Tenggara Timur",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "13",
+      "korban_luka": "390",
+      "keterangan": "Gempa bumi Flores 1982"
+    },
+    {
+      "tanggal": "1982-02-10",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.5 Mw",
+      "kedalaman_km": "39.8",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "17",
+      "keterangan": "Kerusakan parah di Sukabumi"
+    },
+    {
+      "tanggal": "1981-01-19",
+      "lokasi": "Papua Pegunungan",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VIII",
+      "korban_jiwa": "305",
+      "korban_luka": "800",
+      "keterangan": "Gempa bumi Irian Jaya 1981"
+    },
+    {
+      "tanggal": "1979-12-17",
+      "lokasi": "Bali",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "26.0",
+      "mmi": "VIII",
+      "korban_jiwa": "27",
+      "korban_luka": "200+",
+      "keterangan": "Gempa bumi Bali 1979"
+    },
+    {
+      "tanggal": "1979-12-15",
+      "lokasi": "Sumatera Selatan",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "33.0",
+      "mmi": "VIII",
+      "korban_jiwa": "8",
+      "korban_luka": "162",
+      "keterangan": "Kerusakan parah di Lubuklinggau"
+    },
+    {
+      "tanggal": "1979-11-02",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "31.0",
+      "mmi": "VI",
+      "korban_jiwa": "30",
+      "korban_luka": "400+",
+      "keterangan": "Kerusakan parah di Tasikmalaya-Garut"
+    },
+    {
+      "tanggal": "1979-10-20",
+      "lokasi": "Bali",
+      "magnitudo": "6.2 Mw",
+      "kedalaman_km": "38.0",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "40",
+      "keterangan": "Gempa awal"
+    },
+    {
+      "tanggal": "1979-09-12",
+      "lokasi": "Papua Barat",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "5.0",
+      "mmi": "IX",
+      "korban_jiwa": "115",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Yapen 1979"
+    },
+    {
+      "tanggal": "1979-05-30",
+      "lokasi": "Bali",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "VI",
+      "korban_jiwa": "22",
+      "korban_luka": "",
+      "keterangan": "Gempa awal"
+    },
+    {
+      "tanggal": "1977-08-19",
+      "lokasi": "Sumba, Sumbawa",
+      "magnitudo": "8.3 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VIII",
+      "korban_jiwa": "180",
+      "korban_luka": "1.100",
+      "keterangan": "Gempa bumi Sumba 1977"
+    },
+    {
+      "tanggal": "1976-07-14",
+      "lokasi": "Bali",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "40.0",
+      "mmi": "IX",
+      "korban_jiwa": "573",
+      "korban_luka": "4.750",
+      "keterangan": "Gempa bumi Bali 1976"
+    },
+    {
+      "tanggal": "1976-06-25",
+      "lokasi": "Papua Pegunungan",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "X",
+      "korban_jiwa": "5.000",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Irian Jaya 1976"
+    },
+    {
+      "tanggal": "1975-02-09",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.6 Mw",
+      "kedalaman_km": "27.0",
+      "mmi": "VII",
+      "korban_jiwa": "1",
+      "korban_luka": "500",
+      "keterangan": "Ratusan rumah rusak di Kabupaten Bogor"
+    },
+    {
+      "tanggal": "1969-02-23",
+      "lokasi": "Sulawesi Barat",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "668",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi dan tsunami Sulawesi 1969"
+    },
+    {
+      "tanggal": "1968-08-18",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "IX",
+      "korban_jiwa": "213",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi dan tsunami Sulawesi 1968"
+    },
+    {
+      "tanggal": "1967-02-19",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "85.4",
+      "mmi": "IX",
+      "korban_jiwa": "54",
+      "korban_luka": "300",
+      "keterangan": "Gempa bumi Jawa Timur 1967"
+    },
+    {
+      "tanggal": "1965-01-24",
+      "lokasi": "Laut Seram",
+      "magnitudo": "8.2 Mw",
+      "kedalaman_km": "28.0",
+      "mmi": "VII",
+      "korban_jiwa": "75",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Laut Seram 1965"
+    },
+    {
+      "tanggal": "1964-04-02",
+      "lokasi": "Aceh",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1963-12-16",
+      "lokasi": "Banten",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "45.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Kerusakan signifikan di Banten"
+    },
+    {
+      "tanggal": "1963-11-04",
+      "lokasi": "Laut Banda",
+      "magnitudo": "8.1 Mw",
+      "kedalaman_km": "110.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1962-12-21",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "55.0",
+      "mmi": "VI–VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Kerusakan signifikan"
+    },
+    {
+      "tanggal": "1957-11-26",
+      "lokasi": "Kalimantan Timur",
+      "magnitudo": "6.0 Mw",
+      "kedalaman_km": "45.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa doublet. Kerusakan ringan di Paser"
+    },
+    {
+      "tanggal": "1957-11-25",
+      "lokasi": "Kalimantan Timur",
+      "magnitudo": "6.1 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa doublet kerusakan ringan di Paser"
+    },
+    {
+      "tanggal": "1954-07-03",
+      "lokasi": "Banten, Jakarta",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "60.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1950-06-19",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "45.0",
+      "mmi": "VIII",
+      "korban_jiwa": "15",
+      "korban_luka": "500",
+      "keterangan": "7.000 bangunan rusak di Tuban, Bojonegoro, Surabaya"
+    },
+    {
+      "tanggal": "1944-04-17",
+      "lokasi": "Jawa Tengah",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "VIII–IX",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Kerusakan di Banyumas"
+    },
+    {
+      "tanggal": "1943-07-23",
+      "lokasi": "Jawa Tengah, Daerah Istimewa Yogyakarta",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "60.0",
+      "mmi": "VIII",
+      "korban_jiwa": "213",
+      "korban_luka": "3.900",
+      "keterangan": "Gempa bumi Jawa Tengah 1943"
+    },
+    {
+      "tanggal": "1943-06-08",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "7.7 Ms",
+      "kedalaman_km": "15.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Alahan Panjang 1943"
+    },
+    {
+      "tanggal": "1943-06-08",
+      "lokasi": "Sumatera Selatan",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Alahan Panjang 1943"
+    },
+    {
+      "tanggal": "1943-04-01",
+      "lokasi": "Banten, Lampung, Jakarta",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Jawa 1943"
+    },
+    {
+      "tanggal": "1941-11-02",
+      "lokasi": "Gorontalo",
+      "magnitudo": "7.4 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "2",
+      "korban_luka": "",
+      "keterangan": "227 bangunan hancur"
+    },
+    {
+      "tanggal": "1939-12-22",
+      "lokasi": "Teluk Tomini",
+      "magnitudo": "8.1 Mw",
+      "kedalaman_km": "150.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami (lokal)"
+    },
+    {
+      "tanggal": "1938-05-20",
+      "lokasi": "Selat Makassar",
+      "magnitudo": "7.7 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "IX",
+      "korban_jiwa": "20",
+      "korban_luka": "",
+      "keterangan": "Tsunami 3 m (9,8 ft)"
+    },
+    {
+      "tanggal": "1938-02-01",
+      "lokasi": "Laut Banda",
+      "magnitudo": "8.5 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Laut Banda 1938"
+    },
+    {
+      "tanggal": "1937-09-27",
+      "lokasi": "Daerah Istimewa Yogyakarta",
+      "magnitudo": "6.9 Mw",
+      "kedalaman_km": "55.0",
+      "mmi": "VIII",
+      "korban_jiwa": "1",
+      "korban_luka": "",
+      "keterangan": "2.200 bangunan rusak"
+    },
+    {
+      "tanggal": "1936-09-19",
+      "lokasi": "Aceh, Sumatera Utara",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "IX",
+      "korban_jiwa": "17",
+      "korban_luka": "",
+      "keterangan": "83 bangunan hancur"
+    },
+    {
+      "tanggal": "1935-12-28",
+      "lokasi": "Sumatra Utara",
+      "magnitudo": "7.7 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1935"
+    },
+    {
+      "tanggal": "1933-06-24",
+      "lokasi": "Lampung, Bengkulu, Sumatera Selatan",
+      "magnitudo": "7.5 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "IX",
+      "korban_jiwa": "788",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1933"
+    },
+    {
+      "tanggal": "1932-05-14",
+      "lokasi": "Laut Maluku",
+      "magnitudo": "7.7 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "VIII",
+      "korban_jiwa": "6",
+      "korban_luka": "115",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1931-09-25",
+      "lokasi": "Sumatra",
+      "magnitudo": "7.3 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1931"
+    },
+    {
+      "tanggal": "1931-01-21",
+      "lokasi": "Jawa Barat",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "IX",
+      "korban_jiwa": "18",
+      "korban_luka": "",
+      "keterangan": "Kerusakan di Pagujangan dan Margasari"
+    },
+    {
+      "tanggal": "1927-12-01",
+      "lokasi": "Sulawesi Tengah",
+      "magnitudo": "6.2 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VII",
+      "korban_jiwa": "50",
+      "korban_luka": "",
+      "keterangan": "Tsunami (lokal)"
+    },
+    {
+      "tanggal": "1926-09-10",
+      "lokasi": "Jawa Tengah, Daerah Istimewa Yogyakarta",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Jawa 1926"
+    },
+    {
+      "tanggal": "1926-06-28",
+      "lokasi": "Pekanbaru, Riau",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1926-06-28",
+      "lokasi": "Sumatera Barat",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "IX",
+      "korban_jiwa": "354",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Padang Panjang 1926"
+    },
+    {
+      "tanggal": "1924-12-02",
+      "lokasi": "Jawa Tengah",
+      "magnitudo": "5.5 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "115",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi doublet. Kerusakan parah, dan tanah longsor di Wonosobo"
+    },
+    {
+      "tanggal": "1924-11-12",
+      "lokasi": "Jawa Tengah",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "IX",
+      "korban_jiwa": "727",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi doublet. Kerusakan parah, dan tanah longsor di Wonosobo"
+    },
+    {
+      "tanggal": "1923-04-19",
+      "lokasi": "Kalimantan Utara",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1921-09-11",
+      "lokasi": "Jawa Tengah",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "V",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1921-05-14",
+      "lokasi": "Kalimantan Timur",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami 1 m (3,3 ft), kemungkinan akibat longsoran bawah laut"
+    },
+    {
+      "tanggal": "1917-01-21",
+      "lokasi": "Bali",
+      "magnitudo": "6.5 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "IX",
+      "korban_jiwa": "1.500",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Bali 1917"
+    },
+    {
+      "tanggal": "1916-09-11",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.6 Mw",
+      "kedalaman_km": "65.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Banyak bangunan rusak"
+    },
+    {
+      "tanggal": "1916-09-09",
+      "lokasi": "Maos, Cilacap, Jawa Tengah",
+      "magnitudo": "5.9 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IX",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "740 bangunan hancur."
+    },
+    {
+      "tanggal": "1916-09-09",
+      "lokasi": "Maos, Cilacap, Jawa Tengah",
+      "magnitudo": "5.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IX",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "740 bangunan hancur."
+    },
+    {
+      "tanggal": "1914-06-26",
+      "lokasi": "Bengkulu",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "20",
+      "korban_luka": "",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1914-05-26",
+      "lokasi": "Papua",
+      "magnitudo": "8.2 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VIII",
+      "korban_jiwa": "101",
+      "korban_luka": "",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1913-03-14",
+      "lokasi": "Sulawesi Utara",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "IX",
+      "korban_jiwa": "138",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sulawesi–Mindanao 1913"
+    },
+    {
+      "tanggal": "1909-06-04",
+      "lokasi": "Sumatra Barat, Jambi",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "IX",
+      "korban_jiwa": "195–230",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Kerinci 1909"
+    },
+    {
+      "tanggal": "1907-01-04",
+      "lokasi": "Sumatra Utara",
+      "magnitudo": "8.2 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "V",
+      "korban_jiwa": "2.118",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1907"
+    },
+    {
+      "tanggal": "1903-02-27",
+      "lokasi": "Banten",
+      "magnitudo": "7.3 Mw",
+      "kedalaman_km": "",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1900-01-06",
+      "lokasi": "Bengkulu, Sumatra Selatan",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IX",
+      "korban_jiwa": "24",
+      "korban_luka": "",
+      "keterangan": "146 bangunan hancur, ratusan rusak"
+    },
+    {
+      "tanggal": "1899-09-30",
+      "lokasi": "Pulau Seram",
+      "magnitudo": "7.8 Ms",
+      "kedalaman_km": "25.0",
+      "mmi": "IX",
+      "korban_jiwa": "3.389",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Seram 1899"
+    },
+    {
+      "tanggal": "1898-01-06",
+      "lokasi": "Ambon",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "IX",
+      "korban_jiwa": "126",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Ambon 1898"
+    },
+    {
+      "tanggal": "1896-08-15",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.7 Mw",
+      "kedalaman_km": "90.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1896-07-01",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "6.3 Mw",
+      "kedalaman_km": "80.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1896-04-18",
+      "lokasi": "Timor, Alor",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "250",
+      "korban_luka": "",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1895-10-20",
+      "lokasi": "Laut Jawa",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "325.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Bangunan disekitar Selat Sunda dan selatan Sumatra rusak ringan."
+    },
+    {
+      "tanggal": "1893-06-12",
+      "lokasi": "Bengkulu-Sumatera Selatan",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "147 bangunan hancur"
+    },
+    {
+      "tanggal": "1892-05-17",
+      "lokasi": "Sumatra Barat",
+      "magnitudo": "7.6 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IX",
+      "korban_jiwa": "263",
+      "korban_luka": "",
+      "keterangan": "695 bangunan hancur, 1.436 bangunan rusak."
+    },
+    {
+      "tanggal": "1890-12-12",
+      "lokasi": "Gunung Muria, Jawa Tengah",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "Beberapa",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1889-09-06",
+      "lokasi": "Sulawesi Utara",
+      "magnitudo": "7.8–8.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami 4 m (13 ft)"
+    },
+    {
+      "tanggal": "1879-03-28",
+      "lokasi": "Cianjur, Jawa Barat",
+      "magnitudo": "6.3–6.5 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VIII",
+      "korban_jiwa": "7",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Cianjur 1879"
+    },
+    {
+      "tanggal": "1875-10-25",
+      "lokasi": "Kuningan, Jawa Barat",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "IX",
+      "korban_jiwa": "7",
+      "korban_luka": "",
+      "keterangan": "Kerusakan luas di Pantura Jawa Barat"
+    },
+    {
+      "tanggal": "1875-03-28",
+      "lokasi": "Daerah Istimewa Yogyakarta",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "80.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Kerusakan berat di Yogyakarta"
+    },
+    {
+      "tanggal": "1874-06-26",
+      "lokasi": "Laut Jawa",
+      "magnitudo": "8.2 Mw",
+      "kedalaman_km": "652.0",
+      "mmi": "V",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Dirasakan luas di Jawa, Sumatra, Kalimantan hingga ke Malaysia."
+    },
+    {
+      "tanggal": "1872-10-10",
+      "lokasi": "Ambarawa, Semarang, Jawa Tengah",
+      "magnitudo": "5.5 Ms",
+      "kedalaman_km": "10.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1867-06-10",
+      "lokasi": "Jawa Tengah, Daerah Istimewa Yogyakarta",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "80.0",
+      "mmi": "IX",
+      "korban_jiwa": "700",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Jawa 1867"
+    },
+    {
+      "tanggal": "1865-07-17",
+      "lokasi": "Ambarawa, Semarang, Jawa Tengah",
+      "magnitudo": "5.4",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1865-05-22",
+      "lokasi": "Teluk Cenderawasih",
+      "magnitudo": "7.8 Mw",
+      "kedalaman_km": "30.0",
+      "mmi": "VII",
+      "korban_jiwa": "250",
+      "korban_luka": "",
+      "keterangan": "Tsunami 3 m (9,8 ft)"
+    },
+    {
+      "tanggal": "1862-05-23",
+      "lokasi": "Karawang, Jawa Barat",
+      "magnitudo": "5.6–5.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1861-02-16",
+      "lokasi": "Sumatra",
+      "magnitudo": "8.5 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "2.000",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1861"
+    },
+    {
+      "tanggal": "1859-07-05",
+      "lokasi": "Jawa Timur",
+      "magnitudo": "5.5",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan hancur."
+    },
+    {
+      "tanggal": "1859-06-28",
+      "lokasi": "Laut Maluku",
+      "magnitudo": "7.5 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami 10 m (33 ft)"
+    },
+    {
+      "tanggal": "1857-05-13",
+      "lokasi": "Bali",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "VIII",
+      "korban_jiwa": "35",
+      "korban_luka": "",
+      "keterangan": "Tsunami 3,4 m (11 ft)"
+    },
+    {
+      "tanggal": "1855-07-14",
+      "lokasi": "Ternate, Tidore",
+      "magnitudo": "6.4 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "IX",
+      "korban_jiwa": "66",
+      "korban_luka": "",
+      "keterangan": "25 bangunan hancur."
+    },
+    {
+      "tanggal": "1855-04-25",
+      "lokasi": "Pulau Halmahera",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan hancur."
+    },
+    {
+      "tanggal": "1852-12-20",
+      "lokasi": "Banten",
+      "magnitudo": "7.1 Mw",
+      "kedalaman_km": "150.0",
+      "mmi": "VI",
+      "korban_jiwa": "0",
+      "korban_luka": "",
+      "keterangan": "Ratusan bangunan rusak."
+    },
+    {
+      "tanggal": "1852-11-26",
+      "lokasi": "Laut Banda",
+      "magnitudo": "8.6 Ms",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII–IX",
+      "korban_jiwa": "60+",
+      "korban_luka": "",
+      "keterangan": "Tsunami 14,5 m (48 ft)."
+    },
+    {
+      "tanggal": "1852-01-09",
+      "lokasi": "Lampung, Selat Sunda",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "100",
+      "mmi": "VII",
+      "korban_jiwa": "2",
+      "korban_luka": "",
+      "keterangan": "Tsunami. Puluhan bangunan rusak."
+    },
+    {
+      "tanggal": "1847-11-16",
+      "lokasi": "Cirebon, Jawa Barat",
+      "magnitudo": "7.4",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII–IX",
+      "korban_jiwa": "7",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1846-01-25",
+      "lokasi": "Laut Maluku",
+      "magnitudo": "7.2 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami."
+    },
+    {
+      "tanggal": "1845-02-08",
+      "lokasi": "Sulawesi Utara",
+      "magnitudo": "7.8",
+      "kedalaman_km": "10.0",
+      "mmi": "XI",
+      "korban_jiwa": "56",
+      "korban_luka": "",
+      "keterangan": "Tsunami, 285 bangunan hancur."
+    },
+    {
+      "tanggal": "1843-01-05",
+      "lokasi": "Sumatra",
+      "magnitudo": "7.3 Ms",
+      "kedalaman_km": "30.0",
+      "mmi": "IX",
+      "korban_jiwa": "Banyak",
+      "korban_luka": "",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1840-02-13",
+      "lokasi": "Ternate",
+      "magnitudo": "6.0 M",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan hancur."
+    },
+    {
+      "tanggal": "1840-01-04",
+      "lokasi": "Daerah Istimewa Yogyakarta",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "50.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami. Ratusan bangunan rusak."
+    },
+    {
+      "tanggal": "1837-09-27",
+      "lokasi": "Yogyakarta",
+      "magnitudo": "6.9 Mw",
+      "kedalaman_km": "55.0",
+      "mmi": "VIII",
+      "korban_jiwa": "1",
+      "korban_luka": "",
+      "keterangan": "2.200 bangunan rusak."
+    },
+    {
+      "tanggal": "1837-01-21",
+      "lokasi": "Pulau Saparua",
+      "magnitudo": "5.5",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan rusak."
+    },
+    {
+      "tanggal": "1836-11-28",
+      "lokasi": "Sumbawa",
+      "magnitudo": "7.5",
+      "kedalaman_km": "15.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami. Beberapa bangunan hancur."
+    },
+    {
+      "tanggal": "1835-10-31",
+      "lokasi": "Pulau Ambon",
+      "magnitudo": "7.0",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "60",
+      "keterangan": "Beberapa bangunan hancur."
+    },
+    {
+      "tanggal": "1834-10-10",
+      "lokasi": "Jawa Barat, Batavia (Jakarta)",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "12.0",
+      "mmi": "IX",
+      "korban_jiwa": "5",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Jawa 1834"
+    },
+    {
+      "tanggal": "1833-11-25",
+      "lokasi": "Sumatra",
+      "magnitudo": "8.8–9.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "700",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1833"
+    },
+    {
+      "tanggal": "1833-01-28",
+      "lokasi": "Jawa Barat, Sukabumi",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "15.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Kemungkinan disebabkan Sesar Citarik."
+    },
+    {
+      "tanggal": "1830-03-28",
+      "lokasi": "Pulau Ambon",
+      "magnitudo": "7.0 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1820-12-29",
+      "lokasi": "Sumbawa",
+      "magnitudo": "7.9 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "VIII",
+      "korban_jiwa": "500",
+      "korban_luka": "",
+      "keterangan": "Tsunami 24 m (79 ft)."
+    },
+    {
+      "tanggal": "1818-11-09",
+      "lokasi": "Nusa Tenggara",
+      "magnitudo": ">8.4 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "VI",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami 3,5 m (11 ft)"
+    },
+    {
+      "tanggal": "1816-10-11",
+      "lokasi": "Banda Neira",
+      "magnitudo": "8.1 Mw",
+      "kedalaman_km": "80.0",
+      "mmi": "IX",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1815-11-22",
+      "lokasi": "Bali",
+      "magnitudo": "7.0 Ms",
+      "kedalaman_km": "27.0",
+      "mmi": "X",
+      "korban_jiwa": "11.453",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Bali 1815"
+    },
+    {
+      "tanggal": "1797-02-10",
+      "lokasi": "Sumatra",
+      "magnitudo": "8.6–8.8 Mw",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "Banyak",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Sumatra 1797"
+    },
+    {
+      "tanggal": "1780-01-22",
+      "lokasi": "Jawa",
+      "magnitudo": "7.0–8.5 Mw",
+      "kedalaman_km": "20.0",
+      "mmi": "IX",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Jawa 1780."
+    },
+    {
+      "tanggal": "1763-09-10",
+      "lokasi": "Banda Neira",
+      "magnitudo": "6.5",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Banyak bangunan hancur."
+    },
+    {
+      "tanggal": "1754-08-18",
+      "lokasi": "Pulau Ambon",
+      "magnitudo": "7.0",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Tsunami"
+    },
+    {
+      "tanggal": "1705-10-21",
+      "lokasi": "Pulau Ambon",
+      "magnitudo": "7.0",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan rusak."
+    },
+    {
+      "tanggal": "1703",
+      "lokasi": "Sumatra",
+      "magnitudo": "8.5 Mw",
+      "kedalaman_km": "35.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1699-01-05",
+      "lokasi": "Batavia (Jakarta)",
+      "magnitudo": "7.4–8.2 Mw",
+      "kedalaman_km": "120.0",
+      "mmi": "IX",
+      "korban_jiwa": "128",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Batavia 1699"
+    },
+    {
+      "tanggal": "1683-10-16",
+      "lokasi": "Banda Neira",
+      "magnitudo": "7.0",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1674-02-17",
+      "lokasi": "Ambon–Pulau Seram",
+      "magnitudo": "6.8 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "IX",
+      "korban_jiwa": "2.347",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi dan megatsunami Ambon 1674"
+    },
+    {
+      "tanggal": "1673-08-12",
+      "lokasi": "Ternate",
+      "magnitudo": "5.8",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan hancur."
+    },
+    {
+      "tanggal": "1671-10-17",
+      "lokasi": "Pulau Saparua",
+      "magnitudo": "7.5",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Beberapa bangunan rusak."
+    },
+    {
+      "tanggal": "1659-12",
+      "lokasi": "Pulau Buru",
+      "magnitudo": "7.5",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1658",
+      "lokasi": "Kepulauan Mentawai",
+      "magnitudo": "8.3",
+      "kedalaman_km": "10.0",
+      "mmi": "VIII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1644-05-17",
+      "lokasi": "Maluku",
+      "magnitudo": "6.8",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi doublet. Beberapa bangunan rusak."
+    },
+    {
+      "tanggal": "1644-05-12",
+      "lokasi": "Maluku",
+      "magnitudo": "7.0",
+      "kedalaman_km": "10.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi doublet. Beberapa bangunan rusak."
+    },
+    {
+      "tanggal": "1631",
+      "lokasi": "Kepulauan Mentawai",
+      "magnitudo": "8.2",
+      "kedalaman_km": "20.0",
+      "mmi": "VII",
+      "korban_jiwa": "",
+      "korban_luka": "",
+      "keterangan": ""
+    },
+    {
+      "tanggal": "1629-08-01",
+      "lokasi": "Laut Banda",
+      "magnitudo": "8.2–8.8 Mw",
+      "kedalaman_km": "25.0",
+      "mmi": "IX",
+      "korban_jiwa": "5",
+      "korban_luka": "",
+      "keterangan": "Gempa bumi Laut Banda 1629"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Gempa Bumi di Indonesia (1600–Sekarang) - Free Download",
+    "description": "Daftar gempa bumi signifikan yang pernah terjadi di Indonesia sejak tahun 1600, lengkap dengan lokasi, magnitudo, kedalaman, skala MMI, dan jumlah korban. Contains 241 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Gempa Bumi di Indonesia (1600–Sekarang) | ListBase",
+    "seo_description": "Download Daftar Gempa Bumi di Indonesia (1600–Sekarang) — 241 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 241 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_gempa_bumi_di_Indonesia"
+    ]
+  }
+}
