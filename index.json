@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:28.051Z",
-  "total_datasets": 557,
-  "total_records": 645496,
+  "generated": "2026-10-26T02:12:30.501Z",
+  "total_datasets": 558,
+  "total_records": 645577,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -1226,6 +1226,29 @@
         "xlsx": {
           "name": "id-penyelenggara-kupva_ID.xlsx",
           "size": 320653
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-bali",
+      "name": "Daftar Hidangan Khas Bali",
+      "category": "food",
+      "record_count": 81,
+      "columns": [
+        "nama",
+        "jenis"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_hidangan_Bali",
+      "updated": "2026-10",
+      "size": 6813,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-bali_ID.csv",
+          "size": 2161
+        },
+        "xlsx": {
+          "name": "id-hidangan-bali_ID.xlsx",
+          "size": 8166
         }
       }
     },

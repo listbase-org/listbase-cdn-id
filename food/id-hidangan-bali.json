@@ -1,0 +1,360 @@
+{
+  "id": "id-hidangan-bali",
+  "name": "Daftar Hidangan Khas Bali",
+  "title": "Daftar Hidangan Khas Bali",
+  "description": "Daftar masakan, penganan/kudapan, dan minuman khas Bali.",
+  "category": "food",
+  "source": "https://id.wikipedia.org/wiki/Daftar_hidangan_Bali",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_hidangan_Bali",
+  "updated": "2026-10",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Ayam Betutu",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Babi Genyol",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Babi Guling",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Be Kokak Mekuah",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Be Pasih Mesambel Matah",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Bebek Betutu",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Berengkes",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Blayag",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Bulung",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Entil",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Gerang Sambel Bawang",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Garangasem",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Jejeruk",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Jukut Ares",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Jukut Srombotan",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Jukut Urab",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Komoh",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Lawar",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Nasi Bubuh",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Nasi Jenggo",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Nasi Sela",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Nasi Tepeng",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Nasi Yasa",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Penyon",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Pesan Clengis",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Pesan Polo",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sambel Bongkot",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sambel Matah",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Santok Pencok",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate asem",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Be Pasih",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Kakul",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Kablet",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Lilit",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Pelecing",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Pentul",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Penyu",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Sere Lemo",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sate Tusuk",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Slogor",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Sudang Sudaji",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Siobak Singaraja",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Taluh Mabejek",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Telur Bumbu Bali",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Timbungan",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Tum",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Urutan Bali",
+      "jenis": "Masakan"
+    },
+    {
+      "nama": "Arak Bali",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Brem",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Daluman",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Kopi Bali",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Loloh",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Tambring",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Tuak Bali",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Tuak Manis",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Bir Singaraja",
+      "jenis": "Minuman"
+    },
+    {
+      "nama": "Bubuh Sagu",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Bubuh Sumsum",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Bubuh Tuak",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Batun Duren",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Begina",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Bendu",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Bikang",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Engol",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Godoh",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Jongkok",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Ketimus",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Klepon",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Laklak",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Serat",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Sumping",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Tain Buati",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Uli",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Jaja Wajik",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Bancih",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Bulung",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Cuka",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Kuah Pindang",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Manis",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Sera",
+      "jenis": "Penganan/Kudapan"
+    },
+    {
+      "nama": "Rujak Tibah",
+      "jenis": "Penganan/Kudapan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Hidangan Khas Bali - Free Download",
+    "description": "Daftar masakan, penganan/kudapan, dan minuman khas Bali. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Hidangan Khas Bali | ListBase",
+    "seo_description": "Download Daftar Hidangan Khas Bali — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_hidangan_Bali"
+    ]
+  }
+}
