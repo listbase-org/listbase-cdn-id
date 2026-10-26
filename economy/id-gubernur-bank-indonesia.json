@@ -1,0 +1,212 @@
+{
+  "id": "id-gubernur-bank-indonesia",
+  "name": "Daftar Gubernur Bank Indonesia",
+  "title": "Daftar Gubernur Bank Indonesia",
+  "description": "Daftar Gubernur Bank Indonesia sejak tahun 1953 hingga sekarang beserta masa jabatannya.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Gubernur_Bank_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Gubernur_Bank_Indonesia",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "string"
+    },
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "nama": "Sjafruddin Prawiranegara",
+      "mulai_menjabat": "1 Juli 1953",
+      "akhir_menjabat": "20 Januari 1958",
+      "periode": "1"
+    },
+    {
+      "no": "2",
+      "nama": "Lukman Hakim",
+      "mulai_menjabat": "9 April 1958",
+      "akhir_menjabat": "31 Agustus 1959",
+      "periode": "2"
+    },
+    {
+      "no": "3",
+      "nama": "Soetikno Slamet",
+      "mulai_menjabat": "1 September 1959",
+      "akhir_menjabat": "31 Oktober 1960",
+      "periode": "2"
+    },
+    {
+      "no": "4",
+      "nama": "Soemarno",
+      "mulai_menjabat": "1 November 1960",
+      "akhir_menjabat": "1 November 1963",
+      "periode": "2"
+    },
+    {
+      "no": "5",
+      "nama": "Teuku Jusuf Muda Dalam",
+      "mulai_menjabat": "10 Desember 1963",
+      "akhir_menjabat": "27 Maret 1966",
+      "periode": "3"
+    },
+    {
+      "no": "6",
+      "nama": "Radius Prawiro",
+      "mulai_menjabat": "27 Maret 1966",
+      "akhir_menjabat": "27 Maret 1971",
+      "periode": "3"
+    },
+    {
+      "no": "6",
+      "nama": "Radius Prawiro",
+      "mulai_menjabat": "27 Maret 1971",
+      "akhir_menjabat": "5 April 1973",
+      "periode": ""
+    },
+    {
+      "no": "7",
+      "nama": "Rachmat Saleh",
+      "mulai_menjabat": "5 April 1973",
+      "akhir_menjabat": "16 Maret 1978",
+      "periode": "5"
+    },
+    {
+      "no": "7",
+      "nama": "Rachmat Saleh",
+      "mulai_menjabat": "16 Maret 1978",
+      "akhir_menjabat": "16 Maret 1983",
+      "periode": "6"
+    },
+    {
+      "no": "8",
+      "nama": "Arifin Siregar",
+      "mulai_menjabat": "16 Maret 1983",
+      "akhir_menjabat": "27 Maret 1988",
+      "periode": "7"
+    },
+    {
+      "no": "9",
+      "nama": "Adrianus Mooy",
+      "mulai_menjabat": "1988",
+      "akhir_menjabat": "1993",
+      "periode": "8"
+    },
+    {
+      "no": "10",
+      "nama": "Sudrajad Djiwandono",
+      "mulai_menjabat": "Maret 1993",
+      "akhir_menjabat": "Februari 1998",
+      "periode": "9"
+    },
+    {
+      "no": "11",
+      "nama": "Syahril Sabirin",
+      "mulai_menjabat": "Februari 1998",
+      "akhir_menjabat": "Mei 2003",
+      "periode": "10"
+    },
+    {
+      "no": "12",
+      "nama": "Burhanuddin Abdullah",
+      "mulai_menjabat": "17 Mei 2003",
+      "akhir_menjabat": "17 Mei 2008",
+      "periode": "11"
+    },
+    {
+      "no": "13",
+      "nama": "Boediono",
+      "mulai_menjabat": "22 Mei 2008",
+      "akhir_menjabat": "16 Mei 2009",
+      "periode": "12"
+    },
+    {
+      "no": "—",
+      "nama": "Miranda Goeltom (pelaksana tugas)",
+      "mulai_menjabat": "17 Mei 2009",
+      "akhir_menjabat": "26 Juli 2009",
+      "periode": "12"
+    },
+    {
+      "no": "—",
+      "nama": "Darmin Nasution",
+      "mulai_menjabat": "27 Juli 2009",
+      "akhir_menjabat": "1 September 2010",
+      "periode": "12"
+    },
+    {
+      "no": "14",
+      "nama": "Darmin Nasution",
+      "mulai_menjabat": "1 September 2010",
+      "akhir_menjabat": "23 Mei 2013",
+      "periode": "12"
+    },
+    {
+      "no": "15",
+      "nama": "Agus Martowardojo",
+      "mulai_menjabat": "23 Mei 2013",
+      "akhir_menjabat": "23 Mei 2018",
+      "periode": "13"
+    },
+    {
+      "no": "16",
+      "nama": "Perry Warjiyo",
+      "mulai_menjabat": "23 Mei 2018",
+      "akhir_menjabat": "25 Mei 2023",
+      "periode": "14"
+    },
+    {
+      "no": "16",
+      "nama": "Perry Warjiyo",
+      "mulai_menjabat": "25 Mei 2023",
+      "akhir_menjabat": "27 Juli 2026",
+      "periode": "15"
+    },
+    {
+      "no": "—",
+      "nama": "Destry Damayanti",
+      "mulai_menjabat": "27 Juli 2026",
+      "akhir_menjabat": "2 September 2026",
+      "periode": "15"
+    },
+    {
+      "no": "17",
+      "nama": "Destry Damayanti",
+      "mulai_menjabat": "2 September 2026",
+      "akhir_menjabat": "Petahana",
+      "periode": "16"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Gubernur Bank Indonesia - Free Download",
+    "description": "Daftar Gubernur Bank Indonesia sejak tahun 1953 hingga sekarang beserta masa jabatannya. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Gubernur Bank Indonesia | ListBase",
+    "seo_description": "Download Daftar Gubernur Bank Indonesia — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Gubernur_Bank_Indonesia"
+    ]
+  }
+}

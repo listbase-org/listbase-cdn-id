@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:49.492Z",
-  "total_datasets": 566,
-  "total_records": 646405,
+  "generated": "2026-10-26T02:12:52.775Z",
+  "total_datasets": 567,
+  "total_records": 646428,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -429,6 +429,32 @@
         "xlsx": {
           "name": "id-bumn_ID.xlsx",
           "size": 11359
+        }
+      }
+    },
+    {
+      "id": "id-gubernur-bank-indonesia",
+      "name": "Daftar Gubernur Bank Indonesia",
+      "category": "economy",
+      "record_count": 23,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "periode"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Gubernur_Bank_Indonesia",
+      "updated": "2026-10",
+      "size": 5424,
+      "files": {
+        "csv": {
+          "name": "id-gubernur-bank-indonesia_ID.csv",
+          "size": 1400
+        },
+        "xlsx": {
+          "name": "id-gubernur-bank-indonesia_ID.xlsx",
+          "size": 7784
         }
       }
     },
