@@ -1,0 +1,170 @@
+{
+  "id": "id-rektor-ugm",
+  "name": "Daftar Rektor Universitas Gadjah Mada (UGM)",
+  "title": "Daftar Rektor Universitas Gadjah Mada (UGM)",
+  "description": "Daftar Rektor Universitas Gadjah Mada sejak tahun 1949 beserta masa jabatan dan asal fakultas.",
+  "category": "education",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Gadjah_Mada",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Gadjah_Mada",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "mulai_menjabat",
+      "label": "Mulai Menjabat",
+      "type": "number"
+    },
+    {
+      "key": "akhir_menjabat",
+      "label": "Akhir Menjabat",
+      "type": "number"
+    },
+    {
+      "key": "asal_fakultas",
+      "label": "Asal Fakultas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1.",
+      "nama": "Prof. Dr. M. Sardjito",
+      "mulai_menjabat": "1949",
+      "akhir_menjabat": "1961",
+      "asal_fakultas": "Fakultas Kedokteran, Kesehatan Masyarakat, dan Keperawatan"
+    },
+    {
+      "no": "2.",
+      "nama": "Prof. Dr. Ir. Herman Johannes",
+      "mulai_menjabat": "1961",
+      "akhir_menjabat": "1966",
+      "asal_fakultas": "Fakultas Teknik"
+    },
+    {
+      "no": "3.",
+      "nama": "drg. M. Nazir Alwi",
+      "mulai_menjabat": "1966",
+      "akhir_menjabat": "1967",
+      "asal_fakultas": "Fakultas Kedokteran Gigi"
+    },
+    {
+      "no": "4.",
+      "nama": "Drs. Soepojo Padmodipoetro MA",
+      "mulai_menjabat": "1967",
+      "akhir_menjabat": "1968",
+      "asal_fakultas": "Fakultas Ekonomika dan Bisnis"
+    },
+    {
+      "no": "5.",
+      "nama": "Prof. Dr. Soeroso H. Prawirohardjo MA",
+      "mulai_menjabat": "1968",
+      "akhir_menjabat": "1973",
+      "asal_fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik"
+    },
+    {
+      "no": "6.",
+      "nama": "Prof. Dr. Sukadji Ranuwihardjo MA",
+      "mulai_menjabat": "1973",
+      "akhir_menjabat": "1981",
+      "asal_fakultas": "Fakultas Ekonomika dan Bisnis"
+    },
+    {
+      "no": "7.",
+      "nama": "Prof. Dr. Teuku Jacob MS, DS",
+      "mulai_menjabat": "1981",
+      "akhir_menjabat": "1986",
+      "asal_fakultas": "Fakultas Kedokteran, Kesehatan Masyarakat, dan Keperawatan"
+    },
+    {
+      "no": "8.",
+      "nama": "Prof. Dr. Koesnadi Hardjasoemantri S.H, M.L",
+      "mulai_menjabat": "1986",
+      "akhir_menjabat": "1990",
+      "asal_fakultas": "Fakultas Hukum"
+    },
+    {
+      "no": "9.",
+      "nama": "Prof. Dr. Ir. Mohammad Adnan",
+      "mulai_menjabat": "1990",
+      "akhir_menjabat": "1994",
+      "asal_fakultas": "Fakultas Teknologi Pertanian"
+    },
+    {
+      "no": "10.",
+      "nama": "Prof. Dr. Soekanto H. Reksohadiprodjo M.Com",
+      "mulai_menjabat": "1994",
+      "akhir_menjabat": "1998",
+      "asal_fakultas": "Fakultas Ekonomika dan Bisnis"
+    },
+    {
+      "no": "11.",
+      "nama": "Prof. Drs. Ichlasul Amal MA, Ph.D.",
+      "mulai_menjabat": "1998",
+      "akhir_menjabat": "2002",
+      "asal_fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik"
+    },
+    {
+      "no": "12.",
+      "nama": "Prof. Dr. Sofian Effendi MA, MPIA, Ph.D.",
+      "mulai_menjabat": "2002",
+      "akhir_menjabat": "2007",
+      "asal_fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik"
+    },
+    {
+      "no": "13.",
+      "nama": "Prof. Ir. Soedjarwadi M.Eng, Ph.D",
+      "mulai_menjabat": "2007",
+      "akhir_menjabat": "2012",
+      "asal_fakultas": "Fakultas Teknik"
+    },
+    {
+      "no": "14.",
+      "nama": "Prof. Dr. Pratikno M.Soc.Sc.",
+      "mulai_menjabat": "2012",
+      "akhir_menjabat": "2014",
+      "asal_fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik"
+    },
+    {
+      "no": "15.",
+      "nama": "Prof. Ir. Dwikorita Karnawati M.Sc., Ph.D",
+      "mulai_menjabat": "2014",
+      "akhir_menjabat": "2017",
+      "asal_fakultas": "Fakultas Teknik"
+    },
+    {
+      "no": "16",
+      "nama": "Prof. Ir. Panut Mulyono M.Eng., D.Eng., IPU.ASEAN.Eng.",
+      "mulai_menjabat": "2017",
+      "akhir_menjabat": "2022",
+      "asal_fakultas": "Fakultas Teknik"
+    },
+    {
+      "no": "17",
+      "nama": "Prof. dr. Ova Emilia M.Med.Ed., Sp.OG(K)., Ph.D.",
+      "mulai_menjabat": "2022",
+      "akhir_menjabat": "petahana",
+      "asal_fakultas": "Fakultas Kedokteran, Kesehatan Masyarakat, dan Keperawatan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Rektor Universitas Gadjah Mada (UGM) - Free Download",
+    "description": "Daftar Rektor Universitas Gadjah Mada sejak tahun 1949 beserta masa jabatan dan asal fakultas. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Rektor Universitas Gadjah Mada (UGM) | ListBase",
+    "seo_description": "Download Daftar Rektor Universitas Gadjah Mada (UGM) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Gadjah_Mada"
+    ]
+  }
+}
