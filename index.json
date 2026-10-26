@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:30.501Z",
-  "total_datasets": 558,
-  "total_records": 645577,
+  "generated": "2026-10-26T02:12:32.976Z",
+  "total_datasets": 559,
+  "total_records": 645782,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1249,6 +1249,29 @@
         "xlsx": {
           "name": "id-hidangan-bali_ID.xlsx",
           "size": 8166
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-kepulauan-riau",
+      "name": "Daftar Hidangan Khas Kepulauan Riau",
+      "category": "food",
+      "record_count": 205,
+      "columns": [
+        "nama",
+        "jenis"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_hidangan_Kepulauan_Riau",
+      "updated": "2026-10",
+      "size": 16593,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-kepulauan-riau_ID.csv",
+          "size": 6435
+        },
+        "xlsx": {
+          "name": "id-hidangan-kepulauan-riau_ID.xlsx",
+          "size": 10664
         }
       }
     },
