@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:12:47.101Z",
-  "total_datasets": 565,
-  "total_records": 646289,
+  "generated": "2026-10-26T02:12:49.492Z",
+  "total_datasets": 566,
+  "total_records": 646405,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -14700,6 +14700,29 @@
         "xlsx": {
           "name": "id-desa-wisata_ID.xlsx",
           "size": 9464
+        }
+      }
+    },
+    {
+      "id": "id-festival-daerah",
+      "name": "Daftar Festival di Indonesia per Provinsi",
+      "category": "tourism",
+      "record_count": 116,
+      "columns": [
+        "nama",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_festival_di_Indonesia",
+      "updated": "2026-10",
+      "size": 11798,
+      "files": {
+        "csv": {
+          "name": "id-festival-daerah_ID.csv",
+          "size": 5075
+        },
+        "xlsx": {
+          "name": "id-festival-daerah_ID.xlsx",
+          "size": 9346
         }
       }
     },
