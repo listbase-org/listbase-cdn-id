@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:18.074Z",
-  "total_datasets": 578,
-  "total_records": 647177,
+  "generated": "2026-10-26T02:13:20.419Z",
+  "total_datasets": 579,
+  "total_records": 647205,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -6654,6 +6654,33 @@
         "xlsx": {
           "name": "id-kabinet-indonesia_ID.xlsx",
           "size": 9385
+        }
+      }
+    },
+    {
+      "id": "id-ketua-dpr",
+      "name": "Daftar Ketua Dewan Perwakilan Rakyat (DPR) Republik Indonesia",
+      "category": "politics",
+      "record_count": 28,
+      "columns": [
+        "no",
+        "nama",
+        "mulai_menjabat",
+        "akhir_menjabat",
+        "periode",
+        "partai"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Dewan_Perwakilan_Rakyat_Republik_Indonesia",
+      "updated": "2026-10",
+      "size": 7808,
+      "files": {
+        "csv": {
+          "name": "id-ketua-dpr_ID.csv",
+          "size": 2428
+        },
+        "xlsx": {
+          "name": "id-ketua-dpr_ID.xlsx",
+          "size": 8224
         }
       }
     },
