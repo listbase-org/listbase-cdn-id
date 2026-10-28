@@ -1,0 +1,401 @@
+{
+  "id": "id-peraih-medali-olimpiade",
+  "name": "Daftar Peraih Medali Olimpiade dari Indonesia",
+  "title": "Daftar Peraih Medali Olimpiade dari Indonesia",
+  "description": "Daftar atlet Indonesia peraih medali emas, perak, dan perunggu di Olimpiade beserta cabang olahraga dan nomornya.",
+  "category": "sports",
+  "source": "https://id.wikipedia.org/wiki/Indonesia_pada_Olimpiade",
+  "source_url": "https://id.wikipedia.org/wiki/Indonesia_pada_Olimpiade",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "medal",
+      "label": "Medal",
+      "type": "string"
+    },
+    {
+      "key": "athlete",
+      "label": "Athlete",
+      "type": "string"
+    },
+    {
+      "key": "games",
+      "label": "Games",
+      "type": "string"
+    },
+    {
+      "key": "sport",
+      "label": "Sport",
+      "type": "string"
+    },
+    {
+      "key": "event",
+      "label": "Event",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "medal": "Perak",
+      "athlete": "Lilies Handayani Nurfitriyana Saiman Kusuma Wardhani",
+      "games": "Seoul 1988",
+      "sport": "Panahan",
+      "event": "Beregu putri"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Susi Susanti",
+      "games": "Barcelona 1992",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putri"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Alan Budikusuma",
+      "games": "Barcelona 1992",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Ardy Wiranata",
+      "games": "Barcelona 1992",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Eddy Hartono Rudy Gunawan",
+      "games": "Barcelona 1992",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Hermawan Susanto",
+      "games": "Barcelona 1992",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Rexy Mainaky Ricky Subagja",
+      "games": "Atlanta 1996",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Mia Audina",
+      "games": "Atlanta 1996",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Susi Susanti",
+      "games": "Atlanta 1996",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Antonius Ariantho Denny Kantono",
+      "games": "Atlanta 1996",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Tony Gunawan Candra Wijaya",
+      "games": "Sydney 2000",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Tri Kusharjanto Minarti Timur",
+      "games": "Sydney 2000",
+      "sport": "Bulu tangkis",
+      "event": "Ganda campuran"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Hendrawan",
+      "games": "Sydney 2000",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Raema Lisa Rumbewas",
+      "games": "Sydney 2000",
+      "sport": "Angkat besi",
+      "event": "48 kg putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Sri Indriyani",
+      "games": "Sydney 2000",
+      "sport": "Angkat besi",
+      "event": "48 kg putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Winarni Binti Slamet",
+      "games": "Sydney 2000",
+      "sport": "Angkat besi",
+      "event": "53 kg putri"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Taufik Hidayat",
+      "games": "Athena 2004",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Raema Lisa Rumbewas",
+      "games": "Athena 2004",
+      "sport": "Angkat besi",
+      "event": "53 kg putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Sony Dwi Kuncoro",
+      "games": "Athena 2004",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Eng Hian Flandy Limpele",
+      "games": "Athena 2004",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Hendra Setiawan Markis Kido",
+      "games": "Beijing 2008",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Nova Widianto Liliyana Natsir",
+      "games": "Beijing 2008",
+      "sport": "Bulu tangkis",
+      "event": "Ganda campuran"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Maria Kristin Yulianti",
+      "games": "Beijing 2008",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Eko Yuli Irawan",
+      "games": "Beijing 2008",
+      "sport": "Angkat besi",
+      "event": "56 kg putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Triyatno",
+      "games": "Beijing 2008",
+      "sport": "Angkat besi",
+      "event": "62 kg putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Raema Lisa Rumbewas",
+      "games": "Beijing 2008",
+      "sport": "Angkat besi",
+      "event": "53 kg putri"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Triyatno",
+      "games": "London 2012",
+      "sport": "Angkat besi",
+      "event": "69 kg putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Citra Febrianti",
+      "games": "London 2012",
+      "sport": "Angkat besi",
+      "event": "53 kg putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Eko Yuli Irawan",
+      "games": "London 2012",
+      "sport": "Angkat besi",
+      "event": "62 kg putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Tontowi Ahmad Liliyana Natsir",
+      "games": "Rio de Janeiro 2016",
+      "sport": "Bulu tangkis",
+      "event": "Ganda campuran"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Sri Wahyuni Agustiani",
+      "games": "Rio de Janeiro 2016",
+      "sport": "Angkat besi",
+      "event": "48 kg putri"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Eko Yuli Irawan",
+      "games": "Rio de Janeiro 2016",
+      "sport": "Angkat besi",
+      "event": "62 kg putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Greysia Polii Apriyani Rahayu",
+      "games": "Tokyo 2020",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putri"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Eko Yuli Irawan",
+      "games": "Tokyo 2020",
+      "sport": "Angkat besi",
+      "event": "61 kg putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Windy Cantika Aisah",
+      "games": "Tokyo 2020",
+      "sport": "Angkat besi",
+      "event": "49 kg putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Rahmat Erwin Abdullah",
+      "games": "Tokyo 2020",
+      "sport": "Angkat besi",
+      "event": "73 kg putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Anthony Sinisuka Ginting",
+      "games": "Tokyo 2020",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Veddriq Leonardo",
+      "games": "Paris 2024",
+      "sport": "Panjat tebing",
+      "event": "Kecepatan putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Rizki Juniansyah",
+      "games": "Paris 2024",
+      "sport": "Angkat besi",
+      "event": "73 kg putra"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Gregoria Mariska Tunjung",
+      "games": "Paris 2024",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putri"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Rudy Hartono",
+      "games": "München 1972",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Emas",
+      "athlete": "Ade Chandra Christian Hadinata",
+      "games": "München 1972",
+      "sport": "Bulu tangkis",
+      "event": "Ganda putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Utami Dewi",
+      "games": "München 1972",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putri"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Christian Hadinata Utami Dewi",
+      "games": "München 1972",
+      "sport": "Bulu tangkis",
+      "event": "Ganda campuran"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Icuk Sugiarto",
+      "games": "Seoul 1988",
+      "sport": "Bulu tangkis",
+      "event": "Tunggal putra"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Dirc Richard Talumewo",
+      "games": "Barcelona 1992",
+      "sport": "Taekwondo",
+      "event": "Putra (50–54 kg)"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Rahmi Kurnia",
+      "games": "Barcelona 1992",
+      "sport": "Taekwondo",
+      "event": "Putri (–43 kg)"
+    },
+    {
+      "medal": "Perak",
+      "athlete": "Susilawati",
+      "games": "Barcelona 1992",
+      "sport": "Taekwondo",
+      "event": "Putri (55–60 kg)"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Yefi Triaji",
+      "games": "Barcelona 1992",
+      "sport": "Taekwondo",
+      "event": "Putra (–50 kg)"
+    },
+    {
+      "medal": "Perunggu",
+      "athlete": "Susyana Tjhan",
+      "games": "Beijing 2008",
+      "sport": "Wushu",
+      "event": "Changquan putri"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Peraih Medali Olimpiade dari Indonesia - Free Download",
+    "description": "Daftar atlet Indonesia peraih medali emas, perak, dan perunggu di Olimpiade beserta cabang olahraga dan nomornya. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Peraih Medali Olimpiade dari Indonesia | ListBase",
+    "seo_description": "Download Daftar Peraih Medali Olimpiade dari Indonesia — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Indonesia_pada_Olimpiade"
+    ]
+  }
+}

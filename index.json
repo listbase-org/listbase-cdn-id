@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-28T02:17:46.337Z",
-  "total_datasets": 585,
-  "total_records": 647569,
+  "generated": "2026-10-28T02:17:48.786Z",
+  "total_datasets": 586,
+  "total_records": 647619,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -14270,6 +14270,32 @@
         "xlsx": {
           "name": "id-menteri-pemuda-olahraga_ID.xlsx",
           "size": 8474
+        }
+      }
+    },
+    {
+      "id": "id-peraih-medali-olimpiade",
+      "name": "Daftar Peraih Medali Olimpiade dari Indonesia",
+      "category": "sports",
+      "record_count": 50,
+      "columns": [
+        "medal",
+        "athlete",
+        "games",
+        "sport",
+        "event"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Indonesia_pada_Olimpiade",
+      "updated": "2026-10",
+      "size": 10165,
+      "files": {
+        "csv": {
+          "name": "id-peraih-medali-olimpiade_ID.csv",
+          "size": 3833
+        },
+        "xlsx": {
+          "name": "id-peraih-medali-olimpiade_ID.xlsx",
+          "size": 8636
         }
       }
     },
