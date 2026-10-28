@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-28T02:17:51.117Z",
-  "total_datasets": 587,
-  "total_records": 647720,
+  "generated": "2026-10-28T02:17:53.510Z",
+  "total_datasets": 588,
+  "total_records": 647935,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -6063,6 +6063,30 @@
         "xlsx": {
           "name": "id-perdana-menteri_ID.xlsx",
           "size": 7652
+        }
+      }
+    },
+    {
+      "id": "id-prasasti-nusantara",
+      "name": "Daftar Prasasti di Nusantara",
+      "category": "history",
+      "record_count": 215,
+      "columns": [
+        "name",
+        "details",
+        "language"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_prasasti_di_Nusantara",
+      "updated": "2026-10",
+      "size": 33953,
+      "files": {
+        "csv": {
+          "name": "id-prasasti-nusantara_ID.csv",
+          "size": 18784
+        },
+        "xlsx": {
+          "name": "id-prasasti-nusantara_ID.xlsx",
+          "size": 15012
         }
       }
     },
