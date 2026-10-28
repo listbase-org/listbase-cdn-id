@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-26T02:13:33.276Z",
-  "total_datasets": 584,
-  "total_records": 647324,
+  "generated": "2026-10-28T02:17:46.337Z",
+  "total_datasets": 585,
+  "total_records": 647569,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -5899,6 +5899,31 @@
         "xlsx": {
           "name": "id-upt-kesehatan-lanjutan-kemenkes_ID.xlsx",
           "size": 8370
+        }
+      }
+    },
+    {
+      "id": "id-candi-dan-situs-purbakala",
+      "name": "Daftar Candi di Indonesia",
+      "category": "history",
+      "record_count": 245,
+      "columns": [
+        "name",
+        "location",
+        "province",
+        "regency"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_candi_di_Indonesia",
+      "updated": "2026-10",
+      "size": 43136,
+      "files": {
+        "csv": {
+          "name": "id-candi-dan-situs-purbakala_ID.csv",
+          "size": 21354
+        },
+        "xlsx": {
+          "name": "id-candi-dan-situs-purbakala_ID.xlsx",
+          "size": 16226
         }
       }
     },

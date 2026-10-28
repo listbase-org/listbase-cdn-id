@@ -1,0 +1,1516 @@
+{
+  "id": "id-candi-dan-situs-purbakala",
+  "name": "Daftar Candi di Indonesia",
+  "title": "Daftar Candi di Indonesia",
+  "description": "Daftar candi dan situs purbakala di Indonesia menurut provinsi dan kabupaten/kota beserta lokasinya.",
+  "category": "history",
+  "source": "https://id.wikipedia.org/wiki/Daftar_candi_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_candi_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 245,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "regency",
+      "label": "Regency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kompleks Candi Bahal atau Biaro Bahal",
+      "location": "Desa Bahal, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Candi Bara",
+      "location": "Desa Bara, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Candi Pulo",
+      "location": "Desa Bahal Kecamatan Portibi",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Candi Sitopayan",
+      "location": "Kampong Sitopayan, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Biaro Tanjung Bangun",
+      "location": "Desa Bangun Purba, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Candi Aek Haruaya",
+      "location": "Kampung Haruaya, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Situs Mangaledang",
+      "location": "Dusun Tor Na Tambang, Desa Mangaledang Godang, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Situs Naga Saribu",
+      "location": "Desa Bangun Purba, Kecamatan Padang Bolak",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas Utara"
+    },
+    {
+      "name": "Caṇḍi Simangambat",
+      "location": "Desa Simangambat, Kecamatan Siabu",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Mandailing Natal"
+    },
+    {
+      "name": "Candi Sipamutung",
+      "location": "Desa Siparau, Kecamatan Barumun Tengah",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas"
+    },
+    {
+      "name": "Situs Aek Tunjang",
+      "location": "Desa Aek Tunjang, Kecamatan Barumun Tengah",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas"
+    },
+    {
+      "name": "Kompleks Candi Tandihat",
+      "location": "Desa Tandihat, Kecamatan Barumun Tengah",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas"
+    },
+    {
+      "name": "Situs Aek Linta",
+      "location": "Desa Padang Galugur Jae, Kecamatan Barumun Tengah",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas"
+    },
+    {
+      "name": "Candi Sangkilon",
+      "location": "Desa Sangkilon, Kecamatan Barumun",
+      "province": "Sumatera Utara",
+      "regency": "Kabupaten Padang Lawas"
+    },
+    {
+      "name": "Kompleks Candi Padang Roco",
+      "location": "Jorong Sungai Lansek, Kenagarian Siguntur",
+      "province": "Sumatera Barat",
+      "regency": "Kabupaten Dharmasraya"
+    },
+    {
+      "name": "Candi Pulau Sawah",
+      "location": "Jorong Sungai Lansek, Kenagarian Siguntur",
+      "province": "Sumatera Barat",
+      "regency": "Kabupaten Dharmasraya"
+    },
+    {
+      "name": "Candi Bukik Awang Maombiak",
+      "location": "Kenagarian Siguntur",
+      "province": "Sumatera Barat",
+      "regency": "Kabupaten Dharmasraya"
+    },
+    {
+      "name": "Candi Tanjungmedan",
+      "location": "Dusun Tanjungmedan, Kecamatan Panti, Kabupaten Pasaman,",
+      "province": "Sumatera Barat",
+      "regency": "Kabupaten Pasaman"
+    },
+    {
+      "name": "Candi Koto Rao",
+      "location": "Kecamatan Rao, Kabupaten Pasaman",
+      "province": "Sumatera Barat",
+      "regency": "Kabupaten Pasaman"
+    },
+    {
+      "name": "Kompleks Candi Muaro Jambi",
+      "location": "Desa Muarajambi, Kecamatan Maro Sebo",
+      "province": "Jambi",
+      "regency": "Kabupaten Muaro Jambi"
+    },
+    {
+      "name": "Kompleks Candi Situs Orang Kayu Hitam",
+      "location": "Kelurahan Simpang, Kecamatan Berbak",
+      "province": "Jambi",
+      "regency": "Kabupaten Tanjung Jabung Timur"
+    },
+    {
+      "name": "Candi Muara Takus di Kecamatan XII Koto Rao",
+      "location": "Kabupaten Kampar",
+      "province": "Riau",
+      "regency": ""
+    },
+    {
+      "name": "Candi Muara Guru di desa Muara Guru",
+      "location": "Kecamatan XIII Koto Kampar, Kabupaten Kampar",
+      "province": "Riau",
+      "regency": ""
+    },
+    {
+      "name": "Candi Angsoka",
+      "location": "Kelurahan 20 Ilir, Kecamatan Ilir Timur I",
+      "province": "Sumatera Selatan",
+      "regency": "Kota Palembang"
+    },
+    {
+      "name": "Candi Lesung Batu",
+      "location": "Lesungbatu, Rawas Ulu",
+      "province": "Sumatera Selatan",
+      "regency": "Kabupaten Musi Rawas"
+    },
+    {
+      "name": "Kompleks Candi Bumi Ayu",
+      "location": "Desa Bumi Ayu, Kecamatan Tanah Abang",
+      "province": "Sumatera Selatan",
+      "regency": "Kabupaten Muara Enim"
+    },
+    {
+      "name": "Situs Rimba Candi atau Gapura Sriwijaya",
+      "location": "Dusun Rimba Candi, Kecamatan Dempo Tengah",
+      "province": "Sumatera Selatan",
+      "regency": "Kota Pagar Alam"
+    },
+    {
+      "name": "Candi Jepara atau Batu Kebayan (batu pengantin)",
+      "location": "tepi Danau Ranau, Kecamatan Banding Agung",
+      "province": "Sumatera Selatan",
+      "regency": "Kabupaten Ogan Komering Ulu Selatan"
+    },
+    {
+      "name": "Candi Kota Kapur Desa Kota Kapur",
+      "location": "Kecamatan Mendo, Kabupaten Bangka",
+      "province": "Bangka Belitung",
+      "regency": ""
+    },
+    {
+      "name": "Situs Gunung Pulosari",
+      "location": "Desa Cipanas",
+      "province": "Banten",
+      "regency": "Kabupaten Pandeglang"
+    },
+    {
+      "name": "Situs Banten Girang",
+      "location": "Desa Sempu",
+      "province": "Banten",
+      "regency": "Kota Serang"
+    },
+    {
+      "name": "Candi Cangkuang (Kampung Pulo",
+      "location": "Desa Cangkuang, Kecamatan Leles)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Garut"
+    },
+    {
+      "name": "Kompleks Situs Batujaya (Desa Telagajaya",
+      "location": "Kecamatan Pakisjaya)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Karawang"
+    },
+    {
+      "name": "Kompleks Situs Cibuaya (Desa Cibuaya",
+      "location": "Kecamatan Cibuaya)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Karawang"
+    },
+    {
+      "name": "Situs Lingga Yoni (Blok Wangkelang Kampung Sindanglengo",
+      "location": "Sukamaju Kidul, Kecamatan Indihiang)",
+      "province": "Jawa Barat",
+      "regency": "Kota Tasikmalaya"
+    },
+    {
+      "name": "Candi Bojongmenje (Kampung Bojongmenje RT. 03 RW. 02",
+      "location": "Desa Cangkuang, Kecamatan Rancaekek)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Bandung"
+    },
+    {
+      "name": "Candi Bojongemas (Desa Bojongemas",
+      "location": "Kecamatan Solokanjeruk)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Bandung"
+    },
+    {
+      "name": "Situs Batu Kalde atau Candi Pananjung (Cagar Alam Pananjung",
+      "location": "Desa Pangandaran, Kecamatan Panandaran)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Ciamis"
+    },
+    {
+      "name": "Situs Karangkamulyan (Desa Karangkamulyan",
+      "location": "Kecamatan Cijeungjing)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Ciamis"
+    },
+    {
+      "name": "Situs Mangunjaya (Dusun Pasirlaya",
+      "location": "Desa Mangunjaya, Kecamatan Mangunjaya)",
+      "province": "Jawa Barat",
+      "regency": "Kabupaten Ciamis"
+    },
+    {
+      "name": "Situs Rajegwesi (Desa Mulyasari",
+      "location": "Kec. Pataruman)",
+      "province": "Jawa Barat",
+      "regency": "Kota Banjar"
+    },
+    {
+      "name": "Candi Borobudur",
+      "location": "Desa Borobudur, Kecamatan Borobudur",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Mendut",
+      "location": "Desa Mendut, Kecamatan Mungkid",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Pawon",
+      "location": "Desa Borobudur, Kecamatan Borobudur",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Ngawen",
+      "location": "Desa Ngawen, Kecamatan Muntilan",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Asu (Sengi)",
+      "location": "Dusun Candi Pos, Desa Sengi, Kecamatan Dukun",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Lumbung (Sengi)",
+      "location": "Dusun Tlatar, Desa Krogowanan, Kecamatan Sawangan",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Pendem",
+      "location": "Dusun Candi Pos, Desa Sengi, Kecamatan Dukun",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Canggal atau Candi Gunung Wukir",
+      "location": "Dusun Canggal, Desa Kadiluwih, Kecamatan Salam",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Selogriyo",
+      "location": "Dusun Campurrejo, Desa Kembangkuning, Kecamatan Windusari",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Losari",
+      "location": "Dusun Losari, Desa Salam, Kecamatan Salam",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Gunungsari",
+      "location": "Dusun Gunungsari, Desa Gulon, Kecamatan Salam",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Umbul",
+      "location": "Desa Kartoharjo, Kecamatan Grabag",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Magelang"
+    },
+    {
+      "name": "Candi Bubrah (Klaten)",
+      "location": "Prambanan",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Prambanan",
+      "location": "Prambanan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Plaosan (Lor)",
+      "location": "Prambanan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Plaosan Kidul",
+      "location": "Prambanan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Sewu",
+      "location": "Prambanan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Lumbung",
+      "location": "Prambanan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Sojiwan",
+      "location": "Prambanan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Karangnongko",
+      "location": "Karangnongko, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Merak",
+      "location": "Karangnongko, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Situs Kunden",
+      "location": "Sumberejo, Klaten Selatan, Klaten",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Klaten"
+    },
+    {
+      "name": "Candi Sukuh",
+      "location": "Sukuh, Ngargoyoso, Karanganyar",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Karanganyar"
+    },
+    {
+      "name": "Candi Cetho",
+      "location": "Gumeng, Jenawi, Karanganyar",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Karanganyar"
+    },
+    {
+      "name": "Candi Kethek",
+      "location": "Gumeng, Jenawi, Karanganyar",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Karanganyar"
+    },
+    {
+      "name": "Candi Planggatan",
+      "location": "Planggatan, Ngargoyoso, Karanganyar",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Karanganyar"
+    },
+    {
+      "name": "Situs Menggung",
+      "location": "Nglurah, Tawangmangu, Karanganyar",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Karanganyar"
+    },
+    {
+      "name": "Arca Nandi Colomadu",
+      "location": "Polsek Colomadu, Colomadu, Karanganyar",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Karanganyar"
+    },
+    {
+      "name": "Candi Dukuh",
+      "location": "Rowoboni, Banyubiru, Semarang",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Semarang"
+    },
+    {
+      "name": "Kompleks Candi Gedong Songo",
+      "location": "Candi, Bandungan, Semarang",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Semarang"
+    },
+    {
+      "name": "Candi Klero",
+      "location": "Klero, Tengaran, Semarang (Jl. Raya Solo-Semarang km 12)",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Semarang"
+    },
+    {
+      "name": "Candi Ngempon",
+      "location": "Ngempon, Bergas, Semarang",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Semarang"
+    },
+    {
+      "name": "Kompleks Candi Dieng",
+      "location": "Batur, Banjarnegara",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Banjarnegara"
+    },
+    {
+      "name": "Candi Bogang",
+      "location": "Bogang, Selomerto, Wonosobo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Wonosobo"
+    },
+    {
+      "name": "Candi Pringapus",
+      "location": "Parakan, Temanggung",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Temanggung"
+    },
+    {
+      "name": "Candi Gondosuli",
+      "location": "Bulu, Temanggung",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Temanggung"
+    },
+    {
+      "name": "Situs Liyangan",
+      "location": "Liyangan, Purbasari, Ngadirejo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Temanggung"
+    },
+    {
+      "name": "Candi Bulus",
+      "location": "Desa Bulus, Kecamatan Pedagangan",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Tegal"
+    },
+    {
+      "name": "Candi Kesuben",
+      "location": "Desa Kesuben, Kecamatan Lebak",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Tegal"
+    },
+    {
+      "name": "Candi Sari Cepogo",
+      "location": "Desa Gedangan, Kecamatan Cepogo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Boyolali"
+    },
+    {
+      "name": "Candi Lawang",
+      "location": "Desa Gedangan, Kecamatan Cepogo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Boyolali"
+    },
+    {
+      "name": "Situs Sumur Pitu",
+      "location": "Desa Cabean Kunthi, Kecamatan Cepogo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Boyolali"
+    },
+    {
+      "name": "Situs Sumur Songo",
+      "location": "Desa Candi Kidul, Kecamatan Cepogo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Boyolali"
+    },
+    {
+      "name": "Petirtaan Selodoko",
+      "location": "Desa Selodoko, Kecamatan Ampel",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Boyolali"
+    },
+    {
+      "name": "Candi Watugenuk",
+      "location": "Kragilan, Mojosongo",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Boyolali"
+    },
+    {
+      "name": "Candi Miyono atau Situs Kayen",
+      "location": "Dusun Miyono (Mbuloh), Desa Kayen, Kecamatan Kayen",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Pati"
+    },
+    {
+      "name": "Candi Sentono",
+      "location": "Dukuh Nglaren, Desa Sentono, Kecamatan Kradenan",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Blora"
+    },
+    {
+      "name": "Candi Bubrah (Jepara)",
+      "location": "",
+      "province": "Jawa Tengah",
+      "regency": "Kabupaten Jepara"
+    },
+    {
+      "name": "Candi Prambanan",
+      "location": "Desa Prambanan Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Situs Arca Gupolo",
+      "location": "Desa Sambirejo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Situs Goa Sentono",
+      "location": "Desa Jogotirto Kecamatan Berbah",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Kalasan atau Candi Tara",
+      "location": "Desa Titromani Kecamatan Kalasan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Banyunibo",
+      "location": "Desa Bokoharjo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Ratu Boko atau Keraton Ratu Boko",
+      "location": "",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Sambi Sari",
+      "location": "Desa Purwomartani Kecamatan Kalasan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Sari",
+      "location": "Desa Tirtomartani Kecamatan Kalasan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Ijo",
+      "location": "Desa Sambirejo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Barong",
+      "location": "Desa Sambirejo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Kedulan",
+      "location": "Desa Titromani Kecamatan Kalasan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Gebang",
+      "location": "Kecamatan Ngemplak",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Morangan",
+      "location": "Kecamatan Ngemplak",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Keblak",
+      "location": "Desa Bokoharjo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Abang",
+      "location": "Desa Jogotirto Kecamatan Berbah",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Miri",
+      "location": "Desa Nguwot Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Dawangsari",
+      "location": "Desa Sambirejo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Kimpulan",
+      "location": "Kaliurang, Besi",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Klodangan",
+      "location": "Desa Sendangtirto, Kecamatan Berbah",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Palgading",
+      "location": "Dusun Palgading, Desa Sinduharjo, Kecamatan Ngaglik",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Arca Bugisan atau Arca Proliman",
+      "location": "Desa Purwomartani, Kecamatan Kalasan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Candi Watu Gudhig",
+      "location": "Desa Bokoharjo Kecamatan Prambanan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Sleman"
+    },
+    {
+      "name": "Kompleks Situs Mantup",
+      "location": "Desa Situmulyo Kecamatan Piyungan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Bantul"
+    },
+    {
+      "name": "Candi Gampingan",
+      "location": "",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Bantul"
+    },
+    {
+      "name": "Situs Payak Bantul",
+      "location": "Desa Srimulyo, Kecamatan Piyungan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Bantul"
+    },
+    {
+      "name": "Situs Mangir",
+      "location": "Desa Sendangsari, Kecamatan Pajangan",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Bantul"
+    },
+    {
+      "name": "Candi Pringtali",
+      "location": "Desa Kebonharjo, Kecamatan Samigaluh",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Kulon Progo"
+    },
+    {
+      "name": "Candi Risan",
+      "location": "Desa Candirejo, Kecamatan Semin",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Gunung Kidul"
+    },
+    {
+      "name": "Situs Gembirowati",
+      "location": "Girijati, Panggang, Gunung Kidul",
+      "province": "Daerah Istimewa Yogyakarta",
+      "regency": "Kabupaten Gunung Kidul"
+    },
+    {
+      "name": "Situs Waturejo (Ngantang",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Kagenengan (Wagir",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Jago (Tumpang",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Kidal (Tumpang",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Situs Ngawonggo (Tajinan",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Singosari (Singosari",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Stupa Sumberawan (Singosari",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Selakelir",
+      "location": "lereng barat laut Gunung Penanggungan",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Kompleks Percandian Gunung Arjuna",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Jawar Ombo (Ampel Gading",
+      "location": "Malang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Bocok (Pondokagung",
+      "location": "Kasembon)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Petirtaan Watugede (Watu Gede",
+      "location": "Singosari)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Ngabab (Ngabab",
+      "location": "Pujon)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Gunung Telih (Gunung Rejo",
+      "location": "Singosari)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Malang"
+    },
+    {
+      "name": "Candi Badut (Malang)",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Malang"
+    },
+    {
+      "name": "Candi Karang Besuki (Karangbesuki",
+      "location": "Sukun)",
+      "province": "Jawa Timur",
+      "regency": "Kota Malang"
+    },
+    {
+      "name": "Situs Watugong (Merjosari",
+      "location": "Lowokwaru)",
+      "province": "Jawa Timur",
+      "regency": "Kota Malang"
+    },
+    {
+      "name": "Situs Sumur Windu (Polowijen",
+      "location": "Blimbing)",
+      "province": "Jawa Timur",
+      "regency": "Kota Malang"
+    },
+    {
+      "name": "Candi Sanggariti atau Candi Supo (Songgokerto",
+      "location": "Batu)",
+      "province": "Jawa Timur",
+      "regency": "Kota Batu"
+    },
+    {
+      "name": "Punden Mojorejo atau Situs Kajang (Mojorejo",
+      "location": "Junrejo)",
+      "province": "Jawa Timur",
+      "regency": "Kota Batu"
+    },
+    {
+      "name": "Candi Surawana (Pare",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Candi Tegowangi (Plemahan",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Arca Totok Kerot (Pagu",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Tunglur (Badas",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Panji Gambyok (Grogol",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Bandara Kediri (Grogol",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Calon Arang (Gurah",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Tondowongso (Gayam",
+      "location": "Gurah, Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Adan-Adan (Gurah",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Candi Dorok (Puncu",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Petirtaan Geneng (Kepung",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Candi Kepung Petirtaan (Jatimulyo",
+      "location": "Kepung, Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Arca Ringin Budha (Tamrin",
+      "location": "Pare, Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Nambaan (Ngasem",
+      "location": "Kediri) Arca Kepala Kala atau Situs Mbah Pentul",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Candi Semen (Pagu",
+      "location": "Kediri), Penemuan pada November 2013, situs ini sempat dihancurkan",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Situs Babadan (Babadan",
+      "location": "Sumbercangkring, Gurah, Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Kediri"
+    },
+    {
+      "name": "Kompleks Pertapaan Goa Selomangleng (Mojoroto",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Gunung Klotok (Mojoroto",
+      "location": "Kediri)",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Gua Selobale",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Setono Gedong",
+      "location": "Candi masa Kerajaan Kadhiri yang terletak di Jl. Dhoho ini pada bulan Oktober 2013 hampir dihancurkan demi perluasan Masjid.",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Pandean (Arca Durga)",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Siti Inggil",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Joko Dolog",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Botolengket",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Burengan",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Petirtaaan Dadapan",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kota Kediri"
+    },
+    {
+      "name": "Candi Lor (Loceret",
+      "location": "Nganjuk)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Nganjuk"
+    },
+    {
+      "name": "Candi Ngetos (Ngetos",
+      "location": "Nganjuk)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Nganjuk"
+    },
+    {
+      "name": "Yoni Brebek",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Nganjuk"
+    },
+    {
+      "name": "Situs Pace Kulon",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Nganjuk"
+    },
+    {
+      "name": "Candi Rimbi (Bareng",
+      "location": "Jombang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Jombang"
+    },
+    {
+      "name": "Candi Jawi (Prigen",
+      "location": "Pasuruan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pasuruan"
+    },
+    {
+      "name": "Candi Kebo Ireng (Kejapanan",
+      "location": "Pasuruan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pasuruan"
+    },
+    {
+      "name": "Candi Gunung Gangsir (Beji",
+      "location": "Pasuruan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pasuruan"
+    },
+    {
+      "name": "Kompleks Percandian Gunung Welirang",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pasuruan"
+    },
+    {
+      "name": "Kompleks Percandian Gunung Ringgit",
+      "location": "Gunung Ringgit, Dusun Godean, Desa Dayurejo, Kecamatan Prigen",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pasuruan"
+    },
+    {
+      "name": "Candi Lulumbang (Lumbang",
+      "location": "Pasuruan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pasuruan"
+    },
+    {
+      "name": "Candi Bangkal (Ngoro",
+      "location": "Mojosari)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Mojokerto"
+    },
+    {
+      "name": "Kompleks Situs Trowulan (Mojokerto)",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Mojokerto"
+    },
+    {
+      "name": "Kompleks Percandian Gunung Penanggungan (Trawas",
+      "location": "Mojokerto)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Mojokerto"
+    },
+    {
+      "name": "Arca Joko Dolog (Taman Aspari",
+      "location": "Tegalsari)",
+      "province": "Jawa Timur",
+      "regency": "Kota Surabaya"
+    },
+    {
+      "name": "Kompleks Candi Bacem (Kotes",
+      "location": "Gandusari)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Arca Ganesha Boro (Boro",
+      "location": "Tuliskriyo, Sanan Kulon)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Kalicilik (Candirejo",
+      "location": "Ponggok)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Kotes (Gandusari",
+      "location": "Blitar)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Wringin Branjang (Gandusari",
+      "location": "Blitar)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Sawentar (Kanigoro",
+      "location": "Garum)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Sumbernanas (Rejoso",
+      "location": "Ponggok)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Sumberjati atau Candi Simping (Simping",
+      "location": "Suruhwadang)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Kompleks Percandian Penataran (Penataran",
+      "location": "Nglegok)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Gambar Wetan (Candi Sewu",
+      "location": "Nglegok)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Plumbangan (Plumbangan",
+      "location": "Doko)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Tepas (Tepas",
+      "location": "Kesamben)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Selo Tumpuk (Pagerjowo",
+      "location": "Kesamben)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Sumber Agung (Sumber Agung",
+      "location": "Gandusari)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Sirah Kencong (Ngadirenggo",
+      "location": "Wlingi)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Tapan (Bakulan",
+      "location": "Bendosewu, Talun)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Situs Jeding (Jeding",
+      "location": "Sanankulon)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Mleri (Mleri",
+      "location": "Bagelenan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Rambut Monte (Krisik",
+      "location": "Gandusari)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Situs Bale Kambang (Modangan",
+      "location": "Nglegok)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Blitar"
+    },
+    {
+      "name": "Candi Kedaton (Tiris",
+      "location": "Probolinggo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Probolinggo"
+    },
+    {
+      "name": "Candi Jabung (Paiton",
+      "location": "Probolinggo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Probolinggo"
+    },
+    {
+      "name": "Candi Gayatri atau Candi Boyolangu (Boyolangu",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Dadi (Boyolangu",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Meja (Boyolangu",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Cungkup atau Candi Sanggrahan (Boyolangu",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Selomangleng atau Goa Pertapaan Selomangleng (Boyolangu",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Penampihan atau Candi Asmoro Bangun (Sendang",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Mirigambar (Sumbergempol",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Ngampel (Kalidawir",
+      "location": "Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Ngampel (Tanggung",
+      "location": "Campurdarat, Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Goa Trtitis (Tanggung",
+      "location": "Campurdarat, Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Goa Pasir (Pasir",
+      "location": "Sumbergempol, Tulungagung)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Tulungagung"
+    },
+    {
+      "name": "Candi Brongkah atau Candi Jenggolo Manik (Brongkah",
+      "location": "Kedunglurah, Pogalan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Trenggalek"
+    },
+    {
+      "name": "Candi Sadon atau Candi Reog (Sadon",
+      "location": "Cepoko, Panekan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Magetan"
+    },
+    {
+      "name": "Candi Dewi Sri (Simbatan",
+      "location": "Kuntoronadi, Magetan)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Magetan"
+    },
+    {
+      "name": "Candi Pari (Porong",
+      "location": "Sidoarjo) seberang Kolam Lumpur Lapindo",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Sumur (Porong",
+      "location": "Sidoarjo) seberang Kolam Lumpur Lapindo",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Medalem (Tulangan",
+      "location": "Sidoarjo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Wangkal (Krembung",
+      "location": "Sidoarjo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Pamotan I dan II (Porong",
+      "location": "Sidoarjo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Dermo (Wonoayu",
+      "location": "Sidoarjo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Tawangalun (Sedati",
+      "location": "Sidoarjo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Sidoarjo"
+    },
+    {
+      "name": "Candi Gedhong Putri atau Candi Puro (Kloposawit",
+      "location": "Candipuro)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Lumajang"
+    },
+    {
+      "name": "Candi Gelisah atau Candi Agung (Randuagung)",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Lumajang"
+    },
+    {
+      "name": "Situs Biting (Kutorenon",
+      "location": "Sukodono)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Lumajang"
+    },
+    {
+      "name": "Candi Kunir (Kedungmoro",
+      "location": "Kunir)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Lumajang"
+    },
+    {
+      "name": "Situs Candi Burung (Burung",
+      "location": "Proppo)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Pamekasan"
+    },
+    {
+      "name": "Candi Deres (Gumukmas",
+      "location": "Jember)",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Jember"
+    },
+    {
+      "name": "Situs Altar Raja Dharmawangsa",
+      "location": "Dusun Watu Dhukun, Desa Pager Ukir, Kecamatan Sampung, Kabupaten Ponorogo",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Ponorogo"
+    },
+    {
+      "name": "Situs Kayangan Api",
+      "location": "Desa Sendangharjo, Kecamatan Ngasem",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Bojonegoro"
+    },
+    {
+      "name": "Candi Kepuh Klagen",
+      "location": "Desa Kepuh Klagen, Kecamatan Weringin Anom",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Gresik"
+    },
+    {
+      "name": "Candi Wonorejo",
+      "location": "Jalan Candi, Desa Wonorejo, Kecamatan Mejayan",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Madiun"
+    },
+    {
+      "name": "Candi Pendem Ngawi",
+      "location": "",
+      "province": "Jawa Timur",
+      "regency": "Kabupaten Ngawi"
+    },
+    {
+      "name": "Candi Kalibukbuk",
+      "location": "Buleleng, Buleleng",
+      "province": "Bali",
+      "regency": "Kabupaten Buleleng"
+    },
+    {
+      "name": "Candi Gunung Kawi",
+      "location": "Gianyar",
+      "province": "Bali",
+      "regency": "Kabupaten Gianyar"
+    },
+    {
+      "name": "Situs Goa Gajah",
+      "location": "Tampaksiring, Gianyar",
+      "province": "Bali",
+      "regency": "Kabupaten Gianyar"
+    },
+    {
+      "name": "Candi Agung",
+      "location": "Amuntai Tengah, Hulu Sungai Utara. Candi Hindu.",
+      "province": "Kalimantan Selatan",
+      "regency": "Kabupaten Hulu Sungai Utara"
+    },
+    {
+      "name": "Candi Laras",
+      "location": "Candi Laras Selatan, Tapin. Candi Buddha.",
+      "province": "Kalimantan Selatan",
+      "regency": "Kabupaten Tapin"
+    },
+    {
+      "name": "Situs Pematang Bata",
+      "location": "Candi Laras Selatan, Tapin",
+      "province": "Kalimantan Selatan",
+      "regency": "Kabupaten Tapin"
+    },
+    {
+      "name": "Lasung Batu atau Yoni",
+      "location": "Desa Cantung Kiri Hilir, Kelumpang Hulu, Kotabaru",
+      "province": "Kalimantan Selatan",
+      "regency": "Kabupaten Kotabaru"
+    },
+    {
+      "name": "Candi Tanjungpura",
+      "location": "Desa Benua Lama, Benua Kayong, Ketapang",
+      "province": "Kalimantan Barat",
+      "regency": ""
+    },
+    {
+      "name": "Arca Buddha Sambas",
+      "location": "",
+      "province": "Kalimantan Barat",
+      "regency": ""
+    },
+    {
+      "name": "Lesong Batu",
+      "location": "Muara Kaman Ulu, Muara Kaman",
+      "province": "Kalimantan Timur",
+      "regency": "Kabupaten Kutai Kartanegara"
+    },
+    {
+      "name": "Arca Buddha Kota Bangun",
+      "location": "",
+      "province": "Kalimantan Timur",
+      "regency": "Kabupaten Kutai Kartanegara"
+    },
+    {
+      "name": "Situs Goa Gunung Kombeng",
+      "location": "Desa Pantun Kecamatan Muara Wahau",
+      "province": "Kalimantan Timur",
+      "regency": "Kabupaten Kutai Timur"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Candi di Indonesia - Free Download",
+    "description": "Daftar candi dan situs purbakala di Indonesia menurut provinsi dan kabupaten/kota beserta lokasinya. Contains 245 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Candi di Indonesia | ListBase",
+    "seo_description": "Download Daftar Candi di Indonesia — 245 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 245 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_candi_di_Indonesia"
+    ]
+  }
+}
