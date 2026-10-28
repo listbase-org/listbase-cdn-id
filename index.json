@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-28T02:17:53.510Z",
-  "total_datasets": 588,
-  "total_records": 647935,
+  "generated": "2026-10-28T02:17:56.008Z",
+  "total_datasets": 589,
+  "total_records": 648418,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -14211,6 +14211,29 @@
         "xlsx": {
           "name": "id-organisasi-penghayat-kepercayaan_ID.xlsx",
           "size": 10248
+        }
+      }
+    },
+    {
+      "id": "id-suku-bangsa-per-provinsi",
+      "name": "Daftar Suku Bangsa di Indonesia menurut Provinsi",
+      "category": "society",
+      "record_count": 483,
+      "columns": [
+        "ethnic_group",
+        "province"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_suku_bangsa_di_Indonesia_menurut_provinsi",
+      "updated": "2026-10",
+      "size": 42258,
+      "files": {
+        "csv": {
+          "name": "id-suku-bangsa-per-provinsi_ID.csv",
+          "size": 14767
+        },
+        "xlsx": {
+          "name": "id-suku-bangsa-per-provinsi_ID.xlsx",
+          "size": 14461
         }
       }
     },
