@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-28T02:17:48.786Z",
-  "total_datasets": 586,
-  "total_records": 647619,
+  "generated": "2026-10-28T02:17:51.117Z",
+  "total_datasets": 587,
+  "total_records": 647720,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -535,6 +535,32 @@
         "xlsx": {
           "name": "id-perusahaan-terbesar-fortune_ID.xlsx",
           "size": 7916
+        }
+      }
+    },
+    {
+      "id": "id-perusahaan-tertua",
+      "name": "Daftar Perusahaan Tertua di Indonesia",
+      "category": "economy",
+      "record_count": 101,
+      "columns": [
+        "year",
+        "company",
+        "current_location",
+        "sector",
+        "notes"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perusahaan_tertua_di_Indonesia",
+      "updated": "2026-10",
+      "size": 19782,
+      "files": {
+        "csv": {
+          "name": "id-perusahaan-tertua_ID.csv",
+          "size": 7740
+        },
+        "xlsx": {
+          "name": "id-perusahaan-tertua_ID.xlsx",
+          "size": 11368
         }
       }
     },

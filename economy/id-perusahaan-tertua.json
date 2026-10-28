@@ -1,0 +1,758 @@
+{
+  "id": "id-perusahaan-tertua",
+  "name": "Daftar Perusahaan Tertua di Indonesia",
+  "title": "Daftar Perusahaan Tertua di Indonesia",
+  "description": "Daftar perusahaan tertua yang masih beroperasi di Indonesia beserta tahun berdiri, lokasi, dan bidang usaha.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_perusahaan_tertua_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_perusahaan_tertua_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "current_location",
+      "label": "Current Location",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1746,
+      "company": "Pos Indonesia",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Pos",
+      "notes": ""
+    },
+    {
+      "year": 1810,
+      "company": "Hotel Sriwijaya",
+      "current_location": "Jakarta",
+      "sector": "Hotel",
+      "notes": ""
+    },
+    {
+      "year": 1838,
+      "company": "Toko Jamu Babah Kuya",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Jamu",
+      "notes": ""
+    },
+    {
+      "year": 1856,
+      "company": "Hotel Salak The Heritage",
+      "current_location": "Bogor, Jawa Barat",
+      "sector": "Hotel",
+      "notes": ""
+    },
+    {
+      "year": 1859,
+      "company": "Jiwasraya",
+      "current_location": "Jakarta",
+      "sector": "Asuransi",
+      "notes": "Per tahun 2025, tim likuidasi untuk melancarkan pembubaran Jiwasraya telah dibentuk."
+    },
+    {
+      "year": "1870-an – 1880-an",
+      "company": "Hotel Savoy Homann",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Hotel",
+      "notes": "Tidak diketahui persis tahun berdirinya, namun arsip hotel menunjukkan hotel ini berdiri sebelum tahun 1888 oleh A. Homann, yang tinggal di sekitar Bandung sejak tahun 1870. Saat ini bagian dari Hotel Bidakara."
+    },
+    {
+      "year": 1878,
+      "company": "Bakoel Koffie",
+      "current_location": "Jakarta",
+      "sector": "Kedai kopi",
+      "notes": "Mulanya adalah satu usaha hingga dekade 1990-an."
+    },
+    {
+      "year": 1878,
+      "company": "Koffie Warung Tinggi",
+      "current_location": "Jakarta",
+      "sector": "Kedai kopi",
+      "notes": "Mulanya adalah satu usaha hingga dekade 1990-an."
+    },
+    {
+      "year": "1880-an",
+      "company": "Toko Buku Peneleh",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Ritel",
+      "notes": ""
+    },
+    {
+      "year": 1881,
+      "company": "Roti Ganep",
+      "current_location": "Surakarta, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1882,
+      "company": "Kecap Benteng Teng Giok Seng",
+      "current_location": "Tangerang, Banten",
+      "sector": "Kecap",
+      "notes": ""
+    },
+    {
+      "year": 1886,
+      "company": "Gino Feruci Hotel Kebonjati",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Hotel",
+      "notes": "Bagian dari Kagum Hotels."
+    },
+    {
+      "year": 1889,
+      "company": "Cap Orang Jual Sate",
+      "current_location": "Probolinggo, Jawa Timur",
+      "sector": "Kecap",
+      "notes": "Bagian dari PT Aneka Food Tatarasa Industri sejak 1991."
+    },
+    {
+      "year": 1890,
+      "company": "Biofarma",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Farmasi",
+      "notes": ""
+    },
+    {
+      "year": 1896,
+      "company": "Bank Rakyat Indonesia",
+      "current_location": "Jakarta",
+      "sector": "Bank",
+      "notes": "Didirikan di Purwokerto, Jawa Tengah."
+    },
+    {
+      "year": 1897,
+      "company": "Grand Hotel Preanger",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Hotel",
+      "notes": ""
+    },
+    {
+      "year": 1898,
+      "company": "Grand Inna Medan",
+      "current_location": "Medan, Sumatera Utara",
+      "sector": "Hotel",
+      "notes": "Akar sejarahnya dapat ditelusuri dari pendirian Hotel de Boer. Bagian dari Injourney Hospitality."
+    },
+    {
+      "year": 1898,
+      "company": "Laba-Laba",
+      "current_location": "Jakarta",
+      "sector": "Reparasi",
+      "notes": "Sebelumnya bernama De Spin."
+    },
+    {
+      "year": 1898,
+      "company": "Roti Go",
+      "current_location": "Banyumas, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1901,
+      "company": "Pegadaian",
+      "current_location": "Jakarta",
+      "sector": "Gadai",
+      "notes": "Didirikan di Sukabumi, Jawa Barat. Anak perusahaan Bank Rakyat Indonesia sejak 2021."
+    },
+    {
+      "year": 1905,
+      "company": "Toko Kitab Salim Nabhan",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Ritel",
+      "notes": ""
+    },
+    {
+      "year": 1906,
+      "company": "Bank Woori Saudara",
+      "current_location": "Jakarta",
+      "sector": "Bank",
+      "notes": "Didirikan di Bandung, Jawa Barat, pindah ke Jakarta pada 2018. Anak perusahaan Woori Bank sejak 2014."
+    },
+    {
+      "year": 1906,
+      "company": "PP London Sumatra Indonesia",
+      "current_location": "Medan, Sumatera Utara",
+      "sector": "Perkebunan",
+      "notes": ""
+    },
+    {
+      "year": 1908,
+      "company": "Toko Obat Ban An Tong",
+      "current_location": "Tangerang, Banten",
+      "sector": "Ritel",
+      "notes": ""
+    },
+    {
+      "year": 1910,
+      "company": "Dok dan Perkapalan Surabaya",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Perkapalan",
+      "notes": ""
+    },
+    {
+      "year": 1910,
+      "company": "Hotel Majapahit",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Hotel",
+      "notes": ""
+    },
+    {
+      "year": 1910,
+      "company": "Jamu Iboe",
+      "current_location": "Sidoarjo, Jawa Timur",
+      "sector": "Jamu",
+      "notes": ""
+    },
+    {
+      "year": 1910,
+      "company": "Rizona",
+      "current_location": "Temanggung, Jawa Tengah",
+      "sector": "Tembakau",
+      "notes": ""
+    },
+    {
+      "year": 1910,
+      "company": "Semen Padang",
+      "current_location": "Padang, Sumatera Barat",
+      "sector": "Bahan bangunan",
+      "notes": "Anak perusahaan Semen Indonesia sejak 2012."
+    },
+    {
+      "year": 1910,
+      "company": "Toko Oen Semarang",
+      "current_location": "Semarang, Jawa Tengah",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": 1911,
+      "company": "Shin Hua",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Jasa potong rambut",
+      "notes": ""
+    },
+    {
+      "year": 1912,
+      "company": "Grand Hotel De Djokja",
+      "current_location": "Yogyakarta, DI Yogyakarta",
+      "sector": "Hotel",
+      "notes": "Bagian dari Injourney Hospitality."
+    },
+    {
+      "year": 1912,
+      "company": "Bumiputera",
+      "current_location": "Jakarta",
+      "sector": "Asuransi",
+      "notes": ""
+    },
+    {
+      "year": 1913,
+      "company": "Bank QNB Indonesia",
+      "current_location": "Jakarta",
+      "sector": "Bank",
+      "notes": "Didirikan di Medan, Sumatera Utara, pindah ke Jakarta pada 1990-an. Sebelumnya pernah bernama Bank Chunghwa Shangyeh dan Bank Kesawan. Anak perusahaan QNB Group sejak 2011."
+    },
+    {
+      "year": 1913,
+      "company": "HM Sampoerna",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Tembakau",
+      "notes": "Anak perusahaan Philip Morris International sejak 2005"
+    },
+    {
+      "year": 1915,
+      "company": "Suara Muhammadiyah",
+      "current_location": "Yogyakarta, DI Yogyakarta",
+      "sector": "Media",
+      "notes": "Diterbitkan oleh PT Syarikat Cahaya Media, badan usaha milik Muhammadiyah."
+    },
+    {
+      "year": 1916,
+      "company": "Badak",
+      "current_location": "Pematangsiantar, Sumatera Utara",
+      "sector": "Minuman",
+      "notes": "Diproduksi oleh PT Pabrik Es Siantar."
+    },
+    {
+      "year": 1916,
+      "company": "Margo Redjo",
+      "current_location": "Semarang, Jawa Tengah",
+      "sector": "Minuman",
+      "notes": ""
+    },
+    {
+      "year": 1917,
+      "company": "Balai Pustaka",
+      "current_location": "Jakarta",
+      "sector": "Penerbitan",
+      "notes": ""
+    },
+    {
+      "year": 1917,
+      "company": "Toko Nadoly",
+      "current_location": "Palu, Sulawesi Tengah",
+      "sector": "Ritel",
+      "notes": ""
+    },
+    {
+      "year": 1918,
+      "company": "Getuk Goreng Asli",
+      "current_location": "Banyumas, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1918,
+      "company": "Jamu Jago",
+      "current_location": "Semarang, Jawa Tengah",
+      "sector": "Jamu",
+      "notes": ""
+    },
+    {
+      "year": 1918,
+      "company": "Taru Martani",
+      "current_location": "Yogyakarta, DI Yogyakarta",
+      "sector": "Tembakau",
+      "notes": ""
+    },
+    {
+      "year": 1920,
+      "company": "Hotel Bumi Sawunggaling",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Hotel",
+      "notes": ""
+    },
+    {
+      "year": 1920,
+      "company": "Kecap Benteng SH",
+      "current_location": "Tangerang, Banten",
+      "sector": "Kecap",
+      "notes": ""
+    },
+    {
+      "year": 1921,
+      "company": "Tan Ek Tjoan",
+      "current_location": "Bogor, Jawa Barat",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1921,
+      "company": "Waroeng Kopi Ake",
+      "current_location": "Belitung, Kepulauan Bangka Belitung",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1922,
+      "company": "Penerbit Kanisius",
+      "current_location": "Sleman, DI Yogyakarta",
+      "sector": "Penerbitan",
+      "notes": ""
+    },
+    {
+      "year": 1922,
+      "company": "Kedai Kopi Apek",
+      "current_location": "Medan, Sumatera Utara",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1926,
+      "company": "Percetakan Arnoldus",
+      "current_location": "Ende, Nusa Tenggara Timur",
+      "sector": "Percetakan",
+      "notes": "Unit dari Penerbit Nusa Indah (PT Arnoldus Nusa Indah)."
+    },
+    {
+      "year": 1927,
+      "company": "Massa Kok Tong",
+      "current_location": "Pematangsiantar, Sumatera Utara",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1926,
+      "company": "TKC Resto & Bakery",
+      "current_location": "Cianjur, Jawa Barat",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": 1926,
+      "company": "Warma Pi'an",
+      "current_location": "Tegal, Jawa Tengah",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": 1927,
+      "company": "Kapal Api",
+      "current_location": "Sidoarjo, Jawa Timur",
+      "sector": "Minuman",
+      "notes": "Saat ini diproduksi oleh Santos Jaya Abadi."
+    },
+    {
+      "year": 1927,
+      "company": "Kopi Es Tak Kie",
+      "current_location": "Jakarta",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1927,
+      "company": "Optik Seis",
+      "current_location": "Jakarta",
+      "sector": "Optik",
+      "notes": ""
+    },
+    {
+      "year": 1928,
+      "company": "Bango",
+      "current_location": "Subang, Jawa Barat",
+      "sector": "Kecap",
+      "notes": "Bagian dari Unilever Indonesia sejak 2001."
+    },
+    {
+      "year": 1928,
+      "company": "Javaco",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1929,
+      "company": "Optik Tunggal",
+      "current_location": "Jakarta",
+      "sector": "Optik",
+      "notes": ""
+    },
+    {
+      "year": 1929,
+      "company": "Sumber Hidangan",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": 1929,
+      "company": "TipTop",
+      "current_location": "Medan, Sumatera Utara",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": "1930-an",
+      "company": "Toko Kopi Kapal Selam",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1930,
+      "company": "Bentoel Group",
+      "current_location": "Jakarta dan Malang, Jawa Timur",
+      "sector": "Tembakau",
+      "notes": "Anak perusahaan British American Tobacco sejak 2009."
+    },
+    {
+      "year": 1930,
+      "company": "Kopi Aroma",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1930,
+      "company": "Toko Madjoe",
+      "current_location": "Malang, Jawa Timur",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1930,
+      "company": "Warung Kopi Purnama",
+      "current_location": "Bandung, Jawa Barat",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1930,
+      "company": "Es Krim Zangrandi",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": 1931,
+      "company": "Multi Bintang Indonesia",
+      "current_location": "Jakarta",
+      "sector": "Bir",
+      "notes": "Bagian dari Heineken International sejak 1936 hingga 1957 dan sejak 1967."
+    },
+    {
+      "year": 1932,
+      "company": "Bhek",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1932,
+      "company": "Nojorono",
+      "current_location": "Kudus, Jawa Tengah",
+      "sector": "Tembakau",
+      "notes": ""
+    },
+    {
+      "year": 1932,
+      "company": "Ragusa Es Italia",
+      "current_location": "Jakarta",
+      "sector": "Rumah makan",
+      "notes": ""
+    },
+    {
+      "year": 1932,
+      "company": "Toko Roti Orion",
+      "current_location": "Surakarta, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1933,
+      "company": "Delta Djakarta",
+      "current_location": "Jakarta",
+      "sector": "Bir",
+      "notes": ""
+    },
+    {
+      "year": 1933,
+      "company": "Panjebar Semangat",
+      "current_location": "Surabaya, Jawa Timur",
+      "sector": "Media",
+      "notes": ""
+    },
+    {
+      "year": 1933,
+      "company": "Unilever Indonesia",
+      "current_location": "Tangerang, Banten",
+      "sector": "Produk konsumen",
+      "notes": "Anak perusahaan Unilever."
+    },
+    {
+      "year": 1935,
+      "company": "Bhineka Djaja",
+      "current_location": "Denpasar, Bali",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1935,
+      "company": "Djoen Lama",
+      "current_location": "Yogyakarta, DI Yogyakarta",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1935,
+      "company": "Warung Kopi Djaja",
+      "current_location": "Pontianak, Kalimantan Barat",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1936,
+      "company": "Maison Weiner",
+      "current_location": "Jakarta",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1936,
+      "company": "Purimas 3",
+      "current_location": "Pekalongan, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1937,
+      "company": "LKBN Antara",
+      "current_location": "Jakarta",
+      "sector": "Media",
+      "notes": ""
+    },
+    {
+      "year": 1937,
+      "company": "Argus Optik",
+      "current_location": "Yogyakarta, DI Yogyakarta",
+      "sector": "Optik",
+      "notes": ""
+    },
+    {
+      "year": 1937,
+      "company": "NPM",
+      "current_location": "Padang Panjang, Sumatera Barat",
+      "sector": "Transportasi",
+      "notes": ""
+    },
+    {
+      "year": 1938,
+      "company": "Sinar Mas",
+      "current_location": "Jakarta",
+      "sector": "",
+      "notes": ""
+    },
+    {
+      "year": 1938,
+      "company": "Tong Tji",
+      "current_location": "Tegal, Jawa Tengah",
+      "sector": "Minuman",
+      "notes": ""
+    },
+    {
+      "year": 1938,
+      "company": "Tung Tau",
+      "current_location": "Bangka, Kepulauan Bangka Belitung",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1939,
+      "company": "Soto Triwindu",
+      "current_location": "Surakarta, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1939,
+      "company": "Toko Sedap Djaja",
+      "current_location": "Jakarta",
+      "sector": "Minuman",
+      "notes": ""
+    },
+    {
+      "year": 1939,
+      "company": "Wajik Week",
+      "current_location": "Magelang, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": "1940-an",
+      "company": "Toko Roti 36",
+      "current_location": "Surakarta, Jawa Tengah",
+      "sector": "Makanan",
+      "notes": "Keterangan resmi toko hanya menyebut rentang waktu pendirian. Sebelumnya bernama Ya Mevrouw."
+    },
+    {
+      "year": 1940,
+      "company": "Lauw Bakery",
+      "current_location": "Jakarta",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1940,
+      "company": "Maja Menjangan",
+      "current_location": "Majalengka, Jawa Barat",
+      "sector": "Kecap",
+      "notes": ""
+    },
+    {
+      "year": 1940,
+      "company": "Rekso Group",
+      "current_location": "Jakarta",
+      "sector": "Konglomerasi",
+      "notes": "Termasuk Sinar Sosro, anak perusahaan Rekso Group."
+    },
+    {
+      "year": 1940,
+      "company": "Toko Kopi Rasa Sedap",
+      "current_location": "Jambi, Jambi",
+      "sector": "Kedai kopi",
+      "notes": ""
+    },
+    {
+      "year": 1941,
+      "company": "Bank OCBC NISP",
+      "current_location": "Jakarta",
+      "sector": "Bank",
+      "notes": "Anak perusahaan OCBC Bank sejak dekade 2000-an."
+    },
+    {
+      "year": 1942,
+      "company": "2 Tang",
+      "current_location": "Tegal, Jawa Tengah",
+      "sector": "Minuman",
+      "notes": "Diproduksi oleh CV Duta Java Tea Industri."
+    },
+    {
+      "year": 1942,
+      "company": "Bakrie & Brothers/Bakrie Group",
+      "current_location": "Jakarta",
+      "sector": "Konglomerasi",
+      "notes": ""
+    },
+    {
+      "year": 1942,
+      "company": "Warung Suka Hati",
+      "current_location": "Pontianak, Kalimantan Barat",
+      "sector": "Makanan",
+      "notes": ""
+    },
+    {
+      "year": 1942,
+      "company": "Taman Batik Terang Bulan",
+      "current_location": "Yogyakarta, DI Yogyakarta",
+      "sector": "Ritel",
+      "notes": ""
+    },
+    {
+      "year": 1942,
+      "company": "Teh Gopek",
+      "current_location": "Tegal, Jawa Tengah",
+      "sector": "Minuman",
+      "notes": ""
+    },
+    {
+      "year": 1943,
+      "company": "Kong Djie",
+      "current_location": "Belitung, Kepulauan Bangka Belitung",
+      "sector": "Kedai kopi",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Perusahaan Tertua di Indonesia - Free Download",
+    "description": "Daftar perusahaan tertua yang masih beroperasi di Indonesia beserta tahun berdiri, lokasi, dan bidang usaha. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Perusahaan Tertua di Indonesia | ListBase",
+    "seo_description": "Download Daftar Perusahaan Tertua di Indonesia — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_perusahaan_tertua_di_Indonesia"
+    ]
+  }
+}
