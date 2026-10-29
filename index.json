@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-29T02:13:34.070Z",
-  "total_datasets": 591,
-  "total_records": 648535,
+  "generated": "2026-10-29T02:13:36.549Z",
+  "total_datasets": 592,
+  "total_records": 648619,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -1501,6 +1501,30 @@
         "xlsx": {
           "name": "id-hidangan-sumatera-barat_ID.xlsx",
           "size": 7840
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-sunda",
+      "name": "Daftar Hidangan Khas Sunda",
+      "category": "food",
+      "record_count": 84,
+      "columns": [
+        "name",
+        "category",
+        "description"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Hidangan_Sunda",
+      "updated": "2026-10",
+      "size": 12324,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-sunda_ID.csv",
+          "size": 5328
+        },
+        "xlsx": {
+          "name": "id-hidangan-sunda_ID.xlsx",
+          "size": 9927
         }
       }
     },
