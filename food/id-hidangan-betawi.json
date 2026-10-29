@@ -1,0 +1,304 @@
+{
+  "id": "id-hidangan-betawi",
+  "name": "Daftar Hidangan Khas Betawi",
+  "title": "Daftar Hidangan Khas Betawi",
+  "description": "Daftar makanan, minuman, dan kue khas Betawi (Jakarta)",
+  "category": "food",
+  "source": "https://id.wikipedia.org/wiki/Hidangan_Betawi",
+  "source_url": "https://id.wikipedia.org/wiki/Hidangan_Betawi",
+  "updated": "2026-10",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Asinan Betawi",
+      "category": "Makanan"
+    },
+    {
+      "name": "Ayam sampyok",
+      "category": "Makanan"
+    },
+    {
+      "name": "Bandeng pesmol",
+      "category": "Makanan"
+    },
+    {
+      "name": "Bandeng pindang",
+      "category": "Makanan"
+    },
+    {
+      "name": "Bubur ase",
+      "category": "Makanan"
+    },
+    {
+      "name": "Cètrok",
+      "category": "Makanan"
+    },
+    {
+      "name": "Gabus pucung",
+      "category": "Makanan"
+    },
+    {
+      "name": "Gado-gado",
+      "category": "Makanan"
+    },
+    {
+      "name": "Ketoprak",
+      "category": "Makanan"
+    },
+    {
+      "name": "Laksa Betawi",
+      "category": "Makanan"
+    },
+    {
+      "name": "Mi kangkung",
+      "category": "Makanan"
+    },
+    {
+      "name": "Nasi kebuli",
+      "category": "Makanan"
+    },
+    {
+      "name": "Nasi uduk",
+      "category": "Makanan"
+    },
+    {
+      "name": "Nasi ulam",
+      "category": "Makanan"
+    },
+    {
+      "name": "Pecak ikan gabus",
+      "category": "Makanan"
+    },
+    {
+      "name": "Pecak ikan mas",
+      "category": "Makanan"
+    },
+    {
+      "name": "Pecak tembang",
+      "category": "Makanan"
+    },
+    {
+      "name": "Pesor sayur",
+      "category": "Makanan"
+    },
+    {
+      "name": "Pesor bumbu",
+      "category": "Makanan"
+    },
+    {
+      "name": "Sambelan lengkio",
+      "category": "Makanan"
+    },
+    {
+      "name": "Sayur asam",
+      "category": "Makanan"
+    },
+    {
+      "name": "Sayur babanci",
+      "category": "Makanan"
+    },
+    {
+      "name": "Sayur besan",
+      "category": "Makanan"
+    },
+    {
+      "name": "Sayur godog",
+      "category": "Makanan"
+    },
+    {
+      "name": "Semur jengkol",
+      "category": "Makanan"
+    },
+    {
+      "name": "Soto Betawi",
+      "category": "Makanan"
+    },
+    {
+      "name": "Soto mie",
+      "category": "Makanan"
+    },
+    {
+      "name": "Soto tangkar",
+      "category": "Makanan"
+    },
+    {
+      "name": "Toge goreng",
+      "category": "Makanan"
+    },
+    {
+      "name": "Bir pletok",
+      "category": "Minuman"
+    },
+    {
+      "name": "Es goyang",
+      "category": "Minuman"
+    },
+    {
+      "name": "Es selendang mayang /ongol-ongol pecak",
+      "category": "Minuman"
+    },
+    {
+      "name": "Akar kelapa",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Andepite",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Arisah",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Biji ketapang",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Dodol betawi",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Gemblong",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kerak telor",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue ape",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue Bakar",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue cente manis",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue cincin",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue cucur",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue dongkal",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue geplak",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue jalabia",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue kelen",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue kembang goyang",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue lumpur",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue lupis betawi",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue pancong kelapa",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue pepe",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue pisang aduk / Nagasari",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue rangi",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue satu",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue sengkulun",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue talam",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue unti",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Kue wajik kertas",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Putu mayang",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Roti buaya",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Roti gambang",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Rujak penganten",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Sagon",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Tape uli",
+      "category": "Kue/Makanan Ringan"
+    },
+    {
+      "name": "Telor gabus",
+      "category": "Kue/Makanan Ringan"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Hidangan Khas Betawi - Free Download",
+    "description": "Daftar makanan, minuman, dan kue khas Betawi (Jakarta) Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Hidangan Khas Betawi | ListBase",
+    "seo_description": "Download Daftar Hidangan Khas Betawi — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Hidangan_Betawi"
+    ]
+  }
+}

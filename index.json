@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-29T02:13:31.386Z",
-  "total_datasets": 590,
-  "total_records": 648468,
+  "generated": "2026-10-29T02:13:34.070Z",
+  "total_datasets": 591,
+  "total_records": 648535,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1432,6 +1432,29 @@
         "xlsx": {
           "name": "id-hidangan-bali_ID.xlsx",
           "size": 8166
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-betawi",
+      "name": "Daftar Hidangan Khas Betawi",
+      "category": "food",
+      "record_count": 67,
+      "columns": [
+        "name",
+        "category"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Hidangan_Betawi",
+      "updated": "2026-10",
+      "size": 6303,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-betawi_ID.csv",
+          "size": 2056
+        },
+        "xlsx": {
+          "name": "id-hidangan-betawi_ID.xlsx",
+          "size": 7961
         }
       }
     },
