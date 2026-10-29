@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-29T02:13:39.014Z",
-  "total_datasets": 593,
-  "total_records": 648658,
+  "generated": "2026-10-29T02:13:41.414Z",
+  "total_datasets": 594,
+  "total_records": 648683,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -15418,6 +15418,30 @@
         "xlsx": {
           "name": "id-festival-daerah_ID.xlsx",
           "size": 9346
+        }
+      }
+    },
+    {
+      "id": "id-kebun-binatang",
+      "name": "Daftar Kebun Binatang di Indonesia",
+      "category": "tourism",
+      "record_count": 25,
+      "columns": [
+        "name",
+        "location",
+        "year_founded"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kebun_binatang",
+      "updated": "2026-10",
+      "size": 4270,
+      "files": {
+        "csv": {
+          "name": "id-kebun-binatang_ID.csv",
+          "size": 1178
+        },
+        "xlsx": {
+          "name": "id-kebun-binatang_ID.xlsx",
+          "size": 7563
         }
       }
     },
