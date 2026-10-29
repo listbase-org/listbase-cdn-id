@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-29T02:13:36.549Z",
-  "total_datasets": 592,
-  "total_records": 648619,
+  "generated": "2026-10-29T02:13:39.014Z",
+  "total_datasets": 593,
+  "total_records": 648658,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -262,6 +262,28 @@
         "xlsx": {
           "name": "id-wakil-menteri-pertanian_ID.xlsx",
           "size": 7648
+        }
+      }
+    },
+    {
+      "id": "id-alat-musik-tradisional",
+      "name": "Daftar Alat Musik Khas Indonesia",
+      "category": "culture",
+      "record_count": 39,
+      "columns": [
+        "name"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_alat_musik_Indonesia",
+      "updated": "2026-10",
+      "size": 2696,
+      "files": {
+        "csv": {
+          "name": "id-alat-musik-tradisional_ID.csv",
+          "size": 496
+        },
+        "xlsx": {
+          "name": "id-alat-musik-tradisional_ID.xlsx",
+          "size": 7246
         }
       }
     },
