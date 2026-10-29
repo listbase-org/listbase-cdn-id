@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-28T02:17:56.008Z",
-  "total_datasets": 589,
-  "total_records": 648418,
+  "generated": "2026-10-29T02:13:31.386Z",
+  "total_datasets": 590,
+  "total_records": 648468,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -1455,6 +1455,29 @@
         "xlsx": {
           "name": "id-hidangan-kepulauan-riau_ID.xlsx",
           "size": 10664
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-sumatera-barat",
+      "name": "Daftar Hidangan Khas Sumatera Barat (Minangkabau)",
+      "category": "food",
+      "record_count": 50,
+      "columns": [
+        "name",
+        "category"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Masakan_Sumatera_Barat",
+      "updated": "2026-10",
+      "size": 5651,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-sumatera-barat_ID.csv",
+          "size": 1915
+        },
+        "xlsx": {
+          "name": "id-hidangan-sumatera-barat_ID.xlsx",
+          "size": 7840
         }
       }
     },

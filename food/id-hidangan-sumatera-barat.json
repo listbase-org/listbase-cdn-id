@@ -1,0 +1,236 @@
+{
+  "id": "id-hidangan-sumatera-barat",
+  "name": "Daftar Hidangan Khas Sumatera Barat (Minangkabau)",
+  "title": "Daftar Hidangan Khas Sumatera Barat (Minangkabau)",
+  "description": "Daftar masakan khas Sumatera Barat/Minangkabau dikelompokkan menurut jenis: makanan utama, makanan selingan, dan lainnya",
+  "category": "food",
+  "source": "https://id.wikipedia.org/wiki/Masakan_Sumatera_Barat",
+  "source_url": "https://id.wikipedia.org/wiki/Masakan_Sumatera_Barat",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Rendang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Randang Lokan",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Dendeng Balado",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Dendeng Batokok",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai Tunjang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai paku",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai toco",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai itiak",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai banak",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai kambiang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai manih",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai pucuak ubi",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Gulai asin padeh",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Pangek masin",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Pangek padeh",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Kalio dagiang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Kalio jariang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Sambalado tanak",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Sambalado matah",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Cancang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Ikan balado",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Ikan baka",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Soto padang",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Goreng baluik",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Goreng lauak",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Palai Bada",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Ayam kurma",
+      "category": "Makanan utama"
+    },
+    {
+      "name": "Sate Padang",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Sate Pariaman",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Sate Padangpanjang",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Pical",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Martabak Mesir (Martabak Kubang)",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Dadiah",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Lamang",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Lamang tapai",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Katupek Pitalah",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Katan durian",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Katan sarikayo",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Bubur kampiun",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Bubur kacang padi",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Kolak kundua",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Bubua Cino",
+      "category": "Makanan selingan"
+    },
+    {
+      "name": "Es tebak — Es Tebak adalah es campur Minang yg terdiri dari potongan nangka, kolang kaling, cincau, kelapa muda, tape singkong, dan tebak itu sendiri, yang dibuat dari campuran tepung beras yang dimasak seperti cendol dan dibentuk seperti mi. Disiram dengan kuah santan yang legit, ditambah sirop merah dan susu kental manis dan es serut diatasnya.",
+      "category": "Minuman"
+    },
+    {
+      "name": "Es campua",
+      "category": "Minuman"
+    },
+    {
+      "name": "Teh talua",
+      "category": "Minuman"
+    },
+    {
+      "name": "Teh tarik",
+      "category": "Minuman"
+    },
+    {
+      "name": "Jus pinang",
+      "category": "Minuman"
+    },
+    {
+      "name": "Daun kawa alias kopi daun",
+      "category": "Minuman"
+    },
+    {
+      "name": "Tomat Top",
+      "category": "Minuman"
+    },
+    {
+      "name": "Aia Aka",
+      "category": "Minuman"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Hidangan Khas Sumatera Barat (Minangkabau) - Free Download",
+    "description": "Daftar masakan khas Sumatera Barat/Minangkabau dikelompokkan menurut jenis: makanan utama, makanan selingan, dan lainnya Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Hidangan Khas Sumatera Barat (Minangkabau) | ListBase",
+    "seo_description": "Download Daftar Hidangan Khas Sumatera Barat (Minangkabau) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Masakan_Sumatera_Barat"
+    ]
+  }
+}
