@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-30T02:23:35.771Z",
-  "total_datasets": 595,
-  "total_records": 648759,
+  "generated": "2026-10-30T02:23:43.916Z",
+  "total_datasets": 596,
+  "total_records": 648850,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 134
+      "dataset_count": 135
     },
     {
       "id": "health",
@@ -4790,6 +4790,34 @@
         "xlsx": {
           "name": "id-provinces-population_ID.xlsx",
           "size": 9515
+        }
+      }
+    },
+    {
+      "id": "id-pulau-terluar",
+      "name": "Daftar Pulau-Pulau Kecil Terluar Indonesia",
+      "category": "geography",
+      "record_count": 91,
+      "columns": [
+        "no",
+        "name",
+        "waters",
+        "administrative_area",
+        "nearest_country",
+        "latitude",
+        "longitude"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_pulau_terluar_Indonesia",
+      "updated": "2026-10",
+      "size": 24476,
+      "files": {
+        "csv": {
+          "name": "id-pulau-terluar_ID.csv",
+          "size": 9322
+        },
+        "xlsx": {
+          "name": "id-pulau-terluar_ID.xlsx",
+          "size": 11735
         }
       }
     },

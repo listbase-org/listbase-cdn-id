@@ -1,0 +1,880 @@
+{
+  "id": "id-pulau-terluar",
+  "name": "Daftar Pulau-Pulau Kecil Terluar Indonesia",
+  "title": "Daftar Pulau-Pulau Kecil Terluar Indonesia",
+  "description": "Daftar pulau terluar Indonesia yang menjadi titik dasar perbatasan wilayah, beserta perairan, wilayah administrasi, negara terdekat, dan koordinat",
+  "category": "geography",
+  "source": "https://id.wikipedia.org/wiki/Daftar_pulau_terluar_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_pulau_terluar_Indonesia",
+  "updated": "2026-10",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "waters",
+      "label": "Waters",
+      "type": "string"
+    },
+    {
+      "key": "administrative_area",
+      "label": "Administrative Area",
+      "type": "string"
+    },
+    {
+      "key": "nearest_country",
+      "label": "Nearest Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Alor",
+      "waters": "Selat Ombai",
+      "administrative_area": "Kabupaten Alor, Nusa Tenggara Timur",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.23056,
+      "longitude": 125.13194
+    },
+    {
+      "no": 2,
+      "name": "Ararkula",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -5.595,
+      "longitude": 134.81806
+    },
+    {
+      "no": 3,
+      "name": "Asutubun",
+      "waters": "Laut Timor",
+      "administrative_area": "Kabupaten Kepulauan Tanimbar, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.05194,
+      "longitude": 131.30056
+    },
+    {
+      "no": 4,
+      "name": "Bangkit",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Bolaang Mongondow, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 1.04778,
+      "longitude": 123.1125
+    },
+    {
+      "no": 5,
+      "name": "Barung",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Jember, Jawa Timur",
+      "nearest_country": "Australia",
+      "latitude": -8.50833,
+      "longitude": 113.29361
+    },
+    {
+      "no": 6,
+      "name": "Batarkusu",
+      "waters": "Laut Timor",
+      "administrative_area": "Kabupaten Kepulauan Tanimbar, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.34167,
+      "longitude": 130.82111
+    },
+    {
+      "no": 7,
+      "name": "Batek",
+      "waters": "Laut Sawu",
+      "administrative_area": "Kabupaten Kupang, Nusa Tenggara Timur",
+      "nearest_country": "Timor Leste",
+      "latitude": -9.25833,
+      "longitude": 123.99167
+    },
+    {
+      "no": 8,
+      "name": "Batu Bawaikang",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Sangihe, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.74611,
+      "longitude": 125.49
+    },
+    {
+      "no": 9,
+      "name": "Batu Berhanti",
+      "waters": "Selat Singapura",
+      "administrative_area": "Kota Batam, Kepulauan Riau",
+      "nearest_country": "Singapura",
+      "latitude": 1.185,
+      "longitude": 103.8825
+    },
+    {
+      "no": 10,
+      "name": "Batu Goyang",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -7.95028,
+      "longitude": 134.19389
+    },
+    {
+      "no": 11,
+      "name": "Batu Kecil",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Pesisir Barat, Lampung",
+      "nearest_country": "Australia",
+      "latitude": -5.89583,
+      "longitude": 104.44056
+    },
+    {
+      "no": 12,
+      "name": "Batu Mandi",
+      "waters": "Selat Malaka",
+      "administrative_area": "Kabupaten Bintan, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 2.86944,
+      "longitude": 100.68472
+    },
+    {
+      "no": 13,
+      "name": "Benggala",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Aceh Besar, Aceh",
+      "nearest_country": "India",
+      "latitude": 5.79278,
+      "longitude": 94.9725
+    },
+    {
+      "no": 14,
+      "name": "Bepondi",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Biak Numfor, Papua",
+      "nearest_country": "Palau",
+      "latitude": -0.39389,
+      "longitude": 135.27417
+    },
+    {
+      "no": 15,
+      "name": "Berhala",
+      "waters": "Selat Malaka",
+      "administrative_area": "Kabupaten Deli Serdang, Sumatera Utara",
+      "nearest_country": "Malaysia",
+      "latitude": 3.77722,
+      "longitude": 99.50083
+    },
+    {
+      "no": 16,
+      "name": "Bras",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Biak Numfor, Papua",
+      "nearest_country": "Palau",
+      "latitude": 0.9325,
+      "longitude": 134.34167
+    },
+    {
+      "no": 17,
+      "name": "Budd",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Sorong, Papua Barat Daya",
+      "nearest_country": "Palau",
+      "latitude": 0.53556,
+      "longitude": 130.73111
+    },
+    {
+      "no": 18,
+      "name": "Damar",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 2.74139,
+      "longitude": 105.37944
+    },
+    {
+      "no": 19,
+      "name": "Dana (Dona; Ndana; Pamana)",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Rote Ndao, Nusa Tenggara Timur",
+      "nearest_country": "Australia",
+      "latitude": -11.01,
+      "longitude": 122.87694
+    },
+    {
+      "no": 20,
+      "name": "Dana",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Sabu Raijua, Nusa Tenggara Timur",
+      "nearest_country": "Australia",
+      "latitude": -10.83333,
+      "longitude": 121.2825
+    },
+    {
+      "no": 21,
+      "name": "Deli",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Pandeglang, Banten",
+      "nearest_country": "Australia",
+      "latitude": -7.01667,
+      "longitude": 105.52361
+    },
+    {
+      "no": 22,
+      "name": "Enggano",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Bengkulu Utara, Bengkulu",
+      "nearest_country": "Laut Lepas",
+      "latitude": -5.52028,
+      "longitude": 102.26667
+    },
+    {
+      "no": 23,
+      "name": "Enu",
+      "waters": "Laut Arafuru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -7.10389,
+      "longitude": 134.52194
+    },
+    {
+      "no": 24,
+      "name": "Fani",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Sorong, Papua Barat Daya",
+      "nearest_country": "Palau",
+      "latitude": 1.07444,
+      "longitude": 131.28028
+    },
+    {
+      "no": 25,
+      "name": "Fanildo",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Biak Numfor, Papua",
+      "nearest_country": "Palau",
+      "latitude": 0.93944,
+      "longitude": 134.29556
+    },
+    {
+      "no": 26,
+      "name": "Gosong Makasar",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Nunukan, Kalimantan Utara",
+      "nearest_country": "Malaysia",
+      "latitude": 3.99028,
+      "longitude": 117.96167
+    },
+    {
+      "no": 27,
+      "name": "Intata",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Talaud, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.64389,
+      "longitude": 127.16361
+    },
+    {
+      "no": 28,
+      "name": "Iyu Kecil",
+      "waters": "Selat Malaka",
+      "administrative_area": "Kabupaten Karimun, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 1.19167,
+      "longitude": 103.35222
+    },
+    {
+      "no": 29,
+      "name": "Jiew",
+      "waters": "Laut Halmahera",
+      "administrative_area": "Kabupaten Halmahera Tengah, Maluku Utara",
+      "nearest_country": "Palau",
+      "latitude": 0.7275,
+      "longitude": 129.14167
+    },
+    {
+      "no": 30,
+      "name": "Kakarutan",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Kepulauan Talaud, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.62667,
+      "longitude": 127.16472
+    },
+    {
+      "no": 31,
+      "name": "Karang",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -7.01889,
+      "longitude": 134.69056
+    },
+    {
+      "no": 32,
+      "name": "Karaweira",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -6.0025,
+      "longitude": 134.90722
+    },
+    {
+      "no": 33,
+      "name": "Karimun Kecil",
+      "waters": "Selat Malaka",
+      "administrative_area": "Kabupaten Karimun, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 1.16639,
+      "longitude": 103.38889
+    },
+    {
+      "no": 34,
+      "name": "Kawalusu",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Sangihe, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.235,
+      "longitude": 125.31639
+    },
+    {
+      "no": 35,
+      "name": "Kawio",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Sangihe, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.67111,
+      "longitude": 125.42806
+    },
+    {
+      "no": 36,
+      "name": "Kepala",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 2.645,
+      "longitude": 109.16778
+    },
+    {
+      "no": 37,
+      "name": "Kisar",
+      "waters": "Selat Wetar",
+      "administrative_area": "Kabupaten Maluku Barat Daya, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.10278,
+      "longitude": 127.14333
+    },
+    {
+      "no": 38,
+      "name": "Kolepon",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Merauke, Papua",
+      "nearest_country": "Australia",
+      "latitude": -8.21361,
+      "longitude": 137.69
+    },
+    {
+      "no": 39,
+      "name": "Kultubai Selatan",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -6.83167,
+      "longitude": 134.78722
+    },
+    {
+      "no": 40,
+      "name": "Kultubai Utara",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -6.64722,
+      "longitude": 134.83667
+    },
+    {
+      "no": 41,
+      "name": "Laag",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Asmat, Papua",
+      "nearest_country": "Australia",
+      "latitude": -5.38722,
+      "longitude": 137.71861
+    },
+    {
+      "no": 42,
+      "name": "Larat",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Kepulauan Tanimbar, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -7.24056,
+      "longitude": 131.98028
+    },
+    {
+      "no": 43,
+      "name": "Leti",
+      "waters": "Laut Timor",
+      "administrative_area": "Kabupaten Maluku Barat Daya, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.23889,
+      "longitude": 127.63056
+    },
+    {
+      "no": 44,
+      "name": "Liki",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Sarmi, Papua",
+      "nearest_country": "Papua Nugini",
+      "latitude": -1.57389,
+      "longitude": 138.71583
+    },
+    {
+      "no": 45,
+      "name": "Lingian",
+      "waters": "Selat Makassar",
+      "administrative_area": "Kabupaten Tolitoli, Sulawesi Tengah",
+      "nearest_country": "Malaysia",
+      "latitude": 0.99861,
+      "longitude": 120.21389
+    },
+    {
+      "no": 46,
+      "name": "Liran",
+      "waters": "Selat Wetar",
+      "administrative_area": "Kabupaten Maluku Barat Daya, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.06389,
+      "longitude": 125.73333
+    },
+    {
+      "no": 47,
+      "name": "Makalehi",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Sangihe, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 2.7375,
+      "longitude": 125.15778
+    },
+    {
+      "no": 48,
+      "name": "Mangkai",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 3.09222,
+      "longitude": 105.58333
+    },
+    {
+      "no": 49,
+      "name": "Mangudu",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Sumba Timur, Nusa Tenggara Timur",
+      "nearest_country": "Australia",
+      "latitude": -10.33556,
+      "longitude": 120.09889
+    },
+    {
+      "no": 50,
+      "name": "Manterawu",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Bolaang Mongondow, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 1.76306,
+      "longitude": 124.73083
+    },
+    {
+      "no": 51,
+      "name": "Manuk",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Tasikmalaya, Jawa Barat",
+      "nearest_country": "Australia",
+      "latitude": -7.81972,
+      "longitude": 108.32167
+    },
+    {
+      "no": 52,
+      "name": "Marampit",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Talaud, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.77167,
+      "longitude": 127.14222
+    },
+    {
+      "no": 53,
+      "name": "Maratua",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Berau, Kalimantan Timur",
+      "nearest_country": "Malaysia",
+      "latitude": 2.25333,
+      "longitude": 118.64472
+    },
+    {
+      "no": 54,
+      "name": "Marore",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Sangihe, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 4.73722,
+      "longitude": 125.47833
+    },
+    {
+      "no": 55,
+      "name": "Marsela",
+      "waters": "Laut Timor",
+      "administrative_area": "Kabupaten Maluku Barat Daya, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.22472,
+      "longitude": 129.82556
+    },
+    {
+      "no": 56,
+      "name": "Meatimiarang",
+      "waters": "Laut Timor",
+      "administrative_area": "Kabupaten Maluku Barat Daya, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -8.3525,
+      "longitude": 128.51444
+    },
+    {
+      "no": 57,
+      "name": "Mega",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Bengkulu Utara, Bengkulu",
+      "nearest_country": "Laut Lepas",
+      "latitude": -4.02,
+      "longitude": 101.03028
+    },
+    {
+      "no": 58,
+      "name": "Miangas",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Kepulauan Talaud, Sulawesi Utara",
+      "nearest_country": "Filipina",
+      "latitude": 5.56722,
+      "longitude": 126.58167
+    },
+    {
+      "no": 59,
+      "name": "Miossu",
+      "waters": "Samudra Pasifik",
+      "administrative_area": "Kabupaten Tambrauw, Papua Barat Daya",
+      "nearest_country": "Palau",
+      "latitude": -0.33778,
+      "longitude": 132.15944
+    },
+    {
+      "no": 60,
+      "name": "Nipa",
+      "waters": "Selat Singapura",
+      "administrative_area": "Kota Batam, Kepulauan Riau",
+      "nearest_country": "Singapura",
+      "latitude": 1.15361,
+      "longitude": 103.65306
+    },
+    {
+      "no": 61,
+      "name": "Nongsa",
+      "waters": "Selat Singapura",
+      "administrative_area": "Kota Batam, Kepulauan Riau",
+      "nearest_country": "Singapura",
+      "latitude": 1.20806,
+      "longitude": 104.07972
+    },
+    {
+      "no": 62,
+      "name": "Nusakambangan",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Cilacap, Jawa Tengah",
+      "nearest_country": "Australia",
+      "latitude": -7.78472,
+      "longitude": 109.04278
+    },
+    {
+      "no": 63,
+      "name": "Panambulai",
+      "waters": "Laut Aru",
+      "administrative_area": "Kabupaten Maluku Tenggara, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -6.32389,
+      "longitude": 134.91472
+    },
+    {
+      "no": 64,
+      "name": "Panehan",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Trenggalek, Jawa Timur",
+      "nearest_country": "Australia",
+      "latitude": -8.37139,
+      "longitude": 111.51139
+    },
+    {
+      "no": 65,
+      "name": "Pelampong",
+      "waters": "Selat Singapura",
+      "administrative_area": "Kota Batam, Kepulauan Riau",
+      "nearest_country": "Singapura",
+      "latitude": 1.12889,
+      "longitude": 103.69944
+    },
+    {
+      "no": 66,
+      "name": "Raya",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Aceh Barat, Aceh",
+      "nearest_country": "Laut Lepas",
+      "latitude": 4.87583,
+      "longitude": 95.36278
+    },
+    {
+      "no": 67,
+      "name": "Rondo",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kota Sabang, Aceh",
+      "nearest_country": "India",
+      "latitude": 6.075,
+      "longitude": 95.1125
+    },
+    {
+      "no": 68,
+      "name": "Rusa",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Aceh Besar, Aceh",
+      "nearest_country": "Laut Lepas",
+      "latitude": 5.27611,
+      "longitude": 95.20194
+    },
+    {
+      "no": 69,
+      "name": "Salando",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Tolitoli, Sulawesi Tengah",
+      "nearest_country": "Malaysia",
+      "latitude": 1.33778,
+      "longitude": 120.79194
+    },
+    {
+      "no": 70,
+      "name": "Salaut Besar",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Aceh Utara, Aceh",
+      "nearest_country": "Laut Lepas",
+      "latitude": 2.96417,
+      "longitude": 95.39278
+    },
+    {
+      "no": 71,
+      "name": "Sambit",
+      "waters": "Laut Sulawesi",
+      "administrative_area": "Kabupaten Berau, Kalimantan Timur",
+      "nearest_country": "Malaysia",
+      "latitude": 1.78139,
+      "longitude": 119.04056
+    },
+    {
+      "no": 72,
+      "name": "Sebatik",
+      "waters": "Selat Makassar",
+      "administrative_area": "Kabupaten Nunukan, Kalimantan Utara",
+      "nearest_country": "Malaysia",
+      "latitude": 4.16667,
+      "longitude": 117.9
+    },
+    {
+      "no": 73,
+      "name": "Sebetul",
+      "waters": "Laut Cina Selatan",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Vietnam",
+      "latitude": 4.70694,
+      "longitude": 107.90556
+    },
+    {
+      "no": 74,
+      "name": "Sekatung",
+      "waters": "Laut Cina Selatan",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Vietnam",
+      "latitude": 4.79583,
+      "longitude": 108.02194
+    },
+    {
+      "no": 75,
+      "name": "Sekel",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Trenggalek, Jawa Timur",
+      "nearest_country": "Australia",
+      "latitude": -8.40667,
+      "longitude": 111.70861
+    },
+    {
+      "no": 76,
+      "name": "Selaru",
+      "waters": "Laut Timor",
+      "administrative_area": "Kabupaten Kepulauan Tanimbar, Maluku",
+      "nearest_country": "Australia",
+      "latitude": -8.17139,
+      "longitude": 131.12528
+    },
+    {
+      "no": 77,
+      "name": "Semiun",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 4.51917,
+      "longitude": 107.72139
+    },
+    {
+      "no": 78,
+      "name": "Sentut",
+      "waters": "Selat Singapura",
+      "administrative_area": "Kabupaten Kepulauan Riau, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 1.04778,
+      "longitude": 104.83056
+    },
+    {
+      "no": 79,
+      "name": "Senua",
+      "waters": "Laut Cina Selatan",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 4.01333,
+      "longitude": 108.41778
+    },
+    {
+      "no": 80,
+      "name": "Sibarubaru",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Kepulauan Mentawai, Sumatera Barat",
+      "nearest_country": "Laut Lepas",
+      "latitude": -3.29667,
+      "longitude": 100.32972
+    },
+    {
+      "no": 81,
+      "name": "Simeuleuceut",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Aceh Barat, Aceh",
+      "nearest_country": "Laut Lepas",
+      "latitude": 2.52972,
+      "longitude": 95.91806
+    },
+    {
+      "no": 82,
+      "name": "Simuk",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Nias, Sumatera Utara",
+      "nearest_country": "Laut Lepas",
+      "latitude": -0.0925,
+      "longitude": 97.85389
+    },
+    {
+      "no": 83,
+      "name": "Sinyaunyau",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Kepulauan Mentawai, Sumatera Barat",
+      "nearest_country": "Laut Lepas",
+      "latitude": -1.86611,
+      "longitude": 99.07611
+    },
+    {
+      "no": 84,
+      "name": "Sophialouisa",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Lombok Barat, Nusa Tenggara Barat",
+      "nearest_country": "Australia",
+      "latitude": -8.92222,
+      "longitude": 116.00222
+    },
+    {
+      "no": 85,
+      "name": "Subi Kecil",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 3.03083,
+      "longitude": 108.91444
+    },
+    {
+      "no": 86,
+      "name": "Tokong Belayar",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 3.45111,
+      "longitude": 106.26889
+    },
+    {
+      "no": 87,
+      "name": "Tokong Malang Biru",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 2.3,
+      "longitude": 105.59639
+    },
+    {
+      "no": 88,
+      "name": "Tokong Nanas",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 3.33111,
+      "longitude": 105.95111
+    },
+    {
+      "no": 89,
+      "name": "Tokongboro",
+      "waters": "Laut Natuna",
+      "administrative_area": "Kabupaten Natuna, Kepulauan Riau",
+      "nearest_country": "Malaysia",
+      "latitude": 4.06694,
+      "longitude": 107.43583
+    },
+    {
+      "no": 90,
+      "name": "Wetar",
+      "waters": "Laut Banda",
+      "administrative_area": "Kabupaten Maluku Barat Daya, Maluku",
+      "nearest_country": "Timor Leste",
+      "latitude": -7.94722,
+      "longitude": 126.46944
+    },
+    {
+      "no": 91,
+      "name": "Wunga",
+      "waters": "Samudra Hindia",
+      "administrative_area": "Kabupaten Nias Utara, Sumatra Utara",
+      "nearest_country": "Laut Lepas",
+      "latitude": 1.21306,
+      "longitude": 97.08
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pulau-Pulau Kecil Terluar Indonesia - Free Download",
+    "description": "Daftar pulau terluar Indonesia yang menjadi titik dasar perbatasan wilayah, beserta perairan, wilayah administrasi, negara terdekat, dan koordinat Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Pulau-Pulau Kecil Terluar Indonesia | ListBase",
+    "seo_description": "Download Daftar Pulau-Pulau Kecil Terluar Indonesia — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_pulau_terluar_Indonesia"
+    ]
+  }
+}
