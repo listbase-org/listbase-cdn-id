@@ -1,0 +1,304 @@
+{
+  "id": "id-wabah-epidemi-mematikan",
+  "name": "Daftar Wabah dan Epidemi Paling Mematikan di Indonesia",
+  "title": "Daftar Wabah dan Epidemi Paling Mematikan di Indonesia",
+  "description": "Pandemi, epidemi, dan wabah penyakit paling mematikan dalam sejarah Indonesia beserta perkiraan korban jiwa, tahun, dan lokasi",
+  "category": "health",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "years",
+      "label": "Years",
+      "type": "string"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Flu Spanyol",
+      "type": "Pandemi",
+      "years": "1918–1920",
+      "deaths": "4.370.000",
+      "location": "Seluruh Indonesia",
+      "notes": "Flu Spanyol di Indonesia . Wabah Flu spanyol ini diperkirakan memakan korban sebanyak 1,5 juta orang tewas di Indonesia. Perkiraan terbaru menyatakan bahwa jumlah korban jauh lebih banyak, mencapai 4,26–4,37 juta di Jawa dan Madura saja."
+    },
+    {
+      "name": "Pandemi Covid-19",
+      "type": "Pandemi",
+      "years": "2020–2023",
+      "deaths": "1.000.000 (perkiraan)",
+      "location": "Seluruh Indonesia",
+      "notes": "Pandemi Covid-19 di Indonesia . Per tanggal 5 Februari 2023 pukul 18:00 WIB (UTC+7), Pandemi ini diperkirakan telah menyebabkan setidaknya 1 juta korban jiwa di Indonesia. Jumlah kematian mungkin jauh lebih tinggi daripada yang dilaporkan karena mereka yang meninggal dengan gejala COVID-19 akut tetapi belum terkonfirmasi atau dites tidak dihitung dalam angka kematian resmi."
+    },
+    {
+      "name": "Gempa bumi dan tsunami Samudra Hindia 2004",
+      "type": "Gempa bumi, tsunami",
+      "years": "2004",
+      "deaths": "167.799",
+      "location": "Sumatra , Aceh",
+      "notes": "Bencana alam terfatal di Indonesia. Setidaknya 167.799 korban jiwa terkonfirmasi, termasuk 60.000 korban tewas di Banda Aceh saja. Total korban tewas mencapai 227.898, sekitar 14 negara terkena dampaknya."
+    },
+    {
+      "name": "Letusan Tambora 1815",
+      "type": "Letusan gunung api",
+      "years": "1815",
+      "deaths": "105.000",
+      "location": "Sumbawa , Kepulauan Nusa Tenggara",
+      "notes": "10.000 hingga 11.000 korban jiwa akibat dampak langsung gunung berapi; 49.000 hingga 105.000 korban jiwa akibat kelaparan pasca letusan dan penyakit epidemi di Sumbawa , Lombok dan Bali ; penurunan suhu global pada tahun berikutnya yang menyebabkan kelaparan di berbagai wilayah."
+    },
+    {
+      "name": "Epidemi HIV/AIDS",
+      "type": "Epidemi",
+      "years": "1987–Hingga saat ini",
+      "deaths": "> 40.000–60.000 (perkiraan)",
+      "location": "Seluruh Indonesia",
+      "notes": "HIV/AIDS di Indonesia . Pada tahun 2010, diperkirakan 5 juta orang Indonesia mengidap HIV/AIDS . Berdasarkan sensus yang dilakukan pada tahun 2019, tercatat ada 640.443 orang di Indonesia yang hidup dengan HIV. Perkiraan korban jiwa akibat Epidemi ini mencapai 40.000 hingga 60.000"
+    },
+    {
+      "name": "Letusan Krakatau 1883",
+      "type": "Letusan gunung api, tsunami",
+      "years": "1883",
+      "deaths": "36.417",
+      "location": "Banten , Lampung , Jakarta",
+      "notes": "Bencana gunung berapi paling mematikan kedua dalam sejarah Indonesia."
+    },
+    {
+      "name": "Gempa bumi Bali 1815",
+      "type": "Gempa bumi, tsunami, tanah longsor",
+      "years": "1815",
+      "deaths": "11.453",
+      "location": "Bali",
+      "notes": "Lebih dari 10.000 orang tewas akibat tanah longsor di Singaraja dan Buleleng yang dipicu oleh gempa bumi."
+    },
+    {
+      "name": "Letusan Gunung Kelud 1586",
+      "type": "Letusan gunung api",
+      "years": "1586",
+      "deaths": "10.000",
+      "location": "Jawa Timur",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Yogyakarta 2006",
+      "type": "Gempa bumi",
+      "years": "2006",
+      "deaths": "6.234",
+      "location": "Daerah Istimewa Yogyakarta , Jawa Tengah",
+      "notes": "Perkiraan korban tewas antara 5.778 hingga 6.234. Sekitar 80% bangunan di Kabupaten Bantul dan Kabupaten Klaten hampir hancur total."
+    },
+    {
+      "name": "Letusan Gunung Kelud 1919",
+      "type": "Letusan gunung api",
+      "years": "1919",
+      "deaths": "5.160",
+      "location": "Jawa Timur",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Irian Jaya 1976",
+      "type": "Gempa bumi, tanah longsor",
+      "years": "1976",
+      "deaths": "5.000",
+      "location": "Papua",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi dan tsunami Sulawesi 2018",
+      "type": "Gempa bumi, tsunami, pencairan tanah",
+      "years": "2018",
+      "deaths": "4.340",
+      "location": "Sulawesi Tengah",
+      "notes": ""
+    },
+    {
+      "name": "Letusan Gunung Galunggung 1822",
+      "type": "Letusan gunung api",
+      "years": "1822",
+      "deaths": "4.011",
+      "location": "Jawa Barat",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Pulau Seram 1899",
+      "type": "Gempa bumi, tsunami",
+      "years": "1899",
+      "deaths": "3.389",
+      "location": "Pulau Seram",
+      "notes": ""
+    },
+    {
+      "name": "Letusan Gunung Papandayan 1772",
+      "type": "Letusan gunung api",
+      "years": "1772",
+      "deaths": "2.957",
+      "location": "Jawa Barat",
+      "notes": ""
+    },
+    {
+      "name": "Letusan Gunung Awu 1852",
+      "type": "Letusan gunung api",
+      "years": "1852",
+      "deaths": "2.806",
+      "location": "Sulawesi Utara",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi dan tsunami Flores 1992",
+      "type": "Gempa bumi, tsunami",
+      "years": "1992",
+      "deaths": "2.500",
+      "location": "Flores , Nusa Tenggara Timur",
+      "notes": "Setidaknya 2.500 orang tewas atau hilang di wilayah Flores , termasuk 1.490 tewas di Maumere dan 700 di Pulau Babi ."
+    },
+    {
+      "name": "Gempa bumi dan megatsunami Ambon 1674",
+      "type": "Gempa bumi, tsunami",
+      "years": "1674",
+      "deaths": "2.347",
+      "location": "Maluku",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Sumatra 1907",
+      "type": "Gempa bumi, tsunami",
+      "years": "1907",
+      "deaths": "2.118",
+      "location": "Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Sumatra 1861",
+      "type": "Gempa bumi, tsunami",
+      "years": "1861",
+      "deaths": "2.000",
+      "location": "Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "name": "Siklon Flores 1973",
+      "type": "Siklon tropis",
+      "years": "1973",
+      "deaths": "1.653",
+      "location": "Flores , Nusa Tenggara Timur",
+      "notes": "Lebih dari 1.500 nelayan tewas di Pulau Palue ."
+    },
+    {
+      "name": "Letusan Gunung Agung 1963",
+      "type": "Letusan gunung api",
+      "years": "1963",
+      "deaths": "1.549",
+      "location": "Bali",
+      "notes": ""
+    },
+    {
+      "name": "Letusan Gunung Awu 1892",
+      "type": "Letusan gunung api",
+      "years": "1892",
+      "deaths": "1.532",
+      "location": "Sulawesi Utara",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Bali 1917",
+      "type": "Gempa bumi",
+      "years": "1917",
+      "deaths": "1.500",
+      "location": "Bali",
+      "notes": ""
+    },
+    {
+      "name": "Letusan Merapi 1930",
+      "type": "Letusan gunung api",
+      "years": "1930",
+      "deaths": "1.369",
+      "location": "Daerah Istimewa Yogyakarta , Jawa Tengah",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Sumatra 2005",
+      "type": "Gempa bumi",
+      "years": "2005",
+      "deaths": "1.314",
+      "location": "Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "name": "Kerusuhan Mei 1998",
+      "type": "Kerusuhan",
+      "years": "1998",
+      "deaths": "1.308",
+      "location": "Jakarta , Surabaya , Surakarta , Medan",
+      "notes": "1.308 korban tewas akibat kerusuhan, termasuk Pembakaran Plaza Sentral Klender memakan lebih dari 400 korban jiwa."
+    },
+    {
+      "name": "Banjir dan longsor Sumatra 2025 akibat Siklon Senyar",
+      "type": "Siklon tropis, banjir dan longsor",
+      "years": "2025",
+      "deaths": "1.200",
+      "location": "Aceh , Sumatera Utara , Sumatera Barat",
+      "notes": ""
+    },
+    {
+      "name": "Kerusuhan Sambas",
+      "type": "Kerusuhan antar etnis",
+      "years": "1999",
+      "deaths": "1.189",
+      "location": "Kabupaten Sambas , Kalimantan Barat",
+      "notes": ""
+    },
+    {
+      "name": "Gempa bumi Sumatra Barat 2009",
+      "type": "Gempa bumi",
+      "years": "2009",
+      "deaths": "1.117",
+      "location": "Sumatera Barat",
+      "notes": ""
+    },
+    {
+      "name": "Konflik Sampit",
+      "type": "Kerusuhan antar etnis",
+      "years": "2001",
+      "deaths": "1.000",
+      "location": "Kalimantan Tengah , Kalimantan Timur , Kalimantan Selatan , Kalimantan Barat",
+      "notes": "1.000 warga Madura tewas, dan 188 warga Dayak tewas akibat kerusuhan antar-etnis."
+    }
+  ],
+  "meta": {
+    "title": "Daftar Wabah dan Epidemi Paling Mematikan di Indonesia - Free Download",
+    "description": "Pandemi, epidemi, dan wabah penyakit paling mematikan dalam sejarah Indonesia beserta perkiraan korban jiwa, tahun, dan lokasi Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Wabah dan Epidemi Paling Mematikan di Indonesia | ListBase",
+    "seo_description": "Download Daftar Wabah dan Epidemi Paling Mematikan di Indonesia — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia"
+    ]
+  }
+}

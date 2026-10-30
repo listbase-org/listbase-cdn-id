@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-30T02:23:43.916Z",
-  "total_datasets": 596,
-  "total_records": 648850,
+  "generated": "2026-10-30T02:23:51.713Z",
+  "total_datasets": 597,
+  "total_records": 648881,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -6073,6 +6073,33 @@
         "xlsx": {
           "name": "id-upt-kesehatan-lanjutan-kemenkes_ID.xlsx",
           "size": 8370
+        }
+      }
+    },
+    {
+      "id": "id-wabah-epidemi-mematikan",
+      "name": "Daftar Wabah dan Epidemi Paling Mematikan di Indonesia",
+      "category": "health",
+      "record_count": 31,
+      "columns": [
+        "name",
+        "type",
+        "years",
+        "deaths",
+        "location",
+        "notes"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia",
+      "updated": "2026-10",
+      "size": 10206,
+      "files": {
+        "csv": {
+          "name": "id-wabah-epidemi-mematikan_ID.csv",
+          "size": 4959
+        },
+        "xlsx": {
+          "name": "id-wabah-epidemi-mematikan_ID.xlsx",
+          "size": 9423
         }
       }
     },
