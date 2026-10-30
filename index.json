@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-10-30T02:23:51.713Z",
-  "total_datasets": 597,
-  "total_records": 648881,
+  "generated": "2026-10-30T02:23:58.968Z",
+  "total_datasets": 598,
+  "total_records": 648892,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -106,6 +106,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "id-harga-beras-historis",
+      "name": "Harga Rata-Rata Beras di Indonesia dari Masa ke Masa",
+      "category": "agriculture",
+      "record_count": 11,
+      "columns": [
+        "year",
+        "avg_price_per_sack_50kg",
+        "notes"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Produksi_beras_di_Indonesia",
+      "updated": "2026-10",
+      "size": 3038,
+      "files": {
+        "csv": {
+          "name": "id-harga-beras-historis_ID.csv",
+          "size": 680
+        },
+        "xlsx": {
+          "name": "id-harga-beras-historis_ID.xlsx",
+          "size": 7128
+        }
+      }
+    },
     {
       "id": "id-menteri-kehutanan",
       "name": "Daftar Menteri Kehutanan Indonesia",

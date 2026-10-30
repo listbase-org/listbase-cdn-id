@@ -1,0 +1,96 @@
+{
+  "id": "id-harga-beras-historis",
+  "name": "Harga Rata-Rata Beras di Indonesia dari Masa ke Masa",
+  "title": "Harga Rata-Rata Beras di Indonesia dari Masa ke Masa",
+  "description": "Perkembangan harga rata-rata beras per sak (50 kg) di Indonesia sejak 1945 beserta keterangan dan sumbernya",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Produksi_beras_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Produksi_beras_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "avg_price_per_sack_50kg",
+      "label": "Avg Price Per Sack 50kg",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1945,
+      "avg_price_per_sack_50kg": "Rp 50",
+      "notes": "Sekitar Rp1/ kg , awal kemerdekaan"
+    },
+    {
+      "year": 1965,
+      "avg_price_per_sack_50kg": "Rp 125.000",
+      "notes": "Sekitar Rp2.500/kg, masa inflasi tinggi"
+    },
+    {
+      "year": 1970,
+      "avg_price_per_sack_50kg": "Rp 17.000",
+      "notes": "Sekitar Rp340/kg, Orde Baru awal"
+    },
+    {
+      "year": 1980,
+      "avg_price_per_sack_50kg": "Rp 25.000",
+      "notes": "Estimasi, harga stabil Orde Baru"
+    },
+    {
+      "year": 1990,
+      "avg_price_per_sack_50kg": "Rp 50.000",
+      "notes": "Estimasi, harga stabil Orde Baru"
+    },
+    {
+      "year": 1998,
+      "avg_price_per_sack_50kg": "Rp 140.000",
+      "notes": "Sekitar Rp2.800–3.400/kg, krisis moneter"
+    },
+    {
+      "year": 2000,
+      "avg_price_per_sack_50kg": "Rp 100.000",
+      "notes": "Sekitar Rp2.000/kg, pasca-krisis"
+    },
+    {
+      "year": 2010,
+      "avg_price_per_sack_50kg": "Rp 250.000",
+      "notes": "Sekitar Rp5.000/kg, data BPS"
+    },
+    {
+      "year": 2020,
+      "avg_price_per_sack_50kg": "Rp 600.000",
+      "notes": "Sekitar Rp12.000/kg, data BPS"
+    },
+    {
+      "year": 2024,
+      "avg_price_per_sack_50kg": "Rp 900.000",
+      "notes": "Sekitar Rp18.000/kg, rekor tertinggi"
+    },
+    {
+      "year": 2025,
+      "avg_price_per_sack_50kg": "Rp 690.000",
+      "notes": "Sekitar Rp13.800–Rp14.000/kg, harga rata-rata nasional"
+    }
+  ],
+  "meta": {
+    "title": "Harga Rata-Rata Beras di Indonesia dari Masa ke Masa - Free Download",
+    "description": "Perkembangan harga rata-rata beras per sak (50 kg) di Indonesia sejak 1945 beserta keterangan dan sumbernya Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Harga Rata-Rata Beras di Indonesia dari Masa ke Masa | ListBase",
+    "seo_description": "Download Harga Rata-Rata Beras di Indonesia dari Masa ke Masa — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Produksi_beras_di_Indonesia"
+    ]
+  }
+}
