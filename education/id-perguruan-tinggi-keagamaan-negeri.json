@@ -1,0 +1,745 @@
+{
+  "id": "id-perguruan-tinggi-keagamaan-negeri",
+  "name": "Daftar Perguruan Tinggi Keagamaan Negeri (PTKN) di Indonesia",
+  "title": "Daftar Perguruan Tinggi Keagamaan Negeri (PTKN) di Indonesia",
+  "description": "Daftar UIN, IAIN, STAIN dan perguruan tinggi keagamaan negeri Kristen, Katolik, Hindu, Buddha, dan Khonghucu beserta kode PT, singkatan, tanggal berdiri, lokasi, dan akreditasi",
+  "category": "education",
+  "source": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_keagamaan_negeri_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_keagamaan_negeri_di_Indonesia",
+  "updated": "2026-10",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "kode_pt",
+      "label": "Kode Pt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "accreditation",
+      "label": "Accreditation",
+      "type": "string"
+    },
+    {
+      "key": "religion_group",
+      "label": "Religion Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_pt": "201001",
+      "name": "Universitas Islam Negeri Syarif Hidayatullah",
+      "abbreviation": "UIN Jakarta",
+      "founded": "1 Juni 1957",
+      "province": "DKI Jakarta",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201002",
+      "name": "Universitas Islam Negeri Sunan Kalijaga",
+      "abbreviation": "UIN Suka",
+      "founded": "26 September 1951",
+      "province": "Daerah Istimewa Yogyakarta",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201003",
+      "name": "Universitas Islam Negeri Maulana Malik Ibrahim",
+      "abbreviation": "UIN Malang",
+      "founded": "21 Juli 1965",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201004",
+      "name": "Universitas Islam Negeri Sunan Gunung Djati",
+      "abbreviation": "UIN Bandung",
+      "founded": "8 April 1968",
+      "province": "Jawa Barat",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201005",
+      "name": "Universitas Islam Negeri Sultan Syarif Kasim",
+      "abbreviation": "UIN Suska",
+      "founded": "19 September 1970",
+      "province": "Riau",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201006",
+      "name": "Universitas Islam Negeri Alauddin",
+      "abbreviation": "UIN Alauddin",
+      "founded": "17 Oktober 1962",
+      "province": "Sulawesi Selatan",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201007",
+      "name": "Universitas Islam Negeri Sunan Ampel",
+      "abbreviation": "UINSA",
+      "founded": "5 Juli 1965",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201008",
+      "name": "Universitas Islam Negeri Sumatera Utara",
+      "abbreviation": "UINSU",
+      "founded": "19 November 1973",
+      "province": "Sumatera Utara",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201009",
+      "name": "Universitas Islam Negeri Raden Fatah",
+      "abbreviation": "UIN Palembang",
+      "founded": "13 November 1964",
+      "province": "Sumatera Selatan",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201010",
+      "name": "Universitas Islam Negeri Walisongo",
+      "abbreviation": "UIN Walisongo",
+      "founded": "6 April 1970",
+      "province": "Jawa Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201011",
+      "name": "Universitas Islam Negeri Ar-Raniry",
+      "abbreviation": "UINAR",
+      "founded": "5 Oktober 1963",
+      "province": "Aceh",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201012",
+      "name": "Universitas Islam Negeri Sultan Maulana Hasanuddin",
+      "abbreviation": "UIN Banten",
+      "founded": "1 Juni 1961",
+      "province": "Banten",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201013",
+      "name": "Universitas Islam Negeri Imam Bonjol",
+      "abbreviation": "UINIB",
+      "founded": "29 November 1966",
+      "province": "Sumatera Barat",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201014",
+      "name": "Universitas Islam Negeri Raden Intan",
+      "abbreviation": "UINRIL",
+      "founded": "26 Oktober 1968",
+      "province": "Lampung",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201015",
+      "name": "Universitas Islam Negeri Mataram",
+      "abbreviation": "UIN Mataram",
+      "founded": "24 Oktober 1966",
+      "province": "Nusa Tenggara Barat",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201016",
+      "name": "Universitas Islam Negeri Sultan Thaha Saifuddin",
+      "abbreviation": "UINSTS",
+      "founded": "8 September 1967",
+      "province": "Jambi",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201017",
+      "name": "Universitas Islam Negeri Antasari",
+      "abbreviation": "UIN Antasari",
+      "founded": "20 November 1964",
+      "province": "Kalimantan Selatan",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201018",
+      "name": "Universitas Islam Internasional Indonesia",
+      "abbreviation": "UIII",
+      "founded": "29 Juni 2016",
+      "province": "Jawa Barat",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201019",
+      "name": "Universitas Islam Negeri Sayyid Ali Rahmatullah",
+      "abbreviation": "UIN Satu",
+      "founded": "11 Mei 2021",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201020",
+      "name": "Universitas Islam Negeri Profesor Kiai Haji Saifuddin Zuhri",
+      "abbreviation": "UIN Saizu",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201021",
+      "name": "Universitas Islam Negeri Raden Mas Said",
+      "abbreviation": "UIN Surakarta",
+      "founded": "12 September 1992",
+      "province": "Jawa Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201022",
+      "name": "Universitas Islam Negeri Sultan Aji Muhammad Idris",
+      "abbreviation": "UINSI",
+      "founded": "21 Maret 1997",
+      "province": "Kalimantan Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201023",
+      "name": "Universitas Islam Negeri Kiai Haji Achmad Siddiq",
+      "abbreviation": "UIN KHAS",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201024",
+      "name": "Universitas Islam Negeri Fatmawati Sukarno",
+      "abbreviation": "UINFAS",
+      "founded": "21 Maret 1997",
+      "province": "Bengkulu",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201025",
+      "name": "Universitas Islam Negeri Datokarama",
+      "abbreviation": "UIN Datokarama",
+      "founded": "21 Maret 1997",
+      "province": "Sulawesi Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201026",
+      "name": "Universitas Islam Negeri Mahmud Yunus",
+      "abbreviation": "UIN Mahmud Yunus",
+      "founded": "21 Maret 1997",
+      "province": "Sumatera Barat",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201027",
+      "name": "Universitas Islam Negeri Sjech M. Djamil Djambek",
+      "abbreviation": "UIN Sjech M. Djamil Djambek",
+      "founded": "21 Maret 1997",
+      "province": "Sumatera Barat",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201028",
+      "name": "Universitas Islam Negeri K.H. Abdurrahman Wahid",
+      "abbreviation": "UIN K.H. Abdurrahman Wahid",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201029",
+      "name": "Universitas Islam Negeri Syekh Ali Hasan Ahmad Addary",
+      "abbreviation": "UIN Syahda",
+      "founded": "21 Maret 1997",
+      "province": "Sumatera Utara",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201030",
+      "name": "Universitas Islam Negeri Salatiga",
+      "abbreviation": "UIN Salatiga",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201031",
+      "name": "Universitas Islam Negeri Siber Syekh Nurjati",
+      "abbreviation": "UINSSC",
+      "founded": "12 Agustus 1965",
+      "province": "Jawa Barat",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201032",
+      "name": "Universitas Islam Negeri Kiai Ageng Muhammad Besari",
+      "abbreviation": "UIN Kiai Ageng Muhammad Besari",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201033",
+      "name": "Universitas Islam Negeri Jurai Siwo",
+      "abbreviation": "UIN Jurai Siwo",
+      "founded": "21 Maret 1997",
+      "province": "Lampung",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201034",
+      "name": "Universitas Islam Negeri Palangka Raya",
+      "abbreviation": "UIN Palangka Raya",
+      "founded": "21 Maret 1997",
+      "province": "Kalimantan Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201035",
+      "name": "Universitas Islam Negeri Syekh Wasil",
+      "abbreviation": "UIN Syekh Wasil",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201036",
+      "name": "Universitas Islam Negeri Madura",
+      "abbreviation": "UIN Madura",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Timur",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201037",
+      "name": "Universitas Islam Negeri Sultanah Nahrasiyah",
+      "abbreviation": "UIN Suna",
+      "founded": "1 Agustus 2016",
+      "province": "Aceh",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201038",
+      "name": "Universitas Islam Negeri Abdoel Moethalib Sangadji",
+      "abbreviation": "UIN Abdoel Moethalib Sangadji",
+      "founded": "29 Agustus 1988",
+      "province": "Maluku",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201039",
+      "name": "Universitas Islam Negeri Palopo",
+      "abbreviation": "UIN Palopo",
+      "founded": "21 Maret 1997",
+      "province": "Sulawesi Selatan",
+      "accreditation": "B",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201040",
+      "name": "Universitas Islam Negeri Sunan Kudus",
+      "abbreviation": "UIN Sunan Kudus",
+      "founded": "21 Maret 1997",
+      "province": "Jawa Tengah",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201041",
+      "name": "Universitas Islam Negeri Kendari",
+      "abbreviation": "UIN Kendari",
+      "founded": "21 Maret 1997",
+      "province": "Sulawesi Tenggara",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "201042",
+      "name": "Universitas Islam Negeri Sultan Amai Gorontalo",
+      "abbreviation": "UIN Smart",
+      "founded": "4 Januari 1969",
+      "province": "Gorontalo",
+      "accreditation": "Unggul",
+      "religion_group": "Universitas Islam Negeri (UIN)"
+    },
+    {
+      "kode_pt": "202020",
+      "name": "Institut Agama Islam Negeri Manado",
+      "abbreviation": "IAIN Manado",
+      "founded": "30 Juni 1997",
+      "province": "Sulawesi Utara",
+      "accreditation": "Unggul",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202024",
+      "name": "Institut Agama Islam Negeri Ternate",
+      "abbreviation": "IAIN Ternate",
+      "founded": "21 Maret 1997",
+      "province": "Maluku Utara",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202025",
+      "name": "Institut Agama Islam Negeri Zawiyah Cot Kala Langsa",
+      "abbreviation": "IAIN Langsa",
+      "founded": "14 Oktober 1980",
+      "province": "Aceh",
+      "accreditation": "B",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202030",
+      "name": "Institut Agama Islam Negeri Pontianak",
+      "abbreviation": "IAIN Pontianak",
+      "founded": "21 Maret 1997",
+      "province": "Kalimantan Barat",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202036",
+      "name": "Institut Agama Islam Negeri Kerinci",
+      "abbreviation": "IAIN Kerinci",
+      "founded": "21 Maret 1997",
+      "province": "Jambi",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202038",
+      "name": "Institut Agama Islam Negeri Parepare",
+      "abbreviation": "IAIN Parepare",
+      "founded": "21 Maret 1997",
+      "province": "Sulawesi Selatan",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202039",
+      "name": "Institut Agama Islam Negeri Curup",
+      "abbreviation": "IAIN Curup",
+      "founded": "19 September 1997",
+      "province": "Bengkulu",
+      "accreditation": "B",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202040",
+      "name": "Institut Agama Islam Negeri Fattahul Muluk",
+      "abbreviation": "IAIN Jayapura",
+      "founded": "20 Juli 2006",
+      "province": "Papua",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202043",
+      "name": "Institut Agama Islam Negeri Syaikh Abdurrahman Siddik",
+      "abbreviation": "IAIN Babel",
+      "founded": "21 Maret 1997",
+      "province": "Kepulauan Bangka Belitung",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202044",
+      "name": "Institut Agama Islam Negeri Bone",
+      "abbreviation": "IAIN Bone",
+      "founded": "21 Maret 1997",
+      "province": "Sulawesi Selatan",
+      "accreditation": "B",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202046",
+      "name": "Institut Agama Islam Negeri Sorong",
+      "abbreviation": "IAIN Sorong",
+      "founded": "21 Maret 1997",
+      "province": "Papua Barat Daya",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202047",
+      "name": "Institut Agama Islam Negeri Takengon",
+      "abbreviation": "IAIN Takengon",
+      "founded": "18 September 2007",
+      "province": "Aceh",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "202048",
+      "name": "Institut Agama Islam Negeri Datuk Laksemana",
+      "abbreviation": "IAIN Bengkalis",
+      "founded": "19 September 2014",
+      "province": "Riau",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Islam Negeri (IAIN)"
+    },
+    {
+      "kode_pt": "203034",
+      "name": "Sekolah Tinggi Agama Islam Negeri Teungku Dirundeng",
+      "abbreviation": "STAIN Meulaboh",
+      "founded": "19 September 2014",
+      "province": "Aceh",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Sekolah Tinggi Agama Islam Negeri (STAIN)"
+    },
+    {
+      "kode_pt": "203036",
+      "name": "Sekolah Tinggi Agama Islam Negeri Majene",
+      "abbreviation": "STAIN Majene",
+      "founded": "12 November 2016",
+      "province": "Sulawesi Barat",
+      "accreditation": "Baik",
+      "religion_group": "Sekolah Tinggi Agama Islam Negeri (STAIN)"
+    },
+    {
+      "kode_pt": "203037",
+      "name": "Sekolah Tinggi Agama Islam Negeri Mandailing Natal",
+      "abbreviation": "STAIN Madina",
+      "founded": "12 April 2018",
+      "province": "Sumatera Utara",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Sekolah Tinggi Agama Islam Negeri (STAIN)"
+    },
+    {
+      "kode_pt": "203038",
+      "name": "Sekolah Tinggi Agama Islam Negeri Sultan Abdurrahman",
+      "abbreviation": "STAIN Kepri",
+      "founded": "20 Juli 2010",
+      "province": "Kepulauan Riau",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Sekolah Tinggi Agama Islam Negeri (STAIN)"
+    },
+    {
+      "kode_pt": "222001",
+      "name": "Institut Agama Kristen Negeri Tarutung",
+      "abbreviation": "IAKN Tarutung",
+      "founded": "1 Maret 2018",
+      "province": "Sumatera Utara",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Kristen Negeri (IAKN)"
+    },
+    {
+      "kode_pt": "222002",
+      "name": "Institut Agama Kristen Negeri Manado",
+      "abbreviation": "IAKN Manado",
+      "founded": "1 Maret 2018",
+      "province": "Sulawesi Utara",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Kristen Negeri (IAKN)"
+    },
+    {
+      "kode_pt": "222003",
+      "name": "Institut Agama Kristen Negeri Ambon",
+      "abbreviation": "IAKN Ambon",
+      "founded": "1 Maret 2018",
+      "province": "Maluku",
+      "accreditation": "B",
+      "religion_group": "Institut Agama Kristen Negeri (IAKN)"
+    },
+    {
+      "kode_pt": "222004",
+      "name": "Institut Agama Kristen Negeri Toraja",
+      "abbreviation": "IAKN Toraja",
+      "founded": "23 Januari 2020",
+      "province": "Sulawesi Selatan",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Kristen Negeri (IAKN)"
+    },
+    {
+      "kode_pt": "222005",
+      "name": "Institut Agama Kristen Negeri Kupang",
+      "abbreviation": "IAKN Kupang",
+      "founded": "23 Januari 2020",
+      "province": "Nusa Tenggara Timur",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Kristen Negeri (IAKN)"
+    },
+    {
+      "kode_pt": "222006",
+      "name": "Institut Agama Kristen Negeri Palangka Raya",
+      "abbreviation": "IAKN Palangka Raya",
+      "founded": "23 Januari 2020",
+      "province": "Kalimantan Tengah",
+      "accreditation": "Tidak Terakreditasi",
+      "religion_group": "Institut Agama Kristen Negeri (IAKN)"
+    },
+    {
+      "kode_pt": "223006",
+      "name": "Sekolah Tinggi Agama Kristen Protestan Negeri Sentani",
+      "abbreviation": "STAKPN Sentani",
+      "founded": "10 April 2001",
+      "province": "Papua",
+      "accreditation": "Baik",
+      "religion_group": "Sekolah Tinggi Agama Kristen Protestan Negeri (STAKPN)"
+    },
+    {
+      "kode_pt": "223",
+      "name": "Sekolah Tinggi Agama Kristen Negeri Mesias Sorong",
+      "abbreviation": "STAKN Mesias Sorong",
+      "founded": "",
+      "province": "Papua Barat Daya",
+      "accreditation": "",
+      "religion_group": "Sekolah Tinggi Agama Kristen Protestan Negeri (STAKPN)"
+    },
+    {
+      "kode_pt": "241001",
+      "name": "Universitas Hindu Negeri I Gusti Bagus Sugriwa",
+      "abbreviation": "UHN Sugriwa",
+      "founded": "23 Januari 2020",
+      "province": "Bali",
+      "accreditation": "Baik Sekali",
+      "religion_group": "Universitas Hindu Negeri (UHN)"
+    },
+    {
+      "kode_pt": "242002",
+      "name": "Institut Agama Hindu Negeri Tampung Penyang",
+      "abbreviation": "IAHN TP",
+      "founded": "6 September 1986",
+      "province": "Kalimantan Tengah",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Hindu Negeri (IAHN)"
+    },
+    {
+      "kode_pt": "242003",
+      "name": "Institut Agama Hindu Negeri Gde Pudja",
+      "abbreviation": "IAHN Gde Pudja",
+      "founded": "11 Juli 2001",
+      "province": "Nusa Tenggara Barat",
+      "accreditation": "Baik",
+      "religion_group": "Institut Agama Hindu Negeri (IAHN)"
+    },
+    {
+      "kode_pt": "242004",
+      "name": "Institut Agama Hindu Negeri Mpu Kuturan",
+      "abbreviation": "IAHN Mpu Kuturan",
+      "founded": "21 Maret 2016",
+      "province": "Bali",
+      "accreditation": "",
+      "religion_group": "Institut Agama Hindu Negeri (IAHN)"
+    },
+    {
+      "kode_pt": "243010",
+      "name": "Sekolah Tinggi Agama Hindu Negeri Jawa Dwipa",
+      "abbreviation": "STAHN Jawa Dwipa",
+      "founded": "9 Juli 2024",
+      "province": "Jawa Tengah",
+      "accreditation": "",
+      "religion_group": "Sekolah Tinggi Agama Hindu Negeri (STAHN)"
+    },
+    {
+      "kode_pt": "263001",
+      "name": "Sekolah Tinggi Agama Katolik Negeri Pontianak",
+      "abbreviation": "STAKATN Pontianak",
+      "founded": "6 April 2017",
+      "province": "Kalimantan Barat",
+      "accreditation": "Baik",
+      "religion_group": "Sekolah Tinggi Agama Katolik Negeri (STAKATN)"
+    },
+    {
+      "kode_pt": "283001",
+      "name": "Institut Agama Buddha Negeri Sriwijaya",
+      "abbreviation": "IABN Sriwijaya",
+      "founded": "20 Mei 2002",
+      "province": "Banten",
+      "accreditation": "B",
+      "religion_group": "Sekolah Tinggi Agama Buddha Negeri (STABN)"
+    },
+    {
+      "kode_pt": "283002",
+      "name": "Sekolah Tinggi Agama Buddha Negeri Raden Wijaya",
+      "abbreviation": "STABN Raden Wijaya",
+      "founded": "25 Januari 2007",
+      "province": "Jawa Tengah",
+      "accreditation": "B",
+      "religion_group": "Sekolah Tinggi Agama Buddha Negeri (STABN)"
+    },
+    {
+      "kode_pt": "703001",
+      "name": "Sekolah Tinggi Agama Khonghucu Indonesia Negeri Bangka Belitung",
+      "abbreviation": "SETIAKIN Bangka Belitung",
+      "founded": "18 November 2025",
+      "province": "Kepulauan Bangka Belitung",
+      "accreditation": "",
+      "religion_group": "Sekolah Tinggi Agama Khonghucu Indonesia Negeri (SETIAKIN)"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Perguruan Tinggi Keagamaan Negeri (PTKN) di Indonesia - Free Download",
+    "description": "Daftar UIN, IAIN, STAIN dan perguruan tinggi keagamaan negeri Kristen, Katolik, Hindu, Buddha, dan Khonghucu beserta kode PT, singkatan, tanggal berdiri, lokasi, dan akreditasi Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Perguruan Tinggi Keagamaan Negeri (PTKN) di Indonesia | ListBase",
+    "seo_description": "Download Daftar Perguruan Tinggi Keagamaan Negeri (PTKN) di Indonesia — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_keagamaan_negeri_di_Indonesia"
+    ]
+  }
+}

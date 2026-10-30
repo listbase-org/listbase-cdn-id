@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-29T02:13:41.414Z",
-  "total_datasets": 594,
-  "total_records": 648683,
+  "generated": "2026-10-30T02:23:35.771Z",
+  "total_datasets": 595,
+  "total_records": 648759,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -700,6 +700,34 @@
         "xlsx": {
           "name": "id-menteri-pendidikan-tinggi_ID.xlsx",
           "size": 7514
+        }
+      }
+    },
+    {
+      "id": "id-perguruan-tinggi-keagamaan-negeri",
+      "name": "Daftar Perguruan Tinggi Keagamaan Negeri (PTKN) di Indonesia",
+      "category": "education",
+      "record_count": 76,
+      "columns": [
+        "kode_pt",
+        "name",
+        "abbreviation",
+        "founded",
+        "province",
+        "accreditation",
+        "religion_group"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_keagamaan_negeri_di_Indonesia",
+      "updated": "2026-10",
+      "size": 24952,
+      "files": {
+        "csv": {
+          "name": "id-perguruan-tinggi-keagamaan-negeri_ID.csv",
+          "size": 11139
+        },
+        "xlsx": {
+          "name": "id-perguruan-tinggi-keagamaan-negeri_ID.xlsx",
+          "size": 11265
         }
       }
     },
