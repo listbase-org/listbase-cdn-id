@@ -1,0 +1,911 @@
+{
+  "id": "id-lagu-anak",
+  "name": "Daftar Lagu Anak-Anak Indonesia",
+  "title": "Daftar Lagu Anak-Anak Indonesia",
+  "description": "Daftar lagu anak-anak Indonesia beserta penyanyi atau penciptanya (seperti Ibu Sud, AT Mahmud, Pak Kasur), diurutkan menurut abjad.",
+  "category": "music",
+  "source": "https://id.wikipedia.org/wiki/Daftar_lagu_anak_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_lagu_anak_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 174,
+  "columns": [
+    {
+      "key": "judul",
+      "label": "Judul",
+      "type": "string"
+    },
+    {
+      "key": "penyanyi_pencipta",
+      "label": "Penyanyi Pencipta",
+      "type": "string"
+    },
+    {
+      "key": "huruf",
+      "label": "Huruf",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "judul": "Ade Irma Suryani",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Abang Tukang Bakso",
+      "penyanyi_pencipta": "Melisa Trisnadi, Mamo Agil",
+      "huruf": "A"
+    },
+    {
+      "judul": "Aku Anak Indonesia",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Aku Seorang Kapiten",
+      "penyanyi_pencipta": "",
+      "huruf": "A"
+    },
+    {
+      "judul": "Ambilkan Bulan Bu",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Amelia",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Amrin Membolos",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Anak Gembala",
+      "penyanyi_pencipta": "Tasya, AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Anak Kambing Saya",
+      "penyanyi_pencipta": "",
+      "huruf": "A"
+    },
+    {
+      "judul": "Anak Kuat",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Ayo Mama",
+      "penyanyi_pencipta": "",
+      "huruf": "A"
+    },
+    {
+      "judul": "Andai Aku Besar Nanti",
+      "penyanyi_pencipta": "Sherina",
+      "huruf": "A"
+    },
+    {
+      "judul": "Awan Putih",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Aku Anak Sehat",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Ayamku",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "A"
+    },
+    {
+      "judul": "Bukan Dongeng Semata",
+      "penyanyi_pencipta": "Devina Azaria",
+      "huruf": "B"
+    },
+    {
+      "judul": "Balonku",
+      "penyanyi_pencipta": "NN",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bagi Dua",
+      "penyanyi_pencipta": "Christi Colondam",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bangun Tidur",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bermain",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bernyanyi Bergembira",
+      "penyanyi_pencipta": "",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bintang Kecil",
+      "penyanyi_pencipta": "Daljono",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bintang Kejora",
+      "penyanyi_pencipta": "lagu) (AT Mahmud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bujangan",
+      "penyanyi_pencipta": "Angie Kamalsah, versi lain dari lagu berjudul sama, yang pernah dibawakan oleh Koes Plus pada tahun 1973",
+      "huruf": "B"
+    },
+    {
+      "judul": "Buka Pintu",
+      "penyanyi_pencipta": "NN",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bulan Sabit",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bung Polisi Pengatur Lalu Lintas",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bunda",
+      "penyanyi_pencipta": "Umay Shahab",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bunda Piara",
+      "penyanyi_pencipta": "",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bunga Hiasan",
+      "penyanyi_pencipta": "",
+      "huruf": "B"
+    },
+    {
+      "judul": "Bungaku",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Burung Hantu",
+      "penyanyi_pencipta": "NN",
+      "huruf": "B"
+    },
+    {
+      "judul": "Burung Kakatua",
+      "penyanyi_pencipta": "Lagu daerah Maluku",
+      "huruf": "B"
+    },
+    {
+      "judul": "Burung Kutilang",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Burung Nuri",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "B"
+    },
+    {
+      "judul": "Burung Unta",
+      "penyanyi_pencipta": "NN",
+      "huruf": "B"
+    },
+    {
+      "judul": "Cemara",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "C"
+    },
+    {
+      "judul": "Cerita Tikus",
+      "penyanyi_pencipta": "",
+      "huruf": "C"
+    },
+    {
+      "judul": "Ceritaku",
+      "penyanyi_pencipta": "Saskia",
+      "huruf": "C"
+    },
+    {
+      "judul": "Cicak di Dinding",
+      "penyanyi_pencipta": "",
+      "huruf": "C"
+    },
+    {
+      "judul": "Cik Cik Periuk",
+      "penyanyi_pencipta": "NN",
+      "huruf": "C"
+    },
+    {
+      "judul": "Citaria",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "C"
+    },
+    {
+      "judul": "Cilukba",
+      "penyanyi_pencipta": "Maissy",
+      "huruf": "C"
+    },
+    {
+      "judul": "Di Sini Senang di Sana Senang",
+      "penyanyi_pencipta": "NN",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Dakocan",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Dengar Katak Bernyanyi",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Denpasar Moon",
+      "penyanyi_pencipta": "Trio Laris",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Desaku",
+      "penyanyi_pencipta": "L. Manik",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Di Pantai",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Dua Ekor Anak Kucing",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Dua Mata Saya",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Es lilinku",
+      "penyanyi_pencipta": "Lagu daerah anak dari Jawa Barat",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Gadis Ingusan",
+      "penyanyi_pencipta": "Rossa",
+      "huruf": "D - G"
+    },
+    {
+      "judul": "Happy Ya Ya Ya",
+      "penyanyi_pencipta": "",
+      "huruf": "H"
+    },
+    {
+      "judul": "Hati yang Gembira Adalah Obat",
+      "penyanyi_pencipta": "",
+      "huruf": "H"
+    },
+    {
+      "judul": "Hidup Tanpa Yesus Seperti Donat",
+      "penyanyi_pencipta": "",
+      "huruf": "H"
+    },
+    {
+      "judul": "Heli! Guk Guk Guk",
+      "penyanyi_pencipta": "Chicha Koeswoyo",
+      "huruf": "H"
+    },
+    {
+      "judul": "Inget-inget Pesan Mama",
+      "penyanyi_pencipta": "3in1', versi lain dari lagu berjudul sama yang pernah dibawakan Oppie Andaresta pada tahun 1995",
+      "huruf": "I"
+    },
+    {
+      "judul": "Jagoan Kita",
+      "penyanyi_pencipta": "",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Jangan Marah",
+      "penyanyi_pencipta": "Trio Kwek Kwek",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Jangkrik",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Jakarta Berulang Tahun",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Jaranan",
+      "penyanyi_pencipta": "Okky Lukman",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kakak Mia",
+      "penyanyi_pencipta": "",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kampung Halamanku",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kampungku",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kapal Api",
+      "penyanyi_pencipta": "NN",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kasih Ibu",
+      "penyanyi_pencipta": "SM. Muchtar",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kelasku Yang Baru",
+      "penyanyi_pencipta": "M. Suharto",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kelinciku",
+      "penyanyi_pencipta": "",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kincir Air",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kingkong Badannya Besar",
+      "penyanyi_pencipta": "",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kembang Apiku",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Ke Pasar Ikan",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kepala, Pundak, Lutut, Kaki",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Keranjang Sampah",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kereta Apiku",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kring Ada Sepeda",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kucingku Belang Tiga",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kunang-Kunang",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kunyah-kunyah",
+      "penyanyi_pencipta": "Wahyu WHL",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kukuruyuk",
+      "penyanyi_pencipta": "Nadja Dirja",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Kupu-kupu",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lagu Bermain",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lagu Gembira",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lagu Tor-Tor",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Layang Layang",
+      "penyanyi_pencipta": "versi lain dari Kampuang nan Jauh di Mato yang pernah dibawakan oleh Chiquita Meidy",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Layang-layangku",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lelaki Kardus",
+      "penyanyi_pencipta": "Nova Rizqi Romadhon",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lenggang Kangkung",
+      "penyanyi_pencipta": "lagu anak daerah dari DKI Jakarta",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lihat Kebunku",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Lompat Tali",
+      "penyanyi_pencipta": "TDC For Kids",
+      "huruf": "J - L"
+    },
+    {
+      "judul": "Makan Apa",
+      "penyanyi_pencipta": "",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Makan Jangan Bersuara",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Main-main Saja",
+      "penyanyi_pencipta": "Angie Kamalsah",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Mandi Pagi",
+      "penyanyi_pencipta": "Pak Dal",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Matahari",
+      "penyanyi_pencipta": "Kak Irwan",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Main Ular-Ularan",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Malu Sama Kucing",
+      "penyanyi_pencipta": "Romaria",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Mulut Saya Satu - Ririn Sanusi",
+      "penyanyi_pencipta": "Said Usbros",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Menanam Jagung",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Menari",
+      "penyanyi_pencipta": "Saskia Geofanny Angie",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Mendaki Gunung",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Mobilku",
+      "penyanyi_pencipta": "",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Musim Panen",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Naik Becak",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Naik Delman",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Naik Kelas",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Naik Kereta Api",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Naik Naik ke Puncak Gunung",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Nama-Nama Rasa",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Nama-Nama Hari",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Nasihat Ibu",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Nenek Moyang",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Nina Bobo",
+      "penyanyi_pencipta": "NN",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Nona Manis",
+      "penyanyi_pencipta": "lagu anak daerah dari Maluku",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Oh Ibu dan Ayah = Pergi Belajar",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "M - O"
+    },
+    {
+      "judul": "Pagi-pagi",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pak Polisi",
+      "penyanyi_pencipta": "Umay Shahab",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Potong Bebek Angsa",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Paman Datang",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pelangi",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pemandangan",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pepaya Mangga Pisang Jambu",
+      "penyanyi_pencipta": "Adikarso",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Peramah Dan Sopan",
+      "penyanyi_pencipta": "Pak Dal",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pergi Belajar",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pulang Memancing",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Pulanglah Papa - Cindy Cenora",
+      "penyanyi_pencipta": "versi lain dari Hati yang Luka milik Betharia Sonata",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Putih-Putih Melati",
+      "penyanyi_pencipta": "Said Usbros",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Rasa Sayange",
+      "penyanyi_pencipta": "Lagu anak daerah dari Maluku",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Rumahku - Trio Laris (versi lain dari lagu La Bamba lagu rakyat Meksiko",
+      "penyanyi_pencipta": "",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Ruri Abangku",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "P - R"
+    },
+    {
+      "judul": "Saras 008",
+      "penyanyi_pencipta": "Angie Kamalsah",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Saras 008 2",
+      "penyanyi_pencipta": "Angie Kamalsah bersama Pretty Asmara",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Satu-Satu",
+      "penyanyi_pencipta": "Sayang Semuanya) (Pak Kasur",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Satu, Dua, Tiga, Empat",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Satu Ditambah Satu",
+      "penyanyi_pencipta": "Herry SS",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Sambalado",
+      "penyanyi_pencipta": "Romaria, versi lain dari lagu Ayu Ting Ting yang berjudul sama",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Sapu Tangan",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Sayonara",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Selamat Ulang Tahun",
+      "penyanyi_pencipta": "lagu) (Adikarso",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Sekuntum Mawar",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Selamat Pagi Bu Guru",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Semua Oke",
+      "penyanyi_pencipta": "Trio Kwek Kwek feat. Atun dan Mandra",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Semut Kecil",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Senam",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Serumpun Padi",
+      "penyanyi_pencipta": "R Maladi",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Sepasang Burung Kenari",
+      "penyanyi_pencipta": "SM Mochtar",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Si Kancil Nakal",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Sim Sim Terima Kasim",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "SKJ",
+      "penyanyi_pencipta": "Umay Shahab",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Soleram",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Suka Hati",
+      "penyanyi_pencipta": "lagu) (Kalau kau Suka Hati tepuk tangan) (NN",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Taman Kanak-Kanak",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tanah Airku",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tanganku Ada Dua",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tari Topeng",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Teka-Teki",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tebak Suara",
+      "penyanyi_pencipta": "TDC for Kids",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tek Kotek-Kotek",
+      "penyanyi_pencipta": "Anak Ayam) (AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tepuk Tangan",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tersanjung - Mega Utami",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Terompet Dan Tanji",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tidur Anakku",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tidurlah Adik",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Timang Adik Timang",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tik Tik Bunyi Hujan",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tukang Kayu",
+      "penyanyi_pencipta": "Pak Dal",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tukang Pos",
+      "penyanyi_pencipta": "",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Tupai",
+      "penyanyi_pencipta": "AT Mahmud",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Topi Saya Bundar",
+      "penyanyi_pencipta": "Pak Kasur",
+      "huruf": "S - U"
+    },
+    {
+      "judul": "Waktu Sekolah Usai",
+      "penyanyi_pencipta": "Ibu Sud",
+      "huruf": "W"
+    },
+    {
+      "judul": "Walang Kekek",
+      "penyanyi_pencipta": "Joshua Suherman feat. Tukul Arwana",
+      "huruf": "W"
+    },
+    {
+      "judul": "Walau Ku Tak Dapat Melihat",
+      "penyanyi_pencipta": "Grezia Epiphania",
+      "huruf": "W"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Lagu Anak-Anak Indonesia - Free Download",
+    "description": "Daftar lagu anak-anak Indonesia beserta penyanyi atau penciptanya (seperti Ibu Sud, AT Mahmud, Pak Kasur), diurutkan menurut abjad. Contains 174 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Lagu Anak-Anak Indonesia | ListBase",
+    "seo_description": "Download Daftar Lagu Anak-Anak Indonesia — 174 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 174 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_lagu_anak_di_Indonesia"
+    ]
+  }
+}

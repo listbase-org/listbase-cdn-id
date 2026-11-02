@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-02T02:36:43.838Z",
-  "total_datasets": 599,
-  "total_records": 650103,
+  "generated": "2026-11-02T02:36:51.482Z",
+  "total_datasets": 600,
+  "total_records": 650277,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -6818,6 +6818,30 @@
         "xlsx": {
           "name": "id-grup-musik_ID.xlsx",
           "size": 19451
+        }
+      }
+    },
+    {
+      "id": "id-lagu-anak",
+      "name": "Daftar Lagu Anak-Anak Indonesia",
+      "category": "music",
+      "record_count": 174,
+      "columns": [
+        "judul",
+        "penyanyi_pencipta",
+        "huruf"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_lagu_anak_di_Indonesia",
+      "updated": "2026-11",
+      "size": 20597,
+      "files": {
+        "csv": {
+          "name": "id-lagu-anak_ID.csv",
+          "size": 6605
+        },
+        "xlsx": {
+          "name": "id-lagu-anak_ID.xlsx",
+          "size": 11599
         }
       }
     },
