@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-10-30T02:23:58.968Z",
-  "total_datasets": 598,
-  "total_records": 648892,
+  "generated": "2026-11-02T02:36:43.838Z",
+  "total_datasets": 599,
+  "total_records": 650103,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6286,6 +6286,31 @@
         "xlsx": {
           "name": "id-prasasti-nusantara_ID.xlsx",
           "size": 15012
+        }
+      }
+    },
+    {
+      "id": "id-bahasa-menurut-bps-2010",
+      "name": "Daftar Bahasa di Indonesia menurut BPS 2010",
+      "category": "language",
+      "record_count": 1211,
+      "columns": [
+        "kode_bps",
+        "iso_639_3",
+        "kelompok",
+        "nama_bahasa_alias"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bahasa_di_Indonesia_menurut_BPS_2010",
+      "updated": "2026-11",
+      "size": 183265,
+      "files": {
+        "csv": {
+          "name": "id-bahasa-menurut-bps-2010_ID.csv",
+          "size": 62852
+        },
+        "xlsx": {
+          "name": "id-bahasa-menurut-bps-2010_ID.xlsx",
+          "size": 47816
         }
       }
     },

@@ -1,0 +1,7312 @@
+{
+  "id": "id-bahasa-menurut-bps-2010",
+  "name": "Daftar Bahasa di Indonesia menurut BPS 2010",
+  "title": "Daftar Bahasa di Indonesia menurut BPS 2010",
+  "description": "Daftar bahasa dan dialek di Indonesia sesuai klasifikasi Badan Pusat Statistik (Sensus Penduduk 2010), lengkap dengan kode BPS, kode ISO 639-3 dan kelompok bahasa.",
+  "category": "language",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bahasa_di_Indonesia_menurut_BPS_2010",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bahasa_di_Indonesia_menurut_BPS_2010",
+  "updated": "2026-11",
+  "record_count": 1211,
+  "columns": [
+    {
+      "key": "kode_bps",
+      "label": "Kode Bps",
+      "type": "string"
+    },
+    {
+      "key": "iso_639_3",
+      "label": "Iso 639 3",
+      "type": "string"
+    },
+    {
+      "key": "kelompok",
+      "label": "Kelompok",
+      "type": "string"
+    },
+    {
+      "key": "nama_bahasa_alias",
+      "label": "Nama Bahasa Alias",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kode_bps": "0001 2",
+      "iso_639_3": "ace",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh / Acheh / Achi"
+    },
+    {
+      "kode_bps": "0002 4",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Aneuk"
+    },
+    {
+      "kode_bps": "0003 6",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Hulu Singkil / Singkil"
+    },
+    {
+      "kode_bps": "0004 1",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Jamee"
+    },
+    {
+      "kode_bps": "0005 3",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Kluet"
+    },
+    {
+      "kode_bps": "0006 5",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Pulau Banyak / Haloban"
+    },
+    {
+      "kode_bps": "0007 0",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Simeleu Barat / Sigulai / Leukon"
+    },
+    {
+      "kode_bps": "0008 2",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Aceh Simeleu Tengah / Devayan"
+    },
+    {
+      "kode_bps": "0009 4",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Alas"
+    },
+    {
+      "kode_bps": "0010 1",
+      "iso_639_3": "gay",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Gajo / Gayo"
+    },
+    {
+      "kode_bps": "0011 3",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Long Bano / Simalur / Simeuloe / Simeulue / Simulul"
+    },
+    {
+      "kode_bps": "0012 5",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Banda"
+    },
+    {
+      "kode_bps": "0013 0",
+      "iso_639_3": "skh",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Sichule / Sikhule / Sikule / Wali Banuah"
+    },
+    {
+      "kode_bps": "0014 2",
+      "iso_639_3": "",
+      "kelompok": "Aceh",
+      "nama_bahasa_alias": "Bahasa Tamiang"
+    },
+    {
+      "kode_bps": "0015 4",
+      "iso_639_3": "btz",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Alas-Kluet / Alas-Kluet Batak"
+    },
+    {
+      "kode_bps": "0016 6",
+      "iso_639_3": "akb",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Anakola / Angkola / Batak Angkola"
+    },
+    {
+      "kode_bps": "0017 1",
+      "iso_639_3": "btd",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Dairi / Dairi / Pakpak / Pakpak Dairi"
+    },
+    {
+      "kode_bps": "0018 3",
+      "iso_639_3": "btx",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Karo / Karo Batak"
+    },
+    {
+      "kode_bps": "0019 5",
+      "iso_639_3": "btm",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Mandailing / Mandailing Batak"
+    },
+    {
+      "kode_bps": "0020 2",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Pak-Pak"
+    },
+    {
+      "kode_bps": "0021 4",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Pesisir"
+    },
+    {
+      "kode_bps": "0022 6",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Samosir"
+    },
+    {
+      "kode_bps": "0023 1",
+      "iso_639_3": "bts",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Simalungun / Simelungan Timur"
+    },
+    {
+      "kode_bps": "0024 3",
+      "iso_639_3": "bbc",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batak Toba / Batta / Toba Batak"
+    },
+    {
+      "kode_bps": "0025 5",
+      "iso_639_3": "nia",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Batu / Nias"
+    },
+    {
+      "kode_bps": "0026 0",
+      "iso_639_3": "kvr",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Kerinchi / Kerinci / Kinchai"
+    },
+    {
+      "kode_bps": "0027 2",
+      "iso_639_3": "mwv",
+      "kelompok": "Sumatera Utara",
+      "nama_bahasa_alias": "Bahasa Mentawai / Mentawei / Mentawi"
+    },
+    {
+      "kode_bps": "0028 4",
+      "iso_639_3": "min",
+      "kelompok": "Sumatera Barat",
+      "nama_bahasa_alias": "Bahasa Minang / Minangkabau / Padang"
+    },
+    {
+      "kode_bps": "0029 6",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Bagan Siapi-Api"
+    },
+    {
+      "kode_bps": "0030 3",
+      "iso_639_3": "msa",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu / Malayu / Melayu"
+    },
+    {
+      "kode_bps": "0031 5",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Bakinang"
+    },
+    {
+      "kode_bps": "0032 0",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Bonai"
+    },
+    {
+      "kode_bps": "0033 2",
+      "iso_639_3": "dup",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Duano"
+    },
+    {
+      "kode_bps": "0034 4",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Kuantan"
+    },
+    {
+      "kode_bps": "0035 6",
+      "iso_639_3": "lcf",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Lubu"
+    },
+    {
+      "kode_bps": "0036 1",
+      "iso_639_3": "zlm",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Riau"
+    },
+    {
+      "kode_bps": "0037 3",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Sakai"
+    },
+    {
+      "kode_bps": "0038 5",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Siak Sri Indrapura"
+    },
+    {
+      "kode_bps": "0039 0",
+      "iso_639_3": "",
+      "kelompok": "Riau",
+      "nama_bahasa_alias": "Bahasa Talang Mamak"
+    },
+    {
+      "kode_bps": "0040 4",
+      "iso_639_3": "kvb",
+      "kelompok": "Jambi",
+      "nama_bahasa_alias": "Bahasa Anak Dalam / Kubu / Orang Hutan / Orang Rimba"
+    },
+    {
+      "kode_bps": "0041 6",
+      "iso_639_3": "jax",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Batin / Jambi / Melayu Jambi"
+    },
+    {
+      "kode_bps": "0042 1",
+      "iso_639_3": "hji",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Aji / Haji"
+    },
+    {
+      "kode_bps": "0043 3",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Banyu Asin"
+    },
+    {
+      "kode_bps": "0044 5",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Belido / Bilide"
+    },
+    {
+      "kode_bps": "0045 0",
+      "iso_639_3": "pse",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Bengkulu / Besemah / Lintang / Melayu Tengah / Ogan / Semendo"
+    },
+    {
+      "kode_bps": "0046 2",
+      "iso_639_3": "liw",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Col / Cul / Sindang"
+    },
+    {
+      "kode_bps": "0047 4",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Enim"
+    },
+    {
+      "kode_bps": "0048 6",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Kikim"
+    },
+    {
+      "kode_bps": "0049 1",
+      "iso_639_3": "kge",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Komering / Kumoring"
+    },
+    {
+      "kode_bps": "0050 5",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Lematang"
+    },
+    {
+      "kode_bps": "0051 0",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Palembang"
+    },
+    {
+      "kode_bps": "0052 2",
+      "iso_639_3": "mui",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Musi / Palembang / Sekayu"
+    },
+    {
+      "kode_bps": "0053 4",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Penasak / Penesak"
+    },
+    {
+      "kode_bps": "0054 6",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Rambang"
+    },
+    {
+      "kode_bps": "0055 1",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Ranau"
+    },
+    {
+      "kode_bps": "0056 3",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Rawas"
+    },
+    {
+      "kode_bps": "0057 5",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Saling"
+    },
+    {
+      "kode_bps": "0058 0",
+      "iso_639_3": "",
+      "kelompok": "Bengkulu",
+      "nama_bahasa_alias": "Bahasa Semende"
+    },
+    {
+      "kode_bps": "0059 2",
+      "iso_639_3": "vkk",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Bintuhan / Ka'ur / Kaur / Mulak"
+    },
+    {
+      "kode_bps": "0060 6",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Enggan / Enggano"
+    },
+    {
+      "kode_bps": "0061 1",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Krui"
+    },
+    {
+      "kode_bps": "0062 3",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Lambak / Lembak"
+    },
+    {
+      "kode_bps": "0063 5",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Bengkulu"
+    },
+    {
+      "kode_bps": "0064 0",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Muko-Muko"
+    },
+    {
+      "kode_bps": "0065 2",
+      "iso_639_3": "pel",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Pekal"
+    },
+    {
+      "kode_bps": "0066 4",
+      "iso_639_3": "rej",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Rejang"
+    },
+    {
+      "kode_bps": "0067 6",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Rejang Lebong"
+    },
+    {
+      "kode_bps": "0068 1",
+      "iso_639_3": "",
+      "kelompok": "Sumatera Selatan",
+      "nama_bahasa_alias": "Bahasa Serawai"
+    },
+    {
+      "kode_bps": "0069 3",
+      "iso_639_3": "",
+      "kelompok": "Lampung",
+      "nama_bahasa_alias": "Bahasa Abung"
+    },
+    {
+      "kode_bps": "0070 0",
+      "iso_639_3": "ljp",
+      "kelompok": "Lampung",
+      "nama_bahasa_alias": "Bahasa Api / Lampong / Lampung Api / Lampung Pesisir"
+    },
+    {
+      "kode_bps": "0071 2",
+      "iso_639_3": "",
+      "kelompok": "Lampung",
+      "nama_bahasa_alias": "Bahasa Lampung"
+    },
+    {
+      "kode_bps": "0072 4",
+      "iso_639_3": "abl",
+      "kelompok": "Lampung",
+      "nama_bahasa_alias": "Bahasa Lampung Nyo"
+    },
+    {
+      "kode_bps": "0073 6",
+      "iso_639_3": "",
+      "kelompok": "Lampung",
+      "nama_bahasa_alias": "Bahasa Pesisir Selatan"
+    },
+    {
+      "kode_bps": "0074 1",
+      "iso_639_3": "mfb",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Bangka"
+    },
+    {
+      "kode_bps": "0075 3",
+      "iso_639_3": "",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Belitong / Belitung"
+    },
+    {
+      "kode_bps": "0076 5",
+      "iso_639_3": "",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Lom / Mapur"
+    },
+    {
+      "kode_bps": "0077 0",
+      "iso_639_3": "lce",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Lonchong / Loncong / Seka / Sekah"
+    },
+    {
+      "kode_bps": "0078 2",
+      "iso_639_3": "",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Mentok"
+    },
+    {
+      "kode_bps": "0079 4",
+      "iso_639_3": "",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Sekak"
+    },
+    {
+      "kode_bps": "0080 1",
+      "iso_639_3": "",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Orang Laut"
+    },
+    {
+      "kode_bps": "0081 3",
+      "iso_639_3": "",
+      "kelompok": "Bangka Belitung",
+      "nama_bahasa_alias": "Bahasa Semang"
+    },
+    {
+      "kode_bps": "0082 5",
+      "iso_639_3": "bew",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Batavi / Batawi / Betawi / Melayu Betawi / Melayu Jakarta / Melayu Jakarte"
+    },
+    {
+      "kode_bps": "0083 0",
+      "iso_639_3": "pey",
+      "kelompok": "Jawa Barat",
+      "nama_bahasa_alias": "Bahasa Pecok / Peco / Pecoh"
+    },
+    {
+      "kode_bps": "0084 2",
+      "iso_639_3": "",
+      "kelompok": "Jawa Barat",
+      "nama_bahasa_alias": "Bahasa Cirebon"
+    },
+    {
+      "kode_bps": "0085 4",
+      "iso_639_3": "",
+      "kelompok": "Jawa Barat",
+      "nama_bahasa_alias": "Bahasa Dermayon / Indramayu"
+    },
+    {
+      "kode_bps": "0086 6",
+      "iso_639_3": "sun",
+      "kelompok": "Jawa Barat",
+      "nama_bahasa_alias": "Bahasa Sunda"
+    },
+    {
+      "kode_bps": "0087 1",
+      "iso_639_3": "jvd",
+      "kelompok": "Jawa Tengah & DIY",
+      "nama_bahasa_alias": "Bahasa Javindo / Kroncong"
+    },
+    {
+      "kode_bps": "0088 3",
+      "iso_639_3": "jav",
+      "kelompok": "Jawa Tengah & DIY",
+      "nama_bahasa_alias": "Bahasa Jawa"
+    },
+    {
+      "kode_bps": "0089 5",
+      "iso_639_3": "",
+      "kelompok": "Jawa Tengah & DIY",
+      "nama_bahasa_alias": "Bahasa Samin"
+    },
+    {
+      "kode_bps": "0090 2",
+      "iso_639_3": "osi",
+      "kelompok": "Jawa Timur",
+      "nama_bahasa_alias": "Bahasa Banyuwangi / Osing"
+    },
+    {
+      "kode_bps": "0091 4",
+      "iso_639_3": "mad",
+      "kelompok": "Jawa Timur",
+      "nama_bahasa_alias": "Bahasa Mathura / Madhura / Madura / Madure"
+    },
+    {
+      "kode_bps": "0092 6",
+      "iso_639_3": "kkv",
+      "kelompok": "Jawa Timur",
+      "nama_bahasa_alias": "Bahasa Kangean"
+    },
+    {
+      "kode_bps": "0093 1",
+      "iso_639_3": "tes",
+      "kelompok": "Jawa Timur",
+      "nama_bahasa_alias": "Bahasa Tengger"
+    },
+    {
+      "kode_bps": "0094 3",
+      "iso_639_3": "bac",
+      "kelompok": "Banten",
+      "nama_bahasa_alias": "Bahasa Badui"
+    },
+    {
+      "kode_bps": "0095 5",
+      "iso_639_3": "",
+      "kelompok": "Banten",
+      "nama_bahasa_alias": "Bahasa Sunda Banten"
+    },
+    {
+      "kode_bps": "0096 0",
+      "iso_639_3": "ban",
+      "kelompok": "Bali",
+      "nama_bahasa_alias": "Bahasa Bali"
+    },
+    {
+      "kode_bps": "0097 2",
+      "iso_639_3": "",
+      "kelompok": "Bali",
+      "nama_bahasa_alias": "Bahasa Benkala"
+    },
+    {
+      "kode_bps": "0098 4",
+      "iso_639_3": "mhp",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Bali"
+    },
+    {
+      "kode_bps": "0099 6",
+      "iso_639_3": "adb",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Adabe"
+    },
+    {
+      "kode_bps": "0100 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Bima"
+    },
+    {
+      "kode_bps": "0101 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Hilu Humba / Humba / Sumba Timur"
+    },
+    {
+      "kode_bps": "0102 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Semawa"
+    },
+    {
+      "kode_bps": "0103 3",
+      "iso_639_3": "abz",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Abui / Barawahing / Barue / Namatalaki"
+    },
+    {
+      "kode_bps": "0104 5",
+      "iso_639_3": "adn",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Adang"
+    },
+    {
+      "kode_bps": "0105 0",
+      "iso_639_3": "adr",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Adonara / Sagu / Vaiverang / Waiwerang"
+    },
+    {
+      "kode_bps": "0106 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Aku / Li'o / Lio / Lion / Tanah Kunu"
+    },
+    {
+      "kode_bps": "0107 4",
+      "iso_639_3": "aol",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Alor"
+    },
+    {
+      "kode_bps": "0108 6",
+      "iso_639_3": "aaz",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Amarasi / Timor Amarasi"
+    },
+    {
+      "kode_bps": "0109 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Amduna"
+    },
+    {
+      "kode_bps": "0110 5",
+      "iso_639_3": "akg",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Anakalang / Anakalangu"
+    },
+    {
+      "kode_bps": "0111 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Atoni / Meto / Orang Gunung / Rawan / Timol / Timor Dawan / Timor Uab Atoni Pah Meto / Timoreesch / Tim"
+    },
+    {
+      "kode_bps": "0112 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ba'a / Baa / Lole / Loleh / Rote Tengah / Roti"
+    },
+    {
+      "kode_bps": "0113 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Babar / Wetan"
+    },
+    {
+      "kode_bps": "0114 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Badjava / Bajava / Bajawa / Nad'a / Nga'da / Ngad'a / Ngada / Ngadha / Rokka"
+    },
+    {
+      "kode_bps": "0115 1",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Nagi / Melayu Ende / Melayu Larantuka / Nagi"
+    },
+    {
+      "kode_bps": "0116 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Balungada / Nedebang / Nedebang"
+    },
+    {
+      "kode_bps": "0117 5",
+      "iso_639_3": "mkn",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Kupang / Kupang / Melayu Kupang"
+    },
+    {
+      "kode_bps": "0118 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Belagar / Blagar / Tarang"
+    },
+    {
+      "kode_bps": "0119 2",
+      "iso_639_3": "tet",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Belo / Fehan / Teto / Tettum / Tetu / Tetum / Tetun / Tetun Belu / Tetung"
+    },
+    {
+      "kode_bps": "0120 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Belubaa / Bilba / Bilbaa"
+    },
+    {
+      "kode_bps": "0121 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Bunak"
+    },
+    {
+      "kode_bps": "0122 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Damar"
+    },
+    {
+      "kode_bps": "0123 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Damar Barat"
+    },
+    {
+      "kode_bps": "0124 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Damar Timur"
+    },
+    {
+      "kode_bps": "0125 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Dang / Kdang / Kedang / Kedang"
+    },
+    {
+      "kode_bps": "0126 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Dawan"
+    },
+    {
+      "kode_bps": "0127 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Dela-Oenale / Delha / Oe Nale"
+    },
+    {
+      "kode_bps": "0128 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Dengka"
+    },
+    {
+      "kode_bps": "0129 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Dhao / Ndaonese / Ndaundau"
+    },
+    {
+      "kode_bps": "0130 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ema / Kemak"
+    },
+    {
+      "kode_bps": "0131 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ende / Endeh"
+    },
+    {
+      "kode_bps": "0132 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Manggarai Timur / Riung"
+    },
+    {
+      "kode_bps": "0133 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Hamap"
+    },
+    {
+      "kode_bps": "0134 1",
+      "iso_639_3": "hvn",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Havunese / Hawu / Sabu / Savu"
+    },
+    {
+      "kode_bps": "0135 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Helon / Helong"
+    },
+    {
+      "kode_bps": "0136 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ile Ape / Nusa Tadon"
+    },
+    {
+      "kode_bps": "0137 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kabola"
+    },
+    {
+      "kode_bps": "0138 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kafoa"
+    },
+    {
+      "kode_bps": "0139 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kalong / Kelon / Kelong"
+    },
+    {
+      "kode_bps": "0140 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kamang / Waisika"
+    },
+    {
+      "kode_bps": "0141 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kambera / Sumba"
+    },
+    {
+      "kode_bps": "0142 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kawela / Lamalera / Lebatukan / Mulan"
+    },
+    {
+      "kode_bps": "0143 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ke'o"
+    },
+    {
+      "kode_bps": "0144 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kepo' / Kepok"
+    },
+    {
+      "kode_bps": "0145 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Khelong / Semau"
+    },
+    {
+      "kode_bps": "0146 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kodi / Kudi"
+    },
+    {
+      "kode_bps": "0147 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kolana / Kolana-Wersin / Warsina / Wersin / Wersing"
+    },
+    {
+      "kode_bps": "0148 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Komodo"
+    },
+    {
+      "kode_bps": "0149 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Krowe / Maumere / Sara Sikka / Sika"
+    },
+    {
+      "kode_bps": "0150 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kui / Lerabain"
+    },
+    {
+      "kode_bps": "0151 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Kula / Lamtoka / Lantoka / Tanglapui"
+    },
+    {
+      "kode_bps": "0152 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Labalekan / Lembata Barat / Mingar"
+    },
+    {
+      "kode_bps": "0153 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lamaholot"
+    },
+    {
+      "kode_bps": "0154 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lamaholot Barat Daya / Lewotobi"
+    },
+    {
+      "kode_bps": "0155 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lamatoka / Lamatuka"
+    },
+    {
+      "kode_bps": "0156 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lamboya"
+    },
+    {
+      "kode_bps": "0157 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lamma / Lamma' / Lemma / Mauta"
+    },
+    {
+      "kode_bps": "0158 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Laora / Laura"
+    },
+    {
+      "kode_bps": "0159 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lembata / Levuka / Lewokukun / Lewuka / Painara"
+    },
+    {
+      "kode_bps": "0160 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lembata Selatan"
+    },
+    {
+      "kode_bps": "0161 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Letri Lagona"
+    },
+    {
+      "kode_bps": "0162 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lewo Eleng"
+    },
+    {
+      "kode_bps": "0163 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lombelu"
+    },
+    {
+      "kode_bps": "0164 4",
+      "iso_639_3": "sas",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lombok / Sasak"
+    },
+    {
+      "kode_bps": "0165 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Lu'a / Palu'e / Palue / Paluke"
+    },
+    {
+      "kode_bps": "0166 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Makasai"
+    },
+    {
+      "kode_bps": "0167 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Maku'a / Pataluku"
+    },
+    {
+      "kode_bps": "0168 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Mamboru / Memboro"
+    },
+    {
+      "kode_bps": "0169 0",
+      "iso_639_3": "mqy",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Manggarai"
+    },
+    {
+      "kode_bps": "0170 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Mbojo"
+    },
+    {
+      "kode_bps": "0171 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Meiwewa"
+    },
+    {
+      "kode_bps": "0172 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Nage / Nage / Nage-Keo"
+    },
+    {
+      "kode_bps": "0173 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Nasal"
+    },
+    {
+      "kode_bps": "0174 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ndao"
+    },
+    {
+      "kode_bps": "0175 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Ngad'a Timur / Ngada Tenggara"
+    },
+    {
+      "kode_bps": "0176 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Pa'da / Termanu"
+    },
+    {
+      "kode_bps": "0177 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Pantar"
+    },
+    {
+      "kode_bps": "0178 6",
+      "iso_639_3": "por",
+      "kelompok": "Asing / Timor Leste",
+      "nama_bahasa_alias": "Bahasa Portugis"
+    },
+    {
+      "kode_bps": "0179 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Rajong / Razong"
+    },
+    {
+      "kode_bps": "0180 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Rembong"
+    },
+    {
+      "kode_bps": "0181 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Retta"
+    },
+    {
+      "kode_bps": "0182 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Rikou / Ringgou / Rote Barat / Rote Timur / Rotinese"
+    },
+    {
+      "kode_bps": "0183 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Rongga"
+    },
+    {
+      "kode_bps": "0184 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Rote"
+    },
+    {
+      "kode_bps": "0185 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Samawa"
+    },
+    {
+      "kode_bps": "0186 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Sawila"
+    },
+    {
+      "kode_bps": "0187 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Sikka"
+    },
+    {
+      "kode_bps": "0188 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa So'a / Soa"
+    },
+    {
+      "kode_bps": "0189 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Sumba Barat / Veveva / Waidjewa / Wajewa / Wejewa / Wewewa / Wewjewa / Weyewa"
+    },
+    {
+      "kode_bps": "0190 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Sumbawa"
+    },
+    {
+      "kode_bps": "0191 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Tereweng"
+    },
+    {
+      "kode_bps": "0192 3",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Tewa"
+    },
+    {
+      "kode_bps": "0193 5",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Thie / Ti / Tii"
+    },
+    {
+      "kode_bps": "0194 0",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Wae Rana / Waerana"
+    },
+    {
+      "kode_bps": "0195 2",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Wanokaka / Wanukaka"
+    },
+    {
+      "kode_bps": "0196 4",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Wetar"
+    },
+    {
+      "kode_bps": "0197 6",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Woisika"
+    },
+    {
+      "kode_bps": "0198 1",
+      "iso_639_3": "",
+      "kelompok": "Nusa Tenggara",
+      "nama_bahasa_alias": "Bahasa Yatun"
+    },
+    {
+      "kode_bps": "0199 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Abon / Kubitn"
+    },
+    {
+      "kode_bps": "0200 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Air Durian"
+    },
+    {
+      "kode_bps": "0201 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Air Upas"
+    },
+    {
+      "kode_bps": "0202 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Apo Duat / Kalabit / Kelabit / Kerabit"
+    },
+    {
+      "kode_bps": "0203 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ba'ahe / Banana'"
+    },
+    {
+      "kode_bps": "0204 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ba'aje' / Rantawan"
+    },
+    {
+      "kode_bps": "0205 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Baaje'"
+    },
+    {
+      "kode_bps": "0206 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Baampape / Banyuke"
+    },
+    {
+      "kode_bps": "0207 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Badamea"
+    },
+    {
+      "kode_bps": "0208 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Badat"
+    },
+    {
+      "kode_bps": "0209 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Badeneh / Bubung"
+    },
+    {
+      "kode_bps": "0210 2",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Baicit / Damea / Kendayan / Dayak Kendayan / Kendayan-Ambawang"
+    },
+    {
+      "kode_bps": "0211 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakambai"
+    },
+    {
+      "kode_bps": "0212 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakati Nyam / Bakati Riok / Bakati' / Bakatik / Bekati"
+    },
+    {
+      "kode_bps": "0213 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakati' Rara / Bekati' Kendayan / Bekati' Nyam-Pelayo / Bekatik / Lara' / Luru"
+    },
+    {
+      "kode_bps": "0214 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakati' Sara / Riok / Sara"
+    },
+    {
+      "kode_bps": "0215 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Balangitn"
+    },
+    {
+      "kode_bps": "0216 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Balantian / Balantiang / Benyadu' / Nyadu"
+    },
+    {
+      "kode_bps": "0217 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Balantiatn"
+    },
+    {
+      "kode_bps": "0218 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bamak / Selibong"
+    },
+    {
+      "kode_bps": "0219 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bangae' Moro"
+    },
+    {
+      "kode_bps": "0220 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Banyadu'"
+    },
+    {
+      "kode_bps": "0221 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Banyur"
+    },
+    {
+      "kode_bps": "0222 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Barai / Bekotu' Bekoya'"
+    },
+    {
+      "kode_bps": "0223 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Batu Entawa'"
+    },
+    {
+      "kode_bps": "0224 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Batu Payung"
+    },
+    {
+      "kode_bps": "0225 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Batu Tajam"
+    },
+    {
+      "kode_bps": "0226 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Baya"
+    },
+    {
+      "kode_bps": "0227 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Beabon-abon"
+    },
+    {
+      "kode_bps": "0228 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Beapay-apay"
+    },
+    {
+      "kode_bps": "0229 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Beape-ape / Ella"
+    },
+    {
+      "kode_bps": "0230 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Beginci"
+    },
+    {
+      "kode_bps": "0231 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bekay / Keneles"
+    },
+    {
+      "kode_bps": "0232 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Belaban"
+    },
+    {
+      "kode_bps": "0233 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Benadai"
+    },
+    {
+      "kode_bps": "0234 5",
+      "iso_639_3": "iba",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Benaday / Iban"
+    },
+    {
+      "kode_bps": "0235 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Benatu"
+    },
+    {
+      "kode_bps": "0236 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Benawas"
+    },
+    {
+      "kode_bps": "0237 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Benyupm / Cempede"
+    },
+    {
+      "kode_bps": "0238 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bi Somu"
+    },
+    {
+      "kode_bps": "0239 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bidoi' / Jagoi"
+    },
+    {
+      "kode_bps": "0240 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bihak"
+    },
+    {
+      "kode_bps": "0241 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bukat"
+    },
+    {
+      "kode_bps": "0242 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Buket"
+    },
+    {
+      "kode_bps": "0243 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Butok"
+    },
+    {
+      "kode_bps": "0244 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Cihie"
+    },
+    {
+      "kode_bps": "0245 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Daro'"
+    },
+    {
+      "kode_bps": "0246 3",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Kaninjal / Kaninjal / Dayak Kaninjal / Keninjal"
+    },
+    {
+      "kode_bps": "0247 5",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Laut / Heban"
+    },
+    {
+      "kode_bps": "0248 0",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Taman / Taman / Taman Dayak"
+    },
+    {
+      "kode_bps": "0249 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Desa"
+    },
+    {
+      "kode_bps": "0250 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dohoi"
+    },
+    {
+      "kode_bps": "0251 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dosatn"
+    },
+    {
+      "kode_bps": "0252 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dsa"
+    },
+    {
+      "kode_bps": "0253 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ensilat"
+    },
+    {
+      "kode_bps": "0254 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Entebang"
+    },
+    {
+      "kode_bps": "0255 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Gerai"
+    },
+    {
+      "kode_bps": "0256 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Gerunggang"
+    },
+    {
+      "kode_bps": "0257 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Golik"
+    },
+    {
+      "kode_bps": "0258 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Gun"
+    },
+    {
+      "kode_bps": "0259 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Hibun"
+    },
+    {
+      "kode_bps": "0260 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Hovongan / Punan Bungan"
+    },
+    {
+      "kode_bps": "0261 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Inggar Silat"
+    },
+    {
+      "kode_bps": "0262 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Jangkang"
+    },
+    {
+      "kode_bps": "0263 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Jawatn"
+    },
+    {
+      "kode_bps": "0264 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kalis"
+    },
+    {
+      "kode_bps": "0265 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kancikng"
+    },
+    {
+      "kode_bps": "0266 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kantu'"
+    },
+    {
+      "kode_bps": "0267 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Karambai / Kembayan"
+    },
+    {
+      "kode_bps": "0268 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayaan"
+    },
+    {
+      "kode_bps": "0269 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayan Mendalam / Mendalam Kajan"
+    },
+    {
+      "kode_bps": "0270 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayong"
+    },
+    {
+      "kode_bps": "0271 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kebuai"
+    },
+    {
+      "kode_bps": "0272 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kekura'"
+    },
+    {
+      "kode_bps": "0273 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Keluas"
+    },
+    {
+      "kode_bps": "0274 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kengkubang"
+    },
+    {
+      "kode_bps": "0275 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kenyilu"
+    },
+    {
+      "kode_bps": "0276 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kepuas"
+    },
+    {
+      "kode_bps": "0277 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kerabat"
+    },
+    {
+      "kode_bps": "0278 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Keramay"
+    },
+    {
+      "kode_bps": "0279 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ketior"
+    },
+    {
+      "kode_bps": "0280 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ketungau Sesae'"
+    },
+    {
+      "kode_bps": "0281 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kodatn"
+    },
+    {
+      "kode_bps": "0282 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Koman"
+    },
+    {
+      "kode_bps": "0283 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kowotn"
+    },
+    {
+      "kode_bps": "0284 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Krio"
+    },
+    {
+      "kode_bps": "0285 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kualatn"
+    },
+    {
+      "kode_bps": "0286 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Lamantawa"
+    },
+    {
+      "kode_bps": "0287 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Lau'"
+    },
+    {
+      "kode_bps": "0288 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Laur"
+    },
+    {
+      "kode_bps": "0289 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Laya"
+    },
+    {
+      "kode_bps": "0290 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Lemandau"
+    },
+    {
+      "kode_bps": "0291 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Liboy"
+    },
+    {
+      "kode_bps": "0292 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Limbai"
+    },
+    {
+      "kode_bps": "0293 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Linoh"
+    },
+    {
+      "kode_bps": "0294 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mahap"
+    },
+    {
+      "kode_bps": "0295 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mali"
+    },
+    {
+      "kode_bps": "0296 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mayan"
+    },
+    {
+      "kode_bps": "0297 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mayau"
+    },
+    {
+      "kode_bps": "0298 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Melahoi"
+    },
+    {
+      "kode_bps": "0299 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Membulu'"
+    },
+    {
+      "kode_bps": "0300 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Menggaling"
+    },
+    {
+      "kode_bps": "0301 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mentebah"
+    },
+    {
+      "kode_bps": "0302 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Menterap Kabut"
+    },
+    {
+      "kode_bps": "0303 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Menterap Sekado"
+    },
+    {
+      "kode_bps": "0304 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mentuka'"
+    },
+    {
+      "kode_bps": "0305 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mualang"
+    },
+    {
+      "kode_bps": "0306 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Muara"
+    },
+    {
+      "kode_bps": "0307 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mudu'"
+    },
+    {
+      "kode_bps": "0308 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Nado / Nto"
+    },
+    {
+      "kode_bps": "0309 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Nahaya'"
+    },
+    {
+      "kode_bps": "0310 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Oruung Da'an"
+    },
+    {
+      "kode_bps": "0311 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pangin"
+    },
+    {
+      "kode_bps": "0312 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pangkalan Suka"
+    },
+    {
+      "kode_bps": "0313 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pantau Bamak"
+    },
+    {
+      "kode_bps": "0314 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Panu"
+    },
+    {
+      "kode_bps": "0315 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Paus"
+    },
+    {
+      "kode_bps": "0316 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pawatn"
+    },
+    {
+      "kode_bps": "0317 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pelanjau"
+    },
+    {
+      "kode_bps": "0318 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Penyarang"
+    },
+    {
+      "kode_bps": "0319 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Perigi"
+    },
+    {
+      "kode_bps": "0320 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pesaguan Hulu"
+    },
+    {
+      "kode_bps": "0321 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pesaguan Kanan"
+    },
+    {
+      "kode_bps": "0322 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pompakng"
+    },
+    {
+      "kode_bps": "0323 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pringkunyit"
+    },
+    {
+      "kode_bps": "0324 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pruwan"
+    },
+    {
+      "kode_bps": "0325 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Punan"
+    },
+    {
+      "kode_bps": "0326 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Punti"
+    },
+    {
+      "kode_bps": "0327 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Randau Joka'"
+    },
+    {
+      "kode_bps": "0328 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Randu'"
+    },
+    {
+      "kode_bps": "0329 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ransa"
+    },
+    {
+      "kode_bps": "0330 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Rembay"
+    },
+    {
+      "kode_bps": "0331 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Riam"
+    },
+    {
+      "kode_bps": "0332 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ribun"
+    },
+    {
+      "kode_bps": "0333 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sajan"
+    },
+    {
+      "kode_bps": "0334 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Salako"
+    },
+    {
+      "kode_bps": "0335 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sami"
+    },
+    {
+      "kode_bps": "0336 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sane"
+    },
+    {
+      "kode_bps": "0337 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sanggau"
+    },
+    {
+      "kode_bps": "0338 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sangku'"
+    },
+    {
+      "kode_bps": "0339 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sapatoi"
+    },
+    {
+      "kode_bps": "0340 2",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Laut"
+    },
+    {
+      "kode_bps": "0341 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sebaru'"
+    },
+    {
+      "kode_bps": "0342 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Seberuang"
+    },
+    {
+      "kode_bps": "0343 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sekajang"
+    },
+    {
+      "kode_bps": "0344 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sekakai"
+    },
+    {
+      "kode_bps": "0345 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sekapat"
+    },
+    {
+      "kode_bps": "0346 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sekubang"
+    },
+    {
+      "kode_bps": "0347 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sekujam"
+    },
+    {
+      "kode_bps": "0348 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Selawe"
+    },
+    {
+      "kode_bps": "0349 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Semanakng"
+    },
+    {
+      "kode_bps": "0350 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sempadian"
+    },
+    {
+      "kode_bps": "0351 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Senangkatn"
+    },
+    {
+      "kode_bps": "0352 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Senduruhan"
+    },
+    {
+      "kode_bps": "0353 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sepauhan"
+    },
+    {
+      "kode_bps": "0354 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sikukng"
+    },
+    {
+      "kode_bps": "0355 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Silatn Muntak"
+    },
+    {
+      "kode_bps": "0356 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sisang"
+    },
+    {
+      "kode_bps": "0357 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sontas"
+    },
+    {
+      "kode_bps": "0358 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Suaid"
+    },
+    {
+      "kode_bps": "0359 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Suka Maju"
+    },
+    {
+      "kode_bps": "0360 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sum"
+    },
+    {
+      "kode_bps": "0361 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sumanjawat"
+    },
+    {
+      "kode_bps": "0362 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Suru' ilir"
+    },
+    {
+      "kode_bps": "0363 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Suru' Ulu"
+    },
+    {
+      "kode_bps": "0364 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Suruh"
+    },
+    {
+      "kode_bps": "0365 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Suti Bamayo"
+    },
+    {
+      "kode_bps": "0366 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Taba"
+    },
+    {
+      "kode_bps": "0367 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tadietn"
+    },
+    {
+      "kode_bps": "0368 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Talaga-Ngabukit"
+    },
+    {
+      "kode_bps": "0369 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tamambalo"
+    },
+    {
+      "kode_bps": "0370 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Taman Sekado"
+    },
+    {
+      "kode_bps": "0371 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tameng"
+    },
+    {
+      "kode_bps": "0372 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tanjung"
+    },
+    {
+      "kode_bps": "0373 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tawaek"
+    },
+    {
+      "kode_bps": "0374 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tebang / Tobak"
+    },
+    {
+      "kode_bps": "0375 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tembiruhan"
+    },
+    {
+      "kode_bps": "0376 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tengon"
+    },
+    {
+      "kode_bps": "0377 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tinying"
+    },
+    {
+      "kode_bps": "0378 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tola'"
+    },
+    {
+      "kode_bps": "0379 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ulu Sekado"
+    },
+    {
+      "kode_bps": "0380 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Undau"
+    },
+    {
+      "kode_bps": "0381 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Seruyan / Kohin / Seruyan"
+    },
+    {
+      "kode_bps": "0382 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakau / Paku"
+    },
+    {
+      "kode_bps": "0383 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakumpai / Bara-Jida"
+    },
+    {
+      "kode_bps": "0384 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Balai"
+    },
+    {
+      "kode_bps": "0385 2",
+      "iso_639_3": "bjn",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Banjar / Labuhan / Melayu Banjar"
+    },
+    {
+      "kode_bps": "0386 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Barito"
+    },
+    {
+      "kode_bps": "0387 6",
+      "iso_639_3": "nij",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Barito Barat Daya / Biadju / Ngaju / Ngaja / Dayak Ngaju"
+    },
+    {
+      "kode_bps": "0388 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Barito Utara / Lawangan / Luwangan"
+    },
+    {
+      "kode_bps": "0389 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bayan"
+    },
+    {
+      "kode_bps": "0390 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bulik"
+    },
+    {
+      "kode_bps": "0391 2",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Bara Injey"
+    },
+    {
+      "kode_bps": "0392 4",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Dohoi / Siang"
+    },
+    {
+      "kode_bps": "0393 6",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Dusun"
+    },
+    {
+      "kode_bps": "0394 1",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Katingan / Ngaju"
+    },
+    {
+      "kode_bps": "0395 3",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Manyan"
+    },
+    {
+      "kode_bps": "0396 5",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Ngaju"
+    },
+    {
+      "kode_bps": "0397 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Barean"
+    },
+    {
+      "kode_bps": "0398 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Bayan"
+    },
+    {
+      "kode_bps": "0399 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Kalahien"
+    },
+    {
+      "kode_bps": "0400 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Lawanngan"
+    },
+    {
+      "kode_bps": "0401 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Malang"
+    },
+    {
+      "kode_bps": "0402 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Tawongan"
+    },
+    {
+      "kode_bps": "0403 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dusun Witu"
+    },
+    {
+      "kode_bps": "0404 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kadoreh"
+    },
+    {
+      "kode_bps": "0405 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Katingan"
+    },
+    {
+      "kode_bps": "0406 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kotawaringin"
+    },
+    {
+      "kode_bps": "0407 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Malahoi / Ot Danum / Uud Danum / Uut Danum"
+    },
+    {
+      "kode_bps": "0408 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Manyan"
+    },
+    {
+      "kode_bps": "0409 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mbalok"
+    },
+    {
+      "kode_bps": "0410 3",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Dayak"
+    },
+    {
+      "kode_bps": "0411 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mendawai"
+    },
+    {
+      "kode_bps": "0412 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Mentaya"
+    },
+    {
+      "kode_bps": "0413 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Pembuang"
+    },
+    {
+      "kode_bps": "0414 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Punan Merap"
+    },
+    {
+      "kode_bps": "0415 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Rejang Baram"
+    },
+    {
+      "kode_bps": "0416 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Rejang Hilir"
+    },
+    {
+      "kode_bps": "0417 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sampit"
+    },
+    {
+      "kode_bps": "0418 5",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Tabojan / Tabojan Tongka / Tabuyan / Tawoyan / Dayak Tawoyan / Tewoyan"
+    },
+    {
+      "kode_bps": "0419 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Taboyan"
+    },
+    {
+      "kode_bps": "0420 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tamuan"
+    },
+    {
+      "kode_bps": "0421 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Waringin"
+    },
+    {
+      "kode_bps": "0422 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ampang"
+    },
+    {
+      "kode_bps": "0423 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Deah / Dejah / Dusun Deyah"
+    },
+    {
+      "kode_bps": "0424 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ampanang"
+    },
+    {
+      "kode_bps": "0425 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Aoheng / Penihing"
+    },
+    {
+      "kode_bps": "0426 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Aput / Punan Aput"
+    },
+    {
+      "kode_bps": "0427 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sama-Bajau"
+    },
+    {
+      "kode_bps": "0428 6",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Bahau / Dayak Kenyah"
+    },
+    {
+      "kode_bps": "0429 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bamayo / Bumayoh"
+    },
+    {
+      "kode_bps": "0430 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Basap"
+    },
+    {
+      "kode_bps": "0431 0",
+      "iso_639_3": "bve",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Berau"
+    },
+    {
+      "kode_bps": "0432 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Berusuh / Bulusu / Burusu"
+    },
+    {
+      "kode_bps": "0433 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bolongan"
+    },
+    {
+      "kode_bps": "0434 6",
+      "iso_639_3": "bvu",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Bukit / Melayu Bukit / Meratus"
+    },
+    {
+      "kode_bps": "0435 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bulungan"
+    },
+    {
+      "kode_bps": "0436 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Busang / Kajan / Kayan Busang"
+    },
+    {
+      "kode_bps": "0437 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Segayi / Ga'ay / Segai"
+    },
+    {
+      "kode_bps": "0438 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Camucones / Tedong / Tidoeng / Tidong / Tiran / Tirones / Tiroon / Zedong"
+    },
+    {
+      "kode_bps": "0439 2",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Bakau"
+    },
+    {
+      "kode_bps": "0440 6",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Darat / Dayak Klemautan"
+    },
+    {
+      "kode_bps": "0441 1",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Murut"
+    },
+    {
+      "kode_bps": "0442 3",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Punan"
+    },
+    {
+      "kode_bps": "0443 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Dayic"
+    },
+    {
+      "kode_bps": "0444 0",
+      "iso_639_3": "tsg",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Joloano Sulu / Moro Joloano / Sooloo / Sulu / Suluk / Taosug / Tausog / Tausug / Taw Sug"
+    },
+    {
+      "kode_bps": "0445 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayan"
+    },
+    {
+      "kode_bps": "0446 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayan Kayan River / Kayan River Kajan"
+    },
+    {
+      "kode_bps": "0447 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayan Mahakam"
+    },
+    {
+      "kode_bps": "0448 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayan Sungai Kayan"
+    },
+    {
+      "kode_bps": "0449 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kayan Wahau / Wahau Kajan"
+    },
+    {
+      "kode_bps": "0450 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kenyah / Kenyah Tanah Tinggi / Usun Apau Kenyah"
+    },
+    {
+      "kode_bps": "0451 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kenyah Barat / Uma' Lasan"
+    },
+    {
+      "kode_bps": "0452 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kenyah Wahau / Lebu' Kulit / Wahau Kenya"
+    },
+    {
+      "kode_bps": "0453 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kereho / Keriau Punan"
+    },
+    {
+      "kode_bps": "0454 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kolod / Kolour / Kolur / Okolod / Okolod Murut"
+    },
+    {
+      "kode_bps": "0455 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kutai"
+    },
+    {
+      "kode_bps": "0456 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Lengilu"
+    },
+    {
+      "kode_bps": "0457 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Lun Bawang / Lun Daya / Lun Dayah / Lun Daye / Lun Dayoh / Lundaya Putuk / Murut Selatan"
+    },
+    {
+      "kode_bps": "0458 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Lundayeh"
+    },
+    {
+      "kode_bps": "0459 4",
+      "iso_639_3": "bve",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Berau / Melayu Merau"
+    },
+    {
+      "kode_bps": "0460 1",
+      "iso_639_3": "mqg",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Kota Bangun Kutai"
+    },
+    {
+      "kode_bps": "0461 3",
+      "iso_639_3": "vkt",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Tenggarong Kutai / Tenggarong"
+    },
+    {
+      "kode_bps": "0462 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Merap"
+    },
+    {
+      "kode_bps": "0463 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Merau / Sa'ban / Saban"
+    },
+    {
+      "kode_bps": "0464 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Milano"
+    },
+    {
+      "kode_bps": "0465 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Modang"
+    },
+    {
+      "kode_bps": "0466 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Murut Sembakung"
+    },
+    {
+      "kode_bps": "0467 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Oma Longh / Uma' Lung"
+    },
+    {
+      "kode_bps": "0468 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Punan Tubu"
+    },
+    {
+      "kode_bps": "0469 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Putoh / Putuk"
+    },
+    {
+      "kode_bps": "0470 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sajau / Sajau Basap / Sujau"
+    },
+    {
+      "kode_bps": "0471 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Selungai Murut"
+    },
+    {
+      "kode_bps": "0472 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Sembakung Murut"
+    },
+    {
+      "kode_bps": "0473 1",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tagol"
+    },
+    {
+      "kode_bps": "0474 3",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Tidung"
+    },
+    {
+      "kode_bps": "0475 5",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Tunjung / Dayak Tunjung"
+    },
+    {
+      "kode_bps": "0476 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Uheng Kereho"
+    },
+    {
+      "kode_bps": "0477 2",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bakatan / Bakitan / Beketan / Bukitan / Mangkettan / Manketa / Pakatan"
+    },
+    {
+      "kode_bps": "0478 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Biatah / Bidayuh Biatah / Bideyu / Landu / Lundu / Pueh / Siburan"
+    },
+    {
+      "kode_bps": "0479 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Bidayuh Bukar-Sadong / Buka / Bukar / Bukar Sadong / Bukar Sadung Bidayah / Sabutan / Sadong / Serian/"
+    },
+    {
+      "kode_bps": "0480 3",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Dayak Ahe"
+    },
+    {
+      "kode_bps": "0481 5",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Embaloh / Malo / Maloh / Matoh / Mbaloh / Memaloh / Palin / Pari / Sangau"
+    },
+    {
+      "kode_bps": "0482 0",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Kualan-Semandang / Semandang"
+    },
+    {
+      "kode_bps": "0483 2",
+      "iso_639_3": "",
+      "kelompok": "Dayak",
+      "nama_bahasa_alias": "Bahasa Ma'anyan / Dayak Maanyak"
+    },
+    {
+      "kode_bps": "0484 4",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Ot Siang"
+    },
+    {
+      "kode_bps": "0485 6",
+      "iso_639_3": "",
+      "kelompok": "Kalimantan",
+      "nama_bahasa_alias": "Bahasa Semambu / Semembu / Sumambu / Sumambuk / Sumambu-Tagal / Tagal Murut"
+    },
+    {
+      "kode_bps": "0486 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bantik"
+    },
+    {
+      "kode_bps": "0487 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bentenan / Pasan / Ratahan"
+    },
+    {
+      "kode_bps": "0488 5",
+      "iso_639_3": "mog",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bola'ang-Mongondow / Bolaang Mongondow / Minahassa / Mongondou / Mongondow"
+    },
+    {
+      "kode_bps": "0489 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Lolak"
+    },
+    {
+      "kode_bps": "0490 4",
+      "iso_639_3": "xmm",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Manado"
+    },
+    {
+      "kode_bps": "0491 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Minahasa"
+    },
+    {
+      "kode_bps": "0492 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Minhasa / Tombalu / Tombula / Tombulu / Tombulu' / Toumbulu"
+    },
+    {
+      "kode_bps": "0493 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pakewa / Tontemboan / Tountemboan"
+    },
+    {
+      "kode_bps": "0494 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Ponasakan / Ponosakan"
+    },
+    {
+      "kode_bps": "0495 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Sangi / Sangih / Sangihe / Sangir"
+    },
+    {
+      "kode_bps": "0496 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Talaud / Talaut / Talodda"
+    },
+    {
+      "kode_bps": "0497 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tolou / Tolour / Tondano / Tondanou / Toulour"
+    },
+    {
+      "kode_bps": "0498 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tombatu"
+    },
+    {
+      "kode_bps": "0499 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tompakewa"
+    },
+    {
+      "kode_bps": "0500 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tonsawang"
+    },
+    {
+      "kode_bps": "0501 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tonsea / Tonsea'"
+    },
+    {
+      "kode_bps": "0502 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tontembun"
+    },
+    {
+      "kode_bps": "0503 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Adjio / Ta'adjio / Tadjio / Tajio"
+    },
+    {
+      "kode_bps": "0504 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Ampibabo-Lauje / Laudje"
+    },
+    {
+      "kode_bps": "0505 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Andio / Andio'o / Imbao'o / Masama"
+    },
+    {
+      "kode_bps": "0506 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bada / Tobada"
+    },
+    {
+      "kode_bps": "0507 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bada' / Tobada'"
+    },
+    {
+      "kode_bps": "0508 1",
+      "iso_639_3": "zbt",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Baha / Batui"
+    },
+    {
+      "kode_bps": "0509 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bahonsuai"
+    },
+    {
+      "kode_bps": "0510 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Balaesan / Balaesang / Balaisang / Pajo"
+    },
+    {
+      "kode_bps": "0511 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Balantak / Kosian"
+    },
+    {
+      "kode_bps": "0512 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Banava / Banawa / Kaili Unde"
+    },
+    {
+      "kode_bps": "0513 6",
+      "iso_639_3": "bgz",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Banggai"
+    },
+    {
+      "kode_bps": "0514 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bare'e / Baree"
+    },
+    {
+      "kode_bps": "0515 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Baria / Bela / Belala / Mbelala / Tombelala"
+    },
+    {
+      "kode_bps": "0516 5",
+      "iso_639_3": "bep",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Behoa / Besoa"
+    },
+    {
+      "kode_bps": "0517 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bobongko"
+    },
+    {
+      "kode_bps": "0518 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bolano"
+    },
+    {
+      "kode_bps": "0519 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bual / Buol / Bwo'ol / Bwool / Dia"
+    },
+    {
+      "kode_bps": "0520 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bunggu / Da'a / Kaili Da'a"
+    },
+    {
+      "kode_bps": "0521 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bungku"
+    },
+    {
+      "kode_bps": "0522 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Dampal"
+    },
+    {
+      "kode_bps": "0523 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Dampelas / Dampelasa / Dian"
+    },
+    {
+      "kode_bps": "0524 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Dondo / Toli-Toli"
+    },
+    {
+      "kode_bps": "0525 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Gage / Tolitoli / Tontoli / Totoli"
+    },
+    {
+      "kode_bps": "0526 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kaili"
+    },
+    {
+      "kode_bps": "0527 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kaili Ledo / Ledo / Paloesch / Palu"
+    },
+    {
+      "kode_bps": "0528 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kasimbar"
+    },
+    {
+      "kode_bps": "0529 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Koro / Oema / Pipikoro / Uma"
+    },
+    {
+      "kode_bps": "0530 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Koroni"
+    },
+    {
+      "kode_bps": "0531 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kulawi / Momabu"
+    },
+    {
+      "kode_bps": "0532 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Lauje / Tinombo"
+    },
+    {
+      "kode_bps": "0533 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Lindu / Linduan / Tado"
+    },
+    {
+      "kode_bps": "0534 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Loinang / Loindang / Madi / Mondono / Saluan"
+    },
+    {
+      "kode_bps": "0535 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Moma"
+    },
+    {
+      "kode_bps": "0536 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mori"
+    },
+    {
+      "kode_bps": "0537 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mori Atas / Mori Barat"
+    },
+    {
+      "kode_bps": "0538 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mori Bawah / Mori Timur"
+    },
+    {
+      "kode_bps": "0539 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mouton / Tiadje / Tialo / Tomini"
+    },
+    {
+      "kode_bps": "0540 3",
+      "iso_639_3": "npy",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Napu / Pekurehua"
+    },
+    {
+      "kode_bps": "0541 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Ndaoe / Ndau / Pendau / Umalasa"
+    },
+    {
+      "kode_bps": "0542 0",
+      "iso_639_3": "pmf",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pamona / Poso"
+    },
+    {
+      "kode_bps": "0543 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Petapa / Taje"
+    },
+    {
+      "kode_bps": "0544 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Sedoa / Tawaelia / Tawailia / Topobaria"
+    },
+    {
+      "kode_bps": "0545 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tomadino"
+    },
+    {
+      "kode_bps": "0546 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Alalao / Mori Selatan / Padoe / Padoe"
+    },
+    {
+      "kode_bps": "0547 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Andian / Mandar / Mandhar / Manjar"
+    },
+    {
+      "kode_bps": "0548 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bada' Besona"
+    },
+    {
+      "kode_bps": "0549 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Baebunta / Lemolang / Limola"
+    },
+    {
+      "kode_bps": "0550 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Barang-Barang / Da'ang / Laiyolo"
+    },
+    {
+      "kode_bps": "0551 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Baras"
+    },
+    {
+      "kode_bps": "0552 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bentong / Dentong"
+    },
+    {
+      "kode_bps": "0553 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Budong-Budong / Tangkou / Tongkou"
+    },
+    {
+      "kode_bps": "0554 5",
+      "iso_639_3": "bug",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bugi / Bugis / De' / Rappang Bugi / Ugi"
+    },
+    {
+      "kode_bps": "0555 0",
+      "iso_639_3": "mvp",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Duri"
+    },
+    {
+      "kode_bps": "0556 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Endekan / Endekan Timur / Enrekang"
+    },
+    {
+      "kode_bps": "0557 4",
+      "iso_639_3": "mak",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Goa / Makasar / Makassa / Makassar / Mangasara / Mengkasara / Taena / Tena"
+    },
+    {
+      "kode_bps": "0558 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Ha'uwa / Leboni / Rampi / Rampi-Leboni"
+    },
+    {
+      "kode_bps": "0559 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kajang / Konjo"
+    },
+    {
+      "kode_bps": "0560 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kondjo / Konjo Pesisir / Tiro"
+    },
+    {
+      "kode_bps": "0561 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Konjo Pantai"
+    },
+    {
+      "kode_bps": "0562 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Konjo Pegunungan / Konjo Tanah Tinggi / Konyo"
+    },
+    {
+      "kode_bps": "0563 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Luwu"
+    },
+    {
+      "kode_bps": "0564 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Luwu' / Toala / Toala' / Toala-Palili"
+    },
+    {
+      "kode_bps": "0565 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Maiwa / Masenrempulu"
+    },
+    {
+      "kode_bps": "0566 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Malimpung"
+    },
+    {
+      "kode_bps": "0567 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Massenrempulu"
+    },
+    {
+      "kode_bps": "0568 0",
+      "iso_639_3": "mfp",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Makassar"
+    },
+    {
+      "kode_bps": "0569 2",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Minahasa"
+    },
+    {
+      "kode_bps": "0570 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Palopo"
+    },
+    {
+      "kode_bps": "0571 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pattinjo"
+    },
+    {
+      "kode_bps": "0572 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pewanean / Pewaneang / Pohoneang / Seko Tengah"
+    },
+    {
+      "kode_bps": "0573 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pilpikoro"
+    },
+    {
+      "kode_bps": "0574 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pitu"
+    },
+    {
+      "kode_bps": "0575 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Rongkong / Rongkong Kanandede / Sada / Sangangalla' / Tae' / Tae' Tae' / Taek / To Rongkong / Toraja Tim"
+    },
+    {
+      "kode_bps": "0576 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Sa'adan"
+    },
+    {
+      "kode_bps": "0577 6",
+      "iso_639_3": "sda",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Sa'dan / Sadan / Sadang / Toraja Selatan / Ta'e / Toraja / Toraja-Sa'dan"
+    },
+    {
+      "kode_bps": "0578 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Salajar / Salayar / Salayer / Saleier / Selayar / Siladja / Silajara"
+    },
+    {
+      "kode_bps": "0579 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Salu"
+    },
+    {
+      "kode_bps": "0580 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Seko"
+    },
+    {
+      "kode_bps": "0581 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Seko Padang / Sua Tu Padang / Wono"
+    },
+    {
+      "kode_bps": "0582 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tombo"
+    },
+    {
+      "kode_bps": "0583 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Uluna"
+    },
+    {
+      "kode_bps": "0584 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Wotu"
+    },
+    {
+      "kode_bps": "0585 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Akido / Pancana / Pantjana"
+    },
+    {
+      "kode_bps": "0586 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Badjaw / Badjo / Bajao / Bajau Indonesian / Bajo / Bayo / Gaj / Luaan / Lutaos / Lutayaos / Sama / Turije'ne'"
+    },
+    {
+      "kode_bps": "0587 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bajau"
+    },
+    {
+      "kode_bps": "0588 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Baruta"
+    },
+    {
+      "kode_bps": "0589 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Baubau / Wolio"
+    },
+    {
+      "kode_bps": "0590 1",
+      "iso_639_3": "cia",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Boetoneezen / Buton Selatan / Butonese / Butung selatan / Cia-Cia"
+    },
+    {
+      "kode_bps": "0591 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bonerate"
+    },
+    {
+      "kode_bps": "0592 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bosoa / Busoa"
+    },
+    {
+      "kode_bps": "0593 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Buton"
+    },
+    {
+      "kode_bps": "0594 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Butung"
+    },
+    {
+      "kode_bps": "0595 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kaimbulawa"
+    },
+    {
+      "kode_bps": "0596 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kalaotoa"
+    },
+    {
+      "kode_bps": "0597 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kalisusu / Kolensusu / Kolinsusu / Kulisusu"
+    },
+    {
+      "kode_bps": "0598 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kamaru"
+    },
+    {
+      "kode_bps": "0599 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kambowa"
+    },
+    {
+      "kode_bps": "0600 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Karompa"
+    },
+    {
+      "kode_bps": "0601 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kioko"
+    },
+    {
+      "kode_bps": "0602 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kodeoha / Kondeha"
+    },
+    {
+      "kode_bps": "0603 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Kumbewaha / Umbewaha"
+    },
+    {
+      "kode_bps": "0604 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Laki / Lolaki / To'olaki / Tokia / Tolaki / Tololaki"
+    },
+    {
+      "kode_bps": "0605 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Lasalimu"
+    },
+    {
+      "kode_bps": "0606 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Layolo"
+    },
+    {
+      "kode_bps": "0607 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Liabuku"
+    },
+    {
+      "kode_bps": "0608 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mapute / Mopute / Waru"
+    },
+    {
+      "kode_bps": "0609 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Maronene / Moronene / Nahina"
+    },
+    {
+      "kode_bps": "0610 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mekongga"
+    },
+    {
+      "kode_bps": "0611 6",
+      "iso_639_3": "mnb",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Muna"
+    },
+    {
+      "kode_bps": "0612 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Noihe / Rahambuu / Wiaoe / Wiau"
+    },
+    {
+      "kode_bps": "0613 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Taloki / Taluki"
+    },
+    {
+      "kode_bps": "0614 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Todanga"
+    },
+    {
+      "kode_bps": "0615 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Tukang Besi"
+    },
+    {
+      "kode_bps": "0616 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Wawonii / Wowonii"
+    },
+    {
+      "kode_bps": "0617 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bintauna"
+    },
+    {
+      "kode_bps": "0618 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bolango / Bulanga-Uki / Diu"
+    },
+    {
+      "kode_bps": "0619 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bonda / Bunda / Bune / Suwawa / Suwawa-Bunda"
+    },
+    {
+      "kode_bps": "0620 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bulanga"
+    },
+    {
+      "kode_bps": "0621 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Dio / Kaidipan / Kaidipang / Kodipang"
+    },
+    {
+      "kode_bps": "0622 2",
+      "iso_639_3": "gor",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Gorongtalo / Gorontalo / Guarantala / Gunongtello / Holontalo / Hulontalo"
+    },
+    {
+      "kode_bps": "0623 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Aralle / Mambi / Tabulahan"
+    },
+    {
+      "kode_bps": "0624 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Awo-Sumakuyu / Botteng-Tappalang / Kado / Oeloemanda / Tubbi / Ulumanda' / Ulumandak / Ulunda"
+    },
+    {
+      "kode_bps": "0625 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bambam / Pitu Ulunna Salu"
+    },
+    {
+      "kode_bps": "0626 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Bambang"
+    },
+    {
+      "kode_bps": "0627 5",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Campalagian / Tallumpanuae / Tasing"
+    },
+    {
+      "kode_bps": "0628 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Dakka"
+    },
+    {
+      "kode_bps": "0629 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Doda' / Sarudu"
+    },
+    {
+      "kode_bps": "0630 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Galumpang / Kalumpang / Ma'ki / Maki / Mangki / Mangkir"
+    },
+    {
+      "kode_bps": "0631 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Makki"
+    },
+    {
+      "kode_bps": "0632 3",
+      "iso_639_3": "mqj",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mamasa"
+    },
+    {
+      "kode_bps": "0633 5",
+      "iso_639_3": "mqx",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Mamoedjoe / Mamoedjoesch / Mamudju / Mamuju / Udai"
+    },
+    {
+      "kode_bps": "0634 0",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pakkado"
+    },
+    {
+      "kode_bps": "0635 2",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Panasuan / To Pamosean / To Panasean"
+    },
+    {
+      "kode_bps": "0636 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pannei / Tapango"
+    },
+    {
+      "kode_bps": "0637 6",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Pitu-Ulunna-Salu"
+    },
+    {
+      "kode_bps": "0638 1",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Talondo'"
+    },
+    {
+      "kode_bps": "0639 3",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Topoiyo"
+    },
+    {
+      "kode_bps": "0640 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ahtiago / Atiahu / Bobot / Hatumeten / Ntau / Werinama"
+    },
+    {
+      "kode_bps": "0641 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Alakamat / Asli / Huaulu"
+    },
+    {
+      "kode_bps": "0642 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Alune / Patasiwa Alfoeren / Sapalewa"
+    },
+    {
+      "kode_bps": "0643 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Amahai / Amahei"
+    },
+    {
+      "kode_bps": "0644 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ambelan"
+    },
+    {
+      "kode_bps": "0645 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ambelau / Amblau"
+    },
+    {
+      "kode_bps": "0646 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ambon"
+    },
+    {
+      "kode_bps": "0647 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ambon Tengah / Laha"
+    },
+    {
+      "kode_bps": "0648 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ambon Timur Laut / Tulehu"
+    },
+    {
+      "kode_bps": "0649 4",
+      "iso_639_3": "abs",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Ambong / Malayu Ambon / Melayu Ambon"
+    },
+    {
+      "kode_bps": "0650 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Aputai / Ilputih / Opotai / Tutunohan"
+    },
+    {
+      "kode_bps": "0651 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Aru"
+    },
+    {
+      "kode_bps": "0652 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Asilulu"
+    },
+    {
+      "kode_bps": "0653 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Atamanu / Awaiya / Jahalatan / Jahalatane / Yalahatan"
+    },
+    {
+      "kode_bps": "0654 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Babar Tenggara"
+    },
+    {
+      "kode_bps": "0655 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Babar Utara"
+    },
+    {
+      "kode_bps": "0656 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Bacan"
+    },
+    {
+      "kode_bps": "0657 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Balamata / Palamata / Palumata"
+    },
+    {
+      "kode_bps": "0658 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Bambaa / Hukumina"
+    },
+    {
+      "kode_bps": "0659 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Banda"
+    },
+    {
+      "kode_bps": "0660 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Barakai / Workai"
+    },
+    {
+      "kode_bps": "0661 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Bati / Gah"
+    },
+    {
+      "kode_bps": "0662 6",
+      "iso_639_3": "btj",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Batjan / Melayu Bacan"
+    },
+    {
+      "kode_bps": "0663 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Batuley / Gwataley / Watulai"
+    },
+    {
+      "kode_bps": "0664 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Belu"
+    },
+    {
+      "kode_bps": "0665 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Benggoi / Bengoi / Isal / Kobi-Benggoi / Uhei-Kaclakin / Uhei-Kahlakim"
+    },
+    {
+      "kode_bps": "0666 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Bicoli / Bitjoli / Ingli / Maba"
+    },
+    {
+      "kode_bps": "0667 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Boano / Buano / Djidja"
+    },
+    {
+      "kode_bps": "0668 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Boeroe / Buru"
+    },
+    {
+      "kode_bps": "0669 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Bonfia / Masiwang"
+    },
+    {
+      "kode_bps": "0670 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Buli"
+    },
+    {
+      "kode_bps": "0671 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Buru Utara / Li Enyorot / Liet Enjorot / Lisela / Wayapo"
+    },
+    {
+      "kode_bps": "0672 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Caeli / Cajeli / Gaeli / Kajeli / Kayeli"
+    },
+    {
+      "kode_bps": "0673 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Dai"
+    },
+    {
+      "kode_bps": "0674 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Damar Selatan"
+    },
+    {
+      "kode_bps": "0675 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Damar Utara"
+    },
+    {
+      "kode_bps": "0676 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Davelor / Dawera-Daweloor"
+    },
+    {
+      "kode_bps": "0677 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Desite / Jitine"
+    },
+    {
+      "kode_bps": "0678 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Dmar"
+    },
+    {
+      "kode_bps": "0679 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Dobel / Doibel / Kobro'or / Kobroor / Sersifar Tannin"
+    },
+    {
+      "kode_bps": "0680 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Elpaputi / Elpaputih"
+    },
+    {
+      "kode_bps": "0681 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Emplawas"
+    },
+    {
+      "kode_bps": "0682 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Esiriun / Kasiui / Kasui / Kesui / Matabello / Snabi Watubela / Watubela / Wesi"
+    },
+    {
+      "kode_bps": "0683 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Fatakai / Nuaulu / Nuaulu selatan / Patakai"
+    },
+    {
+      "kode_bps": "0684 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Fordata / Larat / Vai Fordata / Vai Tnebar / Vaidida"
+    },
+    {
+      "kode_bps": "0685 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Galela"
+    },
+    {
+      "kode_bps": "0686 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Galoleng / Iliwaki / Ilmedu / Ilwaki / Lir Talo / Talur"
+    },
+    {
+      "kode_bps": "0687 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Gamkonora"
+    },
+    {
+      "kode_bps": "0688 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Gane / Gani / Giman"
+    },
+    {
+      "kode_bps": "0689 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Gebe / Gebi"
+    },
+    {
+      "kode_bps": "0690 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Geloli"
+    },
+    {
+      "kode_bps": "0691 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Gesa / Geser / Geser-Gorom / Goran / Gorom / Gorong / Seram / Seran / Seran Laut"
+    },
+    {
+      "kode_bps": "0692 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Goram"
+    },
+    {
+      "kode_bps": "0693 4",
+      "iso_639_3": "goq",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Gorap"
+    },
+    {
+      "kode_bps": "0694 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Hahutan / Hahutau / Ili'uun / Iliun / Ilmaumau / Limera"
+    },
+    {
+      "kode_bps": "0695 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Halmahera Selatan"
+    },
+    {
+      "kode_bps": "0696 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Halmahera Utara"
+    },
+    {
+      "kode_bps": "0697 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Haruku"
+    },
+    {
+      "kode_bps": "0698 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Hatue / Saleman / Seleman / Wahai"
+    },
+    {
+      "kode_bps": "0699 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Hila-Kaitetu / Seit-Kaitetu"
+    },
+    {
+      "kode_bps": "0700 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Hitu"
+    },
+    {
+      "kode_bps": "0701 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Honitetu / Tala / Wemale selatan"
+    },
+    {
+      "kode_bps": "0702 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Horuru"
+    },
+    {
+      "kode_bps": "0703 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Hoti"
+    },
+    {
+      "kode_bps": "0704 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Hulung"
+    },
+    {
+      "kode_bps": "0705 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ibu"
+    },
+    {
+      "kode_bps": "0706 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Imroin / Imroing"
+    },
+    {
+      "kode_bps": "0707 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Jamden / Jamdena / Yamdena"
+    },
+    {
+      "kode_bps": "0708 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ka'u"
+    },
+    {
+      "kode_bps": "0709 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kadai"
+    },
+    {
+      "kode_bps": "0710 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kai / Kei"
+    },
+    {
+      "kode_bps": "0711 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kaibobo / Kaibubu"
+    },
+    {
+      "kode_bps": "0712 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kaisar"
+    },
+    {
+      "kode_bps": "0713 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kamarian / Kamariang / Seruawan"
+    },
+    {
+      "kode_bps": "0714 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kao / Kau"
+    },
+    {
+      "kode_bps": "0715 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Karey / Kerei / Krei"
+    },
+    {
+      "kode_bps": "0716 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kecil"
+    },
+    {
+      "kode_bps": "0717 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kedi / Laba / Loloda Selatan"
+    },
+    {
+      "kode_bps": "0718 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kisar / Meher / Yotowawa"
+    },
+    {
+      "kode_bps": "0719 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Koba"
+    },
+    {
+      "kode_bps": "0720 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kola / Kulaha / Marlasi / Warilau"
+    },
+    {
+      "kode_bps": "0721 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Komfana / Kompane / Kongampani"
+    },
+    {
+      "kode_bps": "0722 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kroe"
+    },
+    {
+      "kode_bps": "0723 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Kur"
+    },
+    {
+      "kode_bps": "0724 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Lain"
+    },
+    {
+      "kode_bps": "0725 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Larike-Wakasihu"
+    },
+    {
+      "kode_bps": "0726 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Latu"
+    },
+    {
+      "kode_bps": "0727 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Lenkaitahe / Liambata / Salas / Salas Gunung"
+    },
+    {
+      "kode_bps": "0728 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Leti"
+    },
+    {
+      "kode_bps": "0729 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Letri Lgona / Lgona / Literi Lagona / Luang"
+    },
+    {
+      "kode_bps": "0730 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Liambata-Kobi / Liana / Lianan / Liana-Seti / Teula / Uhei Kachlakan / Uhei Kaclakin / Uhei Kahlakim"
+    },
+    {
+      "kode_bps": "0731 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Liam-Garam"
+    },
+    {
+      "kode_bps": "0732 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Lipa-Liam"
+    },
+    {
+      "kode_bps": "0733 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Lisabata / Lisabata-Nuniali / Noniali / Nuniali"
+    },
+    {
+      "kode_bps": "0734 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Loda / Loloda / Loloda Utara"
+    },
+    {
+      "kode_bps": "0735 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Lola"
+    },
+    {
+      "kode_bps": "0736 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Lorang"
+    },
+    {
+      "kode_bps": "0737 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Loun"
+    },
+    {
+      "kode_bps": "0738 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Luhu"
+    },
+    {
+      "kode_bps": "0739 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Maaro / Oirata"
+    },
+    {
+      "kode_bps": "0740 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Madole / Modole"
+    },
+    {
+      "kode_bps": "0741 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Mahuan / Tugun"
+    },
+    {
+      "kode_bps": "0742 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Mairiri / Mariri"
+    },
+    {
+      "kode_bps": "0743 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Makian Barat / Makian Luar"
+    },
+    {
+      "kode_bps": "0744 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Makian Dalam / Makian Timur"
+    },
+    {
+      "kode_bps": "0745 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Maksela / Moksela / Opselan"
+    },
+    {
+      "kode_bps": "0746 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Mangole / Mangoli / Sula Mangoli"
+    },
+    {
+      "kode_bps": "0747 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Manipa / Soow Huhelia"
+    },
+    {
+      "kode_bps": "0748 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Manobai / Manombai / Wamar / Wokam"
+    },
+    {
+      "kode_bps": "0749 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Manusela / Wahinama"
+    },
+    {
+      "kode_bps": "0750 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Marsela- Babar Selatan / Masela Tengah"
+    },
+    {
+      "kode_bps": "0751 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Marsela Barat / Masela Barat"
+    },
+    {
+      "kode_bps": "0752 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Masbuar-Tela / Tela'a / Tela-Masbuar"
+    },
+    {
+      "kode_bps": "0753 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Masela Timur"
+    },
+    {
+      "kode_bps": "0754 6",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Baca"
+    },
+    {
+      "kode_bps": "0755 1",
+      "iso_639_3": "max",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Ternate / Melayu Maluku Utara"
+    },
+    {
+      "kode_bps": "0756 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Naka'ela"
+    },
+    {
+      "kode_bps": "0757 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Nila"
+    },
+    {
+      "kode_bps": "0758 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Nuaulu Utara"
+    },
+    {
+      "kode_bps": "0759 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Nusa Laut / Nusalaut"
+    },
+    {
+      "kode_bps": "0760 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Oemale / Wemale utara"
+    },
+    {
+      "kode_bps": "0761 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Pago / Pagoe / Pagu"
+    },
+    {
+      "kode_bps": "0762 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Patani"
+    },
+    {
+      "kode_bps": "0763 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Paulohi"
+    },
+    {
+      "kode_bps": "0764 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Perai"
+    },
+    {
+      "kode_bps": "0765 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Piru"
+    },
+    {
+      "kode_bps": "0766 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Roma / Romang"
+    },
+    {
+      "kode_bps": "0767 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Sa'u / Sahu / Sahu'u / Sau"
+    },
+    {
+      "kode_bps": "0768 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Salaru / Selaru"
+    },
+    {
+      "kode_bps": "0769 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Sanana / Sula"
+    },
+    {
+      "kode_bps": "0770 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Saparua"
+    },
+    {
+      "kode_bps": "0771 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Saumlaki / Veveu Evav"
+    },
+    {
+      "kode_bps": "0772 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Sawai / Weda / Weda-Sawai / Were"
+    },
+    {
+      "kode_bps": "0773 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Seluwasan / Selvasa / Selwasa"
+    },
+    {
+      "kode_bps": "0774 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Sepa / Tamilouw"
+    },
+    {
+      "kode_bps": "0775 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Seram Barat"
+    },
+    {
+      "kode_bps": "0776 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Seram Timur"
+    },
+    {
+      "kode_bps": "0777 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Serili"
+    },
+    {
+      "kode_bps": "0778 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Serua"
+    },
+    {
+      "kode_bps": "0779 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Seti-Liana"
+    },
+    {
+      "kode_bps": "0780 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Silen / Taluti / Tehoru / Teluti / Tihoru / Wolu"
+    },
+    {
+      "kode_bps": "0781 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Siwalima"
+    },
+    {
+      "kode_bps": "0782 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Solor"
+    },
+    {
+      "kode_bps": "0783 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tabaru / Tobaru"
+    },
+    {
+      "kode_bps": "0784 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tabayama"
+    },
+    {
+      "kode_bps": "0785 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Taliabo / Taliabu"
+    },
+    {
+      "kode_bps": "0786 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tanibar"
+    },
+    {
+      "kode_bps": "0787 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tarangan Barat / Trangan Barat"
+    },
+    {
+      "kode_bps": "0788 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tarangan Timur / Trangan Timur"
+    },
+    {
+      "kode_bps": "0789 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Te'un"
+    },
+    {
+      "kode_bps": "0790 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Teor / Tio'or"
+    },
+    {
+      "kode_bps": "0791 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ternate"
+    },
+    {
+      "kode_bps": "0792 6",
+      "iso_639_3": "tft",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ternateño / Ternatenyo"
+    },
+    {
+      "kode_bps": "0793 1",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tidore"
+    },
+    {
+      "kode_bps": "0794 3",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Timor"
+    },
+    {
+      "kode_bps": "0795 5",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tobelo"
+    },
+    {
+      "kode_bps": "0796 0",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tugutil"
+    },
+    {
+      "kode_bps": "0797 2",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tukang Besi selatan / Wakatobi"
+    },
+    {
+      "kode_bps": "0798 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Tukang Besi utara"
+    },
+    {
+      "kode_bps": "0799 6",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Ujir"
+    },
+    {
+      "kode_bps": "0800 4",
+      "iso_639_3": "",
+      "kelompok": "Maluku",
+      "nama_bahasa_alias": "Bahasa Waioli / Wajoli / Wayoli"
+    },
+    {
+      "kode_bps": "0801 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa A Nden / Abun / Karon / Manif / Yimbun"
+    },
+    {
+      "kode_bps": "0802 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Abendago / Yali Barat / Yali Pegunungan / Yaly"
+    },
+    {
+      "kode_bps": "0803 3",
+      "iso_639_3": "bsa",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Abinomn / Avinomen / Foja / Foya"
+    },
+    {
+      "kode_bps": "0804 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Adi / Aiduma / Kaiwai / Kajumerah / Kayumerah / Koiwai / Kowiai / Kuiwai / Namatota / Namatote"
+    },
+    {
+      "kode_bps": "0805 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Adihup / Atam / Borai / Hatam / Hattam / Mansim / Miriei / Tinam / Uran"
+    },
+    {
+      "kode_bps": "0806 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Adora / Aeroran / Airoran / Iriemkena"
+    },
+    {
+      "kode_bps": "0807 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aejauroh / Sawi / Sawuy"
+    },
+    {
+      "kode_bps": "0808 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Afra / Usku"
+    },
+    {
+      "kode_bps": "0809 1",
+      "iso_639_3": "ahh",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aghu"
+    },
+    {
+      "kode_bps": "0810 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aikwakai / Araikurioko / Sikari / Sikaritai / Tori / Tori Aikwakai"
+    },
+    {
+      "kode_bps": "0811 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aipki / Kimgi / Kimki / Sukubatom / Sukubatong"
+    },
+    {
+      "kode_bps": "0812 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Airmati / Armati / Kwerba / Mataweja / Naibedj / Segar Tor / Serikenam / Tekutameso"
+    },
+    {
+      "kode_bps": "0813 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aiso / Mintamani"
+    },
+    {
+      "kode_bps": "0814 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ajamaru / Atinjo / Mai Brat / Maite / Majbrat / Maybrat / Mey Brat"
+    },
+    {
+      "kode_bps": "0815 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ajau / Auyu / Avio / Awju / Awya / Awyu Tengah / Nohon"
+    },
+    {
+      "kode_bps": "0816 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aliki / Obogwitai / Obokuitai"
+    },
+    {
+      "kode_bps": "0817 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ambai / Ambai-Menawi"
+    },
+    {
+      "kode_bps": "0818 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ambel / Amber / Amberi / Waigeo / Waigiu"
+    },
+    {
+      "kode_bps": "0819 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Amberbaken / Kebar"
+    },
+    {
+      "kode_bps": "0820 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ampas / Molof / Poule"
+    },
+    {
+      "kode_bps": "0821 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Amung / Amung Kal / Amungme / Amuy / Damal / Hamung / Oehoendoeni"
+    },
+    {
+      "kode_bps": "0822 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Anasi"
+    },
+    {
+      "kode_bps": "0823 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Angguruk / Yali Utara / Yali Angguruk / Yalimo"
+    },
+    {
+      "kode_bps": "0824 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Angot / Senagi"
+    },
+    {
+      "kode_bps": "0825 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ansudu / Kwinsu"
+    },
+    {
+      "kode_bps": "0826 4",
+      "iso_639_3": "and",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ansus"
+    },
+    {
+      "kode_bps": "0827 6",
+      "iso_639_3": "auq",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Anus / Koroernoes / Koru"
+    },
+    {
+      "kode_bps": "0828 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Arandai / Dombano / Jaban / Sebyar / Yaban"
+    },
+    {
+      "kode_bps": "0829 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Arfak / Mansibaber / Meah / Mejach / Mejah / Meyach / Meyah"
+    },
+    {
+      "kode_bps": "0830 0",
+      "iso_639_3": "agf",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Argoeni / Arguni"
+    },
+    {
+      "kode_bps": "0831 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Arguni Bay / Irahutu / Irarutu / Irutu / Kaitero / Kasira"
+    },
+    {
+      "kode_bps": "0832 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Armopa / Bogu / Bonggo / Bongo"
+    },
+    {
+      "kode_bps": "0833 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Aropen / Waropen / Wonti / Worpen"
+    },
+    {
+      "kode_bps": "0834 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Arso / Taikat / Tajkat"
+    },
+    {
+      "kode_bps": "0835 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Arui / Serui-Laut"
+    },
+    {
+      "kode_bps": "0836 5",
+      "iso_639_3": "asz",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa As"
+    },
+    {
+      "kode_bps": "0837 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Asianara / Asienara / Buruwai / Karufa / Sebakoor"
+    },
+    {
+      "kode_bps": "0838 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Asmat Darat / Citak Tamnim / Tamnim"
+    },
+    {
+      "kode_bps": "0839 4",
+      "iso_639_3": "asc",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Asmat Pantai Casuarina / Kaweinag"
+    },
+    {
+      "kode_bps": "0840 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Asmat Tengah / Jas / Manowee / Yas"
+    },
+    {
+      "kode_bps": "0841 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Asmat Utara / Keenok"
+    },
+    {
+      "kode_bps": "0842 5",
+      "iso_639_3": "asy",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Asmat Yaosakor / Yaosakor"
+    },
+    {
+      "kode_bps": "0843 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ati / Britai"
+    },
+    {
+      "kode_bps": "0844 2",
+      "iso_639_3": "aqm",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Atohwaim / Kaugat"
+    },
+    {
+      "kode_bps": "0845 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Atori"
+    },
+    {
+      "kode_bps": "0846 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Austronesian Mor / Mor / Mor2"
+    },
+    {
+      "kode_bps": "0847 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Auwje"
+    },
+    {
+      "kode_bps": "0848 3",
+      "iso_639_3": "auu",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Auye"
+    },
+    {
+      "kode_bps": "0849 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Away / Pisa"
+    },
+    {
+      "kode_bps": "0850 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awbono / Kvolyab"
+    },
+    {
+      "kode_bps": "0851 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awera"
+    },
+    {
+      "kode_bps": "0852 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awje / Awji / Awye / Awyi / Nyao"
+    },
+    {
+      "kode_bps": "0853 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awyu / Yair"
+    },
+    {
+      "kode_bps": "0854 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awyu Asue / Miaro / Miaro Awyu"
+    },
+    {
+      "kode_bps": "0855 5",
+      "iso_639_3": "awy",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awyu Edera"
+    },
+    {
+      "kode_bps": "0856 0",
+      "iso_639_3": "awv",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awyu Jair"
+    },
+    {
+      "kode_bps": "0857 2",
+      "iso_639_3": "aws",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awyu selatan / Jenimu / Oser / Siagha / Sjiagha / Syiagha / Yenimu"
+    },
+    {
+      "kode_bps": "0858 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Awyu utara / Djair / Dyair / Jair"
+    },
+    {
+      "kode_bps": "0859 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ayamaru / Brat / Maibrat"
+    },
+    {
+      "kode_bps": "0860 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Babiruwa / Babrua / Babruwa / Barua / Editode Edai / Erai / Eri / Eritai / Haya"
+    },
+    {
+      "kode_bps": "0861 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Baburiwa"
+    },
+    {
+      "kode_bps": "0862 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bagusa / Damboi-Ramboi / Kapeso / Koasa / Suaseso"
+    },
+    {
+      "kode_bps": "0863 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Baham / Patimuni"
+    },
+    {
+      "kode_bps": "0864 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Baibai / Kwomtari"
+    },
+    {
+      "kode_bps": "0865 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bapu"
+    },
+    {
+      "kode_bps": "0866 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Barapasi"
+    },
+    {
+      "kode_bps": "0867 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Barau / Kalitami / Kemberano / Wariagar"
+    },
+    {
+      "kode_bps": "0868 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Baropasi"
+    },
+    {
+      "kode_bps": "0869 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Baso"
+    },
+    {
+      "kode_bps": "0870 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Baudi / Baudji / Baudzi / Bauri / Bauzi"
+    },
+    {
+      "kode_bps": "0871 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bayono"
+    },
+    {
+      "kode_bps": "0872 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bedoanas"
+    },
+    {
+      "kode_bps": "0873 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Beduba / Iresim / Yerisiam"
+    },
+    {
+      "kode_bps": "0874 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Beneraf / Boneraf"
+    },
+    {
+      "kode_bps": "0875 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bentoeni / Bentuni / Bintuni / Wamesa / Wandamen / Wandamen-Windesi / Windesi / Windessi"
+    },
+    {
+      "kode_bps": "0876 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Beraur / Kalabra"
+    },
+    {
+      "kode_bps": "0877 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Berick / Berik / Berrik / Sewan Teteris / Upper Tor"
+    },
+    {
+      "kode_bps": "0878 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Betaf"
+    },
+    {
+      "kode_bps": "0879 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Betef / Borto / Itik / Ittik / Ittik-Tor"
+    },
+    {
+      "kode_bps": "0880 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Beurau"
+    },
+    {
+      "kode_bps": "0881 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Biak / Biak-Numfor / Mafoor / Mafoorsch / Mefoor / Myfoorsch / Noefoor / Noefoorsch / Nufoor"
+    },
+    {
+      "kode_bps": "0882 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Biaksi / Inisine / Yetfa"
+    },
+    {
+      "kode_bps": "0883 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bian / Boven-Mbian / Marind Barat laut / Marind Bian"
+    },
+    {
+      "kode_bps": "0884 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Biga"
+    },
+    {
+      "kode_bps": "0885 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Biksi"
+    },
+    {
+      "kode_bps": "0886 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bipim / Warkay / Yagay"
+    },
+    {
+      "kode_bps": "0887 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bipim As-So / Warkay-Bipim"
+    },
+    {
+      "kode_bps": "0888 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Biri / Biritai"
+    },
+    {
+      "kode_bps": "0889 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bitovondo / Jauke / Yauke / Yoke"
+    },
+    {
+      "kode_bps": "0890 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bok / Diebroud / Taria / Taworta-Aero"
+    },
+    {
+      "kode_bps": "0891 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bomberai Barat"
+    },
+    {
+      "kode_bps": "0892 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bonefa"
+    },
+    {
+      "kode_bps": "0893 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Bonerif"
+    },
+    {
+      "kode_bps": "0894 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Boromeso / Borumesso / Burmeso / Burumeso / Manau / Monao / Monau / Taurap"
+    },
+    {
+      "kode_bps": "0895 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Burate"
+    },
+    {
+      "kode_bps": "0896 4",
+      "iso_639_3": "aip",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Burumakok"
+    },
+    {
+      "kode_bps": "0897 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Busami"
+    },
+    {
+      "kode_bps": "0898 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Buyaka / Sentani"
+    },
+    {
+      "kode_bps": "0899 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Cicak / Citak / Kaunak"
+    },
+    {
+      "kode_bps": "0900 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dabe"
+    },
+    {
+      "kode_bps": "0901 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dabra"
+    },
+    {
+      "kode_bps": "0902 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dani"
+    },
+    {
+      "kode_bps": "0903 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dani Barat / Ilaga Barat Dani / Laany / Lani / Oeringoep / Timorini"
+    },
+    {
+      "kode_bps": "0904 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dani Lembah Atas"
+    },
+    {
+      "kode_bps": "0905 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dani Lembah Bawah"
+    },
+    {
+      "kode_bps": "0906 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dani Lembah Tengah / Tulem"
+    },
+    {
+      "kode_bps": "0907 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dao / Maniwo / X-Ray"
+    },
+    {
+      "kode_bps": "0908 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Darha / Doa / Tause"
+    },
+    {
+      "kode_bps": "0909 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dauwa / Dawa / Ndauwa / Nduga / Ndugwa / Pesecham / Pesechem / Pesegem"
+    },
+    {
+      "kode_bps": "0910 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dekwambre / Ekware / Mpur"
+    },
+    {
+      "kode_bps": "0911 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dem / Lem / Ndem"
+    },
+    {
+      "kode_bps": "0912 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Demba / Tefaro"
+    },
+    {
+      "kode_bps": "0913 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Demenggong-Waibron-Bano / Mekwei / Menggei / Menggwei / Mooi / Munggai / Mungge / Munkei / Waipu"
+    },
+    {
+      "kode_bps": "0914 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Demisa / Desawa"
+    },
+    {
+      "kode_bps": "0915 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Demta / Muris / Sowari"
+    },
+    {
+      "kode_bps": "0916 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dera"
+    },
+    {
+      "kode_bps": "0917 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Digoel / Digul / Kati Metomka / Kati Selatan / Metomka / Moejoe / Muyu selatan / Ok Bari / Yongom"
+    },
+    {
+      "kode_bps": "0918 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dineor / Marengge"
+    },
+    {
+      "kode_bps": "0919 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Diuwe"
+    },
+    {
+      "kode_bps": "0920 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Djanggu / Elseng / Janggu"
+    },
+    {
+      "kode_bps": "0921 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Djonggunu / Jonggunu / Migani / Moni"
+    },
+    {
+      "kode_bps": "0922 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dosobou / Dou / Doufou / Edopi / Elopi / Foi / Urundi / Ururi / Yau"
+    },
+    {
+      "kode_bps": "0923 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Doutai"
+    },
+    {
+      "kode_bps": "0924 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dra / Kamberataro"
+    },
+    {
+      "kode_bps": "0925 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dubu"
+    },
+    {
+      "kode_bps": "0926 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dumut / Kaeti / Mandabo"
+    },
+    {
+      "kode_bps": "0927 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Duriankere"
+    },
+    {
+      "kode_bps": "0928 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Dusner / Dusnir"
+    },
+    {
+      "kode_bps": "0929 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Duvde / Duve / Duvele / Duvle / Duvre / Wiri"
+    },
+    {
+      "kode_bps": "0930 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Eipo / Eipomek / T-Valley"
+    },
+    {
+      "kode_bps": "0931 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ekagi / Ekari / Kapauku / Me Mana / Mee Mana / Tapiro"
+    },
+    {
+      "kode_bps": "0932 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Emem / Imimkal / Kiamerop"
+    },
+    {
+      "kode_bps": "0933 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Emumu"
+    },
+    {
+      "kode_bps": "0934 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Enggipiloe / Uhunduni"
+    },
+    {
+      "kode_bps": "0935 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Enggros / Humboldt Jotafa / Jayapura / Jotafa / Tobati / Tobwadic / Yautefa / Yotafa"
+    },
+    {
+      "kode_bps": "0936 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Enkelembu"
+    },
+    {
+      "kode_bps": "0937 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Erokwanas"
+    },
+    {
+      "kode_bps": "0938 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Etna Bay / Muri / Semimi / Wesrau"
+    },
+    {
+      "kode_bps": "0939 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Fandanus / Fedan / Podena"
+    },
+    {
+      "kode_bps": "0940 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Faranyao / Kaniran / Mairasi"
+    },
+    {
+      "kode_bps": "0941 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Faur / Tubiruasa / Uruangnirin"
+    },
+    {
+      "kode_bps": "0942 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Fayu"
+    },
+    {
+      "kode_bps": "0943 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Foau"
+    },
+    {
+      "kode_bps": "0944 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Gabe / Laganyan"
+    },
+    {
+      "kode_bps": "0945 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Gawir / Marind / Marind Tenggara / Tugeri"
+    },
+    {
+      "kode_bps": "0946 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Geresi / Glesi / Gresi / Gresik / Klesi"
+    },
+    {
+      "kode_bps": "0947 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Goliath / Kosarek / Mek"
+    },
+    {
+      "kode_bps": "0948 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Goni / Yeretuar"
+    },
+    {
+      "kode_bps": "0949 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Hmanggona / Hmonono / Nalca / Naltje / Naltya"
+    },
+    {
+      "kode_bps": "0950 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Hupla / Soba"
+    },
+    {
+      "kode_bps": "0951 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Iagu / Inanwatan / Mirabo / Suabau / Suabo"
+    },
+    {
+      "kode_bps": "0952 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Iau / Iaw"
+    },
+    {
+      "kode_bps": "0953 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Iha"
+    },
+    {
+      "kode_bps": "0954 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Iha Based Pidgin"
+    },
+    {
+      "kode_bps": "0955 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Imasi / Sobei"
+    },
+    {
+      "kode_bps": "0956 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa In-lom / Wanam / Yale Kosarek / Yale-Kosarek"
+    },
+    {
+      "kode_bps": "0957 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Iria / Kamberau / Kamkbrau / Kamrau"
+    },
+    {
+      "kode_bps": "0958 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Isirawa / Okwasar / Saweri"
+    },
+    {
+      "kode_bps": "0959 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Iwoer / Iwur"
+    },
+    {
+      "kode_bps": "0960 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jab / Jabsch / Jelmek / Jelmik / Yelmek"
+    },
+    {
+      "kode_bps": "0961 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jafi / Jafi Wagarindem / Wagarindem / Wargarindem / Warlef / Yaffi / Zorop"
+    },
+    {
+      "kode_bps": "0962 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jahadian / Nerigo / Yabin Yahadian / Yahadian"
+    },
+    {
+      "kode_bps": "0963 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jakai / Jaqai / Mapi / Sohur / Yaqai / Yaqay"
+    },
+    {
+      "kode_bps": "0964 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jakari / Tabi / Tabla / Tanah Merah / Tepera"
+    },
+    {
+      "kode_bps": "0965 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jale / Jaly / Ngalik Utara / Ninia / Yali Ninia / Yali Selatan"
+    },
+    {
+      "kode_bps": "0966 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jale Selatan / Nipsan / Yale-Nipsan"
+    },
+    {
+      "kode_bps": "0967 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jaur / Yaur"
+    },
+    {
+      "kode_bps": "0968 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Je / Jei / Yei / Yei-Nan / Yey"
+    },
+    {
+      "kode_bps": "0969 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jeti / Manem / Skofro / Wembi / Yeti"
+    },
+    {
+      "kode_bps": "0970 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jiwafeta"
+    },
+    {
+      "kode_bps": "0971 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Jofotek-Bromnya"
+    },
+    {
+      "kode_bps": "0972 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kabera / Kaowerawedj / Kauwera / Kauwerawec / Kauwerawetj / Kawera / Koassa"
+    },
+    {
+      "kode_bps": "0973 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kaburi"
+    },
+    {
+      "kode_bps": "0974 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kaibus / Tahit / Tehid / Tehit / Teminabuan"
+    },
+    {
+      "kode_bps": "0975 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kais / Kampung Baru"
+    },
+    {
+      "kode_bps": "0976 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kaiy / Taori-Kaiy / Todi / Torweja / Taori-Kei"
+    },
+    {
+      "kode_bps": "0977 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kajagar / Kayagar / Kaygi / Kaygir"
+    },
+    {
+      "kode_bps": "0978 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kajupulau / Kayupulau"
+    },
+    {
+      "kode_bps": "0979 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kaladdarsch / Kimaama / Kimaghama / Kimaghima / Teri-Kalwasch"
+    },
+    {
+      "kode_bps": "0980 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kalao"
+    },
+    {
+      "kode_bps": "0981 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kambon / Mandobo Bawah"
+    },
+    {
+      "kode_bps": "0982 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kamora / Kamoro / Kaokonau / Lakahia / Mimika / Mukamuga / Nafarpi / Nagramadu / Nefarpi / Neferipi / Uma"
+    },
+    {
+      "kode_bps": "0983 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kamtuk / Kemtuik / Kemtuk"
+    },
+    {
+      "kode_bps": "0984 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kanum / Tonda"
+    },
+    {
+      "kode_bps": "0985 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kanum B„di / Kenume / Knwne"
+    },
+    {
+      "kode_bps": "0986 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kanum Ngkƒlmpw"
+    },
+    {
+      "kode_bps": "0987 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kanum Sm„rky"
+    },
+    {
+      "kode_bps": "0988 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kanum Sota"
+    },
+    {
+      "kode_bps": "0989 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kapaur"
+    },
+    {
+      "kode_bps": "0990 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kapauri / Kapori"
+    },
+    {
+      "kode_bps": "0991 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kapitiauw / Kaptiau / Kaptiauw"
+    },
+    {
+      "kode_bps": "0992 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Karas"
+    },
+    {
+      "kode_bps": "0993 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Karas Darat"
+    },
+    {
+      "kode_bps": "0994 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Karas Laut"
+    },
+    {
+      "kode_bps": "0995 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Karfasia / Samarkena / Samarokena / Tamaja / Tamaya"
+    },
+    {
+      "kode_bps": "0996 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Karon Dori / Maiyach / Mari / Meon"
+    },
+    {
+      "kode_bps": "0997 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kasiwa / Kativa / Ninggeroem / Ninggerum / Ninggirum / Ninggrum / Orgwo"
+    },
+    {
+      "kode_bps": "0998 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kasuweri / Kokoda / Komudago / Nebes / Oderago / Samalek / Tarof"
+    },
+    {
+      "kode_bps": "0999 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kataut / Kati Utara / Kati-Ninanti / Muyu utara / Niinati / Ninatie"
+    },
+    {
+      "kode_bps": "1000 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kati"
+    },
+    {
+      "kode_bps": "1001 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kaure / Kaureh"
+    },
+    {
+      "kode_bps": "1002 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kauwol"
+    },
+    {
+      "kode_bps": "1003 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kawe"
+    },
+    {
+      "kode_bps": "1004 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Keder / Keijar"
+    },
+    {
+      "kode_bps": "1005 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kehu"
+    },
+    {
+      "kode_bps": "1006 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kembra"
+    },
+    {
+      "kode_bps": "1007 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kemelom / Kemelomsch / Komolom / Mombum"
+    },
+    {
+      "kode_bps": "1008 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kerema / Nisa"
+    },
+    {
+      "kode_bps": "1009 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ketengban / Kupel / Oktengban"
+    },
+    {
+      "kode_bps": "1010 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ketum / Kitum / Wambon-Ketum"
+    },
+    {
+      "kode_bps": "1011 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kimaam / Riantana"
+    },
+    {
+      "kode_bps": "1012 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kimanghama / Kolopom"
+    },
+    {
+      "kode_bps": "1013 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kimyal Korupun / Korapun / Korupun-Sela / Kimjal / Kimyal /"
+    },
+    {
+      "kode_bps": "1014 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kirikiri / Kirira"
+    },
+    {
+      "kode_bps": "1015 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kofei"
+    },
+    {
+      "kode_bps": "1016 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kolufaup / Korowai"
+    },
+    {
+      "kode_bps": "1017 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kombai / Komboy"
+    },
+    {
+      "kode_bps": "1018 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Komyandaret"
+    },
+    {
+      "kode_bps": "1019 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Konda / Ogit / Yabin / Yabin-Konda"
+    },
+    {
+      "kode_bps": "1020 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Koneraw / Konorau"
+    },
+    {
+      "kode_bps": "1021 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kopka / Kopkaka"
+    },
+    {
+      "kode_bps": "1022 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kosadle / Kosare"
+    },
+    {
+      "kode_bps": "1023 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kotogüt / Tsaukambo / Tsokwambo"
+    },
+    {
+      "kode_bps": "1024 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kotogut / Tsakwambo"
+    },
+    {
+      "kode_bps": "1025 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kuangsu-Bonggrang / Kwangsu-Bonggrang / Kwansu / Kwansu-Bonggrang / Mlap"
+    },
+    {
+      "kode_bps": "1026 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kuri"
+    },
+    {
+      "kode_bps": "1027 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kurudu"
+    },
+    {
+      "kode_bps": "1028 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kuwani"
+    },
+    {
+      "kode_bps": "1029 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kwasten / Marengi / Tor"
+    },
+    {
+      "kode_bps": "1030 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kwem / Mandobbo / Mandobo Atas / Nub"
+    },
+    {
+      "kode_bps": "1031 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kwer"
+    },
+    {
+      "kode_bps": "1032 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kwerba Mamberamo / Napok / Nogukwabai / Nopukw / Tatsewalem"
+    },
+    {
+      "kode_bps": "1033 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kwerisa / Taogwe"
+    },
+    {
+      "kode_bps": "1034 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Kwesten"
+    },
+    {
+      "kode_bps": "1035 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Langda / Mt.Goliath / Una"
+    },
+    {
+      "kode_bps": "1036 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Langgayam"
+    },
+    {
+      "kode_bps": "1037 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Legenyem"
+    },
+    {
+      "kode_bps": "1038 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Lepki"
+    },
+    {
+      "kode_bps": "1039 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Liki"
+    },
+    {
+      "kode_bps": "1040 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Llaga / Saberi"
+    },
+    {
+      "kode_bps": "1041 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Lower Pyramid / Walak / Wodo"
+    },
+    {
+      "kode_bps": "1042 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ma'ya / Sailolof / Salawati / Samate"
+    },
+    {
+      "kode_bps": "1043 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Maden / Saparan / Sapran"
+    },
+    {
+      "kode_bps": "1044 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Madidwana / Sabakor"
+    },
+    {
+      "kode_bps": "1045 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Makleu / Maklew"
+    },
+    {
+      "kode_bps": "1046 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mander"
+    },
+    {
+      "kode_bps": "1047 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Manggarikuna"
+    },
+    {
+      "kode_bps": "1048 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Manikion / Mantion / Sogh / Sougb"
+    },
+    {
+      "kode_bps": "1049 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mantembu / Mora / Yapanani / Yava / Yawa"
+    },
+    {
+      "kode_bps": "1050 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mapia / Mapian"
+    },
+    {
+      "kode_bps": "1051 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Marau"
+    },
+    {
+      "kode_bps": "1052 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Maremgi"
+    },
+    {
+      "kode_bps": "1053 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Marori / Moaraeri / Morari / Morori"
+    },
+    {
+      "kode_bps": "1054 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Masimasi"
+    },
+    {
+      "kode_bps": "1055 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Massep"
+    },
+    {
+      "kode_bps": "1056 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Matbat / Me"
+    },
+    {
+      "kode_bps": "1057 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mawes"
+    },
+    {
+      "kode_bps": "1058 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mbaruan"
+    },
+    {
+      "kode_bps": "1059 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Meax / Meninggo"
+    },
+    {
+      "kode_bps": "1060 1",
+      "iso_639_3": "pmy",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Papua"
+    },
+    {
+      "kode_bps": "1061 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Meningo / Moskona / Sabena"
+    },
+    {
+      "kode_bps": "1062 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Meoswar / War"
+    },
+    {
+      "kode_bps": "1063 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mer / Miere"
+    },
+    {
+      "kode_bps": "1064 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mo"
+    },
+    {
+      "kode_bps": "1065 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Moar"
+    },
+    {
+      "kode_bps": "1066 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Modan / Nabi"
+    },
+    {
+      "kode_bps": "1067 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mogao / Puragi"
+    },
+    {
+      "kode_bps": "1068 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Moi"
+    },
+    {
+      "kode_bps": "1069 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Moile"
+    },
+    {
+      "kode_bps": "1070 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Momina"
+    },
+    {
+      "kode_bps": "1071 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Momuna / Somage / Sumohai"
+    },
+    {
+      "kode_bps": "1072 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Moraeri / Moraori"
+    },
+    {
+      "kode_bps": "1073 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Moraid"
+    },
+    {
+      "kode_bps": "1074 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Morwap / Sawa / Tabu"
+    },
+    {
+      "kode_bps": "1075 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Mosana"
+    },
+    {
+      "kode_bps": "1076 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Munggui / Natabui"
+    },
+    {
+      "kode_bps": "1077 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Murkim"
+    },
+    {
+      "kode_bps": "1078 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Muyu"
+    },
+    {
+      "kode_bps": "1079 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Na'ai / Na'i / Nagai / Nakai"
+    },
+    {
+      "kode_bps": "1080 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Nafri"
+    },
+    {
+      "kode_bps": "1081 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Nambrong / Nimboran"
+    },
+    {
+      "kode_bps": "1082 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Namla"
+    },
+    {
+      "kode_bps": "1083 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Nararapi / Sempan"
+    },
+    {
+      "kode_bps": "1084 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Narau"
+    },
+    {
+      "kode_bps": "1085 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Natipi"
+    },
+    {
+      "kode_bps": "1086 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ndom"
+    },
+    {
+      "kode_bps": "1087 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ngalik Selatan / Paiyage / Silimo / Usak / Wulik"
+    },
+    {
+      "kode_bps": "1088 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ngalum / Sibil"
+    },
+    {
+      "kode_bps": "1089 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Nggem"
+    },
+    {
+      "kode_bps": "1090 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Nobuk / Nopuk"
+    },
+    {
+      "kode_bps": "1091 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Nusari"
+    },
+    {
+      "kode_bps": "1092 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Onim / Onin"
+    },
+    {
+      "kode_bps": "1093 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Onin Based Pidgin"
+    },
+    {
+      "kode_bps": "1094 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Oria / Orya / Warpok / Warpu"
+    },
+    {
+      "kode_bps": "1095 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ormu"
+    },
+    {
+      "kode_bps": "1096 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Palamul"
+    },
+    {
+      "kode_bps": "1097 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Papasena"
+    },
+    {
+      "kode_bps": "1098 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Papua"
+    },
+    {
+      "kode_bps": "1099 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Papuma"
+    },
+    {
+      "kode_bps": "1100 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Paseman"
+    },
+    {
+      "kode_bps": "1101 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Patimuning"
+    },
+    {
+      "kode_bps": "1102 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Pauwi"
+    },
+    {
+      "kode_bps": "1103 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Pedena"
+    },
+    {
+      "kode_bps": "1104 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Pom"
+    },
+    {
+      "kode_bps": "1105 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Pyu"
+    },
+    {
+      "kode_bps": "1106 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Rasawa"
+    },
+    {
+      "kode_bps": "1107 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Ron / Roon"
+    },
+    {
+      "kode_bps": "1108 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sangke"
+    },
+    {
+      "kode_bps": "1109 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Saponi"
+    },
+    {
+      "kode_bps": "1110 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sarwar Use / Saweru"
+    },
+    {
+      "kode_bps": "1111 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sauri"
+    },
+    {
+      "kode_bps": "1112 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sause / Seuce"
+    },
+    {
+      "kode_bps": "1113 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sawu"
+    },
+    {
+      "kode_bps": "1114 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Seget"
+    },
+    {
+      "kode_bps": "1115 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sehudate"
+    },
+    {
+      "kode_bps": "1116 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sekar"
+    },
+    {
+      "kode_bps": "1117 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sekol / Sekou / Sko / Skou / Skouw / Skow / Sukou / Te Mawo / Tumawo"
+    },
+    {
+      "kode_bps": "1118 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Senggi / Viid"
+    },
+    {
+      "kode_bps": "1119 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Siagha-Yenimu"
+    },
+    {
+      "kode_bps": "1120 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Somahai"
+    },
+    {
+      "kode_bps": "1121 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sowanda / Waina / Waina-Sowanda / Wanya / Wina"
+    },
+    {
+      "kode_bps": "1122 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sufrai / Tarfia / Tarpia"
+    },
+    {
+      "kode_bps": "1123 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sumeri / Sumerine / Tanahmerah"
+    },
+    {
+      "kode_bps": "1124 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sumuri"
+    },
+    {
+      "kode_bps": "1125 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Sunum"
+    },
+    {
+      "kode_bps": "1126 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Takar / Vitou"
+    },
+    {
+      "kode_bps": "1127 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Tamagario / Tamaraw / Wagow / Wiyagar"
+    },
+    {
+      "kode_bps": "1128 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Tandia"
+    },
+    {
+      "kode_bps": "1129 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Tangko"
+    },
+    {
+      "kode_bps": "1130 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Doutai / Taori-So"
+    },
+    {
+      "kode_bps": "1131 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Tarunggare / Tunggare / Turunggare"
+    },
+    {
+      "kode_bps": "1132 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Taworta"
+    },
+    {
+      "kode_bps": "1133 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Tebi"
+    },
+    {
+      "kode_bps": "1134 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Tofamna / Tofanma"
+    },
+    {
+      "kode_bps": "1135 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Towe / Towei"
+    },
+    {
+      "kode_bps": "1136 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Trimuris"
+    },
+    {
+      "kode_bps": "1137 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Turu"
+    },
+    {
+      "kode_bps": "1138 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Uria"
+    },
+    {
+      "kode_bps": "1139 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Waano / Wano"
+    },
+    {
+      "kode_bps": "1140 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wabo / Woriasi"
+    },
+    {
+      "kode_bps": "1141 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wakde"
+    },
+    {
+      "kode_bps": "1142 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Walsa / Waris"
+    },
+    {
+      "kode_bps": "1143 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wambon"
+    },
+    {
+      "kode_bps": "1144 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wanggo / Wanggom / Wangom"
+    },
+    {
+      "kode_bps": "1145 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Waremboivoro / Warembori / Warenbori"
+    },
+    {
+      "kode_bps": "1146 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wares"
+    },
+    {
+      "kode_bps": "1147 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wari / Waritai / Weretai"
+    },
+    {
+      "kode_bps": "1148 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wauyai"
+    },
+    {
+      "kode_bps": "1149 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Wo'oi / Woi"
+    },
+    {
+      "kode_bps": "1150 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Woda / Woda-Mo / Wodani / Wolani"
+    },
+    {
+      "kode_bps": "1151 6",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Woria"
+    },
+    {
+      "kode_bps": "1152 1",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yafi"
+    },
+    {
+      "kode_bps": "1153 3",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yakai"
+    },
+    {
+      "kode_bps": "1154 5",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yali Lembah"
+    },
+    {
+      "kode_bps": "1155 0",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yamna"
+    },
+    {
+      "kode_bps": "1156 2",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yarsun"
+    },
+    {
+      "kode_bps": "1157 4",
+      "iso_639_3": "",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yoki"
+    },
+    {
+      "kode_bps": "1158 6",
+      "iso_639_3": "yon",
+      "kelompok": "Papua",
+      "nama_bahasa_alias": "Bahasa Yonggom / Yongkom"
+    },
+    {
+      "kode_bps": "1159 1",
+      "iso_639_3": "ara",
+      "kelompok": "Arab",
+      "nama_bahasa_alias": "Bahasa Arab"
+    },
+    {
+      "kode_bps": "1160 5",
+      "iso_639_3": "sgn",
+      "kelompok": "Isyarat",
+      "nama_bahasa_alias": "Bahasa Isyarat"
+    },
+    {
+      "kode_bps": "1161 0",
+      "iso_639_3": "hak",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa Hakka"
+    },
+    {
+      "kode_bps": "1162 2",
+      "iso_639_3": "cmn",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa Mandarin"
+    },
+    {
+      "kode_bps": "1163 4",
+      "iso_639_3": "cdo",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa Min Dong"
+    },
+    {
+      "kode_bps": "1164 6",
+      "iso_639_3": "nan",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa Min Nan, Tiochiu"
+    },
+    {
+      "kode_bps": "1165 1",
+      "iso_639_3": "yue",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa Yue"
+    },
+    {
+      "kode_bps": "1166 3",
+      "iso_639_3": "hin",
+      "kelompok": "India",
+      "nama_bahasa_alias": "Bahasa Hindi"
+    },
+    {
+      "kode_bps": "1167 5",
+      "iso_639_3": "ind",
+      "kelompok": "Nasional",
+      "nama_bahasa_alias": "Bahasa Indonesia"
+    },
+    {
+      "kode_bps": "1168 0",
+      "iso_639_3": "pea",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Indonesia Peranakan"
+    },
+    {
+      "kode_bps": "1169 2",
+      "iso_639_3": "eng",
+      "kelompok": "Asing",
+      "nama_bahasa_alias": "Bahasa Inggris"
+    },
+    {
+      "kode_bps": "1170 6",
+      "iso_639_3": "fra",
+      "kelompok": "Asing",
+      "nama_bahasa_alias": "Bahasa Prancis"
+    },
+    {
+      "kode_bps": "1171 1",
+      "iso_639_3": "rus",
+      "kelompok": "Asing",
+      "nama_bahasa_alias": "Bahasa Rusia"
+    },
+    {
+      "kode_bps": "1172 3",
+      "iso_639_3": "spa",
+      "kelompok": "Asing",
+      "nama_bahasa_alias": "Bahasa Spanyol"
+    },
+    {
+      "kode_bps": "1173 5",
+      "iso_639_3": "nld",
+      "kelompok": "Asing",
+      "nama_bahasa_alias": "Bahasa Belanda"
+    },
+    {
+      "kode_bps": "1174 0",
+      "iso_639_3": "zho",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa"
+    },
+    {
+      "kode_bps": "1175 2",
+      "iso_639_3": "",
+      "kelompok": "Tionghoa",
+      "nama_bahasa_alias": "Bahasa Tionghoa Hokian"
+    },
+    {
+      "kode_bps": "1176 4",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Selimbau"
+    },
+    {
+      "kode_bps": "1177 6",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Putusibau-Semitau-Nang"
+    },
+    {
+      "kode_bps": "1178 1",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Nanga Bunut"
+    },
+    {
+      "kode_bps": "1179 3",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Boyan"
+    },
+    {
+      "kode_bps": "1180 0",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Embau"
+    },
+    {
+      "kode_bps": "1181 2",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Ulu Gurung"
+    },
+    {
+      "kode_bps": "1182 4",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Ulu Silat"
+    },
+    {
+      "kode_bps": "1183 6",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Semangut"
+    },
+    {
+      "kode_bps": "1184 1",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Pinoh"
+    },
+    {
+      "kode_bps": "1185 3",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Sokan"
+    },
+    {
+      "kode_bps": "1186 5",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Kota Baru"
+    },
+    {
+      "kode_bps": "1187 0",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Sayan"
+    },
+    {
+      "kode_bps": "1188 2",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Ela Hilir"
+    },
+    {
+      "kode_bps": "1189 4",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Sintang"
+    },
+    {
+      "kode_bps": "1190 1",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Sekadau"
+    },
+    {
+      "kode_bps": "1191 3",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Sanggau"
+    },
+    {
+      "kode_bps": "1192 5",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Meliau"
+    },
+    {
+      "kode_bps": "1193 0",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Tayan"
+    },
+    {
+      "kode_bps": "1194 2",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Landak"
+    },
+    {
+      "kode_bps": "1195 4",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Sambas (bejalan)"
+    },
+    {
+      "kode_bps": "1196 6",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Merabuan (bejolon)"
+    },
+    {
+      "kode_bps": "1197 1",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Ketapang"
+    },
+    {
+      "kode_bps": "1198 3",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Cali"
+    },
+    {
+      "kode_bps": "1199 5",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Tumbang Titi"
+    },
+    {
+      "kode_bps": "1200 3",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Pebihingan"
+    },
+    {
+      "kode_bps": "1201 5",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Simpang Dua"
+    },
+    {
+      "kode_bps": "1202 0",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Balai berkuak"
+    },
+    {
+      "kode_bps": "1203 2",
+      "iso_639_3": "",
+      "kelompok": "Melayu",
+      "nama_bahasa_alias": "Bahasa Melayu Pontianak"
+    },
+    {
+      "kode_bps": "1204 4",
+      "iso_639_3": "",
+      "kelompok": "Sulawesi",
+      "nama_bahasa_alias": "Bahasa Menui"
+    },
+    {
+      "kode_bps": "2000 4",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Sumatera"
+    },
+    {
+      "kode_bps": "3000 6",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Jawa"
+    },
+    {
+      "kode_bps": "5000 3",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Bali dan Nusa Tenggara"
+    },
+    {
+      "kode_bps": "6000 5",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Kalimantan"
+    },
+    {
+      "kode_bps": "7000 0",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Sulawesi"
+    },
+    {
+      "kode_bps": "8000 2",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Maluku"
+    },
+    {
+      "kode_bps": "9000 4",
+      "iso_639_3": "",
+      "kelompok": "",
+      "nama_bahasa_alias": "Bahasa lainnya di Papua"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Bahasa di Indonesia menurut BPS 2010 - Free Download",
+    "description": "Daftar bahasa dan dialek di Indonesia sesuai klasifikasi Badan Pusat Statistik (Sensus Penduduk 2010), lengkap dengan kode BPS, kode ISO 639-3 dan kelompok bahasa. Contains 1211 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Bahasa di Indonesia menurut BPS 2010 | ListBase",
+    "seo_description": "Download Daftar Bahasa di Indonesia menurut BPS 2010 — 1211 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1211 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bahasa_di_Indonesia_menurut_BPS_2010"
+    ]
+  }
+}
