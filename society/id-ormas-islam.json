@@ -1,0 +1,261 @@
+{
+  "id": "id-ormas-islam",
+  "name": "Daftar Organisasi Massa (Ormas) Islam di Indonesia",
+  "title": "Daftar Organisasi Massa (Ormas) Islam di Indonesia",
+  "description": "Daftar organisasi kemasyarakatan Islam di Indonesia beserta singkatannya, dikelompokkan menurut aliran (Sunni, Syiah, nonafiliasi) dan status (dibubarkan/dilarang).",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_organisasi_massa_Islam_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_organisasi_massa_Islam_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "singkatan",
+      "label": "Singkatan",
+      "type": "string"
+    },
+    {
+      "key": "kelompok",
+      "label": "Kelompok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Al-Irsyad Al-Islamiyyah",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Al Ittihadiyah",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Alkhairaat",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Al Washliyah",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Darud Da'wah wal Irsyad",
+      "singkatan": "DDI",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Dewan Dakwah Islamiyah Indonesia",
+      "singkatan": "DDII",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Hidayatullah",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Jamiat Kheir",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Lembaga Dakwah Islam Indonesia",
+      "singkatan": "LDII",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Majelis Ulama Indonesia",
+      "singkatan": "MUI",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Majlis Tafsir Al Qur'an",
+      "singkatan": "MTA",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Mathla'ul Anwar",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Muhammadiyah",
+      "singkatan": "MU",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Nahdlatul Ulama",
+      "singkatan": "NU",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Nahdlatul Wathan",
+      "singkatan": "NW",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "PA 212 / Ahlussunnah Wal Jamaah",
+      "singkatan": "Aswaja",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Persatuan Islam",
+      "singkatan": "Persis",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Persatuan Tarbiyah Islamiyah",
+      "singkatan": "PERTI",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Persatuan Umat Islam",
+      "singkatan": "PUI",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Rabithah Alawiyah",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Wahdah Islamiyah",
+      "singkatan": "",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Badan Kerjasama Pondok Pesantren Indonesia",
+      "singkatan": "BKsPPI",
+      "kelompok": "Sunni"
+    },
+    {
+      "nama": "Ahlulbait Indonesia",
+      "singkatan": "ABI",
+      "kelompok": "Syiah"
+    },
+    {
+      "nama": "Ikatan Jamaah Ahlulbait Indonesia",
+      "singkatan": "Ijabi",
+      "kelompok": "Syiah"
+    },
+    {
+      "nama": "BP4",
+      "singkatan": "",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Dewan Masjid Indonesia",
+      "singkatan": "DMI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Forum Umat Islam",
+      "singkatan": "FUI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Ikatan Cendekiawan Muslim Indonesia",
+      "singkatan": "ICMI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Ikatan Da'i Indonesia",
+      "singkatan": "Ikadi",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Lembaga Persahabatan Ormas Islam Indonesia",
+      "singkatan": "LPOI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Majelis Intelektual dan Ulama Muda Indonesia",
+      "singkatan": "MIUMI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Majelis Ulama Indonesia",
+      "singkatan": "MUI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Persatuan Islam Tionghoa Indonesia",
+      "singkatan": "PITI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Syarikat Islam",
+      "singkatan": "SI",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Syarikat Islam Indonesia",
+      "singkatan": "SII",
+      "kelompok": "Lain-lain/nonafiliasi"
+    },
+    {
+      "nama": "Front Pembela Islam",
+      "singkatan": "FPI",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Gerakan Fajar Nusantara",
+      "singkatan": "Gafatar",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Hizbut Tahrir Indonesia",
+      "singkatan": "HTI",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Jamaah Ansharut Daulah",
+      "singkatan": "JAD",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Jamaah Ansharusy Syariah",
+      "singkatan": "JAS",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Jemaah Ansharusy Khalifah",
+      "singkatan": "JAK",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Jamaah Ansharut Tauhid",
+      "singkatan": "JAT",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Jemaah Islamiyah",
+      "singkatan": "JI",
+      "kelompok": "Dibubarkan/dilarang"
+    },
+    {
+      "nama": "Majelis Mujahidin Indonesia",
+      "singkatan": "MMI",
+      "kelompok": "Dibubarkan/dilarang"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Organisasi Massa (Ormas) Islam di Indonesia - Free Download",
+    "description": "Daftar organisasi kemasyarakatan Islam di Indonesia beserta singkatannya, dikelompokkan menurut aliran (Sunni, Syiah, nonafiliasi) dan status (dibubarkan/dilarang). Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Organisasi Massa (Ormas) Islam di Indonesia | ListBase",
+    "seo_description": "Download Daftar Organisasi Massa (Ormas) Islam di Indonesia — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_organisasi_massa_Islam_di_Indonesia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-02T02:36:59.915Z",
-  "total_datasets": 601,
-  "total_records": 650332,
+  "generated": "2026-11-02T02:37:07.788Z",
+  "total_datasets": 602,
+  "total_records": 650376,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -14459,6 +14459,30 @@
         "xlsx": {
           "name": "id-organisasi-penghayat-kepercayaan_ID.xlsx",
           "size": 10248
+        }
+      }
+    },
+    {
+      "id": "id-ormas-islam",
+      "name": "Daftar Organisasi Massa (Ormas) Islam di Indonesia",
+      "category": "society",
+      "record_count": 44,
+      "columns": [
+        "nama",
+        "singkatan",
+        "kelompok"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_organisasi_massa_Islam_di_Indonesia",
+      "updated": "2026-11",
+      "size": 6607,
+      "files": {
+        "csv": {
+          "name": "id-ormas-islam_ID.csv",
+          "size": 2045
+        },
+        "xlsx": {
+          "name": "id-ormas-islam_ID.xlsx",
+          "size": 8009
         }
       }
     },
