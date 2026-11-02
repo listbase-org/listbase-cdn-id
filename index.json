@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-02T02:37:07.788Z",
-  "total_datasets": 602,
-  "total_records": 650376,
+  "generated": "2026-11-02T02:37:15.037Z",
+  "total_datasets": 603,
+  "total_records": 650813,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -6286,6 +6286,29 @@
         "xlsx": {
           "name": "id-prasasti-nusantara_ID.xlsx",
           "size": 15012
+        }
+      }
+    },
+    {
+      "id": "id-taman-makam-pahlawan",
+      "name": "Daftar Taman Makam Pahlawan di Indonesia",
+      "category": "history",
+      "record_count": 437,
+      "columns": [
+        "nama",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_taman_makam_pahlawan_di_Indonesia",
+      "updated": "2026-11",
+      "size": 49343,
+      "files": {
+        "csv": {
+          "name": "id-taman-makam-pahlawan_ID.csv",
+          "size": 27802
+        },
+        "xlsx": {
+          "name": "id-taman-makam-pahlawan_ID.xlsx",
+          "size": 17464
         }
       }
     },
