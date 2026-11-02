@@ -1,0 +1,496 @@
+{
+  "id": "id-museum-diy",
+  "name": "Daftar Museum di Daerah Istimewa Yogyakarta",
+  "title": "Daftar Museum di Daerah Istimewa Yogyakarta",
+  "description": "Daftar museum di Daerah Istimewa Yogyakarta beserta kode pengelolaan, alamat, kapanewon/kemantren dan kabupaten/kota.",
+  "category": "tourism",
+  "source": "https://id.wikipedia.org/wiki/Daftar_museum_di_Daerah_Istimewa_Yogyakarta",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_museum_di_Daerah_Istimewa_Yogyakarta",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "kode_pengelolaan",
+      "label": "Kode Pengelolaan",
+      "type": "string"
+    },
+    {
+      "key": "nama_museum",
+      "label": "Nama Museum",
+      "type": "string"
+    },
+    {
+      "key": "alamat",
+      "label": "Alamat",
+      "type": "string"
+    },
+    {
+      "key": "kapanewon_kemantren",
+      "label": "Kapanewon Kemantren",
+      "type": "string"
+    },
+    {
+      "key": "kabupaten_kota",
+      "label": "Kabupaten Kota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "kode_pengelolaan": "MS000251",
+      "nama_museum": "Museum Affandi",
+      "alamat": "Jl. Laksda Adisucipto No. 167",
+      "kapanewon_kemantren": "Sleman",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 2,
+      "kode_pengelolaan": "MS000485",
+      "nama_museum": "Museum Bahari Yogyakarta",
+      "alamat": "Jl. R.E. Martadinata No. 69",
+      "kapanewon_kemantren": "Wirobrajan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 3,
+      "kode_pengelolaan": "MS000254",
+      "nama_museum": "Museum Batik Yogyakarta",
+      "alamat": "Jl. Dr. Sutomo No. 13A",
+      "kapanewon_kemantren": "Danurejan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 4,
+      "kode_pengelolaan": "MS000242",
+      "nama_museum": "Museum Benteng Vredeburg",
+      "alamat": "Jl. Jenderal Ahmad Yani No. 6",
+      "kapanewon_kemantren": "Gondomanan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 5,
+      "kode_pengelolaan": "MS000241",
+      "nama_museum": "Museum Biologi UGM",
+      "alamat": "Jl. Sultan Agung No. 22",
+      "kapanewon_kemantren": "Mergangsan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 6,
+      "kode_pengelolaan": "MS000278",
+      "nama_museum": "Museum Candi Prambanan",
+      "alamat": "Jl. Jogja-Solo KM 16",
+      "kapanewon_kemantren": "Prambanan",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 7,
+      "kode_pengelolaan": "MS000250",
+      "nama_museum": "Museum Dewantara Kirti Griya",
+      "alamat": "Jl. Tamansiswa No. 31",
+      "kapanewon_kemantren": "Pakualaman",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 8,
+      "kode_pengelolaan": "MS000486",
+      "nama_museum": "Museum Gempa Prof. Dr. Sarwidi",
+      "alamat": "Jl. Malangyudo No. 25",
+      "kapanewon_kemantren": "Pakem",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 9,
+      "kode_pengelolaan": "MS000244",
+      "nama_museum": "Museum Geoteknologi Mineral",
+      "alamat": "Kampus II UPN Veteran",
+      "kapanewon_kemantren": "Depok",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 10,
+      "kode_pengelolaan": "MS000272",
+      "nama_museum": "Museum Gumuk Pasir",
+      "alamat": "Pantai Parangtritis dan Parang Kusumo",
+      "kapanewon_kemantren": "Kretek",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 11,
+      "kode_pengelolaan": "MS000269",
+      "nama_museum": "Museum Gunungapi Merapi",
+      "alamat": "Jl. Boyong, Hargobinangun",
+      "kapanewon_kemantren": "Pakem",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 12,
+      "kode_pengelolaan": "MS000275",
+      "nama_museum": "Museum Istana Kepresidenan Yogyakarta",
+      "alamat": "Jl. Malioboro, Kompleks Gedung Agung",
+      "kapanewon_kemantren": "Gondomanan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 13,
+      "kode_pengelolaan": "MS000258",
+      "nama_museum": "Museum Kayu Wanagama",
+      "alamat": "Kantor Hutan Pendidikan Wanagama, Banaran",
+      "kapanewon_kemantren": "Playen",
+      "kabupaten_kota": "Gunungkidul"
+    },
+    {
+      "no": 14,
+      "kode_pengelolaan": "MS000249",
+      "nama_museum": "Museum Keraton Yogyakarta",
+      "alamat": "Jl. Rotowijayan No. 1",
+      "kapanewon_kemantren": "Kraton",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 15,
+      "kode_pengelolaan": "MS000268",
+      "nama_museum": "Museum Memorial Jenderal Besar H. M. Soeharto",
+      "alamat": "Dusun Kemusuk, Argomulyo",
+      "kapanewon_kemantren": "Sedayu",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 16,
+      "kode_pengelolaan": "MS000260",
+      "nama_museum": "Museum Monumen Kesatuan Pergerakan Wanita Indonesia",
+      "alamat": "Jl. Laksda Adisucipto No. 88",
+      "kapanewon_kemantren": "Depok",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 17,
+      "kode_pengelolaan": "MS000255",
+      "nama_museum": "Museum Monumen Pangeran Diponegoro",
+      "alamat": "Jl. HOS Cokroaminoto TR III No. 430",
+      "kapanewon_kemantren": "Tegalrejo",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 18,
+      "kode_pengelolaan": "MS000253",
+      "nama_museum": "Museum Monumen Yogya Kembali",
+      "alamat": "Jl. Ring Road Utara, Waras, Sariharjo",
+      "kapanewon_kemantren": "Ngaglik",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 19,
+      "kode_pengelolaan": "MS000270",
+      "nama_museum": "Museum Paleoantropologi",
+      "alamat": "Jl. Medika, Sendowo, Sinduadi",
+      "kapanewon_kemantren": "Mlati",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 20,
+      "kode_pengelolaan": "MS000274",
+      "nama_museum": "Museum Pendidikan Indonesia Universitas Negeri Yogyakarta",
+      "alamat": "Kampus Pusat Universitas Negeri Yogyakarta",
+      "kapanewon_kemantren": "Depok",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 21,
+      "kode_pengelolaan": "MS000240",
+      "nama_museum": "Museum Perjuangan Yogyakarta",
+      "alamat": "Jl. Kolonel Sugiyono No. 24",
+      "kapanewon_kemantren": "Mergangsan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 22,
+      "kode_pengelolaan": "MS000243",
+      "nama_museum": "Museum Pura Pakualaman",
+      "alamat": "Jl. Sultan Agung",
+      "kapanewon_kemantren": "Pakualaman",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 23,
+      "kode_pengelolaan": "MS000246",
+      "nama_museum": "Museum Pusat TNI AD Dharma Wiratama",
+      "alamat": "Jl. Jenderal Sudirman No. 75",
+      "kapanewon_kemantren": "Gondokusuman",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 24,
+      "kode_pengelolaan": "MS000245",
+      "nama_museum": "Museum Pusat TNI AU Dirgantara Mandala",
+      "alamat": "Jl. Pangkalan Adi Sucipto, Karangjambe, Maguwoharjo",
+      "kapanewon_kemantren": "Depok",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 25,
+      "kode_pengelolaan": "MS000259",
+      "nama_museum": "Museum Rumah Sakit Mata dr. Yap",
+      "alamat": "Jl. Cik Di Tiro No. 5, Terban",
+      "kapanewon_kemantren": "Gondokusuman",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 26,
+      "kode_pengelolaan": "MS000263",
+      "nama_museum": "Museum Sandi",
+      "alamat": "Jl. Faridan Muridan Noto No. 21",
+      "kapanewon_kemantren": "Gondokusuman",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 27,
+      "kode_pengelolaan": "MS000261",
+      "nama_museum": "Museum Sasmitaloka Panglima Besar Jenderal Sudirman",
+      "alamat": "Jl. Bintaran Wetan No. 3, Gunungketur",
+      "kapanewon_kemantren": "Pakualaman",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 28,
+      "kode_pengelolaan": "MS000279",
+      "nama_museum": "Museum Sejarah Purbakala Pleret",
+      "alamat": "Jl. Raya Pleret, Kedaton, Pleret",
+      "kapanewon_kemantren": "Pleret",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 29,
+      "kode_pengelolaan": "MS000238",
+      "nama_museum": "Museum Sonobudoyo",
+      "alamat": "Jl. Pangurakan No. 6, Ngupasan",
+      "kapanewon_kemantren": "Gondomanan",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 30,
+      "kode_pengelolaan": "MS000280",
+      "nama_museum": "Museum Taman Tino Sidin",
+      "alamat": "Jl. Tino Sidin No.297, Kadipiro, Ngestiharjo",
+      "kapanewon_kemantren": "Kasihan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 31,
+      "kode_pengelolaan": "MS000273",
+      "nama_museum": "Museum Tani Jawa Indonesia",
+      "alamat": "Dusun Candran, Kebonagung",
+      "kapanewon_kemantren": "Imogiri",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 32,
+      "kode_pengelolaan": "MS000257",
+      "nama_museum": "Museum Tembi Rumah Budaya",
+      "alamat": "Jl. Parangtritis KM 8,4 Tembi, Timbulharjo",
+      "kapanewon_kemantren": "Sewon",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 33,
+      "kode_pengelolaan": "MS000256",
+      "nama_museum": "Museum Ullen Sentalu",
+      "alamat": "Kawasan Wisata Kaliurang, Hargobinangun",
+      "kapanewon_kemantren": "Pakem",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 34,
+      "kode_pengelolaan": "MS000267",
+      "nama_museum": "Museum Universitas Gadjah Mada",
+      "alamat": "Kampus UGM Bulak Sumur Blok D-6 dan D-7, Caturtunggal",
+      "kapanewon_kemantren": "Depok",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 35,
+      "kode_pengelolaan": "MS000487",
+      "nama_museum": "Museum Universitas Islam Indonesia",
+      "alamat": "Perpustakaan UII, Umbulmartani",
+      "kapanewon_kemantren": "Ngemplak",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 36,
+      "kode_pengelolaan": "MS000252",
+      "nama_museum": "Museum Wayang Kekayon",
+      "alamat": "Jl. Jogja-Wonosari KM 7 No. 277, Baturetno",
+      "kapanewon_kemantren": "Banguntapan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 37,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Kulon Progo (Eks Pengepul Nila)",
+      "alamat": "Dusun Ngento, Pengasih",
+      "kapanewon_kemantren": "Pengasih",
+      "kabupaten_kota": "Kulon Progo"
+    },
+    {
+      "no": 38,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Cokelat Monggo",
+      "alamat": "Jl. Tugu Gentong, Sribitan, Bangunjiwo",
+      "kapanewon_kemantren": "Kasihan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 39,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Wayang Beber Sekartaji",
+      "alamat": "Gg. Pancasila, RT 08, Siten, Sumbermulyo",
+      "kapanewon_kemantren": "Bambanglipuro",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 40,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Padepokan Sumber Karahayon",
+      "alamat": "Jl. Pleret, Ponogaram, Jambidan",
+      "kapanewon_kemantren": "Banguntapan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 41,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Lingkungan Batik Joglo Cipto Wening",
+      "alamat": "Ketandan Tengah, Paduresan, Imogiri",
+      "kapanewon_kemantren": "Imogiri",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 42,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Bantul Masa Belanda",
+      "alamat": "Jl. Ngringinan RT 010, Palbapang, Bantul",
+      "kapanewon_kemantren": "Bantul",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 43,
+      "kode_pengelolaan": "-",
+      "nama_museum": "History of Java Museum",
+      "alamat": "Jl. Parangtritis KM 5.5",
+      "kapanewon_kemantren": "Sewon",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 44,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Muhammadiyah",
+      "alamat": "Kampus IV Universitas Ahmad Dahlan",
+      "kapanewon_kemantren": "Banguntapan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 45,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Sejarah UPY",
+      "alamat": "Kampus Pusat UPY Gedung B Lantai 1, Ngestiharjo",
+      "kapanewon_kemantren": "Kasihan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 46,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Anak Kolong Tangga",
+      "alamat": "Sekarpetak, Gedongan, Bangunjiwo",
+      "kapanewon_kemantren": "Kasihan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 47,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Wahanarata (Museum Kereta Keraton)",
+      "alamat": "Jl. Rotowijayan, Kadipaten",
+      "kapanewon_kemantren": "Kraton",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 48,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Kebun Raya Gembira Loka",
+      "alamat": "Jl. Kebun Raya No. 2, Rejowinangun",
+      "kapanewon_kemantren": "Kotagede",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 49,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Kotagede",
+      "alamat": "Jl. Tegal Gendu No. 20, Prenggan",
+      "kapanewon_kemantren": "Kotagede",
+      "kabupaten_kota": "Kota Yogyakarta"
+    },
+    {
+      "no": 50,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Monumen Pahlawan Pancasila",
+      "alamat": "Jl. Pandega Sakti, Kentungan, Condongcatur",
+      "kapanewon_kemantren": "Depok",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 51,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Andi Bayou",
+      "alamat": "Jl. Sejahtera Green Garden, Sumberan, Ngestiharjo",
+      "kapanewon_kemantren": "Kasihan",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 52,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Anak Bajang",
+      "alamat": "Wonorejo, Hargobinangun",
+      "kapanewon_kemantren": "Pakem",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 53,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Rumah Garuda",
+      "alamat": "Sumber Batikan, Trirenggo",
+      "kapanewon_kemantren": "Bantul",
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "no": 54,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Nusantara Kaliurang",
+      "alamat": "Jalan Kesehatan, Kaliurang, Hargobinangun",
+      "kapanewon_kemantren": "Pakem",
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "no": 55,
+      "kode_pengelolaan": "-",
+      "nama_museum": "Museum Kayu dan Kriya Ambar Polah",
+      "alamat": "Jalan Gua Kiskendo No. 16, Grigak, Giripurwo",
+      "kapanewon_kemantren": "Giri Mulyo",
+      "kabupaten_kota": "Kulon Progo"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Museum di Daerah Istimewa Yogyakarta - Free Download",
+    "description": "Daftar museum di Daerah Istimewa Yogyakarta beserta kode pengelolaan, alamat, kapanewon/kemantren dan kabupaten/kota. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Museum di Daerah Istimewa Yogyakarta | ListBase",
+    "seo_description": "Download Daftar Museum di Daerah Istimewa Yogyakarta — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_museum_di_Daerah_Istimewa_Yogyakarta"
+    ]
+  }
+}

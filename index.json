@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-02T02:36:51.482Z",
-  "total_datasets": 600,
-  "total_records": 650277,
+  "generated": "2026-11-02T02:36:59.915Z",
+  "total_datasets": 601,
+  "total_records": 650332,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -15598,6 +15598,33 @@
         "xlsx": {
           "name": "id-kebun-binatang_ID.xlsx",
           "size": 7563
+        }
+      }
+    },
+    {
+      "id": "id-museum-diy",
+      "name": "Daftar Museum di Daerah Istimewa Yogyakarta",
+      "category": "tourism",
+      "record_count": 55,
+      "columns": [
+        "no",
+        "kode_pengelolaan",
+        "nama_museum",
+        "alamat",
+        "kapanewon_kemantren",
+        "kabupaten_kota"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_museum_di_Daerah_Istimewa_Yogyakarta",
+      "updated": "2026-11",
+      "size": 15421,
+      "files": {
+        "csv": {
+          "name": "id-museum-diy_ID.csv",
+          "size": 5716
+        },
+        "xlsx": {
+          "name": "id-museum-diy_ID.xlsx",
+          "size": 10358
         }
       }
     },
