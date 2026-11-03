@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-03T02:27:36.326Z",
-  "total_datasets": 606,
-  "total_records": 651385,
+  "generated": "2026-11-03T02:27:43.243Z",
+  "total_datasets": 607,
+  "total_records": 651421,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -6047,6 +6047,41 @@
         "xlsx": {
           "name": "id-wilayah-administratif_ID.xlsx",
           "size": 204335
+        }
+      }
+    },
+    {
+      "id": "id-jumlah-rumah-sakit-per-provinsi",
+      "name": "Jumlah Rumah Sakit per Provinsi menurut Pemilik dan Jenis",
+      "category": "health",
+      "record_count": 36,
+      "columns": [
+        "provinsi",
+        "kemenkes",
+        "pemprov",
+        "pemkab",
+        "pemko",
+        "kementerian_lain",
+        "tni",
+        "polri",
+        "organisasi_nirlaba",
+        "bumn",
+        "swasta",
+        "jumlah",
+        "rs_umum",
+        "rs_khusus"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_rumah_sakit_di_Indonesia",
+      "updated": "2026-11",
+      "size": 15300,
+      "files": {
+        "csv": {
+          "name": "id-jumlah-rumah-sakit-per-provinsi_ID.csv",
+          "size": 3820
+        },
+        "xlsx": {
+          "name": "id-jumlah-rumah-sakit-per-provinsi_ID.xlsx",
+          "size": 9174
         }
       }
     },
