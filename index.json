@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-03T02:27:29.031Z",
-  "total_datasets": 605,
-  "total_records": 650892,
+  "generated": "2026-11-03T02:27:36.326Z",
+  "total_datasets": 606,
+  "total_records": 651385,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 31
+      "dataset_count": 32
     },
     {
       "id": "units",
@@ -16006,6 +16006,35 @@
         "xlsx": {
           "name": "id-jawa-timur-pelabuhan_ID.xlsx",
           "size": 7884
+        }
+      }
+    },
+    {
+      "id": "id-jembatan",
+      "name": "Daftar Jembatan di Indonesia per Provinsi",
+      "category": "transport",
+      "record_count": 493,
+      "columns": [
+        "nama",
+        "provinsi",
+        "lokasi",
+        "panjang_m",
+        "melintasi",
+        "dibangun",
+        "diresmikan",
+        "tipe"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_jembatan_di_Indonesia",
+      "updated": "2026-11",
+      "size": 114861,
+      "files": {
+        "csv": {
+          "name": "id-jembatan_ID.csv",
+          "size": 35567
+        },
+        "xlsx": {
+          "name": "id-jembatan_ID.xlsx",
+          "size": 29418
         }
       }
     },

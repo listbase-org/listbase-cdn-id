@@ -1,0 +1,4996 @@
+{
+  "id": "id-jembatan",
+  "name": "Daftar Jembatan di Indonesia per Provinsi",
+  "title": "Daftar Jembatan di Indonesia per Provinsi",
+  "description": "Daftar jembatan di Indonesia menurut provinsi beserta lokasi, panjang (meter), sungai/selat yang dilintasi, tahun dibangun dan diresmikan.",
+  "category": "transport",
+  "source": "https://id.wikipedia.org/wiki/Daftar_jembatan_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_jembatan_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 493,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "panjang_m",
+      "label": "Panjang M",
+      "type": "number"
+    },
+    {
+      "key": "melintasi",
+      "label": "Melintasi",
+      "type": "string"
+    },
+    {
+      "key": "dibangun",
+      "label": "Dibangun",
+      "type": "number"
+    },
+    {
+      "key": "diresmikan",
+      "label": "Diresmikan",
+      "type": "number"
+    },
+    {
+      "key": "tipe",
+      "label": "Tipe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Jembatan Gantung Lamseupeung-Lambhuk",
+      "provinsi": "Aceh",
+      "lokasi": "Banda Aceh",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tutu Panyang",
+      "provinsi": "Aceh",
+      "lokasi": "Bireun",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kilangan",
+      "provinsi": "Aceh",
+      "lokasi": "Aceh Singkil",
+      "panjang_m": 400,
+      "melintasi": "Sungai Lae Souraya",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lamnyong",
+      "provinsi": "Aceh",
+      "lokasi": "Banda Aceh",
+      "panjang_m": 300,
+      "melintasi": "Sungai Aceh",
+      "dibangun": "2015",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Seunapet",
+      "provinsi": "Aceh",
+      "lokasi": "Aceh Besar",
+      "panjang_m": "",
+      "melintasi": "Lembah Seulawah",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pante Pirak",
+      "provinsi": "Aceh",
+      "lokasi": "Banda Aceh",
+      "panjang_m": "",
+      "melintasi": "Sungai Aceh",
+      "dibangun": "1890-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rundeng",
+      "provinsi": "Aceh",
+      "lokasi": "Kota Subulussalam",
+      "panjang_m": 130,
+      "melintasi": "",
+      "dibangun": "2001",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Peunayong",
+      "provinsi": "Aceh",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1874",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kreung Tingkeum",
+      "provinsi": "Aceh",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Krueng Cut",
+      "provinsi": "Aceh",
+      "lokasi": "",
+      "panjang_m": 310,
+      "melintasi": "",
+      "dibangun": "1990",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ulee Lheue",
+      "provinsi": "Aceh",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lam Jamee",
+      "provinsi": "Aceh",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Teupin Mane",
+      "provinsi": "Aceh",
+      "lokasi": "",
+      "panjang_m": 30,
+      "melintasi": "",
+      "dibangun": "1905",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tabayang",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Asahan",
+      "panjang_m": 600,
+      "melintasi": "Sungai Asahan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Aek Tano Ponggol",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Samosir",
+      "panjang_m": 382,
+      "melintasi": "Kanal Tano Ponggol",
+      "dibangun": "2020",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sei Wampu",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Langkat",
+      "panjang_m": 182,
+      "melintasi": "Sungai Wampu",
+      "dibangun": "2016",
+      "diresmikan": "2023",
+      "tipe": "jembatan lengkung"
+    },
+    {
+      "nama": "Jembatan Sei Wampu (Tol Binjai-Langsa)",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "",
+      "panjang_m": 230,
+      "melintasi": "Sungai Wampu",
+      "dibangun": "2022",
+      "diresmikan": "2024",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Titi Gantung",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Medan",
+      "panjang_m": 45,
+      "melintasi": "",
+      "dibangun": "1885",
+      "diresmikan": "1920",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Hamzah Alfansuri",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Barus",
+      "panjang_m": 100,
+      "melintasi": "Sungai Sirahar",
+      "dibangun": "",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Parhitean",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "",
+      "panjang_m": 100,
+      "melintasi": "Sungai Asahan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lau Luhung",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Deli Serdang",
+      "panjang_m": 150,
+      "melintasi": "Sungai Buaya",
+      "dibangun": "1979",
+      "diresmikan": "",
+      "tipe": "Jembatan Gantung"
+    },
+    {
+      "nama": "Jembatan Gunting Saga",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Labuhanbatu Utara",
+      "panjang_m": "",
+      "melintasi": "Sungai Kualu",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Idano Sibolou",
+      "provinsi": "Sumatera Utara",
+      "lokasi": "Nias Barat",
+      "panjang_m": 50,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jumrah",
+      "provinsi": "Riau",
+      "lokasi": "Rokan Hilir",
+      "panjang_m": 300,
+      "melintasi": "Sungai Rokan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rantau Berangin",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": 200,
+      "melintasi": "",
+      "dibangun": "1970",
+      "diresmikan": "1974",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pedamaran I",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": 1020,
+      "melintasi": "Sungai Rokan",
+      "dibangun": "2006",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pedamaran II",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak",
+      "provinsi": "Riau",
+      "lokasi": "Siak Sri Indrapura",
+      "panjang_m": 1196,
+      "melintasi": "Sungai Siak",
+      "dibangun": "2002",
+      "diresmikan": "2007",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak I",
+      "provinsi": "Riau",
+      "lokasi": "Pekanbaru",
+      "panjang_m": 350,
+      "melintasi": "",
+      "dibangun": "1973",
+      "diresmikan": "1977",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak II",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak III",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": 520,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2011",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak IV",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": 800,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak V",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Siak VI",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rumbai Jaya",
+      "provinsi": "Riau",
+      "lokasi": "",
+      "panjang_m": 750,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2004",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Trio Amanah Indragiri",
+      "provinsi": "Riau",
+      "lokasi": "Indragiri Hulu",
+      "panjang_m": 170,
+      "melintasi": "Sungai Indragiri",
+      "dibangun": "2002",
+      "diresmikan": "2011",
+      "tipe": "Jembatan Gantung"
+    },
+    {
+      "nama": "Jembatan Panglima Sampul",
+      "provinsi": "Riau",
+      "lokasi": "Kepulauan Meranti",
+      "panjang_m": 180,
+      "melintasi": "Sungai Perumbi",
+      "dibangun": "2002",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Nilo",
+      "provinsi": "Riau",
+      "lokasi": "Pelalawan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sungai Masjid",
+      "provinsi": "Riau",
+      "lokasi": "Kota Dumai",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Barelang",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "Batam",
+      "panjang_m": 385,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Nara Singa",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Raja Ali Haji",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sultan Zainal Abidin",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tuanku Tambusai",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Raja Kecik",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Wiratno",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "Tanjungpinang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ekang",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "Bintan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Dompak",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": 1450,
+      "melintasi": "",
+      "dibangun": "2006",
+      "diresmikan": "2017",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batam–Bintan",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sanur",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "Karimun",
+      "panjang_m": 138,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Selayang Pandang",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "Anambas",
+      "panjang_m": 1150,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sei Carang",
+      "provinsi": "Kepulauan Riau",
+      "lokasi": "Tanjungpinang",
+      "panjang_m": 225,
+      "melintasi": "Sungai Inderapura",
+      "dibangun": "",
+      "diresmikan": "2012",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sitti Nurbaya",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "Kota Padang",
+      "panjang_m": 156,
+      "melintasi": "Sungai Batang Arau",
+      "dibangun": "1995",
+      "diresmikan": "2002",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Limpapeh",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "Bukittinggi",
+      "panjang_m": 90,
+      "melintasi": "Jalan Ahmad Yani",
+      "dibangun": "1995",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan layang Kelok 9",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": 959,
+      "melintasi": "",
+      "dibangun": "2003",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Akar Bayang Utara",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantuang Ujuang Gading",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sungai Dareh",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ratapan Ibu",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kembar Lunang",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan kereta api Padang Panjang",
+      "provinsi": "Sumatera Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ampera",
+      "provinsi": "Sumatera Selatan",
+      "lokasi": "Palembang",
+      "panjang_m": 1177,
+      "melintasi": "Sungai Musi",
+      "dibangun": "1962",
+      "diresmikan": "1965",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Musi II",
+      "provinsi": "Sumatera Selatan",
+      "lokasi": "Bukittinggi",
+      "panjang_m": 520,
+      "melintasi": "Sungai Musi",
+      "dibangun": "1994",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Enim I",
+      "provinsi": "Sumatera Selatan",
+      "lokasi": "Muara Enim",
+      "panjang_m": "",
+      "melintasi": "Sungai Enim",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Enim 2",
+      "provinsi": "Sumatera Selatan",
+      "lokasi": "Muara Enim",
+      "panjang_m": "",
+      "melintasi": "Sungai Enim",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Baturusa",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "lokasi": "Bangka",
+      "panjang_m": "",
+      "melintasi": "Sungai Baturusa",
+      "dibangun": "1978",
+      "diresmikan": "1979",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan EMAS",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "lokasi": "Pangkalpinang",
+      "panjang_m": 784.5,
+      "melintasi": "Sungai Baturusa",
+      "dibangun": "2009",
+      "diresmikan": "2017",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gentala Arasy",
+      "provinsi": "Jambi",
+      "lokasi": "Kota Jambi",
+      "panjang_m": 503,
+      "melintasi": "Sungai Batanghari",
+      "dibangun": "",
+      "diresmikan": "2015",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batanghari I",
+      "provinsi": "Jambi",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Batanghari",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batanghari II",
+      "provinsi": "Jambi",
+      "lokasi": "Kota Jambi",
+      "panjang_m": 1400,
+      "melintasi": "Sungai Batanghari",
+      "dibangun": "2002",
+      "diresmikan": "2010",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Beatrix Sarolangun",
+      "provinsi": "Jambi",
+      "lokasi": "Sarolangun",
+      "panjang_m": 197.4,
+      "melintasi": "Sungai Batang Tembesi",
+      "dibangun": "1937",
+      "diresmikan": "1939",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sebilo",
+      "provinsi": "Bengkulu",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Manula",
+      "provinsi": "Bengkulu",
+      "lokasi": "",
+      "panjang_m": 215,
+      "melintasi": "Taman Nasional Bukit Barisan Selatan",
+      "dibangun": "2010",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Air Manna",
+      "provinsi": "Bengkulu",
+      "lokasi": "",
+      "panjang_m": 40,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kereta Api Haji Pemanggilan",
+      "provinsi": "Bengkulu",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Air Matan",
+      "provinsi": "Bengkulu",
+      "lokasi": "",
+      "panjang_m": 100,
+      "melintasi": "",
+      "dibangun": "2025",
+      "diresmikan": "2026",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Elevated Danau Dendam Tak Sudah",
+      "provinsi": "Bengkulu",
+      "lokasi": "",
+      "panjang_m": 570,
+      "melintasi": "",
+      "dibangun": "2023",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Semangka",
+      "provinsi": "Lampung",
+      "lokasi": "Lampung Barat",
+      "panjang_m": 60,
+      "melintasi": "Way Semangka",
+      "dibangun": "",
+      "diresmikan": "2014",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kuning",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Patriot",
+      "provinsi": "Lampung",
+      "lokasi": "Lampung Selatan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bendungan Way Sekampung",
+      "provinsi": "Lampung",
+      "lokasi": "Lampung Tengah",
+      "panjang_m": 400,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tegineneng",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 100,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "1980",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Pengubuan",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 45,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Perintis Garuda",
+      "provinsi": "Lampung",
+      "lokasi": "Lampung Timur",
+      "panjang_m": "",
+      "melintasi": "Way Bungur",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Sabuk",
+      "provinsi": "Lampung",
+      "lokasi": "Lampung Utara",
+      "panjang_m": 40.8,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Way Arum",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 60,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Sekampung",
+      "provinsi": "Lampung",
+      "lokasi": "Pringsewu",
+      "panjang_m": 400,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Rarem",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 45.8,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Cakat Menggala",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 60,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Umbar",
+      "provinsi": "Lampung",
+      "lokasi": "Tanggamus",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Paku",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 18,
+      "melintasi": "",
+      "dibangun": "2016",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Way Badar",
+      "provinsi": "Lampung",
+      "lokasi": "Tulang Bawang",
+      "panjang_m": "",
+      "melintasi": "Sungai Tulang Bawang",
+      "dibangun": "",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Garuntang",
+      "provinsi": "Lampung",
+      "lokasi": "Bandar Lampung",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Siger Milenial",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Pasaran",
+      "provinsi": "Lampung",
+      "lokasi": "",
+      "panjang_m": 200,
+      "melintasi": "",
+      "dibangun": "2023",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Pelita Sumbersari",
+      "provinsi": "Lampung",
+      "lokasi": "Kota Metro",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1969",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kapuas I",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Kota Pontianak",
+      "panjang_m": 420,
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "1980",
+      "diresmikan": "1982",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kapuas Putussibau",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Kapuas Hulu",
+      "panjang_m": "",
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kembar Kapuas I",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Kota Pontianak",
+      "panjang_m": "",
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "2023",
+      "diresmikan": "2024",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kapuas II",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Kubu Raya",
+      "panjang_m": 560,
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "2003",
+      "diresmikan": "2007",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kapuas III",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": 5975,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kembar Landak",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "2016",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ambawang I",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": 60,
+      "melintasi": "",
+      "dibangun": "2023",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pawan I",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Benua Kayong",
+      "panjang_m": "",
+      "melintasi": "Sungai Pawan",
+      "dibangun": "1970-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pawan II",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Muara Pawan",
+      "panjang_m": 1082,
+      "melintasi": "Sungai Pawan",
+      "dibangun": "",
+      "diresmikan": "1997",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pawan III",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Nanga tayap",
+      "panjang_m": "",
+      "melintasi": "Sungai Pawan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pawan IV",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Sandai",
+      "panjang_m": "",
+      "melintasi": "Sungai Pawan",
+      "dibangun": "2012",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pawan V",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Delta Pawan",
+      "panjang_m": 244,
+      "melintasi": "Sungai Pawan",
+      "dibangun": "2007",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Semuntai",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Sanggau",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Abdul Fatah",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sosok",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Tayan Hulu",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Entakai",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Kapuas",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sei Sekayam",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Setompak",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kantu",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Doku",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bonti",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sekayam Kembayan",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sekayam",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Entikong",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pak Kasih Tayan",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Kota Tayan",
+      "panjang_m": 1440,
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tayan Lama",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Melawi",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jemelak",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lengkenat",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sungai Manter",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Peniti",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Penanjung I",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pinoh",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Melawi II",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Landak Lama",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ella Hilir",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Telaga Cinta Mahajaya",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Singkawang",
+      "panjang_m": 14.5,
+      "melintasi": "Sungai Singkawang",
+      "dibangun": "2022",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Penanjung",
+      "provinsi": "Kalimantan Barat",
+      "lokasi": "Sekadau",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1938",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Barito",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Barito Kuala",
+      "panjang_m": 1082,
+      "melintasi": "Sungai Barito",
+      "dibangun": "",
+      "diresmikan": "1997",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rumpiang",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Marabahan",
+      "panjang_m": 753,
+      "melintasi": "Sungai Barito",
+      "dibangun": "",
+      "diresmikan": "2008",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Dewi",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarmasin",
+      "panjang_m": "",
+      "melintasi": "Sungai Martapura",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sei Alalak",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarmasin",
+      "panjang_m": 850,
+      "melintasi": "Sungai Alalak",
+      "dibangun": "",
+      "diresmikan": "2021",
+      "tipe": "Jembatan kabel pancang"
+    },
+    {
+      "nama": "Jembatan 9 November",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarmasin",
+      "panjang_m": "",
+      "melintasi": "Sungai Martapura",
+      "dibangun": "1960-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sudimampir",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarmasin",
+      "panjang_m": "",
+      "melintasi": "Sungai Martapura",
+      "dibangun": "1965",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Patih Masih",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarmasin",
+      "panjang_m": 304,
+      "melintasi": "Sungai Kuin",
+      "dibangun": "2020",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Pulau Bromo",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarmasin",
+      "panjang_m": 100,
+      "melintasi": "Antasan Bromo",
+      "dibangun": "2020",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Besi Lampihong",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Balangan",
+      "panjang_m": 40,
+      "melintasi": "Sungai Balangan",
+      "dibangun": "1929",
+      "diresmikan": "1933",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Mali-Mali",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjar",
+      "panjang_m": 226.188,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Lok Baintan",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Antaluddin",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Selatan",
+      "panjang_m": "",
+      "melintasi": "Sungai Amandit",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan 3 Desember",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Selatan",
+      "panjang_m": "",
+      "melintasi": "Sungai Amandit",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Loklua",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Selatan",
+      "panjang_m": "",
+      "melintasi": "Sungai Amandit",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Andi Tajang",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Selatan",
+      "panjang_m": 80,
+      "melintasi": "Sungai Nagara",
+      "dibangun": "2015",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rahimin",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Selatan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Nateh",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Tengah",
+      "panjang_m": 243,
+      "melintasi": "Sungai Nateh",
+      "dibangun": "2000",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Paliwara",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Utara",
+      "panjang_m": "",
+      "melintasi": "Sungai Negara",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Banua Lima",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Utara",
+      "panjang_m": "",
+      "melintasi": "Sungai Negara",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bakubung",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Hulu Sungai Utara",
+      "panjang_m": 40,
+      "melintasi": "Sungai Karau",
+      "dibangun": "1835",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ma'antam",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Kotabaru",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Laut",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Selat Laut",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Margasari",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Tapin",
+      "panjang_m": 100,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Banjarbaru 2",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarbaru",
+      "panjang_m": 30,
+      "melintasi": "Jalan A. Yani Km 34",
+      "dibangun": "2022",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kembar Loktabat",
+      "provinsi": "Kalimantan Selatan",
+      "lokasi": "Banjarbaru",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kahayan",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Palangka Raya",
+      "panjang_m": 640,
+      "melintasi": "Sungai Kahayan",
+      "dibangun": "1995",
+      "diresmikan": "2002",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Timpah",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Kapuas",
+      "panjang_m": 225,
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "",
+      "diresmikan": "2010",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kalahien",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Barito Selatan",
+      "panjang_m": 620,
+      "melintasi": "Sungai Barito",
+      "dibangun": "2007",
+      "diresmikan": "2010",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lemo",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Barito Utara",
+      "panjang_m": 623,
+      "melintasi": "Sungai Barito",
+      "dibangun": "2021",
+      "diresmikan": "",
+      "tipe": "Jembatan kabel pancang"
+    },
+    {
+      "nama": "Jembatan Hasan Basri",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Barito Utara",
+      "panjang_m": 270,
+      "melintasi": "Sungai Barito",
+      "dibangun": "1990",
+      "diresmikan": "1995",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merdeka",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Barito Utara",
+      "panjang_m": 550,
+      "melintasi": "Sungai Barito",
+      "dibangun": "2003",
+      "diresmikan": "2008",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bajarum",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Kotawaringin Timur",
+      "panjang_m": "",
+      "melintasi": "Sungai Mentaya",
+      "dibangun": "1980",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Seruyan",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Seruyan",
+      "panjang_m": 590,
+      "melintasi": "Sungai Seruyan",
+      "dibangun": "",
+      "diresmikan": "2010",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tumbang Samba",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Katingan",
+      "panjang_m": 843.2,
+      "melintasi": "Sungai Katingan",
+      "dibangun": "2017",
+      "diresmikan": "2020",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Katingan",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Katingan",
+      "panjang_m": 341.56,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "1988",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batu Mahasur",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Gunung Mas",
+      "panjang_m": 168.24,
+      "melintasi": "Sungai Kahayan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jelai",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Sukamara",
+      "panjang_m": 430,
+      "melintasi": "Sungai Jelai",
+      "dibangun": "2005",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tumbang Nusa",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Pulang Pisau",
+      "panjang_m": 10500,
+      "melintasi": "Rawa",
+      "dibangun": "2000",
+      "diresmikan": "2013",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Telo",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Kuala Kapuas",
+      "panjang_m": 580,
+      "melintasi": "Sungai Kapuas",
+      "dibangun": "",
+      "diresmikan": "1999",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Petak",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Kuala Kapuas",
+      "panjang_m": 600,
+      "melintasi": "Sungai Kapuas Murung",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulang Pisau",
+      "provinsi": "Kalimantan Tengah",
+      "lokasi": "Pulang Pisau",
+      "panjang_m": 562,
+      "melintasi": "Sungai Kahayan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": "rangka batang"
+    },
+    {
+      "nama": "Jembatan Mahakam",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Samarinda",
+      "panjang_m": 406,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "1982",
+      "diresmikan": "1987",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Mahakam Ulu",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Samarinda",
+      "panjang_m": 799.8,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "2006",
+      "diresmikan": "2009",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Mahkota IV",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Samarinda",
+      "panjang_m": 220,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "2012",
+      "diresmikan": "2020",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Achmad Amins",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Samarinda",
+      "panjang_m": 1428,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "2002",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kehewanan",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Samarinda",
+      "panjang_m": 100,
+      "melintasi": "Sungai Karang Mumus",
+      "dibangun": "1930 -an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Balang",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Balikpapan",
+      "panjang_m": 804,
+      "melintasi": "Teluk Balikpapan",
+      "dibangun": "2015",
+      "diresmikan": "2024",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Mahakam II",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Tenggarong",
+      "panjang_m": 526,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "2013",
+      "diresmikan": "2015",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Martadipura",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Kota Bangun",
+      "panjang_m": 560,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "",
+      "diresmikan": "2006",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Repo-Repo",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Tenggarong",
+      "panjang_m": 230,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kutai Lama",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Anggana",
+      "panjang_m": 150,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "2002",
+      "diresmikan": "2009",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Dondang",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Sanga-Sanga",
+      "panjang_m": 840,
+      "melintasi": "Sungai Dondang",
+      "dibangun": "2002",
+      "diresmikan": "2004",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Aji Tulur Jejangkat",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Kutai Barat",
+      "panjang_m": 1040,
+      "melintasi": "Sungai Mahakam",
+      "dibangun": "2008",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sei Segah",
+      "provinsi": "Kalimantan Timur",
+      "lokasi": "Tanjung Redeb",
+      "panjang_m": 390,
+      "melintasi": "Sungai Segah",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": "Rangka baja"
+    },
+    {
+      "nama": "Jembatan Kayan",
+      "provinsi": "Kalimantan Utara",
+      "lokasi": "Tanjung Selor",
+      "panjang_m": 429,
+      "melintasi": "Sungai Kayan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Malinau",
+      "provinsi": "Kalimantan Utara",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Meranti",
+      "provinsi": "Kalimantan Utara",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ir Soekarno",
+      "provinsi": "Sulawesi Utara",
+      "lokasi": "Manado",
+      "panjang_m": 1127,
+      "melintasi": "Teluk Manado.",
+      "dibangun": "2003",
+      "diresmikan": "2017",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Megawati",
+      "provinsi": "Sulawesi Utara",
+      "lokasi": "",
+      "panjang_m": 98,
+      "melintasi": "Sungai Tondano",
+      "dibangun": "2003",
+      "diresmikan": "2008",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kosio",
+      "provinsi": "Sulawesi Utara",
+      "lokasi": "Bolaang Mongondow",
+      "panjang_m": 30,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lahonduru",
+      "provinsi": "Sulawesi Utara",
+      "lokasi": "",
+      "panjang_m": 700,
+      "melintasi": "Pantai Lahonduru",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Maselihe",
+      "provinsi": "Sulawesi Utara",
+      "lokasi": "Sangihe",
+      "panjang_m": 110,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Titian Nada Kolintang",
+      "provinsi": "Sulawesi Utara",
+      "lokasi": "Tomohon",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Talumolo II",
+      "provinsi": "Gorontalo",
+      "lokasi": "Kota Gorontalo",
+      "panjang_m": 205,
+      "melintasi": "Sungai Bone",
+      "dibangun": "",
+      "diresmikan": "2006",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan H.M Soeharto",
+      "provinsi": "Gorontalo",
+      "lokasi": "Boalemo",
+      "panjang_m": 30,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2014",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Molintogupo",
+      "provinsi": "Gorontalo",
+      "lokasi": "Bone Bolango",
+      "panjang_m": 115,
+      "melintasi": "",
+      "dibangun": "2020",
+      "diresmikan": "2020",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bolong",
+      "provinsi": "Sulawesi Barat",
+      "lokasi": "Mamuju",
+      "panjang_m": 205,
+      "melintasi": "Sungai Takandeang",
+      "dibangun": "",
+      "diresmikan": "2014",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tarailu",
+      "provinsi": "Sulawesi Barat",
+      "lokasi": "",
+      "panjang_m": 241,
+      "melintasi": "Sungai Tarailu",
+      "dibangun": "1987",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tubo",
+      "provinsi": "Sulawesi Barat",
+      "lokasi": "Majene",
+      "panjang_m": 120,
+      "melintasi": "",
+      "dibangun": "1984",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Deking",
+      "provinsi": "Sulawesi Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Akar Sungai Merang",
+      "provinsi": "Sulawesi Barat",
+      "lokasi": "Mamasa",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Palu I",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Kota Palu",
+      "panjang_m": 85,
+      "melintasi": "",
+      "dibangun": "1978",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Palu II",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Palu III",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": 120,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Palu IV",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": 250,
+      "melintasi": "Teluk Talise",
+      "dibangun": "",
+      "diresmikan": "2006",
+      "tipe": "jembatan lengkung"
+    },
+    {
+      "nama": "Jembatan Lobu",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Banggai",
+      "panjang_m": 150,
+      "melintasi": "",
+      "dibangun": "1940",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jepang Panilan",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Banggai Laut",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Buol",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Buol",
+      "panjang_m": 120,
+      "melintasi": "Sungai Buol",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Uwentira",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Megawati",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Donggala",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Guntur Donggala",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tompe",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Tompe",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan IPI Bawah",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Morowali",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bangkapusu",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": 128,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lembobelala",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Morowali Utara",
+      "panjang_m": 60,
+      "melintasi": "",
+      "dibangun": "2024",
+      "diresmikan": "2026",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Belanda (Palasa)",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Parigi Moutong",
+      "panjang_m": 30,
+      "melintasi": "",
+      "dibangun": "1936",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Yondo Mpamona",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Poso",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kabose",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Poso",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan I Kota Poso",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sidondo",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Sigi",
+      "panjang_m": 135,
+      "melintasi": "Sungai Palu",
+      "dibangun": "2018",
+      "diresmikan": "2024",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Papan",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Tojo Una-Una",
+      "panjang_m": 965,
+      "melintasi": "Laut Togean",
+      "dibangun": "2005",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bongka",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "",
+      "panjang_m": 300,
+      "melintasi": "Sungai Bongka",
+      "dibangun": "1992",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lonti",
+      "provinsi": "Sulawesi Tengah",
+      "lokasi": "Tolitoli",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Teluk Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "Kendari",
+      "panjang_m": 1340,
+      "melintasi": "Teluk Kendar i",
+      "dibangun": "",
+      "diresmikan": "2020",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bungkutoko",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "",
+      "panjang_m": 130,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2013",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pasar Baru",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Lambandia",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "Kolaka Timur",
+      "panjang_m": 40,
+      "melintasi": "Sungai Lambandia",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pohara",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "Konawe",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kolono",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "Konawe Selatan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Biru Baubau",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "Kota Baubau",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Baubau",
+      "provinsi": "Sulawesi Tenggara",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Barombong",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Makassar",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sungai Tallo",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Malin o",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Layang Urip Sumoharjo",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Jalan AP Pettarani",
+      "dibangun": "2006",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sungguminasa",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Gowa",
+      "panjang_m": 133.94,
+      "melintasi": "Sungai Jeneberang",
+      "dibangun": "1909",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Titik Nol",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Bulukumba",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Penja",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Enrekang",
+      "panjang_m": "",
+      "melintasi": "Sungai Saddang",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Allo",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Belokallong",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Jeneponto",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sungai Rongkong",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Luwu Utara",
+      "panjang_m": 125,
+      "melintasi": "Sungai Rongkong",
+      "dibangun": "1987",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Beringin Jaya",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": 120,
+      "melintasi": "",
+      "dibangun": "2022",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Helena Sky Bridge",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Maros",
+      "panjang_m": 50,
+      "melintasi": "",
+      "dibangun": "2016",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Layang Tompo Ladang",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": 400,
+      "melintasi": "",
+      "dibangun": "2023",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Andalan Pacongkang",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Soppeng",
+      "panjang_m": 177,
+      "melintasi": "Sungai Walanae",
+      "dibangun": "",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Makammu II",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Takalar",
+      "panjang_m": 60,
+      "melintasi": "Sungai Bulukunyi",
+      "dibangun": "2021",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Buntu Burake",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Tana Toraja",
+      "panjang_m": 90,
+      "melintasi": "",
+      "dibangun": "2016",
+      "diresmikan": "2020",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ne'Gandeng",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Sadan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Malangngo'",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Malango",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sumpang Minangae",
+      "provinsi": "Sulawesi Selatan",
+      "lokasi": "Parepare",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kuning Cisimeut",
+      "provinsi": "Banten",
+      "lokasi": "Lebak",
+      "panjang_m": "",
+      "melintasi": "Sungai Cipayeuh",
+      "dibangun": "1986",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ciberang",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bantar Karang",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Curug Bandung",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Akar Baduy",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "sungai Cisimeut",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cirokoy",
+      "provinsi": "Banten",
+      "lokasi": "Pandeglang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Titian Persatuan",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Aria Wangsakara",
+      "provinsi": "Banten",
+      "lokasi": "Serang",
+      "panjang_m": 90,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rante",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Berendeng",
+      "provinsi": "Banten",
+      "lokasi": "Tangerang",
+      "panjang_m": 120,
+      "melintasi": "Sungai Cisadane",
+      "dibangun": "",
+      "diresmikan": "2018",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah, Tangerang",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": 142,
+      "melintasi": "Sungai Cisadane",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cikokol",
+      "provinsi": "Banten",
+      "lokasi": "",
+      "panjang_m": 110,
+      "melintasi": "",
+      "dibangun": "1989",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Baru Pagedangan",
+      "provinsi": "Banten",
+      "lokasi": "Tangerang Selatan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Baruyungan",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Utara",
+      "panjang_m": 1400,
+      "melintasi": "Teluk Jakarta",
+      "dibangun": "2018",
+      "diresmikan": "2020",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cinta",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Kepulauan Seribu",
+      "panjang_m": 670,
+      "melintasi": "",
+      "dibangun": "2010",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Kebayoran Lama",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Selatan",
+      "panjang_m": 450,
+      "melintasi": "Jalan Ciledug Raya",
+      "dibangun": "2022",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kota Intan",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Barat",
+      "panjang_m": 30,
+      "melintasi": "Sungai Ciliwung",
+      "dibangun": "1628",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Pinisi Karet Sudirman",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Barat",
+      "panjang_m": 89.76,
+      "melintasi": "Jalan Jenderal Sudirman",
+      "dibangun": "1960-an",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Simpang Susun Semanggi",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Barat",
+      "panjang_m": 796,
+      "melintasi": "",
+      "dibangun": "1961",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pasar Ayam",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta",
+      "panjang_m": "",
+      "melintasi": "Kali Besar",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Javasche Bank",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1655",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Senti",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kambing",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Angke",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Pesanggrahan",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Barat",
+      "panjang_m": 31,
+      "melintasi": "Jalan Pesanggrahan",
+      "dibangun": "2025",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Krendang",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Barat",
+      "panjang_m": 15,
+      "melintasi": "Kali Duri",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Gelora Bung Karno",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Selatan",
+      "panjang_m": 66.5,
+      "melintasi": "Jalan Jenderal Sudirman",
+      "dibangun": "2018",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "JPM Dukuh Atas",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Selatan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "2021",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Dewi Sartika",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Timur",
+      "panjang_m": 34.6,
+      "melintasi": "Jalan Dewi Sartika",
+      "dibangun": "2024",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ancol",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Utara",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Sunter Muara",
+      "provinsi": "DKI Jakarta",
+      "lokasi": "Jakarta Utara",
+      "panjang_m": 27.3,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Angke V",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Bogor",
+      "panjang_m": "",
+      "melintasi": "Kali Besar",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gerendong",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 80,
+      "melintasi": "sungai Cisadane",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pasupati",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Bandung",
+      "panjang_m": "",
+      "melintasi": "lembah Cikapundung",
+      "dibangun": "",
+      "diresmikan": "2005",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Teluk Jambe",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Karawang",
+      "panjang_m": "",
+      "melintasi": "sungai Citarum",
+      "dibangun": "",
+      "diresmikan": "1960",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cirengge",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cisomang",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Citiis",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Irene",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kuning Kamojang",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jalan Layang Mengger",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jalan Layang Sheikh Mohammed bin Zayed",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kereta Api Rancagoong",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Bandung",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Rengganis",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 370,
+      "melintasi": "kawasan Gunung Patuha",
+      "dibangun": "2020",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Babakan Sapan",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Citarum",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cikabuyutan",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 100,
+      "melintasi": "Sungai Citarum",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Apung Surapatin",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Bandung Barat",
+      "panjang_m": 426,
+      "melintasi": "",
+      "dibangun": "2018",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Alfian",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 520,
+      "melintasi": "Sungai Citarum",
+      "dibangun": "2021",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kereta Api Cikubang",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 300,
+      "melintasi": "Sungai Cikubang",
+      "dibangun": "1902",
+      "diresmikan": "1906",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Citarum Lama",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 1200,
+      "melintasi": "Sungai Citarum",
+      "dibangun": "1986",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cibabi",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Bogor",
+      "panjang_m": "",
+      "melintasi": "Sungai Ciliwung",
+      "dibangun": "1970",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cirahong",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Ciamis",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gaspool",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Krasak",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Indramayu",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Terusan Sindang Indramayu",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Cimanuk",
+      "dibangun": "2017",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sewo",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Sewo",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ciparage",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Karawang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Perahu Haji Endang",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Walahar",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 130,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jatipamor",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Majalengka",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1949",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan merah Pangandaran",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Pangandaran",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sodongkopo",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 140,
+      "melintasi": "",
+      "dibangun": "2024",
+      "diresmikan": "2026",
+      "tipe": "Lengkung baja"
+    },
+    {
+      "nama": "Jembatan Cikacepit",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 310,
+      "melintasi": "",
+      "dibangun": "1916",
+      "diresmikan": "1921",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jesse Park",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Subang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Situ Gunung",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Sukabumi",
+      "panjang_m": 243,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cincin Jatinangor",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Sumedang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1917",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cirahong",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Tasikmalaya",
+      "panjang_m": 202,
+      "melintasi": "Sungai Citanduy",
+      "dibangun": "1893",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ciloseh",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 252,
+      "melintasi": "",
+      "dibangun": "2021",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Procit",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Kota Banjar",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Leuwigajah",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Cimahi",
+      "panjang_m": 47.8,
+      "melintasi": "Jalan Tol Purbaleunyi",
+      "dibangun": "2020",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan layang Padasuka",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 57.4,
+      "melintasi": "Perlintasan kereta api Padalarang-Cimahi",
+      "dibangun": "2016",
+      "diresmikan": "2018",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Panus",
+      "provinsi": "Jawa Barat",
+      "lokasi": "Kota Depok",
+      "panjang_m": 100,
+      "melintasi": "Sungai Ciliwung",
+      "dibangun": "1917",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Teksas",
+      "provinsi": "Jawa Barat",
+      "lokasi": "",
+      "panjang_m": 80,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tembana",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Kebumen",
+      "panjang_m": 170,
+      "melintasi": "Sungai Luk Ulo",
+      "dibangun": "1871",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kahyangan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Banjarnegara",
+      "panjang_m": 1150,
+      "melintasi": "Kawah Sikidang",
+      "dibangun": "2020",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Plipiran",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 60,
+      "melintasi": "Kali Clapar",
+      "dibangun": "",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Patikraja",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Banyumas",
+      "panjang_m": 126.17,
+      "melintasi": "Sungai Serayu",
+      "dibangun": "1896",
+      "diresmikan": "2018",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gerilya Soedirman",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 8,
+      "melintasi": "Sungai Serayu",
+      "dibangun": "2017",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Linggamas",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 140,
+      "melintasi": "",
+      "dibangun": "2009",
+      "diresmikan": "2015",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kali Kuto",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Batang",
+      "panjang_m": 100,
+      "melintasi": "Kali Kuto",
+      "dibangun": "2017",
+      "diresmikan": "2018",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gantung Danawarih",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Tegal",
+      "panjang_m": 273,
+      "melintasi": "Kali Gung",
+      "dibangun": "1992",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Duwet",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Magelang",
+      "panjang_m": 29,
+      "melintasi": "Kali Progo",
+      "dibangun": "1930",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Setan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kali Tanggi",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Semarang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Putih Dieng",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Wonosobo",
+      "panjang_m": 26,
+      "melintasi": "Telaga Warna",
+      "dibangun": "2016",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Layang Simpang Joglo",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Surakarta",
+      "panjang_m": 270,
+      "melintasi": "Simpang Joglo",
+      "dibangun": "2022",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Terusan Bojonegoro-Blora",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Blora",
+      "panjang_m": 1100,
+      "melintasi": "Sungai Bengawan Solo",
+      "dibangun": "2020",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Loco Bleboh",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lembu Saketi",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Boyolali",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kali Kenteng",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 495,
+      "melintasi": "Kali Kenteng",
+      "dibangun": "2018",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jalinan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1900-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sakalibel",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Brebes",
+      "panjang_m": 298,
+      "melintasi": "Sungai Keruh",
+      "dibangun": "1912",
+      "diresmikan": "1917",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Galuh Timur",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Belang",
+      "dibangun": "1890",
+      "diresmikan": "1915",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Apung Kampung Laut",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Cilacap",
+      "panjang_m": 71,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Plengkung",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1894",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Besi Demaan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Jepara",
+      "panjang_m": 28,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kanal Saripan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 27,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Kemuning",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Karanganyar",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bancolono",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "lereng Gunung Lawu",
+      "dibangun": "1989",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Renville",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Kebumen",
+      "panjang_m": 100,
+      "melintasi": "Sungai Luk Ulo",
+      "dibangun": "1887",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Loko Cepiring",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Kendal",
+      "panjang_m": "",
+      "melintasi": "Sungai Bodri",
+      "dibangun": "1871",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kolonel Sunandar",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Kudus",
+      "panjang_m": 170,
+      "melintasi": "Sungai Wulan",
+      "dibangun": "1963",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Karangsambung",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 50,
+      "melintasi": "Kali Gelis",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ngembik",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Magelang",
+      "panjang_m": 100,
+      "melintasi": "Kali Progo",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Juwana",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Pati",
+      "panjang_m": 92,
+      "melintasi": "Kali Silungongo",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batu Lolong",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Pekalongan",
+      "panjang_m": 40,
+      "melintasi": "Sungai Sengkarang",
+      "dibangun": "1912",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Loji Pekalongan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 19,
+      "melintasi": "Sungai Kupang",
+      "dibangun": "1880-an",
+      "diresmikan": "1908",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lengkung Surabayan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sirayak",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Pemalang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Comal",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Comal",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kali Rambut",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Kaligintung",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Purbalingga",
+      "panjang_m": 130,
+      "melintasi": "Sungai Gintung",
+      "dibangun": "2017",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bogowanto",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Purworejo",
+      "panjang_m": 21,
+      "melintasi": "Sungai Bagawanta",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lemah Ireng I",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Semarang",
+      "panjang_m": 879,
+      "melintasi": "",
+      "dibangun": "2014",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ondo Langit",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 30,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ganefo",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Sragen",
+      "panjang_m": 113.5,
+      "melintasi": "Bengawan Solo",
+      "dibangun": "1960-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bacem",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pasar Kleco",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "sungai Pemulung",
+      "dibangun": "1952",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Mojo",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 13.4,
+      "melintasi": "Bengawan Solo",
+      "dibangun": "1985",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Tangan Emas",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Tegal",
+      "panjang_m": 43,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kali Gung",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Gung",
+      "dibangun": "1920-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sigandul",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Temanggung",
+      "panjang_m": 100,
+      "melintasi": "",
+      "dibangun": "2014",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Waduk Gajah Mungkur",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Wonogiri",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Nusantara",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Balong",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 55,
+      "melintasi": "",
+      "dibangun": "1918",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Berok",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Semarang",
+      "panjang_m": 10,
+      "melintasi": "Kali Semarang",
+      "dibangun": "1705",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Jurug",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "Surakarta",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pasar Gede",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Pepe",
+      "dibangun": "1928",
+      "diresmikan": "1930",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tirtonadi",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Anyar",
+      "dibangun": "2019",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bendung Tirtonadi",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 70,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Klodran",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "2017",
+      "diresmikan": "2017",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ketandan",
+      "provinsi": "Jawa Tengah",
+      "lokasi": "",
+      "panjang_m": 5,
+      "melintasi": "Kali Pepe",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Surabaya",
+      "panjang_m": 170,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Suroboyo",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Surabaya",
+      "panjang_m": 800,
+      "melintasi": "",
+      "dibangun": "2015",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Suramadu",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 5438,
+      "melintasi": "Selat Madura",
+      "dibangun": "",
+      "diresmikan": "2009",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gladak Perak",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 100,
+      "melintasi": "Sungai Besuk Sat",
+      "dibangun": "1998",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pantai Boom",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Banyuwangi",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Trisula",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Blitar",
+      "panjang_m": "",
+      "melintasi": "Sungai Brantas",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kali Klatak",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 22,
+      "melintasi": "Kali Klatak",
+      "dibangun": "1972",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bandar Ngalim",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Kediri",
+      "panjang_m": 130,
+      "melintasi": "Sungai Brantas",
+      "dibangun": "1973",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Brawijaya",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Kediri",
+      "panjang_m": "",
+      "melintasi": "Sungai Brantas",
+      "dibangun": "1869",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lama Kediri",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Kediri",
+      "panjang_m": 160,
+      "melintasi": "Sungai Brantas",
+      "dibangun": "1854",
+      "diresmikan": "1869",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sosrodilogo",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Bojonegoro",
+      "panjang_m": 145,
+      "melintasi": "Bengawan Solo",
+      "dibangun": "2016",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaliketek",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 111,
+      "melintasi": "Bengawan Solo",
+      "dibangun": "1919",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kalitidu-Malo",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Bengawan Solo",
+      "dibangun": "2007",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sembayat",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Gresik",
+      "panjang_m": 350,
+      "melintasi": "Bengawan Solo",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Geladak Manyar",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kalitangi",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 105,
+      "melintasi": "Kali Lamong",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Semanggi",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Jember",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kasiyan",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Jember",
+      "panjang_m": 30.6,
+      "melintasi": "Sungai Besini",
+      "dibangun": "1990-an",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ploso",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Jombang",
+      "panjang_m": 1271,
+      "melintasi": "Sungai Brantas",
+      "dibangun": "1996",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Van Hengel",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Sungai Jombang",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sedayulawas",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Lamongan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cincin Lama",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 260,
+      "melintasi": "",
+      "dibangun": "1978",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pandanwangi",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Lumajang",
+      "panjang_m": 370,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Beteng",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Madiun",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ngebrak",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Magetan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Talang Air Kepanjen",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Malang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pagerluyung",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Mojokerto",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Perningkloji",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 51,
+      "melintasi": "Kali Surabaya",
+      "dibangun": "1982",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gajah Mada",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "Kali Brantas",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kertosono",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Nganjuk",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Klodran",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Ngawi",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Guyung",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Soge",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Pacitan",
+      "panjang_m": 100,
+      "melintasi": "Sungai Soge",
+      "dibangun": "2010",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Grindulu",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 750,
+      "melintasi": "",
+      "dibangun": "2015",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Talang Abang",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Pasuruan",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1881",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Layang Trosobo",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Sidoarjo",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Porong",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Taman Sepanjang",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Layang Citra Harmoni",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Paraaman",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Situbondo",
+      "panjang_m": 18.4,
+      "melintasi": "Sungai Sampean",
+      "dibangun": "2021",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Cengkrong",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Trenggalek",
+      "panjang_m": 200,
+      "melintasi": "Sungai Cengkrong",
+      "dibangun": "2011",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Plengkung (Bendorejo)",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sambong",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Tuban",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Selang",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Nglembu",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Tulungagung",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1925",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Lembu Peteng",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sulfat",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Malang",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pelor",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Soekarno Hatta",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1988",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kaca Ngalam",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Buk Gludug",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Embong Brantas",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1890",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kahuripan",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Petekan",
+      "provinsi": "Jawa Timur",
+      "lokasi": "Surabaya",
+      "panjang_m": "",
+      "melintasi": "Kali Mas",
+      "dibangun": "1939",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sawunggaling",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 136,
+      "melintasi": "Kali Mas",
+      "dibangun": "",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ujung Galuh",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": 46.43,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2018",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ketabang",
+      "provinsi": "Jawa Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kabanaran",
+      "provinsi": "Yogyakarta",
+      "lokasi": "Bantul",
+      "panjang_m": 2300,
+      "melintasi": "Sungai Progo",
+      "dibangun": "2023",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kretek 2",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": 554,
+      "melintasi": "Sungai Opak",
+      "dibangun": "2021",
+      "diresmikan": "2023",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kewek",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": 17.8,
+      "melintasi": "Sungai Code",
+      "dibangun": "1921",
+      "diresmikan": "1924",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Mbeling",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": 138,
+      "melintasi": "Sungai Progo",
+      "dibangun": "1887",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Bantar",
+      "provinsi": "Yogyakarta",
+      "lokasi": "Kulon Progo",
+      "panjang_m": 176,
+      "melintasi": "Sungai Progo",
+      "dibangun": "1886",
+      "diresmikan": "1929",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Rowari",
+      "provinsi": "Yogyakarta",
+      "lokasi": "Gunungkidul",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "2020",
+      "diresmikan": "2022",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kedung Kandang",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pulau Kalong",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": 150,
+      "melintasi": "Pantai Sinden",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Kadilangu",
+      "provinsi": "Yogyakarta",
+      "lokasi": "Kulon Progo",
+      "panjang_m": "",
+      "melintasi": "Sungai Bogowonto",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Akar Seyegan",
+      "provinsi": "Yogyakarta",
+      "lokasi": "Sleman",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Gejayan",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Babarsari",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Plunyon Kalikuning",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1982",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "JPO Ambaramarga",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pangukan",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Layang Janti",
+      "provinsi": "Yogyakarta",
+      "lokasi": "Yogyakarta",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sayidan",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "sungai Code",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Gondolayu",
+      "provinsi": "Yogyakarta",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tukad Bangkung",
+      "provinsi": "Bali",
+      "lokasi": "Badung",
+      "panjang_m": 360,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2006",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pelabuhan Buleleng",
+      "provinsi": "Bali",
+      "lokasi": "Buleleng",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kuning Tukad Yeh Unda",
+      "provinsi": "Bali",
+      "lokasi": "Karangasem",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tukad Yeh Otan",
+      "provinsi": "Bali",
+      "lokasi": "",
+      "panjang_m": 277,
+      "melintasi": "Sungai Yeh Otan",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Samota",
+      "provinsi": "Nusa Tenggara Barat",
+      "lokasi": "Dompu",
+      "panjang_m": 240,
+      "melintasi": "sungai Brang Biji",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Koloh Penggolong",
+      "provinsi": "Nusa Tenggara Barat",
+      "lokasi": "Lombok Utara",
+      "panjang_m": "",
+      "melintasi": "Sungai Penggolong",
+      "dibangun": "2023",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ai Bari 4",
+      "provinsi": "Nusa Tenggara Barat",
+      "lokasi": "Sumbawa",
+      "panjang_m": 240,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Petuk",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "Kota Kupang",
+      "panjang_m": 337,
+      "melintasi": "sungai Brang Biji",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Noelmina",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "",
+      "panjang_m": 240,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Pancasila-Palmerah",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "",
+      "panjang_m": 800,
+      "melintasi": "Selat Gonzalo",
+      "dibangun": "2018",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Adat Wolowea",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "Nagekeo",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batu Kojadoi",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "Sikka",
+      "panjang_m": 680,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Alam Wukur",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kambaniru",
+      "provinsi": "Nusa Tenggara Timur",
+      "lokasi": "Sumba Timur",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Putih",
+      "provinsi": "Maluku",
+      "lokasi": "",
+      "panjang_m": 1140,
+      "melintasi": "Teluk Ambon",
+      "dibangun": "2011",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Watdek",
+      "provinsi": "Maluku",
+      "lokasi": "Kepulauan Aru",
+      "panjang_m": 72,
+      "melintasi": "Selat Rosenberg",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Wear Arafura",
+      "provinsi": "Maluku",
+      "lokasi": "",
+      "panjang_m": 323,
+      "melintasi": "Selat Larat",
+      "dibangun": "2016",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kawanua",
+      "provinsi": "Maluku",
+      "lokasi": "Maluku Tengah",
+      "panjang_m": 700,
+      "melintasi": "Way Kawanua",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Batu Bacan",
+      "provinsi": "Maluku Utara",
+      "lokasi": "Halmahera Selatan",
+      "panjang_m": 38,
+      "melintasi": "Kali Inggoi",
+      "dibangun": "2004",
+      "diresmikan": "2016",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Merah Tobelo",
+      "provinsi": "Maluku Utara",
+      "lokasi": "Halmahera Utara",
+      "panjang_m": "",
+      "melintasi": "Sungai Mawea",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Ake Kalumata",
+      "provinsi": "Maluku Utara",
+      "lokasi": "Ternate",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sultan Jabir Syah",
+      "provinsi": "Maluku Utara",
+      "lokasi": "",
+      "panjang_m": 10.8,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "2025",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Residen",
+      "provinsi": "Maluku Utara",
+      "lokasi": "",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "1875",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Sultan Tidore",
+      "provinsi": "Maluku Utara",
+      "lokasi": "Tidore",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Youtefa",
+      "provinsi": "Papua",
+      "lokasi": "Jayapura",
+      "panjang_m": 732,
+      "melintasi": "Teluk Youtefa",
+      "dibangun": "",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Yobeh",
+      "provinsi": "Papua",
+      "lokasi": "Jayapura",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tor",
+      "provinsi": "Papua",
+      "lokasi": "Sarmi",
+      "panjang_m": "",
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kabouw",
+      "provinsi": "Papua Barat",
+      "lokasi": "Teluk Wondama",
+      "panjang_m": 732,
+      "melintasi": "Teluk Youtefa",
+      "dibangun": "",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Puri",
+      "provinsi": "Papua Barat Daya",
+      "lokasi": "Sorong",
+      "panjang_m": 732,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Kayu Malagufuk",
+      "provinsi": "Papua Barat Daya",
+      "lokasi": "",
+      "panjang_m": 3305,
+      "melintasi": "Lembah Malagufuk",
+      "dibangun": "",
+      "diresmikan": "2021",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Meteor",
+      "provinsi": "Papua Pegunungan",
+      "lokasi": "Mamberamo Tengah",
+      "panjang_m": 235,
+      "melintasi": "Sungai Mamberamo",
+      "dibangun": "",
+      "diresmikan": "2019",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tujuh Wali-Wali",
+      "provinsi": "Papua Selatan",
+      "lokasi": "Merauke",
+      "panjang_m": 565,
+      "melintasi": "Sungai Maro",
+      "dibangun": "1990-an",
+      "diresmikan": "1997",
+      "tipe": ""
+    },
+    {
+      "nama": "Jembatan Tamulik",
+      "provinsi": "Papua Selatan",
+      "lokasi": "",
+      "panjang_m": 500,
+      "melintasi": "",
+      "dibangun": "",
+      "diresmikan": "",
+      "tipe": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Jembatan di Indonesia per Provinsi - Free Download",
+    "description": "Daftar jembatan di Indonesia menurut provinsi beserta lokasi, panjang (meter), sungai/selat yang dilintasi, tahun dibangun dan diresmikan. Contains 493 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Jembatan di Indonesia per Provinsi | ListBase",
+    "seo_description": "Download Daftar Jembatan di Indonesia per Provinsi — 493 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 493 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_jembatan_di_Indonesia"
+    ]
+  }
+}
