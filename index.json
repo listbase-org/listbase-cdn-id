@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-03T02:27:21.614Z",
-  "total_datasets": 604,
-  "total_records": 650843,
+  "generated": "2026-11-03T02:27:29.031Z",
+  "total_datasets": 605,
+  "total_records": 650892,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -958,6 +958,31 @@
         "xlsx": {
           "name": "id-film-terlaris_ID.xlsx",
           "size": 12135
+        }
+      }
+    },
+    {
+      "id": "id-jaringan-stasiun-radio",
+      "name": "Daftar Jaringan Stasiun Radio di Indonesia",
+      "category": "entertainment",
+      "record_count": 49,
+      "columns": [
+        "nama",
+        "pemilik",
+        "format",
+        "stasiun_anggota"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_stasiun_radio_di_Indonesia",
+      "updated": "2026-11",
+      "size": 8884,
+      "files": {
+        "csv": {
+          "name": "id-jaringan-stasiun-radio_ID.csv",
+          "size": 3100
+        },
+        "xlsx": {
+          "name": "id-jaringan-stasiun-radio_ID.xlsx",
+          "size": 8569
         }
       }
     },

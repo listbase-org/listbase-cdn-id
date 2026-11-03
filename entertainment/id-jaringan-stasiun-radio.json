@@ -1,0 +1,340 @@
+{
+  "id": "id-jaringan-stasiun-radio",
+  "name": "Daftar Jaringan Stasiun Radio di Indonesia",
+  "title": "Daftar Jaringan Stasiun Radio di Indonesia",
+  "description": "Daftar jaringan stasiun radio di Indonesia beserta pemilik, format siaran, dan jumlah stasiun anggotanya.",
+  "category": "entertainment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_stasiun_radio_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_stasiun_radio_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "pemilik",
+      "label": "Pemilik",
+      "type": "string"
+    },
+    {
+      "key": "format",
+      "label": "Format",
+      "type": "string"
+    },
+    {
+      "key": "stasiun_anggota",
+      "label": "Stasiun Anggota",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "RRI Pro 1",
+      "pemilik": "LPP Radio Republik Indonesia",
+      "format": "Informasi dan Hiburan (daerah)",
+      "stasiun_anggota": 50
+    },
+    {
+      "nama": "RRI Pro 2",
+      "pemilik": "LPP Radio Republik Indonesia",
+      "format": "Musik dan hiburan (daerah)",
+      "stasiun_anggota": 43
+    },
+    {
+      "nama": "RRI Pro 3",
+      "pemilik": "LPP Radio Republik Indonesia",
+      "format": "Berita/gelar wicara (nasional)",
+      "stasiun_anggota": 73
+    },
+    {
+      "nama": "RRI Pro 4",
+      "pemilik": "LPP Radio Republik Indonesia",
+      "format": "Musik daerah dan kebudayaan (daerah)",
+      "stasiun_anggota": 31
+    },
+    {
+      "nama": "RRI Pro 5",
+      "pemilik": "LPP Radio Republik Indonesia",
+      "format": "Musik Mancanegara dan Persada (daerah)",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "Persada ID",
+      "pemilik": "LPPL Radio (bervariasi)",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 514
+    },
+    {
+      "nama": "Suara Surabaya",
+      "pemilik": "Suara Surabaya Media",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 16
+    },
+    {
+      "nama": "Radio Rodja",
+      "pemilik": "Yayasan Cahaya Sunnah",
+      "format": "Religi (Islam)",
+      "stasiun_anggota": 14
+    },
+    {
+      "nama": "Polaris FM",
+      "pemilik": "CPP Radio Network",
+      "format": "Pop Indonesia",
+      "stasiun_anggota": 5
+    },
+    {
+      "nama": "JPI FM",
+      "pemilik": "CPP Radio Network",
+      "format": "Full-Service",
+      "stasiun_anggota": 3
+    },
+    {
+      "nama": "Pas FM",
+      "pemilik": "CPP Radio Network",
+      "format": "Berita/gelar wicara (bisnis)",
+      "stasiun_anggota": 5
+    },
+    {
+      "nama": "Pop FM",
+      "pemilik": "CPP Radio Network",
+      "format": "Dangdut dan Pop",
+      "stasiun_anggota": 19
+    },
+    {
+      "nama": "Yasika FM",
+      "pemilik": "CPP Radio Network",
+      "format": "CHR",
+      "stasiun_anggota": 6
+    },
+    {
+      "nama": "Golden Hits FM",
+      "pemilik": "CPP Radio Network",
+      "format": "Pop Klasik",
+      "stasiun_anggota": 7
+    },
+    {
+      "nama": "Radiks FM",
+      "pemilik": "CPP Radio Network",
+      "format": "Dangdut Klasik",
+      "stasiun_anggota": 5
+    },
+    {
+      "nama": "MQFM",
+      "pemilik": "Manajemen Qolbu (melalui Yayasan Daarut Tauhiid)",
+      "format": "Religi (Islam)",
+      "stasiun_anggota": 7
+    },
+    {
+      "nama": "Radio Elshinta",
+      "pemilik": "Salim Group (melalui Elshinta Media Group)",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 14
+    },
+    {
+      "nama": "Fit Radio",
+      "pemilik": "Salim Group (melalui Elshinta Media Group)",
+      "format": "Musik dan Kesehatan",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "X Channel",
+      "pemilik": "X Network",
+      "format": "Pop Indonesia dan Rock",
+      "stasiun_anggota": 6
+    },
+    {
+      "nama": "El John FM",
+      "pemilik": "El John Media",
+      "format": "Hot AC",
+      "stasiun_anggota": 4
+    },
+    {
+      "nama": "Rama FM",
+      "pemilik": "Rama Group",
+      "format": "Dangdut",
+      "stasiun_anggota": 3
+    },
+    {
+      "nama": "Heartline FM",
+      "pemilik": "Yayasan Yaski Group",
+      "format": "Religi (Kristen)",
+      "stasiun_anggota": 3
+    },
+    {
+      "nama": "Insania FM",
+      "pemilik": "Insania Radio Network",
+      "format": "Pendidikan dan kebudayaan",
+      "stasiun_anggota": 13
+    },
+    {
+      "nama": "Sonora FM",
+      "pemilik": "Kompas Gramedia (melalui KG Radio Network)",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 16
+    },
+    {
+      "nama": "Smart FM",
+      "pemilik": "Kompas Gramedia (melalui KG Radio Network)",
+      "format": "Berita/gelar wicara (bisnis)",
+      "stasiun_anggota": 12
+    },
+    {
+      "nama": "Motion Radio",
+      "pemilik": "Kompas Gramedia (melalui KG Radio Network)",
+      "format": "CHR",
+      "stasiun_anggota": 7
+    },
+    {
+      "nama": "VOKS Radio",
+      "pemilik": "Kutus Kutus Group",
+      "format": "Hot AC",
+      "stasiun_anggota": 6
+    },
+    {
+      "nama": "Gen FM",
+      "pemilik": "MahakaX (melalui Mahaka Radio Integra)",
+      "format": "CHR",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "Delta FM",
+      "pemilik": "Masima Radio Network",
+      "format": "Hot AC (90an hingga kini)",
+      "stasiun_anggota": 8
+    },
+    {
+      "nama": "Prambors",
+      "pemilik": "Masima Radio Network",
+      "format": "CHR",
+      "stasiun_anggota": 8
+    },
+    {
+      "nama": "RDI",
+      "pemilik": "MNC Media (melalui MNC Radio Networks)",
+      "format": "Pop dan Dangdut",
+      "stasiun_anggota": 53
+    },
+    {
+      "nama": "MNC Trijaya FM",
+      "pemilik": "MNC Media (melalui MNC Radio Networks)",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 25
+    },
+    {
+      "nama": "Global Radio",
+      "pemilik": "MNC Media (melalui MNC Radio Networks)",
+      "format": "Hot AC",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "MG Radio Network",
+      "pemilik": "Media Group",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 8
+    },
+    {
+      "nama": "Megaswara FM",
+      "pemilik": "Megaswara Media",
+      "format": "Informasi dan Hiburan",
+      "stasiun_anggota": 7
+    },
+    {
+      "nama": "Kota FM",
+      "pemilik": "Mercury Media Group",
+      "format": "Dangdut",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "The Rockin Life",
+      "pemilik": "MRA Media (melalui Media Network Wahana)",
+      "format": "Hot AC",
+      "stasiun_anggota": 3
+    },
+    {
+      "nama": "I-Swara",
+      "pemilik": "MRA Media (melalui Media Network Wahana)",
+      "format": "Pop Indonesia",
+      "stasiun_anggota": 9
+    },
+    {
+      "nama": "Radio Muara",
+      "pemilik": "Rhoma Irama",
+      "format": "Dangdut",
+      "stasiun_anggota": 4
+    },
+    {
+      "nama": "Bens Radio",
+      "pemilik": "Etnikom Network",
+      "format": "Pop dan Dangdut",
+      "stasiun_anggota": 8
+    },
+    {
+      "nama": "Urban Radio",
+      "pemilik": "Urban Media",
+      "format": "Hot AC",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "OZ Radio",
+      "pemilik": "OZ Media",
+      "format": "CHR (Indie)",
+      "stasiun_anggota": 4
+    },
+    {
+      "nama": "Suara Muslim FM",
+      "pemilik": "Suara Muslim Network",
+      "format": "Religi (Islam)",
+      "stasiun_anggota": 3
+    },
+    {
+      "nama": "La Nugraha FM",
+      "pemilik": "La Nugraha Network",
+      "format": "Pop",
+      "stasiun_anggota": 2
+    },
+    {
+      "nama": "Suara Giri FM",
+      "pemilik": "Suzana Radio Network",
+      "format": "Dangdut",
+      "stasiun_anggota": 4
+    },
+    {
+      "nama": "Radio Thomson",
+      "pemilik": "Thomson Radio Network",
+      "format": "Umum",
+      "stasiun_anggota": 54
+    },
+    {
+      "nama": "Maneuver Radio",
+      "pemilik": "Maneuver Radio Network",
+      "format": "Musik dan hiburan",
+      "stasiun_anggota": 7
+    },
+    {
+      "nama": "KBR",
+      "pemilik": "Enam Delapan Media",
+      "format": "Berita/gelar wicara",
+      "stasiun_anggota": 43
+    },
+    {
+      "nama": "Radio Prosalina",
+      "pemilik": "Prosalina Group",
+      "format": "Pop dan Dangdut",
+      "stasiun_anggota": 2
+    }
+  ],
+  "meta": {
+    "title": "Daftar Jaringan Stasiun Radio di Indonesia - Free Download",
+    "description": "Daftar jaringan stasiun radio di Indonesia beserta pemilik, format siaran, dan jumlah stasiun anggotanya. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Jaringan Stasiun Radio di Indonesia | ListBase",
+    "seo_description": "Download Daftar Jaringan Stasiun Radio di Indonesia — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_stasiun_radio_di_Indonesia"
+    ]
+  }
+}
