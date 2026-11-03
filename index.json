@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-02T02:37:15.037Z",
-  "total_datasets": 603,
-  "total_records": 650813,
+  "generated": "2026-11-03T02:27:21.614Z",
+  "total_datasets": 604,
+  "total_records": 650843,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -854,6 +854,33 @@
         "xlsx": {
           "name": "id-acara-kuis-tv_ID.xlsx",
           "size": 25716
+        }
+      }
+    },
+    {
+      "id": "id-film-asing-terlaris",
+      "name": "Film Asing Terlaris Sepanjang Masa di Indonesia",
+      "category": "entertainment",
+      "record_count": 30,
+      "columns": [
+        "peringkat",
+        "judul",
+        "studio",
+        "pendapatan_kotor_usd",
+        "tanggal_tayang",
+        "asal_negara"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_film_asing_terlaris_sepanjang_masa_di_Indonesia",
+      "updated": "2026-11",
+      "size": 9681,
+      "files": {
+        "csv": {
+          "name": "id-film-asing-terlaris_ID.csv",
+          "size": 3617
+        },
+        "xlsx": {
+          "name": "id-film-asing-terlaris_ID.xlsx",
+          "size": 8786
         }
       }
     },

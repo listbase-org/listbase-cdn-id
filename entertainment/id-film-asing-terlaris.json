@@ -1,0 +1,296 @@
+{
+  "id": "id-film-asing-terlaris",
+  "name": "Film Asing Terlaris Sepanjang Masa di Indonesia",
+  "title": "Film Asing Terlaris Sepanjang Masa di Indonesia",
+  "description": "Daftar film asing dengan pendapatan kotor (USD) tertinggi di bioskop Indonesia, lengkap dengan studio, tanggal penayangan, dan negara asal.",
+  "category": "entertainment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_film_asing_terlaris_sepanjang_masa_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_film_asing_terlaris_sepanjang_masa_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "peringkat",
+      "label": "Peringkat",
+      "type": "number"
+    },
+    {
+      "key": "judul",
+      "label": "Judul",
+      "type": "string"
+    },
+    {
+      "key": "studio",
+      "label": "Studio",
+      "type": "string"
+    },
+    {
+      "key": "pendapatan_kotor_usd",
+      "label": "Pendapatan Kotor Usd",
+      "type": "number"
+    },
+    {
+      "key": "tanggal_tayang",
+      "label": "Tanggal Tayang",
+      "type": "string"
+    },
+    {
+      "key": "asal_negara",
+      "label": "Asal Negara",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "peringkat": 1,
+      "judul": "Avengers: Endgame",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 34775278,
+      "tanggal_tayang": "24 April 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 2,
+      "judul": "Spider-Man: No Way Home",
+      "studio": "Columbia Pictures, Marvel Studios, Pascal Pictures",
+      "pendapatan_kotor_usd": 25747047,
+      "tanggal_tayang": "15 Desember 2021",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 3,
+      "judul": "Avengers: Infinity War",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 25288929,
+      "tanggal_tayang": "25 April 2018",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 4,
+      "judul": "Doctor Strange in the Multiverse of Madness",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 21009945,
+      "tanggal_tayang": "5 Mei 2022",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 5,
+      "judul": "Avatar: The Way of Water",
+      "studio": "20th Century Studios, Lightstorm Entertainment, TSG Entertainment",
+      "pendapatan_kotor_usd": 20615163,
+      "tanggal_tayang": "14 Desember 2022",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 6,
+      "judul": "Captain Marvel",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 19409550,
+      "tanggal_tayang": "6 Maret 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 7,
+      "judul": "The Fate of the Furious",
+      "studio": "Original Film, One Race Films, China Film",
+      "pendapatan_kotor_usd": 19329335,
+      "tanggal_tayang": "12 April 2017",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 8,
+      "judul": "Aladdin",
+      "studio": "Walt Disney Pictures, Rideback",
+      "pendapatan_kotor_usd": 18092717,
+      "tanggal_tayang": "24 Mei 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 9,
+      "judul": "Aquaman",
+      "studio": "Warner Bros., DC Films, Peter Safran Productions",
+      "pendapatan_kotor_usd": 17500000,
+      "tanggal_tayang": "12 Desember 2018",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 10,
+      "judul": "Spider-Man: Far From Home",
+      "studio": "Columbia Pictures, Marvel Pictures, Pascal Pictures",
+      "pendapatan_kotor_usd": 17183895,
+      "tanggal_tayang": "3 Juli 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 11,
+      "judul": "Furious 7",
+      "studio": "Original Film, One Race Films, MRC, China Film",
+      "pendapatan_kotor_usd": 16768758,
+      "tanggal_tayang": "1 April 2015",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 12,
+      "judul": "Captain America: Civil War",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 15614225,
+      "tanggal_tayang": "27 April 2016",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 13,
+      "judul": "Avengers: Age of Ultron",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 15504514,
+      "tanggal_tayang": "22 April 2015",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 14,
+      "judul": "Iron Man 3",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 15308150,
+      "tanggal_tayang": "25 April 2013",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 15,
+      "judul": "Jumanji: The Next Level",
+      "studio": "Columbia Pictures, Seven Bucks Productions, Matt Tolmach Productions, The Detective Agency",
+      "pendapatan_kotor_usd": 15236980,
+      "tanggal_tayang": "4 Desember 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 16,
+      "judul": "Frozen II",
+      "studio": "Walt Disney Pictures, Walt Disney Animation Studios",
+      "pendapatan_kotor_usd": 14884821,
+      "tanggal_tayang": "20 November 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 17,
+      "judul": "Batman v Superman: Dawn of Justice",
+      "studio": "Warner Bros., RatPac-Dune Entertainment, DC Entertainment, Atlas Entertainment, Cruel and Unusual Films",
+      "pendapatan_kotor_usd": 14000000,
+      "tanggal_tayang": "23 Maret 2016",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 18,
+      "judul": "Jurassic World: Fallen Kingdom",
+      "studio": "Amblin Entertainment, Legendary Entertainment, Perfect World Pictures, The Kennedy/Marshall Company",
+      "pendapatan_kotor_usd": 13950645,
+      "tanggal_tayang": "6 Juni 2018",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 19,
+      "judul": "The Nun",
+      "studio": "New Line Cinema, Atomic Monster Productions, The Safran Company",
+      "pendapatan_kotor_usd": 13800000,
+      "tanggal_tayang": "5 September 2018",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 20,
+      "judul": "Joker",
+      "studio": "Warner Bros., DC Films, Village Roadshow Pictures, Bron Studios, Joint Effort",
+      "pendapatan_kotor_usd": 13500000,
+      "tanggal_tayang": "2 Oktober 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 21,
+      "judul": "Black Panther: Wakanda Forever",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 13160734,
+      "tanggal_tayang": "9 November 2022",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 22,
+      "judul": "Jumanji: Welcome to the Jungle",
+      "studio": "Columbia Pictures, Matt Tolmach Productions, Seven Bucks Productions, Radar Pictures",
+      "pendapatan_kotor_usd": 12999018,
+      "tanggal_tayang": "20 Desember 2017",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 23,
+      "judul": "Fast & Furious: Hobbs & Shaw",
+      "studio": "Seven Bucks Productions, Chris Morgan Productions",
+      "pendapatan_kotor_usd": 12934025,
+      "tanggal_tayang": "31 Juli 2019",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 24,
+      "judul": "Thor: Love and Thunder",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 12632982,
+      "tanggal_tayang": "6 Juli 2022",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 25,
+      "judul": "The Conjuring 2",
+      "studio": "New Line Cinema, RatPac-Dune Entertainment, The Safran Company, Atomic Monster Productions",
+      "pendapatan_kotor_usd": 12500000,
+      "tanggal_tayang": "10 Juni 2016",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 26,
+      "judul": "Black Panther",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 12448743,
+      "tanggal_tayang": "14 Februari 2018",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 27,
+      "judul": "Transformers: Age of Extinction",
+      "studio": "Hasbro Films, Di Bonaventura Pictures",
+      "pendapatan_kotor_usd": 12402729,
+      "tanggal_tayang": "27 Juni 2014",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 28,
+      "judul": "Spider-Man: Homecoming",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 12335003,
+      "tanggal_tayang": "7 Juli 2017",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 29,
+      "judul": "The Avengers",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 11949911,
+      "tanggal_tayang": "4 Mei 2012",
+      "asal_negara": "Amerika Serikat"
+    },
+    {
+      "peringkat": 30,
+      "judul": "Thor: Ragnarok",
+      "studio": "Marvel Studios",
+      "pendapatan_kotor_usd": 11746294,
+      "tanggal_tayang": "25 Oktober 2017",
+      "asal_negara": "Amerika Serikat"
+    }
+  ],
+  "meta": {
+    "title": "Film Asing Terlaris Sepanjang Masa di Indonesia - Free Download",
+    "description": "Daftar film asing dengan pendapatan kotor (USD) tertinggi di bioskop Indonesia, lengkap dengan studio, tanggal penayangan, dan negara asal. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Film Asing Terlaris Sepanjang Masa di Indonesia | ListBase",
+    "seo_description": "Download Film Asing Terlaris Sepanjang Masa di Indonesia — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_film_asing_terlaris_sepanjang_masa_di_Indonesia"
+    ]
+  }
+}
