@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-03T02:27:43.243Z",
-  "total_datasets": 607,
-  "total_records": 651421,
+  "generated": "2026-11-04T02:31:40.803Z",
+  "total_datasets": 608,
+  "total_records": 651500,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -14644,6 +14644,30 @@
         "xlsx": {
           "name": "id-asian-games-medali_ID.xlsx",
           "size": 7741
+        }
+      }
+    },
+    {
+      "id": "id-bulu-tangkis-piala-thomas-uber-sudirman",
+      "name": "Prestasi Indonesia di Piala Thomas, Uber, dan Sudirman",
+      "category": "sports",
+      "record_count": 79,
+      "columns": [
+        "kejuaraan",
+        "tahun",
+        "hasil"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Tim_nasional_bulu_tangkis_Indonesia",
+      "updated": "2026-11",
+      "size": 9228,
+      "files": {
+        "csv": {
+          "name": "id-bulu-tangkis-piala-thomas-uber-sudirman_ID.csv",
+          "size": 2702
+        },
+        "xlsx": {
+          "name": "id-bulu-tangkis-piala-thomas-uber-sudirman_ID.xlsx",
+          "size": 7968
         }
       }
     },
