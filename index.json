@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-04T02:31:40.803Z",
-  "total_datasets": 608,
-  "total_records": 651500,
+  "generated": "2026-11-04T02:31:47.625Z",
+  "total_datasets": 609,
+  "total_records": 651525,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -501,6 +501,35 @@
         "xlsx": {
           "name": "id-gubernur-bank-indonesia_ID.xlsx",
           "size": 7784
+        }
+      }
+    },
+    {
+      "id": "id-kawasan-ekonomi-khusus",
+      "name": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "wilayah",
+        "nama",
+        "lokasi",
+        "dasar_hukum",
+        "beroperasi_sejak",
+        "kegiatan_utama",
+        "status",
+        "jenis"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Zona_ekonomi_khusus",
+      "updated": "2026-11",
+      "size": 11150,
+      "files": {
+        "csv": {
+          "name": "id-kawasan-ekonomi-khusus_ID.csv",
+          "size": 4968
+        },
+        "xlsx": {
+          "name": "id-kawasan-ekonomi-khusus_ID.xlsx",
+          "size": 8863
         }
       }
     },

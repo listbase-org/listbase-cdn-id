@@ -1,0 +1,316 @@
+{
+  "id": "id-kawasan-ekonomi-khusus",
+  "name": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia",
+  "title": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia",
+  "description": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia beserta lokasi, dasar hukum (PP), tanggal mulai beroperasi, kegiatan utama, status, dan jenis kawasan.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Zona_ekonomi_khusus",
+  "source_url": "https://id.wikipedia.org/wiki/Zona_ekonomi_khusus",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "dasar_hukum",
+      "label": "Dasar Hukum",
+      "type": "string"
+    },
+    {
+      "key": "beroperasi_sejak",
+      "label": "Beroperasi Sejak",
+      "type": "string"
+    },
+    {
+      "key": "kegiatan_utama",
+      "label": "Kegiatan Utama",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Arun Lhokseumawe",
+      "lokasi": "Aceh (Lhokseumawe)",
+      "dasar_hukum": "PP No. 5/2017 (Februari 2017)",
+      "beroperasi_sejak": "Desember 2018",
+      "kegiatan_utama": "Energi Industri pengolahan kelapa sawit Industri petrokimia dan kimia lainnya Logistik Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Sei Mangkei",
+      "lokasi": "Sumatera Utara (Simalungun)",
+      "dasar_hukum": "PP No. 29/2012 (Februari 2012)",
+      "beroperasi_sejak": "Januari 2015",
+      "kegiatan_utama": "Industri pengolahan karet Industri pengolahan kelapa sawit Logistik Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Batam Aero Technic (BAT)",
+      "lokasi": "Kepulauan Riau (Batam)",
+      "dasar_hukum": "PP No. 67/2021 (Juni 2021)",
+      "beroperasi_sejak": "November 2022",
+      "kegiatan_utama": "Industri pemeliharaan, perbaikan, dan pemeriksaan pesawat terbang Logistik",
+      "status": "Beroperasi",
+      "jenis": "Jasa"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Nongsa",
+      "lokasi": "Kepulauan Riau (Batam)",
+      "dasar_hukum": "PP No. 68/2021 (Juni 2021)",
+      "beroperasi_sejak": "November 2022",
+      "kegiatan_utama": "Industri teknologi digital Pariwisata Pendidikan",
+      "status": "Beroperasi",
+      "jenis": "Digital"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Tanjung Sauh",
+      "lokasi": "Kepulauan Riau (Batam)",
+      "dasar_hukum": "PP No. 24/2024 (Mei 2024)",
+      "beroperasi_sejak": "Akan datang",
+      "kegiatan_utama": "",
+      "status": "Tahap pembangunan",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Pariwisata dan Kesehatan Internasional Batam",
+      "lokasi": "Kepulauan Riau (Batam)",
+      "dasar_hukum": "PP No. 39/2024 (Oktober 2024)",
+      "beroperasi_sejak": "Akan datang",
+      "kegiatan_utama": "",
+      "status": "Tahap pembangunan",
+      "jenis": "Kesehatan"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Galang Batang",
+      "lokasi": "Kepulauan Riau (Bintan)",
+      "dasar_hukum": "PP No. 42/2017 (Oktober 2017)",
+      "beroperasi_sejak": "Desember 2018",
+      "kegiatan_utama": "Industri pengolahan bauksit Logistik Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Sumatra",
+      "nama": "KEK Tanjung Kelayang",
+      "lokasi": "Kepulauan Bangka Belitung (Belitung)",
+      "dasar_hukum": "PP No. 6/2016 (Maret 2016)",
+      "beroperasi_sejak": "Januari 2024",
+      "kegiatan_utama": "Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Pariwisata"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Tanjung Lesung",
+      "lokasi": "Banten (Pandeglang)",
+      "dasar_hukum": "PP No. 26/2012 (Februari 2012)",
+      "beroperasi_sejak": "Februari 2015",
+      "kegiatan_utama": "Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Pariwisata"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Edukasi, Teknologi, dan Kesehatan Internasional Banten",
+      "lokasi": "Banten (Tangerang)",
+      "dasar_hukum": "PP No. 38/2024 (Oktober 2024)",
+      "beroperasi_sejak": "Akan datang",
+      "kegiatan_utama": "",
+      "status": "Tahap pembangunan",
+      "jenis": "Teknologi dan Edukasi"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Lido",
+      "lokasi": "Jawa Barat (Bogor)",
+      "dasar_hukum": "PP No. 69/2021 (Juni 2021)",
+      "beroperasi_sejak": "November 2022",
+      "kegiatan_utama": "Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Pariwisata"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Industropolis Batang",
+      "lokasi": "Jawa Tengah (Batang)",
+      "dasar_hukum": "PP No. 12/2025 (Februari 2025)",
+      "beroperasi_sejak": "Akan datang",
+      "kegiatan_utama": "",
+      "status": "Tahap pembangunan",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Kendal",
+      "lokasi": "Jawa Tengah (Kendal)",
+      "dasar_hukum": "PP No. 85/2019 (Desember 2019)",
+      "beroperasi_sejak": "Mei 2021",
+      "kegiatan_utama": "Industri elektronik Industri makanan dan minuman Industri otomotif Logistik Pembangunan dan pengelolaan kawasan industri Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Gresik",
+      "lokasi": "Jawa Timur (Gresik)",
+      "dasar_hukum": "PP No. 71/2021 (Juni 2021)",
+      "beroperasi_sejak": "November 2022",
+      "kegiatan_utama": "Energi Industri elektronik Industri pengolahan logam dasar Industri petrokimia dan kimia lainnya Logistik Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Jawa",
+      "nama": "KEK Singhasari",
+      "lokasi": "Jawa Timur (Malang)",
+      "dasar_hukum": "PP No. 68/2019 (September 2019)",
+      "beroperasi_sejak": "November 2022",
+      "kegiatan_utama": "Industri teknologi digital Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Teknologi dan Edukasi"
+    },
+    {
+      "wilayah": "Nusa Tenggara",
+      "nama": "KEK Kura Kura Bali",
+      "lokasi": "Bali (Denpasar)",
+      "dasar_hukum": "PP No. 23/2023 (April 2023)",
+      "beroperasi_sejak": "Juni 2024",
+      "kegiatan_utama": "Pariwisata",
+      "status": "Beroperasi",
+      "jenis": "Pariwisata"
+    },
+    {
+      "wilayah": "Nusa Tenggara",
+      "nama": "KEK Sanur",
+      "lokasi": "Bali (Denpasar)",
+      "dasar_hukum": "PP No. 41/2022 (November 2022)",
+      "beroperasi_sejak": "Januari 2024",
+      "kegiatan_utama": "Kesehatan Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Kesehatan"
+    },
+    {
+      "wilayah": "Nusa Tenggara",
+      "nama": "KEK Mandalika",
+      "lokasi": "Nusa Tenggara Barat (Lombok Tengah)",
+      "dasar_hukum": "PP No. 52/2014 (Juni 2014)",
+      "beroperasi_sejak": "Oktober 2017",
+      "kegiatan_utama": "Pariwisata Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Pariwisata"
+    },
+    {
+      "wilayah": "Kalimantan",
+      "nama": "KEK Maloy Batuta Trans Kalimantan (MBTK)",
+      "lokasi": "Kalimantan Timur (Kutai Timur)",
+      "dasar_hukum": "PP No. 85/2014 (Oktober 2014)",
+      "beroperasi_sejak": "April 2019",
+      "kegiatan_utama": "Energi Industri pengolahan kelapa sawit Logistik Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Kalimantan",
+      "nama": "KEK Setangga",
+      "lokasi": "Kalimantan Selatan (Tanah Bumbu)",
+      "dasar_hukum": "PP No. 26/2024 (Juni 2024)",
+      "beroperasi_sejak": "Akan datang",
+      "kegiatan_utama": "",
+      "status": "Tahap pembangunan",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Sulawesi",
+      "nama": "KEK Palu",
+      "lokasi": "Sulawesi Tengah (Palu)",
+      "dasar_hukum": "PP No. 31/2014 (Mei 2014)",
+      "beroperasi_sejak": "September 2017",
+      "kegiatan_utama": "Industri pengolahan logam dasar Logistik Pembangunan dan pengelolaan kawasan industri Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Sulawesi",
+      "nama": "KEK Likupang",
+      "lokasi": "Sulawesi Utara (Minahasa Utara)",
+      "dasar_hukum": "PP No. 84/2019 (Desember 2019)",
+      "beroperasi_sejak": "Juni 2024",
+      "kegiatan_utama": "Industri perikanan Pariwisata",
+      "status": "Beroperasi",
+      "jenis": "Pariwisata"
+    },
+    {
+      "wilayah": "Sulawesi",
+      "nama": "KEK Bitung",
+      "lokasi": "Sulawesi Utara (Bitung)",
+      "dasar_hukum": "PP No. 32/2014 (Mei 2014)",
+      "beroperasi_sejak": "April 2019",
+      "kegiatan_utama": "Industri pengolahan kelapa Industri perikanan Industri petrokimia dan kimia lainnya Logistik Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Maluku",
+      "nama": "KEK Morotai",
+      "lokasi": "Maluku Utara (Pulau Morotai)",
+      "dasar_hukum": "PP No. 50/2014 (Juni 2014)",
+      "beroperasi_sejak": "April 2019",
+      "kegiatan_utama": "Industri perikanan Logistik Pariwisata",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    },
+    {
+      "wilayah": "Papua",
+      "nama": "KEK Sorong",
+      "lokasi": "Papua Barat Daya (Sorong)",
+      "dasar_hukum": "PP No. 31/2016 (Agustus 2016)",
+      "beroperasi_sejak": "Oktober 2019",
+      "kegiatan_utama": "Industri hasil hutan dan perkebunan (sagu) Industri pengolahan kelapa sawit Industri pengolahan nikel Logistik Penyediaan infrastruktur kawasan",
+      "status": "Beroperasi",
+      "jenis": "Industri"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia - Free Download",
+    "description": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia beserta lokasi, dasar hukum (PP), tanggal mulai beroperasi, kegiatan utama, status, dan jenis kawasan. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia | ListBase",
+    "seo_description": "Download Daftar Kawasan Ekonomi Khusus (KEK) di Indonesia — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Zona_ekonomi_khusus"
+    ]
+  }
+}
