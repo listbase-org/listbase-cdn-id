@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-05T02:20:24.774Z",
-  "total_datasets": 614,
-  "total_records": 652547,
+  "generated": "2026-11-05T02:20:32.746Z",
+  "total_datasets": 615,
+  "total_records": 652556,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -15883,6 +15883,30 @@
         "xlsx": {
           "name": "id-kebun-binatang_ID.xlsx",
           "size": 7563
+        }
+      }
+    },
+    {
+      "id": "id-kereta-wisata-komersial",
+      "name": "Daftar Kereta Wisata Komersial di Indonesia",
+      "category": "tourism",
+      "record_count": 9,
+      "columns": [
+        "nama",
+        "jumlah",
+        "deskripsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kereta_wisata_komersial_di_Indonesia",
+      "updated": "2026-11",
+      "size": 5497,
+      "files": {
+        "csv": {
+          "name": "id-kereta-wisata-komersial_ID.csv",
+          "size": 3375
+        },
+        "xlsx": {
+          "name": "id-kereta-wisata-komersial_ID.xlsx",
+          "size": 8122
         }
       }
     },
