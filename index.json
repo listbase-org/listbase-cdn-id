@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-05T02:20:39.880Z",
-  "total_datasets": 616,
-  "total_records": 652611,
+  "generated": "2026-11-05T02:20:47.044Z",
+  "total_datasets": 617,
+  "total_records": 652634,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14723,6 +14723,32 @@
         "xlsx": {
           "name": "id-peristiwa-terorisme_ID.xlsx",
           "size": 11935
+        }
+      }
+    },
+    {
+      "id": "id-pimpinan-pbnu",
+      "name": "Daftar Rais Aam dan Ketua Umum PBNU",
+      "category": "society",
+      "record_count": 23,
+      "columns": [
+        "no",
+        "jabatan",
+        "nama",
+        "masa_khidmat",
+        "dipilih_melalui"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Umum_Pengurus_Besar_Nahdlatul_Ulama",
+      "updated": "2026-11",
+      "size": 7304,
+      "files": {
+        "csv": {
+          "name": "id-pimpinan-pbnu_ID.csv",
+          "size": 3155
+        },
+        "xlsx": {
+          "name": "id-pimpinan-pbnu_ID.xlsx",
+          "size": 8166
         }
       }
     },
