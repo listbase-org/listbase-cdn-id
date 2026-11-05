@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-05T02:20:32.746Z",
-  "total_datasets": 615,
-  "total_records": 652556,
+  "generated": "2026-11-05T02:20:39.880Z",
+  "total_datasets": 616,
+  "total_records": 652611,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -14598,6 +14598,32 @@
         "xlsx": {
           "name": "id-ipm-provinsi-2025_ID.xlsx",
           "size": 8476
+        }
+      }
+    },
+    {
+      "id": "id-ketua-umum-muhammadiyah",
+      "name": "Daftar Ketua Umum Pimpinan Pusat Muhammadiyah",
+      "category": "society",
+      "record_count": 55,
+      "columns": [
+        "no",
+        "ketua_umum",
+        "usia_saat_terpilih",
+        "menjabat",
+        "musyawarah"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Umum_Pimpinan_Pusat_Muhammadiyah",
+      "updated": "2026-11",
+      "size": 14357,
+      "files": {
+        "csv": {
+          "name": "id-ketua-umum-muhammadiyah_ID.csv",
+          "size": 6361
+        },
+        "xlsx": {
+          "name": "id-ketua-umum-muhammadiyah_ID.xlsx",
+          "size": 9314
         }
       }
     },
