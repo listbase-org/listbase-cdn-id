@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-05T02:20:10.907Z",
-  "total_datasets": 612,
-  "total_records": 651660,
+  "generated": "2026-11-05T02:20:18.495Z",
+  "total_datasets": 613,
+  "total_records": 652459,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -308,6 +308,35 @@
         "xlsx": {
           "name": "id-alat-musik-tradisional_ID.xlsx",
           "size": 7246
+        }
+      }
+    },
+    {
+      "id": "id-cagar-budaya-per-provinsi",
+      "name": "Daftar Cagar Budaya di Indonesia per Provinsi",
+      "category": "culture",
+      "record_count": 799,
+      "columns": [
+        "nama",
+        "provinsi",
+        "lokasi",
+        "no_rncb",
+        "kategori",
+        "peringkat",
+        "tahun_penetapan",
+        "surat_keputusan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_cagar_budaya_di_Indonesia",
+      "updated": "2026-11",
+      "size": 196140,
+      "files": {
+        "csv": {
+          "name": "id-cagar-budaya-per-provinsi_ID.csv",
+          "size": 56697
+        },
+        "xlsx": {
+          "name": "id-cagar-budaya-per-provinsi_ID.xlsx",
+          "size": 38306
         }
       }
     },
