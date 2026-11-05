@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-05T02:20:18.495Z",
-  "total_datasets": 613,
-  "total_records": 652459,
+  "generated": "2026-11-05T02:20:24.774Z",
+  "total_datasets": 614,
+  "total_records": 652547,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -15836,6 +15836,29 @@
         "xlsx": {
           "name": "id-festival-daerah_ID.xlsx",
           "size": 9346
+        }
+      }
+    },
+    {
+      "id": "id-kawasan-strategis-pariwisata-nasional",
+      "name": "Daftar Kawasan Strategis Pariwisata Nasional (KSPN)",
+      "category": "tourism",
+      "record_count": 88,
+      "columns": [
+        "no",
+        "kawasan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kawasan_Strategis_Pariwisata_Nasional",
+      "updated": "2026-11",
+      "size": 7045,
+      "files": {
+        "csv": {
+          "name": "id-kawasan-strategis-pariwisata-nasional_ID.csv",
+          "size": 1898
+        },
+        "xlsx": {
+          "name": "id-kawasan-strategis-pariwisata-nasional_ID.xlsx",
+          "size": 8606
         }
       }
     },
