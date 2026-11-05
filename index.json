@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-04T02:32:01.760Z",
-  "total_datasets": 611,
-  "total_records": 651646,
+  "generated": "2026-11-05T02:20:10.907Z",
+  "total_datasets": 612,
+  "total_records": 651660,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -6076,6 +6076,29 @@
         "xlsx": {
           "name": "id-wilayah-administratif_ID.xlsx",
           "size": 204335
+        }
+      }
+    },
+    {
+      "id": "id-angka-harapan-hidup-indonesia",
+      "name": "Angka Harapan Hidup Indonesia (1950–2020)",
+      "category": "health",
+      "record_count": 14,
+      "columns": [
+        "periode",
+        "angka_harapan_hidup"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kesehatan_di_Indonesia",
+      "updated": "2026-11",
+      "size": 2563,
+      "files": {
+        "csv": {
+          "name": "id-angka-harapan-hidup-indonesia_ID.csv",
+          "size": 341
+        },
+        "xlsx": {
+          "name": "id-angka-harapan-hidup-indonesia_ID.xlsx",
+          "size": 6990
         }
       }
     },

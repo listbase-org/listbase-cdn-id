@@ -1,0 +1,92 @@
+{
+  "id": "id-angka-harapan-hidup-indonesia",
+  "name": "Angka Harapan Hidup Indonesia (1950–2020)",
+  "title": "Angka Harapan Hidup Indonesia (1950–2020)",
+  "description": "Angka harapan hidup saat lahir penduduk Indonesia per periode lima tahunan dari 1950–1955 hingga 2015–2020.",
+  "category": "health",
+  "source": "https://id.wikipedia.org/wiki/Kesehatan_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Kesehatan_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "string"
+    },
+    {
+      "key": "angka_harapan_hidup",
+      "label": "Angka Harapan Hidup",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "periode": "1950–1955",
+      "angka_harapan_hidup": 41.75
+    },
+    {
+      "periode": "1955–1960",
+      "angka_harapan_hidup": 45.07
+    },
+    {
+      "periode": "1960–1965",
+      "angka_harapan_hidup": 48.18
+    },
+    {
+      "periode": "1965–1970",
+      "angka_harapan_hidup": 51.05
+    },
+    {
+      "periode": "1970–1975",
+      "angka_harapan_hidup": 54.02
+    },
+    {
+      "periode": "1975–1980",
+      "angka_harapan_hidup": 56.69
+    },
+    {
+      "periode": "1980–1985",
+      "angka_harapan_hidup": 59.21
+    },
+    {
+      "periode": "1985–1990",
+      "angka_harapan_hidup": 61.29
+    },
+    {
+      "periode": "1990–1995",
+      "angka_harapan_hidup": 63.32
+    },
+    {
+      "periode": "1995–2000",
+      "angka_harapan_hidup": 65.16
+    },
+    {
+      "periode": "2000–2005",
+      "angka_harapan_hidup": 66.4
+    },
+    {
+      "periode": "2005–2010",
+      "angka_harapan_hidup": 68.31
+    },
+    {
+      "periode": "2010–2015",
+      "angka_harapan_hidup": 70.01
+    },
+    {
+      "periode": "2015–2020",
+      "angka_harapan_hidup": 71.41
+    }
+  ],
+  "meta": {
+    "title": "Angka Harapan Hidup Indonesia (1950–2020) - Free Download",
+    "description": "Angka harapan hidup saat lahir penduduk Indonesia per periode lima tahunan dari 1950–1955 hingga 2015–2020. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Angka Harapan Hidup Indonesia (1950–2020) | ListBase",
+    "seo_description": "Download Angka Harapan Hidup Indonesia (1950–2020) — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Kesehatan_di_Indonesia"
+    ]
+  }
+}
