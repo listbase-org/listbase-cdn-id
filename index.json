@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-06T02:33:04.696Z",
-  "total_datasets": 622,
-  "total_records": 653176,
+  "generated": "2026-11-06T02:33:12.861Z",
+  "total_datasets": 623,
+  "total_records": 653183,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -912,6 +912,35 @@
         "xlsx": {
           "name": "id-acara-kuis-tv_ID.xlsx",
           "size": 25716
+        }
+      }
+    },
+    {
+      "id": "id-festival-film-indonesia",
+      "name": "Festival Film Indonesia — pemenang utama terkini",
+      "category": "entertainment",
+      "record_count": 7,
+      "columns": [
+        "penghargaan",
+        "tanggal",
+        "film_terbaik",
+        "sutradara_terbaik",
+        "pemeran_pria",
+        "pemeran_wanita",
+        "pembawa_acara",
+        "lokasi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Festival_Film_Indonesia",
+      "updated": "2026-11",
+      "size": 4772,
+      "files": {
+        "csv": {
+          "name": "id-festival-film-indonesia_ID.csv",
+          "size": 1467
+        },
+        "xlsx": {
+          "name": "id-festival-film-indonesia_ID.xlsx",
+          "size": 7649
         }
       }
     },
