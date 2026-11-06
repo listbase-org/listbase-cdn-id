@@ -1,0 +1,3356 @@
+{
+  "id": "id-bandar-udara",
+  "name": "Daftar bandar udara di Indonesia",
+  "title": "Daftar bandar udara di Indonesia",
+  "description": "Daftar bandar udara di Indonesia menurut wilayah (nama, lokasi, provinsi, kode ICAO/IATA, pengelola, kelas).",
+  "category": "transport",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 329,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "pengelola",
+      "label": "Pengelola",
+      "type": "string"
+    },
+    {
+      "key": "kelas",
+      "label": "Kelas",
+      "type": "string"
+    },
+    {
+      "key": "dinamai_berdasarkan",
+      "label": "Dinamai Berdasarkan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Bandar Udara Aek Godang",
+      "lokasi": "Padangsidimpuan",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIME",
+      "iata": "AEG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Alas Leuser",
+      "lokasi": "Kabupaten Aceh Tenggara",
+      "provinsi": "Aceh",
+      "icao": "",
+      "iata": "LSR",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bengkalis (Bandar Udara Meranti) (Bandar Udara Sei Selari) (Bandar Udara Sei Pakning)",
+      "lokasi": "Kabupaten Bengkalis",
+      "provinsi": "Riau",
+      "icao": "WIBS",
+      "iata": "SEQ",
+      "pengelola": "Pemda",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Binaka",
+      "lokasi": "Gunung Sitoli",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMB",
+      "iata": "GNS",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bintan Baru",
+      "lokasi": "Bintan",
+      "provinsi": "Kepulauan Riau",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Bintan Aviation Investment",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandara Gatot Subroto",
+      "lokasi": "Kabupaten Way Kanan",
+      "provinsi": "Lampung",
+      "icao": "WIPO",
+      "iata": "WYK",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Blangkejeren (Bandar Udara Gayo Lues) (Bandar Udara Senubung)",
+      "lokasi": "Kabupaten Gayo Lues",
+      "provinsi": "Aceh",
+      "icao": "",
+      "iata": "GYO",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Cut Nyak Dhien",
+      "lokasi": "Suka Makmue, Kabupaten Nagan Raya",
+      "provinsi": "Aceh",
+      "icao": "WITC",
+      "iata": "MEQ",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Cut Nyak Dhien"
+    },
+    {
+      "nama": "Bandar Udara Dabo",
+      "lokasi": "Kabupaten Lingga",
+      "provinsi": "Kepulauan Riau",
+      "icao": "WIDS",
+      "iata": "SIQ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Depati Amir",
+      "lokasi": "Pangkal Pinang",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "icao": "WIPK",
+      "iata": "PGK",
+      "pengelola": "InJourney Airports",
+      "kelas": "IA",
+      "dinamai_berdasarkan": "Depati Amir"
+    },
+    {
+      "nama": "Bandar Udara Depati Parbo",
+      "lokasi": "Kabupaten Kerinci",
+      "provinsi": "Jambi",
+      "icao": "WIJI",
+      "iata": "KRC",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Enggano",
+      "lokasi": "Pulau Enggano, Kabupaten Bengkulu Utara",
+      "provinsi": "Bengkulu",
+      "icao": "",
+      "iata": "",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Fatmawati Soekarno",
+      "lokasi": "Kota Bengkulu",
+      "provinsi": "Bengkulu",
+      "icao": "WIGG",
+      "iata": "BKS",
+      "pengelola": "InJourney Airports",
+      "kelas": "IB",
+      "dinamai_berdasarkan": "Fatmawati"
+    },
+    {
+      "nama": "Bandar Udara Ferdinand Lumban Tobing (Bandar Udara Pinangsori)",
+      "lokasi": "Sibolga",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMS",
+      "iata": "FLZ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Ferdinand Lumban Tobing"
+    },
+    {
+      "nama": "Bandar Udara H.A.S. Hanandjoeddin d.h. Bandar Udara Buluh Tumbang",
+      "lokasi": "Tanjung Pandan",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "icao": "WIKT",
+      "iata": "TJQ",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "H.A.S. Hanandjoeddin"
+    },
+    {
+      "nama": "Bandar Udara Internasional Hang Nadim",
+      "lokasi": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "icao": "WIDD",
+      "iata": "BTH",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Hang Nadim"
+    },
+    {
+      "nama": "Bandar Udara Internasional Kualanamu",
+      "lokasi": "Deli Serdang",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMM",
+      "iata": "KNO",
+      "pengelola": "InJourney Airports",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Minangkabau",
+      "lokasi": "Kabupaten Padang Pariaman",
+      "provinsi": "Sumatera Barat",
+      "icao": "WIEE",
+      "iata": "PDG",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Sultan Iskandar Muda",
+      "lokasi": "Banda Aceh",
+      "provinsi": "Aceh",
+      "icao": "WITT",
+      "iata": "BTJ",
+      "pengelola": "InJourney Airports",
+      "kelas": "",
+      "dinamai_berdasarkan": "Iskandar Muda"
+    },
+    {
+      "nama": "Bandar Udara Japura (Bandar Udara Japura Rengat)",
+      "lokasi": "Kabupaten Indragiri Hulu",
+      "provinsi": "Riau",
+      "icao": "WIPR",
+      "iata": "RGT",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Jenderal Besar Abdul Haris Nasution (Bandar Udara Bukit Malintang)",
+      "lokasi": "Kabupaten Mandailing Natal",
+      "provinsi": "Sumatera Utara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Konstruksi",
+      "kelas": "Konstruksi",
+      "dinamai_berdasarkan": "Abdul Haris Nasution"
+    },
+    {
+      "nama": "Bandar Udara Kuala Batee",
+      "lokasi": "Blangpidie, Kabupaten Aceh Barat Daya",
+      "provinsi": "Aceh",
+      "icao": "",
+      "iata": "KJX",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Lasikin",
+      "lokasi": "Sinabang",
+      "provinsi": "Aceh",
+      "icao": "WIML",
+      "iata": "SNX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Lasondre",
+      "lokasi": "Tanahmasa, Kabupaten Nias Selatan",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMO",
+      "iata": "LSE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Letung",
+      "lokasi": "Letung, Jemaja, Kepulauan Anambas",
+      "provinsi": "Riau",
+      "icao": "",
+      "iata": "LMU",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Maimun Saleh",
+      "lokasi": "Sabang",
+      "provinsi": "Aceh",
+      "icao": "WIAB",
+      "iata": "SBG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Malikus Saleh",
+      "lokasi": "Muara Batu, Aceh Utara",
+      "provinsi": "Aceh",
+      "icao": "WITM",
+      "iata": "LSW",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mentawai",
+      "lokasi": "Mentawai",
+      "provinsi": "Sumatera Barat",
+      "icao": "WIBR",
+      "iata": "RKI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Muara Bungo",
+      "lokasi": "Bungo",
+      "provinsi": "Jambi",
+      "icao": "WIJB",
+      "iata": "MRB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mukomuko",
+      "lokasi": "Mukomuko",
+      "provinsi": "Bengkulu",
+      "icao": "WIGM",
+      "iata": "MPC",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pagar Alam",
+      "lokasi": "Pagar Alam",
+      "provinsi": "Sumatera Selatan",
+      "icao": "",
+      "iata": "PXA",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pinang Kampai",
+      "lokasi": "Dumai",
+      "provinsi": "Riau",
+      "icao": "WIBD",
+      "iata": "DUM",
+      "pengelola": "Pelita Air Service",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pusako Anak Nagari (Bandar Udara Pasaman Barat)",
+      "lokasi": "Simpang Ampek, Pasaman Barat",
+      "provinsi": "Sumatera Barat",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Radin Inten II",
+      "lokasi": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "icao": "WILL",
+      "iata": "TKG",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Radin Inten II"
+    },
+    {
+      "nama": "Bandar Udara Raja Haji Abdullah",
+      "lokasi": "Karimun",
+      "provinsi": "Kepulauan Riau",
+      "icao": "WIDT",
+      "iata": "TJB",
+      "pengelola": "DJPU",
+      "kelas": "IIIC",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Raja Haji Fisabilillah",
+      "lokasi": "Tanjung Pinang",
+      "provinsi": "Kepulauan Riau",
+      "icao": "WIDN",
+      "iata": "TNJ",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Raja Haji Fisabilillah"
+    },
+    {
+      "nama": "Bandar Udara Ranai d.h. Bandar Udara Raden Sadjad",
+      "lokasi": "Ranai, Kepulauan Natuna",
+      "provinsi": "Kepulauan Riau",
+      "icao": "WION",
+      "iata": "NTX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Rembele",
+      "lokasi": "Takengon",
+      "provinsi": "Aceh",
+      "icao": "WITK",
+      "iata": "TXE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sibisa",
+      "lokasi": "Toba",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMP",
+      "iata": "SIW",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Silampari",
+      "lokasi": "Lubuk Linggau",
+      "provinsi": "Sumatera Selatan",
+      "icao": "WIPB",
+      "iata": "LLG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Simalungun",
+      "lokasi": "Pematangsiantar",
+      "provinsi": "Sumatera Utara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sisingamangaraja XII d.h. Bandar Udara Silangit",
+      "lokasi": "Siborongborong",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMN",
+      "iata": "DTB",
+      "pengelola": "InJourney Airports",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Sultan Mahmud Badaruddin II",
+      "lokasi": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "icao": "WIPP",
+      "iata": "PLM",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Mahmud Badaruddin II"
+    },
+    {
+      "nama": "Bandar Udara Sultan Syarif Kasim II",
+      "lokasi": "Pekanbaru",
+      "provinsi": "Riau",
+      "icao": "WIBB",
+      "iata": "PKU",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Sultan Syarif Kasim II"
+    },
+    {
+      "nama": "Bandar Udara Sultan Thaha",
+      "lokasi": "Kota Jambi",
+      "provinsi": "Jambi",
+      "icao": "WIJJ",
+      "iata": "DJB",
+      "pengelola": "InJourney Airports",
+      "kelas": "IA",
+      "dinamai_berdasarkan": "Thaha Syaifuddin"
+    },
+    {
+      "nama": "Bandar Udara Syekh Hamzah Fansyuri (Bandar Udara Singkil)",
+      "lokasi": "Aceh Singkil",
+      "provinsi": "Aceh",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemkab Aceh Singkil",
+      "kelas": "",
+      "dinamai_berdasarkan": "Hamzah al-Fansuri"
+    },
+    {
+      "nama": "Bandar Udara Tambelan",
+      "lokasi": "Bintan",
+      "provinsi": "Kepulauan Riau",
+      "icao": "",
+      "iata": "TBX",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Muhammad Taufiq Kiemas",
+      "lokasi": "Pesisir Barat",
+      "provinsi": "Lampung",
+      "icao": "",
+      "iata": "TFY",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Teluk Dalam",
+      "lokasi": "Asahan",
+      "provinsi": "Sumatera Utara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tempuling",
+      "lokasi": "Kabupaten Indragiri Hilir",
+      "provinsi": "Riau",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Teuku Cut Ali",
+      "lokasi": "Aceh Barat Daya",
+      "provinsi": "Aceh",
+      "icao": "WIMT",
+      "iata": "TPK",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tuanku Tambusai (Bandar Udara Pasir Pangaraian)",
+      "lokasi": "Rokan Hulu",
+      "provinsi": "Riau",
+      "icao": "WIBG",
+      "iata": "PPR",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Roesmin Nurjadin (d.h. Pelabuhan Udara Simpang Tiga)",
+      "lokasi": "Pekanbaru",
+      "provinsi": "Riau",
+      "icao": "",
+      "iata": "",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Bagansiapiapi",
+      "lokasi": "Bagansiapiapi, Rokan Hilir",
+      "provinsi": "Riau",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Pangeran Mohammad Bunyamin",
+      "lokasi": "Astra Ksetra, Tulang Bawang",
+      "provinsi": "Lampung",
+      "icao": "–",
+      "iata": "AKQ",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Soewondo d.h. Bandar Udara Polonia",
+      "lokasi": "Medan",
+      "provinsi": "Sumatera Utara",
+      "icao": "WIMK",
+      "iata": "MES",
+      "pengelola": "TNI",
+      "kelas": "Lanud Tipe B",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Sutan Sjahrir d.h. Bandar Udara Tabing",
+      "lokasi": "Padang",
+      "provinsi": "Sumatera Barat",
+      "icao": "WIMG",
+      "iata": "PDG",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": "Sutan Sjahrir, Perdana Mentri RI Pertama"
+    },
+    {
+      "nama": "Bandar Udara Abdulrachman Saleh",
+      "lokasi": "Malang",
+      "provinsi": "Jawa Timur",
+      "icao": "WARA",
+      "iata": "MLG",
+      "pengelola": "TNI Angkatan Udara",
+      "kelas": "Lanud Tipe A",
+      "dinamai_berdasarkan": "Abdulrachman Saleh"
+    },
+    {
+      "nama": "Bandar Udara Adisutjipto",
+      "lokasi": "Sleman",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "icao": "WAHH",
+      "iata": "JOG",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Agustinus Adisutjipto, Kantor TNI."
+    },
+    {
+      "nama": "Bandar Udara Ahmad Yani",
+      "lokasi": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "icao": "WAHS",
+      "iata": "SRG",
+      "pengelola": "InJourney Airports",
+      "kelas": "IB",
+      "dinamai_berdasarkan": "Ahmad Yani, pahlawan."
+    },
+    {
+      "nama": "Bandar Udara Banyuwangi d.h. Bandar Udara Blimbingsari",
+      "lokasi": "Banyuwangi",
+      "provinsi": "Jawa Timur",
+      "icao": "WADY",
+      "iata": "BWX",
+      "pengelola": "InJourney Airports",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ngloram (Bandar Udara Blora)",
+      "lokasi": "Blora",
+      "provinsi": "Jawa Tengah",
+      "icao": "WARC",
+      "iata": "CPF",
+      "pengelola": "DJPU",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Budiarto",
+      "lokasi": "Kabupaten Tangerang",
+      "provinsi": "Banten",
+      "icao": "WIRR",
+      "iata": "BTO",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Budiarto"
+    },
+    {
+      "nama": "Bandar Udara Cakrabhuwana (Bandar Udara Penggung) d.h. Bandar Udara Astanajapura",
+      "lokasi": "Cirebon",
+      "provinsi": "Jawa Barat",
+      "icao": "WICD",
+      "iata": "CBN",
+      "pengelola": "Dinas Perhubungan Kota Cirebon",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Pendiri Kesultanan Cirebon, Raden Walangsungsang/ Pangeran Cakrabhuwana"
+    },
+    {
+      "nama": "Bandar Udara Dewadaru",
+      "lokasi": "Karimunjawa, Jepara",
+      "provinsi": "Jawa Tengah",
+      "icao": "WAHU",
+      "iata": "KWB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Dewadaru"
+    },
+    {
+      "nama": "Bandar Udara Nusawiru",
+      "lokasi": "Pangandaran",
+      "provinsi": "Jawa Barat",
+      "icao": "WICD",
+      "iata": "CJN",
+      "pengelola": "Dinas Perhubungan Provinsi Jawa Barat",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Dhoho",
+      "lokasi": "Kabupaten Kediri",
+      "provinsi": "Jawa Timur",
+      "icao": "WARD",
+      "iata": "DHX",
+      "pengelola": "InJourney Airports",
+      "kelas": "",
+      "dinamai_berdasarkan": "Dahanapura"
+    },
+    {
+      "nama": "Bandar Udara Halim Perdanakusuma",
+      "lokasi": "DKI Jakarta",
+      "provinsi": "DKI Jakarta",
+      "icao": "WIHH",
+      "iata": "HLP",
+      "pengelola": "Angkasa Transportindo Selaras",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Halim Perdanakusuma"
+    },
+    {
+      "nama": "Bandar Udara Harun Thohir",
+      "lokasi": "Bawean, Gresik",
+      "provinsi": "Jawa Timur",
+      "icao": "",
+      "iata": "BXW",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": "Harun Thohir, anggota KKO Indonesia"
+    },
+    {
+      "nama": "Bandar Udara Husein Sastranegara",
+      "lokasi": "Bandung",
+      "provinsi": "Jawa Barat",
+      "icao": "WICC",
+      "iata": "BDO",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Husein Sastranegara, pionir TNI Angkatan Udara."
+    },
+    {
+      "nama": "Bandar Udara Adi Soemarmo",
+      "lokasi": "Boyolali",
+      "provinsi": "Jawa Tengah",
+      "icao": "WAHQ",
+      "iata": "SOC",
+      "pengelola": "InJourney Airports",
+      "kelas": "IIA",
+      "dinamai_berdasarkan": "Adi Soemarmo Wirjokusumo"
+    },
+    {
+      "nama": "Bandar Udara Internasional Juanda",
+      "lokasi": "Sidoarjo",
+      "provinsi": "Jawa Timur",
+      "icao": "WARR",
+      "iata": "SUB",
+      "pengelola": "InJourney Airports",
+      "kelas": "IA",
+      "dinamai_berdasarkan": "Djoeanda Kartawidjaja, Perdana Menteri terakhir Indonesia."
+    },
+    {
+      "nama": "Bandar Udara Internasional Karawang",
+      "lokasi": "Karawang",
+      "provinsi": "Jawa Barat",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Rencana konstruksi",
+      "kelas": "Rencana konstruksi",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Kertajati",
+      "lokasi": "Majalengka",
+      "provinsi": "Jawa Barat",
+      "icao": "WICA",
+      "iata": "KJT",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Soekarno–Hatta",
+      "lokasi": "Tangerang",
+      "provinsi": "Banten",
+      "icao": "WIII",
+      "iata": "CGK",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Soekarno dan Moh. Hatta, Proklamator Indonesia."
+    },
+    {
+      "nama": "Bandar Udara Internasional Yogyakarta",
+      "lokasi": "Kulon Progo",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "icao": "WAHI",
+      "iata": "YIA",
+      "pengelola": "InJourney Airports",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Jenderal Besar Sudirman (Bandar Udara Wirasaba)",
+      "lokasi": "Purbalingga",
+      "provinsi": "Jawa Tengah",
+      "icao": "",
+      "iata": "PWL",
+      "pengelola": "Dinas Perhubungan Kabupaten Purbalingga",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kemayoran d.h. Bandar Udara Kemajoran",
+      "lokasi": "DKI Jakarta",
+      "provinsi": "DKI Jakarta",
+      "icao": "WIID",
+      "iata": "JKT",
+      "pengelola": "Tidak beroperasi",
+      "kelas": "Tidak beroperasi",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Notohadinegoro",
+      "lokasi": "Jember",
+      "provinsi": "Jawa Timur",
+      "icao": "WARE",
+      "iata": "JBB",
+      "pengelola": "Dinas Perhubungan Kabupaten Jember",
+      "kelas": "",
+      "dinamai_berdasarkan": "Notohadinegoro"
+    },
+    {
+      "nama": "Bandar Udara Pondok Cabe",
+      "lokasi": "Tangerang Selatan",
+      "provinsi": "Banten",
+      "icao": "WIHP",
+      "iata": "PCB",
+      "pengelola": "Pelita Air Service",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pulau Panjang",
+      "lokasi": "Kepulauan Seribu",
+      "provinsi": "Jakarta",
+      "icao": "WIIG",
+      "iata": "PPJ",
+      "pengelola": "",
+      "kelas": "IIIC",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pulau Kangean",
+      "lokasi": "Pulau Kangean, Sumenep",
+      "provinsi": "Jawa Timur",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Dinas Perhubungan Kabupaten Sumenep",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tanjung Lesung",
+      "lokasi": "Pandeglang",
+      "provinsi": "Banten",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Dinas Perhubungan Kabupaten Pandeglang",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Trunojoyo",
+      "lokasi": "Sumenep",
+      "provinsi": "Jawa Timur",
+      "icao": "WART",
+      "iata": "SUP",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tunggul Wulung",
+      "lokasi": "Cilacap",
+      "provinsi": "Jawa Tengah",
+      "icao": "WAHL",
+      "iata": "CXP",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Ibrahim Tunggul Wulung"
+    },
+    {
+      "nama": "Bandar Udara Wiriadinata",
+      "lokasi": "Tasikmalaya",
+      "provinsi": "Jawa Barat",
+      "icao": "WICM",
+      "iata": "TSY",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": "Wiriadinata, anggota komando Paskhas."
+    },
+    {
+      "nama": "Pangkalan Udara Atang Senjaya",
+      "lokasi": "Bogor",
+      "provinsi": "Jawa Barat",
+      "icao": "WIAJ",
+      "iata": "ATS",
+      "pengelola": "TNI Angkatan Udara",
+      "kelas": "",
+      "dinamai_berdasarkan": "Atang Sendjaja, anggota TNI Angkatan Udara."
+    },
+    {
+      "nama": "Bandar Udara Gading",
+      "lokasi": "Gunungkidul",
+      "provinsi": "DI Yogyakarta",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI Angkatan Udara",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bersujud (Bandar Udara Batulicin)",
+      "lokasi": "Tanah Bumbu",
+      "provinsi": "Kalimantan Selatan",
+      "icao": "WRBC",
+      "iata": "BTW",
+      "pengelola": "Dinas Perhubungan Kabupaten Tanah Bumbu",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Beringin",
+      "lokasi": "Barito Utara",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAOM",
+      "iata": "MTW",
+      "pengelola": "Dinas Perhubungan Kabupaten Barito Utara",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Binuang",
+      "lokasi": "Nunukan",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WAQG",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Datah Dawai",
+      "lokasi": "Mahakam Ulu",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALJ",
+      "iata": "DTD",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Gusti Sjamsir Alam (Bandar Udara Stagen)",
+      "lokasi": "Kotabaru",
+      "provinsi": "Kalimantan Selatan",
+      "icao": "WAOK",
+      "iata": "KBU",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Gusti Syamsir Alam"
+    },
+    {
+      "nama": "Bandar Udara H. Asan",
+      "lokasi": "Kotawaringin Timur",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGS",
+      "iata": "SMQ",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "H. Asan"
+    },
+    {
+      "nama": "Bandar Udara Haji Muhammad Sidik",
+      "lokasi": "Barito Utara",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGB",
+      "iata": "HMS",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Haji Muhammad Sidik"
+    },
+    {
+      "nama": "Bandar Udara Internasional APT Pranoto (Bandar Udara Samarinda Baru)",
+      "lokasi": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALS",
+      "iata": "AAP",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "A.P.T. Pranoto"
+    },
+    {
+      "nama": "Bandar Udara Internasional Sultan Aji Muhammad Sulaiman Sepinggan",
+      "lokasi": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALL",
+      "iata": "BPN",
+      "pengelola": "InJourney Airports",
+      "kelas": "IA",
+      "dinamai_berdasarkan": "Sultan Aji Muhammad Sulaiman"
+    },
+    {
+      "nama": "Bandar Udara Internasional Supadio",
+      "lokasi": "Kubu Raya",
+      "provinsi": "Kalimantan Barat",
+      "icao": "WIOO",
+      "iata": "PNK",
+      "pengelola": "InJourney Airports",
+      "kelas": "",
+      "dinamai_berdasarkan": "Supadio"
+    },
+    {
+      "nama": "Bandar Udara Iskandar",
+      "lokasi": "Kotawaringin Barat",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGI",
+      "iata": "PKN",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Iskandar"
+    },
+    {
+      "nama": "Bandar Udara Juwata",
+      "lokasi": "Tarakan",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WAQQ",
+      "iata": "TRK",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kalimarau",
+      "lokasi": "Berau",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WAQT",
+      "iata": "BEJ",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kota Bangun",
+      "lokasi": "Kutai Kartanegara",
+      "provinsi": "Kalimantan Timur",
+      "icao": "",
+      "iata": "KOD",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kuala Kurun",
+      "lokasi": "Gunung Mas",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGA",
+      "iata": "KLK",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kuala Pembuang",
+      "lokasi": "Seruyan",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGF",
+      "iata": "KLP",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara LNG Badak Bontang",
+      "lokasi": "Bontang",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALC",
+      "iata": "BXT",
+      "pengelola": "Badak NGL",
+      "kelas": "IIIC",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Long Apari",
+      "lokasi": "Mahakam Ulu",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WAGL",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Long Apung",
+      "lokasi": "Malinau",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WAQL",
+      "iata": "LPU",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Long Layu",
+      "lokasi": "Nunukan",
+      "provinsi": "Kalimantan Utara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Lumbis",
+      "lokasi": "Nunukan",
+      "provinsi": "Kalimantan Utara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Maratua",
+      "lokasi": "Berau",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WAQC",
+      "iata": "RTU",
+      "pengelola": "DJPU",
+      "kelas": "IIIB",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Melalan",
+      "lokasi": "Kutai Barat",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALE",
+      "iata": "GHS",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Muara Badak Pujangan",
+      "lokasi": "Kutai Kartanegara",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALQ",
+      "iata": "–",
+      "pengelola": "Tran Inti Sejahtera",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Muara Wahau",
+      "lokasi": "Kutai Timur",
+      "provinsi": "Kalimantan Timur",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Nanga Bulik",
+      "lokasi": "Lamandau",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Nanga Pinoh",
+      "lokasi": "Melawi",
+      "provinsi": "Kalimantan Barat",
+      "icao": "WIOG",
+      "iata": "NPO",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Nunukan",
+      "lokasi": "Nunukan",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WAQA",
+      "iata": "NNX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Nusantara",
+      "lokasi": "Penajam Paser Utara",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALK",
+      "iata": "Belum Terdaftar",
+      "pengelola": "DGCA",
+      "kelas": "IIIC",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pangsuma",
+      "lokasi": "Kapuas Hulu",
+      "provinsi": "Kalimantan Barat",
+      "icao": "WIOP",
+      "iata": "PSU",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Paser (Bandar Udara Tanah Grogot)",
+      "lokasi": "Paser",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WALH",
+      "iata": "TNB",
+      "pengelola": "Pemda",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Rahadi Oesman (Bandar Udara Ketapang)",
+      "lokasi": "Ketapang",
+      "provinsi": "Kalimantan Barat",
+      "icao": "WIOK",
+      "iata": "KTG",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Rahadi Oesman"
+    },
+    {
+      "nama": "Bandar Udara Robert Atty Bessing",
+      "lokasi": "Malinau",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WALM",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Robert Atty Bessing"
+    },
+    {
+      "nama": "Bandar Udara Sanggu",
+      "lokasi": "Barito Selatan",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGM",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Singkawang",
+      "lokasi": "Singkawang",
+      "provinsi": "Kalimantan Barat",
+      "icao": "WIOD",
+      "iata": "SKJ",
+      "pengelola": "DJPU",
+      "kelas": "Satpel BU",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Syamsudin Noor",
+      "lokasi": "Banjarbaru",
+      "provinsi": "Kalimantan Selatan",
+      "icao": "WAOO",
+      "iata": "BDJ",
+      "pengelola": "InJourney Airports",
+      "kelas": "IB",
+      "dinamai_berdasarkan": "Syamsudin Noor"
+    },
+    {
+      "nama": "Bandar Udara Tanjung Bara",
+      "lokasi": "Kutai Timur",
+      "provinsi": "Kalimantan Timur",
+      "icao": "WRLJ",
+      "iata": "TJC",
+      "pengelola": "Kaltim Prima Coal",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tanjung Harapan",
+      "lokasi": "Tanjung Selor",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WAQD",
+      "iata": "TJS",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tebelian",
+      "lokasi": "Sintang",
+      "provinsi": "Kalimantan Barat",
+      "icao": "WIOS",
+      "iata": "SQG",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tira Tangka Balang",
+      "lokasi": "Murung Raya",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tjilik Riwut",
+      "lokasi": "Palangkaraya",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAGG",
+      "iata": "PKY",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Tjilik Riwut"
+    },
+    {
+      "nama": "Bandar Udara Tumbang Samba",
+      "lokasi": "Katingan",
+      "provinsi": "Kalimantan Tengah",
+      "icao": "WAOW",
+      "iata": "TMB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Warukin Tanjung",
+      "lokasi": "Tabalong",
+      "provinsi": "Kalimantan Selatan",
+      "icao": "WAON",
+      "iata": "TJG",
+      "pengelola": "Pertamina EP",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Yuvai Semaring",
+      "lokasi": "Nunukan",
+      "provinsi": "Kalimantan Utara",
+      "icao": "WAQJ",
+      "iata": "LBW",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Andi Jemma",
+      "lokasi": "Masamba",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAWM",
+      "iata": "MXB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Arung Palakka",
+      "lokasi": "Bone",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAWN",
+      "iata": "BNE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Maulana Prins Mandapar",
+      "lokasi": "Banggai Laut",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "-",
+      "iata": "–",
+      "pengelola": "UPT",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Betoambari",
+      "lokasi": "Bau-Bau",
+      "provinsi": "Sulawesi Tenggara",
+      "icao": "WAWB",
+      "iata": "BUW",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Raja Loloda Mokoagow",
+      "lokasi": "Bolaang Mongondow",
+      "provinsi": "Sulawesi Utara",
+      "icao": "–",
+      "iata": "BJG",
+      "pengelola": "DJPU",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bua (Bandar Udara Lagaligo)",
+      "lokasi": "Luwu",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAFD",
+      "iata": "LLO",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Djalaluddin",
+      "lokasi": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "icao": "WAMG",
+      "iata": "GTO",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Djalaludin Tantu"
+    },
+    {
+      "nama": "Bandar Udara H. Aroeppala",
+      "lokasi": "Kepulauan Selayar",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAWH",
+      "iata": "KSR",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Haluoleo (Bandar Udara Wolter Monginsidi)",
+      "lokasi": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "icao": "WAWW",
+      "iata": "KDI",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Halu Oleo (Raja Muna yang ketujuh)"
+    },
+    {
+      "nama": "Bandar Udara Internasional Sam Ratulangi",
+      "lokasi": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "icao": "WAMM",
+      "iata": "MDC",
+      "pengelola": "InJourney Airports",
+      "kelas": "IB",
+      "dinamai_berdasarkan": "Dr. Gerungan Saul Samuel Jacob Ratulangi"
+    },
+    {
+      "nama": "Bandar Udara Internasional Sultan Hasanuddin",
+      "lokasi": "Maros",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAAA",
+      "iata": "UPG",
+      "pengelola": "InJourney Airports",
+      "kelas": "IA",
+      "dinamai_berdasarkan": "Sultan Hasanuddin"
+    },
+    {
+      "nama": "Bandar Udara Kasiguncu",
+      "lokasi": "Poso",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "WAMP",
+      "iata": "PSJ",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Lantagi (Bandar Udara Buton Utara)",
+      "lokasi": "Buton Utara",
+      "provinsi": "Sulawesi Tenggara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Matahora",
+      "lokasi": "Wakatobi",
+      "provinsi": "Sulawesi Tenggara",
+      "icao": "WAWD",
+      "iata": "WNI",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Morowali d.h. Bandar Udara Maleo",
+      "lokasi": "Morowali",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "",
+      "iata": "MOH",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Melonguane",
+      "lokasi": "Melonguane",
+      "provinsi": "Sulawesi Utara",
+      "icao": "WAMN",
+      "iata": "MNA",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Miangas",
+      "lokasi": "Kepulauan Talaud",
+      "provinsi": "Sulawesi Utara",
+      "icao": "WAMS",
+      "iata": "MKF",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mutiara SIS Al-Jufrie d.h. Bandar Udara Masovu",
+      "lokasi": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "WAFF",
+      "iata": "PLW",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": "SIS Al-Jufrie"
+    },
+    {
+      "nama": "Bandar Udara Naha",
+      "lokasi": "Pulau Sangihe",
+      "provinsi": "Sulawesi Utara",
+      "icao": "WAMH",
+      "iata": "NAH",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pogogul Buol",
+      "lokasi": "Buol",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "WAFY",
+      "iata": "UOL",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pohuwato",
+      "lokasi": "Pohuwato",
+      "provinsi": "Gorontalo",
+      "icao": "WAFZ",
+      "iata": "PWX",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pongtiku",
+      "lokasi": "Tana Toraja",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAFT",
+      "iata": "TTR",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Pong Tiku"
+    },
+    {
+      "nama": "Bandar Udara Rampi",
+      "lokasi": "Luwu Utara",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAFK",
+      "iata": "RPI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sangia Nibandera",
+      "lokasi": "Kolaka",
+      "provinsi": "Sulawesi Tenggara",
+      "icao": "WAWP",
+      "iata": "KXB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Seko",
+      "lokasi": "Luwu Utara",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "WAFN",
+      "iata": "SKO",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sugimanuru",
+      "lokasi": "Muna",
+      "provinsi": "Sulawesi Tenggara",
+      "icao": "WAWR",
+      "iata": "RAQ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sultan Bantilan",
+      "lokasi": "Tolitoli",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "WAMI",
+      "iata": "TLI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sumarorong",
+      "lokasi": "Mamasa",
+      "provinsi": "Sulawesi Barat",
+      "icao": "WAFS",
+      "iata": "MSA",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Syukuran Aminuddin Amir",
+      "lokasi": "Banggai",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "WAMW",
+      "iata": "LUW",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Taman Bung Karno d.h. Bandar Udara Siau",
+      "lokasi": "Kepulauan Sitaro",
+      "provinsi": "Sulawesi Utara",
+      "icao": "WAMO",
+      "iata": "BRG",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tampa Padang",
+      "lokasi": "Mamuju",
+      "provinsi": "Sulawesi Barat",
+      "icao": "WAAJ",
+      "iata": "MJU",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tanjung Api",
+      "lokasi": "Tojo Una-Una",
+      "provinsi": "Sulawesi Tengah",
+      "icao": "WAFU",
+      "iata": "OJU",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Toraja",
+      "lokasi": "Tana Toraja",
+      "provinsi": "Sulawesi Selatan",
+      "icao": "",
+      "iata": "TRT",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara A.A. Bere Tallo",
+      "lokasi": "Atambua",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATA",
+      "iata": "ABU",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Bali Utara",
+      "lokasi": "Jembrana",
+      "provinsi": "Bali",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemprov Bali",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara D. C. Saundale d.h. Bandar Udara Lekunik",
+      "lokasi": "Rote Ndao",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATR",
+      "iata": "RTI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara El Tari",
+      "lokasi": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATT",
+      "iata": "KOE",
+      "pengelola": "InJourney Airports",
+      "kelas": "IB",
+      "dinamai_berdasarkan": "El Tari"
+    },
+    {
+      "nama": "Bandar Udara Frans Seda (Bandar Udara Wai Oti) (Bandar Udara Maumere)",
+      "lokasi": "Maumere",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATC",
+      "iata": "MOF",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Frans Seda"
+    },
+    {
+      "nama": "Bandar Udara Frans Sales Lega",
+      "lokasi": "Kabupaten Manggarai",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WRTG",
+      "iata": "RTG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Frans Sales Lega"
+    },
+    {
+      "nama": "Bandar Udara Gewayantana d.h. Bandar Udara Larantuka",
+      "lokasi": "Flores Timur",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATL",
+      "iata": "LKA",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara H. Hasan Aroeboesman (Bandar Udara Ende) (Bandar Udara Ippi)",
+      "lokasi": "Ende",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATE",
+      "iata": "ENE",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Hasan Aroeboesman"
+    },
+    {
+      "nama": "Bandar Udara Internasional I Gusti Ngurah Rai",
+      "lokasi": "Denpasar",
+      "provinsi": "Bali",
+      "icao": "WADD",
+      "iata": "DPS",
+      "pengelola": "InJourney Airports",
+      "kelas": "IA",
+      "dinamai_berdasarkan": "I Gusti Ngurah Rai"
+    },
+    {
+      "nama": "Bandar Udara Internasional Lombok",
+      "lokasi": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "icao": "WADL",
+      "iata": "LOP",
+      "pengelola": "InJourney Airports",
+      "kelas": "IIA",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Internasional Komodo",
+      "lokasi": "Labuan Bajo, Manggarai Barat",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATO",
+      "iata": "LBJ",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Komodo, Spesies reptil terbesar di Pulau Indonesia"
+    },
+    {
+      "nama": "Bandar Udara Lunyuk",
+      "lokasi": "Sumbawa",
+      "provinsi": "Nusa Tenggara Barat",
+      "icao": "WADU",
+      "iata": "LYK",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mali",
+      "lokasi": "Alor",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WRKM",
+      "iata": "ARD",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mbay Surabaya II",
+      "lokasi": "Nagekeo",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pantar (Bandar Udara Kabir)",
+      "lokasi": "Pulau Pantar, Alor",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "",
+      "iata": "AXO",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Umbu Mehang Kunda d.h. Bandar Udara Mau Hau",
+      "lokasi": "Waingapu, Sumba Timur",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATU",
+      "iata": "WGP",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sekongkang",
+      "lokasi": "Sumbawa Barat",
+      "provinsi": "Nusa Tenggara Barat",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Selaparang",
+      "lokasi": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "icao": "WADA",
+      "iata": "AMI",
+      "pengelola": "Tidak beroperasi",
+      "kelas": "Tidak beroperasi",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sultan Muhammad Kaharuddin III d.h. Bandar Udara Brangbiji",
+      "lokasi": "Sumbawa",
+      "provinsi": "Nusa Tenggara Barat",
+      "icao": "WADS",
+      "iata": "SWQ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Sultan Muhammad Kaharuddin III"
+    },
+    {
+      "nama": "Bandar Udara Sultan Muhammad Salahudin (Bandar Udara Bima)",
+      "lokasi": "Bima",
+      "provinsi": "Nusa Tenggara Barat",
+      "icao": "WADB",
+      "iata": "BMU",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Sultan Muhammad Salahuddin"
+    },
+    {
+      "nama": "Bandar Udara Soa Bajawa (Bandar Udara Turelelo)",
+      "lokasi": "Ngada",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATB",
+      "iata": "BJW",
+      "pengelola": "DJPU",
+      "kelas": "IIIC",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Lede Kalumbang (Bandar Udara Tambolaka) (Bandar Udara Waikabubak)",
+      "lokasi": "Waikabubak",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATK",
+      "iata": "TMC",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tardamu",
+      "lokasi": "Pulau Sawu, Sabu Raijua",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATS",
+      "iata": "SAU",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wunopito (Bandar Udara Lewoleba)",
+      "lokasi": "Lembata",
+      "provinsi": "Nusa Tenggara Timur",
+      "icao": "WATW",
+      "iata": "LWE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Amahai",
+      "lokasi": "Amahai",
+      "provinsi": "Maluku",
+      "icao": "WAPA",
+      "iata": "AHI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bandanaira (Bandar Udara Banda)",
+      "lokasi": "Banda",
+      "provinsi": "Maluku",
+      "icao": "WAPC",
+      "iata": "NDA",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Benjina",
+      "lokasi": "Benjina",
+      "provinsi": "Maluku",
+      "icao": "WAPK",
+      "iata": "BJK",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Buli",
+      "lokasi": "Buli",
+      "provinsi": "Maluku Utara",
+      "icao": "WAEM",
+      "iata": "WUB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bobong",
+      "lokasi": "Pulau Taliabu",
+      "provinsi": "Maluku Utara",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Konstruksi",
+      "kelas": "Konstruksi",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Rar Gwamar (Bandar Udara Dobo)",
+      "lokasi": "Dobo",
+      "provinsi": "Maluku",
+      "icao": "WAPD",
+      "iata": "DOB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Dofa Benjani Falabisahaya (Bandar Udara Mangole)",
+      "lokasi": "Pulau Mangole, Kepulauan Sula",
+      "provinsi": "Maluku Utara",
+      "icao": "WAEO",
+      "iata": "MAL",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Dumatubun",
+      "lokasi": "Tual",
+      "provinsi": "Maluku",
+      "icao": "WAPL",
+      "iata": "LUV",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Emalamo",
+      "lokasi": "Sanana, Kepulauan Sula",
+      "provinsi": "Maluku Utara",
+      "icao": "WAPN",
+      "iata": "SQN",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "Emalamo"
+    },
+    {
+      "nama": "Bandar Udara Gamarmalamo",
+      "lokasi": "Galela",
+      "provinsi": "Maluku Utara",
+      "icao": "WAEG",
+      "iata": "GLX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Gebe",
+      "lokasi": "Pulau Gebe, Halmahera Tengah",
+      "provinsi": "Maluku Utara",
+      "icao": "WAMJ",
+      "iata": "GEB",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara John Becker",
+      "lokasi": "Pulau Kisar, Maluku Barat Daya",
+      "provinsi": "Maluku",
+      "icao": "WATQ",
+      "iata": "KSX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": "John Bakker"
+    },
+    {
+      "nama": "Bandar Udara Jos Orno Imsula",
+      "lokasi": "Pulau Moa, Maluku Barat Daya",
+      "provinsi": "Maluku",
+      "icao": "",
+      "iata": "JIO",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Karel Sadsuitubun",
+      "lokasi": "Langgur",
+      "provinsi": "Maluku",
+      "icao": "WAPF",
+      "iata": "LUV",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kuabang",
+      "lokasi": "Kao",
+      "provinsi": "Maluku",
+      "icao": "WAEK",
+      "iata": "KAZ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mathilda Batlayeri",
+      "lokasi": "Saumlaki, Kep. Tanimbar",
+      "provinsi": "Maluku",
+      "icao": "WAPS",
+      "iata": "SXK",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Moa",
+      "lokasi": "Pulau Moa, Maluku Barat Daya",
+      "provinsi": "Maluku",
+      "icao": "",
+      "iata": "MOA",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Namlea",
+      "lokasi": "Namlea",
+      "provinsi": "Maluku",
+      "icao": "WAPR",
+      "iata": "NAM",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Namniwel",
+      "lokasi": "Namlea",
+      "provinsi": "Maluku",
+      "icao": "WAPR",
+      "iata": "NAM",
+      "pengelola": "Tidak beroperasi",
+      "kelas": "Tidak beroperasi",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Namrole",
+      "lokasi": "Namrole",
+      "provinsi": "Maluku",
+      "icao": "WAPG",
+      "iata": "NRE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Oesman Sadik",
+      "lokasi": "Pulau Bacan, Halmahera Selatan",
+      "provinsi": "Maluku Utara",
+      "icao": "WAEL",
+      "iata": "LAH",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pattimura",
+      "lokasi": "Ambon",
+      "provinsi": "Maluku",
+      "icao": "WAPP",
+      "iata": "AMQ",
+      "pengelola": "InJourney Airports",
+      "kelas": "IIA",
+      "dinamai_berdasarkan": "Pattimura"
+    },
+    {
+      "nama": "Bandar Udara Pitu",
+      "lokasi": "Pulau Morotai",
+      "provinsi": "Maluku Utara",
+      "icao": "WAEW",
+      "iata": "OTI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sultan Babullah",
+      "lokasi": "Ternate",
+      "provinsi": "Maluku Utara",
+      "icao": "WAEE",
+      "iata": "TTE",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Baabullah"
+    },
+    {
+      "nama": "Bandar Udara Wahai",
+      "lokasi": "Pulau Seram, Maluku Tengah",
+      "provinsi": "Maluku",
+      "icao": "WAPV",
+      "iata": "WHI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Aboy (Bandar Udara Borme)",
+      "lokasi": "Aboy, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "ABY",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Aboyaga",
+      "lokasi": "Mapia Barat, Dogiyai",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Akimuga",
+      "lokasi": "Nduga",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAYG",
+      "iata": "AKM",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Alama",
+      "lokasi": "Mimika",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Anggi",
+      "lokasi": "Pegunungan Arfak",
+      "provinsi": "Papua Barat",
+      "icao": "WASG",
+      "iata": "AGD",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Apalapsili",
+      "lokasi": "Apalapsili, Yalimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "–",
+      "iata": "AAS",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ayawasi",
+      "lokasi": "Maybrat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "–",
+      "iata": "AYW",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Babo",
+      "lokasi": "Teluk Bintuni",
+      "provinsi": "Papua Barat",
+      "icao": "WASO",
+      "iata": "BXB",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bade",
+      "lokasi": "Edera, Mappi",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKE",
+      "iata": "BXD",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Batom",
+      "lokasi": "Batom, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WABM",
+      "iata": "BXM",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Beoga",
+      "lokasi": "Beoga, Puncak",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "BXG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bilogai",
+      "lokasi": "Sugapa, Intan Jaya",
+      "provinsi": "Papua Tengah",
+      "icao": "WABY",
+      "iata": "UGU",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bokondini",
+      "lokasi": "Tolikara",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAJB",
+      "iata": "BUI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Bomakia",
+      "lokasi": "Boven Digoel",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKL",
+      "iata": "BXG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Botawa",
+      "lokasi": "Oudate, Waropen",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Dabra",
+      "lokasi": "Mamberamo Raya",
+      "provinsi": "Papua",
+      "icao": "WAJC",
+      "iata": "DRH",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Domine Edward Osok",
+      "lokasi": "Sorong",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WASS",
+      "iata": "SOQ",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Doreikar",
+      "lokasi": "Raja Ampat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Douw Aturure",
+      "lokasi": "Nabire",
+      "provinsi": "Papua Tengah",
+      "icao": "WABI",
+      "iata": "NBX",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": "Isaias Douw"
+    },
+    {
+      "nama": "Bandar Udara Elelim",
+      "lokasi": "Elelim, Yalimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAJN",
+      "iata": "ELR",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Enarotali",
+      "lokasi": "Paniai",
+      "provinsi": "Papua Tengah",
+      "icao": "WAYE",
+      "iata": "EWI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ewer",
+      "lokasi": "Kabupaten Asmat",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKG",
+      "iata": "EWE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Siboru Fakfak",
+      "lokasi": "Fakfak",
+      "provinsi": "Papua Barat",
+      "icao": "WASF",
+      "iata": "FKQ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Fawi",
+      "lokasi": "Fawi, Puncak Jaya",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Frans Kaisiepo",
+      "lokasi": "Biak, Biak Numfor",
+      "provinsi": "Papua",
+      "icao": "WABB",
+      "iata": "BIK",
+      "pengelola": "InJourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": "Frans Kaisiepo"
+    },
+    {
+      "nama": "Bandar Udara Ijahabra",
+      "lokasi": "Ajami, Kebar, Tambrauw",
+      "provinsi": "Papua Barat Daya",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ilaga",
+      "lokasi": "Ilaga, Puncak",
+      "provinsi": "Papua Tengah",
+      "icao": "WAYL",
+      "iata": "ILG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ilu",
+      "lokasi": "Ilu, Puncak Jaya",
+      "provinsi": "Papua Tengah",
+      "icao": "WAVC",
+      "iata": "IUL",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Iwur",
+      "lokasi": "Iwur, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Inanwatan",
+      "lokasi": "Inanwatan, Sorong Selatan",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WASI",
+      "iata": "INX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Jefman",
+      "lokasi": "Kabupaten Raja Ampat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "SOQ",
+      "iata": "WASS",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Jila",
+      "lokasi": "Jila, Mimika",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Jita",
+      "lokasi": "Jita, Mimika",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kambuaya",
+      "lokasi": "Ayamaru Timur, Maybrat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WASU",
+      "iata": "KBX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kamur",
+      "lokasi": "Asmat",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKM",
+      "iata": "KMR",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Karubaga",
+      "lokasi": "Karubaga, Tolikara",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WABK",
+      "iata": "KBF",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kasonaweja",
+      "lokasi": "Mamberamo Raya",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kebar",
+      "lokasi": "Kebar, Tambrauw",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WAUK",
+      "iata": "KEQ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kebo",
+      "lokasi": "Kebo, Paniai",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kelila",
+      "lokasi": "Mamberamo Tengah",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAJV",
+      "iata": "LLN",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kenyam",
+      "lokasi": "Kenyam, Nduga",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kepi",
+      "lokasi": "Kepi, Obaa, Mappi",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKP",
+      "iata": "KEI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kimaam",
+      "lokasi": "Kimaam, Merauke",
+      "provinsi": "Papua Selatan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kirihi",
+      "lokasi": "Kirihi, Waropen",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kiwirok",
+      "lokasi": "Kiwirok, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAJK",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kobakma",
+      "lokasi": "Mamberamo Tengah",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kokonao",
+      "lokasi": "Mimika Barat, Mimika",
+      "provinsi": "Papua",
+      "icao": "WABN",
+      "iata": "KOX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Kornasoren (Bandar Udara Numfor)",
+      "lokasi": "Kornasoren, Biak Numfor",
+      "provinsi": "Papua",
+      "icao": "WABF",
+      "iata": "FOO",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Koroway Batu",
+      "lokasi": "Kombay, Boven Digoel",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKJ",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Lereh",
+      "lokasi": "Jayapura",
+      "provinsi": "Papua",
+      "icao": "WAJL",
+      "iata": "LHI",
+      "pengelola": "DJPU",
+      "kelas": "V",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mamberamo Raya",
+      "lokasi": "Mamberamo Raya",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mamit",
+      "lokasi": "Kembu, Tolikara",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Manggelum",
+      "lokasi": "Boven Digoel",
+      "provinsi": "Papua",
+      "icao": "WAJT",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mapenduma",
+      "lokasi": "Nduga",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "MAP",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mararena",
+      "lokasi": "Sarmi",
+      "provinsi": "Papua",
+      "icao": "WAJI",
+      "iata": "ZRM",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Marinda",
+      "lokasi": "Raja Ampat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WASN",
+      "iata": "RJM",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Meididga",
+      "lokasi": "Manokwari",
+      "provinsi": "Papua Barat",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Merdey",
+      "lokasi": "Teluk Bintuni",
+      "provinsi": "Papua Barat",
+      "icao": "WASM",
+      "iata": "RDE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mindiptana",
+      "lokasi": "Mindiptana, Boven Digoel",
+      "provinsi": "Papua",
+      "icao": "WAKD",
+      "iata": "MDP",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Misool",
+      "lokasi": "Raja Ampat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Moanamani",
+      "lokasi": "Dogiyai",
+      "provinsi": "Papua Tengah",
+      "icao": "WABD",
+      "iata": "ONI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Molof",
+      "lokasi": "Keerom",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mopah",
+      "lokasi": "Kota Merauke, Merauke",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKK",
+      "iata": "MKQ",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mozes Kilangin",
+      "lokasi": "Timika",
+      "provinsi": "Papua Tengah",
+      "icao": "WABP",
+      "iata": "TIM",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mugi",
+      "lokasi": "Mugi, Nduga",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Mulia",
+      "lokasi": "Mulia, Puncak Jaya",
+      "provinsi": "Papua Tengah",
+      "icao": "WAVA",
+      "iata": "LII",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ninia",
+      "lokasi": "Ninia, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Nop Goliat Dekai",
+      "lokasi": "Dekai, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAVD",
+      "iata": "DEX",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Okaba",
+      "lokasi": "Okaba, Merauke",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKO",
+      "iata": "OKQ",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Okbab",
+      "lokasi": "Okbab, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Oklip",
+      "lokasi": "Oklip, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Oksibil",
+      "lokasi": "Oksibil",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAJO",
+      "iata": "OKL",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Okteneng",
+      "lokasi": "Okteneng, Okhika, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Paro",
+      "lokasi": "Paro, Nduga",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pasema",
+      "lokasi": "Pasema, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Potowai",
+      "lokasi": "Mimika",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Pulau Gag",
+      "lokasi": "",
+      "provinsi": "",
+      "icao": "",
+      "iata": "GAV",
+      "pengelola": "",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ransiki",
+      "lokasi": "Manokwari Selatan",
+      "provinsi": "Papua Barat",
+      "icao": "WASC",
+      "iata": "RSK",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Rendani",
+      "lokasi": "Manokwari",
+      "provinsi": "Papua Barat",
+      "icao": "WASR",
+      "iata": "MKW",
+      "pengelola": "DJPU",
+      "kelas": "II",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Reni",
+      "lokasi": "Pulau Reni, Raja Ampat",
+      "provinsi": "Papua Barat Daya",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Senggeh",
+      "lokasi": "Keerom",
+      "provinsi": "Papua",
+      "icao": "WAJS",
+      "iata": "SHE",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Senggo",
+      "lokasi": "Senggo, Mappi",
+      "provinsi": "Papua Selatan",
+      "icao": "WAKQ",
+      "iata": "ZEG",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sentani",
+      "lokasi": "Jayapura",
+      "provinsi": "Papua",
+      "icao": "WAJJ",
+      "iata": "DJJ",
+      "pengelola": "Injourney Airports",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Seralada",
+      "lokasi": "Seralada, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Silimo",
+      "lokasi": "Silimo, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sinak",
+      "lokasi": "Sinak, Puncak",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "NKD",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sobaham",
+      "lokasi": "Sobaham, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Stenkool (Bandar Udara Bintuni)",
+      "lokasi": "Bintuni",
+      "provinsi": "Papua Barat",
+      "icao": "WASB",
+      "iata": "NTI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Stevanus Rumbewas",
+      "lokasi": "Kosiwo, Kepulauan Yapen",
+      "provinsi": "Papua",
+      "icao": "WAPO",
+      "iata": "ZRI",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Sudjarwo Tjondronegoro",
+      "lokasi": "Yapen Selatan, Kepulauan Yapen",
+      "provinsi": "Papua",
+      "icao": "WAPO",
+      "iata": "ZRI",
+      "pengelola": "Tidak beroperasi",
+      "kelas": "Tidak beroperasi",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tanah Merah",
+      "lokasi": "Mandobo, Boven Digoel",
+      "provinsi": "Papua",
+      "icao": "WAKT",
+      "iata": "TMH",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Teminabuan",
+      "lokasi": "Sorong Selatan",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WAST",
+      "iata": "TMX",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Teiraplu",
+      "lokasi": "Teiraplu, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tiom",
+      "lokasi": "Lanny Jaya",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WABH",
+      "iata": "TMY",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Towe Hitam",
+      "lokasi": "Towe, Keerom",
+      "provinsi": "Papua",
+      "icao": "WAJR",
+      "iata": "WAR",
+      "pengelola": "DJPU",
+      "kelas": "IV",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Tsinga",
+      "lokasi": "Mimika",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Utarom",
+      "lokasi": "Kaimana",
+      "provinsi": "Papua Barat",
+      "icao": "WASK",
+      "iata": "KNG",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Ubrub",
+      "lokasi": "Keerom",
+      "provinsi": "Papua",
+      "icao": "WAJU",
+      "iata": "UBR",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Waghete",
+      "lokasi": "Deiyai",
+      "provinsi": "Papua Tengah",
+      "icao": "WABA",
+      "iata": "WET",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wamena",
+      "lokasi": "Wamena, Jayawijaya",
+      "provinsi": "Papua Pegunungan",
+      "icao": "WAVV",
+      "iata": "WMX",
+      "pengelola": "DJPU",
+      "kelas": "I",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wanam",
+      "lokasi": "Merauke",
+      "provinsi": "Papua Selatan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wangbe",
+      "lokasi": "Wangbe, Puncak",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wanggemalo",
+      "lokasi": "Wanggemalo, Boven Digoel",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wasior",
+      "lokasi": "Wasior, Teluk Wondama",
+      "provinsi": "Papua Barat",
+      "icao": "WASW",
+      "iata": "WSR",
+      "pengelola": "DJPU",
+      "kelas": "III",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Wasior Baru",
+      "lokasi": "Wasior, Teluk Wondama",
+      "provinsi": "Papua Barat",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "DJPU",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Werur",
+      "lokasi": "Tambrauw",
+      "provinsi": "Papua Barat Daya",
+      "icao": "WAJY",
+      "iata": "WRR",
+      "pengelola": "DJPU",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Yaniruma",
+      "lokasi": "Yaniruma, Boven Digoel",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Bandar Udara Yuruf",
+      "lokasi": "Yuruf, Keerom",
+      "provinsi": "Papua",
+      "icao": "",
+      "iata": "RUF",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Lapangan Terbang Abmisibil",
+      "lokasi": "Abmisibil, Okbibab, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Lapangan Terbang Anggruk",
+      "lokasi": "Anggruk, Yahukimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Lapangan Terbang Bilai",
+      "lokasi": "Homeyo, Intan Jaya",
+      "provinsi": "Papua Tengah",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Lapangan Terbang Bime",
+      "lokasi": "Bime, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Lapangan Terbang Okyop",
+      "lokasi": "Okyop, Kiwirok Timur, Pegunungan Bintang",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "Pemda",
+      "kelas": "",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Aboge (Bandar Udara Mappi)",
+      "lokasi": "Aboge, Mappi",
+      "provinsi": "Papua Selatan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    },
+    {
+      "nama": "Pangkalan Udara Benawa",
+      "lokasi": "Benawa, Yalimo",
+      "provinsi": "Papua Pegunungan",
+      "icao": "",
+      "iata": "–",
+      "pengelola": "TNI",
+      "kelas": "Satker",
+      "dinamai_berdasarkan": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar bandar udara di Indonesia - Free Download",
+    "description": "Daftar bandar udara di Indonesia menurut wilayah (nama, lokasi, provinsi, kode ICAO/IATA, pengelola, kelas). Contains 329 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar bandar udara di Indonesia | ListBase",
+    "seo_description": "Download Daftar bandar udara di Indonesia — 329 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 329 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Indonesia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-06T02:32:56.620Z",
-  "total_datasets": 621,
-  "total_records": 652847,
+  "generated": "2026-11-06T02:33:04.696Z",
+  "total_datasets": 622,
+  "total_records": 653176,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 32
+      "dataset_count": 33
     },
     {
       "id": "units",
@@ -16235,6 +16235,35 @@
         "xlsx": {
           "name": "id-bali-pelabuhan_ID.xlsx",
           "size": 7352
+        }
+      }
+    },
+    {
+      "id": "id-bandar-udara",
+      "name": "Daftar bandar udara di Indonesia",
+      "category": "transport",
+      "record_count": 329,
+      "columns": [
+        "nama",
+        "lokasi",
+        "provinsi",
+        "icao",
+        "iata",
+        "pengelola",
+        "kelas",
+        "dinamai_berdasarkan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Indonesia",
+      "updated": "2026-11",
+      "size": 86126,
+      "files": {
+        "csv": {
+          "name": "id-bandar-udara_ID.csv",
+          "size": 31999
+        },
+        "xlsx": {
+          "name": "id-bandar-udara_ID.xlsx",
+          "size": 25902
         }
       }
     },
