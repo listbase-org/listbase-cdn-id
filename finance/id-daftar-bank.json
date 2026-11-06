@@ -1,0 +1,943 @@
+{
+  "id": "id-daftar-bank",
+  "name": "Daftar bank yang beroperasi di Indonesia",
+  "title": "Daftar bank yang beroperasi di Indonesia",
+  "description": "Daftar bank yang beroperasi di Indonesia (nama, sandi bank, tahun berdiri, prinsip, kepemilikan, operasional, pengendali).",
+  "category": "finance",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "sandi_bank",
+      "label": "Sandi Bank",
+      "type": "number"
+    },
+    {
+      "key": "tahun_berdiri",
+      "label": "Tahun Berdiri",
+      "type": "number"
+    },
+    {
+      "key": "prinsip",
+      "label": "Prinsip",
+      "type": "string"
+    },
+    {
+      "key": "kepemilikan",
+      "label": "Kepemilikan",
+      "type": "string"
+    },
+    {
+      "key": "operasional",
+      "label": "Operasional",
+      "type": "string"
+    },
+    {
+      "key": "pengendali",
+      "label": "Pengendali",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Bank Aceh Syariah",
+      "sandi_bank": "116",
+      "tahun_berdiri": 1957,
+      "prinsip": "Syariah",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Aceh"
+    },
+    {
+      "nama": "Bank Aladin Syariah",
+      "sandi_bank": "947",
+      "tahun_berdiri": 1994,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Aladin Global Ventures"
+    },
+    {
+      "nama": "Bank Allo Indonesia",
+      "sandi_bank": "567",
+      "tahun_berdiri": 1992,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Nondevisa",
+      "pengendali": "Mega Corpora"
+    },
+    {
+      "nama": "Bank Amar Indonesia",
+      "sandi_bank": "531",
+      "tahun_berdiri": 1991,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Tolaram Group"
+    },
+    {
+      "nama": "Bank ANZ Indonesia",
+      "sandi_bank": "061",
+      "tahun_berdiri": 1990,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "ANZ"
+    },
+    {
+      "nama": "Bank Artha Graha Internasional",
+      "sandi_bank": "037",
+      "tahun_berdiri": 1973,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Artha Graha Network"
+    },
+    {
+      "nama": "Bank Banten",
+      "sandi_bank": "137",
+      "tahun_berdiri": 1992,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Banten"
+    },
+    {
+      "nama": "Bank BCA Syariah",
+      "sandi_bank": "536",
+      "tahun_berdiri": 1991,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Bank Central Asia"
+    },
+    {
+      "nama": "Bank Bengkulu",
+      "sandi_bank": "133",
+      "tahun_berdiri": 1969,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Bengkulu"
+    },
+    {
+      "nama": "Bank BJB",
+      "sandi_bank": "110",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Jawa Barat"
+    },
+    {
+      "nama": "Bank BJB Syariah",
+      "sandi_bank": "425",
+      "tahun_berdiri": 2010,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Nondevisa",
+      "pengendali": "Bank BJB"
+    },
+    {
+      "nama": "Bank BNP Paribas Indonesia",
+      "sandi_bank": "057",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "BNP Paribas"
+    },
+    {
+      "nama": "Bank BPD Bali",
+      "sandi_bank": "129",
+      "tahun_berdiri": 1962,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Bali"
+    },
+    {
+      "nama": "Bank BPD DIY",
+      "sandi_bank": "112",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Daerah Istimewa Yogyakarta"
+    },
+    {
+      "nama": "Bank BRK Syariah",
+      "sandi_bank": "119",
+      "tahun_berdiri": 1961,
+      "prinsip": "Syariah",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Riau dan Kepulauan Riau"
+    },
+    {
+      "nama": "Bank BSG",
+      "sandi_bank": "127",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Sulawesi Utara dan Gorontalo"
+    },
+    {
+      "nama": "Bank BTPN Syariah",
+      "sandi_bank": "547",
+      "tahun_berdiri": 1991,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Bank SMBC Indonesia"
+    },
+    {
+      "nama": "Bank Bumi Arta",
+      "sandi_bank": "076",
+      "tahun_berdiri": 1967,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "PT Suryahusada Investment, Ajaib"
+    },
+    {
+      "nama": "Bank Capital Indonesia",
+      "sandi_bank": "054",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Capital Financial Indonesia"
+    },
+    {
+      "nama": "Bank Central Asia",
+      "sandi_bank": "014",
+      "tahun_berdiri": 1955,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Djarum Group"
+    },
+    {
+      "nama": "Bank CCB Indonesia",
+      "sandi_bank": "036",
+      "tahun_berdiri": 1974,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "China Construction Bank"
+    },
+    {
+      "nama": "Bank CIMB Niaga",
+      "sandi_bank": "022",
+      "tahun_berdiri": 1955,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "CIMB Group"
+    },
+    {
+      "nama": "Bank CTBC Indonesia",
+      "sandi_bank": "949",
+      "tahun_berdiri": 1995,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "CTBC Financial Holding"
+    },
+    {
+      "nama": "Bank Danamon Indonesia",
+      "sandi_bank": "011",
+      "tahun_berdiri": 1956,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "MUFG"
+    },
+    {
+      "nama": "Bank DBS Indonesia",
+      "sandi_bank": "046",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "DBS Bank"
+    },
+    {
+      "nama": "Bank Digital BCA",
+      "sandi_bank": "501",
+      "tahun_berdiri": 1965,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Bank Central Asia"
+    },
+    {
+      "nama": "Bank Ganesha",
+      "sandi_bank": "161",
+      "tahun_berdiri": 1990,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Equity Development Investment"
+    },
+    {
+      "nama": "Bank Hana Indonesia",
+      "sandi_bank": "484",
+      "tahun_berdiri": 1971,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Hana Financial Group"
+    },
+    {
+      "nama": "Bank Hibank Indonesia",
+      "sandi_bank": "553",
+      "tahun_berdiri": 1993,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Bank Negara Indonesia"
+    },
+    {
+      "nama": "Bank HSBC Indonesia",
+      "sandi_bank": "087",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "HSBC"
+    },
+    {
+      "nama": "Bank IBK Indonesia",
+      "sandi_bank": "945",
+      "tahun_berdiri": 1973,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Industrial Bank of Korea"
+    },
+    {
+      "nama": "Bank ICBC Indonesia",
+      "sandi_bank": "164",
+      "tahun_berdiri": 1970,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "ICBC"
+    },
+    {
+      "nama": "Bank Ina Perdana",
+      "sandi_bank": "513",
+      "tahun_berdiri": 1990,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Salim Group"
+    },
+    {
+      "nama": "Bank Index Selindo",
+      "sandi_bank": "555",
+      "tahun_berdiri": 1992,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "PT Kazanah Indexindo"
+    },
+    {
+      "nama": "Bank Jago",
+      "sandi_bank": "542",
+      "tahun_berdiri": 1992,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Jerry Ng, GoTo Financial, dan Northstar Group"
+    },
+    {
+      "nama": "Bank Jakarta",
+      "sandi_bank": "111",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Daerah Khusus Ibukota Jakarta"
+    },
+    {
+      "nama": "Bank Jambi",
+      "sandi_bank": "115",
+      "tahun_berdiri": 1959,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Jambi"
+    },
+    {
+      "nama": "Bank Jateng",
+      "sandi_bank": "113",
+      "tahun_berdiri": 1963,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Jawa Tengah"
+    },
+    {
+      "nama": "Bank Jatim",
+      "sandi_bank": "114",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Jawa Timur"
+    },
+    {
+      "nama": "Bank J Trust Indonesia",
+      "sandi_bank": "095",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "J Trust"
+    },
+    {
+      "nama": "Bank Kalbar",
+      "sandi_bank": "123",
+      "tahun_berdiri": 1963,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Kalimantan Barat"
+    },
+    {
+      "nama": "Bank Kalsel",
+      "sandi_bank": "122",
+      "tahun_berdiri": 1964,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Kalimantan Selatan"
+    },
+    {
+      "nama": "Bank Kalteng",
+      "sandi_bank": "125",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Kalimantan Tengah"
+    },
+    {
+      "nama": "Bank Kaltimtara",
+      "sandi_bank": "124",
+      "tahun_berdiri": 1965,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Kalimantan Timur dan Utara"
+    },
+    {
+      "nama": "Bank Kasikorn Indonesia",
+      "sandi_bank": "157",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Kasikornbank"
+    },
+    {
+      "nama": "Bank KB Indonesia",
+      "sandi_bank": "441",
+      "tahun_berdiri": 1970,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "KB Financial Group"
+    },
+    {
+      "nama": "Bank KB Syariah",
+      "sandi_bank": "521",
+      "tahun_berdiri": 1990,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Bank KB Indonesia"
+    },
+    {
+      "nama": "Bank Krom Indonesia",
+      "sandi_bank": "459",
+      "tahun_berdiri": 1957,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Kredivo Group"
+    },
+    {
+      "nama": "Bank Lampung",
+      "sandi_bank": "121",
+      "tahun_berdiri": 1964,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Lampung"
+    },
+    {
+      "nama": "Bank Maluku Malut",
+      "sandi_bank": "131",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Maluku dan Maluku Utara"
+    },
+    {
+      "nama": "Bank Mandiri",
+      "sandi_bank": "008",
+      "tahun_berdiri": 1998,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BUMN",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah Republik Indonesia"
+    },
+    {
+      "nama": "Bank Mandiri Taspen",
+      "sandi_bank": "564",
+      "tahun_berdiri": 1970,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Nondevisa",
+      "pengendali": "Bank Mandiri, Taspen"
+    },
+    {
+      "nama": "Bank Mayapada Internasional",
+      "sandi_bank": "097",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Mayapada Group"
+    },
+    {
+      "nama": "Bank Maybank Indonesia",
+      "sandi_bank": "016",
+      "tahun_berdiri": 1959,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Maybank"
+    },
+    {
+      "nama": "Bank Mega",
+      "sandi_bank": "426",
+      "tahun_berdiri": 1969,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Mega Corpora"
+    },
+    {
+      "nama": "Bank Mega Syariah",
+      "sandi_bank": "506",
+      "tahun_berdiri": 1990,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Mega Corpora"
+    },
+    {
+      "nama": "Bank Mestika Dharma",
+      "sandi_bank": "151",
+      "tahun_berdiri": 1955,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "PT Mestika Buana Mas"
+    },
+    {
+      "nama": "Bank Mizuho Indonesia",
+      "sandi_bank": "048",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Mizuho Financial Group"
+    },
+    {
+      "nama": "Bank MNC Internasional",
+      "sandi_bank": "485",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "MNC Financial Services"
+    },
+    {
+      "nama": "Bank Muamalat Indonesia",
+      "sandi_bank": "147",
+      "tahun_berdiri": 1991,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Badan Pengelola Keuangan Haji"
+    },
+    {
+      "nama": "Bank Multiarta Sentosa",
+      "sandi_bank": "548",
+      "tahun_berdiri": 1992,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Wings Group"
+    },
+    {
+      "nama": "Bank Nagari",
+      "sandi_bank": "118",
+      "tahun_berdiri": 1962,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Sumatera Barat"
+    },
+    {
+      "nama": "Bank Nano Syariah",
+      "sandi_bank": "253",
+      "tahun_berdiri": 2022,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Bank Sinarmas"
+    },
+    {
+      "nama": "Bank Nationalnobu",
+      "sandi_bank": "503",
+      "tahun_berdiri": 1990,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Lippo Group dan Hanhwa Life Insurance"
+    },
+    {
+      "nama": "Bank Negara Indonesia",
+      "sandi_bank": "009",
+      "tahun_berdiri": 1946,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BUMN",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah Republik Indonesia"
+    },
+    {
+      "nama": "Bank Neo Commerce",
+      "sandi_bank": "490",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Akulaku"
+    },
+    {
+      "nama": "Bank NTB Syariah",
+      "sandi_bank": "128",
+      "tahun_berdiri": 1964,
+      "prinsip": "Syariah",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Nusa Tenggara Barat"
+    },
+    {
+      "nama": "Bank NTT",
+      "sandi_bank": "130",
+      "tahun_berdiri": 1962,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Nusa Tenggara Timur"
+    },
+    {
+      "nama": "Bank OCBC Indonesia",
+      "sandi_bank": "028",
+      "tahun_berdiri": 1941,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "OCBC Bank"
+    },
+    {
+      "nama": "Bank of India Indonesia",
+      "sandi_bank": "146",
+      "tahun_berdiri": 1968,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Bank of India"
+    },
+    {
+      "nama": "Bank Oke Indonesia",
+      "sandi_bank": "526",
+      "tahun_berdiri": 1990,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Rush & Cash"
+    },
+    {
+      "nama": "Bank Panin",
+      "sandi_bank": "019",
+      "tahun_berdiri": 1971,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Panin Financial"
+    },
+    {
+      "nama": "Bank Panin Dubai Syariah",
+      "sandi_bank": "517",
+      "tahun_berdiri": 1972,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Panin Bank, Dubai Islamic Bank"
+    },
+    {
+      "nama": "Bank Papua",
+      "sandi_bank": "132",
+      "tahun_berdiri": 1966,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Papua dan Papua Barat"
+    },
+    {
+      "nama": "Bank Permata",
+      "sandi_bank": "013",
+      "tahun_berdiri": 1954,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Bangkok Bank"
+    },
+    {
+      "nama": "Bank QNB Indonesia",
+      "sandi_bank": "167",
+      "tahun_berdiri": 1913,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "QNB Group"
+    },
+    {
+      "nama": "Bank Rakyat Indonesia",
+      "sandi_bank": "002",
+      "tahun_berdiri": 1968,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BUMN",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah Republik Indonesia"
+    },
+    {
+      "nama": "Bank Raya Indonesia",
+      "sandi_bank": "494",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Bank Rakyat Indonesia"
+    },
+    {
+      "nama": "Bank Resona Perdania",
+      "sandi_bank": "047",
+      "tahun_berdiri": 1956,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Resona Holdings"
+    },
+    {
+      "nama": "Bank Sahabat Sampoerna",
+      "sandi_bank": "523",
+      "tahun_berdiri": 1990,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Sampoerna Strategic Group dan Xendit"
+    },
+    {
+      "nama": "Bank Saqu Indonesia",
+      "sandi_bank": "472",
+      "tahun_berdiri": 1971,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "WeLab, Astra International"
+    },
+    {
+      "nama": "Bank SBI Indonesia",
+      "sandi_bank": "498",
+      "tahun_berdiri": 1970,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "State Bank of India"
+    },
+    {
+      "nama": "Bank Seabank Indonesia",
+      "sandi_bank": "535",
+      "tahun_berdiri": 1991,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Sea Limited"
+    },
+    {
+      "nama": "Bank Shinhan Indonesia",
+      "sandi_bank": "152",
+      "tahun_berdiri": 1967,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Shinhan Financial Group"
+    },
+    {
+      "nama": "Bank Sinarmas",
+      "sandi_bank": "153",
+      "tahun_berdiri": 1989,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Sinar Mas Multiartha"
+    },
+    {
+      "nama": "Bank SMBC Indonesia",
+      "sandi_bank": "213",
+      "tahun_berdiri": 1958,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "SMBC Group"
+    },
+    {
+      "nama": "Bank Sulselbar",
+      "sandi_bank": "126",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Sulawesi Selatan dan Barat"
+    },
+    {
+      "nama": "Bank Sulteng",
+      "sandi_bank": "134",
+      "tahun_berdiri": 1969,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Sulawesi Tengah"
+    },
+    {
+      "nama": "Bank Sultra",
+      "sandi_bank": "135",
+      "tahun_berdiri": 1968,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Nondevisa",
+      "pengendali": "Pemerintah daerah di Sulawesi Tenggara"
+    },
+    {
+      "nama": "Bank Sumsel Babel",
+      "sandi_bank": "120",
+      "tahun_berdiri": 1957,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Sumatera Selatan dan Bangka Belitung"
+    },
+    {
+      "nama": "Bank Sumut",
+      "sandi_bank": "117",
+      "tahun_berdiri": 1961,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BPD",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah daerah di Sumatera Utara"
+    },
+    {
+      "nama": "Bank Superbank Indonesia",
+      "sandi_bank": "562",
+      "tahun_berdiri": 1993,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Nondevisa",
+      "pengendali": "Grab dan Elang Mahkota Teknologi"
+    },
+    {
+      "nama": "Bank Syariah Indonesia",
+      "sandi_bank": "451",
+      "tahun_berdiri": 1969,
+      "prinsip": "Syariah",
+      "kepemilikan": "BUMN",
+      "operasional": "Devisa",
+      "pengendali": "Bank Mandiri, BRI, dan BNI"
+    },
+    {
+      "nama": "Bank Syariah Nasional",
+      "sandi_bank": "405",
+      "tahun_berdiri": 1966,
+      "prinsip": "Syariah",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Nondevisa",
+      "pengendali": "Bank Tabungan Negara"
+    },
+    {
+      "nama": "Bank Tabungan Negara",
+      "sandi_bank": "200",
+      "tahun_berdiri": 1950,
+      "prinsip": "Konvensional",
+      "kepemilikan": "BUMN",
+      "operasional": "Devisa",
+      "pengendali": "Pemerintah Republik Indonesia"
+    },
+    {
+      "nama": "Bank UOB Indonesia",
+      "sandi_bank": "023",
+      "tahun_berdiri": 1956,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "United Overseas Bank"
+    },
+    {
+      "nama": "Bank Victoria Internasional",
+      "sandi_bank": "566",
+      "tahun_berdiri": 1992,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (lokal)",
+      "operasional": "Devisa",
+      "pengendali": "Victoria Investama"
+    },
+    {
+      "nama": "Bank Woori Saudara",
+      "sandi_bank": "212",
+      "tahun_berdiri": 1974,
+      "prinsip": "Konvensional",
+      "kepemilikan": "Swasta (asing)",
+      "operasional": "Devisa",
+      "pengendali": "Woori Bank"
+    }
+  ],
+  "meta": {
+    "title": "Daftar bank yang beroperasi di Indonesia - Free Download",
+    "description": "Daftar bank yang beroperasi di Indonesia (nama, sandi bank, tahun berdiri, prinsip, kepemilikan, operasional, pengendali). Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar bank yang beroperasi di Indonesia | ListBase",
+    "seo_description": "Download Daftar bank yang beroperasi di Indonesia — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia"
+    ]
+  }
+}

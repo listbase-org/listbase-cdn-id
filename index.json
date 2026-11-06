@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-06T02:32:19.576Z",
-  "total_datasets": 618,
-  "total_records": 652672,
+  "generated": "2026-11-06T02:32:31.772Z",
+  "total_datasets": 619,
+  "total_records": 652770,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "food",
@@ -1481,6 +1481,34 @@
         "xlsx": {
           "name": "id-banks_ID.xlsx",
           "size": 11618
+        }
+      }
+    },
+    {
+      "id": "id-daftar-bank",
+      "name": "Daftar bank yang beroperasi di Indonesia",
+      "category": "finance",
+      "record_count": 98,
+      "columns": [
+        "nama",
+        "sandi_bank",
+        "tahun_berdiri",
+        "prinsip",
+        "kepemilikan",
+        "operasional",
+        "pengendali"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia",
+      "updated": "2026-11",
+      "size": 26376,
+      "files": {
+        "csv": {
+          "name": "id-daftar-bank_ID.csv",
+          "size": 9591
+        },
+        "xlsx": {
+          "name": "id-daftar-bank_ID.xlsx",
+          "size": 11748
         }
       }
     },
