@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-06T02:32:49.498Z",
-  "total_datasets": 620,
-  "total_records": 652829,
+  "generated": "2026-11-06T02:32:56.620Z",
+  "total_datasets": 621,
+  "total_records": 652847,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "reference",
@@ -7250,6 +7250,32 @@
         "xlsx": {
           "name": "id-kabinet-indonesia_ID.xlsx",
           "size": 9385
+        }
+      }
+    },
+    {
+      "id": "id-ketua-bpk",
+      "name": "Daftar Ketua Badan Pemeriksa Keuangan (BPK)",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "no",
+        "nama",
+        "dari",
+        "sampai",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Ketua_Badan_Pemeriksa_Keuangan_Republik_Indonesia",
+      "updated": "2026-11",
+      "size": 4288,
+      "files": {
+        "csv": {
+          "name": "id-ketua-bpk_ID.csv",
+          "size": 985
+        },
+        "xlsx": {
+          "name": "id-ketua-bpk_ID.xlsx",
+          "size": 7570
         }
       }
     },
