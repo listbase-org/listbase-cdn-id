@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-05T02:20:47.044Z",
-  "total_datasets": 617,
-  "total_records": 652634,
+  "generated": "2026-11-06T02:32:19.576Z",
+  "total_datasets": 618,
+  "total_records": 652672,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -7139,6 +7139,32 @@
         "xlsx": {
           "name": "id-dinas-kesehatan_ID.xlsx",
           "size": 19540
+        }
+      }
+    },
+    {
+      "id": "id-gubernur-wakil-gubernur",
+      "name": "Daftar gubernur dan wakil gubernur di Indonesia",
+      "category": "politics",
+      "record_count": 38,
+      "columns": [
+        "provinsi",
+        "gubernur",
+        "wakil_gubernur",
+        "mulai_menjabat",
+        "selesai_menjabat"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+      "updated": "2026-11",
+      "size": 10085,
+      "files": {
+        "csv": {
+          "name": "id-gubernur-wakil-gubernur_ID.csv",
+          "size": 3505
+        },
+        "xlsx": {
+          "name": "id-gubernur-wakil-gubernur_ID.xlsx",
+          "size": 8818
         }
       }
     },
