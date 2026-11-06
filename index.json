@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-06T02:32:31.772Z",
-  "total_datasets": 619,
-  "total_records": 652770,
+  "generated": "2026-11-06T02:32:49.498Z",
+  "total_datasets": 620,
+  "total_records": 652829,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "math",
@@ -6856,6 +6856,34 @@
         "xlsx": {
           "name": "id-ketua-mahkamah-agung_ID.xlsx",
           "size": 7744
+        }
+      }
+    },
+    {
+      "id": "id-menteri-hukum",
+      "name": "Daftar Menteri Hukum Indonesia",
+      "category": "law",
+      "record_count": 59,
+      "columns": [
+        "no",
+        "nama",
+        "lahir_wafat",
+        "partai",
+        "kabinet",
+        "mulai",
+        "sampai"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Hukum_Indonesia",
+      "updated": "2026-11",
+      "size": 14503,
+      "files": {
+        "csv": {
+          "name": "id-menteri-hukum_ID.csv",
+          "size": 5175
+        },
+        "xlsx": {
+          "name": "id-menteri-hukum_ID.xlsx",
+          "size": 9905
         }
       }
     },
