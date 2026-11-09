@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-09T02:28:16.034Z",
-  "total_datasets": 626,
-  "total_records": 653725,
+  "generated": "2026-11-09T02:28:24.956Z",
+  "total_datasets": 627,
+  "total_records": 655064,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -6559,6 +6559,30 @@
         "xlsx": {
           "name": "id-bahasa-menurut-bps-2010_ID.xlsx",
           "size": 47816
+        }
+      }
+    },
+    {
+      "id": "id-kata-serapan-bahasa-belanda",
+      "name": "Daftar Kata Serapan dari Bahasa Belanda dalam Bahasa Indonesia",
+      "category": "language",
+      "record_count": 1339,
+      "columns": [
+        "kata_indonesia",
+        "kata_asal",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kata_serapan_dari_bahasa_Belanda_dalam_bahasa_Indonesia",
+      "updated": "2026-11",
+      "size": 136897,
+      "files": {
+        "csv": {
+          "name": "id-kata-serapan-bahasa-belanda_ID.csv",
+          "size": 30764
+        },
+        "xlsx": {
+          "name": "id-kata-serapan-bahasa-belanda_ID.xlsx",
+          "size": 37132
         }
       }
     },
