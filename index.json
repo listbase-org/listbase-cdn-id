@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-09T02:28:05.766Z",
-  "total_datasets": 625,
-  "total_records": 653285,
+  "generated": "2026-11-09T02:28:16.034Z",
+  "total_datasets": 626,
+  "total_records": 653725,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "society",
@@ -14494,6 +14494,32 @@
         "xlsx": {
           "name": "id-binatang-endemik-indonesia_ID.xlsx",
           "size": 10533
+        }
+      }
+    },
+    {
+      "id": "id-ikan-air-tawar-endemik-indonesia",
+      "name": "Daftar Ikan Air Tawar Endemik Indonesia",
+      "category": "science",
+      "record_count": 440,
+      "columns": [
+        "nama_spesies",
+        "famili",
+        "nama_lokal",
+        "nama_lain",
+        "tahun_ditemukan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_nama_ikan_air_tawar_endemik_Indonesia",
+      "updated": "2026-11",
+      "size": 77663,
+      "files": {
+        "csv": {
+          "name": "id-ikan-air-tawar-endemik-indonesia_ID.csv",
+          "size": 23766
+        },
+        "xlsx": {
+          "name": "id-ikan-air-tawar-endemik-indonesia_ID.xlsx",
+          "size": 21515
         }
       }
     },
