@@ -1,0 +1,366 @@
+{
+  "id": "id-anugerah-musik-indonesia-upacara",
+  "name": "Daftar Upacara Anugerah Musik Indonesia (AMI Awards)",
+  "title": "Daftar Upacara Anugerah Musik Indonesia (AMI Awards)",
+  "description": "Daftar penyelenggaraan Anugerah Musik Indonesia sejak 1997: tanggal, lokasi, tema, pembawa acara, penerima Lifetime Achievement dan Legend Award, serta stasiun penyiar.",
+  "category": "music",
+  "source": "https://id.wikipedia.org/wiki/Anugerah_Musik_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Anugerah_Musik_Indonesia",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "acara",
+      "label": "Acara",
+      "type": "string"
+    },
+    {
+      "key": "tanggal",
+      "label": "Tanggal",
+      "type": "string"
+    },
+    {
+      "key": "lokasi",
+      "label": "Lokasi",
+      "type": "string"
+    },
+    {
+      "key": "tema",
+      "label": "Tema",
+      "type": "string"
+    },
+    {
+      "key": "pembawa_acara",
+      "label": "Pembawa Acara",
+      "type": "string"
+    },
+    {
+      "key": "lifetime_achievement",
+      "label": "Lifetime Achievement",
+      "type": "string"
+    },
+    {
+      "key": "legend_award",
+      "label": "Legend Award",
+      "type": "string"
+    },
+    {
+      "key": "penyiar",
+      "label": "Penyiar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "acara": "AMI Awards ke-1",
+      "tanggal": "29 November 1997",
+      "lokasi": "Teater Taman Ismail Marzuki",
+      "tema": "",
+      "pembawa_acara": "",
+      "lifetime_achievement": "",
+      "legend_award": "",
+      "penyiar": "Indosiar"
+    },
+    {
+      "acara": "AMI Awards ke-2",
+      "tanggal": "21 Oktober 1998",
+      "lokasi": "Teater Taman Ismail Marzuki",
+      "tema": "",
+      "pembawa_acara": "",
+      "lifetime_achievement": "",
+      "legend_award": "Sujoso Karsono",
+      "penyiar": "Indosiar"
+    },
+    {
+      "acara": "AMI Awards ke-3",
+      "tanggal": "16 November 1999",
+      "lokasi": "Teater Taman Ismail Marzuki",
+      "tema": "",
+      "pembawa_acara": "",
+      "lifetime_achievement": "Ibu Kasur",
+      "legend_award": "",
+      "penyiar": "Indosiar"
+    },
+    {
+      "acara": "AMI Sharp Awards ke-4",
+      "tanggal": "20 Oktober 2000",
+      "lokasi": "Teater Tanah Airku, Taman Mini Indonesia Indah",
+      "tema": "",
+      "pembawa_acara": "",
+      "lifetime_achievement": "Paul Hutabarat",
+      "legend_award": "Broery Marantika",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Sharp Awards ke-5",
+      "tanggal": "5 Oktober 2001",
+      "lokasi": "Istora Senayan",
+      "tema": "",
+      "pembawa_acara": "Tamara Geraldine",
+      "lifetime_achievement": "Manthous",
+      "legend_award": "Rinto Harahap",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Sharp Awards ke-6",
+      "tanggal": "6 September 2002",
+      "lokasi": "Hotel Mulia Jakarta",
+      "tema": "",
+      "pembawa_acara": "Tantowi Yahya, Titi DJ",
+      "lifetime_achievement": "Enteng Tanamal Sadikin Zuchra",
+      "legend_award": "Rhoma Irama",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Sharp Awards ke-7",
+      "tanggal": "3 Oktober 2003",
+      "lokasi": "Jakarta Hilton Convention Center (JHCC)",
+      "tema": "\"Harmoni\"",
+      "pembawa_acara": "",
+      "lifetime_achievement": "A. T. Mahmud",
+      "legend_award": "Iwan Fals",
+      "penyiar": "RCTI dan SCTV"
+    },
+    {
+      "acara": "AMI Samsung Awards ke-8",
+      "tanggal": "16 Desember 2004",
+      "lokasi": "Assembly Hall, Jakarta Convention Center",
+      "tema": "\"Kilau Musik Indonesia\"",
+      "pembawa_acara": "Muhammad Farhan, Sarah Sechan",
+      "lifetime_achievement": "–",
+      "legend_award": "Gesang",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-9",
+      "tanggal": "18 November 2005",
+      "lokasi": "Plenary Hall, Jakarta Convention Center",
+      "tema": "\"Cinta\"",
+      "pembawa_acara": "Muhammad Farhan, Tika Panggabean",
+      "lifetime_achievement": "Chrisye",
+      "legend_award": "Koes Plus & Koes Bersaudara",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-10",
+      "tanggal": "20 Desember 2006",
+      "lokasi": "Plenary Hall, Jakarta Convention Center",
+      "tema": "\"Selera Satu Dekade\"",
+      "pembawa_acara": "",
+      "lifetime_achievement": "Vina Panduwinata",
+      "legend_award": "–",
+      "penyiar": "RCTI, TPI, Global TV, TVRI"
+    },
+    {
+      "acara": "AMI Dangdut Awards 2007",
+      "tanggal": "23 Desember 2007",
+      "lokasi": "Teater Tanah Airku, Taman Mini Indonesia Indah",
+      "tema": "Pesta Dangdut Terdepan",
+      "pembawa_acara": "Eko Patrio, Okky Lukman",
+      "lifetime_achievement": "Zakaria",
+      "legend_award": "–",
+      "penyiar": "TPI"
+    },
+    {
+      "acara": "AMI Awards ke-11",
+      "tanggal": "15 April 2008",
+      "lokasi": "Istora Senayan",
+      "tema": "\"Save Our Music\"",
+      "pembawa_acara": "Daniel Mananta, Luna Maya",
+      "lifetime_achievement": "Amien Widjaja",
+      "legend_award": "–",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-12",
+      "tanggal": "25 April 2009",
+      "lokasi": "Balai Sarbini",
+      "tema": "\"Musik Anak Negeri\"",
+      "pembawa_acara": "",
+      "lifetime_achievement": "God Bless",
+      "legend_award": "–",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-13",
+      "tanggal": "9 Juni 2010",
+      "lokasi": "JITEC, Mangga Dua Square",
+      "tema": "\"Eksistensi Musik Indonesia\"",
+      "pembawa_acara": "",
+      "lifetime_achievement": "Guruh Soekarnoputra",
+      "legend_award": "–",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-14",
+      "tanggal": "6 Juli 2011",
+      "lokasi": "Ballroom Central Park Jakarta",
+      "tema": "\"Mahakarya Musik Indonesia\"",
+      "pembawa_acara": "Raffi Ahmad, Okky Lukman, Pica Priscilla",
+      "lifetime_achievement": "Elfa Secioria",
+      "legend_award": "–",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-15",
+      "tanggal": "4 Juli 2012",
+      "lokasi": "Tennis Indoor Senayan",
+      "tema": "\"Dedikasi Untuk Musik Indonesia\"",
+      "pembawa_acara": "Raffi Ahmad, Gisella Anastasia, Ayu Dewi",
+      "lifetime_achievement": "Yockie Soerjoprajogo",
+      "legend_award": "–",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-16",
+      "tanggal": "2 Juli 2013",
+      "lokasi": "Studio 8 RCTI",
+      "tema": "\"Hidupkan Musikmu\"",
+      "pembawa_acara": "Raffi Ahmad, Gisella Anastasia",
+      "lifetime_achievement": "",
+      "legend_award": "Waldjinah",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-17",
+      "tanggal": "19 Juni 2014",
+      "lokasi": "The Kasablanka, Kota Kasablanka",
+      "tema": "\"17 tahun AMI Awards untuk Indonesia\"",
+      "pembawa_acara": "Raffi Ahmad, Robby Purba",
+      "lifetime_achievement": "",
+      "legend_award": "Idris Sardi",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-18",
+      "tanggal": "22 September 2015",
+      "lokasi": "Ecovention, Ancol",
+      "tema": "\"Stop Pembajakan\"",
+      "pembawa_acara": "Arie Untung",
+      "lifetime_achievement": "",
+      "legend_award": "Bob Tutupoly",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-19",
+      "tanggal": "28 September 2016",
+      "lokasi": "Ecovention, Ancol",
+      "tema": "\"Music is My Identity\"",
+      "pembawa_acara": "Daniel Mananta",
+      "lifetime_achievement": "Titiek Puspa",
+      "legend_award": "Ireng Maulana",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-20",
+      "tanggal": "16 November 2017",
+      "lokasi": "Theater Garuda, Taman Mini Indonesia Indah",
+      "tema": "\"Musik Tanpa Batas\"",
+      "pembawa_acara": "Daniel Mananta",
+      "lifetime_achievement": "Fariz Rustam Munaf",
+      "legend_award": "Bartje Van Houten Benny Panjaitan Harry Roesli",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-21",
+      "tanggal": "26 September 2018",
+      "lokasi": "Ecovention, Ancol",
+      "tema": "\"Satu Musik Indonesia\"",
+      "pembawa_acara": "Daniel Mananta",
+      "lifetime_achievement": "Yovie Widianto",
+      "legend_award": "Bing Slamet Jack Lesmana Benyamin Sueb",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-22",
+      "tanggal": "27 November 2019",
+      "lokasi": "Studio RCTI+",
+      "tema": "\"Musik Bahasa Dunia\"",
+      "pembawa_acara": "Daniel Mananta",
+      "lifetime_achievement": "Erwin Harahap Dimas Wahab",
+      "legend_award": "Ebiet G. Ade Bimbo Iin Parlina",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-23",
+      "tanggal": "26 November 2020",
+      "lokasi": "Studio RCTI+",
+      "tema": "\"Musik Menyatukan Kita\"",
+      "pembawa_acara": "Daniel Mananta",
+      "lifetime_achievement": "Rhoma Irama Melly Goeslaw",
+      "legend_award": "Didi Kempot Nasution Bersaudara Nike Ardilla",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-24",
+      "tanggal": "15 November 2021",
+      "lokasi": "Studio RCTI+",
+      "tema": "\"Spirit of Creativity\"",
+      "pembawa_acara": "Boy William, Enzy Storia",
+      "lifetime_achievement": "Iwan Fals Titiek Puspa",
+      "legend_award": "Dian Pramana Poetra The Rollies Titik Hamzah",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-25",
+      "tanggal": "13 Oktober 2022",
+      "lokasi": "Studio RCTI+",
+      "tema": "\"Recover Together, Recover Stronger Through Music\"",
+      "pembawa_acara": "Robby Purba, Ayu Dewi",
+      "lifetime_achievement": "Glenn Fredly Donny Hardono",
+      "legend_award": "Elvy Sukaesih",
+      "penyiar": "RCTI"
+    },
+    {
+      "acara": "AMI Awards ke-26",
+      "tanggal": "8 November 2023",
+      "lokasi": "JIExpo Kemayoran",
+      "tema": "\"Merayakan Perbedaan\"",
+      "pembawa_acara": "Jamie Aditya, Patricia Gouw",
+      "lifetime_achievement": "Eros Djarot Adi Nugroho H. Ukat S.",
+      "legend_award": "",
+      "penyiar": "Indonesiana TV"
+    },
+    {
+      "acara": "AMI Awards ke-27",
+      "tanggal": "4 Desember 2024",
+      "lokasi": "Ciputra Artpreneur",
+      "tema": "\"Musik Generasi Baru\"",
+      "pembawa_acara": "Robby Purba Sere Kalina, Indra Bekti Fina Phillipe, Reza Chandika Conchita Caroline",
+      "lifetime_achievement": "Johannes Soerjoko Addie M.S. Ernie Djohan",
+      "legend_award": "",
+      "penyiar": "Moji, CNN Indonesia, BTV, Garuda TV, Sin Po TV"
+    },
+    {
+      "acara": "AMI Awards ke-28",
+      "tanggal": "19 November 2025",
+      "lokasi": "Ciputra Artpreneur",
+      "tema": "\"Bhinneka Tunggal Suara\"",
+      "pembawa_acara": "Robby Purba Sere Kalina, Indra Bekti Fina Phillipe, Prastiwi Dwiarti Chika Jessica Audrey Vanessa",
+      "lifetime_achievement": "James F. Sundah Jan Djuhana Jopie Item",
+      "legend_award": "",
+      "penyiar": "Astha, Garuda TV"
+    },
+    {
+      "acara": "AMI Awards ke-29",
+      "tanggal": "4 November 2026",
+      "lokasi": "Ciputra Artpreneur",
+      "tema": "\"Ruang Nada Nusantara\"",
+      "pembawa_acara": "Rian Ibram Jesslyn Lim, Indra Herlambang Astrid Tiar, Aldi Tama Fina Phillipe",
+      "lifetime_achievement": "Tito Soemarsono Indrawati Widjaja Zainal Combo",
+      "legend_award": "A. Riyanto",
+      "penyiar": "TVRI, Garuda TV, Max Reels"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Upacara Anugerah Musik Indonesia (AMI Awards) - Free Download",
+    "description": "Daftar penyelenggaraan Anugerah Musik Indonesia sejak 1997: tanggal, lokasi, tema, pembawa acara, penerima Lifetime Achievement dan Legend Award, serta stasiun penyiar. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Upacara Anugerah Musik Indonesia (AMI Awards) | ListBase",
+    "seo_description": "Download Daftar Upacara Anugerah Musik Indonesia (AMI Awards) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Anugerah_Musik_Indonesia"
+    ]
+  }
+}

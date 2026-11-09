@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-06T02:33:12.861Z",
-  "total_datasets": 623,
-  "total_records": 653183,
+  "generated": "2026-11-09T02:27:57.153Z",
+  "total_datasets": 624,
+  "total_records": 653213,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -7041,6 +7041,35 @@
         "xlsx": {
           "name": "id-album-terlaris_ID.xlsx",
           "size": 8193
+        }
+      }
+    },
+    {
+      "id": "id-anugerah-musik-indonesia-upacara",
+      "name": "Daftar Upacara Anugerah Musik Indonesia (AMI Awards)",
+      "category": "music",
+      "record_count": 30,
+      "columns": [
+        "acara",
+        "tanggal",
+        "lokasi",
+        "tema",
+        "pembawa_acara",
+        "lifetime_achievement",
+        "legend_award",
+        "penyiar"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Anugerah_Musik_Indonesia",
+      "updated": "2026-11",
+      "size": 12144,
+      "files": {
+        "csv": {
+          "name": "id-anugerah-musik-indonesia-upacara_ID.csv",
+          "size": 4885
+        },
+        "xlsx": {
+          "name": "id-anugerah-musik-indonesia-upacara_ID.xlsx",
+          "size": 9838
         }
       }
     },
