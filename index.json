@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-09T02:27:57.153Z",
-  "total_datasets": 624,
-  "total_records": 653213,
+  "generated": "2026-11-09T02:28:05.766Z",
+  "total_datasets": 625,
+  "total_records": 653285,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -14468,6 +14468,32 @@
         "xlsx": {
           "name": "id-zona-waktu-metazona_ID.xlsx",
           "size": 13203
+        }
+      }
+    },
+    {
+      "id": "id-binatang-endemik-indonesia",
+      "name": "Daftar Binatang Endemik Indonesia",
+      "category": "science",
+      "record_count": 72,
+      "columns": [
+        "nama_latin",
+        "famili",
+        "daerah_endemisme",
+        "nama_lokal",
+        "nama_asing"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_nama_binatang_endemik_Indonesia",
+      "updated": "2026-11",
+      "size": 15699,
+      "files": {
+        "csv": {
+          "name": "id-binatang-endemik-indonesia_ID.csv",
+          "size": 5522
+        },
+        "xlsx": {
+          "name": "id-binatang-endemik-indonesia_ID.xlsx",
+          "size": 10533
         }
       }
     },
