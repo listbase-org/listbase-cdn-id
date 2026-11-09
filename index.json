@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-09T02:28:24.956Z",
-  "total_datasets": 627,
-  "total_records": 655064,
+  "generated": "2026-11-09T02:28:33.626Z",
+  "total_datasets": 628,
+  "total_records": 655473,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -6583,6 +6583,30 @@
         "xlsx": {
           "name": "id-kata-serapan-bahasa-belanda_ID.xlsx",
           "size": 37132
+        }
+      }
+    },
+    {
+      "id": "id-kata-serapan-bahasa-portugis",
+      "name": "Daftar Kata Serapan dari Bahasa Portugis dalam Bahasa Indonesia",
+      "category": "language",
+      "record_count": 409,
+      "columns": [
+        "kata_indonesia",
+        "kata_asal",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kata_serapan_dari_bahasa_Portugis_dalam_bahasa_Indonesia",
+      "updated": "2026-11",
+      "size": 42991,
+      "files": {
+        "csv": {
+          "name": "id-kata-serapan-bahasa-portugis_ID.csv",
+          "size": 9389
+        },
+        "xlsx": {
+          "name": "id-kata-serapan-bahasa-portugis_ID.xlsx",
+          "size": 16337
         }
       }
     },
