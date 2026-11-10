@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-10T02:32:56.314Z",
-  "total_datasets": 631,
-  "total_records": 656400,
+  "generated": "2026-11-10T02:33:04.286Z",
+  "total_datasets": 632,
+  "total_records": 656487,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -810,6 +810,34 @@
         "xlsx": {
           "name": "id-perguruan-tinggi-keagamaan-negeri_ID.xlsx",
           "size": 11265
+        }
+      }
+    },
+    {
+      "id": "id-perguruan-tinggi-kementerian-lembaga",
+      "name": "Daftar Perguruan Tinggi Kementerian dan Lembaga (Sekolah Kedinasan) di Indonesia",
+      "category": "education",
+      "record_count": 87,
+      "columns": [
+        "code",
+        "name",
+        "acronym",
+        "founded",
+        "ministry_or_agency",
+        "legal_basis",
+        "location"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_kementerian_dan_lembaga_di_Indonesia",
+      "updated": "2026-11",
+      "size": 28691,
+      "files": {
+        "csv": {
+          "name": "id-perguruan-tinggi-kementerian-lembaga_ID.csv",
+          "size": 13766
+        },
+        "xlsx": {
+          "name": "id-perguruan-tinggi-kementerian-lembaga_ID.xlsx",
+          "size": 12600
         }
       }
     },

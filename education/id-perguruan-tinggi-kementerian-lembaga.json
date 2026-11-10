@@ -1,0 +1,844 @@
+{
+  "id": "id-perguruan-tinggi-kementerian-lembaga",
+  "name": "Daftar Perguruan Tinggi Kementerian dan Lembaga (Sekolah Kedinasan) di Indonesia",
+  "title": "Daftar Perguruan Tinggi Kementerian dan Lembaga (Sekolah Kedinasan) di Indonesia",
+  "description": "Perguruan tinggi yang diselenggarakan kementerian dan lembaga negara (sekolah kedinasan) di Indonesia: kode PT, akronim, tahun berdiri, lembaga induk, dasar hukum dan lokasi.",
+  "category": "education",
+  "source": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_kementerian_dan_lembaga_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_kementerian_dan_lembaga_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "ministry_or_agency",
+      "label": "Ministry Or Agency",
+      "type": "string"
+    },
+    {
+      "key": "legal_basis",
+      "label": "Legal Basis",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "342001",
+      "name": "Institut Pemerintahan Dalam Negeri",
+      "acronym": "IPDN",
+      "founded": 1956,
+      "ministry_or_agency": "Kementerian Dalam Negeri",
+      "legal_basis": "PERPRES Nomor 1 Tahun 2009",
+      "location": "Sumedang, Jawa Barat"
+    },
+    {
+      "code": "355001",
+      "name": "Politeknik Energi dan Mineral Akamigas",
+      "acronym": "PEM Akamigas",
+      "founded": 1967,
+      "ministry_or_agency": "Kementerian Energi dan Sumber Daya Mineral",
+      "legal_basis": "Permen ESDM Nomor 55 Tahun 2017",
+      "location": "Blora, Jawa Tengah"
+    },
+    {
+      "code": "355002",
+      "name": "Politeknik Energi dan Pertambangan Bandung",
+      "acronym": "PEP Bandung",
+      "founded": 2019,
+      "ministry_or_agency": "Kementerian Energi dan Sumber Daya Mineral",
+      "legal_basis": "Permen ESDM Nomor 6 Tahun 2019",
+      "location": "Bandung, Jawa Barat"
+    },
+    {
+      "code": "365002",
+      "name": "Politeknik Pengayoman Indonesia",
+      "acronym": "POLTEKPIN",
+      "founded": 2024,
+      "ministry_or_agency": "Kementerian Hukum",
+      "legal_basis": "Peraturan Menteri Hukum dan HAM Nomor 17 Tahun 2024",
+      "location": "Depok, Jawa Barat"
+    },
+    {
+      "code": "373001",
+      "name": "Sekolah Tinggi Multi Media MMTC Yogyakarta",
+      "acronym": "STMM MMTC",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Komunikasi dan Digital",
+      "legal_basis": "Permen Kominfo Nomor 29 Tahun 2014",
+      "location": "Sleman, DI Yogyakarta"
+    },
+    {
+      "code": "385001",
+      "name": "Politeknik Pariwisata Makassar",
+      "acronym": "Poltekpar Makassar",
+      "founded": 1991,
+      "ministry_or_agency": "Kementerian Pariwisata",
+      "legal_basis": "",
+      "location": "Makassar, Sulawesi Selatan"
+    },
+    {
+      "code": "385002",
+      "name": "Politeknik Pariwisata Medan",
+      "acronym": "Poltekpar Medan",
+      "founded": 1991,
+      "ministry_or_agency": "Kementerian Pariwisata",
+      "legal_basis": "",
+      "location": "Medan, Sumatera Utara"
+    },
+    {
+      "code": "385003",
+      "name": "Politeknik Pariwisata Lombok",
+      "acronym": "Poltekpar Lombok",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Pariwisata",
+      "legal_basis": "",
+      "location": "Lombok Tengah, NTB"
+    },
+    {
+      "code": "385004",
+      "name": "Politeknik Pariwisata Palembang",
+      "acronym": "Poltekpar Palembang",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Pariwisata",
+      "legal_basis": "",
+      "location": "Palembang, Sumatera Selatan"
+    },
+    {
+      "code": "385005",
+      "name": "Politeknik Pariwisata Bali",
+      "acronym": "Poltekpar Bali",
+      "founded": 1978,
+      "ministry_or_agency": "Kementerian Pariwisata",
+      "legal_basis": "",
+      "location": "Badung, Bali"
+    },
+    {
+      "code": "385006",
+      "name": "Politeknik Pariwisata NHI Bandung",
+      "acronym": "Poltekpar NHI Bandung",
+      "founded": 1993,
+      "ministry_or_agency": "Kementerian Pariwisata",
+      "legal_basis": "",
+      "location": "Bandung, Jawa Barat"
+    },
+    {
+      "code": "395001",
+      "name": "Politeknik Kelautan dan Perikanan Sorong",
+      "acronym": "POLTEK KP Sorong",
+      "founded": 2001,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 55/PERMEN-KP/2014 Tahun 2014",
+      "location": "Sorong, Papua Barat Daya"
+    },
+    {
+      "code": "395002",
+      "name": "Politeknik Kelautan dan Perikanan Bitung",
+      "acronym": "POLTEK KP Bitung",
+      "founded": 1957,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 55/PERMEN-KP/2014 Tahun 2014",
+      "location": "Bitung, Sulawesi Utara"
+    },
+    {
+      "code": "395003",
+      "name": "Politeknik Kelautan dan Perikanan Sidoarjo",
+      "acronym": "POLTEK KP Sidoarjo",
+      "founded": 1982,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 55/PERMEN-KP/2014 Tahun 2014",
+      "location": "Sidoarjo, Jawa Timur"
+    },
+    {
+      "code": "395004",
+      "name": "Politeknik Kelautan dan Perikanan Karawang",
+      "acronym": "POLTEK KP Karawang",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 62/PERMEN-KP/2016 Tahun 2016",
+      "location": "Karawang, Jawa Barat"
+    },
+    {
+      "code": "395005",
+      "name": "Politeknik Kelautan dan Perikanan Bone",
+      "acronym": "POLTEK KP Bone",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 64/PERMEN-KP/2016 Tahun 2016",
+      "location": "Bone, Sulawesi Selatan"
+    },
+    {
+      "code": "395006",
+      "name": "Politeknik Kelautan dan Perikanan Kupang",
+      "acronym": "POLTEK KP Kupang",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 63/PERMEN-KP/2016 Tahun 2016",
+      "location": "Kupang, NTT"
+    },
+    {
+      "code": "395007",
+      "name": "Politeknik Kelautan dan Perikanan Dumai",
+      "acronym": "PKPD",
+      "founded": 2017,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 45/PERMEN-KP/2018 Tahun 2018",
+      "location": "Dumai, Riau"
+    },
+    {
+      "code": "395008",
+      "name": "Politeknik Kelautan dan Perikanan Pangandaran",
+      "acronym": "PKPP",
+      "founded": 2019,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 46/PERMEN-KP/2018 Tahun 2018",
+      "location": "Pangandaran, Jawa Barat"
+    },
+    {
+      "code": "395009",
+      "name": "Politeknik Kelautan dan Perikanan Jembrana",
+      "acronym": "PKPJ",
+      "founded": 2019,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 15/PERMEN-KP/2019 Tahun 2019",
+      "location": "Jembrana, Bali"
+    },
+    {
+      "code": "395010",
+      "name": "Politeknik Ahli Usaha Perikanan",
+      "acronym": "Politeknik AUP",
+      "founded": 1962,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 45/PERMEN-KP/2019 Tahun 2019",
+      "location": "Jakarta"
+    },
+    {
+      "code": "395001",
+      "name": "Akademi Komunitas Kelautan dan Perikanan Wakatobi",
+      "acronym": "AKKP Wakatobi",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Kelautan dan Perikanan",
+      "legal_basis": "Permen KKP Nomor 19/PERMEN-KP/2018 Tahun 2018",
+      "location": "Wakatobi, Sulawesi Tenggara"
+    },
+    {
+      "code": "415001",
+      "name": "Politeknik Keuangan Negara STAN",
+      "acronym": "PKN STAN",
+      "founded": 1952,
+      "ministry_or_agency": "Kementerian Keuangan",
+      "legal_basis": "Peraturan Menteri Keuangan Nomor 137/PMK.01/2015 Tahun 2015",
+      "location": "Tangerang Selatan, Banten"
+    },
+    {
+      "code": "423001",
+      "name": "Sekolah Tinggi Ilmu Pelayaran Jakarta",
+      "acronym": "STIP JAKARTA",
+      "founded": 1957,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Keputusan Presiden Nomor 42 Tahun 2000",
+      "location": "Jakarta"
+    },
+    {
+      "code": "424008",
+      "name": "Politeknik Pelayaran Barombong",
+      "acronym": "POLTEKPEL BAROMBONG",
+      "founded": 1980,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 29 Tahun 2019",
+      "location": "Makassar, Sulawesi Selatan"
+    },
+    {
+      "code": "424009",
+      "name": "Akademi Penerbang Indonesia",
+      "acronym": "API BANYUWANGI",
+      "founded": 2015,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 26 Tahun 2019",
+      "location": "Banyuwangi, Jawa Timur"
+    },
+    {
+      "code": "425006",
+      "name": "Politeknik Keselamatan Transportasi Jalan",
+      "acronym": "PKTJ",
+      "founded": 1971,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 15 Tahun 2012",
+      "location": "Tegal, Jawa Tengah"
+    },
+    {
+      "code": "425007",
+      "name": "Politeknik Ilmu Pelayaran Makassar",
+      "acronym": "PIP MAKASSAR",
+      "founded": 1921,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 42 Tahun 2014",
+      "location": "Makassar, Sulawesi Selatan"
+    },
+    {
+      "code": "425008",
+      "name": "Politeknik Ilmu Pelayaran Semarang",
+      "acronym": "PIP SEMARANG",
+      "founded": 1942,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 43 Tahun 2014",
+      "location": "Semarang, Jawa Tengah"
+    },
+    {
+      "code": "425009",
+      "name": "Politeknik Pelayaran Surabaya",
+      "acronym": "POLTEKPEL SURABAYA",
+      "founded": 1982,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 14 Tahun 2013",
+      "location": "Surabaya, Jawa Timur"
+    },
+    {
+      "code": "425010",
+      "name": "Politeknik Penerbangan Surabaya",
+      "acronym": "POLTEKBANG SURABAYA",
+      "founded": 1989,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 32 Tahun 2017",
+      "location": "Surabaya, Jawa Timur"
+    },
+    {
+      "code": "425011",
+      "name": "Politeknik Pelayaran Sumatera Barat",
+      "acronym": "POLTEKPEL SUMBAR",
+      "founded": 2015,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 5 Tahun 2018",
+      "location": "Padang Pariaman, Sumatera Barat"
+    },
+    {
+      "code": "425012",
+      "name": "Politeknik Transportasi Sungai, Danau, dan Penyeberangan Palembang",
+      "acronym": "POLTEKTRANS SDP PALEMBANG",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 62 Tahun 2018",
+      "location": "Palembang, Sumatera Selatan"
+    },
+    {
+      "code": "425013",
+      "name": "Politeknik Pelayaran Banten",
+      "acronym": "POLTEKPEL BANTEN",
+      "founded": 2002,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 25 Tahun 2019",
+      "location": "Tangerang, Banten"
+    },
+    {
+      "code": "425014",
+      "name": "Politeknik Transportasi Darat Bali",
+      "acronym": "POLTRADA BALI",
+      "founded": 2002,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 30 Tahun 2019",
+      "location": "Gianyar, Bali"
+    },
+    {
+      "code": "425015",
+      "name": "Politeknik Pelayaran Sorong",
+      "acronym": "POLTEKPEL SORONG",
+      "founded": 2007,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 31 Tahun 2019",
+      "location": "Sorong, Papua Barat Daya"
+    },
+    {
+      "code": "425016",
+      "name": "Politeknik Pelayaran Malahayati",
+      "acronym": "POLTEKPEL ACEH",
+      "founded": 2010,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 27 Tahun 2019",
+      "location": "Aceh Besar, Aceh"
+    },
+    {
+      "code": "425017",
+      "name": "Politeknik Perkeretaapian Indonesia",
+      "acronym": "PPI MADIUN",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 43 Tahun 2019",
+      "location": "Madiun, Jawa Timur"
+    },
+    {
+      "code": "425018",
+      "name": "Politeknik Penerbangan Indonesia Curug",
+      "acronym": "PPI CURUG",
+      "founded": 1952,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 47 Tahun 2019",
+      "location": "Tangerang, Banten"
+    },
+    {
+      "code": "425019",
+      "name": "Politeknik Penerbangan Palembang",
+      "acronym": "POLTEKBANG PALEMBANG",
+      "founded": 1989,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 24 Tahun 2019",
+      "location": "Palembang, Sumatera Selatan"
+    },
+    {
+      "code": "425020",
+      "name": "Politeknik Penerbangan Jayapura",
+      "acronym": "POLTEKBANG JAYAPURA",
+      "founded": 2002,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 28 Tahun 2019",
+      "location": "Jayapura, Papua"
+    },
+    {
+      "code": "425021",
+      "name": "Politeknik Penerbangan Makassar",
+      "acronym": "POLTEKBANG MAKASSAR",
+      "founded": 1984,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 48 Tahun 2019",
+      "location": "Makassar, Sulawesi Selatan"
+    },
+    {
+      "code": "425022",
+      "name": "Politeknik Penerbangan Medan",
+      "acronym": "POLTEKBANG MEDAN",
+      "founded": 1989,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 51 Tahun 2019",
+      "location": "Medan, Sumatera Utara"
+    },
+    {
+      "code": "425023",
+      "name": "Politeknik Pelayaran Sulawesi Utara",
+      "acronym": "POLTEKPEL SULUT",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 42 Tahun 2019",
+      "location": "Minahasa Selatan, Sulawesi Utara"
+    },
+    {
+      "code": "425024",
+      "name": "Politeknik Transportasi Darat Indonesia - STTD",
+      "acronym": "PTDI-STTD",
+      "founded": 1951,
+      "ministry_or_agency": "Kementerian Perhubungan",
+      "legal_basis": "Peraturan Menteri Perhubungan Nomor 50 Tahun 2019",
+      "location": "Bekasi, Jawa Barat"
+    },
+    {
+      "code": "435006",
+      "name": "Politeknik APP Jakarta",
+      "acronym": "POLTEK APP",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud Nomor 493/E/O/2014",
+      "location": "Jakarta"
+    },
+    {
+      "code": "435005",
+      "name": "Politeknik AKA Bogor",
+      "acronym": "POLTEK AKA",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud Nomor 496/E/O/2014",
+      "location": "Bogor, Jawa Barat"
+    },
+    {
+      "code": "435007",
+      "name": "Politeknik ATK Yogyakarta",
+      "acronym": "Politeknik ATK Yogyakarta",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud Nomor 498/E/O/2014",
+      "location": "Bantul, DI Yogyakarta"
+    },
+    {
+      "code": "435003",
+      "name": "Politeknik ATI Padang",
+      "acronym": "POLTEK ATI Padang",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud 6898/E/O/2014",
+      "location": "Padang, Sumatera Barat"
+    },
+    {
+      "code": "435008",
+      "name": "Politeknik ATI Makassar",
+      "acronym": "POLTEK ATIM",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud 494/E/O/2014",
+      "location": "Makassar, Sulawesi Selatan"
+    },
+    {
+      "code": "435010",
+      "name": "Politeknik Industri Furnitur dan Pengolahan Kayu",
+      "acronym": "POLIFURNEKA",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbudristek 538/KPT/I/2018",
+      "location": "Kendal, Jawa Tengah"
+    },
+    {
+      "code": "435009",
+      "name": "Politeknik Industri Logam Morowali",
+      "acronym": "PILM",
+      "founded": 2016,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbudristek No. 303/KPT/I/2016",
+      "location": "Morowali, Sulawesi Tengah"
+    },
+    {
+      "code": "435011",
+      "name": "Politeknik Industri Petrokimia Banten",
+      "acronym": "POLTEK PETROKIMIA",
+      "founded": 2022,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Permenperin No. 29 Tahun 2022",
+      "location": "Serang, Banten"
+    },
+    {
+      "code": "435002",
+      "name": "Politeknik STMI Jakarta",
+      "acronym": "POLTEK STMI",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud 499/E/O/2014",
+      "location": "Jakarta"
+    },
+    {
+      "code": "435004",
+      "name": "Politeknik STTT Bandung",
+      "acronym": "POLTEK STTT",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Kepmendikbud 497/E/O/2014",
+      "location": "Bandung, Jawa Barat"
+    },
+    {
+      "code": "435001",
+      "name": "Politeknik Teknologi Kimia Industri Medan",
+      "acronym": "PTKI Medan",
+      "founded": 2014,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "B/3867/M.PAN-RB/10/2014",
+      "location": "Medan, Sumatera Utara"
+    },
+    {
+      "code": "436001",
+      "name": "Akademi Komunitas Industri Manufaktur Bantaeng",
+      "acronym": "AK-MANUFAKTUR Bantaeng",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "Permenperin No. 9 tahun 2018",
+      "location": "Bantaeng, Sulawesi Selatan"
+    },
+    {
+      "code": "434009",
+      "name": "Akademi Komunitas Industri Tekstil dan Produk Tekstil Surakarta",
+      "acronym": "AK-TEKSTIL Solo",
+      "founded": 2015,
+      "ministry_or_agency": "Kementerian Perindustrian",
+      "legal_basis": "B/3102/M.PAN-RB/09/2015",
+      "location": "Surakarta, Jawa Tengah"
+    },
+    {
+      "code": "445001",
+      "name": "Politeknik Pembangunan Pertanian Malang",
+      "acronym": "POLBANGTAN MALANG",
+      "founded": 1986,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 25/PERMENTAN/OT.020/5/2018 Tahun 2018",
+      "location": "Malang, Jawa Timur"
+    },
+    {
+      "code": "445002",
+      "name": "Politeknik Pembangunan Pertanian Manokwari",
+      "acronym": "POLBANGTAN MANOKWARI",
+      "founded": 1987,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 25/PERMENTAN/OT.020/5/2018 Tahun 2018",
+      "location": "Manokwari, Papua Barat"
+    },
+    {
+      "code": "445003",
+      "name": "Politeknik Pembangunan Pertanian Medan",
+      "acronym": "POLBANGTAN MEDAN",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 25/PERMENTAN/OT.020/5/2018 Tahun 2018",
+      "location": "Medan, Sumatera Utara"
+    },
+    {
+      "code": "445004",
+      "name": "Politeknik Pembangunan Pertanian Yogyakarta-Magelang",
+      "acronym": "POLBANGTAN YOMA",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 25/PERMENTAN/OT.020/5/2018 Tahun 2018",
+      "location": "Magelang, Jawa Tengah Kota Yogyakarta, DI Yogyakarta"
+    },
+    {
+      "code": "445005",
+      "name": "Politeknik Pembangunan Pertanian Gowa",
+      "acronym": "POLBANGTAN GOWA",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 25/PERMENTAN/OT.020/5/2018 Tahun 2018",
+      "location": "Gowa, Sulawesi Selatan"
+    },
+    {
+      "code": "445006",
+      "name": "Politeknik Pembangunan Pertanian Bogor",
+      "acronym": "POLBANGTAN BOGOR",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 25/PERMENTAN/OT.020/5/2018 Tahun 2018",
+      "location": "Bogor, Jawa Barat"
+    },
+    {
+      "code": "445007",
+      "name": "Politeknik Enjiniring Pertanian Indonesia",
+      "acronym": "PEPI",
+      "founded": 2019,
+      "ministry_or_agency": "Kementerian Pertanian",
+      "legal_basis": "Peraturan Menteri Pertanian Nomor 28 Tahun 2019",
+      "location": "Tangerang, Banten"
+    },
+    {
+      "code": "455001",
+      "name": "Politeknik Kesejahteraan Sosial",
+      "acronym": "POLTEKESOS",
+      "founded": 1964,
+      "ministry_or_agency": "Kementerian Sosial",
+      "legal_basis": "Peraturan Menteri Sosial Nomor 4 Tahun 2019",
+      "location": "Bandung, Jawa Barat"
+    },
+    {
+      "code": "471001",
+      "name": "Universitas Pertahanan",
+      "acronym": "UNHAN",
+      "founded": 2009,
+      "ministry_or_agency": "Kementerian Pertahanan",
+      "legal_basis": "Surat Mendiknas Nomor 29/MPN/OT/2009 tentang pendirian Unhan",
+      "location": "Bogor, Jawa Barat"
+    },
+    {
+      "code": "504001",
+      "name": "Akademi Metrologi dan Instrumentasi",
+      "acronym": "AKMET",
+      "founded": 2015,
+      "ministry_or_agency": "Kementerian Perdagangan",
+      "legal_basis": "",
+      "location": "Sumedang, Jawa Barat"
+    },
+    {
+      "code": "525001",
+      "name": "Politeknik Pekerjaan Umum",
+      "acronym": "Poltek PU",
+      "founded": 2018,
+      "ministry_or_agency": "Kementerian Pekerjaan Umum",
+      "legal_basis": "Peraturan Menteri PUPR Nomor 6/PRT/M/2019 Tahun 2019",
+      "location": "Semarang, Jawa Tengah"
+    },
+    {
+      "code": "535001",
+      "name": "Politeknik Ketenagakerjaan",
+      "acronym": "Poltek Naker",
+      "founded": 2017,
+      "ministry_or_agency": "Kementerian Ketenagakerjaan",
+      "legal_basis": "Peraturan Menteri Ketenagakerjaan Nomor 13 Tahun 2017",
+      "location": "Ciracas, Jakarta Timur"
+    },
+    {
+      "code": "313001",
+      "name": "Sekolah Tinggi Pertanahan Nasional",
+      "acronym": "STPN",
+      "founded": 1963,
+      "ministry_or_agency": "Kementerian Agraria dan Tata Ruang / Badan Pertanahan Nasional",
+      "legal_basis": "Keputusan Presiden Nomor 25 Tahun 1993",
+      "location": "Sleman, DI Yogyakarta"
+    },
+    {
+      "code": "303001",
+      "name": "Sekolah Tinggi Meteorologi, Klimatologi, dan Geofisika",
+      "acronym": "STMKG",
+      "founded": 1955,
+      "ministry_or_agency": "Badan Meteorologi, Klimatologi, dan Geofisika",
+      "legal_basis": "PERPRES Nomor 35 Tahun 2014",
+      "location": "Tangerang Selatan, Banten"
+    },
+    {
+      "code": "325001",
+      "name": "Politeknik Teknologi Nuklir",
+      "acronym": "POLTEK NUKLIR",
+      "founded": 1985,
+      "ministry_or_agency": "Badan Riset dan Inovasi Nasional",
+      "legal_basis": "Peraturan BRIN Nomor 13 tahun 2021",
+      "location": "Sleman, DI Yogyakarta"
+    },
+    {
+      "code": "335001",
+      "name": "Politeknik Statistika STIS",
+      "acronym": "POLSTAT STIS",
+      "founded": 1958,
+      "ministry_or_agency": "Badan Pusat Statistik",
+      "legal_basis": "Peraturan Kepala BPS Nomor 87 Tahun 2017",
+      "location": "Jakarta"
+    },
+    {
+      "code": "465001",
+      "name": "Politeknik Siber dan Sandi Negara",
+      "acronym": "POLTEK SSN",
+      "founded": 2003,
+      "ministry_or_agency": "Badan Siber dan Sandi Negara",
+      "legal_basis": "Peraturan BSSN Nomor 12 Tahun 2019",
+      "location": "Bogor, Jawa Barat"
+    },
+    {
+      "code": "495001",
+      "name": "Politeknik STIA LAN Jakarta",
+      "acronym": "STIA LAN JAKARTA",
+      "founded": 1999,
+      "ministry_or_agency": "Lembaga Administrasi Negara",
+      "legal_basis": "Peraturan LAN Nomor 9 Tahun 2020",
+      "location": "Jakarta"
+    },
+    {
+      "code": "495002",
+      "name": "Politeknik STIA LAN Bandung",
+      "acronym": "STIA LAN BANDUNG",
+      "founded": 1999,
+      "ministry_or_agency": "Lembaga Administrasi Negara",
+      "legal_basis": "Peraturan LAN Nomor 9 Tahun 2020",
+      "location": "Bandung, Jawa Barat"
+    },
+    {
+      "code": "495003",
+      "name": "Politeknik STIA LAN Makassar",
+      "acronym": "STIA LAN MAKASSAR",
+      "founded": 1999,
+      "ministry_or_agency": "Lembaga Administrasi Negara",
+      "legal_basis": "Peraturan LAN Nomor 9 Tahun 2020",
+      "location": "Makassar, Sulawesi Selatan"
+    },
+    {
+      "code": "513001",
+      "name": "Sekolah Tinggi Intelijen Negara",
+      "acronym": "STIN",
+      "founded": 2004,
+      "ministry_or_agency": "Badan Intelijen Negara",
+      "legal_basis": "PERPRES Nomor 14 Tahun 2009",
+      "location": "Bogor, Jawa Barat"
+    },
+    {
+      "code": "473003",
+      "name": "Sekolah Tinggi Hukum Militer AHM-PTHM",
+      "acronym": "STHM",
+      "founded": 1952,
+      "ministry_or_agency": "TNI-AD",
+      "legal_basis": "",
+      "location": "Jakarta"
+    },
+    {
+      "code": "474001",
+      "name": "Akademi Militer",
+      "acronym": "AKMIL",
+      "founded": 1957,
+      "ministry_or_agency": "TNI-AD",
+      "legal_basis": "",
+      "location": "Magelang, Jawa Tengah"
+    },
+    {
+      "code": "475001",
+      "name": "Politeknik Angkatan Darat",
+      "acronym": "POLTEKAD",
+      "founded": 1988,
+      "ministry_or_agency": "TNI-AD",
+      "legal_basis": "",
+      "location": "Batu, Jawa Timur"
+    },
+    {
+      "code": "474003",
+      "name": "Akademi Angkatan Laut",
+      "acronym": "AAL",
+      "founded": 1951,
+      "ministry_or_agency": "TNI-AL",
+      "legal_basis": "",
+      "location": "Surabaya, Jawa Timur"
+    },
+    {
+      "code": "473001",
+      "name": "Sekolah Tinggi Teknologi Angkatan Laut",
+      "acronym": "STTAL",
+      "founded": 1966,
+      "ministry_or_agency": "TNI-AL",
+      "legal_basis": "",
+      "location": "Surabaya, Jawa Timur"
+    },
+    {
+      "code": "474002",
+      "name": "Akademi Angkatan Udara",
+      "acronym": "AAU",
+      "founded": 1965,
+      "ministry_or_agency": "TNI-AU",
+      "legal_basis": "",
+      "location": "Sleman, DI Yogyakarta"
+    },
+    {
+      "code": "483001",
+      "name": "Sekolah Tinggi Ilmu Kepolisian",
+      "acronym": "STIK-PTIK",
+      "founded": 1950,
+      "ministry_or_agency": "POLRI",
+      "legal_basis": "",
+      "location": "Jakarta"
+    },
+    {
+      "code": "484001",
+      "name": "Akademi Kepolisian",
+      "acronym": "AKPOL",
+      "founded": 1965,
+      "ministry_or_agency": "POLRI",
+      "legal_basis": "",
+      "location": "Semarang, Jawa Tengah"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Perguruan Tinggi Kementerian dan Lembaga (Sekolah Kedinasan) di Indonesia - Free Download",
+    "description": "Perguruan tinggi yang diselenggarakan kementerian dan lembaga negara (sekolah kedinasan) di Indonesia: kode PT, akronim, tahun berdiri, lembaga induk, dasar hukum dan lokasi. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Perguruan Tinggi Kementerian dan Lembaga (Sekolah Kedinasan) di Indonesia | ListBase",
+    "seo_description": "Download Daftar Perguruan Tinggi Kementerian dan Lembaga (Sekolah Kedinasan) di Indonesia — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_kementerian_dan_lembaga_di_Indonesia"
+    ]
+  }
+}
