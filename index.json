@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-09T02:28:33.626Z",
-  "total_datasets": 628,
-  "total_records": 655473,
+  "generated": "2026-11-10T02:32:42.440Z",
+  "total_datasets": 629,
+  "total_records": 655551,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1123,6 +1123,33 @@
         "xlsx": {
           "name": "id-stasiun-televisi_ID.xlsx",
           "size": 10114
+        }
+      }
+    },
+    {
+      "id": "id-bencana-paling-mematikan",
+      "name": "Daftar Bencana Paling Mematikan di Indonesia",
+      "category": "environment",
+      "record_count": 78,
+      "columns": [
+        "deaths",
+        "year",
+        "event",
+        "type",
+        "location",
+        "notes"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia",
+      "updated": "2026-11",
+      "size": 20081,
+      "files": {
+        "csv": {
+          "name": "id-bencana-paling-mematikan_ID.csv",
+          "size": 9702
+        },
+        "xlsx": {
+          "name": "id-bencana-paling-mematikan_ID.xlsx",
+          "size": 11820
         }
       }
     },

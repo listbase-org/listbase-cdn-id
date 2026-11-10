@@ -1,0 +1,680 @@
+{
+  "id": "id-bencana-paling-mematikan",
+  "name": "Daftar Bencana Paling Mematikan di Indonesia",
+  "title": "Daftar Bencana Paling Mematikan di Indonesia",
+  "description": "Bencana alam, wabah dan kecelakaan paling mematikan dalam sejarah Indonesia: jumlah korban jiwa, tahun, jenis bencana dan lokasi.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "event",
+      "label": "Event",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "deaths": "4.370.000",
+      "year": "1918–1920",
+      "event": "Flu Spanyol",
+      "type": "Pandemi",
+      "location": "Seluruh Indonesia",
+      "notes": "Flu Spanyol di Indonesia. Wabah Flu spanyol ini diperkirakan memakan korban sebanyak 1,5 juta orang tewas di Indonesia. Perkiraan terbaru menyatakan bahwa jumlah korban jauh lebih banyak, mencapai 4,26–4,37 juta di Jawa dan Madura saja."
+    },
+    {
+      "deaths": "1.000.000 (perkiraan)",
+      "year": "2020–2023",
+      "event": "Pandemi Covid-19",
+      "type": "Pandemi",
+      "location": "Seluruh Indonesia",
+      "notes": "Pandemi Covid-19 di Indonesia. Per tanggal 5 Februari 2023 pukul 18:00 WIB (UTC+7), Pandemi ini diperkirakan telah menyebabkan setidaknya 1 juta korban jiwa di Indonesia. Jumlah kematian mungkin jauh lebih tinggi daripada yang dilaporkan karena mereka yang meninggal dengan gejala COVID-19 akut tetapi belum terkonfirmasi atau dites tidak dihitung dalam angka kematian resmi."
+    },
+    {
+      "deaths": "167.799",
+      "year": "2004",
+      "event": "Gempa bumi dan tsunami Samudra Hindia 2004",
+      "type": "Gempa bumi, tsunami",
+      "location": "Sumatra, Aceh",
+      "notes": "Bencana alam terfatal di Indonesia. Setidaknya 167.799 korban jiwa terkonfirmasi, termasuk 60.000 korban tewas di Banda Aceh saja. Total korban tewas mencapai 227.898, sekitar 14 negara terkena dampaknya."
+    },
+    {
+      "deaths": "105.000",
+      "year": "1815",
+      "event": "Letusan Tambora 1815",
+      "type": "Letusan gunung api",
+      "location": "Sumbawa, Kepulauan Nusa Tenggara",
+      "notes": "10.000 hingga 11.000 korban jiwa akibat dampak langsung gunung berapi; 49.000 hingga 105.000 korban jiwa akibat kelaparan pasca letusan dan penyakit epidemi di Sumbawa, Lombok dan Bali; penurunan suhu global pada tahun berikutnya yang menyebabkan kelaparan di berbagai wilayah."
+    },
+    {
+      "deaths": "> 40.000–60.000 (perkiraan)",
+      "year": "1987–Hingga saat ini",
+      "event": "Epidemi HIV/AIDS",
+      "type": "Epidemi",
+      "location": "Seluruh Indonesia",
+      "notes": "HIV/AIDS di Indonesia. Pada tahun 2010, diperkirakan 5 juta orang Indonesia mengidap HIV/AIDS. Berdasarkan sensus yang dilakukan pada tahun 2019, tercatat ada 640.443 orang di Indonesia yang hidup dengan HIV. Perkiraan korban jiwa akibat Epidemi ini mencapai 40.000 hingga 60.000"
+    },
+    {
+      "deaths": "36.417",
+      "year": "1883",
+      "event": "Letusan Krakatau 1883",
+      "type": "Letusan gunung api, tsunami",
+      "location": "Banten, Lampung, Jakarta",
+      "notes": "Bencana gunung berapi paling mematikan kedua dalam sejarah Indonesia."
+    },
+    {
+      "deaths": "11.453",
+      "year": "1815",
+      "event": "Gempa bumi Bali 1815",
+      "type": "Gempa bumi, tsunami, tanah longsor",
+      "location": "Bali",
+      "notes": "Lebih dari 10.000 orang tewas akibat tanah longsor di Singaraja dan Buleleng yang dipicu oleh gempa bumi."
+    },
+    {
+      "deaths": "10.000",
+      "year": "1586",
+      "event": "Letusan Gunung Kelud 1586",
+      "type": "Letusan gunung api",
+      "location": "Jawa Timur",
+      "notes": ""
+    },
+    {
+      "deaths": "6.234",
+      "year": "2006",
+      "event": "Gempa bumi Yogyakarta 2006",
+      "type": "Gempa bumi",
+      "location": "Daerah Istimewa Yogyakarta, Jawa Tengah",
+      "notes": "Perkiraan korban tewas antara 5.778 hingga 6.234. Sekitar 80% bangunan di Kabupaten Bantul dan Kabupaten Klaten hampir hancur total."
+    },
+    {
+      "deaths": "5.160",
+      "year": "1919",
+      "event": "Letusan Gunung Kelud 1919",
+      "type": "Letusan gunung api",
+      "location": "Jawa Timur",
+      "notes": ""
+    },
+    {
+      "deaths": "5.000",
+      "year": "1976",
+      "event": "Gempa bumi Irian Jaya 1976",
+      "type": "Gempa bumi, tanah longsor",
+      "location": "Papua",
+      "notes": ""
+    },
+    {
+      "deaths": "4.340",
+      "year": "2018",
+      "event": "Gempa bumi dan tsunami Sulawesi 2018",
+      "type": "Gempa bumi, tsunami, pencairan tanah",
+      "location": "Sulawesi Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "4.011",
+      "year": "1822",
+      "event": "Letusan Gunung Galunggung 1822",
+      "type": "Letusan gunung api",
+      "location": "Jawa Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "3.389",
+      "year": "1899",
+      "event": "Gempa bumi Pulau Seram 1899",
+      "type": "Gempa bumi, tsunami",
+      "location": "Pulau Seram",
+      "notes": ""
+    },
+    {
+      "deaths": "2.957",
+      "year": "1772",
+      "event": "Letusan Gunung Papandayan 1772",
+      "type": "Letusan gunung api",
+      "location": "Jawa Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "2.806",
+      "year": "1852",
+      "event": "Letusan Gunung Awu 1852",
+      "type": "Letusan gunung api",
+      "location": "Sulawesi Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "2.500",
+      "year": "1992",
+      "event": "Gempa bumi dan tsunami Flores 1992",
+      "type": "Gempa bumi, tsunami",
+      "location": "Flores, Nusa Tenggara Timur",
+      "notes": "Setidaknya 2.500 orang tewas atau hilang di wilayah Flores, termasuk 1.490 tewas di Maumere dan 700 di Pulau Babi."
+    },
+    {
+      "deaths": "2.347",
+      "year": "1674",
+      "event": "Gempa bumi dan megatsunami Ambon 1674",
+      "type": "Gempa bumi, tsunami",
+      "location": "Maluku",
+      "notes": ""
+    },
+    {
+      "deaths": "2.118",
+      "year": "1907",
+      "event": "Gempa bumi Sumatra 1907",
+      "type": "Gempa bumi, tsunami",
+      "location": "Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "2.000",
+      "year": "1861",
+      "event": "Gempa bumi Sumatra 1861",
+      "type": "Gempa bumi, tsunami",
+      "location": "Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "1.653",
+      "year": "1973",
+      "event": "Siklon Flores 1973",
+      "type": "Siklon tropis",
+      "location": "Flores, Nusa Tenggara Timur",
+      "notes": "Lebih dari 1.500 nelayan tewas di Pulau Palue."
+    },
+    {
+      "deaths": "1.549",
+      "year": "1963",
+      "event": "Letusan Gunung Agung 1963",
+      "type": "Letusan gunung api",
+      "location": "Bali",
+      "notes": ""
+    },
+    {
+      "deaths": "1.532",
+      "year": "1892",
+      "event": "Letusan Gunung Awu 1892",
+      "type": "Letusan gunung api",
+      "location": "Sulawesi Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "1.500",
+      "year": "1917",
+      "event": "Gempa bumi Bali 1917",
+      "type": "Gempa bumi",
+      "location": "Bali",
+      "notes": ""
+    },
+    {
+      "deaths": "1.369",
+      "year": "1930",
+      "event": "Letusan Merapi 1930",
+      "type": "Letusan gunung api",
+      "location": "Daerah Istimewa Yogyakarta, Jawa Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "1.314",
+      "year": "2005",
+      "event": "Gempa bumi Sumatra 2005",
+      "type": "Gempa bumi",
+      "location": "Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "1.308",
+      "year": "1998",
+      "event": "Kerusuhan Mei 1998",
+      "type": "Kerusuhan",
+      "location": "Jakarta, Surabaya, Surakarta, Medan",
+      "notes": "1.308 korban tewas akibat kerusuhan, termasuk Pembakaran Plaza Sentral Klender memakan lebih dari 400 korban jiwa."
+    },
+    {
+      "deaths": "1.200",
+      "year": "2025",
+      "event": "Banjir dan longsor Sumatra 2025 akibat Siklon Senyar",
+      "type": "Siklon tropis, banjir dan longsor",
+      "location": "Aceh, Sumatera Utara, Sumatera Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "1.189",
+      "year": "1999",
+      "event": "Kerusuhan Sambas",
+      "type": "Kerusuhan antar etnis",
+      "location": "Kabupaten Sambas, Kalimantan Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "1.117",
+      "year": "2009",
+      "event": "Gempa bumi Sumatra Barat 2009",
+      "type": "Gempa bumi",
+      "location": "Sumatera Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "1.000",
+      "year": "2001",
+      "event": "Konflik Sampit",
+      "type": "Kerusuhan antar etnis",
+      "location": "Kalimantan Tengah, Kalimantan Timur, Kalimantan Selatan, Kalimantan Barat",
+      "notes": "1.000 warga Madura tewas, dan 188 warga Dayak tewas akibat kerusuhan antar-etnis."
+    },
+    {
+      "deaths": "963",
+      "year": "1812",
+      "event": "Letusan Gunung Awu 1812",
+      "type": "Letusan gunung api",
+      "location": "Sulawesi Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "788",
+      "year": "1933",
+      "event": "Gempa bumi Sumatra 1933",
+      "type": "Gempa bumi",
+      "location": "Lampung, Sumatra Selatan, Bengkulu",
+      "notes": ""
+    },
+    {
+      "deaths": "727",
+      "year": "1924",
+      "event": "Gempa bumi Wonosobo 1924",
+      "type": "Gempa bumi",
+      "location": "Wonosobo, Jawa Tengah",
+      "notes": "Lebih dari 700 tewas akibat tanah longsor di Wonosobo yang dipicu oleh gempa."
+    },
+    {
+      "deaths": "700",
+      "year": "1867",
+      "event": "Gempa bumi Jawa 1867",
+      "type": "Gempa bumi",
+      "location": "Daerah Istimewa Yogyakarta, Jawa Tengah, Jawa Timur",
+      "notes": ""
+    },
+    {
+      "deaths": "668",
+      "year": "2006",
+      "event": "Gempa bumi dan tsunami Jawa 2006",
+      "type": "Gempa bumi, tsunami",
+      "location": "Jawa Barat, Jawa Tengah, Yogyakarta",
+      "notes": ""
+    },
+    {
+      "deaths": "664",
+      "year": "1969",
+      "event": "Gempa bumi dan tsunami Sulawesi 1969",
+      "type": "Gempa bumi, tsunami",
+      "location": "Sulawesi Barat, Sulawesi Selatan",
+      "notes": ""
+    },
+    {
+      "deaths": "577",
+      "year": "1998–2001",
+      "event": "Kerusuhan Poso",
+      "type": "Kerusuhan antar etnis",
+      "location": "Kabupaten Poso, Sulawesi Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "573",
+      "year": "1976",
+      "event": "Gempa bumi Bali 1976",
+      "type": "Gempa bumi",
+      "location": "Bali",
+      "notes": ""
+    },
+    {
+      "deaths": "564",
+      "year": "2018",
+      "event": "Gempa bumi Lombok Agustus 2018",
+      "type": "Gempa bumi",
+      "location": "Lombok",
+      "notes": ""
+    },
+    {
+      "deaths": "437",
+      "year": "2018",
+      "event": "Tsunami Selat Sunda 2018",
+      "type": "Tsunami, letusan gunung api",
+      "location": "Banten, Lampung",
+      "notes": ""
+    },
+    {
+      "deaths": "416",
+      "year": "1871",
+      "event": "Letusan dan tsunami Ruang 1871",
+      "type": "Tsunami, letusan gunung api",
+      "location": "Sulawesi Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "408",
+      "year": "2010",
+      "event": "Gempa bumi dan tsunami Kepulauan Mentawai 2010",
+      "type": "Gempa bumi, tsunami",
+      "location": "Mentawai, Sumatra Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "354",
+      "year": "1926",
+      "event": "Gempa bumi Padang Panjang 1926",
+      "type": "Gempa bumi",
+      "location": "Sumatera Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "353",
+      "year": "2010",
+      "event": "Letusan Merapi 2010",
+      "type": "Letusan gunung api",
+      "location": "Daerah Istimewa Yogyakarta, Jawa Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "335",
+      "year": "2022",
+      "event": "Gempa bumi Cianjur 2022",
+      "type": "Gempa bumi",
+      "location": "Jawa Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "305",
+      "year": "1981",
+      "event": "Gempa bumi Irian Jaya 1981",
+      "type": "Gempa bumi",
+      "location": "Papua",
+      "notes": ""
+    },
+    {
+      "deaths": "250",
+      "year": "1994",
+      "event": "Gempa bumi dan tsunami Jawa Timur 1994",
+      "type": "Gempa bumi, tsunami",
+      "location": "Jawa Timur",
+      "notes": ""
+    },
+    {
+      "deaths": "240",
+      "year": "1997",
+      "event": "Kebakaran hutan Indonesia 1997",
+      "type": "Kebakaran hutan dan lahan",
+      "location": "Sumatra, Kalimantan",
+      "notes": ""
+    },
+    {
+      "deaths": "234",
+      "year": "1997",
+      "event": "Garuda Indonesia Penerbangan 152",
+      "type": "Kecelakaan pesawat",
+      "location": "Sumatra Utara",
+      "notes": "Insiden kecelakaan pesawat terburuk sepanjang sejarah Indonesia. 234 orang dinyatakan tewas."
+    },
+    {
+      "deaths": "213",
+      "year": "1968",
+      "event": "Gempa bumi dan tsunami Sulawesi 1968",
+      "type": "Gempa bumi, tsunami",
+      "location": "Sulawesi Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "213",
+      "year": "1943",
+      "event": "Gempa bumi Jawa Tengah 1943",
+      "type": "Gempa bumi",
+      "location": "Daerah Istimewa Yogyakarta, Jawa Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "210",
+      "year": "1966",
+      "event": "Letusan Kelud 1966",
+      "type": "Letusan gunung api",
+      "location": "Jawa Timur",
+      "notes": ""
+    },
+    {
+      "deaths": "204",
+      "year": "1994",
+      "event": "Gempa bumi Liwa 1994",
+      "type": "Gempa bumi",
+      "location": "Lampung",
+      "notes": ""
+    },
+    {
+      "deaths": "203",
+      "year": "2002",
+      "event": "Bom Bali 2002",
+      "type": "Serangan terorisme",
+      "location": "Bali",
+      "notes": "Serangan terorisme terburuk dalam sejarah Indonesia, 38 warga negara Indonesia dikonfirmasikan tewas."
+    },
+    {
+      "deaths": "200",
+      "year": "1872",
+      "event": "Letusan Merapi 1872",
+      "type": "Letusan gunung berapi",
+      "location": "Daerah Istimewa Yogyakarta, Jawa Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "189",
+      "year": "2018",
+      "event": "Lion Air Penerbangan 610",
+      "type": "Kecelakaan pesawat",
+      "location": "Jawa Barat",
+      "notes": "Kecelakaan pesawat paling mematikan kedua dalam sejarah Indonesia."
+    },
+    {
+      "deaths": "180",
+      "year": "1977",
+      "event": "Gempa bumi Sumba 1977",
+      "type": "Gempa bumi, tsunami",
+      "location": "Nusa Tenggara Timur, Nusa Tenggara Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "178",
+      "year": "2021",
+      "event": "Banjir dan longsor Nusa Tenggara 2021",
+      "type": "Banjir, tanah longsor",
+      "location": "Kepulauan Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "deaths": "166",
+      "year": "1996",
+      "event": "Gempa bumi Biak 1996",
+      "type": "Gempa bumi, tsunami",
+      "location": "Papua",
+      "notes": ""
+    },
+    {
+      "deaths": "162",
+      "year": "2014",
+      "event": "Indonesia AirAsia Penerbangan 8501",
+      "type": "Kecelakaan pesawat",
+      "location": "Selat Karimata, Laut Jawa",
+      "notes": "Kecelakaan pesawat paling mematikan ketiga dalam sejarah Indonesia."
+    },
+    {
+      "deaths": "149",
+      "year": "2005",
+      "event": "Mandala Airlines Penerbangan 91",
+      "type": "Kecelakaan pesawat",
+      "location": "Medan, Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "143",
+      "year": "2015",
+      "event": "Kecelakaan pesawat C-130 Hercules 2015",
+      "type": "Kecelakaan pesawat",
+      "location": "Medan, Sumatera Utara",
+      "notes": ""
+    },
+    {
+      "deaths": "142",
+      "year": "2026",
+      "event": "Gempa bumi Flores 2026",
+      "type": "Gempa bumi",
+      "location": "Nusa Tenggara Timur",
+      "notes": ""
+    },
+    {
+      "deaths": "139",
+      "year": "1987",
+      "event": "Tabrakan kereta api Bintaro 1987",
+      "type": "Kecelakaan kereta api",
+      "location": "Bintaro, Jakarta",
+      "notes": "Kecelakaan kereta api terburuk dalam sejarah Indonesia. 139 dikonfirmasikan tewas, 254 luka-luka."
+    },
+    {
+      "deaths": "135",
+      "year": "2022",
+      "event": "Tragedi Stadion Kanjuruhan 2022",
+      "type": "Penghimpitan kerumunan",
+      "location": "Kabupaten Malang, Jawa Timur",
+      "notes": "Insiden Penghimpitan dan kerumunan terfatal yang pernah terjadi di Indonesia."
+    },
+    {
+      "deaths": "135",
+      "year": "1991",
+      "event": "Kecelakaan C-130 Angkatan Udara Indonesia 1991",
+      "type": "Kecelakaan pesawat",
+      "location": "Dekat Bandar Udara Internasional Halim Perdanakusuma, Jakarta.",
+      "notes": ""
+    },
+    {
+      "deaths": "123",
+      "year": "1997",
+      "event": "Kerusuhan Banjarmasin",
+      "type": "Kerusuhan antar etnis",
+      "location": "Kota Banjarmasin, Kalimantan Selatan",
+      "notes": ""
+    },
+    {
+      "deaths": "120",
+      "year": "1989",
+      "event": "Gempa bumi Papua Barat 1989",
+      "type": "Gempa bumi",
+      "location": "Papua Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "115",
+      "year": "1979",
+      "event": "Gempa bumi Yapen 1979",
+      "type": "Gempa bumi",
+      "location": "Papua Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "113",
+      "year": "2019",
+      "event": "Longsor dan banjir Sentani 2019",
+      "type": "Banjir, tanah longsor",
+      "location": "Sulawesi Selatan",
+      "notes": ""
+    },
+    {
+      "deaths": "108",
+      "year": "2014",
+      "event": "Longsor Jemblung 2014",
+      "type": "Tanah longsor",
+      "location": "Banjarnegara, Jawa Tengah",
+      "notes": ""
+    },
+    {
+      "deaths": "107",
+      "year": "1974",
+      "event": "Pan Am Penerbangan 812",
+      "type": "Kecelakaan pesawat",
+      "location": "Laut Denpasar, Bali",
+      "notes": ""
+    },
+    {
+      "deaths": "105",
+      "year": "2021",
+      "event": "Gempa bumi Sulawesi Barat 2021",
+      "type": "Gempa bumi",
+      "location": "Sulawesi Barat",
+      "notes": ""
+    },
+    {
+      "deaths": "104",
+      "year": "2016",
+      "event": "Gempa bumi Pidie Jaya 2016",
+      "type": "Gempa bumi",
+      "location": "Aceh",
+      "notes": ""
+    },
+    {
+      "deaths": "104",
+      "year": "1997",
+      "event": "SilkAir Penerbangan 185",
+      "type": "Kecelakaan pesawat",
+      "location": "Sungai Musi, Palembang",
+      "notes": ""
+    },
+    {
+      "deaths": "103",
+      "year": "2000",
+      "event": "Gempa bumi Bengkulu 2000",
+      "type": "Gempa bumi",
+      "location": "Bengkulu",
+      "notes": ""
+    },
+    {
+      "deaths": "102",
+      "year": "2007",
+      "event": "Adam Air Penerbangan 574",
+      "type": "Kecelakaan pesawat",
+      "location": "Selat Makassar, dekat Majene, Sulawesi Barat",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Bencana Paling Mematikan di Indonesia - Free Download",
+    "description": "Bencana alam, wabah dan kecelakaan paling mematikan dalam sejarah Indonesia: jumlah korban jiwa, tahun, jenis bencana dan lokasi. Contains 78 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Bencana Paling Mematikan di Indonesia | ListBase",
+    "seo_description": "Download Daftar Bencana Paling Mematikan di Indonesia — 78 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 78 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bencana_paling_mematikan_di_Indonesia"
+    ]
+  }
+}
