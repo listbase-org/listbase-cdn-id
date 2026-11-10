@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-10T02:32:42.440Z",
-  "total_datasets": 629,
-  "total_records": 655551,
+  "generated": "2026-11-10T02:32:48.867Z",
+  "total_datasets": 630,
+  "total_records": 655573,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -15144,6 +15144,32 @@
         "xlsx": {
           "name": "id-juara-liga-sepak-bola_ID.xlsx",
           "size": 10873
+        }
+      }
+    },
+    {
+      "id": "id-juara-umum-pon",
+      "name": "Daftar Juara Umum Pekan Olahraga Nasional (PON)",
+      "category": "sports",
+      "record_count": 22,
+      "columns": [
+        "edition",
+        "host_city",
+        "host_province",
+        "dates",
+        "overall_champion"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_juara_umum_Pekan_Olahraga_Nasional",
+      "updated": "2026-11",
+      "size": 6020,
+      "files": {
+        "csv": {
+          "name": "id-juara-umum-pon_ID.csv",
+          "size": 1737
+        },
+        "xlsx": {
+          "name": "id-juara-umum-pon_ID.xlsx",
+          "size": 7798
         }
       }
     },

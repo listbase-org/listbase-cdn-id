@@ -1,0 +1,205 @@
+{
+  "id": "id-juara-umum-pon",
+  "name": "Daftar Juara Umum Pekan Olahraga Nasional (PON)",
+  "title": "Daftar Juara Umum Pekan Olahraga Nasional (PON)",
+  "description": "Tuan rumah, tanggal penyelenggaraan dan provinsi juara umum setiap edisi Pekan Olahraga Nasional (PON) sejak 1948.",
+  "category": "sports",
+  "source": "https://id.wikipedia.org/wiki/Daftar_juara_umum_Pekan_Olahraga_Nasional",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_juara_umum_Pekan_Olahraga_Nasional",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "host_city",
+      "label": "Host City",
+      "type": "string"
+    },
+    {
+      "key": "host_province",
+      "label": "Host Province",
+      "type": "string"
+    },
+    {
+      "key": "dates",
+      "label": "Dates",
+      "type": "string"
+    },
+    {
+      "key": "overall_champion",
+      "label": "Overall Champion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "I",
+      "host_city": "Kota Praja Surakarta",
+      "host_province": "Karesidenan Surakarta",
+      "dates": "8 September - 12 September 1948",
+      "overall_champion": "Karesidenan Surakarta"
+    },
+    {
+      "edition": "II",
+      "host_city": "Jakarta",
+      "host_province": "Jawa Barat",
+      "dates": "21 Oktober – 28 Oktober 1951",
+      "overall_champion": "Jawa Barat"
+    },
+    {
+      "edition": "III",
+      "host_city": "Medan",
+      "host_province": "Sumatera Utara",
+      "dates": "20 September - 27 September 1953",
+      "overall_champion": "Jawa Barat"
+    },
+    {
+      "edition": "IV",
+      "host_city": "Makassar",
+      "host_province": "Sulawesi",
+      "dates": "27 September - 6 Oktober 1957",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "V",
+      "host_city": "Bandung",
+      "host_province": "Jawa Barat",
+      "dates": "23 September - 1 Oktober 1961",
+      "overall_champion": "Jawa Barat"
+    },
+    {
+      "edition": "VI",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "8 Oktober - 10 November 1965",
+      "overall_champion": "Batal sehubungan peristiwa G 30 S/PKI"
+    },
+    {
+      "edition": "VII",
+      "host_city": "Surabaya",
+      "host_province": "Jawa Timur",
+      "dates": "26 Agustus - 6 September 1969",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "VIII",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "4 Agustus - 15 Agustus 1973",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "IX",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "23 Juli - 3 Agustus 1977",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "X",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "19 September - 30 September 1981",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XI",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "9 September - 20 September 1985",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XII",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "18 Oktober - 28 Oktober 1989",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XIII",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "9 September - 19 September 1993",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XIV",
+      "host_city": "Jakarta",
+      "host_province": "Jakarta",
+      "dates": "9 September - 25 September 1996",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XV",
+      "host_city": "Surabaya",
+      "host_province": "Jawa Timur",
+      "dates": "19 - 30 Juni 2000",
+      "overall_champion": "Jawa Timur"
+    },
+    {
+      "edition": "XVI",
+      "host_city": "Palembang",
+      "host_province": "Sumatera Selatan",
+      "dates": "2 September - 14 September 2004",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XVII",
+      "host_city": "Samarinda",
+      "host_province": "Kalimantan Timur",
+      "dates": "6 Juli - 17 Juli 2008",
+      "overall_champion": "Jawa Timur"
+    },
+    {
+      "edition": "XVIII",
+      "host_city": "Pekanbaru",
+      "host_province": "Riau",
+      "dates": "9 September - 20 September 2012",
+      "overall_champion": "Jakarta"
+    },
+    {
+      "edition": "XIX",
+      "host_city": "Bandung",
+      "host_province": "Jawa Barat",
+      "dates": "17 September - 29 September 2016",
+      "overall_champion": "Jawa Barat"
+    },
+    {
+      "edition": "XX",
+      "host_city": "Jayapura",
+      "host_province": "Papua",
+      "dates": "2 Oktober – 15 Oktober 2021",
+      "overall_champion": "Jawa Barat"
+    },
+    {
+      "edition": "XXI",
+      "host_city": "Medan Banda Aceh",
+      "host_province": "Sumatera Utara Aceh",
+      "dates": "9 September – 20 September 2024",
+      "overall_champion": "Jawa Barat"
+    },
+    {
+      "edition": "XXII",
+      "host_city": "Mataram Kupang",
+      "host_province": "Nusa Tenggara Barat Nusa Tenggara Timur",
+      "dates": "2028",
+      "overall_champion": "Belum Berlangsung"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Juara Umum Pekan Olahraga Nasional (PON) - Free Download",
+    "description": "Tuan rumah, tanggal penyelenggaraan dan provinsi juara umum setiap edisi Pekan Olahraga Nasional (PON) sejak 1948. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Juara Umum Pekan Olahraga Nasional (PON) | ListBase",
+    "seo_description": "Download Daftar Juara Umum Pekan Olahraga Nasional (PON) — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_juara_umum_Pekan_Olahraga_Nasional"
+    ]
+  }
+}
