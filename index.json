@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-10T02:33:04.286Z",
-  "total_datasets": 632,
-  "total_records": 656487,
+  "generated": "2026-11-10T02:33:10.501Z",
+  "total_datasets": 633,
+  "total_records": 657014,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -450,6 +450,29 @@
         "xlsx": {
           "name": "id-situs-warisan-dunia-unesco_ID.xlsx",
           "size": 10325
+        }
+      }
+    },
+    {
+      "id": "id-tokoh-wayang",
+      "name": "Daftar Tokoh Wayang",
+      "category": "culture",
+      "record_count": 527,
+      "columns": [
+        "name",
+        "group"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_tokoh_wayang",
+      "updated": "2026-11",
+      "size": 44197,
+      "files": {
+        "csv": {
+          "name": "id-tokoh-wayang_ID.csv",
+          "size": 20220
+        },
+        "xlsx": {
+          "name": "id-tokoh-wayang_ID.xlsx",
+          "size": 17118
         }
       }
     },
