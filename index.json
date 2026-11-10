@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-10T02:32:48.867Z",
-  "total_datasets": 630,
-  "total_records": 655573,
+  "generated": "2026-11-10T02:32:56.314Z",
+  "total_datasets": 631,
+  "total_records": 656400,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -6456,6 +6456,29 @@
         "xlsx": {
           "name": "id-gubernur-jenderal-hindia-belanda_ID.xlsx",
           "size": 15487
+        }
+      }
+    },
+    {
+      "id": "id-kerajaan-nusantara",
+      "name": "Daftar Kerajaan yang Pernah Ada di Nusantara",
+      "category": "history",
+      "record_count": 827,
+      "columns": [
+        "name",
+        "description"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kerajaan_yang_pernah_ada_di_Nusantara",
+      "updated": "2026-11",
+      "size": 104167,
+      "files": {
+        "csv": {
+          "name": "id-kerajaan-nusantara_ID.csv",
+          "size": 62154
+        },
+        "xlsx": {
+          "name": "id-kerajaan-nusantara_ID.xlsx",
+          "size": 33483
         }
       }
     },
