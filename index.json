@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-11T02:18:08.939Z",
-  "total_datasets": 634,
-  "total_records": 657219,
+  "generated": "2026-11-11T02:18:18.250Z",
+  "total_datasets": 635,
+  "total_records": 657666,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -16139,6 +16139,30 @@
         "xlsx": {
           "name": "id-hari-libur-completos_ID.xlsx",
           "size": 80510
+        }
+      }
+    },
+    {
+      "id": "id-hari-penting",
+      "name": "Daftar Hari Penting di Indonesia",
+      "category": "time",
+      "record_count": 447,
+      "columns": [
+        "date",
+        "commemoration",
+        "month"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_hari_penting_di_Indonesia",
+      "updated": "2026-11",
+      "size": 62796,
+      "files": {
+        "csv": {
+          "name": "id-hari-penting_ID.csv",
+          "size": 31288
+        },
+        "xlsx": {
+          "name": "id-hari-penting_ID.xlsx",
+          "size": 20174
         }
       }
     },
