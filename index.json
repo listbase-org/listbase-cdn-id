@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-11T02:18:18.250Z",
-  "total_datasets": 635,
-  "total_records": 657666,
+  "generated": "2026-11-11T02:18:28.740Z",
+  "total_datasets": 636,
+  "total_records": 657688,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "reference",
@@ -7647,6 +7647,34 @@
         "xlsx": {
           "name": "id-partai-politik_ID.xlsx",
           "size": 8817
+        }
+      }
+    },
+    {
+      "id": "id-pemimpin-partai-politik",
+      "name": "Daftar Pemimpin Partai Politik di Indonesia",
+      "category": "politics",
+      "record_count": 22,
+      "columns": [
+        "party",
+        "leader",
+        "in_office_since",
+        "terms",
+        "last_internal_election",
+        "current_position",
+        "scope"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_pemimpin_partai_politik_di_Indonesia",
+      "updated": "2026-11",
+      "size": 8935,
+      "files": {
+        "csv": {
+          "name": "id-pemimpin-partai-politik_ID.csv",
+          "size": 3407
+        },
+        "xlsx": {
+          "name": "id-pemimpin-partai-politik_ID.xlsx",
+          "size": 8687
         }
       }
     },

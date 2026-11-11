@@ -1,0 +1,259 @@
+{
+  "id": "id-pemimpin-partai-politik",
+  "name": "Daftar Pemimpin Partai Politik di Indonesia",
+  "title": "Daftar Pemimpin Partai Politik di Indonesia",
+  "description": "Ketua umum partai politik nasional dan partai lokal Aceh di Indonesia, dengan tanggal mulai menjabat, jumlah periode, pemilihan internal terakhir, dan jabatan saat ini.",
+  "category": "politics",
+  "source": "https://id.wikipedia.org/wiki/Daftar_pemimpin_partai_politik_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_pemimpin_partai_politik_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "leader",
+      "label": "Leader",
+      "type": "string"
+    },
+    {
+      "key": "in_office_since",
+      "label": "In Office Since",
+      "type": "string"
+    },
+    {
+      "key": "terms",
+      "label": "Terms",
+      "type": "number"
+    },
+    {
+      "key": "last_internal_election",
+      "label": "Last Internal Election",
+      "type": "string"
+    },
+    {
+      "key": "current_position",
+      "label": "Current Position",
+      "type": "string"
+    },
+    {
+      "key": "scope",
+      "label": "Scope",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "party": "Partai Amanat Nasional",
+      "leader": "Zulkifli Hasan",
+      "in_office_since": "1 Mei 2015",
+      "terms": 3,
+      "last_internal_election": "Kongres VI (2024)",
+      "current_position": "Menteri Koordinator Bidang Pangan (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Bulan Bintang",
+      "leader": "Gugum Ridho Putra",
+      "in_office_since": "15 Januari 2025",
+      "terms": 1,
+      "last_internal_election": "Muktamar VI (2025)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Buruh",
+      "leader": "Said Iqbal",
+      "in_office_since": "16 April 2015",
+      "terms": 1,
+      "last_internal_election": "Kongres IV (2021)",
+      "current_position": "Penasihat Khusus Presiden Bidang Ketenagakerjaan & Kesejahteraan Buruh",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Demokrasi Indonesia Perjuangan",
+      "leader": "Megawati Soekarnoputri",
+      "in_office_since": "24 Maret 1999",
+      "terms": 6,
+      "last_internal_election": "Rapat Kerja Nasional V (2024)",
+      "current_position": "Ketua Dewan Pengarah Badan Pembinaan Ideologi Pancasila (2018–sekarang) Ketua Dewan Pengarah Badan Riset dan Inovasi Nasional (2021–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Demokrat",
+      "leader": "Agus Harimurti Yudhoyono",
+      "in_office_since": "15 Maret 2020",
+      "terms": 1,
+      "last_internal_election": "Kongres V (2020)",
+      "current_position": "Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Garda Perubahan Indonesia",
+      "leader": "Ahmad Ridha Sabana",
+      "in_office_since": "16 April 2015",
+      "terms": 1,
+      "last_internal_election": "Kongres Nasional (2015)",
+      "current_position": "Utusan Khusus Presiden Bidang Usaha Mikro, Kecil, Dan Menengah, Ekonomi Kreatif Dan Digital (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Gelombang Rakyat Indonesia",
+      "leader": "Anis Matta",
+      "in_office_since": "10 November 2019",
+      "terms": 1,
+      "last_internal_election": "Musyawarah Nasional I (2024)",
+      "current_position": "Wakil Menteri Luar Negeri (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Gerakan Indonesia Raya",
+      "leader": "Prabowo Subianto",
+      "in_office_since": "20 September 2014",
+      "terms": 3,
+      "last_internal_election": "Kongres Luar Biasa (2025)",
+      "current_position": "Presiden Republik Indonesia (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Golongan Karya",
+      "leader": "Bahlil Lahadalia",
+      "in_office_since": "11 Agustus 2024",
+      "terms": 1,
+      "last_internal_election": "Musyawarah Nasional XI (2024)",
+      "current_position": "Menteri Energi dan Sumber Daya Mineral (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Hati Nurani Rakyat",
+      "leader": "Oesman Sapta Odang",
+      "in_office_since": "21 Desember 2016",
+      "terms": 3,
+      "last_internal_election": "Musyawarah Nasional IV (2024)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Keadilan Sejahtera",
+      "leader": "Al Muzzammil Yusuf",
+      "in_office_since": "4 Juni 2025",
+      "terms": 1,
+      "last_internal_election": "Musyawarah I Majelis Syura (2025)",
+      "current_position": "Anggota DPR RI (2004–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Kebangkitan Bangsa",
+      "leader": "Muhaimin Iskandar",
+      "in_office_since": "25 Mei 2005",
+      "terms": 4,
+      "last_internal_election": "Muktamar VI (2024)",
+      "current_position": "Menteri Koordinator Bidang Pemberdayaan Masyarakat (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Kebangkitan Nusantara",
+      "leader": "Anas Urbaningrum",
+      "in_office_since": "15 Juli 2023",
+      "terms": 1,
+      "last_internal_election": "Musyawarah Nasional Luar Biasa (2023)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Nasional Demokrat",
+      "leader": "Surya Paloh",
+      "in_office_since": "25 Januari 2013",
+      "terms": "",
+      "last_internal_election": "Kongres III (2024)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Persatuan Indonesia",
+      "leader": "Angela Tanoesoedibjo",
+      "in_office_since": "31 Juli 2024",
+      "terms": 1,
+      "last_internal_election": "Musyawarah Kerja Nasional (2024)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Persatuan Pembangunan",
+      "leader": "Muhamad Mardiono",
+      "in_office_since": "5 September 2022",
+      "terms": 1,
+      "last_internal_election": "Musyawarah Kerja Nasional (2022)",
+      "current_position": "Utusan Khusus Presiden Bidang Pangan (2024–sekarang)",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Solidaritas Indonesia",
+      "leader": "Kaesang Pangarep",
+      "in_office_since": "25 September 2023",
+      "terms": 1,
+      "last_internal_election": "Kopi Darat Nasional (2023)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Ummat",
+      "leader": "Ansufri Idrus Sambo",
+      "in_office_since": "26 September 2026",
+      "terms": 1,
+      "last_internal_election": "Keputusan Majelis Syuro (2026)",
+      "current_position": "",
+      "scope": "partai nasional"
+    },
+    {
+      "party": "Partai Aceh",
+      "leader": "Muzakir Manaf",
+      "in_office_since": "7 Juni 2007",
+      "terms": "",
+      "last_internal_election": "Musyawarah Besar II (2018)",
+      "current_position": "Gubernur Aceh Periode 2025-2030",
+      "scope": "partai lokal Aceh"
+    },
+    {
+      "party": "Partai Suara Independen Rakyat Aceh",
+      "leader": "Muslim Syamsuddin",
+      "in_office_since": "28 Maret 2022",
+      "terms": "",
+      "last_internal_election": "Kongres II (2022)",
+      "current_position": "",
+      "scope": "partai lokal Aceh"
+    },
+    {
+      "party": "Partai Darul Aceh",
+      "leader": "Muhibbussabri A. Wahab",
+      "in_office_since": "28 Maret 2018",
+      "terms": "",
+      "last_internal_election": "Musyawarah Raya (2018)",
+      "current_position": "",
+      "scope": "partai lokal Aceh"
+    },
+    {
+      "party": "Partai Nanggroe Aceh",
+      "leader": "Irwandi Yusuf",
+      "in_office_since": "2021",
+      "terms": "",
+      "last_internal_election": "",
+      "current_position": "",
+      "scope": "partai lokal Aceh"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Pemimpin Partai Politik di Indonesia - Free Download",
+    "description": "Ketua umum partai politik nasional dan partai lokal Aceh di Indonesia, dengan tanggal mulai menjabat, jumlah periode, pemilihan internal terakhir, dan jabatan saat ini. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Pemimpin Partai Politik di Indonesia | ListBase",
+    "seo_description": "Download Daftar Pemimpin Partai Politik di Indonesia — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_pemimpin_partai_politik_di_Indonesia"
+    ]
+  }
+}
