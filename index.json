@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-10T02:33:10.501Z",
-  "total_datasets": 633,
-  "total_records": 657014,
+  "generated": "2026-11-11T02:18:08.939Z",
+  "total_datasets": 634,
+  "total_records": 657219,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "environment",
@@ -1043,6 +1043,37 @@
         "xlsx": {
           "name": "id-film-dicekal_ID.xlsx",
           "size": 9493
+        }
+      }
+    },
+    {
+      "id": "id-film-indonesia-2025",
+      "name": "Daftar Film Indonesia Tahun 2025",
+      "category": "entertainment",
+      "record_count": 205,
+      "columns": [
+        "month",
+        "day",
+        "title",
+        "director",
+        "cast",
+        "genre",
+        "production",
+        "distributor",
+        "viewers",
+        "age_rating"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_film_Indonesia_tahun_2025",
+      "updated": "2026-11",
+      "size": 81905,
+      "files": {
+        "csv": {
+          "name": "id-film-indonesia-2025_ID.csv",
+          "size": 41630
+        },
+        "xlsx": {
+          "name": "id-film-indonesia-2025_ID.xlsx",
+          "size": 30567
         }
       }
     },
