@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-12T02:11:27.074Z",
-  "total_datasets": 637,
-  "total_records": 658185,
+  "generated": "2026-11-12T02:12:14.305Z",
+  "total_datasets": 638,
+  "total_records": 658249,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -1854,6 +1854,29 @@
         "xlsx": {
           "name": "id-hidangan-kepulauan-riau_ID.xlsx",
           "size": 10664
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-madura",
+      "name": "Daftar Hidangan Khas Madura",
+      "category": "food",
+      "record_count": 64,
+      "columns": [
+        "name",
+        "type"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Hidangan_Madura",
+      "updated": "2026-11",
+      "size": 5640,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-madura_ID.csv",
+          "size": 1731
+        },
+        "xlsx": {
+          "name": "id-hidangan-madura_ID.xlsx",
+          "size": 7917
         }
       }
     },
