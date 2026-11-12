@@ -1,0 +1,3530 @@
+{
+  "id": "id-bendungan",
+  "name": "Daftar Bendungan di Indonesia",
+  "title": "Daftar Bendungan di Indonesia",
+  "description": "Daftar bendungan dan waduk di Indonesia beserta provinsi, tipe bendungan, dan koordinat lokasi.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bendungan_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bendungan_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 497,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Bendungan Aeleba",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5649ºS 122.046ºE"
+    },
+    {
+      "no": 2,
+      "name": "Bendungan Agung",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.844ºS 108.6388ºE"
+    },
+    {
+      "no": 3,
+      "name": "Bendungan Aiputik",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.4515ºS 117.2275ºE"
+    },
+    {
+      "no": 4,
+      "name": "Bendungan Aji",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5296ºS 117.4132ºE"
+    },
+    {
+      "no": 5,
+      "name": "Bendungan Ambit",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.9256ºS 108.6779ºE"
+    },
+    {
+      "no": 6,
+      "name": "Bendungan Baduk",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.656ºS 111.97ºE"
+    },
+    {
+      "no": 7,
+      "name": "Bendungan Bedegolan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.67583ºS 109.77611ºE"
+    },
+    {
+      "no": 8,
+      "name": "Bendungan Bekacak",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6204ºS 112.7704ºE"
+    },
+    {
+      "no": 9,
+      "name": "Bendungan Bendokaton",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.5372ºS 110.994ºE"
+    },
+    {
+      "no": 10,
+      "name": "Bendungan Bening",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.5462ºS 111.7976ºE"
+    },
+    {
+      "no": 11,
+      "name": "Bendungan Blimbing",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.1217ºS 110.2684ºE"
+    },
+    {
+      "no": 12,
+      "name": "Bendungan Buinrare",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7687ºS 117.8621ºE"
+    },
+    {
+      "no": 13,
+      "name": "Bendungan Burajeh",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.0355ºS 113.1137ºE"
+    },
+    {
+      "no": 14,
+      "name": "Bendungan Cariang",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.71139ºS 108.08861ºE"
+    },
+    {
+      "no": 15,
+      "name": "Bendungan Cibacang",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.868ºS 108.5059ºE"
+    },
+    {
+      "no": 16,
+      "name": "Bendungan Cileungsi",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.86472ºS 106.8825ºE"
+    },
+    {
+      "no": 17,
+      "name": "Bendungan Cipancuh",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.49556ºS 107.94083ºE"
+    },
+    {
+      "no": 18,
+      "name": "Bendungan Dawuhan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.595ºS 111.6288ºE"
+    },
+    {
+      "no": 19,
+      "name": "Bendungan Dlingsing",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.1003ºS 110.2892ºE"
+    },
+    {
+      "no": 20,
+      "name": "Bendungan Dukuhjati",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0063ºS 109.1856ºE"
+    },
+    {
+      "no": 21,
+      "name": "Bendungan Dumpil",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0762ºS 111.1978ºE"
+    },
+    {
+      "no": 22,
+      "name": "Bendungan Gapit",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7944ºS 117.934ºE"
+    },
+    {
+      "no": 23,
+      "name": "Bendungan Gebong",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6088ºS 116.2048ºE"
+    },
+    {
+      "no": 24,
+      "name": "Bendungan Gede",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6122ºS 112.4968ºE"
+    },
+    {
+      "no": 25,
+      "name": "Bendungan Ijura",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5656ºS 122.032ºE"
+    },
+    {
+      "no": 26,
+      "name": "Bendungan Ilegetang",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.6378ºS 122.2203ºE"
+    },
+    {
+      "no": 27,
+      "name": "Bendungan Jangkok",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5344ºS 116.2349ºE"
+    },
+    {
+      "no": 28,
+      "name": "Bendungan Kaligending",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.58167ºS 109.67583ºE"
+    },
+    {
+      "no": 29,
+      "name": "Bendungan Kalimantong",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.78422ºS 116.90138ºE"
+    },
+    {
+      "no": 30,
+      "name": "Bendungan Kalimeneng",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.66194ºS 109.89611ºE"
+    },
+    {
+      "no": 31,
+      "name": "Bendungan Kaliwadas",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0266ºS 109.4849ºE"
+    },
+    {
+      "no": 32,
+      "name": "Bendungan Kamun",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.77972ºS 108.16778ºE"
+    },
+    {
+      "no": 33,
+      "name": "Bendungan Karanganyar",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.106ºS 109.2995ºE"
+    },
+    {
+      "no": 34,
+      "name": "Bendungan Kedungbelik",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.1191ºS 109.3294ºE"
+    },
+    {
+      "no": 35,
+      "name": "Bendungan Kedungsamak",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.63278ºS 109.65361ºE"
+    },
+    {
+      "no": 36,
+      "name": "Bendungan Keplang",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.8836ºS 108.7114ºE"
+    },
+    {
+      "no": 37,
+      "name": "Bendungan Kertawinangun",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.8665ºS 108.6203ºE"
+    },
+    {
+      "no": 38,
+      "name": "Bendungan Keruju",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7581ºS 117.9923ºE"
+    },
+    {
+      "no": 39,
+      "name": "Bendungan Kesaming",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7572ºS 117.9971ºE"
+    },
+    {
+      "no": 40,
+      "name": "Bendungan Ketos",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.8716ºS 108.6086ºE"
+    },
+    {
+      "no": 41,
+      "name": "Bendungan Klesem",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0976ºS 110.2883ºE"
+    },
+    {
+      "no": 42,
+      "name": "Bendungan Klobur",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.0418ºS 113.0193ºE"
+    },
+    {
+      "no": 43,
+      "name": "Bendungan Koangbatu",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.7207ºS 122.13ºE"
+    },
+    {
+      "no": 44,
+      "name": "Bendungan Mahardo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2458ºS 112.5917ºE"
+    },
+    {
+      "no": 45,
+      "name": "Bendungan Mama",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6804ºS 117.5755ºE"
+    },
+    {
+      "no": 46,
+      "name": "Bendungan Medani",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.5396ºS 110.9177ºE"
+    },
+    {
+      "no": 47,
+      "name": "Bendungan Mejagong",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.1048ºS 109.2888ºE"
+    },
+    {
+      "no": 48,
+      "name": "Bendungan Mengkoang",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6255ºS 117.6365ºE"
+    },
+    {
+      "no": 49,
+      "name": "Bendungan Moyo",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5236ºS 117.4915ºE"
+    },
+    {
+      "no": 50,
+      "name": "Bendungan Nambo",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.103ºS 109.3689ºE"
+    },
+    {
+      "no": 51,
+      "name": "Bendungan Nangagete",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.4808ºS 122.584ºE"
+    },
+    {
+      "no": 52,
+      "name": "Bendungan Nanjiladang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0403ºS 109.3619ºE"
+    },
+    {
+      "no": 53,
+      "name": "Bendungan Ngeseng",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.996ºS 112.3112ºE"
+    },
+    {
+      "no": 54,
+      "name": "Bendungan Notopuro",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.4845ºS 111.6926ºE"
+    },
+    {
+      "no": 55,
+      "name": "Bendungan Pacal",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.3625ºS 111.8708ºE"
+    },
+    {
+      "no": 56,
+      "name": "Bendungan Palayangan",
+      "province": "Banten",
+      "type": "S (DAM)",
+      "coordinates": "6.4096ºS 106.232ºE"
+    },
+    {
+      "no": 57,
+      "name": "Bendungan Pamarayan Baru",
+      "province": "Banten",
+      "type": "S (DAM)",
+      "coordinates": "6.2594ºS 106.281ºE"
+    },
+    {
+      "no": 58,
+      "name": "Bendungan Pamarayan Lama",
+      "province": "Banten",
+      "type": "S (DAM)",
+      "coordinates": "6.2596ºS 106.2853ºE"
+    },
+    {
+      "no": 59,
+      "name": "Bendungan Parangjoho",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.95167ºS 110.81611ºE"
+    },
+    {
+      "no": 60,
+      "name": "Bendungan Pejengkolan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.65917ºS 109.77139ºE"
+    },
+    {
+      "no": 61,
+      "name": "Bendungan Pekatingan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.71556ºS 109.85778ºE"
+    },
+    {
+      "no": 62,
+      "name": "Bendungan Penyaung",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6566ºS 117.4285ºE"
+    },
+    {
+      "no": 63,
+      "name": "Bendungan Pilang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.1036ºS 110.2801ºE"
+    },
+    {
+      "no": 64,
+      "name": "Bendungan Plampang",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7978ºS 117.782ºE"
+    },
+    {
+      "no": 65,
+      "name": "Bendungan Pungka",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5238ºS 117.4195ºE"
+    },
+    {
+      "no": 66,
+      "name": "Bendungan Pungkit",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.654ºS 117.5295ºE"
+    },
+    {
+      "no": 67,
+      "name": "Bendungan Rababoda",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.478ºS 118.7599ºE"
+    },
+    {
+      "no": 68,
+      "name": "Bendungan Rahalayu",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5231ºS 118.4875ºE"
+    },
+    {
+      "no": 69,
+      "name": "Bendungan Rebug",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.66361ºS 109.92722ºE"
+    },
+    {
+      "no": 70,
+      "name": "Bendungan Rejo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6693ºS 111.876ºE"
+    },
+    {
+      "no": 71,
+      "name": "Bendungan Rentang",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.66306ºS 108.22556ºE"
+    },
+    {
+      "no": 72,
+      "name": "Bendungan Sahe",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7897ºS 117.9857ºE"
+    },
+    {
+      "no": 73,
+      "name": "Bendungan Salamdarma",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.42ºS 107.89417ºE"
+    },
+    {
+      "no": 74,
+      "name": "Bendungan Samawung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.73722ºS 109.90611ºE"
+    },
+    {
+      "no": 75,
+      "name": "Bendungan Sampean",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8261ºS 113.9375ºE"
+    },
+    {
+      "no": 76,
+      "name": "Bendungan Saradan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.5523ºS 111.7485ºE"
+    },
+    {
+      "no": 77,
+      "name": "Bendungan Sarisakolo",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5131ºS 118.4587ºE"
+    },
+    {
+      "no": 78,
+      "name": "Bendungan Sawangan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.63472ºS 109.965ºE"
+    },
+    {
+      "no": 79,
+      "name": "Bendungan Sedong",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.8778ºS 108.583ºE"
+    },
+    {
+      "no": 80,
+      "name": "Bendungan Sepakat",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.8039ºS 117.7768ºE"
+    },
+    {
+      "no": 81,
+      "name": "Bendungan Serut",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1501ºS 112.1906ºE"
+    },
+    {
+      "no": 82,
+      "name": "Bendungan Singamerta",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.39028ºS 109.74528ºE"
+    },
+    {
+      "no": 83,
+      "name": "Bendungan Sionjur",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.0437ºS 113.0492ºE"
+    },
+    {
+      "no": 84,
+      "name": "Bendungan Solopalai",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.18151ºS 111.80964ºE"
+    },
+    {
+      "no": 85,
+      "name": "Bendungan Tarusan",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.4427ºS 117.1682ºE"
+    },
+    {
+      "no": 86,
+      "name": "Bendungan Terusa",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.4898ºS 117.0423ºE"
+    },
+    {
+      "no": 496,
+      "name": "Bendungan Tommo",
+      "province": "Sulawesi Barat",
+      "type": "S (DAM)",
+      "coordinates": ""
+    },
+    {
+      "no": 87,
+      "name": "Bendungan Tiukulit",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.688ºS 117.6785ºE"
+    },
+    {
+      "no": 88,
+      "name": "Bendungan Tiuwui",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.8047ºS 117.9632ºE"
+    },
+    {
+      "no": 89,
+      "name": "Bendungan Usar",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.8089ºS 117.8176ºE"
+    },
+    {
+      "no": 90,
+      "name": "Bendungan Waeces",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5994ºS 120.4699ºE"
+    },
+    {
+      "no": 91,
+      "name": "Bendungan Waeka",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5522ºS 120.2681ºE"
+    },
+    {
+      "no": 92,
+      "name": "Bendungan Waekor",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5481ºS 120.2635ºE"
+    },
+    {
+      "no": 93,
+      "name": "Bendungan Waemese",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5605ºS 119.9398ºE"
+    },
+    {
+      "no": 94,
+      "name": "Bendungan Waeracang",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5114ºS 120.2723ºE"
+    },
+    {
+      "no": 95,
+      "name": "Bendungan Waerentang",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5608ºS 120.334ºE"
+    },
+    {
+      "no": 96,
+      "name": "Bendungan Waetaiang",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.5123ºS 120.2697ºE"
+    },
+    {
+      "no": 97,
+      "name": "Bendungan Watubarut",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.57333ºS 109.52722ºE"
+    },
+    {
+      "no": 98,
+      "name": "Bendungan Watulintang",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.8627ºS 108.5772ºE"
+    },
+    {
+      "no": 99,
+      "name": "Bendungan Wilalung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9265ºS 110.7853ºE"
+    },
+    {
+      "no": 100,
+      "name": "Bendungan Wlingi",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1414ºS 112.248ºE"
+    },
+    {
+      "no": 101,
+      "name": "Bendungan Zaa",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.8776ºS 121.1124ºE"
+    },
+    {
+      "no": 102,
+      "name": "Bendungan Barugbug",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.39889ºS 107.52861ºE"
+    },
+    {
+      "no": 103,
+      "name": "Bendungan Bolangaso",
+      "province": "Sulawesi Utara",
+      "type": "S (DAM)",
+      "coordinates": "0.406ºN 123.9773ºE"
+    },
+    {
+      "no": 104,
+      "name": "Bendungan Buko",
+      "province": "Gorontalo",
+      "type": "S (DAM)",
+      "coordinates": "0.8697ºN 123.1668ºE"
+    },
+    {
+      "no": 105,
+      "name": "Bendungan Ciawitemen",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.47861ºS 107.26444ºE"
+    },
+    {
+      "no": 106,
+      "name": "Bendungan Cijoro",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.37806ºS 106.25861ºE"
+    },
+    {
+      "no": 107,
+      "name": "Bendungan Cipero",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9883ºS 109.3079ºE"
+    },
+    {
+      "no": 108,
+      "name": "Bendungan Cirata",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.70056ºS 107.36722ºE"
+    },
+    {
+      "no": 109,
+      "name": "Bendungan Cisarua",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.87139ºS 106.90472ºE"
+    },
+    {
+      "no": 110,
+      "name": "Bendungan Damarwulan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7597ºS 112.2784ºE"
+    },
+    {
+      "no": 111,
+      "name": "Bendungan Deturia",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.7099ºS 121.74ºE"
+    },
+    {
+      "no": 112,
+      "name": "Bendungan Gadungan",
+      "province": "Bali",
+      "type": "S (DAM)",
+      "coordinates": "8.4784ºS 115.0935ºE"
+    },
+    {
+      "no": 113,
+      "name": "Bendungan Gerak Serayu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.52389ºS 109.2025ºE"
+    },
+    {
+      "no": 114,
+      "name": "Bendungan Gondang",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.2011ºS 112.2676ºE"
+    },
+    {
+      "no": 115,
+      "name": "Bendungan Ir. H. Juanda",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.52361ºS 107.38917ºE"
+    },
+    {
+      "no": 116,
+      "name": "Bendungan Karangkates",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1604ºS 112.4467ºE"
+    },
+    {
+      "no": 117,
+      "name": "Bendungan Karetcibanten",
+      "province": "Banten",
+      "type": "S (DAM)",
+      "coordinates": "6.0425ºS 106.1619ºE"
+    },
+    {
+      "no": 118,
+      "name": "Bendungan Karisman",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.46083ºS 107.77889ºE"
+    },
+    {
+      "no": 119,
+      "name": "Bendungan Kosinggolan",
+      "province": "Sulawesi Utara",
+      "type": "S (DAM)",
+      "coordinates": "0.5219ºN 123.9439ºE"
+    },
+    {
+      "no": 120,
+      "name": "Bendungan Krangkengan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2221ºS 113.3897ºE"
+    },
+    {
+      "no": 121,
+      "name": "Bendungan Ladongi",
+      "province": "Sulawesi Tenggara",
+      "type": "S (DAM)",
+      "coordinates": "4.1485ºS 121.8917ºE"
+    },
+    {
+      "no": 122,
+      "name": "Bendungan Lahikaninu",
+      "province": "Nusa Tenggara Timur",
+      "type": "H (RSV)",
+      "coordinates": "9.68097ºS 119.46683ºE"
+    },
+    {
+      "no": 123,
+      "name": "Bendungan Laor",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1467ºS 112.4513ºE"
+    },
+    {
+      "no": 124,
+      "name": "Bendungan Lekopancing",
+      "province": "Sulawesi Selatan",
+      "type": "S (DAM)",
+      "coordinates": "5.1279ºS 119.6375ºE"
+    },
+    {
+      "no": 125,
+      "name": "Bendungan Leuwinangka",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.56444ºS 107.72972ºE"
+    },
+    {
+      "no": 126,
+      "name": "Bendungan Mamak",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6914ºS 117.577ºE"
+    },
+    {
+      "no": 127,
+      "name": "Bendungan Mautenda Dua",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.6432ºS 121.6955ºE"
+    },
+    {
+      "no": 128,
+      "name": "Bendungan Mautenda Empat",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.57562ºS 121.73895ºE"
+    },
+    {
+      "no": 129,
+      "name": "Bendungan Meliling",
+      "province": "Bali",
+      "type": "S (DAM)",
+      "coordinates": "8.4737ºS 115.1056ºE"
+    },
+    {
+      "no": 130,
+      "name": "Bendungan Nglambangan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.2966ºS 111.7268ºE"
+    },
+    {
+      "no": 131,
+      "name": "Bendungan Palasari",
+      "province": "Bali",
+      "type": "S (DAM)",
+      "coordinates": "8.2531ºS 114.5492ºE"
+    },
+    {
+      "no": 132,
+      "name": "Bendungan Pengga",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.756ºS 116.1893ºE"
+    },
+    {
+      "no": 133,
+      "name": "Bendungan Pesayangan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9201ºS 109.1384ºE"
+    },
+    {
+      "no": 134,
+      "name": "Bendungan Saguling",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.9125ºS 107.36639ºE"
+    },
+    {
+      "no": 135,
+      "name": "Bendungan Selorejo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8718ºS 112.3554ºE"
+    },
+    {
+      "no": 136,
+      "name": "Bendungan Sempor",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.56667ºS 109.48556ºE"
+    },
+    {
+      "no": 137,
+      "name": "Bendungan Siman",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8643ºS 112.3213ºE"
+    },
+    {
+      "no": 138,
+      "name": "Bendungan Soka",
+      "province": "Bali",
+      "type": "S (DAM)",
+      "coordinates": "8.4868ºS 115.0255ºE"
+    },
+    {
+      "no": 139,
+      "name": "Bendungan Srinjing",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8648ºS 112.2623ºE"
+    },
+    {
+      "no": 140,
+      "name": "Bendungan Tegallinggah",
+      "province": "Bali",
+      "type": "S (DAM)",
+      "coordinates": "8.4436ºS 115.1163ºE"
+    },
+    {
+      "no": 141,
+      "name": "Bendungan Toraut",
+      "province": "Sulawesi Utara",
+      "type": "S (DAM)",
+      "coordinates": "0.5682ºN 123.9089ºE"
+    },
+    {
+      "no": 142,
+      "name": "Bendungan Wadaslintang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.60806ºS 109.78111ºE"
+    },
+    {
+      "no": 143,
+      "name": "Beundung Cibeureum",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.81194ºS 107.96889ºE"
+    },
+    {
+      "no": 144,
+      "name": "Beundung Sentigi",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.84333ºS 107.94583ºE"
+    },
+    {
+      "no": 145,
+      "name": "Cekdam Babadan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.80861ºS 111.32861ºE"
+    },
+    {
+      "no": 146,
+      "name": "Cekdam Baderan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84194ºS 111.12806ºE"
+    },
+    {
+      "no": 147,
+      "name": "Cekdam Bawang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.31083ºS 111.0325ºE"
+    },
+    {
+      "no": 148,
+      "name": "Cekdam Bepeng",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.80167ºS 111.31028ºE"
+    },
+    {
+      "no": 149,
+      "name": "Cekdam Beran",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.34917ºS 110.78833ºE"
+    },
+    {
+      "no": 150,
+      "name": "Cekdam Bombo",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5408ºS 118.7676ºE"
+    },
+    {
+      "no": 151,
+      "name": "Cekdam Bonce",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2453ºS 112.4007ºE"
+    },
+    {
+      "no": 152,
+      "name": "Cekdam Cabe",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.33556ºS 110.82278ºE"
+    },
+    {
+      "no": 153,
+      "name": "Cekdam Celangap Dua",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8785ºS 112.2735ºE"
+    },
+    {
+      "no": 154,
+      "name": "Cekdam Celangap Satu",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8856ºS 112.2814ºE"
+    },
+    {
+      "no": 155,
+      "name": "Cekdam Celangkap Tiga",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8702ºS 112.2649ºE"
+    },
+    {
+      "no": 156,
+      "name": "Cekdam Cibayat",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.50361ºS 107.28389ºE"
+    },
+    {
+      "no": 157,
+      "name": "Cekdam Cicamas",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.99944ºS 108.30944ºE"
+    },
+    {
+      "no": 158,
+      "name": "Cekdam Cigadog",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.66333ºS 107.72833ºE"
+    },
+    {
+      "no": 159,
+      "name": "Cekdam Cikadu",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.92889ºS 107.08778ºE"
+    },
+    {
+      "no": 160,
+      "name": "Cekdam Ciledug",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.96833ºS 107.01417ºE"
+    },
+    {
+      "no": 161,
+      "name": "Cekdam Cinangka",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.6375ºS 107.66722ºE"
+    },
+    {
+      "no": 162,
+      "name": "Cekdam Dadiniu",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5116ºS 118.8108ºE"
+    },
+    {
+      "no": 163,
+      "name": "Cekdam Dagan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.275ºS 109.35333ºE"
+    },
+    {
+      "no": 164,
+      "name": "Cekdam Darenceleng",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9895ºS 111.1272ºE"
+    },
+    {
+      "no": 165,
+      "name": "Cekdam Dorosia",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5077ºS 118.4541ºE"
+    },
+    {
+      "no": 166,
+      "name": "Cekdam Ganden",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9394ºS 111.2019ºE"
+    },
+    {
+      "no": 167,
+      "name": "Cekdam Gardu",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9731ºS 113.8073ºE"
+    },
+    {
+      "no": 168,
+      "name": "Cekdam Gepuk",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.7577ºS 110.8286ºE"
+    },
+    {
+      "no": 169,
+      "name": "Cekdam Gupokor",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.32167ºS 110.76889ºE"
+    },
+    {
+      "no": 170,
+      "name": "Cekdam Icir",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9696ºS 112.3585ºE"
+    },
+    {
+      "no": 171,
+      "name": "Cekdam Janti",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.79778ºS 111.35778ºE"
+    },
+    {
+      "no": 172,
+      "name": "Cekdam Jedingmiring",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8944ºS 112.2866ºE"
+    },
+    {
+      "no": 173,
+      "name": "Cekdam Jelarang",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.47611ºS 109.94667ºE"
+    },
+    {
+      "no": 174,
+      "name": "Cekdam Kalikajar",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.41528ºS 109.96667ºE"
+    },
+    {
+      "no": 175,
+      "name": "Cekdam Kedawung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.29917ºS 111.01222ºE"
+    },
+    {
+      "no": 176,
+      "name": "Cekdam Kedunggupit",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.7821ºS 110.8468ºE"
+    },
+    {
+      "no": 177,
+      "name": "Cekdam Kedungkancil",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.36806ºS 110.80306ºE"
+    },
+    {
+      "no": 178,
+      "name": "Cekdam Kedungombo",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.93059ºS 109.73661ºE"
+    },
+    {
+      "no": 179,
+      "name": "Cekdam Klepek",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.2569ºS 111.9282ºE"
+    },
+    {
+      "no": 180,
+      "name": "Cekdam Korolintang",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.3015ºS 114.1794ºE"
+    },
+    {
+      "no": 181,
+      "name": "Cekdam Kowo",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5215ºS 118.9838ºE"
+    },
+    {
+      "no": 182,
+      "name": "Cekdam Larade",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6158ºS 118.4943ºE"
+    },
+    {
+      "no": 183,
+      "name": "Cekdam Leuwitunggak",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.72167ºS 107.72194ºE"
+    },
+    {
+      "no": 184,
+      "name": "Cekdam Manding",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7756ºS 113.6785ºE"
+    },
+    {
+      "no": 185,
+      "name": "Cekdam Mangli",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0637ºS 109.3394ºE"
+    },
+    {
+      "no": 186,
+      "name": "Cekdam Mloko",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.85833ºS 111.16667ºE"
+    },
+    {
+      "no": 187,
+      "name": "Cekdam Neglasari",
+      "province": "Banten",
+      "type": "S (DAM)",
+      "coordinates": "6.3423ºS 106.3056ºE"
+    },
+    {
+      "no": 188,
+      "name": "Cekdam Nglasep",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.875ºS 111.13583ºE"
+    },
+    {
+      "no": 189,
+      "name": "Cekdam Ngrombo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.75472ºS 111.33194ºE"
+    },
+    {
+      "no": 190,
+      "name": "Cekdam Nogosromo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7837ºS 113.6935ºE"
+    },
+    {
+      "no": 191,
+      "name": "Cekdam Ntonggu",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5227ºS 118.7611ºE"
+    },
+    {
+      "no": 192,
+      "name": "Cekdam Pandan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.80139ºS 111.35444ºE"
+    },
+    {
+      "no": 193,
+      "name": "Cekdam Patat",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.7225ºS 107.71917ºE"
+    },
+    {
+      "no": 194,
+      "name": "Cekdam Patu",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6158ºS 118.9999ºE"
+    },
+    {
+      "no": 195,
+      "name": "Cekdam Pencil",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.86028ºS 111.12722ºE"
+    },
+    {
+      "no": 196,
+      "name": "Cekdam Pendem",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.33028ºS 110.85ºE"
+    },
+    {
+      "no": 197,
+      "name": "Cekdam Pengkok",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.80806ºS 111.3175ºE"
+    },
+    {
+      "no": 198,
+      "name": "Cekdam Rosliyo",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.7876ºS 110.8194ºE"
+    },
+    {
+      "no": 199,
+      "name": "Cekdam Saleko",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5253ºS 118.4617ºE"
+    },
+    {
+      "no": 200,
+      "name": "Cekdam Sampung Dua",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.79972ºS 111.37056ºE"
+    },
+    {
+      "no": 201,
+      "name": "Cekdam Sampung Satu",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.79778ºS 111.36278ºE"
+    },
+    {
+      "no": 202,
+      "name": "Cekdam Seduda",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.34333ºS 110.22583ºE"
+    },
+    {
+      "no": 203,
+      "name": "Cekdam Sempu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.08ºS 109.3571ºE"
+    },
+    {
+      "no": 204,
+      "name": "Cekdam Semut Dua",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9926ºS 112.3276ºE"
+    },
+    {
+      "no": 205,
+      "name": "Cekdam Semut Empat",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9994ºS 112.3273ºE"
+    },
+    {
+      "no": 206,
+      "name": "Cekdam Semut Satu",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.991ºS 112.3272ºE"
+    },
+    {
+      "no": 207,
+      "name": "Cekdam Semut Tiga",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.996ºS 112.3279ºE"
+    },
+    {
+      "no": 208,
+      "name": "Cekdam Sendang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9242ºS 111.1255ºE"
+    },
+    {
+      "no": 209,
+      "name": "Cekdam Sidodadi",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2031ºS 112.4026ºE"
+    },
+    {
+      "no": 210,
+      "name": "Cekdam Slamet",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.79667ºS 111.30167ºE"
+    },
+    {
+      "no": 211,
+      "name": "Cekdam Srinjing Dua",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8489ºS 112.2573ºE"
+    },
+    {
+      "no": 212,
+      "name": "Cekdam Srinjing Satu",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.8455ºS 112.2547ºE"
+    },
+    {
+      "no": 213,
+      "name": "Cekdam Sumberbedengan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2433ºS 112.4372ºE"
+    },
+    {
+      "no": 214,
+      "name": "Cekdam Sumberbuntung",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.246ºS 112.4571ºE"
+    },
+    {
+      "no": 215,
+      "name": "Cekdam Talembo",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5809ºS 118.7571ºE"
+    },
+    {
+      "no": 216,
+      "name": "Cekdam Tlayu",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.79889ºS 111.30722ºE"
+    },
+    {
+      "no": 217,
+      "name": "Cekdam Toi",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5092ºS 118.7945ºE"
+    },
+    {
+      "no": 218,
+      "name": "Cekdam Tunggalbakti",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9461ºS 111.2125ºE"
+    },
+    {
+      "no": 219,
+      "name": "Cekdam Umbulsalak",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.279ºS 114.0148ºE"
+    },
+    {
+      "no": 220,
+      "name": "Cekdam Umbulsari",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.277ºS 114.0924ºE"
+    },
+    {
+      "no": 221,
+      "name": "Dam Ancal",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9557ºS 113.7812ºE"
+    },
+    {
+      "no": 222,
+      "name": "Dam Awen-awen",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.75306ºS 111.02833ºE"
+    },
+    {
+      "no": 223,
+      "name": "Dam Bafasari",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.26694ºS 109.34444ºE"
+    },
+    {
+      "no": 224,
+      "name": "Dam Bahgepuh",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.4832ºS 112.7508ºE"
+    },
+    {
+      "no": 225,
+      "name": "Dam Bajangan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7085ºS 112.8915ºE"
+    },
+    {
+      "no": 226,
+      "name": "Dam Balaikambang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83611ºS 111.04389ºE"
+    },
+    {
+      "no": 227,
+      "name": "Dam Balong",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.95ºS 111.03417ºE"
+    },
+    {
+      "no": 228,
+      "name": "Dam Bantongan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7121ºS 114.0085ºE"
+    },
+    {
+      "no": 229,
+      "name": "Dam Beliktelu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.85194ºS 111.11139ºE"
+    },
+    {
+      "no": 230,
+      "name": "Dam Bendo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.3869ºS 111.5438ºE"
+    },
+    {
+      "no": 231,
+      "name": "Dam Besole",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0228ºS 110.2978ºE"
+    },
+    {
+      "no": 232,
+      "name": "Dam Bludu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81028ºS 111.09278ºE"
+    },
+    {
+      "no": 233,
+      "name": "Dam Bolang",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1681ºS 113.1158ºE"
+    },
+    {
+      "no": 234,
+      "name": "Dam Brenggalan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.855ºS 111.09222ºE"
+    },
+    {
+      "no": 235,
+      "name": "Dam Bulu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84722ºS 111.10139ºE"
+    },
+    {
+      "no": 236,
+      "name": "Dam Candimuncar",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.71722ºS 111.14667ºE"
+    },
+    {
+      "no": 237,
+      "name": "Dam Cangkring",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2964ºS 114.2514ºE"
+    },
+    {
+      "no": 238,
+      "name": "Dam Carian",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.86306ºS 111.11972ºE"
+    },
+    {
+      "no": 239,
+      "name": "Dam Cijangkelok",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "6.9765ºS 108.7614ºE"
+    },
+    {
+      "no": 240,
+      "name": "Dam Cinomati",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.77389ºS 111.03833ºE"
+    },
+    {
+      "no": 241,
+      "name": "Dam Condong",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81639ºS 111.02139ºE"
+    },
+    {
+      "no": 242,
+      "name": "Dam Cumpleng",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.82667ºS 111.03194ºE"
+    },
+    {
+      "no": 243,
+      "name": "Dam Cuwo",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.86278ºS 111.09333ºE"
+    },
+    {
+      "no": 244,
+      "name": "Dam Danawarih",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0807ºS 109.1329ºE"
+    },
+    {
+      "no": 245,
+      "name": "Dam Dangka",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.91972ºS 111.34361ºE"
+    },
+    {
+      "no": 246,
+      "name": "Dam Dara",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6372ºS 118.7599ºE"
+    },
+    {
+      "no": 247,
+      "name": "Dam Dari",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.66139ºS 110.91556ºE"
+    },
+    {
+      "no": 248,
+      "name": "Dam Dimoro",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.6025ºS 110.96333ºE"
+    },
+    {
+      "no": 249,
+      "name": "Dam Dinamo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7813ºS 114.2329ºE"
+    },
+    {
+      "no": 250,
+      "name": "Dam Geneng",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.78111ºS 111.07917ºE"
+    },
+    {
+      "no": 251,
+      "name": "Dam Grama",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.561ºS 111.6922ºE"
+    },
+    {
+      "no": 252,
+      "name": "Dam Jambeyan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83556ºS 111.09056ºE"
+    },
+    {
+      "no": 253,
+      "name": "Dam Jangguk",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9857ºS 113.8587ºE"
+    },
+    {
+      "no": 254,
+      "name": "Dam Jatinom",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81139ºS 111.10778ºE"
+    },
+    {
+      "no": 255,
+      "name": "Dam Jeblok",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81889ºS 111.12083ºE"
+    },
+    {
+      "no": 256,
+      "name": "Dam Kacangan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.2766ºS 111.7256ºE"
+    },
+    {
+      "no": 257,
+      "name": "Dam Kalibening",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.37944ºS 111.16222ºE"
+    },
+    {
+      "no": 258,
+      "name": "Dam Kaliboto",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.55361ºS 110.96389ºE"
+    },
+    {
+      "no": 259,
+      "name": "Dam Kalongan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.58694ºS 110.94056ºE"
+    },
+    {
+      "no": 260,
+      "name": "Dam Karet Menturus",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.4441ºS 112.3112ºE"
+    },
+    {
+      "no": 261,
+      "name": "Dam Kebonbibit",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.86361ºS 111.11333ºE"
+    },
+    {
+      "no": 262,
+      "name": "Dam Kedunggatot",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.51556ºS 110.98917ºE"
+    },
+    {
+      "no": 263,
+      "name": "Dam Kedungnunut",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.63167ºS 111.03667ºE"
+    },
+    {
+      "no": 264,
+      "name": "Dam Kedungurung-urung",
+      "province": "Indonesia (general)",
+      "type": "S (DAM)",
+      "coordinates": "7.48417ºS 111.13611ºE"
+    },
+    {
+      "no": 265,
+      "name": "Dam Kedungwuluh",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.88139ºS 111.00861ºE"
+    },
+    {
+      "no": 266,
+      "name": "Dam Kepil",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83444ºS 111.0375ºE"
+    },
+    {
+      "no": 267,
+      "name": "Dam Kerjo",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84889ºS 111.02528ºE"
+    },
+    {
+      "no": 268,
+      "name": "Dam Ketel",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84694ºS 111.01083ºE"
+    },
+    {
+      "no": 269,
+      "name": "Dam Klepu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.8675ºS 111.02417ºE"
+    },
+    {
+      "no": 270,
+      "name": "Dam Klumpit",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.76306ºS 111.00917ºE"
+    },
+    {
+      "no": 271,
+      "name": "Dam Kluwung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83556ºS 111.11ºE"
+    },
+    {
+      "no": 272,
+      "name": "Dam Kodok",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.82694ºS 111.08333ºE"
+    },
+    {
+      "no": 273,
+      "name": "Dam Kopro Banjir",
+      "province": "Jakarta Raya",
+      "type": "S (DAM)",
+      "coordinates": "6.1111ºS 106.7972ºE"
+    },
+    {
+      "no": 274,
+      "name": "Dam Langai",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7352ºS 114.0043ºE"
+    },
+    {
+      "no": 275,
+      "name": "Dam Lawoto",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.4788ºS 118.7959ºE"
+    },
+    {
+      "no": 276,
+      "name": "Dam Lemahgapit",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.245ºS 112.2926ºE"
+    },
+    {
+      "no": 277,
+      "name": "Dam Leuwjistri",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.76139ºS 107.87611ºE"
+    },
+    {
+      "no": 278,
+      "name": "Dam Lobo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1195ºS 112.5984ºE"
+    },
+    {
+      "no": 279,
+      "name": "Dam Logung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.82028ºS 111.02528ºE"
+    },
+    {
+      "no": 280,
+      "name": "Dam Losari",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.38722ºS 111.15111ºE"
+    },
+    {
+      "no": 281,
+      "name": "Dam Lumpangbolong",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6087ºS 112.7956ºE"
+    },
+    {
+      "no": 282,
+      "name": "Dam Macan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7704ºS 114.2317ºE"
+    },
+    {
+      "no": 283,
+      "name": "Dam Madapangga",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.4922ºS 118.5363ºE"
+    },
+    {
+      "no": 284,
+      "name": "Dam Maguan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.82944ºS 111.03944ºE"
+    },
+    {
+      "no": 285,
+      "name": "Dam Makan",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9577ºS 113.8295ºE"
+    },
+    {
+      "no": 286,
+      "name": "Dam Manding",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.80417ºS 111.08417ºE"
+    },
+    {
+      "no": 287,
+      "name": "Dam Mandiro",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "7.8736ºS 113.8322ºE"
+    },
+    {
+      "no": 288,
+      "name": "Dam Manggisan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.80528ºS 111.09194ºE"
+    },
+    {
+      "no": 289,
+      "name": "Dam Mengger",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.34028ºS 111.21944ºE"
+    },
+    {
+      "no": 290,
+      "name": "Dam Mertosari",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.67417ºS 110.89944ºE"
+    },
+    {
+      "no": 291,
+      "name": "Dam Mlancing",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81861ºS 111.1025ºE"
+    },
+    {
+      "no": 292,
+      "name": "Dam Mokemanu",
+      "province": "Nusa Tenggara Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.8521ºS 121.2816ºE"
+    },
+    {
+      "no": 293,
+      "name": "Dam Nae",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.3408ºS 118.9171ºE"
+    },
+    {
+      "no": 294,
+      "name": "Dam Naruan",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83889ºS 111.04222ºE"
+    },
+    {
+      "no": 295,
+      "name": "Dam Nayu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.87222ºS 111.11833ºE"
+    },
+    {
+      "no": 296,
+      "name": "Dam Nguni",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1075ºS 111.06389ºE"
+    },
+    {
+      "no": 297,
+      "name": "Dam Oilembeci",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.394ºS 118.9156ºE"
+    },
+    {
+      "no": 298,
+      "name": "Dam Oirababusi",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6988ºS 118.8272ºE"
+    },
+    {
+      "no": 299,
+      "name": "Dam Orong-orong",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7414ºS 112.8782ºE"
+    },
+    {
+      "no": 300,
+      "name": "Dam Padasmalang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.85528ºS 111.12139ºE"
+    },
+    {
+      "no": 301,
+      "name": "Dam Pahmileng",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.43694ºS 111.21444ºE"
+    },
+    {
+      "no": 302,
+      "name": "Dam Palaparado",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6593ºS 118.6962ºE"
+    },
+    {
+      "no": 303,
+      "name": "Dam Panggang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84972ºS 111.1ºE"
+    },
+    {
+      "no": 304,
+      "name": "Dam Panggunguni",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2019ºS 112.004ºE"
+    },
+    {
+      "no": 305,
+      "name": "Dam Pelacempaka",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.7026ºS 118.6448ºE"
+    },
+    {
+      "no": 306,
+      "name": "Dam Pembangkit Listrik Tenaga Air Larona",
+      "province": "Sulawesi Selatan",
+      "type": "S (DAM)",
+      "coordinates": "2.7118ºS 121.309ºE"
+    },
+    {
+      "no": 307,
+      "name": "Dam Pengendali",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2004ºS 112.0292ºE"
+    },
+    {
+      "no": 308,
+      "name": "Dam Pesucen",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.68444ºS 109.6925ºE"
+    },
+    {
+      "no": 309,
+      "name": "Dam Petung",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6787ºS 112.9171ºE"
+    },
+    {
+      "no": 310,
+      "name": "Dam Pintu Lima",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7212ºS 114.0136ºE"
+    },
+    {
+      "no": 311,
+      "name": "Dam Pleret",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.785ºS 111.03944ºE"
+    },
+    {
+      "no": 312,
+      "name": "Dam Pleret",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6808ºS 112.8828ºE"
+    },
+    {
+      "no": 313,
+      "name": "Dam Ploso",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81722ºS 111.11528ºE"
+    },
+    {
+      "no": 314,
+      "name": "Dam Pluit",
+      "province": "Jakarta Raya",
+      "type": "S (DAM)",
+      "coordinates": "6.1244ºS 106.8018ºE"
+    },
+    {
+      "no": 315,
+      "name": "Dam Podang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.66389ºS 111.00833ºE"
+    },
+    {
+      "no": 316,
+      "name": "Dam Premben",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83194ºS 111.01667ºE"
+    },
+    {
+      "no": 317,
+      "name": "Dam Pringduri",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9028ºS 113.8113ºE"
+    },
+    {
+      "no": 318,
+      "name": "Dam Pucung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.94667ºS 111.10722ºE"
+    },
+    {
+      "no": 319,
+      "name": "Dam Pule",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.80472ºS 111.10889ºE"
+    },
+    {
+      "no": 320,
+      "name": "Dam Pule",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.3987ºS 111.5225ºE"
+    },
+    {
+      "no": 321,
+      "name": "Dam Raba Baka",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.5162ºS 118.4238ºE"
+    },
+    {
+      "no": 322,
+      "name": "Dam Ringinrejo Barat",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2221ºS 112.0758ºE"
+    },
+    {
+      "no": 323,
+      "name": "Dam Ringinrejo Timur",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.2193ºS 112.0817ºE"
+    },
+    {
+      "no": 324,
+      "name": "Dam Roiroka",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.58184ºS 118.72026ºE"
+    },
+    {
+      "no": 325,
+      "name": "Dam Sadang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.75667ºS 111.04833ºE"
+    },
+    {
+      "no": 326,
+      "name": "Dam Salam",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.75833ºS 111.02694ºE"
+    },
+    {
+      "no": 327,
+      "name": "Dam Sambi",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.80972ºS 111.09583ºE"
+    },
+    {
+      "no": 328,
+      "name": "Dam Sambi",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "8.01722ºS 111.08028ºE"
+    },
+    {
+      "no": 329,
+      "name": "Dam Sarpudin",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7233ºS 114.0689ºE"
+    },
+    {
+      "no": 330,
+      "name": "Dam Segawe",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.9968ºS 111.8202ºE"
+    },
+    {
+      "no": 331,
+      "name": "Dam Setupatok",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.7817ºS 108.5705ºE"
+    },
+    {
+      "no": 332,
+      "name": "Dam Sidamas",
+      "province": "Jawa Barat",
+      "type": "S (DAM)",
+      "coordinates": "6.6991ºS 108.5033ºE"
+    },
+    {
+      "no": 333,
+      "name": "Dam Sidodadi",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.34167ºS 111.14444ºE"
+    },
+    {
+      "no": 334,
+      "name": "Dam Sidomakmur",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.73083ºS 110.95028ºE"
+    },
+    {
+      "no": 335,
+      "name": "Dam Sireng",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84722ºS 111.04778ºE"
+    },
+    {
+      "no": 336,
+      "name": "Dam Soko",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "8.00528ºS 111.07417ºE"
+    },
+    {
+      "no": 337,
+      "name": "Dam Sorinae",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6827ºS 118.7952ºE"
+    },
+    {
+      "no": 338,
+      "name": "Dam Sumberejo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.1893ºS 112.1146ºE"
+    },
+    {
+      "no": 339,
+      "name": "Dam Sumbergayam",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.7315ºS 113.104ºE"
+    },
+    {
+      "no": 340,
+      "name": "Dam Suruh",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.7975ºS 111.095ºE"
+    },
+    {
+      "no": 341,
+      "name": "Dam Tare",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.81778ºS 111.02917ºE"
+    },
+    {
+      "no": 342,
+      "name": "Dam Tawang",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.56111ºS 109.725ºE"
+    },
+    {
+      "no": 343,
+      "name": "Dam Tebon Dua",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83972ºS 111.02028ºE"
+    },
+    {
+      "no": 344,
+      "name": "Dam Tebon Satu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.84917ºS 111.01722ºE"
+    },
+    {
+      "no": 345,
+      "name": "Dam Tikung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.0047ºS 110.3226ºE"
+    },
+    {
+      "no": 346,
+      "name": "Dam Toyo",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.97306ºS 111.02056ºE"
+    },
+    {
+      "no": 347,
+      "name": "Dam Tumbu",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.85861ºS 111.12028ºE"
+    },
+    {
+      "no": 348,
+      "name": "Dam Umbul",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.85056ºS 111.09583ºE"
+    },
+    {
+      "no": 349,
+      "name": "Dam Umbul Bondoyudo",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "8.0948ºS 113.2617ºE"
+    },
+    {
+      "no": 350,
+      "name": "Dam Wadunae",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.6337ºS 118.7758ºE"
+    },
+    {
+      "no": 351,
+      "name": "Dam Watang",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.2831ºS 111.6224ºE"
+    },
+    {
+      "no": 352,
+      "name": "Dam Wates",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.6098ºS 111.6916ºE"
+    },
+    {
+      "no": 353,
+      "name": "Dam Watugajah",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.80194ºS 111.11111ºE"
+    },
+    {
+      "no": 354,
+      "name": "Dam Watutarung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.59694ºS 109.63444ºE"
+    },
+    {
+      "no": 355,
+      "name": "Dam Winong",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.7325ºS 110.9825ºE"
+    },
+    {
+      "no": 356,
+      "name": "Dam Wirung",
+      "province": "Jawa Tengah",
+      "type": "S (DAM)",
+      "coordinates": "7.83611ºS 111.09889ºE"
+    },
+    {
+      "no": 357,
+      "name": "Danau Ngarasa",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.02927ºS 112.95548ºE"
+    },
+    {
+      "no": 358,
+      "name": "Danau Tenokok",
+      "province": "Jawa Timur",
+      "type": "S (DAM)",
+      "coordinates": "7.03264ºS 112.97965ºE"
+    },
+    {
+      "no": 359,
+      "name": "Embung Aiqbukaq",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5768ºS 116.3424ºE"
+    },
+    {
+      "no": 360,
+      "name": "Embung Apitoye",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6966ºS 116.521ºE"
+    },
+    {
+      "no": 361,
+      "name": "Embung Bage",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6696ºS 116.3278ºE"
+    },
+    {
+      "no": 362,
+      "name": "Embung Bagektungke",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7204ºS 116.4782ºE"
+    },
+    {
+      "no": 363,
+      "name": "Embung Batubokah",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.8508ºS 116.2082ºE"
+    },
+    {
+      "no": 364,
+      "name": "Embung Belik",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6892ºS 116.5151ºE"
+    },
+    {
+      "no": 365,
+      "name": "Embung Bengak",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6997ºS 116.4355ºE"
+    },
+    {
+      "no": 366,
+      "name": "Embung Boboh",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.646ºS 116.304ºE"
+    },
+    {
+      "no": 367,
+      "name": "Embung Bombas",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.8256ºS 116.2407ºE"
+    },
+    {
+      "no": 368,
+      "name": "Embung Bote",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.3348ºS 118.8977ºE"
+    },
+    {
+      "no": 369,
+      "name": "Embung Bual",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5606ºS 116.3767ºE"
+    },
+    {
+      "no": 370,
+      "name": "Embung Dakung",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7127ºS 116.339ºE"
+    },
+    {
+      "no": 371,
+      "name": "Embung Dalam",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7432ºS 116.4629ºE"
+    },
+    {
+      "no": 372,
+      "name": "Embung Dao",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5996ºS 116.3463ºE"
+    },
+    {
+      "no": 373,
+      "name": "Embung Dasanbaru",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.4913ºS 118.2941ºE"
+    },
+    {
+      "no": 374,
+      "name": "Embung Dasansari",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6795ºS 116.3713ºE"
+    },
+    {
+      "no": 375,
+      "name": "Embung Gerimat",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6924ºS 116.4127ºE"
+    },
+    {
+      "no": 376,
+      "name": "Embung Guleliat",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5736ºS 116.3618ºE"
+    },
+    {
+      "no": 377,
+      "name": "Embung Gunungpaok",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5495ºS 116.39ºE"
+    },
+    {
+      "no": 378,
+      "name": "Embung Gunungsepang",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6741ºS 116.5196ºE"
+    },
+    {
+      "no": 379,
+      "name": "Embung Jebak",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6837ºS 116.402ºE"
+    },
+    {
+      "no": 380,
+      "name": "Embung Jembe",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7153ºS 116.4131ºE"
+    },
+    {
+      "no": 381,
+      "name": "Embung Jengguar",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5716ºS 116.3192ºE"
+    },
+    {
+      "no": 382,
+      "name": "Embung Jeropoto",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6965ºS 116.433ºE"
+    },
+    {
+      "no": 383,
+      "name": "Embung Jongkor",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7311ºS 116.4042ºE"
+    },
+    {
+      "no": 384,
+      "name": "Embung Juring",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7021ºS 116.3713ºE"
+    },
+    {
+      "no": 385,
+      "name": "Embung Kandong",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6721ºS 116.4008ºE"
+    },
+    {
+      "no": 386,
+      "name": "Embung Karung",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6398ºS 116.3758ºE"
+    },
+    {
+      "no": 387,
+      "name": "Embung Kelampa",
+      "province": "Nusa Tenggara Barat",
+      "type": "S (DAM)",
+      "coordinates": "8.3402ºS 118.9259ºE"
+    },
+    {
+      "no": 388,
+      "name": "Embung Kenyalu",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6941ºS 116.4295ºE"
+    },
+    {
+      "no": 389,
+      "name": "Embung Keru",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5738ºS 116.2633ºE"
+    },
+    {
+      "no": 390,
+      "name": "Embung Kondak",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7131ºS 116.4884ºE"
+    },
+    {
+      "no": 391,
+      "name": "Embung Kuang",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6847ºS 116.3887ºE"
+    },
+    {
+      "no": 392,
+      "name": "Embung Lendangbatah",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6459ºS 116.2864ºE"
+    },
+    {
+      "no": 393,
+      "name": "Embung Linglokoloh",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6854ºS 116.4522ºE"
+    },
+    {
+      "no": 394,
+      "name": "Embung Lonce",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6746ºS 116.4252ºE"
+    },
+    {
+      "no": 395,
+      "name": "Embung Malang",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6739ºS 116.3666ºE"
+    },
+    {
+      "no": 396,
+      "name": "Embung Mari",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.5895ºS 116.3826ºE"
+    },
+    {
+      "no": 397,
+      "name": "Embung Monjong",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.703ºS 116.406ºE"
+    },
+    {
+      "no": 398,
+      "name": "Embung Montongsapah",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7959ºS 116.1429ºE"
+    },
+    {
+      "no": 399,
+      "name": "Embung Muncan",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6586ºS 116.3285ºE"
+    },
+    {
+      "no": 400,
+      "name": "Embung Ncera",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6447ºS 118.7592ºE"
+    },
+    {
+      "no": 401,
+      "name": "Embung Nuru",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6857ºS 116.366ºE"
+    },
+    {
+      "no": 402,
+      "name": "Embung Pandantinggang",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.8264ºS 116.1437ºE"
+    },
+    {
+      "no": 403,
+      "name": "Embung Pasekar",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6795ºS 116.4066ºE"
+    },
+    {
+      "no": 404,
+      "name": "Embung Penye",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6892ºS 116.4501ºE"
+    },
+    {
+      "no": 405,
+      "name": "Embung Petiji",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6059ºS 116.3796ºE"
+    },
+    {
+      "no": 406,
+      "name": "Embung Petorok",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6677ºS 116.3776ºE"
+    },
+    {
+      "no": 407,
+      "name": "Embung Praigunung",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.696ºS 116.3175ºE"
+    },
+    {
+      "no": 408,
+      "name": "Embung Raba",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7459ºS 116.3091ºE"
+    },
+    {
+      "no": 409,
+      "name": "Embung Rage",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7943ºS 116.1989ºE"
+    },
+    {
+      "no": 410,
+      "name": "Embung Raja",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6841ºS 116.426ºE"
+    },
+    {
+      "no": 411,
+      "name": "Embung Repok",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7026ºS 116.4399ºE"
+    },
+    {
+      "no": 412,
+      "name": "Embung Repokkere",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7331ºS 116.5292ºE"
+    },
+    {
+      "no": 413,
+      "name": "Embung Ringkeh",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.624ºS 116.3721ºE"
+    },
+    {
+      "no": 414,
+      "name": "Embung Roiroka",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.58522ºS 118.72193ºE"
+    },
+    {
+      "no": 415,
+      "name": "Embung Selante",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.8164ºS 117.7575ºE"
+    },
+    {
+      "no": 416,
+      "name": "Embung Setambir",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6729ºS 116.3946ºE"
+    },
+    {
+      "no": 417,
+      "name": "Embung Suntiang",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6773ºS 116.3846ºE"
+    },
+    {
+      "no": 418,
+      "name": "Embung Surabaya",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6786ºS 116.3287ºE"
+    },
+    {
+      "no": 419,
+      "name": "Embung Tampih",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7193ºS 116.5187ºE"
+    },
+    {
+      "no": 420,
+      "name": "Embung Tanggor",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.698ºS 116.3456ºE"
+    },
+    {
+      "no": 421,
+      "name": "Embung Tasikasi",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7075ºS 116.3879ºE"
+    },
+    {
+      "no": 422,
+      "name": "Embung Toyang",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7108ºS 116.4802ºE"
+    },
+    {
+      "no": 423,
+      "name": "Embung Yagok",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6359ºS 116.3784ºE"
+    },
+    {
+      "no": 424,
+      "name": "Irigasi Sumber Kakap",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "8.03333ºS 110.92806ºE"
+    },
+    {
+      "no": 425,
+      "name": "Irigasi Tambaksari",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "8.06ºS 110.88694ºE"
+    },
+    {
+      "no": 426,
+      "name": "Jatiluhur",
+      "province": "Indonesia (general)",
+      "type": "S (DAM)",
+      "coordinates": "6.58333ºS 107.33333ºE"
+    },
+    {
+      "no": 427,
+      "name": "Kolam Lamajand",
+      "province": "Jawa Barat",
+      "type": "H (RSV)",
+      "coordinates": "7.14444ºS 107.55139ºE"
+    },
+    {
+      "no": 428,
+      "name": "Kolam Segaran",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.558ºS 112.3829ºE"
+    },
+    {
+      "no": 429,
+      "name": "Lapen Gatuk",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.2509ºS 111.5922ºE"
+    },
+    {
+      "no": 430,
+      "name": "Situ Bolang",
+      "province": "Jawa Barat",
+      "type": "H (RSV)",
+      "coordinates": "6.85528ºS 107.50361ºE"
+    },
+    {
+      "no": 431,
+      "name": "Waduk Bade",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.36083ºS 110.70167ºE"
+    },
+    {
+      "no": 432,
+      "name": "Waduk Balongganggang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.1326ºS 112.3158ºE"
+    },
+    {
+      "no": 433,
+      "name": "Waduk Banaran",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.28306ºS 110.99222ºE"
+    },
+    {
+      "no": 434,
+      "name": "Waduk Baran",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.97361ºS 110.83361ºE"
+    },
+    {
+      "no": 435,
+      "name": "Waduk Batujai",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.7297ºS 116.2705ºE"
+    },
+    {
+      "no": 436,
+      "name": "Waduk Bentolo",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "6.9887ºS 111.2057ºE"
+    },
+    {
+      "no": 437,
+      "name": "Waduk Botok",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.5275ºS 111.04389ºE"
+    },
+    {
+      "no": 438,
+      "name": "Waduk Cacaban",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.0081ºS 109.2046ºE"
+    },
+    {
+      "no": 439,
+      "name": "Waduk Cengklik",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.50639ºS 110.725ºE"
+    },
+    {
+      "no": 440,
+      "name": "Waduk Cindelaras",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.185ºS 110.92583ºE"
+    },
+    {
+      "no": 441,
+      "name": "Waduk Cirata",
+      "province": "Jawa Barat",
+      "type": "H (RSV)",
+      "coordinates": "6.73111ºS 107.29639ºE"
+    },
+    {
+      "no": 442,
+      "name": "Waduk Donosari",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.33889ºS 110.94639ºE"
+    },
+    {
+      "no": 443,
+      "name": "Waduk Gambringan",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.15ºS 110.91583ºE"
+    },
+    {
+      "no": 444,
+      "name": "Waduk Gayam",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.2127ºS 111.85741ºE"
+    },
+    {
+      "no": 445,
+      "name": "Waduk Glagahrejo",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.31472ºS 110.99528ºE"
+    },
+    {
+      "no": 446,
+      "name": "Waduk Gondang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.2091ºS 112.2682ºE"
+    },
+    {
+      "no": 447,
+      "name": "Waduk Gosek",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.28472ºS 110.97778ºE"
+    },
+    {
+      "no": 448,
+      "name": "Waduk Jatigrombol",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.28889ºS 110.95361ºE"
+    },
+    {
+      "no": 449,
+      "name": "Waduk Jatiluhur",
+      "province": "Jawa Barat",
+      "type": "H (RSV)",
+      "coordinates": "6.53528ºS 107.32944ºE"
+    },
+    {
+      "no": 450,
+      "name": "Waduk Jombor",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.75639ºS 110.62389ºE"
+    },
+    {
+      "no": 451,
+      "name": "Waduk Jotosanur",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.1597ºS 112.4041ºE"
+    },
+    {
+      "no": 452,
+      "name": "Waduk Karangkates",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "8.1837ºS 112.4802ºE"
+    },
+    {
+      "no": 453,
+      "name": "Waduk Kedungbendo",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.385ºS 111.5452ºE"
+    },
+    {
+      "no": 454,
+      "name": "Waduk Kedungombo",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.27278ºS 110.82ºE"
+    },
+    {
+      "no": 455,
+      "name": "Waduk Kedunguling",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.94028ºS 110.84083ºE"
+    },
+    {
+      "no": 456,
+      "name": "Waduk Krakatausteel",
+      "province": "Banten",
+      "type": "H (RSV)",
+      "coordinates": "6.0143ºS 106.0293ºE"
+    },
+    {
+      "no": 457,
+      "name": "Waduk Lalung",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.61417ºS 110.93778ºE"
+    },
+    {
+      "no": 458,
+      "name": "Waduk Laor",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "8.144ºS 112.4743ºE"
+    },
+    {
+      "no": 459,
+      "name": "Waduk Leran Dua",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.17464ºS 111.80982ºE"
+    },
+    {
+      "no": 460,
+      "name": "Waduk Leran Satu",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.17008ºS 111.80633ºE"
+    },
+    {
+      "no": 461,
+      "name": "Waduk Logawe",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.4976ºS 112.0808ºE"
+    },
+    {
+      "no": 462,
+      "name": "Waduk Mojoendok",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.33111ºS 110.87778ºE"
+    },
+    {
+      "no": 463,
+      "name": "Waduk Mrica",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.38556ºS 109.62111ºE"
+    },
+    {
+      "no": 464,
+      "name": "Waduk Mulur",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.68917ºS 110.87722ºE"
+    },
+    {
+      "no": 465,
+      "name": "Waduk Ngancar",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.99333ºS 110.98333ºE"
+    },
+    {
+      "no": 466,
+      "name": "Waduk Nglambang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.298ºS 111.7282ºE"
+    },
+    {
+      "no": 467,
+      "name": "Waduk Notopuro",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.4855ºS 111.6948ºE"
+    },
+    {
+      "no": 468,
+      "name": "Waduk Pacal",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.3674ºS 111.869ºE"
+    },
+    {
+      "no": 469,
+      "name": "Waduk Palasari",
+      "province": "Bali",
+      "type": "H (RSV)",
+      "coordinates": "8.2508ºS 114.5557ºE"
+    },
+    {
+      "no": 470,
+      "name": "Waduk Panjang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.3375ºS 112.0536ºE"
+    },
+    {
+      "no": 471,
+      "name": "Waduk Parangjoho",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.94806ºS 110.81639ºE"
+    },
+    {
+      "no": 472,
+      "name": "Waduk Pare",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.29417ºS 110.98ºE"
+    },
+    {
+      "no": 473,
+      "name": "Waduk Pare",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.32194ºS 110.9175ºE"
+    },
+    {
+      "no": 474,
+      "name": "Waduk Perning",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.5061ºS 112.1129ºE"
+    },
+    {
+      "no": 475,
+      "name": "Waduk Rancang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.1609ºS 112.3714ºE"
+    },
+    {
+      "no": 476,
+      "name": "Waduk Riamkanan",
+      "province": "Indonesia (general)",
+      "type": "H (RSV)",
+      "coordinates": "3.53333ºS 115.05ºE"
+    },
+    {
+      "no": 477,
+      "name": "Waduk Sange",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.15ºS 110.92361ºE"
+    },
+    {
+      "no": 478,
+      "name": "Waduk Sempor",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.55583ºS 109.48472ºE"
+    },
+    {
+      "no": 479,
+      "name": "Waduk Sendang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.4927ºS 112.0708ºE"
+    },
+    {
+      "no": 480,
+      "name": "Waduk Sengguruh",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "8.1871ºS 112.556ºE"
+    },
+    {
+      "no": 481,
+      "name": "Waduk Serbaguna Gajahmungkur",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.90528ºS 110.89944ºE"
+    },
+    {
+      "no": 482,
+      "name": "Waduk Sigura-Gura",
+      "province": "Sumatera Utara",
+      "type": "S (DAM)",
+      "coordinates": ""
+    },
+    {
+      "no": 483,
+      "name": "Waduk Sidorejo",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.23222ºS 110.85306ºE"
+    },
+    {
+      "no": 484,
+      "name": "Waduk Solovai",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.2231ºS 111.5547ºE"
+    },
+    {
+      "no": 485,
+      "name": "Waduk Songputri",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.99139ºS 110.82861ºE"
+    },
+    {
+      "no": 486,
+      "name": "Waduk Sonorejo",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.18444ºS 110.88944ºE"
+    },
+    {
+      "no": 487,
+      "name": "Waduk Sumberkepuh",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.496ºS 112.067ºE"
+    },
+    {
+      "no": 488,
+      "name": "Waduk Sumbersono",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.4978ºS 112.0843ºE"
+    },
+    {
+      "no": 489,
+      "name": "Waduk Suru",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.20167ºS 111.09889ºE"
+    },
+    {
+      "no": 490,
+      "name": "Waduk Tirtomarto",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.59056ºS 110.98944ºE"
+    },
+    {
+      "no": 491,
+      "name": "Waduk Tiukulit",
+      "province": "Nusa Tenggara Barat",
+      "type": "H (RSV)",
+      "coordinates": "8.6959ºS 117.6776ºE"
+    },
+    {
+      "no": 492,
+      "name": "Waduk Wadaslintang",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.57583ºS 109.78639ºE"
+    },
+    {
+      "no": 493,
+      "name": "Waduk Warunggedang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.275ºS 111.5141ºE"
+    },
+    {
+      "no": 494,
+      "name": "Waduk Watang",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.2832ºS 111.6217ºE"
+    },
+    {
+      "no": 495,
+      "name": "Waduk Widas",
+      "province": "Jawa Timur",
+      "type": "H (RSV)",
+      "coordinates": "7.5382ºS 111.7952ºE"
+    },
+    {
+      "no": 496,
+      "name": "Waduk Winong",
+      "province": "Jawa Tengah",
+      "type": "H (RSV)",
+      "coordinates": "7.41778ºS 110.61861ºE"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Bendungan di Indonesia - Free Download",
+    "description": "Daftar bendungan dan waduk di Indonesia beserta provinsi, tipe bendungan, dan koordinat lokasi. Contains 497 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Bendungan di Indonesia | ListBase",
+    "seo_description": "Download Daftar Bendungan di Indonesia — 497 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 497 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bendungan_di_Indonesia"
+    ]
+  }
+}

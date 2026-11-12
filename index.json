@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-11-11T02:18:28.740Z",
-  "total_datasets": 636,
-  "total_records": 657688,
+  "generated": "2026-11-12T02:11:27.074Z",
+  "total_datasets": 637,
+  "total_records": 658185,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -106,6 +106,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "id-bendungan",
+      "name": "Daftar Bendungan di Indonesia",
+      "category": "agriculture",
+      "record_count": 497,
+      "columns": [
+        "no",
+        "name",
+        "province",
+        "type",
+        "coordinates"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bendungan_di_Indonesia",
+      "updated": "2026-11",
+      "size": 84871,
+      "files": {
+        "csv": {
+          "name": "id-bendungan_ID.csv",
+          "size": 36625
+        },
+        "xlsx": {
+          "name": "id-bendungan_ID.xlsx",
+          "size": 26807
+        }
+      }
+    },
     {
       "id": "id-harga-beras-historis",
       "name": "Harga Rata-Rata Beras di Indonesia dari Masa ke Masa",
