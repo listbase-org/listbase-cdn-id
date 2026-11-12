@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-12T02:12:14.305Z",
-  "total_datasets": 638,
-  "total_records": 658249,
+  "generated": "2026-11-12T02:12:22.864Z",
+  "total_datasets": 639,
+  "total_records": 658381,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -6455,6 +6455,31 @@
         "xlsx": {
           "name": "id-poltekkes-kemenkes_ID.xlsx",
           "size": 8896
+        }
+      }
+    },
+    {
+      "id": "id-rs-rujukan-covid-19",
+      "name": "Daftar Rumah Sakit Rujukan COVID-19 di Indonesia",
+      "category": "health",
+      "record_count": 132,
+      "columns": [
+        "no",
+        "name",
+        "province",
+        "contact"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_rumah_sakit_rujukan_COVID-19_di_Indonesia",
+      "updated": "2026-11",
+      "size": 23842,
+      "files": {
+        "csv": {
+          "name": "id-rs-rujukan-covid-19_ID.csv",
+          "size": 12298
+        },
+        "xlsx": {
+          "name": "id-rs-rujukan-covid-19_ID.xlsx",
+          "size": 13591
         }
       }
     },
