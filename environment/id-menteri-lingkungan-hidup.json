@@ -1,0 +1,205 @@
+{
+  "id": "id-menteri-lingkungan-hidup",
+  "name": "Daftar Menteri Lingkungan Hidup Indonesia",
+  "title": "Daftar Menteri Lingkungan Hidup Indonesia",
+  "description": "Menteri Negara Lingkungan Hidup dan Menteri Lingkungan Hidup (dan Kehutanan) Indonesia sejak 1978: nama, partai, kabinet dan masa jabatan.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Lingkungan_Hidup_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Lingkungan_Hidup_Indonesia",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Emil Salim",
+      "party": "Golkar",
+      "cabinet": "Pembangunan III",
+      "start": "31 Maret 1978",
+      "end": "16 Maret 1983",
+      "note": ""
+    },
+    {
+      "no": 1,
+      "name": "Emil Salim",
+      "party": "Golkar",
+      "cabinet": "Pembangunan IV",
+      "start": "19 Maret 1983",
+      "end": "21 Maret 1988",
+      "note": ""
+    },
+    {
+      "no": 1,
+      "name": "Emil Salim",
+      "party": "Golkar",
+      "cabinet": "Pembangunan V",
+      "start": "23 Maret 1988",
+      "end": "17 Maret 1993",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "Sarwono Kusumaatmadja (1943–2023)",
+      "party": "Golkar",
+      "cabinet": "Pembangunan VI",
+      "start": "19 Maret 1993",
+      "end": "11 Maret 1998",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "Juwono Sudarsono (1942–2026)",
+      "party": "Golkar",
+      "cabinet": "Pembangunan VII",
+      "start": "16 Maret 1998",
+      "end": "21 Mei 1998",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "name": "Panangian Siregar (1936–2020)",
+      "party": "PDI",
+      "cabinet": "Reformasi Pembangunan",
+      "start": "23 Mei 1998",
+      "end": "20 Oktober 1999",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "name": "Sonny Keraf",
+      "party": "PDIP",
+      "cabinet": "Persatuan Nasional",
+      "start": "29 Oktober 1999",
+      "end": "23 Juli 2001",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "Nabiel Makarim (1945–2021)",
+      "party": "Independen",
+      "cabinet": "Gotong Royong",
+      "start": "10 Agustus 2001",
+      "end": "20 Oktober 2004",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "Rachmat Witoelar",
+      "party": "Golkar",
+      "cabinet": "Indonesia Bersatu",
+      "start": "21 Oktober 2004",
+      "end": "20 Oktober 2009",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "Gusti Muhammad Hatta",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "22 Oktober 2009",
+      "end": "19 Oktober 2011",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "Balthasar Kambuaya",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "19 Oktober 2011",
+      "end": "20 Oktober 2014",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Siti Nurbaya Bakar",
+      "party": "NasDem",
+      "cabinet": "Kerja",
+      "start": "27 Oktober 2014",
+      "end": "20 Oktober 2019",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Siti Nurbaya Bakar",
+      "party": "NasDem",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Oktober 2019",
+      "end": "20 Oktober 2024",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "Hanif Faisol Nurofiq",
+      "party": "Independen",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "27 April 2026",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "Hanif Faisol Nurofiq",
+      "party": "PAN",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "27 April 2026",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "Jumhur Hidayat",
+      "party": "Independen",
+      "cabinet": "Merah Putih",
+      "start": "27 April 2026",
+      "end": "Petahana",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Lingkungan Hidup Indonesia - Free Download",
+    "description": "Menteri Negara Lingkungan Hidup dan Menteri Lingkungan Hidup (dan Kehutanan) Indonesia sejak 1978: nama, partai, kabinet dan masa jabatan. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Lingkungan Hidup Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Lingkungan Hidup Indonesia — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Lingkungan_Hidup_Indonesia"
+    ]
+  }
+}

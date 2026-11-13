@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-13T02:23:07.589Z",
-  "total_datasets": 642,
-  "total_records": 658570,
+  "generated": "2026-11-13T02:23:16.350Z",
+  "total_datasets": 643,
+  "total_records": 658586,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1313,6 +1313,34 @@
         "xlsx": {
           "name": "id-danau-terbesar_ID.xlsx",
           "size": 7245
+        }
+      }
+    },
+    {
+      "id": "id-menteri-lingkungan-hidup",
+      "name": "Daftar Menteri Lingkungan Hidup Indonesia",
+      "category": "environment",
+      "record_count": 16,
+      "columns": [
+        "no",
+        "name",
+        "party",
+        "cabinet",
+        "start",
+        "end",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Lingkungan_Hidup_Indonesia",
+      "updated": "2026-11",
+      "size": 5229,
+      "files": {
+        "csv": {
+          "name": "id-menteri-lingkungan-hidup_ID.csv",
+          "size": 1497
+        },
+        "xlsx": {
+          "name": "id-menteri-lingkungan-hidup_ID.xlsx",
+          "size": 7709
         }
       }
     },
