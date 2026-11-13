@@ -1,0 +1,671 @@
+{
+  "id": "id-hidangan-jawa",
+  "name": "Daftar Hidangan Khas Jawa per Daerah",
+  "title": "Daftar Hidangan Khas Jawa per Daerah",
+  "description": "Hidangan khas Jawa Tengah dan Jawa Timur yang dikelompokkan menurut provinsi dan wilayah budaya/daerah asalnya (misalnya Pantura, Mataram, Tapal Kuda).",
+  "category": "food",
+  "source": "https://id.wikipedia.org/wiki/Hidangan_Jawa",
+  "source_url": "https://id.wikipedia.org/wiki/Hidangan_Jawa",
+  "updated": "2026-11",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "dish",
+      "label": "Dish",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "subregion",
+      "label": "Subregion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dish": "Bakso Ikan Ekor Kuning",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Soto Jepara",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Soto Kudus",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Opor panggang Jepara",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Opor bakar Kudus",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Jenang Kudus",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Nasi gandul",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Lentog Tanjung",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Ayam Goreng Jepara",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Lontong Krubyuk",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Asem-Asem Daging",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Kuluban",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Nasi Penggel",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Nasi pindang",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Pindang Serani",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Horok-Horok",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Bakso Ikan Ekor Kuning (Bakso Karimunjawa)",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Timur Jawa Tengah"
+    },
+    {
+      "dish": "Gudeg",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Gudangan",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Lumpia Semarang",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Opor Ayam",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Soto Bangkong",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Wedang jahe",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Tengkleng",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Tongseng",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Pecel",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Tahu petis",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Nasi Liwet",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Mangut lele",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Swike",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Bebek goreng",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Gaplek",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Geplak",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Ayam geprek",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Kupat tahu",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Nasi Kucing",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Sayur Lodeh",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Tumpeng",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Baceman",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Brongkos",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Bakmi godhog",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Nasi Goreng Jawa",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Bandeng presto",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Timlo",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Nasi Langgi",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Ayam kremes",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Nasi gurih",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Tahu gimbal",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Bakso Solo dan Wonogiri",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Pecel lele",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Urap",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Mangut lele",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Krecek",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Garang Asem",
+      "province": "Jawa Tengah",
+      "subregion": "Mataram"
+    },
+    {
+      "dish": "Sate Ambal",
+      "province": "Jawa Tengah",
+      "subregion": "Kedu"
+    },
+    {
+      "dish": "Kupat tahu",
+      "province": "Jawa Tengah",
+      "subregion": "Kedu"
+    },
+    {
+      "dish": "Nasi penggel",
+      "province": "Jawa Tengah",
+      "subregion": "Kedu"
+    },
+    {
+      "dish": "Yutuk Goreng",
+      "province": "Jawa Tengah",
+      "subregion": "Kedu"
+    },
+    {
+      "dish": "Teh poci",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Sate Loso",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Nasi Grombyang",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Sate Tegal",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Tauto Pekalongan",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Nasi Bogana",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Nasi lengko",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Pindang tetel",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Sate blengong",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Nasi megono",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Lontong Dekem",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Ketoprak",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Kupat glebed",
+      "province": "Jawa Tengah",
+      "subregion": "Pantura Barat Jawa Tengah"
+    },
+    {
+      "dish": "Soto Sokaraja",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Sauto Golak",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Bakmi Nyemek",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Lanthing",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Mie ongklok",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Mendoan",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Pecel Banyumas",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Gembus",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Getuk goreng",
+      "province": "Jawa Tengah",
+      "subregion": "Banyumasan"
+    },
+    {
+      "dish": "Rujak cingur",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Soto lamongan",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Soto ayam Ambengan",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Onde-onde",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Lontong balap",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Nasi Babat",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Rujak petis",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Pecel lele",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Tahu tek",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Iga penyet",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Bebek goreng",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Lontong kupang",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Cwie Mie",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Tahu campur",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Ayam penyet",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Tempe penyet",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Nasi krawu",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Tahu Telur",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Nasi Goreng Surabaya",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Bakso malang",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Arekan"
+    },
+    {
+      "dish": "Rawon",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Mataraman"
+    },
+    {
+      "dish": "Sate Ponorogo",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Mataraman"
+    },
+    {
+      "dish": "Bebek goreng",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Mataraman"
+    },
+    {
+      "dish": "Soto Kediri",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Mataraman"
+    },
+    {
+      "dish": "Botok",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Mataraman"
+    },
+    {
+      "dish": "Nasi Jotos",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Mataraman"
+    },
+    {
+      "dish": "Tajhin Sorah",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Tajhin Plokkor",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Tajhin Bu'uk",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Sek Koning",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Nasi cawuk",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Soto Kraksaan",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Lontong Campur",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Sate Lumajang",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Suwar Suwir",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Pecel Rawon",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Pindang Koyong",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Nasi tempong",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Mie Rama",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Dendeng Ragi",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Rujak soto",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Pecel Gudeg",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Botok Tawon",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Kupat Lodoh",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Nasi Kalak",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    },
+    {
+      "dish": "Ayam Kesrut",
+      "province": "Jawa Timur",
+      "subregion": "Wilayah Tapal Kuda"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Hidangan Khas Jawa per Daerah - Free Download",
+    "description": "Hidangan khas Jawa Tengah dan Jawa Timur yang dikelompokkan menurut provinsi dan wilayah budaya/daerah asalnya (misalnya Pantura, Mataram, Tapal Kuda). Contains 126 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Hidangan Khas Jawa per Daerah | ListBase",
+    "seo_description": "Download Daftar Hidangan Khas Jawa per Daerah — 126 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 126 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Hidangan_Jawa"
+    ]
+  }
+}

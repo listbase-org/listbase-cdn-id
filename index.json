@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-12T02:12:22.864Z",
-  "total_datasets": 639,
-  "total_records": 658381,
+  "generated": "2026-11-13T02:22:51.235Z",
+  "total_datasets": 640,
+  "total_records": 658507,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "geography",
@@ -1831,6 +1831,30 @@
         "xlsx": {
           "name": "id-hidangan-betawi_ID.xlsx",
           "size": 7961
+        }
+      }
+    },
+    {
+      "id": "id-hidangan-jawa",
+      "name": "Daftar Hidangan Khas Jawa per Daerah",
+      "category": "food",
+      "record_count": 126,
+      "columns": [
+        "dish",
+        "province",
+        "subregion"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Hidangan_Jawa",
+      "updated": "2026-11",
+      "size": 15590,
+      "files": {
+        "csv": {
+          "name": "id-hidangan-jawa_ID.csv",
+          "size": 5796
+        },
+        "xlsx": {
+          "name": "id-hidangan-jawa_ID.xlsx",
+          "size": 9484
         }
       }
     },
