@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-13T02:22:59.241Z",
-  "total_datasets": 641,
-  "total_records": 658532,
+  "generated": "2026-11-13T02:23:07.589Z",
+  "total_datasets": 642,
+  "total_records": 658570,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -15172,6 +15172,34 @@
         "xlsx": {
           "name": "id-ketua-umum-muhammadiyah_ID.xlsx",
           "size": 9314
+        }
+      }
+    },
+    {
+      "id": "id-menteri-agama",
+      "name": "Daftar Menteri Agama Indonesia",
+      "category": "society",
+      "record_count": 38,
+      "columns": [
+        "no",
+        "name",
+        "cabinet",
+        "start",
+        "end",
+        "affiliation",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Agama_Indonesia",
+      "updated": "2026-11",
+      "size": 9784,
+      "files": {
+        "csv": {
+          "name": "id-menteri-agama_ID.csv",
+          "size": 3357
+        },
+        "xlsx": {
+          "name": "id-menteri-agama_ID.xlsx",
+          "size": 8883
         }
       }
     },

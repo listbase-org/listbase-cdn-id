@@ -1,0 +1,403 @@
+{
+  "id": "id-menteri-agama",
+  "name": "Daftar Menteri Agama Indonesia",
+  "title": "Daftar Menteri Agama Indonesia",
+  "description": "Menteri Agama Republik Indonesia sejak 1945: nama, kabinet, awal dan akhir masa jabatan, serta afiliasi partai atau organisasi Islam.",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Agama_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Agama_Indonesia",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "affiliation",
+      "label": "Affiliation",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Wahid Hasyim",
+      "cabinet": "Presidensial",
+      "start": "2 September 1945",
+      "end": "14 November 1945",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "Rasjidi",
+      "cabinet": "Sjahrir I",
+      "start": "14 November 1945",
+      "end": "3 Januari 1946",
+      "affiliation": "Masjumi – Muhammadiyah",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "Rasjidi",
+      "cabinet": "Sjahrir I",
+      "start": "3 Januari 1946",
+      "end": "12 Maret 1946",
+      "affiliation": "Masjumi – Muhammadiyah",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "Rasjidi",
+      "cabinet": "Sjahrir II",
+      "start": "12 Maret 1946",
+      "end": "2 Oktober 1946",
+      "affiliation": "Masjumi – Muhammadiyah",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "Fathurrahman Kafrawi",
+      "cabinet": "Sjahrir III",
+      "start": "2 Oktober 1946",
+      "end": "26 Juni 1947",
+      "affiliation": "Masjumi– NU",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "name": "Achmad Asj'ari",
+      "cabinet": "Amir Syarifuddin I",
+      "start": "3 Juli 1947",
+      "end": "9 Oktober 1947",
+      "affiliation": "Masjumi – Muhammadiyah",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "name": "Anwaruddin",
+      "cabinet": "Amir Syarifuddin I",
+      "start": "9 Oktober 1947",
+      "end": "11 November 1947",
+      "affiliation": "PSII",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "Masjkur",
+      "cabinet": "Amir Syarifuddin II",
+      "start": "11 November 1947",
+      "end": "29 Januari 1948",
+      "affiliation": "Masjumi-NU",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "Masjkur",
+      "cabinet": "Hatta I",
+      "start": "29 Januari 1948",
+      "end": "4 Agustus 1948",
+      "affiliation": "Masjumi-NU",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "Fakih Usman",
+      "cabinet": "Halim",
+      "start": "21 Januari 1950",
+      "end": "6 September 1950",
+      "affiliation": "",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "Muhammad Ilyas",
+      "cabinet": "Burhanuddin Harahap",
+      "start": "12 Agustus 1955",
+      "end": "19 Januari 1956",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "Wahib Wahab",
+      "cabinet": "Kerja I",
+      "start": "10 Juli 1959",
+      "end": "18 Februari 1960",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "Wahib Wahab",
+      "cabinet": "Kerja II",
+      "start": "18 Februari 1960",
+      "end": "28 Februari 1962",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Saifuddin Zuhri",
+      "cabinet": "Kerja II",
+      "start": "2 Maret 1962",
+      "end": "6 Maret 1962",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Saifuddin Zuhri",
+      "cabinet": "Kerja III",
+      "start": "6 Maret 1962",
+      "end": "13 November 1963",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Saifuddin Zuhri",
+      "cabinet": "Kerja IV",
+      "start": "13 November 1963",
+      "end": "27 Agustus 1964",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Saifuddin Zuhri",
+      "cabinet": "Dwikora I",
+      "start": "27 Agustus 1964",
+      "end": "22 Februari 1966",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Saifuddin Zuhri",
+      "cabinet": "Dwikora II",
+      "start": "22 Februari 1966",
+      "end": "28 Maret 1966",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Saifuddin Zuhri",
+      "cabinet": "Ampera I",
+      "start": "28 Juli 1966",
+      "end": "14 Oktober 1967",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "Muhammad Dahlan",
+      "cabinet": "Ampera II",
+      "start": "14 Oktober 1967",
+      "end": "10 Juni 1968",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "Muhammad Dahlan",
+      "cabinet": "Pembangunan I",
+      "start": "10 Juni 1968",
+      "end": "11 September 1971",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "Mukti Ali",
+      "cabinet": "Pembangunan I",
+      "start": "11 September 1971",
+      "end": "27 Maret 1973",
+      "affiliation": "Golkar – NU",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "Mukti Ali",
+      "cabinet": "Pembangunan II",
+      "start": "28 Maret 1973",
+      "end": "29 Maret 1978",
+      "affiliation": "Golkar – NU",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "Alamsyah Ratu Perwiranegara",
+      "cabinet": "Pembangunan III",
+      "start": "31 Maret 1978",
+      "end": "16 Maret 1983",
+      "affiliation": "Golkar",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "Munawir Sjadzali",
+      "cabinet": "Pembangunan IV",
+      "start": "19 Maret 1983",
+      "end": "21 Maret 1988",
+      "affiliation": "Golkar",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "Munawir Sjadzali",
+      "cabinet": "Pembangunan V",
+      "start": "23 Maret 1988",
+      "end": "17 Maret 1993",
+      "affiliation": "Golkar",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "Tarmizi Taher",
+      "cabinet": "Pembangunan VI",
+      "start": "19 Maret 1993",
+      "end": "11 Maret 1998",
+      "affiliation": "Golkar – Muhammadiyah",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "Muhammad Quraish Shihab",
+      "cabinet": "Pembangunan VII",
+      "start": "16 Maret 1998",
+      "end": "21 Mei 1998",
+      "affiliation": "Golkar – NU",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "name": "Abdul Malik Fadjar",
+      "cabinet": "Reformasi Pembangunan",
+      "start": "23 Mei 1998",
+      "end": "20 Oktober 1999",
+      "affiliation": "Muhammadiyah",
+      "note": ""
+    },
+    {
+      "no": 18,
+      "name": "Muhammad Tholchah Hasan",
+      "cabinet": "Persatuan Nasional",
+      "start": "29 Oktober 1999",
+      "end": "23 Juli 2001",
+      "affiliation": "PKB - NU",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "name": "Said Agil Husin Al Munawar",
+      "cabinet": "Gotong Royong",
+      "start": "10 Agustus 2001",
+      "end": "20 Oktober 2004",
+      "affiliation": "NU",
+      "note": ""
+    },
+    {
+      "no": 20,
+      "name": "Muhammad Maftuh Basyuni",
+      "cabinet": "Indonesia Bersatu",
+      "start": "21 Oktober 2004",
+      "end": "20 Oktober 2009",
+      "affiliation": "PKB – NU",
+      "note": ""
+    },
+    {
+      "no": 21,
+      "name": "Suryadharma Ali",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "22 Oktober 2009",
+      "end": "28 Mei 2014",
+      "affiliation": "PPP – NU",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "Lukman Hakim Saifuddin",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "9 Juni 2014",
+      "end": "20 Oktober 2014",
+      "affiliation": "PPP – NU",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "Lukman Hakim Saifuddin",
+      "cabinet": "Kerja",
+      "start": "27 Oktober 2014",
+      "end": "20 Oktober 2019",
+      "affiliation": "PPP – NU",
+      "note": ""
+    },
+    {
+      "no": 23,
+      "name": "Fachrul Razi",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Oktober 2019",
+      "end": "23 Desember 2020",
+      "affiliation": "Mathla'ul Anwar",
+      "note": ""
+    },
+    {
+      "no": 24,
+      "name": "Yaqut Cholil Qoumas",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Desember 2020",
+      "end": "20 Oktober 2024",
+      "affiliation": "PKB – NU",
+      "note": ""
+    },
+    {
+      "no": 25,
+      "name": "Nasaruddin Umar",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "Petahana",
+      "affiliation": "NU",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Agama Indonesia - Free Download",
+    "description": "Menteri Agama Republik Indonesia sejak 1945: nama, kabinet, awal dan akhir masa jabatan, serta afiliasi partai atau organisasi Islam. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Agama Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Agama Indonesia — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Agama_Indonesia"
+    ]
+  }
+}
