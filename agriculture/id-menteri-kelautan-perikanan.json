@@ -1,0 +1,214 @@
+{
+  "id": "id-menteri-kelautan-perikanan",
+  "name": "Daftar Menteri Kelautan dan Perikanan Indonesia",
+  "title": "Daftar Menteri Kelautan dan Perikanan Indonesia",
+  "description": "Para menteri yang membidangi perikanan dan kelautan di Indonesia sejak 1964: nama, partai, kabinet, dan masa jabatan.",
+  "category": "agriculture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kelautan_dan_Perikanan_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kelautan_dan_Perikanan_Indonesia",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Hamzah Atmohandojo",
+      "party": "Independen",
+      "cabinet": "Kerja IV",
+      "start": "4 Juni 1964",
+      "end": "27 Agustus 1964",
+      "note": ""
+    },
+    {
+      "no": "1",
+      "name": "Hamzah Atmohandojo",
+      "party": "Independen",
+      "cabinet": "Dwikora",
+      "start": "2 September 1964",
+      "end": "21 Februari 1966",
+      "note": ""
+    },
+    {
+      "no": "1",
+      "name": "Hamzah Atmohandojo",
+      "party": "Independen",
+      "cabinet": "Dwikora II",
+      "start": "24 Februari 1966",
+      "end": "27 Maret 1966",
+      "note": ""
+    },
+    {
+      "no": "1",
+      "name": "Hamzah Atmohandojo",
+      "party": "Independen",
+      "cabinet": "Dwikora III",
+      "start": "30 Maret 1966",
+      "end": "25 Juli 1966",
+      "note": ""
+    },
+    {
+      "no": "2",
+      "name": "Sarwono Kusumaatmadja (1943–2023)",
+      "party": "Golkar",
+      "cabinet": "Persatuan Nasional",
+      "start": "29 Oktober 1999",
+      "end": "1 Juni 2001",
+      "note": ""
+    },
+    {
+      "no": "3",
+      "name": "Rokhmin Dahuri (lahir 1958)",
+      "party": "PDI-P",
+      "cabinet": "Persatuan Nasional",
+      "start": "1 Juni 2001",
+      "end": "23 Juli 2001",
+      "note": ""
+    },
+    {
+      "no": "3",
+      "name": "Rokhmin Dahuri (lahir 1958)",
+      "party": "PDI-P",
+      "cabinet": "Gotong Royong",
+      "start": "10 Agustus 2001",
+      "end": "20 Oktober 2004",
+      "note": ""
+    },
+    {
+      "no": "4",
+      "name": "Freddy Numberi (lahir 1947)",
+      "party": "Demokrat",
+      "cabinet": "Indonesia Bersatu",
+      "start": "21 Oktober 2004",
+      "end": "20 Oktober 2009",
+      "note": ""
+    },
+    {
+      "no": "5",
+      "name": "Fadel Muhammad (lahir 1952)",
+      "party": "Golkar",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "22 Oktober 2009",
+      "end": "19 Oktober 2011",
+      "note": ""
+    },
+    {
+      "no": "6",
+      "name": "Sharif Cicip Sutarjo (lahir 1948)",
+      "party": "Golkar",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "19 Oktober 2011",
+      "end": "20 Oktober 2014",
+      "note": ""
+    },
+    {
+      "no": "7",
+      "name": "Susi Pudjiastuti (lahir 1965)",
+      "party": "Independen",
+      "cabinet": "Kerja",
+      "start": "27 Oktober 2014",
+      "end": "20 Oktober 2019",
+      "note": ""
+    },
+    {
+      "no": "8",
+      "name": "Edhy Prabowo (lahir 1972)",
+      "party": "Gerindra",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Oktober 2019",
+      "end": "26 November 2020",
+      "note": ""
+    },
+    {
+      "no": "—",
+      "name": "Luhut Binsar Panjaitan (lahir 1947) (ad-Interim)",
+      "party": "Golkar",
+      "cabinet": "Indonesia Maju",
+      "start": "26 November 2020",
+      "end": "2 Desember 2020",
+      "note": ""
+    },
+    {
+      "no": "—",
+      "name": "Syahrul Yasin Limpo (lahir 1955) (ad-Interim)",
+      "party": "NasDem",
+      "cabinet": "Indonesia Maju",
+      "start": "2 Desember 2020",
+      "end": "23 Desember 2020",
+      "note": ""
+    },
+    {
+      "no": "9",
+      "name": "Sakti Wahyu Trenggono (lahir 1962)",
+      "party": "Independen",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Desember 2020",
+      "end": "20 Oktober 2024",
+      "note": ""
+    },
+    {
+      "no": "9",
+      "name": "Sakti Wahyu Trenggono (lahir 1962)",
+      "party": "Independen",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "Petahana",
+      "note": ""
+    },
+    {
+      "no": "9",
+      "name": "Sakti Wahyu Trenggono (lahir 1962)",
+      "party": "PAN",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "Petahana",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Kelautan dan Perikanan Indonesia - Free Download",
+    "description": "Para menteri yang membidangi perikanan dan kelautan di Indonesia sejak 1964: nama, partai, kabinet, dan masa jabatan. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Kelautan dan Perikanan Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Kelautan dan Perikanan Indonesia — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Kelautan_dan_Perikanan_Indonesia"
+    ]
+  }
+}

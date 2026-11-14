@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-11-14T02:18:14.401Z",
-  "total_datasets": 644,
-  "total_records": 658823,
+  "generated": "2026-11-14T02:18:23.904Z",
+  "total_datasets": 645,
+  "total_records": 658840,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -180,6 +180,34 @@
         "xlsx": {
           "name": "id-menteri-kehutanan_ID.xlsx",
           "size": 7736
+        }
+      }
+    },
+    {
+      "id": "id-menteri-kelautan-perikanan",
+      "name": "Daftar Menteri Kelautan dan Perikanan Indonesia",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "no",
+        "name",
+        "party",
+        "cabinet",
+        "start",
+        "end",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Kelautan_dan_Perikanan_Indonesia",
+      "updated": "2026-11",
+      "size": 5654,
+      "files": {
+        "csv": {
+          "name": "id-menteri-kelautan-perikanan_ID.csv",
+          "size": 1763
+        },
+        "xlsx": {
+          "name": "id-menteri-kelautan-perikanan_ID.xlsx",
+          "size": 7797
         }
       }
     },
