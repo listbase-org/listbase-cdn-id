@@ -1,0 +1,1710 @@
+{
+  "id": "id-bank-berhenti-beroperasi",
+  "name": "Daftar Bank yang Berhenti Beroperasi di Indonesia",
+  "title": "Daftar Bank yang Berhenti Beroperasi di Indonesia",
+  "description": "Bank-bank di Indonesia yang telah berhenti beroperasi karena likuidasi, pencabutan izin usaha, merger, atau akuisisi: nama bank, tanggal didirikan, tanggal ditutup, dan alasan.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "number"
+    },
+    {
+      "key": "reason",
+      "label": "Reason",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bank Benteng Republik Indonesia",
+      "founded": "",
+      "closed": "1963",
+      "reason": "dicabut izin usahanya",
+      "period": "Bank yang berhenti beroperasi sebelum 1969"
+    },
+    {
+      "name": "Bank Menengah",
+      "founded": "tidak diketahui",
+      "closed": "1963",
+      "reason": "dicabut izin usahanya",
+      "period": "Bank yang berhenti beroperasi sebelum 1969"
+    },
+    {
+      "name": "Bank Usaha Nasional",
+      "founded": "tidak diketahui",
+      "closed": "1963",
+      "reason": "dicabut izinnya",
+      "period": "Bank yang berhenti beroperasi sebelum 1969"
+    },
+    {
+      "name": "Bank Abadi Djaja",
+      "founded": "tidak diketahui",
+      "closed": "16 Oktober 1972",
+      "reason": "merger dengan Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Agung",
+      "founded": "1 Februari 1965",
+      "closed": "22 Oktober 1973",
+      "reason": "merger dengan Bank Niaga",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Umum Niaga Indonesia",
+      "founded": "tidak diketahui",
+      "closed": "15 Mei 1972",
+      "reason": "merger dengan Sejahtera Bank Umum",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Umum Persatuan Tenaga Ekonomi",
+      "founded": "tidak diketahui",
+      "closed": "17 Desember 1976",
+      "reason": "merger dengan Bank Metro Express pada tahun 1976)",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Dirgahayu",
+      "founded": "tidak diketahui",
+      "closed": "1975",
+      "reason": "merger dengan Bank Agung Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Djasa Dana",
+      "founded": "tidak diketahui",
+      "closed": "1974",
+      "reason": "merger dengan Bank Umum Nasional",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Duta Nusantara",
+      "founded": "tidak diketahui",
+      "closed": "18 September 1976",
+      "reason": "merger dengan Bank Bumi Arta",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Dwikora",
+      "founded": "tidak diketahui",
+      "closed": "31 Desember 1975",
+      "reason": "merger dengan Bank Dharma Ekonomi",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Gemari",
+      "founded": "20 September 1949",
+      "closed": "30 Juni 1976",
+      "reason": "merger dengan Bank Central Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Indo-Commercial Bank",
+      "founded": "tidak diketahui",
+      "closed": "30 Maret 1979",
+      "reason": "merger dengan Bank Central Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Industri dan Dagang Indonesia",
+      "founded": "tidak diketahui",
+      "closed": "17 Agustus 1971",
+      "reason": "merger membentuk Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Industri dan Komersial",
+      "founded": "1957",
+      "closed": "1976",
+      "reason": "merger dengan Overseas Express Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Industri Djaja Indonesia",
+      "founded": "tidak diketahui",
+      "closed": "17 Agustus 1971",
+      "reason": "merger membentuk Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Kalimantan",
+      "founded": "18 Februari 1950",
+      "closed": "1975",
+      "reason": "merger dengan Bank Pacific",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Kalimantan Tengah",
+      "founded": "tidak diketahui",
+      "closed": "1974",
+      "reason": "merger dengan Bank Perkembangan Pelayaran Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Kerajinan Pejuang Kemerdekaan",
+      "founded": "1954",
+      "closed": "6 Februari 1978",
+      "reason": "merger dengan Overseas Express Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Kemakmuran",
+      "founded": "tidak diketahui",
+      "closed": "17 Agustus 1971",
+      "reason": "merger membentuk Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Kesejahteraan Masyarakat",
+      "founded": "tidak diketahui",
+      "closed": "1974",
+      "reason": "merger dengan Bank Buana Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Kota Asri",
+      "founded": "tidak diketahui",
+      "closed": "20 Mei 1974",
+      "reason": "merger membentuk Overseas Express Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Lampung",
+      "founded": "tidak diketahui",
+      "closed": "1 Desember 1972",
+      "reason": "merger dengan Sejahtera Bank Umum",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Lingga Harta",
+      "founded": "tidak diketahui",
+      "closed": "1 Desember 1973",
+      "reason": "merger dengan Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Malbor International Bank",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Indo-Commercial Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Masyarakat",
+      "founded": "tidak diketahui",
+      "closed": "1978",
+      "reason": "merger dengan Bank Ramayana",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Merdeka",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Bank Pacific",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Muslimin Mu’alim",
+      "founded": "1960",
+      "closed": "1976",
+      "reason": "merger dengan Bank Arta Prima",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Nusa Djaja",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Bank Arta Prima",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Nusantara",
+      "founded": "9 Maret 1953",
+      "closed": "23 Oktober 1973",
+      "reason": "ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Parahyangan Ekonomi",
+      "founded": "tidak diketahui",
+      "closed": "20 Mei 1974",
+      "reason": "merger membentuk Overseas Express Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Pembangunan Ekonomi",
+      "founded": "tidak diketahui",
+      "closed": "8 Februari 1975",
+      "reason": "merger dengan Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Pembangunan Sulawesi",
+      "founded": "tidak diketahui",
+      "closed": "18 Oktober 1975",
+      "reason": "merger dengan Bank PAN Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Pembinaan Nasional",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Bank Buana Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Pengayoman",
+      "founded": "1957",
+      "closed": "1976",
+      "reason": "merger dengan Bank Perkembangan Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Perkembangan Pelayaran Indonesia",
+      "founded": "tidak diketahui",
+      "closed": "6 Februari 1978",
+      "reason": "merger dengan Overseas Express Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Rakyat Sulawesi",
+      "founded": "tidak diketahui",
+      "closed": "24 Juli 1974",
+      "reason": "merger dengan Bank Antar Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Sarana Indonesia",
+      "founded": "tidak diketahui",
+      "closed": "31 Januari 1973",
+      "reason": "merger dengan Bank Central Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Sarma",
+      "founded": "tidak diketahui",
+      "closed": "31 Maret 1976",
+      "reason": "merger dengan Bank Dharma Ekonomi",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Semarang",
+      "founded": "1971",
+      "closed": "2 Januari 1978",
+      "reason": "merger membentuk Tamara Commercial Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Sriwidjaja Raja",
+      "founded": "tidak diketahui",
+      "closed": "1972",
+      "reason": "merger dengan Bank Gemari",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Sulawesi",
+      "founded": "8 Maret 1946",
+      "closed": "3 Januari 1973",
+      "reason": "merger dengan Bank Pelita",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Surabaya Putra",
+      "founded": "17 Juni 1967",
+      "closed": "1979",
+      "reason": "merger dengan Bank Perkembangan Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Surakarta",
+      "founded": "tidak diketahui",
+      "closed": "1974",
+      "reason": "merger dengan Bank Agung Asia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Tabungan Bandung",
+      "founded": "1903",
+      "closed": "21 Agustus 1978",
+      "reason": "merger dengan Bank Niaga",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Tabungan Minahasa",
+      "founded": "11 Juli 1894",
+      "closed": "1977",
+      "reason": "merger dengan Bank Arta Prima",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Tabungan Sakura Indonesia",
+      "founded": "tidak diketahui",
+      "closed": "13 Juli 1979",
+      "reason": "merger dengan Bank Umum Majapahit Jaya",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Tabungan Ujung Pandang",
+      "founded": "1876",
+      "closed": "1978",
+      "reason": "merger dengan Bank Arta Prima",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Tani dan Industri",
+      "founded": "tidak diketahui",
+      "closed": "3 Januari 1973",
+      "reason": "merger dengan Bank Pelita",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Umum Agraria",
+      "founded": "1 Desember 1967",
+      "closed": "1974",
+      "reason": "merger dengan Bank Pancha Dewa",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Umum Bantu",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Indo-Commercial Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Antara",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Bank Semarang",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Aman Makmur",
+      "founded": "26 Maret 1965",
+      "closed": "1975",
+      "reason": "merger dengan Bank Buana Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Central Commercial Bank",
+      "founded": "14 Juni 1956",
+      "closed": "29 Maret 1977",
+      "reason": "merger dengan Bank Perniagaan Indonesia",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Berjabat Banking Corporation",
+      "founded": "tidak diketahui",
+      "closed": "20 Mei 1974",
+      "reason": "merger membentuk Overseas Express Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Commercial Bank",
+      "founded": "tidak diketahui",
+      "closed": "1973",
+      "reason": "merger dengan Indo-Commercial Bank",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Dagang Rahardja",
+      "founded": "1954",
+      "closed": "28 Oktober 1974",
+      "reason": "merger dengan Bank Permata Sari",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Umum Koperasi Sumatera Utara",
+      "founded": "tidak diketahui",
+      "closed": "1974",
+      "reason": "merger dengan Bank Bukopin",
+      "period": "Bank yang berhenti beroperasi dari 1970-1979"
+    },
+    {
+      "name": "Bank Amerta",
+      "founded": "1947",
+      "closed": "17 Oktober 1983",
+      "reason": "merger dengan Bank Niaga",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Asia-Afrika Banking Corporation",
+      "founded": "tidak diketahui",
+      "closed": "31 Agustus 1981",
+      "reason": "merger dengan Bank Danamon",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Bukit Barisan",
+      "founded": "tidak diketahui",
+      "closed": "31 Desember 1981",
+      "reason": "merger dengan Bank Tani Nasional",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Daya Indonesia Bank",
+      "founded": "tidak diketahui",
+      "closed": "31 Desember 1981",
+      "reason": "merger dengan Bank Dagang Nasional Indonesia",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Dharma Usaha",
+      "founded": "22 Juni 1969",
+      "closed": "9 Mei 1988",
+      "reason": "merger dengan Bank Bali",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Pancha Dewa",
+      "founded": "tidak diketahui",
+      "closed": "30 Desember 1981",
+      "reason": "merger dengan Bank Indonesia Raya",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Perdagangan Nasional",
+      "founded": "tidak diketahui",
+      "closed": "30 Juli 1982",
+      "reason": "merger dengan Bank Harapan Sentosa",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Sumber Ekonomi Asia",
+      "founded": "tidak diketahui",
+      "closed": "22 September 1980",
+      "reason": "merger dengan Bank Jakarta",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Tonsea",
+      "founded": "17 November 1914",
+      "closed": "21 Januari 1986",
+      "reason": "merger dengan Bank Harapan Sentosa",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Tabungan Untuk Umum 1859",
+      "founded": "1859",
+      "closed": "31 Maret 1980",
+      "reason": "merger dengan Bank Internasional Indonesia",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Tabungan Sumatera Barat",
+      "founded": "1879",
+      "closed": "29 Desember 1984",
+      "reason": "merger dengan Bank Umum Servitia",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Umum Koperasi Jawa Barat",
+      "founded": "3 Mei 1951",
+      "closed": "1986",
+      "reason": "merger dengan Bank Bukopin",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Umum Koperasi Kahoeripan",
+      "founded": "9 Juli 1932",
+      "closed": "1987",
+      "reason": "merger dengan Bank Bukopin",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Umum Koperasi Kalimantan Selatan",
+      "founded": "tidak diketahui",
+      "closed": "1986",
+      "reason": "merger dengan Bank Bukopin",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Umum Koperasi Sulawesi Selatan",
+      "founded": "17 Mei 1967",
+      "closed": "10 April 1986",
+      "reason": "",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Wisata Balisari",
+      "founded": "tidak diketahui",
+      "closed": "1980",
+      "reason": "merger dengan Bank Antardaerah",
+      "period": "Bank yang berhenti beroperasi 1980 hingga Oktober 1988 (Pakto 88)"
+    },
+    {
+      "name": "Bank Surya Nusantara",
+      "founded": "25 Juni 1969",
+      "closed": "5 Desember 1995",
+      "reason": "Merger dengan Bank Arya Panduarta",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Umum Asia",
+      "founded": "9 Februari 1957",
+      "closed": "31 Juli 1989",
+      "reason": "Merger dengan Bank Perniagaan Indonesia",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Delta",
+      "founded": "8 Agustus 1989",
+      "closed": "6 Desember 1996",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Desa Bina Harta",
+      "founded": "tidak diketahui",
+      "closed": "18 Februari 1991",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Desa Bumi Harta",
+      "founded": "tidak diketahui",
+      "closed": "31 Juli 1990",
+      "reason": "Merger dengan Bank Bumiputera",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Kredit Universal",
+      "founded": "4 Mei 1959",
+      "closed": "1 September 1990",
+      "reason": "Merger dengan Bank Perkembangan Asia",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Bantul Sumber Usaha",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Tata Bank",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Dana Tabanan",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Bank Aken",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Galuh Pakuan",
+      "founded": "tidak diketahui",
+      "closed": "10 Juli 1989",
+      "reason": "Merger membentuk Bank Dharmala Nugraha",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Gunungartha Sejahtera",
+      "founded": "tidak diketahui",
+      "closed": "30 September 1989",
+      "reason": "Merger dengan Bank Perkembangan Asia",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Gunung Dieng",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Tata Bank",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Gunung Kendeng",
+      "founded": "tidak diketahui",
+      "closed": "31 Desember 1990",
+      "reason": "Merger dengan BP Gunung Sindoro",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Gunung Palasari",
+      "founded": "tidak diketahui",
+      "closed": "17 November 1990",
+      "reason": "Dicabut izinnya",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Ngaliman",
+      "founded": "tidak diketahui",
+      "closed": "10 Juli 1989",
+      "reason": "Merger membentuk Bank Dharmala Nugraha",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Panca Desa Dharma",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Bank Aken",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Panti Jaya Ekonomi",
+      "founded": "tidak diketahui",
+      "closed": "12 November 1990",
+      "reason": "Merger dengan Bank Swadesi",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Perjuangan",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Tata Bank",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Sinar Menara",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Bank Aken",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Swadaya Harta",
+      "founded": "tidak diketahui",
+      "closed": "10 Juli 1989",
+      "reason": "Merger membentuk Bank Dharmala Nugraha",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Pasar Swastika Dharma",
+      "founded": "tidak diketahui",
+      "closed": "1991",
+      "reason": "Merger dengan Bank Aken",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Perkembangan Surya Kencana",
+      "founded": "28 Desember 1988",
+      "closed": "30 Juni 1997",
+      "reason": "Merger dengan Bank Metropolitan Raya",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Putera Multikarsa",
+      "founded": "23 Oktober 1954",
+      "closed": "31 Maret 1997",
+      "reason": "Merger dengan Bank Solida",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Sangga Kencana",
+      "founded": "20 April 1990",
+      "closed": "14 Januari 1997",
+      "reason": "Merger dengan Bank Guna Internasional",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Supreme",
+      "founded": "6 Mei 1971",
+      "closed": "25 Juni 1997",
+      "reason": "Merger dengan Bank Metropolitan Raya",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Summa",
+      "founded": "10 November 1945",
+      "closed": "14 Desember 1992",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi setelah Oktober 1988 (Pakto 88) hingga Juli 1997 (krisis ekonomi 1997-1998)"
+    },
+    {
+      "name": "Bank Aken",
+      "founded": "31 Agustus 1989",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Alfa",
+      "founded": "4 Juli 1990",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Andromeda",
+      "founded": "3 Juni 1989",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Angkasa",
+      "founded": "9 Agustus 1967",
+      "closed": "23 April 1998",
+      "reason": "Merger kedalam Bank Nasional",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Anrico",
+      "founded": "21 November 1960",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Arta Pratama",
+      "founded": "17 Agustus 1967",
+      "closed": "26 April 1999",
+      "reason": "Merger dengan Bank Artha Graha",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Arya Panduarta",
+      "founded": "6 Agustus 1956",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Asia Pacific",
+      "founded": "10 Januari 1957",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Asta",
+      "founded": "21 Juli 1993",
+      "closed": "1 Maret 1998",
+      "reason": "Merger dengan Bank IFI",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Astria Raya",
+      "founded": "12 November 1991",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Bahari",
+      "founded": "23 Agustus 1967",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Baja Internasional",
+      "founded": "10 Juni 1991",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Bepede Indonesia",
+      "founded": "21 Desember 1991",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Budi Internasional",
+      "founded": "12 September 1990",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Bumi Daya",
+      "founded": "15 Agustus 1959",
+      "closed": "31 Juli 1999",
+      "reason": "Merger kedalam Bank Mandiri",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Bumiraya Utama",
+      "founded": "3 Maret 1993",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Central Dagang",
+      "founded": "1 September 1969",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Centris Internasional",
+      "founded": "15 Desember 1992",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Ciputra",
+      "founded": "1 Agustus 1992",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Citrahasta Dhanamanunggal",
+      "founded": "28 Juli 1993",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Citra Makmur Asia",
+      "founded": "22 Februari 1989",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dagang dan Industri",
+      "founded": "15 Juli 1991",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dagang Nasional Indonesia",
+      "founded": "5 Oktober 1945",
+      "closed": "21 Agustus 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dagang Negara",
+      "founded": "11 April 1960",
+      "closed": "31 Juli 1999",
+      "reason": "Merger kedalam Bank Mandiri",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dana Asia",
+      "founded": "22 Agustus 1956",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Danahutama",
+      "founded": "8 Agustus 1989",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Deka",
+      "founded": "1 Mei 1991",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dewa Rutji",
+      "founded": "19 Januari 1967",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dharmala",
+      "founded": "23 Oktober 1970",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Dwipa Semesta",
+      "founded": "8 Agustus 1990",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Ekspor Impor Indonesia",
+      "founded": "31 Desember 1968",
+      "closed": "31 Juli 1999",
+      "reason": "Merger kedalam Bank Mandiri",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Ficorinvest",
+      "founded": "13 Juni 1973",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Guna Internasional",
+      "founded": "1971",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Hanil Tamara Bank",
+      "founded": "12 Februari 1991",
+      "closed": "24 Desember 1999",
+      "reason": "Merger dengan Korea Commercial Bank Surya",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Harapan Santosa",
+      "founded": "7 Maret 1969",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Hastin Internasional",
+      "founded": "3 Februari 1992",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Hokindo",
+      "founded": "1 April 1971",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Indonesia Raya",
+      "founded": "6 Maret 1954",
+      "closed": "13 Maret 1999",
+      "reason": "Dibekukan pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Indotrade",
+      "founded": "2 Oktober 1993",
+      "closed": "13 Maret 1999",
+      "reason": "Dibekukan pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Indovest",
+      "founded": "9 Juni 1973",
+      "closed": "23 April 1999",
+      "reason": "Dibekukan pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Industri",
+      "founded": "16 Agustus 1962",
+      "closed": "1 November 1997",
+      "reason": "Dibekukan pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Intan",
+      "founded": "9 November 1967",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Istismarat",
+      "founded": "7 Januari 1991",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Jakarta",
+      "founded": "28 Juni 1918",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Kharisma",
+      "founded": "30 Mei 1990",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Kosagraha Semesta",
+      "founded": "7 April 1991",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Lautan Berlian",
+      "founded": "20 Agustus 1990",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank LTCB Central Asia",
+      "founded": "24 Juli 1989",
+      "closed": "23 April 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Mashill Utama",
+      "founded": "28 Desember 1988",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Mataram Dhanarta",
+      "founded": "27 Februari 1993",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Metropolitan Raya",
+      "founded": "14 Februari 1992",
+      "closed": "13 Maret 1999",
+      "reason": "",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Modern",
+      "founded": "29 Maret 1989",
+      "closed": "21 Agustus 1998",
+      "reason": "",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Namura Internusa",
+      "founded": "23 Januari 1989",
+      "closed": "13 Maret 1999",
+      "reason": "",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Nasional Komersil",
+      "founded": "15 September 1952",
+      "closed": "23 April 1998",
+      "reason": "Merger kedalam Bank Nasional",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Nusa Internasional",
+      "founded": "24 November 1989",
+      "closed": "23 April 1998",
+      "reason": "Merger kedalam Bank Nasional",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Orient",
+      "founded": "13 Mei 1993",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Pacific",
+      "founded": "2 Juni 1958",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Papan Sejahtera",
+      "founded": "19 Maret 1980",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank PDFCI",
+      "founded": "19 Oktober 1973",
+      "closed": "20 Desember 1999",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Pelita",
+      "founded": "17 Juli 1967",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "BPD Timor-Timur",
+      "founded": "10 Juni 1982",
+      "closed": "November 1999",
+      "reason": "Dibekukan, pengelolaanya diserahkan ke KBI Kupang",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Pembangunan Indonesia",
+      "founded": "25 Mei 1960",
+      "closed": "31 Juli 1999",
+      "reason": "Merger kedalam Bank Mandiri",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Pesona Kriyadana",
+      "founded": "20 Mei 1974",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Pinaesaan",
+      "founded": "15 September 1969",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Putra Surya Perkasa",
+      "founded": "1 Juli 1991",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Sahid Gajah Perkasa",
+      "founded": "21 November 1991",
+      "closed": "13 Maret 1999",
+      "reason": "Dibekukan pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Sejahtera Bank Umum",
+      "founded": "8 November 1952",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Sembada Artanugroho",
+      "founded": "27 November 1993",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Sewu Internasional",
+      "founded": "4 April 1990",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Sino",
+      "founded": "6 Desember 1989",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "South East Asia Bank",
+      "founded": "6 April 1957",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Subentra",
+      "founded": "11 April 1989",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Surya",
+      "founded": "17 Juli 1969",
+      "closed": "4 April 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Tata Internasional",
+      "founded": "23 Januari 1990",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Uppindo",
+      "founded": "15 Februari 1972",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Umum Majapahit Jaya",
+      "founded": "2 November 1966",
+      "closed": "1 November 1997",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Umum Nasional",
+      "founded": "2 September 1952",
+      "closed": "21 Agustus 1998",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Umum Servitia",
+      "founded": "17 Maret 1967",
+      "closed": "13 Maret 1999",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank yang berhenti beroperasi Agustus 1997 hingga 1999"
+    },
+    {
+      "name": "Bank Putera Multikarsa",
+      "founded": "23 Oktober 1971",
+      "closed": "28 Januari 2000",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Tiara Asia",
+      "founded": "25 Januari 1989",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Jaya Internasional",
+      "founded": "17 Januari 1989",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Tamara",
+      "founded": "1957",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Pos Nusantara",
+      "founded": "29 Agustus 1989",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Rama",
+      "founded": "4 September 1967",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Risjad Salim Internasional",
+      "founded": "3 November 1988",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Nusa Nasional",
+      "founded": "27 Juli 1930",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Duta",
+      "founded": "30 Agustus 1966",
+      "closed": "30 Juni 2000",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Ratu",
+      "founded": "16 Februari 1993",
+      "closed": "20 Oktober 2000",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Prasidha Utama",
+      "founded": "15 April 1992",
+      "closed": "20 Oktober 2000",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Paribas-BBD Indonesia",
+      "founded": "16 Oktober 1973",
+      "closed": "5 Februari 2001",
+      "reason": "Ditutup oleh pemegang saham/dikembalikan izinnya ke BI",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Sakura Swadharma",
+      "founded": "22 Juli 1989",
+      "closed": "27 Maret 2001",
+      "reason": "Merger dengan Bank Sumitomo Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Tokai Lippo Bank",
+      "founded": "16 Februari 1990",
+      "closed": "1 Oktober 2001",
+      "reason": "Merger dengan Bank Sanwa Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank IBJ Indonesia",
+      "founded": "19 Juli 1989",
+      "closed": "1 Oktober 2001",
+      "reason": "Merger kedalam Fuji Bank Internasional Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Unibank",
+      "founded": "13 Desember 1967",
+      "closed": "29 Oktober 2001",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Dai-Ichi Kangyo Indonesia",
+      "founded": "23 April 1991",
+      "closed": "1 Oktober 2001",
+      "reason": "Merger kedalam Fuji Bank Internasional Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Societe Generale Indonesia",
+      "founded": "2 Oktober 1990",
+      "closed": "25 April 2003",
+      "reason": "Ditutup oleh pemilik saham",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Patriot",
+      "founded": "19 Januari 1958",
+      "closed": "30 September 2002",
+      "reason": "Merger kedalam Bank Bali",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Universal",
+      "founded": "22 Januari 1957",
+      "closed": "30 September 2002",
+      "reason": "Merger kedalam Bank Bali",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Artamedia",
+      "founded": "7 April 1990",
+      "closed": "30 September 2002",
+      "reason": "Merger kedalam Bank Bali",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Prima Express",
+      "founded": "22 Desember 1956",
+      "closed": "30 September 2002",
+      "reason": "Merger kedalam Bank Bali",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Credit Agricole Indosuez",
+      "founded": "17 Juli 1973",
+      "closed": "27 Januari 2003",
+      "reason": "Ditutup oleh pemegang saham/dicabut izinnya",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Keppel TatLee Buana",
+      "founded": "18 April 1990",
+      "closed": "28 Februari 2003",
+      "reason": "Merger dengan Bank OCBC Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Merincorp",
+      "founded": "30 Mei 1973",
+      "closed": "7 Agustus 2003",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "ING Indonesia Bank",
+      "founded": "23 Maret 1990",
+      "closed": "5 Februari 2004",
+      "reason": "Ditutup",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Asiatic",
+      "founded": "4 Januari 1990",
+      "closed": "8 April 2004",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Dagang Bali",
+      "founded": "20 April 1970",
+      "closed": "8 April 2004",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Pikko",
+      "founded": "11 Januari 1968",
+      "closed": "6 Desember 2004",
+      "reason": "Merger kedalam Bank CIC",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Danpac",
+      "founded": "10 Juli 1991",
+      "closed": "6 Desember 2004",
+      "reason": "Merger kedalam Bank CIC",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Global Internasional",
+      "founded": "22 Agustus 1992",
+      "closed": "13 Desember 2004",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Artha Graha",
+      "founded": "12 Mei 1967",
+      "closed": "11 Juli 2005",
+      "reason": "Merger dengan Bank Interpacific",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank UFJ Indonesia",
+      "founded": "21 Februari 1989",
+      "closed": "3 April 2006",
+      "reason": "Ditutup oleh pemegang saham/dicabut izinnya",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Arta Niaga Kencana",
+      "founded": "18 September 1969",
+      "closed": "10 Desember 2007",
+      "reason": "Merger dengan Bank Commonwealth",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Windu Kentjana",
+      "founded": "1954",
+      "closed": "8 Januari 2008",
+      "reason": "Merger dengan Bank Multicor",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Harmoni Internasional",
+      "founded": "11 November 1991",
+      "closed": "29 Februari 2008",
+      "reason": "Merger dengan Bank Index Selindo",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Haga",
+      "founded": "20 Desember 1989",
+      "closed": "24 Juni 2008",
+      "reason": "Merger kedalam Bank Rabobank International Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Hagakita",
+      "founded": "12 Mei 1989",
+      "closed": "24 Juni 2008",
+      "reason": "Merger kedalam Bank Rabobank International Indonesia",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Lippo",
+      "founded": "11 Maret 1948",
+      "closed": "3 November 2008",
+      "reason": "Merger dengan Bank Niaga",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "KCBA American Express",
+      "founded": "21 Maret 1968",
+      "closed": "24 Februari 2009",
+      "reason": "Ditutup oleh kantor pusat/dicabut izinnya",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank IFI",
+      "founded": "12 April 1955",
+      "closed": "17 April 2009",
+      "reason": "Ditutup pemerintah",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank Ekspor Indonesia",
+      "founded": "25 Mei 1999",
+      "closed": "1 September 2009",
+      "reason": "Ditutup pemerintah, dialihkan ke LPEI",
+      "period": "Bank berhenti beroperasi dari 2000 sampai 2009"
+    },
+    {
+      "name": "Bank UOB Indonesia",
+      "founded": "21 November 1989",
+      "closed": "10 Juni 2010",
+      "reason": "Merger dengan Bank UOB Buana",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank OCBC Indonesia",
+      "founded": "2 Agustus 1996",
+      "closed": "1 Januari 2011",
+      "reason": "Merger dengan Bank OCBC NISP",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Barclays Indonesia",
+      "founded": "17 Juli 1990",
+      "closed": "7 Juli 2011",
+      "reason": "Ditutup oleh pemegang saham/dicabut izinnya",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank KEB Indonesia",
+      "founded": "26 Juni 1990",
+      "closed": "20 Februari 2014",
+      "reason": "Merger dengan Bank KEB Hana Indonesia",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Woori Indonesia",
+      "founded": "29 Agustus 1995",
+      "closed": "30 Desember 2014",
+      "reason": "Merger dengan Bank Himpunan Saudara 1906",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Antardaerah",
+      "founded": "5 Maret 1958",
+      "closed": "30 November 2016",
+      "reason": "Merger dengan Bank Windu",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Centratama Nasional Bank",
+      "founded": "7 Oktober 1992",
+      "closed": "6 Desember 2016",
+      "reason": "Merger dengan Bank Shinhan Indonesia",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "KCBA Royal Bank of Scotland",
+      "founded": "31 Maret 1969",
+      "closed": "6 Maret 2017",
+      "reason": "Ditutup oleh kantor pusat/dicabut izinnya",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "KCBA HSBC",
+      "founded": "3 Agustus 1968",
+      "closed": "17 April 2017",
+      "reason": "Merger dengan Bank Ekonomi Raharja",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Sumitomo Mitsui Indonesia",
+      "founded": "31 Mei 1989",
+      "closed": "1 Februari 2019",
+      "reason": "Merger dengan Bank BTPN",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Nusantara Parahyangan",
+      "founded": "18 Januari 1972",
+      "closed": "1 Mei 2019",
+      "reason": "Merger dengan Bank Danamon",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Oke Indonesia",
+      "founded": "19 Agustus 1969",
+      "closed": "11 Juli 2019",
+      "reason": "Merger dengan Bank Dinar",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Mitraniaga",
+      "founded": "5 Juli 1989",
+      "closed": "31 Juli 2019",
+      "reason": "Merger dengan Bank Agris",
+      "period": "Bank berhenti beroperasi dari 2010 sampai 2019"
+    },
+    {
+      "name": "Bank Interim Indonesia",
+      "founded": "11 April 1990",
+      "closed": "11 Desember 2020",
+      "reason": "Merger dengan Bank BCA Syariah",
+      "period": "2020-sekarang"
+    },
+    {
+      "name": "KCBA Bangkok Bank",
+      "founded": "21 Juni 1968",
+      "closed": "21 Desember 2020 15 Desember 2022",
+      "reason": "Merger dengan Bank Permata",
+      "period": "2020-sekarang"
+    },
+    {
+      "name": "Bank BNI Syariah",
+      "founded": "19 Juni 2010",
+      "closed": "1 Februari 2021",
+      "reason": "Merger kedalam Bank BRIsyariah",
+      "period": "2020-sekarang"
+    },
+    {
+      "name": "Bank Syariah Mandiri",
+      "founded": "15 Juni 1955",
+      "closed": "1 Februari 2021",
+      "reason": "Merger kedalam Bank BRIsyariah",
+      "period": "2020-sekarang"
+    },
+    {
+      "name": "Bank Commonwealth",
+      "founded": "20 Agustus 1996",
+      "closed": "1 September 2024",
+      "reason": "Merger dengan Bank OCBC Indonesia",
+      "period": "2020-sekarang"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Bank yang Berhenti Beroperasi di Indonesia - Free Download",
+    "description": "Bank-bank di Indonesia yang telah berhenti beroperasi karena likuidasi, pencabutan izin usaha, merger, atau akuisisi: nama bank, tanggal didirikan, tanggal ditutup, dan alasan. Contains 237 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Bank yang Berhenti Beroperasi di Indonesia | ListBase",
+    "seo_description": "Download Daftar Bank yang Berhenti Beroperasi di Indonesia — 237 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 237 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia"
+    ]
+  }
+}

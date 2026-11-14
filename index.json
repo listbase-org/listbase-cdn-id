@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-13T02:23:16.350Z",
-  "total_datasets": 643,
-  "total_records": 658586,
+  "generated": "2026-11-14T02:18:14.401Z",
+  "total_datasets": 644,
+  "total_records": 658823,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -525,6 +525,32 @@
         "xlsx": {
           "name": "id-warisan-budaya-takbenda_ID.xlsx",
           "size": 98473
+        }
+      }
+    },
+    {
+      "id": "id-bank-berhenti-beroperasi",
+      "name": "Daftar Bank yang Berhenti Beroperasi di Indonesia",
+      "category": "economy",
+      "record_count": 237,
+      "columns": [
+        "name",
+        "founded",
+        "closed",
+        "reason",
+        "period"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bank_di_Indonesia",
+      "updated": "2026-11",
+      "size": 58088,
+      "files": {
+        "csv": {
+          "name": "id-bank-berhenti-beroperasi_ID.csv",
+          "size": 33550
+        },
+        "xlsx": {
+          "name": "id-bank-berhenti-beroperasi_ID.xlsx",
+          "size": 16489
         }
       }
     },
