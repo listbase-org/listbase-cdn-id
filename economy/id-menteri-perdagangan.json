@@ -1,0 +1,520 @@
+{
+  "id": "id-menteri-perdagangan",
+  "name": "Daftar Menteri Perdagangan Indonesia",
+  "title": "Daftar Menteri Perdagangan Indonesia",
+  "description": "Para Menteri Perdagangan Indonesia sejak 1945: nama, partai, kabinet, dan masa jabatan.",
+  "category": "economy",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Perdagangan_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Menteri_Perdagangan_Indonesia",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Surachman Tjokrodisurjo",
+      "party": "Independen",
+      "cabinet": "Presidentil",
+      "start": "2 September 1945",
+      "end": "14 November 1945",
+      "note": ""
+    },
+    {
+      "no": "2",
+      "name": "Darmawan Mangunkusumo",
+      "party": "Sosialis",
+      "cabinet": "Syahrir I",
+      "start": "14 November 1945",
+      "end": "12 Maret 1946",
+      "note": ""
+    },
+    {
+      "no": "2",
+      "name": "Darmawan Mangunkusumo",
+      "party": "Sosialis",
+      "cabinet": "Syahrir II",
+      "start": "12 Maret 1946",
+      "end": "2 Oktober 1946",
+      "note": ""
+    },
+    {
+      "no": "3",
+      "name": "Adnan Kapau Gani",
+      "party": "PNI",
+      "cabinet": "Syahrir III",
+      "start": "2 Oktober 1946",
+      "end": "26 Juni 1947",
+      "note": ""
+    },
+    {
+      "no": "3",
+      "name": "Adnan Kapau Gani",
+      "party": "PNI",
+      "cabinet": "Amir Syarifuddin I",
+      "start": "3 Juli 1947",
+      "end": "11 November 1947",
+      "note": ""
+    },
+    {
+      "no": "3",
+      "name": "Adnan Kapau Gani",
+      "party": "PNI",
+      "cabinet": "Amir Syarifuddin II",
+      "start": "11 November 1947",
+      "end": "29 Januari 1948",
+      "note": ""
+    },
+    {
+      "no": "4",
+      "name": "Sjafruddin Prawiranegara",
+      "party": "Masyumi",
+      "cabinet": "Hatta I",
+      "start": "29 Januari 1948",
+      "end": "4 Agustus 1949",
+      "note": ""
+    },
+    {
+      "no": "—",
+      "name": "Ignatius Joseph Kasimo Hendrowahyono",
+      "party": "Katolik",
+      "cabinet": "Darurat",
+      "start": "19 Desember 1948",
+      "end": "13 Juli 1949",
+      "note": ""
+    },
+    {
+      "no": "5",
+      "name": "Ignatius Joseph Kasimo Hendrowahyono",
+      "party": "Katolik",
+      "cabinet": "Hatta II",
+      "start": "4 Agustus 1949",
+      "end": "20 Desember 1949",
+      "note": ""
+    },
+    {
+      "no": "—",
+      "name": "Djuanda Kartawidjaja",
+      "party": "Independen",
+      "cabinet": "RIS",
+      "start": "20 Desember 1949",
+      "end": "6 September 1950",
+      "note": ""
+    },
+    {
+      "no": "(5)",
+      "name": "Ignatius Joseph Kasimo Hendrowahyono",
+      "party": "Katolik",
+      "cabinet": "Susanto",
+      "start": "20 Desember 1949",
+      "end": "21 Januari 1950",
+      "note": ""
+    },
+    {
+      "no": "6",
+      "name": "Tandiono Manu",
+      "party": "PSI",
+      "cabinet": "Halim",
+      "start": "21 Januari 1950",
+      "end": "6 September 1950",
+      "note": ""
+    },
+    {
+      "no": "7",
+      "name": "Sumitro Djojohadikusumo",
+      "party": "PSI",
+      "cabinet": "Natsir",
+      "start": "6 September 1950",
+      "end": "27 April 1951",
+      "note": ""
+    },
+    {
+      "no": "8",
+      "name": "Sujono Hadinoto",
+      "party": "PNI",
+      "cabinet": "Sukiman Suwirjo",
+      "start": "27 April 1951",
+      "end": "19 Juli 1951",
+      "note": ""
+    },
+    {
+      "no": "9",
+      "name": "Wilopo",
+      "party": "PNI",
+      "cabinet": "Sukiman Suwirjo",
+      "start": "19 Juli 1951",
+      "end": "3 April 1952",
+      "note": ""
+    },
+    {
+      "no": "10",
+      "name": "Sumanang",
+      "party": "PNI",
+      "cabinet": "Wilopo",
+      "start": "3 April 1952",
+      "end": "30 Juli 1953",
+      "note": ""
+    },
+    {
+      "no": "11",
+      "name": "Iskak Tjokroadisurjo",
+      "party": "PNI",
+      "cabinet": "Ali Sastroamidjojo I",
+      "start": "30 Juli 1953",
+      "end": "8 November 1954",
+      "note": ""
+    },
+    {
+      "no": "12",
+      "name": "Roosseno Soerjohadikoesoemo",
+      "party": "PIR",
+      "cabinet": "Ali Sastroamidjojo I",
+      "start": "8 November 1954",
+      "end": "12 Agustus 1955",
+      "note": ""
+    },
+    {
+      "no": "(5)",
+      "name": "Ignatius Joseph Kasimo Hendrowahyono",
+      "party": "Katolik",
+      "cabinet": "Burhanuddin Harahap",
+      "start": "12 Agustus 1955",
+      "end": "24 Maret 1956",
+      "note": ""
+    },
+    {
+      "no": "13",
+      "name": "Burhanuddin",
+      "party": "NU",
+      "cabinet": "Ali Sastroamidjojo II",
+      "start": "24 Maret 1956",
+      "end": "14 Maret 1957",
+      "note": ""
+    },
+    {
+      "no": "14",
+      "name": "Soenardjo Abu Ngusman",
+      "party": "NU",
+      "cabinet": "Karya",
+      "start": "9 April 1957",
+      "end": "25 Juni 1958",
+      "note": ""
+    },
+    {
+      "no": "15",
+      "name": "Rachmad Muljomiseno",
+      "party": "NU",
+      "cabinet": "Karya",
+      "start": "25 Juni 1958",
+      "end": "10 Juli 1959",
+      "note": ""
+    },
+    {
+      "no": "16",
+      "name": "Arifin Harahap",
+      "party": "Independen",
+      "cabinet": "Kerja I",
+      "start": "10 Juli 1959",
+      "end": "18 Februari 1960",
+      "note": ""
+    },
+    {
+      "no": "16",
+      "name": "Arifin Harahap",
+      "party": "Independen",
+      "cabinet": "Kerja II",
+      "start": "18 Februari 1960",
+      "end": "6 Maret 1962",
+      "note": ""
+    },
+    {
+      "no": "17",
+      "name": "Soeharto Sastrosoeyoso",
+      "party": "Independen",
+      "cabinet": "Kerja III",
+      "start": "6 Maret 1962",
+      "end": "13 November 1963",
+      "note": ""
+    },
+    {
+      "no": "18",
+      "name": "Adam Malik",
+      "party": "Murba",
+      "cabinet": "Kerja IV",
+      "start": "13 November 1963",
+      "end": "27 Agustus 1964",
+      "note": ""
+    },
+    {
+      "no": "18",
+      "name": "Adam Malik",
+      "party": "Murba",
+      "cabinet": "Dwikora I",
+      "start": "27 Agustus 1964",
+      "end": "1 April 1965",
+      "note": ""
+    },
+    {
+      "no": "19",
+      "name": "Achmad Yusuf",
+      "party": "ABRI",
+      "cabinet": "Dwikora I",
+      "start": "1 April 1965",
+      "end": "22 Februari 1966",
+      "note": ""
+    },
+    {
+      "no": "19",
+      "name": "Achmad Yusuf",
+      "party": "ABRI",
+      "cabinet": "Dwikora II",
+      "start": "22 Februari 1966",
+      "end": "28 Maret 1966",
+      "note": ""
+    },
+    {
+      "no": "20",
+      "name": "Ashari Danudirdjo",
+      "party": "ABRI",
+      "cabinet": "Dwikora III",
+      "start": "28 Maret 1966",
+      "end": "25 Juli 1966",
+      "note": ""
+    },
+    {
+      "no": "20",
+      "name": "Ashari Danudirdjo",
+      "party": "ABRI",
+      "cabinet": "Ampera I",
+      "start": "28 Juli 1966",
+      "end": "14 Oktober 1967",
+      "note": ""
+    },
+    {
+      "no": "21",
+      "name": "M. Jusuf",
+      "party": "ABRI",
+      "cabinet": "Ampera II",
+      "start": "14 Oktober 1967",
+      "end": "6 Juni 1968",
+      "note": ""
+    },
+    {
+      "no": "(7)",
+      "name": "Sumitro Djojohadikusumo",
+      "party": "Independen",
+      "cabinet": "Pembangunan I",
+      "start": "10 Juni 1968",
+      "end": "27 Maret 1973",
+      "note": ""
+    },
+    {
+      "no": "22",
+      "name": "Radius Prawiro",
+      "party": "Independen",
+      "cabinet": "Pembangunan II",
+      "start": "28 Maret 1973",
+      "end": "29 Maret 1978",
+      "note": ""
+    },
+    {
+      "no": "22",
+      "name": "Radius Prawiro",
+      "party": "Golkar",
+      "cabinet": "Pembangunan III",
+      "start": "31 Maret 1978",
+      "end": "16 Maret 1983",
+      "note": ""
+    },
+    {
+      "no": "23",
+      "name": "Rachmat Saleh",
+      "party": "Golkar",
+      "cabinet": "Pembangunan IV",
+      "start": "19 Maret 1983",
+      "end": "21 Maret 1988",
+      "note": ""
+    },
+    {
+      "no": "24",
+      "name": "Arifin Siregar",
+      "party": "Golkar",
+      "cabinet": "Pembangunan V",
+      "start": "23 Maret 1988",
+      "end": "17 Maret 1993",
+      "note": ""
+    },
+    {
+      "no": "25",
+      "name": "Satrio Budihardjo",
+      "party": "Golkar",
+      "cabinet": "Pembangunan VI",
+      "start": "19 Maret 1993",
+      "end": "6 Desember 1995",
+      "note": ""
+    },
+    {
+      "no": "26",
+      "name": "Mari Elka Pangestu",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu",
+      "start": "21 Oktober 2004",
+      "end": "20 Oktober 2009",
+      "note": ""
+    },
+    {
+      "no": "26",
+      "name": "Mari Elka Pangestu",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "22 Oktober 2009",
+      "end": "19 Oktober 2011",
+      "note": ""
+    },
+    {
+      "no": "27",
+      "name": "Gita Wirjawan",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "19 Oktober 2011",
+      "end": "31 Januari 2014",
+      "note": ""
+    },
+    {
+      "no": "—",
+      "name": "Bayu Krisnamurthi (Pelaksana Tugas)",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "31 Januari 2014",
+      "end": "12 Februari 2014",
+      "note": ""
+    },
+    {
+      "no": "28",
+      "name": "Muhammad Lutfi",
+      "party": "Independen",
+      "cabinet": "Indonesia Bersatu II",
+      "start": "14 Februari 2014",
+      "end": "20 Oktober 2014",
+      "note": ""
+    },
+    {
+      "no": "29",
+      "name": "Rachmad Gobel",
+      "party": "NasDem",
+      "cabinet": "Kerja",
+      "start": "27 Oktober 2014",
+      "end": "12 Agustus 2015",
+      "note": ""
+    },
+    {
+      "no": "30",
+      "name": "Thomas Trikasih Lembong",
+      "party": "Independen",
+      "cabinet": "Kerja",
+      "start": "12 Agustus 2015",
+      "end": "27 Juli 2016",
+      "note": ""
+    },
+    {
+      "no": "31",
+      "name": "Enggartiasto Lukita",
+      "party": "NasDem",
+      "cabinet": "Kerja",
+      "start": "27 Juli 2016",
+      "end": "20 Oktober 2019",
+      "note": ""
+    },
+    {
+      "no": "32",
+      "name": "Agus Suparmanto",
+      "party": "PKB",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Oktober 2019",
+      "end": "23 Desember 2020",
+      "note": ""
+    },
+    {
+      "no": "(28)",
+      "name": "Muhammad Lutfi",
+      "party": "Independen",
+      "cabinet": "Indonesia Maju",
+      "start": "23 Desember 2020",
+      "end": "15 Juni 2022",
+      "note": ""
+    },
+    {
+      "no": "33",
+      "name": "Zulkifli Hasan",
+      "party": "PAN",
+      "cabinet": "Indonesia Maju",
+      "start": "15 Juni 2022",
+      "end": "20 Oktober 2024",
+      "note": ""
+    },
+    {
+      "no": "34",
+      "name": "Budi Santoso",
+      "party": "Independen",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "Petahana",
+      "note": ""
+    },
+    {
+      "no": "34",
+      "name": "Budi Santoso",
+      "party": "PAN",
+      "cabinet": "Merah Putih",
+      "start": "21 Oktober 2024",
+      "end": "Petahana",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Menteri Perdagangan Indonesia - Free Download",
+    "description": "Para Menteri Perdagangan Indonesia sejak 1945: nama, partai, kabinet, dan masa jabatan. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Menteri Perdagangan Indonesia | ListBase",
+    "seo_description": "Download Daftar Menteri Perdagangan Indonesia — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Menteri_Perdagangan_Indonesia"
+    ]
+  }
+}

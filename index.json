@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-14T02:18:33.623Z",
-  "total_datasets": 646,
-  "total_records": 658855,
+  "generated": "2026-11-14T02:18:43.003Z",
+  "total_datasets": 647,
+  "total_records": 658906,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -689,6 +689,34 @@
         "xlsx": {
           "name": "id-menteri-keuangan_ID.xlsx",
           "size": 9555
+        }
+      }
+    },
+    {
+      "id": "id-menteri-perdagangan",
+      "name": "Daftar Menteri Perdagangan Indonesia",
+      "category": "economy",
+      "record_count": 51,
+      "columns": [
+        "no",
+        "name",
+        "party",
+        "cabinet",
+        "start",
+        "end",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Perdagangan_Indonesia",
+      "updated": "2026-11",
+      "size": 12237,
+      "files": {
+        "csv": {
+          "name": "id-menteri-perdagangan_ID.csv",
+          "size": 4459
+        },
+        "xlsx": {
+          "name": "id-menteri-perdagangan_ID.xlsx",
+          "size": 9542
         }
       }
     },
