@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-14T02:18:23.904Z",
-  "total_datasets": 645,
-  "total_records": 658840,
+  "generated": "2026-11-14T02:18:33.623Z",
+  "total_datasets": 646,
+  "total_records": 658855,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -16667,6 +16667,34 @@
         "xlsx": {
           "name": "id-kereta-wisata-komersial_ID.xlsx",
           "size": 8122
+        }
+      }
+    },
+    {
+      "id": "id-menteri-pariwisata",
+      "name": "Daftar Menteri Pariwisata Indonesia",
+      "category": "tourism",
+      "record_count": 15,
+      "columns": [
+        "no",
+        "name",
+        "party",
+        "cabinet",
+        "start",
+        "end",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Menteri_Pariwisata_Indonesia",
+      "updated": "2026-11",
+      "size": 4905,
+      "files": {
+        "csv": {
+          "name": "id-menteri-pariwisata_ID.csv",
+          "size": 1370
+        },
+        "xlsx": {
+          "name": "id-menteri-pariwisata_ID.xlsx",
+          "size": 7671
         }
       }
     },
