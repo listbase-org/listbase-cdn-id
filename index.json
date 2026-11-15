@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-14T02:18:43.003Z",
-  "total_datasets": 647,
-  "total_records": 658906,
+  "generated": "2026-11-15T02:21:00.360Z",
+  "total_datasets": 648,
+  "total_records": 658940,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -995,6 +995,35 @@
         "xlsx": {
           "name": "id-rektor-ugm_ID.xlsx",
           "size": 7713
+        }
+      }
+    },
+    {
+      "id": "id-rektor-universitas-indonesia",
+      "name": "Daftar Rektor Universitas Indonesia",
+      "category": "education",
+      "record_count": 34,
+      "columns": [
+        "institution_period",
+        "number",
+        "name",
+        "start",
+        "end",
+        "faculty",
+        "previous_position",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Indonesia",
+      "updated": "2026-11",
+      "size": 13447,
+      "files": {
+        "csv": {
+          "name": "id-rektor-universitas-indonesia_ID.csv",
+          "size": 5836
+        },
+        "xlsx": {
+          "name": "id-rektor-universitas-indonesia_ID.xlsx",
+          "size": 9290
         }
       }
     },

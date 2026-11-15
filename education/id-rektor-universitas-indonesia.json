@@ -1,0 +1,406 @@
+{
+  "id": "id-rektor-universitas-indonesia",
+  "name": "Daftar Rektor Universitas Indonesia",
+  "title": "Daftar Rektor Universitas Indonesia",
+  "description": "Daftar pimpinan Universitas Indonesia (UI) dan lembaga pendahulunya sejak 1945 — presiden universitas, ketua presidium, dan rektor — beserta masa jabatan, fakultas asal, dan jabatan sebelumnya.",
+  "category": "education",
+  "source": "https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Indonesia",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "institution_period",
+      "label": "Institution Period",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "faculty",
+      "label": "Faculty",
+      "type": "string"
+    },
+    {
+      "key": "previous_position",
+      "label": "Previous Position",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "institution_period": "Balai Perguruan Tinggi Republik Indonesia",
+      "number": "1",
+      "name": "Prof. dr. Sarwono Prawirodihardjo",
+      "start": "19 Agustus 1945",
+      "end": "2 Februari 1950",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Nood-Universiteit van Nederlandsch Indie",
+      "number": "1",
+      "name": "Prof. Dr. Pieter Matthijs van Wulfften Palthe (1891-1976)",
+      "start": "21 Januari 1946",
+      "end": "April 1946",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Nood-Universiteit van Nederlandsch Indie",
+      "number": "2",
+      "name": "Prof. Dr. Alfred de Waart (1888-1981)",
+      "start": "April 1946",
+      "end": "20 Juni 1946",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Nood-Universiteit van Nederlandsch Indie",
+      "number": "3",
+      "name": "Prof. Dr. Cornelis Douwe de Langen (1887-1967)",
+      "start": "20 Juni 1946",
+      "end": "12 Maret 1947",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Universiteit van Indonesie",
+      "number": "1",
+      "name": "Prof. Dr. Cornelis Douwe de Langen (1887-1967)",
+      "start": "12 Maret 1947",
+      "end": "6 Agustus 1947",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Universiteit van Indonesie",
+      "number": "2",
+      "name": "Prof. Dr. Cornelis Bonne (1890-1948)",
+      "start": "6 Agustus 1947",
+      "end": "April 1948",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Universiteit van Indonesie",
+      "number": "3",
+      "name": "Prof. Dr. Anton Abraham Cense (1901-1977)",
+      "start": "April 1948",
+      "end": "Juni 1949",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Universiteit van Indonesie",
+      "number": "4",
+      "name": "Prof. dr. Wietse Radsma (1893-1977)",
+      "start": "Juni 1949",
+      "end": "2 Februari 1950",
+      "faculty": "",
+      "previous_position": "",
+      "note": ""
+    },
+    {
+      "institution_period": "Presiden Universiteit Indonesia (1950–1955)",
+      "number": "1",
+      "name": "Ir. Raden Mas Pandji Soerachman Tjokroadisoerjo (1894–1954)",
+      "start": "11 Januari 1950",
+      "end": "Maret 1951",
+      "faculty": "Teknik",
+      "previous_position": "Direktur NV Handel Maatschapij Intrafort",
+      "note": ""
+    },
+    {
+      "institution_period": "Presiden Universiteit Indonesia (1950–1955)",
+      "number": "2",
+      "name": "Prof. Dr. Mr. Raden Soepomo (1903–1958)",
+      "start": "5 April 1951",
+      "end": "15 April 1954",
+      "faculty": "FH",
+      "previous_position": "Menteri Kehakiman RI",
+      "note": ""
+    },
+    {
+      "institution_period": "Presiden Universiteit Indonesia (1950–1955)",
+      "number": "3",
+      "name": "Prof. Dr. Bahder Djohan (1902–1981)",
+      "start": "23 Desember 1954",
+      "end": "21 Juli 1955",
+      "faculty": "FK",
+      "previous_position": "Direktur Rumah Sakit Umum Jakarta",
+      "note": ""
+    },
+    {
+      "institution_period": "Presiden Universitas Indonesia (1955-1958)",
+      "number": "3",
+      "name": "Prof. Dr. Bahder Djohan (1902–1981)",
+      "start": "21 Juli 1955",
+      "end": "25 Februari 1958",
+      "faculty": "FK",
+      "previous_position": "Direktur Rumah Sakit Umum Jakarta",
+      "note": ""
+    },
+    {
+      "institution_period": "Ketua Presidium Universitas Indonesia (1958–1962)",
+      "number": "4",
+      "name": "Prof. Dr. Raden Soedjono Djoened Poesponegoro (1908-1986)",
+      "start": "Maret 1958",
+      "end": "Maret 1962",
+      "faculty": "FK",
+      "previous_position": "Dekan Fakultas Kedokteran Universitas Indonesia",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "5",
+      "name": "Letjen TNI (Purn.) dr. Teuku Mohammad Sjarif Thajeb (1920-1989)",
+      "start": "1962",
+      "end": "1964",
+      "faculty": "FK",
+      "previous_position": "Direktur Rumah Sakit Umum Jakarta",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "6",
+      "name": "Prof. Dr. Ir. Raden Mas Soemantri Brodjonegoro (1926–1973)",
+      "start": "1964",
+      "end": "Oktober 1968",
+      "faculty": "FMIPA",
+      "previous_position": "Pembantu Rektor Bidang Akademis ITB",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "6",
+      "name": "Prof. Dr. Ir. Raden Mas Soemantri Brodjonegoro (1926–1973)",
+      "start": "Oktober 1968",
+      "end": "April 1973",
+      "faculty": "FMIPA",
+      "previous_position": "Pembantu Rektor Bidang Akademis ITB",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "—",
+      "name": "Prof. Dr. (HC) Slamet Iman Santoso (1907–2004)",
+      "start": "April 1973",
+      "end": "5 Desember 1973",
+      "faculty": "FPsi",
+      "previous_position": "Pembantu Rektor Bidang Akademis UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "7",
+      "name": "Prof. Dr. Mahar Mardjono (1923–2002)",
+      "start": "5 Desember 1973",
+      "end": "9 Januari 1978",
+      "faculty": "FK",
+      "previous_position": "Dekan FKUI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "7",
+      "name": "Prof. Dr. Mahar Mardjono (1923–2002)",
+      "start": "9 Januari 1978",
+      "end": "15 Januari 1982",
+      "faculty": "FK",
+      "previous_position": "Dekan FKUI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "8",
+      "name": "Brigjen TNI (Purn.) Prof. Dr. Nugroho Notosusanto (1930–1985)",
+      "start": "15 Januari 1982",
+      "end": "3 Juni 1985",
+      "faculty": "Sastra",
+      "previous_position": "Kepala Pusat Sejarah ABRI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "—",
+      "name": "Prof. Dr. dr. W. A. F. J. Tumbelaka (1920–2012)",
+      "start": "3 Juni 1985",
+      "end": "15 Januari 1986",
+      "faculty": "FK",
+      "previous_position": "Pembantu Rektor Bidang Akademis UI",
+      "note": "Pejabat Rektor UI"
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "9",
+      "name": "Prof. Dr. Sujudi (1930–2007)",
+      "start": "15 Januari 1986",
+      "end": "15 Januari 1990",
+      "faculty": "FK",
+      "previous_position": "Ketua Lembaga Penelitian/Sekretaris Senat UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "9",
+      "name": "Prof. Dr. Sujudi (1930–2007)",
+      "start": "15 Januari 1990",
+      "end": "15 Januari 1994",
+      "faculty": "FK",
+      "previous_position": "Ketua Lembaga Penelitian/Sekretaris Senat UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "10",
+      "name": "Prof. Dr. dr. Muhammad Kamil Tadjudin Sp.And (1937–2017)",
+      "start": "15 Januari 1994",
+      "end": "15 Januari 1998",
+      "faculty": "FK",
+      "previous_position": "Pembantu Rektor Bidang Akademis UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "11",
+      "name": "Prof. Dr. dr. Asman Boedisantoso Ranakusuma Sp.PD-KE (1946–)",
+      "start": "15 Januari 1998",
+      "end": "28 Februari 2002",
+      "faculty": "FK",
+      "previous_position": "Pembantu Rektor Bidang Akademis UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "—",
+      "name": "Prof. dr. Usman Chatib Warsa Sp.MK, Ph.D. (1947–)",
+      "start": "28 Februari 2002",
+      "end": "28 Agustus 2002",
+      "faculty": "FK",
+      "previous_position": "Pembantu Rektor Bidang Akademis UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "12",
+      "name": "Prof. dr. Usman Chatib Warsa Sp.MK, Ph.D. (1947–)",
+      "start": "28 Agustus 2002",
+      "end": "14 Agustus 2007",
+      "faculty": "FK",
+      "previous_position": "Pembantu Rektor Bidang Akademis UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "13",
+      "name": "Prof. Dr. der Soz. Gumilar Rusliwa Somantri (1963-)",
+      "start": "14 Agustus 2007",
+      "end": "14 Agustus 2012",
+      "faculty": "FISIP",
+      "previous_position": "Dekan FISIP–UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "—",
+      "name": "Prof. Dr. Ir. Djoko Santoso M.Sc. (1953–)",
+      "start": "14 Agustus 2012",
+      "end": "17 Mei 2013",
+      "faculty": "Penugasan pemerintah",
+      "previous_position": "Direktur Jenderal Pendidikan Tinggi",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "—",
+      "name": "Prof. Dr. Ir. Muhammad Anis M.Met. (1957–)",
+      "start": "17 Mei 2013",
+      "end": "2 Oktober 2014",
+      "faculty": "FT",
+      "previous_position": "Wakil Rektor Bidang Akademis dan Kemahasiswaan UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "—",
+      "name": "Prof. Dr. Bambang Wibawarta S.S., M.A. (1965–)",
+      "start": "2 Oktober 2014",
+      "end": "4 Desember 2014",
+      "faculty": "FIB",
+      "previous_position": "Wakil Rektor Bidang Akademis dan Kemahasiswaan UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "14",
+      "name": "Prof. Dr. Ir. Muhammad Anis M.Met. (1957–)",
+      "start": "4 Desember 2014",
+      "end": "4 Desember 2019",
+      "faculty": "FT",
+      "previous_position": "Wakil Rektor Bidang Akademis dan Kemahasiswaan UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "15",
+      "name": "Prof. Ari Kuncoro S.E., M.A., Ph.D. (1962–)",
+      "start": "4 Desember 2019",
+      "end": "4 Desember 2024",
+      "faculty": "FEB",
+      "previous_position": "Dekan FEB–UI",
+      "note": ""
+    },
+    {
+      "institution_period": "Rektor Universitas Indonesia (1962–sekarang)",
+      "number": "16",
+      "name": "Prof. Dr. Ir. Heri Hermansyah S.T., M.Eng., IPU (1975–)",
+      "start": "4 Desember 2024",
+      "end": "petahana",
+      "faculty": "FT",
+      "previous_position": "Dekan FTUI",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Rektor Universitas Indonesia - Free Download",
+    "description": "Daftar pimpinan Universitas Indonesia (UI) dan lembaga pendahulunya sejak 1945 — presiden universitas, ketua presidium, dan rektor — beserta masa jabatan, fakultas asal, dan jabatan sebelumnya. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Rektor Universitas Indonesia | ListBase",
+    "seo_description": "Download Daftar Rektor Universitas Indonesia — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_Rektor_Universitas_Indonesia"
+    ]
+  }
+}
