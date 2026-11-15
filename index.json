@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-15T02:21:00.360Z",
-  "total_datasets": 648,
-  "total_records": 658940,
+  "generated": "2026-11-15T02:21:10.106Z",
+  "total_datasets": 649,
+  "total_records": 658955,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "math",
@@ -7247,6 +7247,32 @@
         "xlsx": {
           "name": "id-kapolri_ID.xlsx",
           "size": 8953
+        }
+      }
+    },
+    {
+      "id": "id-kepala-bnn",
+      "name": "Daftar Kepala Badan Narkotika Nasional (BNN)",
+      "category": "law",
+      "record_count": 15,
+      "columns": [
+        "number",
+        "name",
+        "institution",
+        "start",
+        "end"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kepala_Badan_Narkotika_Nasional",
+      "updated": "2026-11",
+      "size": 4523,
+      "files": {
+        "csv": {
+          "name": "id-kepala-bnn_ID.csv",
+          "size": 1419
+        },
+        "xlsx": {
+          "name": "id-kepala-bnn_ID.xlsx",
+          "size": 7491
         }
       }
     },
