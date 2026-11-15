@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-15T02:21:19.020Z",
-  "total_datasets": 650,
-  "total_records": 658972,
+  "generated": "2026-11-15T02:21:28.426Z",
+  "total_datasets": 651,
+  "total_records": 659000,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -7508,6 +7508,31 @@
         "xlsx": {
           "name": "id-album-terlaris_ID.xlsx",
           "size": 8193
+        }
+      }
+    },
+    {
+      "id": "id-ami-artis-solo-pria-pop-terbaik",
+      "name": "Penghargaan AMI untuk Artis Solo Pria Pop Terbaik",
+      "category": "music",
+      "record_count": 28,
+      "columns": [
+        "year",
+        "winner",
+        "song",
+        "nominees"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Penghargaan_AMI_untuk_Artis_Solo_Pria_Pop_Terbaik",
+      "updated": "2026-11",
+      "size": 8081,
+      "files": {
+        "csv": {
+          "name": "id-ami-artis-solo-pria-pop-terbaik_ID.csv",
+          "size": 4239
+        },
+        "xlsx": {
+          "name": "id-ami-artis-solo-pria-pop-terbaik_ID.xlsx",
+          "size": 9100
         }
       }
     },
