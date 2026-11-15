@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-15T02:21:10.106Z",
-  "total_datasets": 649,
-  "total_records": 658955,
+  "generated": "2026-11-15T02:21:19.020Z",
+  "total_datasets": 650,
+  "total_records": 658972,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -7637,6 +7637,32 @@
         "xlsx": {
           "name": "id-lagu-patriotik_ID.xlsx",
           "size": 8765
+        }
+      }
+    },
+    {
+      "id": "id-pemenang-kontes-dangdut-indonesia",
+      "name": "Daftar Pemenang Kontes Dangdut Indonesia (KDI)",
+      "category": "music",
+      "record_count": 17,
+      "columns": [
+        "season",
+        "year",
+        "winner",
+        "runner_up",
+        "third_place"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kontes_Dangdut_Indonesia",
+      "updated": "2026-11",
+      "size": 5020,
+      "files": {
+        "csv": {
+          "name": "id-pemenang-kontes-dangdut-indonesia_ID.csv",
+          "size": 1622
+        },
+        "xlsx": {
+          "name": "id-pemenang-kontes-dangdut-indonesia_ID.xlsx",
+          "size": 7970
         }
       }
     },
