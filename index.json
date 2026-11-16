@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-16T02:26:58.788Z",
-  "total_datasets": 652,
-  "total_records": 659050,
+  "generated": "2026-11-16T02:27:07.154Z",
+  "total_datasets": 653,
+  "total_records": 659091,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -391,6 +391,31 @@
         "xlsx": {
           "name": "id-cagar-budaya-per-provinsi_ID.xlsx",
           "size": 38306
+        }
+      }
+    },
+    {
+      "id": "id-katedral-katolik",
+      "name": "Daftar Katedral Katolik di Indonesia",
+      "category": "culture",
+      "record_count": 41,
+      "columns": [
+        "cathedral",
+        "diocese",
+        "city_province",
+        "ecclesiastical_province"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_katedral_di_Indonesia",
+      "updated": "2026-11",
+      "size": 10494,
+      "files": {
+        "csv": {
+          "name": "id-katedral-katolik_ID.csv",
+          "size": 4551
+        },
+        "xlsx": {
+          "name": "id-katedral-katolik_ID.xlsx",
+          "size": 8552
         }
       }
     },

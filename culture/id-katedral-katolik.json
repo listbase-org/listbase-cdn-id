@@ -1,0 +1,292 @@
+{
+  "id": "id-katedral-katolik",
+  "name": "Daftar Katedral Katolik di Indonesia",
+  "title": "Daftar Katedral Katolik di Indonesia",
+  "description": "Katedral Gereja Katolik di Indonesia beserta keuskupan, kota/provinsi, dan provinsi gerejawinya.",
+  "category": "culture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_katedral_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_katedral_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "cathedral",
+      "label": "Cathedral",
+      "type": "string"
+    },
+    {
+      "key": "diocese",
+      "label": "Diocese",
+      "type": "string"
+    },
+    {
+      "key": "city_province",
+      "label": "City Province",
+      "type": "string"
+    },
+    {
+      "key": "ecclesiastical_province",
+      "label": "Ecclesiastical Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Agung Ende",
+      "city_province": "Ende, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Ende"
+    },
+    {
+      "cathedral": "Katedral Roh Kudus",
+      "diocese": "Keuskupan Denpasar",
+      "city_province": "Denpasar, Bali",
+      "ecclesiastical_province": "Provinsi Gerejawi Ende"
+    },
+    {
+      "cathedral": "Katedral Roh Kudus",
+      "diocese": "Keuskupan Labuan Bajo",
+      "city_province": "Labuan Bajo, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Ende"
+    },
+    {
+      "cathedral": "Katedral Renha Rosari",
+      "diocese": "Keuskupan Larantuka",
+      "city_province": "Larantuka, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Ende"
+    },
+    {
+      "cathedral": "Katedral Santo Yoseph",
+      "diocese": "Keuskupan Maumere",
+      "city_province": "Maumere, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Ende"
+    },
+    {
+      "cathedral": "Katedral Santa Maria Assumpta dan Santo Yosef",
+      "diocese": "Keuskupan Ruteng",
+      "city_province": "Ruteng, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Ende"
+    },
+    {
+      "cathedral": "Katedral Santa Perawan Maria Diangkat ke Surga",
+      "diocese": "Keuskupan Agung Jakarta",
+      "city_province": "Jakarta",
+      "ecclesiastical_province": "Provinsi Gerejawi Jakarta"
+    },
+    {
+      "cathedral": "Katedral Santo Petrus",
+      "diocese": "Keuskupan Bandung",
+      "city_province": "Bandung, Jawa Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Jakarta"
+    },
+    {
+      "cathedral": "Katedral Beatae Mariae Virginis",
+      "diocese": "Keuskupan Bogor",
+      "city_province": "Bogor, Jawa Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Jakarta"
+    },
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Agung Kupang",
+      "city_province": "Kupang, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Kupang"
+    },
+    {
+      "cathedral": "Katedral Santa Maria Imakulata",
+      "diocese": "Keuskupan Atambua",
+      "city_province": "Atambua, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Kupang"
+    },
+    {
+      "cathedral": "Katedral Roh Kudus",
+      "diocese": "Keuskupan Weetebula",
+      "city_province": "Weetebula, Nusa Tenggara Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Kupang"
+    },
+    {
+      "cathedral": "Katedral Hati Yesus yang Mahakudus",
+      "diocese": "Keuskupan Agung Makassar",
+      "city_province": "Makassar, Sulawesi Selatan",
+      "ecclesiastical_province": "Provinsi Gerejawi Makassar"
+    },
+    {
+      "cathedral": "Katedral Santo Fransiskus Xaverius",
+      "diocese": "Keuskupan Amboina",
+      "city_province": "Ambon, Maluku",
+      "ecclesiastical_province": "Provinsi Gerejawi Makassar"
+    },
+    {
+      "cathedral": "Kon-katedral Santa Perawan Maria Hati Tak Bernoda",
+      "diocese": "Keuskupan Amboina",
+      "city_province": "Langgur, Maluku",
+      "ecclesiastical_province": "Provinsi Gerejawi Makassar"
+    },
+    {
+      "cathedral": "Katedral Hati Tersuci Maria",
+      "diocese": "Keuskupan Manado",
+      "city_province": "Manado, Sulawesi Utara",
+      "ecclesiastical_province": "Provinsi Gerejawi Makassar"
+    },
+    {
+      "cathedral": "Katedral Santa Perawan Maria yang Dikandung Tanpa Noda",
+      "diocese": "Keuskupan Agung Medan",
+      "city_province": "Medan, Sumatera Utara",
+      "ecclesiastical_province": "Provinsi Gerejawi Medan"
+    },
+    {
+      "cathedral": "Katedral Santa Theresia dari Kanak-Kanak Yesus",
+      "diocese": "Keuskupan Padang",
+      "city_province": "Padang, Sumatera Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Medan"
+    },
+    {
+      "cathedral": "Katedral Santa Theresia Liseux",
+      "diocese": "Keuskupan Sibolga",
+      "city_province": "Sibolga, Sumatera Utara",
+      "ecclesiastical_province": "Provinsi Gerejawi Medan"
+    },
+    {
+      "cathedral": "Kon-katedral Santa Maria Bunda Para Bangsa",
+      "diocese": "Keuskupan Sibolga",
+      "city_province": "Gunungsitoli, Kepulauan Nias, Sumatera Utara",
+      "ecclesiastical_province": "Provinsi Gerejawi Medan"
+    },
+    {
+      "cathedral": "Katedral Santo Fransiskus Xaverius",
+      "diocese": "Keuskupan Agung Merauke",
+      "city_province": "Merauke, Papua Selatan",
+      "ecclesiastical_province": "Provinsi Gerejawi Merauke"
+    },
+    {
+      "cathedral": "Katedral Salib Suci",
+      "diocese": "Keuskupan Agats",
+      "city_province": "Asmat, Papua Selatan",
+      "ecclesiastical_province": "Provinsi Gerejawi Merauke"
+    },
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Jayapura",
+      "city_province": "Jayapura, Papua",
+      "ecclesiastical_province": "Provinsi Gerejawi Merauke"
+    },
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Manokwari-Sorong",
+      "city_province": "Sorong, Papua Barat Daya",
+      "ecclesiastical_province": "Provinsi Gerejawi Merauke"
+    },
+    {
+      "cathedral": "Konkatedral Santo Agustinus",
+      "diocese": "Keuskupan Manokwari-Sorong",
+      "city_province": "Manokwari, Papua Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Merauke"
+    },
+    {
+      "cathedral": "Katedral Tiga Raja",
+      "diocese": "Keuskupan Timika",
+      "city_province": "Timika, Papua Tengah",
+      "ecclesiastical_province": "Provinsi Gerejawi Merauke"
+    },
+    {
+      "cathedral": "Katedral Santa Maria",
+      "diocese": "Keuskupan Agung Palembang",
+      "city_province": "Palembang, Sumatera Selatan",
+      "ecclesiastical_province": "Provinsi Gerejawi Palembang"
+    },
+    {
+      "cathedral": "Katedral Santo Yosep",
+      "diocese": "Keuskupan Pangkalpinang",
+      "city_province": "Pangkalpinang, Kepulauan Bangka Belitung",
+      "ecclesiastical_province": "Provinsi Gerejawi Palembang"
+    },
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Tanjungkarang",
+      "city_province": "Bandar Lampung, Lampung",
+      "ecclesiastical_province": "Provinsi Gerejawi Palembang"
+    },
+    {
+      "cathedral": "Katedral Santo Yosef",
+      "diocese": "Keuskupan Agung Pontianak",
+      "city_province": "Pontianak, Kalimantan Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Pontianak"
+    },
+    {
+      "cathedral": "Katedral Santa Gemma Galgani",
+      "diocese": "Keuskupan Ketapang",
+      "city_province": "Ketapang, Kalimantan Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Pontianak"
+    },
+    {
+      "cathedral": "Katedral Hati Kudus Yesus",
+      "diocese": "Keuskupan Sanggau",
+      "city_province": "Sanggau, Kalimantan Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Pontianak"
+    },
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Sintang",
+      "city_province": "Sintang, Kalimantan Barat",
+      "ecclesiastical_province": "Provinsi Gerejawi Pontianak"
+    },
+    {
+      "cathedral": "Katedral Santa Maria Penolong Abadi",
+      "diocese": "Keuskupan Agung Samarinda",
+      "city_province": "Samarinda, Kalimantan Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Samarinda"
+    },
+    {
+      "cathedral": "Katedral Keluarga Kudus",
+      "diocese": "Keuskupan Banjarmasin",
+      "city_province": "Banjarmasin, Kalimantan Selatan",
+      "ecclesiastical_province": "Provinsi Gerejawi Samarinda"
+    },
+    {
+      "cathedral": "Katedral Santa Maria",
+      "diocese": "Keuskupan Palangkaraya",
+      "city_province": "Palangka Raya, Kalimantan Tengah",
+      "ecclesiastical_province": "Provinsi Gerejawi Samarinda"
+    },
+    {
+      "cathedral": "Katedral Santa Maria Assumpta",
+      "diocese": "Keuskupan Tanjung Selor",
+      "city_province": "Tanjung Selor, Kalimantan Utara",
+      "ecclesiastical_province": "Provinsi Gerejawi Samarinda"
+    },
+    {
+      "cathedral": "Katedral Santa Perawan Maria Ratu Rosario Suci",
+      "diocese": "Keuskupan Agung Semarang",
+      "city_province": "Semarang, Jawa Tengah",
+      "ecclesiastical_province": "Provinsi Gerejawi Semarang"
+    },
+    {
+      "cathedral": "Katedral Santa Perawan Maria dari Gunung Karmel",
+      "diocese": "Keuskupan Malang",
+      "city_province": "Malang, Jawa Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Semarang"
+    },
+    {
+      "cathedral": "Katedral Kristus Raja",
+      "diocese": "Keuskupan Purwokerto",
+      "city_province": "Purwokerto, Jawa Tengah",
+      "ecclesiastical_province": "Provinsi Gerejawi Semarang"
+    },
+    {
+      "cathedral": "Katedral Hati Kudus Yesus",
+      "diocese": "Keuskupan Surabaya",
+      "city_province": "Surabaya, Jawa Timur",
+      "ecclesiastical_province": "Provinsi Gerejawi Semarang"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Katedral Katolik di Indonesia - Free Download",
+    "description": "Katedral Gereja Katolik di Indonesia beserta keuskupan, kota/provinsi, dan provinsi gerejawinya. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Katedral Katolik di Indonesia | ListBase",
+    "seo_description": "Download Daftar Katedral Katolik di Indonesia — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_katedral_di_Indonesia"
+    ]
+  }
+}
