@@ -1,0 +1,621 @@
+{
+  "id": "id-juara-proliga",
+  "name": "Daftar Juara Proliga (Liga Bola Voli Indonesia)",
+  "title": "Daftar Juara Proliga (Liga Bola Voli Indonesia)",
+  "description": "Hasil final dan perebutan tempat ketiga Proliga, kompetisi bola voli profesional Indonesia, untuk kategori putra dan putri sejak 2002.",
+  "category": "sports",
+  "source": "https://id.wikipedia.org/wiki/Proliga",
+  "source_url": "https://id.wikipedia.org/wiki/Proliga",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "division",
+      "label": "Division",
+      "type": "string"
+    },
+    {
+      "key": "final_venue",
+      "label": "Final Venue",
+      "type": "string"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "final_score",
+      "label": "Final Score",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "third_place",
+      "label": "Third Place",
+      "type": "string"
+    },
+    {
+      "key": "third_place_score",
+      "label": "Third Place Score",
+      "type": "string"
+    },
+    {
+      "key": "fourth_place",
+      "label": "Fourth Place",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": 2002,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Bandung Tectona",
+      "final_score": "3–0",
+      "runner_up": "Surabaya Flame",
+      "third_place": "Jakarta Monas Bank DKI",
+      "third_place_score": "3–2",
+      "fourth_place": "Yogya Yuwana"
+    },
+    {
+      "season": 2003,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Phinisi Bank BNI",
+      "final_score": "3–2",
+      "runner_up": "Surabaya Flame Samator",
+      "third_place": "Yogya Gunadarma",
+      "third_place_score": "3–1",
+      "fourth_place": "Bandung Tectona"
+    },
+    {
+      "season": 2004,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Flame Samator",
+      "final_score": "3–?",
+      "runner_up": "Bandung Tectona",
+      "third_place": "Yogya Gunadarma",
+      "third_place_score": "3–?",
+      "fourth_place": "Jakarta Monas Bank DKI"
+    },
+    {
+      "season": 2005,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta BNI Taplus",
+      "final_score": "3–1",
+      "runner_up": "Jakarta Monas Bank DKI",
+      "third_place": "Surabaya Samator",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta Electric PLN"
+    },
+    {
+      "season": 2006,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta BNI Taplus",
+      "final_score": "3–1",
+      "runner_up": "Surabaya Samator",
+      "third_place": "Bandung BSI",
+      "third_place_score": "3–?",
+      "fourth_place": "Jakarta Sananta"
+    },
+    {
+      "season": 2007,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Samator",
+      "final_score": "3–1",
+      "runner_up": "Jakarta BNI Taplus",
+      "third_place": "Yogya Yuso Tomkins",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta Sananta"
+    },
+    {
+      "season": 2008,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Sananta",
+      "final_score": "3–1",
+      "runner_up": "Jakarta BNI Taplus",
+      "third_place": "Bantul Yuso Tomkins",
+      "third_place_score": "3–2",
+      "fourth_place": "Surabaya Samator"
+    },
+    {
+      "season": 2009,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Samator",
+      "final_score": "3–0",
+      "runner_up": "Jakarta Sananta",
+      "third_place": "Palembang Bank Sumsel",
+      "third_place_score": "3–1",
+      "fourth_place": "Bantul Yuso Gunadarma"
+    },
+    {
+      "season": 2010,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta BNI Taplus",
+      "final_score": "3–1",
+      "runner_up": "Surabaya Samator",
+      "third_place": "Jakarta Sananta",
+      "third_place_score": "3–0",
+      "fourth_place": "Palembang Bank Sumsel Babel"
+    },
+    {
+      "season": 2011,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Palembang Bank Sumsel Babel",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Sananta",
+      "third_place": "Surabaya Samator",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta Electric PLN"
+    },
+    {
+      "season": 2012,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta BNI Taplus",
+      "final_score": "3–1",
+      "runner_up": "Semarang Bank Jateng",
+      "third_place": "Jakarta Pertamina Energi",
+      "third_place_score": "3–1",
+      "fourth_place": "Palembang Bank Sumsel Babel"
+    },
+    {
+      "season": 2013,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Palembang Bank Sumsel Babel",
+      "final_score": "3–1",
+      "runner_up": "Jakarta BNI Taplus",
+      "third_place": "Surabaya Samator",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta Sananta Indocement"
+    },
+    {
+      "season": 2014,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Samator",
+      "final_score": "3–0",
+      "runner_up": "Jakarta Pertamina Energi",
+      "third_place": "Jakarta Electric PLN",
+      "third_place_score": "3–2",
+      "fourth_place": "Palembang Bank Sumsel Babel"
+    },
+    {
+      "season": 2015,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–0",
+      "runner_up": "Surabaya Samator",
+      "third_place": "Jakarta Pertamina Energi",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta BNI Taplus"
+    },
+    {
+      "season": 2016,
+      "division": "putra",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Bhayangkara Samator",
+      "final_score": "3–0",
+      "runner_up": "Jakarta BNI Taplus",
+      "third_place": "Jakarta Pertamina Energi",
+      "third_place_score": "",
+      "fourth_place": "Palembang Bank Sumsel Babel"
+    },
+    {
+      "season": 2017,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Pertamina Energi",
+      "final_score": "3–0",
+      "runner_up": "Palembang Bank Sumsel Babel",
+      "third_place": "Jakarta BNI Taplus",
+      "third_place_score": "",
+      "fourth_place": "Surabaya Bhayangkara Samator"
+    },
+    {
+      "season": 2018,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Surabaya Bhayangkara Samator",
+      "final_score": "3–1",
+      "runner_up": "Palembang Bank Sumsel Babel",
+      "third_place": "Jakarta Pertamina Energi",
+      "third_place_score": "",
+      "fourth_place": "Jakarta BNI Taplus"
+    },
+    {
+      "season": 2019,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Surabaya Bhayangkara Samator",
+      "final_score": "3–1",
+      "runner_up": "Jakarta BNI 46",
+      "third_place": "Jakarta Pertamina Energi",
+      "third_place_score": "3–1",
+      "fourth_place": "Palembang Bank Sumsel Babel"
+    },
+    {
+      "season": 2020,
+      "division": "putra",
+      "final_venue": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "champion": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "final_score": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "runner_up": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "third_place": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "third_place_score": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "fourth_place": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia"
+    },
+    {
+      "season": 2021,
+      "division": "putra",
+      "final_venue": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "champion": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "final_score": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "runner_up": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "third_place": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "third_place_score": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "fourth_place": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia"
+    },
+    {
+      "season": 2022,
+      "division": "putra",
+      "final_venue": "Padepokan Voli Jenderal Polisi Kunarto, Bogor",
+      "champion": "Bogor LavAni",
+      "final_score": "3–2",
+      "runner_up": "Surabaya Bhayangkara Samator",
+      "third_place": "Jakarta BNI 46",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta Pertamina Pertamax"
+    },
+    {
+      "season": 2023,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta LavAni Allo Bank",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Bhayangkara Presisi",
+      "third_place": "Jakarta STIN BIN",
+      "third_place_score": "3–0",
+      "fourth_place": "Surabaya BIN Samator"
+    },
+    {
+      "season": 2024,
+      "division": "putra",
+      "final_venue": "Arena Indonesia, Jakarta",
+      "champion": "Jakarta Bhayangkara Presisi",
+      "final_score": "3–1",
+      "runner_up": "Jakarta LavAni Allo Bank Electric",
+      "third_place": "Palembang Bank Sumsel Babel",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta STIN BIN"
+    },
+    {
+      "season": 2025,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Bhayangkara Presisi",
+      "final_score": "3–2",
+      "runner_up": "Jakarta LavAni Livin' Trans Media",
+      "third_place": "Surabaya Samator",
+      "third_place_score": "3–1",
+      "fourth_place": "Palembang Bank Sumsel Babel"
+    },
+    {
+      "season": 2026,
+      "division": "putra",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta LavAni Livin' Transmedia",
+      "final_score": "2–0 (3–1, 3–1)",
+      "runner_up": "Jakarta Bhayangkara Presisi",
+      "third_place": "Surabaya Samator",
+      "third_place_score": "2–1 (3–0, 2–3, 3–0)",
+      "fourth_place": "Jakarta Garuda Jaya"
+    },
+    {
+      "season": 2002,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Monas",
+      "final_score": "3–0",
+      "runner_up": "Gresik Phonska",
+      "third_place": "Jakarta Phinisi",
+      "third_place_score": "3–1",
+      "fourth_place": "Bandung Tectona"
+    },
+    {
+      "season": 2003,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Bandung Art Deco Bank Jabar",
+      "final_score": "3–0",
+      "runner_up": "Gresik Phonska",
+      "third_place": "Jakarta Monas Bank DKI",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta BNI Phinisi"
+    },
+    {
+      "season": 2004,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–?",
+      "runner_up": "Jakarta Monas Bank DKI",
+      "third_place": "Bandung Art Deco Bank Jabar",
+      "third_place_score": "",
+      "fourth_place": "Jakarta BNI Phinisi"
+    },
+    {
+      "season": 2005,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta BNI Taplus",
+      "final_score": "3–1",
+      "runner_up": "Jakarta Electric PLN",
+      "third_place": "Bandung Art Deco Bank Jabar",
+      "third_place_score": "",
+      "fourth_place": "Jakarta Monas Bank DKI"
+    },
+    {
+      "season": 2006,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Bandung Art Deco Bank Jabar",
+      "final_score": "3–1",
+      "runner_up": "Gresik Phonska",
+      "third_place": "Jakarta BNI Taplus",
+      "third_place_score": "",
+      "fourth_place": "Jakarta Electric PLN"
+    },
+    {
+      "season": 2007,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Bank Jatim",
+      "final_score": "3–0",
+      "runner_up": "Gresik Phonska",
+      "third_place": "Jakarta Electric PLN",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta BNI Taplus"
+    },
+    {
+      "season": 2008,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Surabaya Bank Jatim",
+      "final_score": "3–0",
+      "runner_up": "Jakarta Electric PLN",
+      "third_place": "Jakarta BNI Taplus",
+      "third_place_score": "3–1",
+      "fourth_place": "Gresik Petrokimia"
+    },
+    {
+      "season": 2009,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–2",
+      "runner_up": "Surabaya Bank Jatim",
+      "third_place": "Jakarta BNI Taplus",
+      "third_place_score": "3–1",
+      "fourth_place": "Gresik Petrokimia"
+    },
+    {
+      "season": 2010,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta BNI Taplus",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Electric PLN",
+      "third_place": "Gresik Petrokimia",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta TNI AU"
+    },
+    {
+      "season": 2011,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Popsivo Polwan",
+      "third_place": "Gresik Petrokimia",
+      "third_place_score": "3–2",
+      "fourth_place": "Jakarta TNI AU"
+    },
+    {
+      "season": 2012,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Popsivo Polwan",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Electric PLN",
+      "third_place": "Bontang LNG Badak",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta TNI AU"
+    },
+    {
+      "season": 2013,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta PGN Popsivo Polwan",
+      "final_score": "3–1",
+      "runner_up": "Manokwari Valeria Papua Barat",
+      "third_place": "Gresik Petrokimia",
+      "third_place_score": "3–2",
+      "fourth_place": "Jakarta Electric PLN"
+    },
+    {
+      "season": 2014,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Pertamina Energi",
+      "final_score": "3–0",
+      "runner_up": "Manokwari Valeria Papua Barat",
+      "third_place": "Jakarta PGN Popsivo Polwan",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta Electric PLN"
+    },
+    {
+      "season": 2015,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–1",
+      "runner_up": "Jakarta PGN Popsivo Polwan",
+      "third_place": "Jakarta Pertamina Energi",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta BNI Taplus"
+    },
+    {
+      "season": 2016,
+      "division": "putri",
+      "final_venue": "Istora Senayan, Jakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Pertamina Energi",
+      "third_place": "Gresik Petrokimia",
+      "third_place_score": "",
+      "fourth_place": "Jakarta PGN Popsivo Polwan"
+    },
+    {
+      "season": 2017,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Electric PLN",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Pertamina Energi",
+      "third_place": "Jakarta PGN Popsivo Polwan",
+      "third_place_score": "",
+      "fourth_place": "Gresik Petrokimia"
+    },
+    {
+      "season": 2018,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Pertamina Energi",
+      "final_score": "3–0",
+      "runner_up": "Bandung Bank BJB Pakuan",
+      "third_place": "Jakarta Electric PLN",
+      "third_place_score": "",
+      "fourth_place": "Jakarta PGN Popsivo Polwan"
+    },
+    {
+      "season": 2019,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta PGN Popsivo Polwan",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Pertamina Energi",
+      "third_place": "Jakarta BNI Taplus",
+      "third_place_score": "3–1",
+      "fourth_place": "Bandung Bank BJB Pakuan"
+    },
+    {
+      "season": 2020,
+      "division": "putri",
+      "final_venue": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "champion": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "final_score": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "runner_up": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "third_place": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "third_place_score": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia",
+      "fourth_place": "Kompetisi dihentikan karena pandemi Covid-19 di Indonesia"
+    },
+    {
+      "season": 2021,
+      "division": "putri",
+      "final_venue": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "champion": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "final_score": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "runner_up": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "third_place": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "third_place_score": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia",
+      "fourth_place": "Kompetisi ditiadakan karena pandemi Covid-19 di Indonesia"
+    },
+    {
+      "season": 2022,
+      "division": "putri",
+      "final_venue": "Padepokan Voli Jenderal Polisi Kunarto, Bogor",
+      "champion": "Bandung BJB Tandamata",
+      "final_score": "3–1",
+      "runner_up": "Gresik Petrokimia Pupuk Indonesia",
+      "third_place": "Jakarta Mandiri Popsivo Polwan",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta Pertamina Fastron"
+    },
+    {
+      "season": 2023,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Bandung BJB Tandamata",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Pertamina Fastron",
+      "third_place": "Gresik Petrokimia Pupuk Indonesia",
+      "third_place_score": "3–0",
+      "fourth_place": "Jakarta BIN"
+    },
+    {
+      "season": 2024,
+      "division": "putri",
+      "final_venue": "Arena Indonesia, Jakarta",
+      "champion": "Jakarta BIN",
+      "final_score": "3–2",
+      "runner_up": "Jakarta Electric PLN",
+      "third_place": "Jakarta Popsivo Polwan",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta Pertamina Enduro"
+    },
+    {
+      "season": 2025,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Pertamina Enduro",
+      "final_score": "3–0",
+      "runner_up": "Jakarta Popsivo Polwan",
+      "third_place": "Gresik Petrokimia Pupuk Indonesia",
+      "third_place_score": "3–1",
+      "fourth_place": "Jakarta Electric PLN"
+    },
+    {
+      "season": 2026,
+      "division": "putri",
+      "final_venue": "GOR Among Rogo, Yogyakarta",
+      "champion": "Jakarta Pertamina Enduro",
+      "final_score": "2–0 (3–1, 3–0)",
+      "runner_up": "Gresik Petrokimia Pupuk Indonesia",
+      "third_place": "Jakarta Popsivo Polwan",
+      "third_place_score": "2–0 (3–0, 3-2)",
+      "fourth_place": "Jakarta Electric PLN Mobile Putri"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Juara Proliga (Liga Bola Voli Indonesia) - Free Download",
+    "description": "Hasil final dan perebutan tempat ketiga Proliga, kompetisi bola voli profesional Indonesia, untuk kategori putra dan putri sejak 2002. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Juara Proliga (Liga Bola Voli Indonesia) | ListBase",
+    "seo_description": "Download Daftar Juara Proliga (Liga Bola Voli Indonesia) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Proliga"
+    ]
+  }
+}

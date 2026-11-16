@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-15T02:21:28.426Z",
-  "total_datasets": 651,
-  "total_records": 659000,
+  "generated": "2026-11-16T02:26:58.788Z",
+  "total_datasets": 652,
+  "total_records": 659050,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -15643,6 +15643,36 @@
         "xlsx": {
           "name": "id-juara-liga-sepak-bola_ID.xlsx",
           "size": 10873
+        }
+      }
+    },
+    {
+      "id": "id-juara-proliga",
+      "name": "Daftar Juara Proliga (Liga Bola Voli Indonesia)",
+      "category": "sports",
+      "record_count": 50,
+      "columns": [
+        "season",
+        "division",
+        "final_venue",
+        "champion",
+        "final_score",
+        "runner_up",
+        "third_place",
+        "third_place_score",
+        "fourth_place"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Proliga",
+      "updated": "2026-11",
+      "size": 21063,
+      "files": {
+        "csv": {
+          "name": "id-juara-proliga_ID.csv",
+          "size": 8998
+        },
+        "xlsx": {
+          "name": "id-juara-proliga_ID.xlsx",
+          "size": 9420
         }
       }
     },
