@@ -1,0 +1,168 @@
+{
+  "id": "id-sultan-hamengkubuwana-yogyakarta",
+  "name": "Daftar Sultan Hamengkubuwana (Kesultanan Yogyakarta)",
+  "title": "Daftar Sultan Hamengkubuwana (Kesultanan Yogyakarta)",
+  "description": "Urutan masa pemerintahan Sultan Hamengkubuwana di Kesultanan Ngayogyakarta Hadiningrat sejak 1755, termasuk nama lahir, jangka hidup, dan silsilah.",
+  "category": "history",
+  "source": "https://id.wikipedia.org/wiki/Hamengkubuwana",
+  "source_url": "https://id.wikipedia.org/wiki/Hamengkubuwana",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "sultan",
+      "label": "Sultan",
+      "type": "string"
+    },
+    {
+      "key": "birth_name",
+      "label": "Birth Name",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "reign_start",
+      "label": "Reign Start",
+      "type": "number"
+    },
+    {
+      "key": "reign_end",
+      "label": "Reign End",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sultan": "Hamengkubuwana I",
+      "birth_name": "Raden Mas Sujana",
+      "lifespan": "6 Agustus 1717 – 4 Maret 1792",
+      "reign_start": 1755,
+      "reign_end": 1792,
+      "note": "Anak dari Amangkurat IV (Sunan Jawi)"
+    },
+    {
+      "sultan": "Hamengkubuwana II",
+      "birth_name": "Raden Mas Sundoro",
+      "lifespan": "7 Maret 1750 – 3 Januari 1828",
+      "reign_start": 1792,
+      "reign_end": 1810,
+      "note": "Anak dari Hamengkubuwana I"
+    },
+    {
+      "sultan": "Hamengkubuwana III",
+      "birth_name": "Raden Mas Surojo",
+      "lifespan": "20 Februari 1769 – 3 November 1814",
+      "reign_start": 1810,
+      "reign_end": 1811,
+      "note": "Anak dari Hamengkubuwana II"
+    },
+    {
+      "sultan": "Hamengkubuwana II",
+      "birth_name": "Raden Mas Sundoro",
+      "lifespan": "7 Maret 1750 – 3 Januari 1828",
+      "reign_start": 1811,
+      "reign_end": 1812,
+      "note": "Anak dari Hamengkubuwana I"
+    },
+    {
+      "sultan": "Hamengkubuwana III",
+      "birth_name": "Raden Mas Surojo",
+      "lifespan": "20 Februari 1769 – 3 November 1814",
+      "reign_start": 1812,
+      "reign_end": 1814,
+      "note": "Anak dari Hamengkubuwana II"
+    },
+    {
+      "sultan": "Hamengkubuwana IV",
+      "birth_name": "Raden Mas Ibnu Jarot",
+      "lifespan": "3 April 1804 – 6 Desember 1822",
+      "reign_start": 1814,
+      "reign_end": 1822,
+      "note": "Anak dari Hamengkubuwana III"
+    },
+    {
+      "sultan": "Hamengkubuwana V",
+      "birth_name": "Raden Mas Gathot Menol",
+      "lifespan": "24 Januari 1820 – 5 Juni 1855",
+      "reign_start": 1822,
+      "reign_end": 1826,
+      "note": "Anak dari Hamengkubuwana IV"
+    },
+    {
+      "sultan": "Hamengkubuwana II",
+      "birth_name": "Raden Mas Sundoro",
+      "lifespan": "7 Maret 1750 – 3 Januari 1828",
+      "reign_start": 1826,
+      "reign_end": 1828,
+      "note": "Anak dari Hamengkubuwana I"
+    },
+    {
+      "sultan": "Hamengkubuwana V",
+      "birth_name": "Raden Mas Gathot Menol",
+      "lifespan": "24 Januari 1820 – 5 Juni 1855",
+      "reign_start": 1828,
+      "reign_end": 1855,
+      "note": "Anak dari Hamengkubuwana IV"
+    },
+    {
+      "sultan": "Hamengkubuwana VI",
+      "birth_name": "Raden Mas Mustojo",
+      "lifespan": "10 Agustus 1821 – 20 Juli 1877",
+      "reign_start": 1855,
+      "reign_end": 1877,
+      "note": "Anak dari Hamengkubuwana IV"
+    },
+    {
+      "sultan": "Hamengkubuwana VII",
+      "birth_name": "Raden Mas Murtejo",
+      "lifespan": "4 Februari 1839 – 30 Desember 1931",
+      "reign_start": 1877,
+      "reign_end": 1921,
+      "note": "Anak dari Hamengkubuwana VI"
+    },
+    {
+      "sultan": "Hamengkubuwana VIII",
+      "birth_name": "Raden Mas Sujadi",
+      "lifespan": "3 Maret 1880 – 22 Oktober 1939",
+      "reign_start": 1921,
+      "reign_end": 1939,
+      "note": "Anak dari Hamengkubuwana VII"
+    },
+    {
+      "sultan": "Hamengkubuwana IX",
+      "birth_name": "Raden Mas Dorodjatun",
+      "lifespan": "12 Agustus 1912 – 2 Oktober 1988",
+      "reign_start": 1939,
+      "reign_end": 1988,
+      "note": "Anak dari Hamengkubuwana VIII"
+    },
+    {
+      "sultan": "Hamengkubawana X",
+      "birth_name": "Raden Mas Herjuno Darpito",
+      "lifespan": "2 April 1946",
+      "reign_start": 1988,
+      "reign_end": "Masih menjabat",
+      "note": "Anak dari Hamengkubuwana IX"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Sultan Hamengkubuwana (Kesultanan Yogyakarta) - Free Download",
+    "description": "Urutan masa pemerintahan Sultan Hamengkubuwana di Kesultanan Ngayogyakarta Hadiningrat sejak 1755, termasuk nama lahir, jangka hidup, dan silsilah. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Sultan Hamengkubuwana (Kesultanan Yogyakarta) | ListBase",
+    "seo_description": "Download Daftar Sultan Hamengkubuwana (Kesultanan Yogyakarta) — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Hamengkubuwana"
+    ]
+  }
+}

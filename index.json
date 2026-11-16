@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-16T02:27:07.154Z",
-  "total_datasets": 653,
-  "total_records": 659091,
+  "generated": "2026-11-16T02:27:15.185Z",
+  "total_datasets": 654,
+  "total_records": 659105,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -6929,6 +6929,33 @@
         "xlsx": {
           "name": "id-prasasti-nusantara_ID.xlsx",
           "size": 15012
+        }
+      }
+    },
+    {
+      "id": "id-sultan-hamengkubuwana-yogyakarta",
+      "name": "Daftar Sultan Hamengkubuwana (Kesultanan Yogyakarta)",
+      "category": "history",
+      "record_count": 14,
+      "columns": [
+        "sultan",
+        "birth_name",
+        "lifespan",
+        "reign_start",
+        "reign_end",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Hamengkubuwana",
+      "updated": "2026-11",
+      "size": 5278,
+      "files": {
+        "csv": {
+          "name": "id-sultan-hamengkubuwana-yogyakarta_ID.csv",
+          "size": 1763
+        },
+        "xlsx": {
+          "name": "id-sultan-hamengkubuwana-yogyakarta_ID.xlsx",
+          "size": 7542
         }
       }
     },
