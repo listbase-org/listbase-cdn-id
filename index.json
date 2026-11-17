@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-17T02:29:58.302Z",
-  "total_datasets": 655,
-  "total_records": 659357,
+  "generated": "2026-11-17T02:30:07.019Z",
+  "total_datasets": 656,
+  "total_records": 659464,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -6692,6 +6692,31 @@
         "xlsx": {
           "name": "id-rs-rujukan-covid-19_ID.xlsx",
           "size": 13591
+        }
+      }
+    },
+    {
+      "id": "id-rumah-sakit-muhammadiyah",
+      "name": "Daftar Rumah Sakit Muhammadiyah dan ʼAisyiyah",
+      "category": "health",
+      "record_count": 107,
+      "columns": [
+        "name",
+        "type",
+        "regency_city",
+        "province"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_rumah_sakit_Muhammadiyah",
+      "updated": "2026-11",
+      "size": 19741,
+      "files": {
+        "csv": {
+          "name": "id-rumah-sakit-muhammadiyah_ID.csv",
+          "size": 9164
+        },
+        "xlsx": {
+          "name": "id-rumah-sakit-muhammadiyah_ID.xlsx",
+          "size": 10290
         }
       }
     },

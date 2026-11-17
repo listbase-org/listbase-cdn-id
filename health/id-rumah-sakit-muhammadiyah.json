@@ -1,0 +1,688 @@
+{
+  "id": "id-rumah-sakit-muhammadiyah",
+  "name": "Daftar Rumah Sakit Muhammadiyah dan ʼAisyiyah",
+  "title": "Daftar Rumah Sakit Muhammadiyah dan ʼAisyiyah",
+  "description": "Daftar rumah sakit milik Muhammadiyah dan ʼAisyiyah di Indonesia beserta jenis, kabupaten/kota, dan provinsi.",
+  "category": "health",
+  "source": "https://id.wikipedia.org/wiki/Daftar_rumah_sakit_Muhammadiyah",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_rumah_sakit_Muhammadiyah",
+  "updated": "2026-11",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "regency_city",
+      "label": "Regency City",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Rumah Sakit Umum Muhammadiyah Sumatera Utara",
+      "type": "Umum",
+      "regency_city": "Kota Medan",
+      "province": "Sumatera Utara"
+    },
+    {
+      "name": "Rumah Sakit Umum 'Aisyiyah Padang",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kota Padang",
+      "province": "Sumatera Barat"
+    },
+    {
+      "name": "Rumah Sakit Umum 'Aisyiyah Pariaman",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kota Pariaman",
+      "province": "Sumatera Barat"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Palembang",
+      "type": "Umum",
+      "regency_city": "Kota Palembang",
+      "province": "Sumatera Selatan"
+    },
+    {
+      "name": "Rumah Sakit Umum Muhammadiyah Metro",
+      "type": "Umum",
+      "regency_city": "Kota Metro",
+      "province": "Lampung"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak PKU Muhammadiyah Cipondoh",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Tangerang",
+      "province": "Banten"
+    },
+    {
+      "name": "Rumah Sakit Islam Jakarta Cempaka Putih",
+      "type": "Umum",
+      "regency_city": "Jakarta Pusat",
+      "province": "DKI Jakarta"
+    },
+    {
+      "name": "Rumah Sakit Islam Jakarta Pondok Kopi",
+      "type": "Umum",
+      "regency_city": "Jakarta Timur",
+      "province": "DKI Jakarta"
+    },
+    {
+      "name": "Rumah Sakit Islam Jakarta Sukapura",
+      "type": "Umum",
+      "regency_city": "Jakarta Utara",
+      "province": "DKI Jakarta"
+    },
+    {
+      "name": "Rumah Sakit Jiwa Islam Klender",
+      "type": "Kejiwaan",
+      "regency_city": "Jakarta Timur",
+      "province": "DKI Jakarta"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Taman Puring",
+      "type": "Umum",
+      "regency_city": "Jakarta Selatan",
+      "province": "DKI Jakarta"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Bandung",
+      "type": "Umum",
+      "regency_city": "Kota Bandung",
+      "province": "Jawa Barat"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Cirebon",
+      "type": "Umum",
+      "regency_city": "Kota Cirebon",
+      "province": "Jawa Barat"
+    },
+    {
+      "name": "Rumah Sakit Universitas Muhammadiyah Cirebon",
+      "type": "Umum (PTM)",
+      "regency_city": "Kabupaten Cirebon",
+      "province": "Jawa Barat"
+    },
+    {
+      "name": "Rumah Sakit 'Aisyiyah Kudus",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Kudus",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit 'Aisyiyah Muntilan",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Magelang",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Gigi dan Mulut Soelastri",
+      "type": "Gigi dan mulut (PTM)",
+      "regency_city": "Kota Surakarta",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Gigi dan Mulut Universitas Muhammadiyah Semarang",
+      "type": "Gigi dan mulut (PTM)",
+      "regency_city": "Kota Semarang",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak 'Aisyiyah Klaten",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Klaten",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak 'Aisyiyah Pekajangan",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Pekalongan",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Islam Kendal",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kendal",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Islam PKU Muhammadiyah Pekajangan",
+      "type": "Umum",
+      "regency_city": "Kabupaten Pekalongan",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Islam PKU Muhammadiyah Tegal",
+      "type": "Umum",
+      "regency_city": "Kabupaten Tegal",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Islam Purwokerto",
+      "type": "Umum",
+      "regency_city": "Kabupaten Banyumas",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Mardhatillah Randudongkal",
+      "type": "Umum",
+      "regency_city": "Kabupaten Pemalang",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Rodliyah Achid Moga",
+      "type": "Umum",
+      "regency_city": "Kabupaten Pemalang",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Selogiri",
+      "type": "Umum",
+      "regency_city": "Kabupaten Wonogiri",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU 'Aisyiyah Boyolali",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Boyolali",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU 'Aisyiyah Jepara",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Jepara",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Banjarnegara",
+      "type": "Umum",
+      "regency_city": "Kabupaten Banjarnegara",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Blora",
+      "type": "Umum",
+      "regency_city": "Kabupaten Blora",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Cepu",
+      "type": "Umum",
+      "regency_city": "Kabupaten Blora",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Delanggu",
+      "type": "Umum",
+      "regency_city": "Kabupaten Klaten",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Gombong",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kebumen",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Gubug",
+      "type": "Umum",
+      "regency_city": "Kabupaten Grobogan",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Jatinom",
+      "type": "Umum",
+      "regency_city": "Kabupaten Klaten",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Karanganyar",
+      "type": "Umum",
+      "regency_city": "Kabupaten Karanganyar",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Kartasura",
+      "type": "Umum",
+      "regency_city": "Kabupaten Sukoharjo",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Kutowinangun",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kebumen",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Mayong",
+      "type": "Umum",
+      "regency_city": "Kabupaten Jepara",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Pedan",
+      "type": "Umum",
+      "regency_city": "Kabupaten Klaten",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Petanahan",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kebumen",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Sampangan",
+      "type": "Umum",
+      "regency_city": "Kota Surakarta",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Sragen",
+      "type": "Umum",
+      "regency_city": "Kabupaten Sragen",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Sruweng",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kebumen",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Sukoharjo",
+      "type": "Umum",
+      "regency_city": "Kabupaten Sukoharjo",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Surakarta",
+      "type": "Umum",
+      "regency_city": "Kota Surakarta",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Temanggung",
+      "type": "Umum",
+      "regency_city": "Kabupaten Temanggung",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Wonogiri Kota",
+      "type": "Umum",
+      "regency_city": "Kabupaten Wonogiri",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Wonosobo",
+      "type": "Umum",
+      "regency_city": "Kabupaten Wonosobo",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Umum 'Aisyiyah Purworejo",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Purworejo",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Umum Fastabiq Sehat PKU Muhammadiyah Pati",
+      "type": "Umum",
+      "regency_city": "Kabupaten Pati",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Umum Muhammadiyah Darul Istiqomah Kaliwungu",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kendal",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Roemani Muhammadiyah",
+      "type": "Umum",
+      "regency_city": "Kota Semarang",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit Umum Muhammadiyah Siti Aminah Bumiayu",
+      "type": "Umum",
+      "regency_city": "Kabupaten Brebes",
+      "province": "Jawa Tengah"
+    },
+    {
+      "name": "Rumah Sakit AMC Muhammadiyah",
+      "type": "Umum (PTM)",
+      "regency_city": "Kota Yogyakarta",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit Gigi dan Mulut Universitas Muhammadiyah Yogyakarta",
+      "type": "Gigi dan mulut (PTM)",
+      "regency_city": "Kota Yogyakarta",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit Kesehatan Ibu dan Anak PKU Muhammadiyah Kotagede",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Yogyakarta",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Bantul",
+      "type": "Umum",
+      "regency_city": "Kabupaten Bantul",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Gamping",
+      "type": "Umum",
+      "regency_city": "Kabupaten Sleman",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Nanggulan",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kulon Progo",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Sleman",
+      "type": "Umum",
+      "regency_city": "Kabupaten Sleman",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Wonosari",
+      "type": "Umum",
+      "regency_city": "Kabupaten Gunung Kidul",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Yogyakarta",
+      "type": "Umum",
+      "regency_city": "Kota Yogyakarta",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit Universitas Ahmad Dahlan",
+      "type": "Umum (PTM)",
+      "regency_city": "Kabupaten Sleman",
+      "province": "DI Yogyakarta"
+    },
+    {
+      "name": "Rumah Sakit Umum Universitas Muhammadiyah Jember",
+      "type": "Umum (PTM)",
+      "regency_city": "Kabupaten Jember",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit 'Aisyiyah Bojonegoro",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Bojonegoro",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit 'Aisyiyah Siti Fatimah",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Sidoarjo",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak Muhammadiyah Malang",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Malang",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak Muhammadiyah Kota Probolinggo",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Probolinggo",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam 'Aisyiyah Malang",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kota Malang",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam 'Aisyiyah Nganjuk",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Nganjuk",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam Aminah Blitar",
+      "type": "Umum",
+      "regency_city": "Kota Blitar",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam Fatimah Banyuwangi",
+      "type": "Umum",
+      "regency_city": "Kabupaten Banyuwangi",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam Hasanah Muhammadiyah Mojokerto",
+      "type": "Umum",
+      "regency_city": "Kabupaten Mojokerto",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam Muhammadiyah Sumberrejo",
+      "type": "Umum",
+      "regency_city": "Kabupaten Bojonegoro",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam Siti Aisyah Madiun",
+      "type": "Umum",
+      "regency_city": "Kota Madiun",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Ahmad Dahlan",
+      "type": "Umum",
+      "regency_city": "Kota Kediri",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Babat",
+      "type": "Umum",
+      "regency_city": "Kabupaten Lamongan",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Gresik",
+      "type": "Umum",
+      "regency_city": "Kabupaten Gresik",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Jombang",
+      "type": "Umum",
+      "regency_city": "Kabupaten Jombang",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Kalitidu",
+      "type": "Umum",
+      "regency_city": "Kabupaten Bojonegoro",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Lamongan",
+      "type": "Umum",
+      "regency_city": "Kabupaten Lamongan",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Siti Khodijah Gurah",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kediri",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Siti Khodijah Sepanjang",
+      "type": "Umum",
+      "regency_city": "Kabupaten Sidoarjo",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Surya Melati",
+      "type": "Umum",
+      "regency_city": "Kabupaten Kediri",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Tuban",
+      "type": "Umum",
+      "regency_city": "Kabupaten Tuban",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Mojoagung",
+      "type": "Umum",
+      "regency_city": "Kabupaten Jombang",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Sekapuk",
+      "type": "Umum",
+      "regency_city": "Kabupaten Gresik",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Surabaya",
+      "type": "Umum",
+      "regency_city": "Kota Surabaya",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Umum 'Aisyiyah Ponorogo",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Ponorogo",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Umum Muhammadiyah Ponorogo",
+      "type": "Umum",
+      "regency_city": "Kabupaten Ponorogo",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Umum Aminah Blitar",
+      "type": "Umum",
+      "regency_city": "Kota Blitar",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Umum Muhammadiyah Bandung Tulungagung",
+      "type": "Umum",
+      "regency_city": "Kabupaten Tulungagung",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Umum PKU Muhammadiyah Rogojampi",
+      "type": "Umum",
+      "regency_city": "Kabupaten Banyuwangi",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit Universitas Muhammadiyah Malang",
+      "type": "Umum (PTM)",
+      "regency_city": "Kota Malang",
+      "province": "Jawa Timur"
+    },
+    {
+      "name": "Rumah Sakit PKU Muhammadiyah Bima",
+      "type": "Umum",
+      "regency_city": "Kota Bima",
+      "province": "Nusa Tenggara Barat"
+    },
+    {
+      "name": "Rumah Sakit Islam PKU Muhammadiyah Palangkaraya",
+      "type": "Umum",
+      "regency_city": "Kota Palangkaraya",
+      "province": "Kalimantan Tengah"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak 'Aisyiyah Samarinda",
+      "type": "Ibu dan anak ('Aisyiyah)",
+      "regency_city": "Kota Samarinda",
+      "province": "Kalimantan Timur"
+    },
+    {
+      "name": "Rumah Sakit Muhammadiyah Paser",
+      "type": "Umum",
+      "regency_city": "Kabupaten Tanah Grogot",
+      "province": "Kalimantan Timur"
+    },
+    {
+      "name": "Rumah Sakit Islam Banjarmasin",
+      "type": "Umum",
+      "regency_city": "Kota Banjarmasin",
+      "province": "Kalimantan Tengah"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak Sitti Khadijah 1 Muhammadiyah",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Makassar",
+      "province": "Sulawesi Selatan"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak Sitti Khadijah 3 Muhammadiyah",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Makassar",
+      "province": "Sulawesi Selatan"
+    },
+    {
+      "name": "Rumah Sakit 'Aisyiyah Siti Khadijah Pinrang",
+      "type": "Umum ('Aisyiyah)",
+      "regency_city": "Kabupaten Pinrang",
+      "province": "Sulawesi Selatan"
+    },
+    {
+      "name": "Rumah Sakit Siti Fadhilah Supari PKU Muhammadiyah Palu",
+      "type": "Umum",
+      "regency_city": "Kota Palu",
+      "province": "Sulawesi Tengah"
+    },
+    {
+      "name": "Rumah Sakit Ibu dan Anak Siti Khadijah Kota Gorontalo",
+      "type": "Ibu dan anak",
+      "regency_city": "Kota Gorontalo",
+      "province": "Gorontalo"
+    },
+    {
+      "name": "Rumah Sakit Islam PKU Muhammadiyah Maluku Utara",
+      "type": "Umum",
+      "regency_city": "Kota Ternate",
+      "province": "Maluku Utara"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Rumah Sakit Muhammadiyah dan ʼAisyiyah - Free Download",
+    "description": "Daftar rumah sakit milik Muhammadiyah dan ʼAisyiyah di Indonesia beserta jenis, kabupaten/kota, dan provinsi. Contains 107 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Rumah Sakit Muhammadiyah dan ʼAisyiyah | ListBase",
+    "seo_description": "Download Daftar Rumah Sakit Muhammadiyah dan ʼAisyiyah — 107 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 107 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_rumah_sakit_Muhammadiyah"
+    ]
+  }
+}
