@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-17T02:30:07.019Z",
-  "total_datasets": 656,
-  "total_records": 659464,
+  "generated": "2026-11-17T02:30:15.329Z",
+  "total_datasets": 657,
+  "total_records": 659478,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -6769,6 +6769,36 @@
         "xlsx": {
           "name": "id-wabah-epidemi-mematikan_ID.xlsx",
           "size": 9423
+        }
+      }
+    },
+    {
+      "id": "id-wakil-menteri-kesehatan",
+      "name": "Daftar Wakil Menteri Kesehatan Indonesia",
+      "category": "health",
+      "record_count": 14,
+      "columns": [
+        "no",
+        "name",
+        "life",
+        "party",
+        "cabinet",
+        "term_start",
+        "term_end",
+        "minister",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Kesehatan_Indonesia",
+      "updated": "2026-11",
+      "size": 6960,
+      "files": {
+        "csv": {
+          "name": "id-wakil-menteri-kesehatan_ID.csv",
+          "size": 2714
+        },
+        "xlsx": {
+          "name": "id-wakil-menteri-kesehatan_ID.xlsx",
+          "size": 7834
         }
       }
     },
