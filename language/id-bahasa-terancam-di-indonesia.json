@@ -1,0 +1,721 @@
+{
+  "id": "id-bahasa-terancam-di-indonesia",
+  "name": "Daftar Bahasa Terancam di Indonesia",
+  "title": "Daftar Bahasa Terancam di Indonesia",
+  "description": "Bahasa-bahasa daerah di Indonesia yang terancam punah beserta status keterancamannya (rentan, jelas terancam, sangat terancam, terancam punah secara kritis) dan keterangan suku/wilayah penuturnya.",
+  "category": "language",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bahasa_terancam_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bahasa_terancam_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "language": "Bahasa Alune",
+      "status": "Rentan",
+      "note": "Suku Alune"
+    },
+    {
+      "language": "Bahasa Amahai",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Ampibabo Lauje",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Andio",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Anus",
+      "status": "Sangat terancam punah",
+      "note": "Bahasa Korur"
+    },
+    {
+      "language": "Bahasa Aputai",
+      "status": "Terancam punah secara kritis",
+      "note": "Bahasa Wetar"
+    },
+    {
+      "language": "Bahasa Arguni",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa As",
+      "status": "Rentan",
+      "note": "Bahasa Raja Ampat"
+    },
+    {
+      "language": "Bahasa Auye",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Awera",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Awyi",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Bahonsuai",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Baleasang",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Baras",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Bedoanas",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Benggoi",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Besoa",
+      "status": "Rentan",
+      "note": "Bahasa Bada"
+    },
+    {
+      "language": "Bahasa Biak",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Boano",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Bonerif",
+      "status": "Terancam punah secara kritis",
+      "note": "Bahasa Beneraf"
+    },
+    {
+      "language": "Bahasa Bonggo",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Budong-Budong",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Burate",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Busoa",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Dabra",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Dakka",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Damal",
+      "status": "Rentan",
+      "note": "Bahasa Amung"
+    },
+    {
+      "language": "Bahasa Dampelas",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Demisa",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Dondo",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Doutai",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Dubu",
+      "status": "Rentan",
+      "note": "Bahasa Tebi"
+    },
+    {
+      "language": "Bahasa Duriankere",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Dusner",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Emplawas",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Enggano",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Erokwanas",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Fayu",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Foja",
+      "status": "Terancam punah secara kritis",
+      "note": "Pegunungan Foja"
+    },
+    {
+      "language": "Bahasa Gebe",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Gorap",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Helong",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Hoti",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Hulung",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Ibu",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Iresim",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Isirawa",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Itik",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Javindo",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kadai",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kaibobo",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kaiy",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kalao",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kamarian",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kao",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kapori",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Karas",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kayupulau",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Keder",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kembra",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kodeoha",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kofei",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Koneraw",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Koroni",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kowiai",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kwansu",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Kwerisa",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Laiyolo",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lauje",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Legenyem",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lemolang",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lengilu",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Liki",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lisela",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lola",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lolak",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Lom",
+      "status": "Terancam punah secara kritis",
+      "note": "Bangka Malay"
+    },
+    {
+      "language": "Bahasa Loun",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Mander",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Mansim",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Maremgi",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Massep",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Momuna",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Mor",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Moraori",
+      "status": "Sangat terancam punah",
+      "note": "Bahasa Morori"
+    },
+    {
+      "language": "Bahasa Napu",
+      "status": "Rentan",
+      "note": "Bahasa Bada"
+    },
+    {
+      "language": "Bahasa Narau",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Nila",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Nusa Laut",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Obokuitai",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Oirata",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Onin",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Ormu",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Padoe",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Palue",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Panasuan",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Paulohi",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Pauwi",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Pecok",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Pendau",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Pyu",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Rahambuu",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Salas",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Saluan",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Saparua",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Saponi",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Sause",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Senggi",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Serili",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Sobei",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Taba",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Taikat",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Taje",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tajio",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Taloki",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Talondo",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tarpia",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tause",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Taworta",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Te'un",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tialo",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tobati",
+      "status": "Sangat terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tofanma",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tomadino",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Tombelala",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Toratán",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Totoli",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Uhunduni",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Ujir",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Usku",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Wano",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Wari",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Waru",
+      "status": "Jelas terancam punah",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Woria",
+      "status": "Terancam punah secara kritis",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Wotu",
+      "status": "Rentan",
+      "note": ""
+    },
+    {
+      "language": "Bahasa Yoki",
+      "status": "Sangat terancam punah",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Bahasa Terancam di Indonesia - Free Download",
+    "description": "Bahasa-bahasa daerah di Indonesia yang terancam punah beserta status keterancamannya (rentan, jelas terancam, sangat terancam, terancam punah secara kritis) dan keterangan suku/wilayah penuturnya. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Bahasa Terancam di Indonesia | ListBase",
+    "seo_description": "Download Daftar Bahasa Terancam di Indonesia — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bahasa_terancam_di_Indonesia"
+    ]
+  }
+}

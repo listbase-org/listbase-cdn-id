@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-18T02:24:42.316Z",
-  "total_datasets": 658,
-  "total_records": 659550,
+  "generated": "2026-11-18T02:24:50.925Z",
+  "total_datasets": 659,
+  "total_records": 659686,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "law",
@@ -7085,6 +7085,30 @@
         "xlsx": {
           "name": "id-bahasa-menurut-bps-2010_ID.xlsx",
           "size": 47816
+        }
+      }
+    },
+    {
+      "id": "id-bahasa-terancam-di-indonesia",
+      "name": "Daftar Bahasa Terancam di Indonesia",
+      "category": "language",
+      "record_count": 136,
+      "columns": [
+        "language",
+        "status",
+        "note"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bahasa_terancam_di_Indonesia",
+      "updated": "2026-11",
+      "size": 15554,
+      "files": {
+        "csv": {
+          "name": "id-bahasa-terancam-di-indonesia_ID.csv",
+          "size": 5341
+        },
+        "xlsx": {
+          "name": "id-bahasa-terancam-di-indonesia_ID.xlsx",
+          "size": 9535
         }
       }
     },
