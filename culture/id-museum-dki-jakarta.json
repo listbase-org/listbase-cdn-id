@@ -1,0 +1,664 @@
+{
+  "id": "id-museum-dki-jakarta",
+  "name": "Daftar Museum di Provinsi DKI Jakarta",
+  "title": "Daftar Museum di Provinsi DKI Jakarta",
+  "description": "Museum-museum di DKI Jakarta beserta kode pengelolaan (nomor registrasi museum), alamat, kecamatan dan kota administrasi.",
+  "category": "culture",
+  "source": "https://id.wikipedia.org/wiki/Daftar_museum_di_Provinsi_DKI_Jakarta",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_museum_di_Provinsi_DKI_Jakarta",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "registration_code",
+      "label": "Registration Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "registration_code": "MS000134",
+      "name": "Art: 1 New Museum",
+      "address": "Jl. Rajawali Selatan Raya No. 3",
+      "district": "Sawah Besar",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 2,
+      "registration_code": "MS000071",
+      "name": "Bayt Al-Qur’an dan Museum Istiqlal",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 3,
+      "registration_code": "MS000032",
+      "name": "Galeri Foto Jurnalistik Antara",
+      "address": "Jl. Antara No. 59-61",
+      "district": "Sawah Besar",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 4,
+      "registration_code": "MS000050",
+      "name": "Galeri Nasional Indonesia",
+      "address": "Jl. Medan Merdeka Timur No. 14",
+      "district": "Gambir",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 5,
+      "registration_code": "MS000458",
+      "name": "Monumen Nasional dan Museum Sejarah Nasional",
+      "address": "Jl. Tugu Monas",
+      "district": "Gambir",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 6,
+      "registration_code": "MS000150",
+      "name": "Monumen Pancasila Sakti",
+      "address": "Jl. Pondok Gede",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 7,
+      "registration_code": "MS000089",
+      "name": "Museum Alkitab",
+      "address": "Jl. Salemba Raya No. 12",
+      "district": "Senen",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 8,
+      "registration_code": "MS000095",
+      "name": "Museum Al-Qur’an",
+      "address": "Jl. Batan I No.2, Lebak Bulus",
+      "district": "Cilandak",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 9,
+      "registration_code": "MS000449",
+      "name": "Museum Anatomi Universitas Katolik Atmajaya",
+      "address": "Jl. Pluit Selatan Raya No. 19",
+      "district": "Penjaringan",
+      "city": "Jakarta Utara"
+    },
+    {
+      "no": 10,
+      "registration_code": "MS000550",
+      "name": "Museum Arkeologi Onrust",
+      "address": "Pulau Onrust",
+      "district": "Kepulauan Seribu Selatan",
+      "city": "Kepulauan Seribu"
+    },
+    {
+      "no": 11,
+      "registration_code": "MS000049",
+      "name": "Museum Asmat",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 12,
+      "registration_code": "MS000136",
+      "name": "Museum Bahari",
+      "address": "Jl. Pasar Ikan No. 1",
+      "district": "Penjaringan",
+      "city": "Jakarta Utara"
+    },
+    {
+      "no": 13,
+      "registration_code": "MS000065",
+      "name": "Museum Bank Indonesia",
+      "address": "Jl. Pintu Besar Utara No. 3, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 14,
+      "registration_code": "MS000002",
+      "name": "Museum Bank Tabungan Negara",
+      "address": "Jl. Gajah Mada No. 1, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 15,
+      "registration_code": "MS000094",
+      "name": "Museum Basoeki Abdullah",
+      "address": "Jl. Keuangan Raya No. 19",
+      "district": "Cilandak",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 16,
+      "registration_code": "MS000546",
+      "name": "Museum Batik Indonesia",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 17,
+      "registration_code": "MS000450",
+      "name": "Museum Benda-Benda Alkitab Yerushalayim",
+      "address": "Jl. Raya Rawa Sengon No. 35",
+      "district": "Kelapa Gading",
+      "city": "Jakarta Utara"
+    },
+    {
+      "no": 18,
+      "registration_code": "MS000547",
+      "name": "Museum Betawi",
+      "address": "Jl. RM Kahfi II, Srengseng Sawah",
+      "district": "Jagakarsa",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 19,
+      "registration_code": "MS000451",
+      "name": "Museum BNI 1946",
+      "address": "Jl. Lada No.1, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 20,
+      "registration_code": "MS000452",
+      "name": "Museum Ciputra Artpreneur",
+      "address": "Jl. Prof. Dr. Satrio Kav. 3-5",
+      "district": "Setiabudi",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 21,
+      "registration_code": "MS000453",
+      "name": "Museum Dharma Bhakti Kostrad",
+      "address": "Jl. Merdeka Timur No. 3",
+      "district": "Gambir",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 22,
+      "registration_code": "MS000053",
+      "name": "Museum di Tengah Kebun",
+      "address": "Jl. Kemang Timur No. 66",
+      "district": "Mampang Prapatan",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 23,
+      "registration_code": "MS000109",
+      "name": "Museum DPR RI",
+      "address": "Jl. Gatot Subroto",
+      "district": "Tanah Abang",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 24,
+      "registration_code": "MS000059",
+      "name": "Museum Fauna Indonesia “Komodo” dan Taman Reptilia",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 25,
+      "registration_code": "MS000142",
+      "name": "Museum FKUI-Indonesia Museum of Health and Medicine",
+      "address": "Jl. Salemba No. 6",
+      "district": "Senen",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 26,
+      "registration_code": "MS000120",
+      "name": "Museum Graha Widya Patra (Minyak dan Gas Bumi)",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 27,
+      "registration_code": "MS000063",
+      "name": "Museum Hakka Indonesia",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 28,
+      "registration_code": "MS000125",
+      "name": "Museum Harry Darsono",
+      "address": "Jl. Cilandak Tengah No. 71",
+      "district": "Cilandak",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 29,
+      "registration_code": "MS000087",
+      "name": "Museum Indonesia",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 30,
+      "registration_code": "MS000051",
+      "name": "Museum Jenderal Besar Dr. A.H. Nasution",
+      "address": "Jl. Teuku Umar No. 40",
+      "district": "Menteng",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 31,
+      "registration_code": "MS000054",
+      "name": "Museum Joang ‘45",
+      "address": "Jl. Menteng Raya No. 31",
+      "district": "Menteng",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 32,
+      "registration_code": "MS000100",
+      "name": "Museum Katedral",
+      "address": "Jl. Katedral No. 7",
+      "district": "Sawah Besar",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 33,
+      "registration_code": "MS000149",
+      "name": "Museum Kebangkitan Nasional",
+      "address": "Jl. Abdulrahman Saleh No. 26",
+      "district": "Senen",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 34,
+      "registration_code": "MS000022",
+      "name": "Museum Kehutanan “Ir. Djamaludin Suryohadikusumo”",
+      "address": "Gedung Manggala Wanabakti Blok VI, Jl. Gatot Subroto",
+      "district": "Tanah Abang",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 35,
+      "registration_code": "MS000048",
+      "name": "Museum Keprajuritan",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 36,
+      "registration_code": "MS000454",
+      "name": "Museum Korps Marinir Jakarta",
+      "address": "Jl. Kwini No. 6",
+      "district": "Senen",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 37,
+      "registration_code": "MS000081",
+      "name": "Museum Layang-Layang",
+      "address": "Jl. H. Kamang No. 38, Pondok Labu",
+      "district": "Cilandak",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 38,
+      "registration_code": "MS000082",
+      "name": "Museum Listrik dan Energi Baru",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 39,
+      "registration_code": "MS000455",
+      "name": "Museum MACAN (Modern and Contemporary Art in Nusantara)",
+      "address": "AKR Tower Level M, Jalan Panjang No. 5",
+      "district": "Kebon Jeruk",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 40,
+      "registration_code": "MS000141",
+      "name": "Museum Mandiri",
+      "address": "Jl. Lapangan Stasiun No. 1, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 41,
+      "registration_code": "MS000456",
+      "name": "Museum Maritim Indonesia",
+      "address": "Jl. Pasoso No. 1, Pelabuhan Tanjung Priok",
+      "district": "Tanjung Priok",
+      "city": "Jakarta Utara"
+    },
+    {
+      "no": 42,
+      "registration_code": "MS000083",
+      "name": "Museum M.H. Thamrin",
+      "address": "Jl. Kenari No.15",
+      "district": "Senen",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 43,
+      "registration_code": "MS000130",
+      "name": "Museum Nasional Indonesia",
+      "address": "Jl. Merdeka Barat No. 12",
+      "district": "Gambir",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 44,
+      "registration_code": "MS000127",
+      "name": "Museum Olahraga Nasional",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 45,
+      "registration_code": "MS000099",
+      "name": "Museum Pemadam Kebakaran",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 46,
+      "registration_code": "MS000128",
+      "name": "Museum Penerangan",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 47,
+      "registration_code": "MS000013",
+      "name": "Museum Perumusan Naskah Proklamasi",
+      "address": "Jl. Imam Bonjol No. 1",
+      "district": "Menteng",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 48,
+      "registration_code": "MS000008",
+      "name": "Museum POLRI",
+      "address": "Jl. Trunojoyo No. 3",
+      "district": "Kebayoran Baru",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 49,
+      "registration_code": "MS000064",
+      "name": "Museum Prangko",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 50,
+      "registration_code": "MS000067",
+      "name": "Museum Prasasti",
+      "address": "Jl. Tanah Abang No. 1",
+      "district": "Tanah Abang",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 51,
+      "registration_code": "MS000035",
+      "name": "Museum Purna Bhakti Pertiwi",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 52,
+      "registration_code": "MS000025",
+      "name": "Museum Pusaka",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 53,
+      "registration_code": "MS000457",
+      "name": "Museum Santa Maria Juanda",
+      "address": "Jl. Ir. H. Juanda No.29",
+      "district": "Gambir",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 54,
+      "registration_code": "MS000122",
+      "name": "Museum Sasmitaloka Pahlawan Revolusi Jenderal TNI A. Yani",
+      "address": "Jl. Lembang No. 58",
+      "district": "Menteng",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 55,
+      "registration_code": "MS000121",
+      "name": "Museum Satria Mandala",
+      "address": "Jl. Gatot Subroto Kav. 14",
+      "district": "Setiabudi",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 56,
+      "registration_code": "MS000056",
+      "name": "Museum Sejarah Jakarta (Museum Fatahillah)",
+      "address": "Jl. Taman Fatahillah No. 1, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 57,
+      "registration_code": "MS000113",
+      "name": "Museum Seni Rupa dan Keramik",
+      "address": "Jl. Pos Kota No. 2, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 58,
+      "registration_code": "MS000007",
+      "name": "Museum Serangga",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 59,
+      "registration_code": "MS000098",
+      "name": "Museum Sumpah Pemuda",
+      "address": "Jl. Kramat Raya No. 106",
+      "district": "Senen",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 60,
+      "registration_code": "MS000105",
+      "name": "Museum Tekstil",
+      "address": "Jl. Aipda K.S. Tubun No. 2–4",
+      "district": "Grogol Petamburan",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 61,
+      "registration_code": "MS000052",
+      "name": "Museum Timor Timur",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 62,
+      "registration_code": "MS000540",
+      "name": "Museum Tragedi 12 Mei ’98 Universitas Trisakti",
+      "address": "Kampus A Universitas Trisakti, Jl. Kyai Tapa No.1",
+      "district": "Grogol Petamburan",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 63,
+      "registration_code": "MS000030",
+      "name": "Museum Transportasi",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 64,
+      "registration_code": "MS000103",
+      "name": "Museum Wayang",
+      "address": "Jl. Pintu Besar Utara No.27, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 65,
+      "registration_code": "MS000079",
+      "name": "Pusat Peragaan IPTEK",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 66,
+      "registration_code": "-",
+      "name": "Museum Benyamin Suaeb",
+      "address": "Jalan Jatinegara Timur No.76, Rawa Bunga",
+      "district": "Jatinegara",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 67,
+      "registration_code": "-",
+      "name": "Museum Pencak Silat",
+      "address": "Kompleks Taman Mini Indonesia Indah",
+      "district": "Cipayung",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 68,
+      "registration_code": "-",
+      "name": "Museum Reksa Artha",
+      "address": "Jl. Lebak Bulus I No. 1",
+      "district": "Cilandak",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 69,
+      "registration_code": "-",
+      "name": "Diorama Sejarah Perjalanan Bangsa",
+      "address": "Kompleks ANRI, Jl. Ampera Raya, No. 7",
+      "district": "Pasar Minggu",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 70,
+      "registration_code": "-",
+      "name": "Museum Waspada Purbawisesa",
+      "address": "Jl. Gatot Subroto Kav. 14",
+      "district": "Setiabudi",
+      "city": "Jakarta Selatan"
+    },
+    {
+      "no": 71,
+      "registration_code": "-",
+      "name": "Museum Anti Narkotika Pranidha Ranajaya Ghanavara",
+      "address": "Gedung Pradavi Rajistha Gataroga Lantai 3, Badan Narkotika Nasional",
+      "district": "Kramat Jati",
+      "city": "Jakarta Timur"
+    },
+    {
+      "no": 72,
+      "registration_code": "-",
+      "name": "Toeti Heraty Museum (Cemara 6 Galeri)",
+      "address": "Jl. HOS. Cokroaminoto No.9-11, Gondangdia",
+      "district": "Menteng",
+      "city": "Jakarta Pusat"
+    },
+    {
+      "no": 73,
+      "registration_code": "-",
+      "name": "Roemah Toegoe",
+      "address": "Jl. Raya Tugu No. 20, Semper Barat",
+      "district": "Cilincing",
+      "city": "Jakarta Utara"
+    },
+    {
+      "no": 74,
+      "registration_code": "-",
+      "name": "Magic Art 3D Museum Jakarta",
+      "address": "Jl. Kali Besar Timur No. 9, Kota Tua",
+      "district": "Taman Sari",
+      "city": "Jakarta Barat"
+    },
+    {
+      "no": 75,
+      "registration_code": "-",
+      "name": "Galeria Sophilia",
+      "address": "Jl. Industri Raya Blok B14 Kav. 1",
+      "district": "Pademangan",
+      "city": "Jakarta Utara"
+    },
+    {
+      "no": 76,
+      "registration_code": "-",
+      "name": "Museum Bing Slamet",
+      "address": "Jl. Arimbi No. 65, Tanah Tinggi",
+      "district": "Johar Baru",
+      "city": "Jakarta Pusat"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Museum di Provinsi DKI Jakarta - Free Download",
+    "description": "Museum-museum di DKI Jakarta beserta kode pengelolaan (nomor registrasi museum), alamat, kecamatan dan kota administrasi. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Museum di Provinsi DKI Jakarta | ListBase",
+    "seo_description": "Download Daftar Museum di Provinsi DKI Jakarta — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_museum_di_Provinsi_DKI_Jakarta"
+    ]
+  }
+}

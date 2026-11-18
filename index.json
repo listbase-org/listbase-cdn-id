@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-18T02:24:50.925Z",
-  "total_datasets": 659,
-  "total_records": 659686,
+  "generated": "2026-11-18T02:24:59.167Z",
+  "total_datasets": 660,
+  "total_records": 659762,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -495,6 +495,33 @@
         "xlsx": {
           "name": "id-museum_ID.xlsx",
           "size": 13896
+        }
+      }
+    },
+    {
+      "id": "id-museum-dki-jakarta",
+      "name": "Daftar Museum di Provinsi DKI Jakarta",
+      "category": "culture",
+      "record_count": 76,
+      "columns": [
+        "no",
+        "registration_code",
+        "name",
+        "address",
+        "district",
+        "city"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_museum_di_Provinsi_DKI_Jakarta",
+      "updated": "2026-11",
+      "size": 18719,
+      "files": {
+        "csv": {
+          "name": "id-museum-dki-jakarta_ID.csv",
+          "size": 8024
+        },
+        "xlsx": {
+          "name": "id-museum-dki-jakarta_ID.xlsx",
+          "size": 11211
         }
       }
     },
