@@ -1,0 +1,555 @@
+{
+  "id": "id-bahasa-di-maluku",
+  "name": "Daftar Bahasa di Maluku",
+  "title": "Daftar Bahasa di Maluku",
+  "description": "Bahasa-bahasa daerah di Provinsi Maluku beserta persebarannya menurut kabupaten/kota, kecamatan dan desa/negeri, serta dialeknya.",
+  "category": "language",
+  "source": "https://id.wikipedia.org/wiki/Daftar_bahasa_di_Maluku",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_bahasa_di_Maluku",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "regency_city",
+      "label": "Regency City",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "villages",
+      "label": "Villages",
+      "type": "string"
+    },
+    {
+      "key": "dialects",
+      "label": "Dialects",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "language": "Alune",
+      "regency_city": "Seram Bagian Barat",
+      "district": "Inamosol",
+      "villages": "Rambatu Manusa Rumberu Hukuana Kota Huku Kecil",
+      "dialects": ""
+    },
+    {
+      "language": "Ambalau",
+      "regency_city": "Buru Selatan",
+      "district": "Ambalau",
+      "villages": "Ulima",
+      "dialects": ""
+    },
+    {
+      "language": "Asilulu (Hitu)",
+      "regency_city": "Beberapa desa di Maluku Tengah. Ambon. Beberapa desa di Seram Bagian Barat.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Balkewan",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Siwalalat",
+      "villages": "Atiahu",
+      "dialects": ""
+    },
+    {
+      "language": "Banda",
+      "regency_city": "Maluku Tenggara",
+      "district": "Kei Besar Utara Timur",
+      "villages": "Banda Eli",
+      "dialects": ""
+    },
+    {
+      "language": "Banda",
+      "regency_city": "Maluku Tenggara",
+      "district": "Kei Besar",
+      "villages": "Elat",
+      "dialects": ""
+    },
+    {
+      "language": "Barakai",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Tengah Selatan",
+      "villages": "Gomo-Gomo",
+      "dialects": "Gomo-Gomo"
+    },
+    {
+      "language": "Barakai",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Tengah",
+      "villages": "Lorang",
+      "dialects": "Lorang"
+    },
+    {
+      "language": "Barakai",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Tengah",
+      "villages": "Kobasel Timur Kobasel Fara",
+      "dialects": "Koba"
+    },
+    {
+      "language": "Barakai",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Tengah Timur",
+      "villages": "Mariri",
+      "dialects": "Mariri"
+    },
+    {
+      "language": "Batuley",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Utara Timur Batuley",
+      "villages": "Batuley Kabalsiang Benjuring Kumul Waria Jursiang Sewer",
+      "dialects": ""
+    },
+    {
+      "language": "Bobat (Bobot)",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Werinama",
+      "villages": "Werinama",
+      "dialects": ""
+    },
+    {
+      "language": "Boing",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Teluk Waru",
+      "villages": "Dawang",
+      "dialects": ""
+    },
+    {
+      "language": "Buru",
+      "regency_city": "Buru",
+      "district": "Fena Leisela",
+      "villages": "Wamlana Waereman",
+      "dialects": ""
+    },
+    {
+      "language": "Buru",
+      "regency_city": "Buru Selatan",
+      "district": "Kepala Madan",
+      "villages": "Fogi",
+      "dialects": ""
+    },
+    {
+      "language": "Damar Timur",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Damer",
+      "villages": "Kumur",
+      "dialects": "Kumur"
+    },
+    {
+      "language": "Damar Timur",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Damer",
+      "villages": "Kuaimelu",
+      "dialects": "Kuaimelu"
+    },
+    {
+      "language": "Dawelor",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Dawelor Dawera",
+      "villages": "Wiratan",
+      "dialects": ""
+    },
+    {
+      "language": "Dawelor",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau-Pulau Babar Timur",
+      "villages": "Watuwei Nurnyaman Ilmarang Welora Letmasa",
+      "dialects": ""
+    },
+    {
+      "language": "Dobel",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Tengah",
+      "villages": "Dobel",
+      "dialects": ""
+    },
+    {
+      "language": "Elnama",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Werinama",
+      "villages": "Werinama",
+      "dialects": ""
+    },
+    {
+      "language": "Emplawas",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau-Pulau Babar Timur",
+      "villages": "Emplawas Iblatmuntah",
+      "dialects": ""
+    },
+    {
+      "language": "Emplawas",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau-Pulau Babar",
+      "villages": "Tela",
+      "dialects": ""
+    },
+    {
+      "language": "Emplawas",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau Masela",
+      "villages": "Lawawang",
+      "dialects": ""
+    },
+    {
+      "language": "Fordata (Iyaru)",
+      "regency_city": "Kepulauan Tanimbar",
+      "district": "Tanimbar Utara",
+      "villages": "Ritabel",
+      "dialects": ""
+    },
+    {
+      "language": "Hoti",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Bula Barat",
+      "villages": "Hote",
+      "dialects": ""
+    },
+    {
+      "language": "Illiun",
+      "regency_city": "Ilwaki, Wetar, Maluku Barat Daya. Uhak, Wetar Utara, Maluku Barat Daya. Lurang, Wetar Utara, Maluku Barat Daya. Ustutun, Wetar Barat, Maluku Barat Daya.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Kaham",
+      "regency_city": "Aketernate, Seram Utara Timur Seti, Maluku Tengah. Seti, Seram Utara Timur Seti, Maluku Tengah.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Kaiely",
+      "regency_city": "Buru",
+      "district": "Teluk Kaiely",
+      "villages": "Kaiely",
+      "dialects": ""
+    },
+    {
+      "language": "Karey",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Selatan Timur",
+      "villages": "Karey",
+      "dialects": ""
+    },
+    {
+      "language": "Kei",
+      "regency_city": "Rahareng, Kei Besar, Maluku Tenggara. Yamtel, Kei Besar, Maluku Tenggara. Debut, Manyeuw, Maluku Tenggara. Tam Ngurhir, Tayando Tam, Tual. Tanimbar Kei, Kei Kecil Barat, Maluku Tenggara.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Kola",
+      "regency_city": "Kolaha, Sir-Sir, Kepulauan Aru. Manombai, Aru Tengah, Kepulauan Aru. Ujir, Pulau-Pulau Aru, Kepulauan Aru.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Kompane",
+      "regency_city": "Kompane, Aru Utara Timur Batuley, Kepulauan Aru. Kabalsiang, Aru Utara Timur Batuley, Kepulauan Aru.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Kur",
+      "regency_city": "Tual",
+      "district": "Pulau-Pulau Kur",
+      "villages": "Lokwirin",
+      "dialects": ""
+    },
+    {
+      "language": "Leinam",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Siwalalat",
+      "villages": "Adabai",
+      "dialects": ""
+    },
+    {
+      "language": "Letti",
+      "regency_city": "Tutukey, Pulau Leti, Maluku Barat Daya. Wonreli, Pulau-Pulau Terselatan, Maluku Barat Daya. Jerusu, Kepulauan Romang, Maluku Barat Daya. Arwala, Wetar Timur, Maluku Barat Daya.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Lola",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Tengah Timur",
+      "villages": "Lola",
+      "dialects": ""
+    },
+    {
+      "language": "Loon",
+      "regency_city": "Maluku Tengah",
+      "district": "Seram Utara Barat",
+      "villages": "Latea",
+      "dialects": ""
+    },
+    {
+      "language": "Luhu",
+      "regency_city": "Luhutuban, Kepulauan Manipa, Seram Bagian Barat. Boano Utara, Huamual Belakang, Seram Bagian Barat. Waesala, Huamual Belakang, Seram Bagian Barat. Kaibobo, Seram Barat, Seram Bagian Barat. Kamarian, Kairatu, Seram Bagian Barat.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Makatian (Matine)",
+      "regency_city": "Kepulauan Tanimbar",
+      "district": "Wer Maktian",
+      "villages": "Makatian",
+      "dialects": ""
+    },
+    {
+      "language": "Marlasi",
+      "regency_city": "Kepulauan Aru",
+      "district": "Aru Utara",
+      "villages": "Marlasi",
+      "dialects": ""
+    },
+    {
+      "language": "Marsela Barat (Masela Barat)",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau Masela",
+      "villages": "Latalola Besar",
+      "dialects": ""
+    },
+    {
+      "language": "Marsela Tengah (Masela Tengah)",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau Masela",
+      "villages": "Bululora",
+      "dialects": ""
+    },
+    {
+      "language": "Marsela Timur (Masela Timur)",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau Masela",
+      "villages": "Marsela",
+      "dialects": ""
+    },
+    {
+      "language": "Masarete",
+      "regency_city": "Buru",
+      "district": "Teluk Kaiely",
+      "villages": "Masarete",
+      "dialects": ""
+    },
+    {
+      "language": "Melayu",
+      "regency_city": "Layeni, Teon Nila Serua, Maluku Tengah. Kaiely, Teluk Kaiely, Buru. Bula, Bula, Seram Bagian Timur. Luang Timur, Mndona Hiera, Maluku Barat Daya. Salarem, Aru Selatan Timur, Kepulauan Aru.",
+      "district": "Teon Nila Serua",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Moa",
+      "regency_city": "Moain, Moa, Maluku Barat Daya. Tounwawan, Moa, Maluku Barat Daya. Klis, Moa, Maluku Barat Daya. Patti, Moa, Maluku Barat Daya. Kaiwatu, Moa, Maluku Barat Daya.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Naulu (Nuaulu)",
+      "regency_city": "Maluku Tengah",
+      "district": "Amahai",
+      "villages": "Sepa",
+      "dialects": ""
+    },
+    {
+      "language": "Nila",
+      "regency_city": "Kokroman, Teon Nila Serua, Maluku Tengah. Usliapan, Teon Nila Serua, Maluku Tengah. Kuralele, Teon Nila Serua, Maluku Tengah. Ameth, Teon Nila Serua, Maluku Tengah. Bumey, Teon Nila Serua, Maluku Tengah. Sifluru, Teon Nila Serua, Maluku Tengah. Wotay, Teon Nila Serua, Maluku Tengah.",
+      "district": "Teon Nila Serua",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Oirata",
+      "regency_city": "Oirata Timur, Pulau-Pulau Terselatan, Maluku Barat Daya.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Oroyliye",
+      "regency_city": "Kroing, Pulau-Pulau Babar Timur, Maluku Barat Daya.",
+      "district": "Pulau-Pulau Babar Timur",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Piliana",
+      "regency_city": "Piliana, Tehoru, Maluku Tengah. Mangga Dua, Tehoru, Maluku Tengah. Waelumatan, Tehoru, Maluku Tengah. Ekano, Tehoru, Maluku Tengah. Salamahu, Tehoru, Maluku Tengah.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Piru",
+      "regency_city": "Seram Bagian Barat",
+      "district": "Seram Barat",
+      "villages": "Piru",
+      "dialects": ""
+    },
+    {
+      "language": "Salas",
+      "regency_city": "Seram Bagian Timur",
+      "district": "Bula",
+      "villages": "Salas",
+      "dialects": ""
+    },
+    {
+      "language": "Saleman",
+      "regency_city": "Sawai, Seram Utara, Maluku Tengah. Saleman, Seram Utara Barat, Maluku Tengah.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Samasuru",
+      "regency_city": "Maluku Tengah",
+      "district": "Teluk Elpaputih",
+      "villages": "Samasuru",
+      "dialects": ""
+    },
+    {
+      "language": "Selaru",
+      "regency_city": "Kepulauan Tanimbar",
+      "district": "Selaru",
+      "villages": "Namtabung",
+      "dialects": ""
+    },
+    {
+      "language": "Seluwarsa (Seluwasan)",
+      "regency_city": "Kepulauan Tanimbar",
+      "district": "Wer Maktian",
+      "villages": "Marantutul",
+      "dialects": ""
+    },
+    {
+      "language": "Seram",
+      "regency_city": "Waru, Teluk Waru, Seram Bagian Timur. Geser, Seram Timur, Seram Bagian Timur. Kataloka, Pulau Gorom, Seram Bagian Timur.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Serili",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau Masela",
+      "villages": "Serili",
+      "dialects": ""
+    },
+    {
+      "language": "Serua",
+      "regency_city": "Maluku Tengah",
+      "district": "Teon Nila Serua",
+      "villages": "Waru",
+      "dialects": ""
+    },
+    {
+      "language": "Tagalisa",
+      "regency_city": "Skikilale, Waplau, Buru. Tupanaliang, Waplau, Buru. Wailese, Waplau, Buru. Raheriat, Waplau, Buru. Namsina, Waplau, Buru. Miskoko, Waplau, Buru.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Tarangan Barat",
+      "regency_city": "Utta, Wakate, Seram Bagian Timur. Kilmoy, Tutuk Tolu, Seram Bagian Timur. Fatural, Aru Selatan, Kepulauan Aru.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Tarangan Timur",
+      "regency_city": "Beltubur, Aru Selatan Timur, Kepulauan Aru. Batugoyang, Aru Selatan Timur, Kepulauan Aru. Jorang, Aru Selatan Timur, Kepulauan Aru. Meme, Aru Selatan Timur, Kepulauan Aru. Gomar Meti, Aru Selatan Timur, Kepulauan Aru. Gomar Sungai, Aru Selatan Timur, Kepulauan Aru. Juring, Aru Selatan Timur, Kepulauan Aru. Meror, Aru Selatan Timur, Kepulauan Aru. Erersin, Aru Selatan Timur, Kepulauan Aru. Salarem, Aru Selatan Timur, Kepulauan Aru. Jelia, Aru Selatan Timur, Kepulauan Aru.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Telaah Babar",
+      "regency_city": "Tela, Pulau-Pulau Babar, Maluku Barat Daya. Imroing, Pulau-Pulau Babar, Maluku Barat Daya.",
+      "district": "Pulau-Pulau Babar",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Teon",
+      "regency_city": "Maluku Tengah",
+      "district": "Teon Nila Serua",
+      "villages": "Watludan Yafila Mesu",
+      "dialects": ""
+    },
+    {
+      "language": "Wemale",
+      "regency_city": "Waraloin, Taniwel Timur, Seram Bagian Barat. Hunitetu, Kairatu, Seram Bagian Barat. Elpaputih, Elpaputih, Seram Bagian Barat.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Woda-Woda",
+      "regency_city": "Kepulauan Aru",
+      "district": "Sir-Sir",
+      "villages": "Goda-Goda",
+      "dialects": ""
+    },
+    {
+      "language": "Yalahatan",
+      "regency_city": "Maluku Tengah",
+      "district": "Amahai",
+      "villages": "Yalahatan",
+      "dialects": ""
+    },
+    {
+      "language": "Yamdena",
+      "regency_city": "Woraloin, Taniwel Timur, Seram Bagian Barat. Taniwel, Taniwel, Seram Bagian Barat. Hulung, Taniwel, Seram Bagian Barat. Uweh, Taniwel, Seram Bagian Barat. Banggoi, Bula Barat, Seram Bagian Timur. Olilit Raya, Tanimbar Selatan, Kepulauan Tanimbar.",
+      "district": "",
+      "villages": "",
+      "dialects": ""
+    },
+    {
+      "language": "Yatoke",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau-Pulau Babar Timur",
+      "villages": "Yatoke Nakaramto Iliwari",
+      "dialects": "Yatoke"
+    },
+    {
+      "language": "Yatoke",
+      "regency_city": "Maluku Barat Daya",
+      "district": "Pulau-Pulau Babar",
+      "villages": "Letsiara",
+      "dialects": "Pepra"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Bahasa di Maluku - Free Download",
+    "description": "Bahasa-bahasa daerah di Provinsi Maluku beserta persebarannya menurut kabupaten/kota, kecamatan dan desa/negeri, serta dialeknya. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Bahasa di Maluku | ListBase",
+    "seo_description": "Download Daftar Bahasa di Maluku — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_bahasa_di_Maluku"
+    ]
+  }
+}

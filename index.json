@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-17T02:30:15.329Z",
-  "total_datasets": 657,
-  "total_records": 659478,
+  "generated": "2026-11-18T02:24:42.316Z",
+  "total_datasets": 658,
+  "total_records": 659550,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -7034,6 +7034,32 @@
         "xlsx": {
           "name": "id-taman-makam-pahlawan_ID.xlsx",
           "size": 17464
+        }
+      }
+    },
+    {
+      "id": "id-bahasa-di-maluku",
+      "name": "Daftar Bahasa di Maluku",
+      "category": "language",
+      "record_count": 72,
+      "columns": [
+        "language",
+        "regency_city",
+        "district",
+        "villages",
+        "dialects"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_bahasa_di_Maluku",
+      "updated": "2026-11",
+      "size": 16683,
+      "files": {
+        "csv": {
+          "name": "id-bahasa-di-maluku_ID.csv",
+          "size": 7128
+        },
+        "xlsx": {
+          "name": "id-bahasa-di-maluku_ID.xlsx",
+          "size": 10158
         }
       }
     },
