@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-19T02:27:18.368Z",
-  "total_datasets": 662,
-  "total_records": 659946,
+  "generated": "2026-11-19T02:27:27.006Z",
+  "total_datasets": 663,
+  "total_records": 659976,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "society",
@@ -15279,6 +15279,35 @@
         "xlsx": {
           "name": "id-ikan-air-tawar-endemik-indonesia_ID.xlsx",
           "size": 21515
+        }
+      }
+    },
+    {
+      "id": "id-satelit-indonesia",
+      "name": "Daftar Satelit Indonesia",
+      "category": "science",
+      "record_count": 30,
+      "columns": [
+        "name",
+        "launched",
+        "end_of_operation",
+        "orbital_slot",
+        "operator",
+        "launch_vehicle",
+        "manufacturer",
+        "notes"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_satelit_Indonesia",
+      "updated": "2026-11",
+      "size": 14423,
+      "files": {
+        "csv": {
+          "name": "id-satelit-indonesia_ID.csv",
+          "size": 7200
+        },
+        "xlsx": {
+          "name": "id-satelit-indonesia_ID.xlsx",
+          "size": 10700
         }
       }
     },

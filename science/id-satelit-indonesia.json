@@ -1,0 +1,366 @@
+{
+  "id": "id-satelit-indonesia",
+  "name": "Daftar Satelit Indonesia",
+  "title": "Daftar Satelit Indonesia",
+  "description": "Daftar satelit milik Indonesia sejak Palapa A1 (1976) beserta tanggal peluncuran, akhir operasi, slot orbit, pengelola, wahana peluncur, dan pembuat.",
+  "category": "science",
+  "source": "https://id.wikipedia.org/wiki/Daftar_satelit_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_satelit_Indonesia",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "end_of_operation",
+      "label": "End Of Operation",
+      "type": "string"
+    },
+    {
+      "key": "orbital_slot",
+      "label": "Orbital Slot",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "launch_vehicle",
+      "label": "Launch Vehicle",
+      "type": "string"
+    },
+    {
+      "key": "manufacturer",
+      "label": "Manufacturer",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Palapa A1",
+      "launched": "8 Juli 1976",
+      "end_of_operation": "Juni 1985",
+      "orbital_slot": "83° BT",
+      "operator": "Perumtel",
+      "launch_vehicle": "Delta-2914",
+      "manufacturer": "Hughes (HS-333)",
+      "notes": "Diluncurkan dari Kennedy Space Center, Tanjung Canaveral, Amerika Serikat."
+    },
+    {
+      "name": "Palapa A2",
+      "launched": "10 Maret 1977",
+      "end_of_operation": "Januari 1988",
+      "orbital_slot": "77° BT",
+      "operator": "Perumtel",
+      "launch_vehicle": "Delta-2914",
+      "manufacturer": "Hughes (HS-333)",
+      "notes": "Diluncurkan dari Kennedy Space Center."
+    },
+    {
+      "name": "Palapa B2",
+      "launched": "18 Juni 1983",
+      "end_of_operation": "1990",
+      "orbital_slot": "108° BT",
+      "operator": "Perumtel",
+      "launch_vehicle": "Challenger F2 (STS-7)",
+      "manufacturer": "Hughes (HS-376)",
+      "notes": "Diluncurkan menggunakan pesawat ulang-alik."
+    },
+    {
+      "name": "Palapa B2",
+      "launched": "3 Februari 1984 8:00 EST",
+      "end_of_operation": "Gagal",
+      "orbital_slot": "",
+      "operator": "Perumtel",
+      "launch_vehicle": "Challenger F4 (STS-41-B)",
+      "manufacturer": "Hughes (HS-376)",
+      "notes": "dilepas dari wahana pada 16:00 EST, gagal dan dijemput oleh STS-51A pada November 1984."
+    },
+    {
+      "name": "Palapa B2P",
+      "launched": "21 Maret 1987",
+      "end_of_operation": "Februari 1996",
+      "orbital_slot": "113° BT",
+      "operator": "Telkom Satelindo",
+      "launch_vehicle": "Delta 6925",
+      "manufacturer": "Hughes (HS-376)",
+      "notes": "Beralih kepemilikan ke Satelindo pada 1993, dan diganti Palapa C1."
+    },
+    {
+      "name": "Palapa B2R",
+      "launched": "13 April 1990",
+      "end_of_operation": "2000",
+      "orbital_slot": "108° BT",
+      "operator": "Telkom",
+      "launch_vehicle": "Delta 6925",
+      "manufacturer": "Hughes (HS-376)",
+      "notes": "Merupakan Palapa B2 yang diperbaiki oleh Sattel Technologies, dan diganti Telkom-1."
+    },
+    {
+      "name": "Palapa B4",
+      "launched": "14 Mei 1992 7:40 WIB",
+      "end_of_operation": "2005",
+      "orbital_slot": "118° BT",
+      "operator": "Telkom",
+      "launch_vehicle": "Delta II-7925",
+      "manufacturer": "Hughes (HS-376)",
+      "notes": "Diluncurkan dari Kennedy Space Center."
+    },
+    {
+      "name": "Palapa C1",
+      "launched": "31 Januari 1996",
+      "end_of_operation": "1999",
+      "orbital_slot": "113° BT",
+      "operator": "Satelindo",
+      "launch_vehicle": "Atlas-2AS",
+      "manufacturer": "Hughes (HS-601)",
+      "notes": "Diluncurkan dari Tanjung Canaveral LC-36B. Gagal beroperasi sehingga pada Januari 1999 beralih kepemilikan ke Hughes dan berganti nama menjadi HGS3. Desember 2000 disewa Kalitel dari AS di 50º BT dan menjadi Anatolia 1, Agustus 2002 disewa Pakistan di 38ºBT menjadi Paksat-1."
+    },
+    {
+      "name": "Palapa C2",
+      "launched": "15 Mei 1996",
+      "end_of_operation": "2011",
+      "orbital_slot": "113° BT",
+      "operator": "Satelindo Indosat",
+      "launch_vehicle": "Ariane-44L H10-3",
+      "manufacturer": "Hughes (HS-601)",
+      "notes": "Diluncurkan dari Kourou, Guyana Prancis. Orbit akan dipindahkan ke 150,5° BT karena 113° BT akan ditempati Palapa D."
+    },
+    {
+      "name": "Indostar I (Cakrawarta I)",
+      "launched": "12 November 1997",
+      "end_of_operation": "2011",
+      "orbital_slot": "107,7° BT",
+      "operator": "MNC Sky Vision",
+      "launch_vehicle": "Ariane-44L H10-3",
+      "manufacturer": "Orbital Sciences Corporation (Star-1)",
+      "notes": "Diluncurkan dari dari Kourou, Guyana Prancis."
+    },
+    {
+      "name": "Telkom-1",
+      "launched": "12 Agustus 1999, 21:48 UTC",
+      "end_of_operation": "25 Agustus 2017 17:00 WIB/10:00 UTC",
+      "orbital_slot": "108° BT",
+      "operator": "Telkom",
+      "launch_vehicle": "Ariane IV",
+      "manufacturer": "Lockheed Martin (A2100A)",
+      "notes": "Terjadi gangguan satelit Telkom-1 sejak 25 Agustus 2017 yang menyebabkan ketidaknyamanan masyarakat Indonesia dalam melakukan transaksi perbankan dan gangguan pada sebagian saluran televisi sehingga dialihkan ke satelit lainnya seperti, Telkom-3S, Palapa-D, dan BRIsat."
+    },
+    {
+      "name": "Garuda-1",
+      "launched": "12 Februari 2000",
+      "end_of_operation": "2015",
+      "orbital_slot": "123° BT",
+      "operator": "Asia Cellular Satellite (ACeS)",
+      "launch_vehicle": "Proton K Blok-DM3",
+      "manufacturer": "Lockheed Martin A2100AXX",
+      "notes": "ACeS adalah patungan PSN dan perusahaan asing. Diluncurkan dari Baikonur Cosmodrome, Kazakhstan."
+    },
+    {
+      "name": "Telkom-2",
+      "launched": "16 November 2005",
+      "end_of_operation": "Beroperasi",
+      "orbital_slot": "118° BT",
+      "operator": "Telkom",
+      "launch_vehicle": "Ariane V",
+      "manufacturer": "Orbital Sciences Corporation (Starbus 2)",
+      "notes": "Diluncurkan dari kuorou Prancis"
+    },
+    {
+      "name": "INASAT-1",
+      "launched": "2006",
+      "end_of_operation": "2006-2017",
+      "orbital_slot": "",
+      "operator": "",
+      "launch_vehicle": "",
+      "manufacturer": "",
+      "notes": "Satelit pertama buatan Indonesia."
+    },
+    {
+      "name": "LAPAN-TUBSAT",
+      "launched": "2007",
+      "end_of_operation": "Gagal",
+      "orbital_slot": "",
+      "operator": "",
+      "launch_vehicle": "",
+      "manufacturer": "",
+      "notes": "Satelit mikro pertama Indonesia."
+    },
+    {
+      "name": "Indostar II (Cakrawarta II)",
+      "launched": "16 Mei 2009, 7:58 WIB",
+      "end_of_operation": "2024",
+      "orbital_slot": "107,7° BT",
+      "operator": "MNC Sky Vision",
+      "launch_vehicle": "Proton-M Briz-M",
+      "manufacturer": "Boeing (BSS-601HP)",
+      "notes": "Diluncurkan dari Baikonur Cosmodrome (LC-200/39), Kazakhstan."
+    },
+    {
+      "name": "Palapa D",
+      "launched": "31 Agustus 2009 16:28 WIB",
+      "end_of_operation": "3 Agustus 2020",
+      "orbital_slot": "113° BT",
+      "operator": "Indosat",
+      "launch_vehicle": "Long March 3B",
+      "manufacturer": "Thales Alenia Space (Spacebus-4000B3)",
+      "notes": "Diluncurkan dari Xichang Satellite Launch Center (XSLC), Cina. Menggeser orbit Palapa C2 dari 113° BT ke 150,5° BT."
+    },
+    {
+      "name": "Telkom-3",
+      "launched": "2012",
+      "end_of_operation": "Gagal",
+      "orbital_slot": "",
+      "operator": "Telkom",
+      "launch_vehicle": "Proton-M Briz-M",
+      "manufacturer": "ISS Reshetnev (Ekspress-1000N) & Alcatel (Payload)",
+      "notes": "Proses tender selesai pada Desember 2008. Gagal mencapai orbit pada tanggal 6 Agustus 2012."
+    },
+    {
+      "name": "Lippostar-1",
+      "launched": "15 Juni 2012",
+      "end_of_operation": "2020",
+      "orbital_slot": "124° BT",
+      "operator": "Lippo Satellite",
+      "launch_vehicle": "Ariane 5 ECA",
+      "manufacturer": "Lockheed Martin (A2100)",
+      "notes": "Diluncurkan dari Prancis menggunakan peluncur roket"
+    },
+    {
+      "name": "LAPAN-A2",
+      "launched": "2015",
+      "end_of_operation": "",
+      "orbital_slot": "",
+      "operator": "",
+      "launch_vehicle": "",
+      "manufacturer": "",
+      "notes": "Satelit mikro kedua Indonesia."
+    },
+    {
+      "name": "BRIsat",
+      "launched": "19 Juni 2016 04:39 WIB",
+      "end_of_operation": "2031",
+      "orbital_slot": "150.5° BT",
+      "operator": "Bank BRI",
+      "launch_vehicle": "Ariane 5 ECA",
+      "manufacturer": "Space Systems Loral (LS1300)",
+      "notes": "Diluncurkan dari Kourou, Guyana Prancis."
+    },
+    {
+      "name": "LAPAN-A3",
+      "launched": "2016",
+      "end_of_operation": "",
+      "orbital_slot": "",
+      "operator": "",
+      "launch_vehicle": "",
+      "manufacturer": "",
+      "notes": "Satelit mikro ketiga Indonesia."
+    },
+    {
+      "name": "Telkom-3S",
+      "launched": "15 Februari 2017 04:39 WIB",
+      "end_of_operation": "2032",
+      "orbital_slot": "118° BT",
+      "operator": "Telkom",
+      "launch_vehicle": "Ariane 5 ECA",
+      "manufacturer": "Thales Alenia Space (Spacebus-4000B3)",
+      "notes": "Diluncurkan dari Kourou, Guyana Prancis, untuk menggantikan Satelit Telkom-3 yang hilang dan gagal mencapai orbit pada Agustus 2012 karena kesalahan roket Proton Rusia."
+    },
+    {
+      "name": "Telkom-4 (Merah Putih)",
+      "launched": "7 Agustus 2018",
+      "end_of_operation": "2033",
+      "orbital_slot": "108° BT",
+      "operator": "Telkom",
+      "launch_vehicle": "SpaceX Falcon 9",
+      "manufacturer": "Space Systems Loral",
+      "notes": "Diluncurkan dari Amerika Serikat, untuk menggantikan Satelit Telkom-1. Satelit Telkom-4 ini memiliki 60 transponder, jauh lebih banyak daripada satelit sebelumnya (36 transponder akan disewakan untuk kebutuhan domestik dan 24 transponder dipasarkan untuk India). Satelit ini juga menggunakan teknologi broadband satelit yang bisa memancarkan akses berkapasitas dua kali lipat dari satelit sebelumnya dan jangkauan layanan satelit ini bisa mencapai area ASEAN dan India."
+    },
+    {
+      "name": "Nusantara Satu",
+      "launched": "21 Februari 2019",
+      "end_of_operation": "2034",
+      "orbital_slot": "146° BT",
+      "operator": "PT Pasifik Satelit Nusantara",
+      "launch_vehicle": "SpaceX Falcon 9 v1.2",
+      "manufacturer": "Space Systems/Loral (SSL)",
+      "notes": "Nusantara Satu memiliki 52 transporter pita C, ext C dan pita Ku, dengan total bandwidth 15Gbps. Satelit ini akan mencakup seluruh wilayah Asia Tenggara untuk pita C dan seluruh wilayah Indonesia untuk pita Ku-Band."
+    },
+    {
+      "name": "Palapa N1 (Nusantara Dua)",
+      "launched": "9 April 2020",
+      "end_of_operation": "Gagal",
+      "orbital_slot": "",
+      "operator": "PT Palapa Satelit Nusa Sejahtera",
+      "launch_vehicle": "Long March-3B (Chang Zheng-3B)",
+      "manufacturer": "Xichang Satellite Launch Center (XLSC)",
+      "notes": "Peluncuran roket berjalan dengan baik di tahap pertama dan kedua. Kendala baru muncul beberapa menit saat memasuki tahap tiga. Di tahap tiga, terdapat dua roket, di mana salah satunya tidak menyala, sehingga tidak memenuhi kecepatan yang dibutuhkan untuk mencapai orbit yang telah ditetapkan."
+    },
+    {
+      "name": "SS-1",
+      "launched": "27 November 2022",
+      "end_of_operation": "6-12 Bulan",
+      "orbital_slot": "",
+      "operator": "Surya University",
+      "launch_vehicle": "SpaceX CRS-26",
+      "manufacturer": "Surya University yang dikembangkan oleh 7 orang yaitu Setra Yoman Prahyang, Hery Steven Mindarno, M. Zulfa Dhiyaulfaq, Suhandinata, Afiq Herdika Sulistya, Roberto Gunawan, dan Correy Ananta Adhilaksma",
+      "notes": "Satelite Nano buatan Indonesia."
+    },
+    {
+      "name": "SATRIA-1",
+      "launched": "19 Juni 2023",
+      "end_of_operation": "2038",
+      "orbital_slot": "146° BT",
+      "operator": "PT Satelit Nusantara Tiga",
+      "launch_vehicle": "SpaceX Falcon 9",
+      "manufacturer": "Thales Alenia Space",
+      "notes": "Diluncurkan dari Florida, Amerika Serikat, satelit ini merupakan satelit terbesar di Asia dan satelit ke-5 terbesar di dunia. Satelit SATRIA-1 memiliki kapasitas 150 Gbps dengan teknologi High Throughput Satellite (HTS) frekuensi Ka-Band, dan mencapai hampir 150 ribu titik layanan publik di seluruh wilayah Indonesia dengan harapan bisa memberikan kesetaraan infrastruktur digital. Satelit ini diperkirakan akan memiliki masa guna hingga 15 tahun."
+    },
+    {
+      "name": "Merah Putih 2",
+      "launched": "21 Februari 2024",
+      "end_of_operation": "2039",
+      "orbital_slot": "113° BT",
+      "operator": "Telkomsat",
+      "launch_vehicle": "SpaceX Falcon 9",
+      "manufacturer": "Thales Alenia Space",
+      "notes": "Dibangun dengan platform Spacebus 4000B2, dengan kapasitas 32Gbps."
+    },
+    {
+      "name": "Merah Putih 3",
+      "launched": "12 Januari 2023",
+      "end_of_operation": "2038",
+      "orbital_slot": "134° BT",
+      "operator": "Telkomsat",
+      "launch_vehicle": "Long March LM-2C",
+      "manufacturer": "China Great Wall Industries Corporation",
+      "notes": "Satelit Merah Putih 3 memiliki total kapasitas sekitar 30,7 Gbps dan dilengkapi dengan 25 user beams. Satelit ini menempati slot orbit 134 derajat Bujur Timur (134° BT) dan memiliki cakupan layanan yang meliputi seluruh wilayah daratan serta sebagian wilayah perairan Indonesia."
+    }
+  ],
+  "meta": {
+    "title": "Daftar Satelit Indonesia - Free Download",
+    "description": "Daftar satelit milik Indonesia sejak Palapa A1 (1976) beserta tanggal peluncuran, akhir operasi, slot orbit, pengelola, wahana peluncur, dan pembuat. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Satelit Indonesia | ListBase",
+    "seo_description": "Download Daftar Satelit Indonesia — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_satelit_Indonesia"
+    ]
+  }
+}
