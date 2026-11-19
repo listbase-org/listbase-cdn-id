@@ -1,0 +1,835 @@
+{
+  "id": "id-kereta-api-jarak-jauh-dan-menengah",
+  "name": "Daftar Kereta Api Jarak Jauh dan Menengah di Indonesia",
+  "title": "Daftar Kereta Api Jarak Jauh dan Menengah di Indonesia",
+  "description": "Daftar layanan kereta api penumpang jarak jauh dan menengah di Indonesia beserta relasi, frekuensi, kelas, koridor, tanggal mulai beroperasi, dan keterangan.",
+  "category": "transport",
+  "source": "https://id.wikipedia.org/wiki/Daftar_kereta_api_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_kereta_api_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "route",
+      "label": "Route",
+      "type": "string"
+    },
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "service_class",
+      "label": "Service Class",
+      "type": "string"
+    },
+    {
+      "key": "corridor",
+      "label": "Corridor",
+      "type": "string"
+    },
+    {
+      "key": "started",
+      "label": "Started",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Purwojaya",
+      "route": "Gambir — Cilacap",
+      "frequency": "1 kali keberangkatan reguler dan 2 kali keberangkatan fakultatif",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "Maret 1995",
+      "notes": "Awal mula beroperasi sebagai kereta api kelas bisnis."
+    },
+    {
+      "name": "Taksaka",
+      "route": "Gambir— Yogyakarta",
+      "frequency": "3 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "19 September 1999",
+      "notes": ""
+    },
+    {
+      "name": "Argo Lawu",
+      "route": "Gambir— Solo Balapan",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "21 September 1996",
+      "notes": "Hasil pengembangan dari purwarupa layanan kereta api JSO-751."
+    },
+    {
+      "name": "Argo Dwipangga",
+      "route": "Gambir— Solo Balapan",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "21 April 1998",
+      "notes": "Awal mula beroperasi sebagai kereta api kelas spesial."
+    },
+    {
+      "name": "Argo Wilis",
+      "route": "Bandung — Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "8 November 1998",
+      "notes": "Jadwal pagi"
+    },
+    {
+      "name": "Turangga",
+      "route": "Bandung — Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1 September 1995",
+      "notes": "Jadwal malam"
+    },
+    {
+      "name": "Argo Semeru",
+      "route": "Gambir—Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1 Juni 2023",
+      "notes": "Jadwal pagi"
+    },
+    {
+      "name": "Bima",
+      "route": "Gambir—Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1 Juni 1967",
+      "notes": "Jadwal malam"
+    },
+    {
+      "name": "Gajayana",
+      "route": "Gambir— Malang melalui Purwokerto",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor selatan Jawa",
+      "started": "28 Oktober 1999",
+      "notes": ""
+    },
+    {
+      "name": "Muria",
+      "route": "Gambir — Semarang Tawang",
+      "frequency": "6 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor utara Jawa",
+      "started": "22 Desember 1997",
+      "notes": "Layanan bermula sebagai \"Argo Muria I\" dan hasil penggabungan dari Argo Sindoro maupun Argo Merbabu."
+    },
+    {
+      "name": "Anggrek",
+      "route": "Gambir— Surabaya Pasarturi",
+      "frequency": "2 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor utara Jawa",
+      "started": "24 September 1997",
+      "notes": "Hasil pengembangan dari purwarupa layanan kereta api JS950 Argo Bromo."
+    },
+    {
+      "name": "Sembrani",
+      "route": "Gambir— Surabaya Pasarturi",
+      "frequency": "2 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor utara Jawa",
+      "started": "17 Oktober 1995",
+      "notes": "Hasil pengembangan dari kereta api Mutiara Utara."
+    },
+    {
+      "name": "Argo Anjasmoro",
+      "route": "Gambir— Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan fakultatif",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor utara Jawa",
+      "started": "21 Maret 2025",
+      "notes": ""
+    },
+    {
+      "name": "Brawijaya",
+      "route": "Gambir— Malang melalui Semarang Tawang",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor utara Jawa",
+      "started": "10 Maret 2021",
+      "notes": ""
+    },
+    {
+      "name": "Pandalungan",
+      "route": "Gambir— Jember melalui Surabaya Pasarturi",
+      "frequency": "2 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif",
+      "corridor": "Koridor utara Jawa",
+      "started": "1 Juni 2023",
+      "notes": "Per 18 Juni 2026, ditambah jadwal perjalanan pada pagi hari, tapi kelas Priority tidak tersedia."
+    },
+    {
+      "name": "Baturraden Ekspres",
+      "route": "Bandung — Purwokerto",
+      "frequency": "1 kali keberangkatan (fakultatif)",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "25 Juni 2021",
+      "notes": "Dijalankan pada jadwal tertentu"
+    },
+    {
+      "name": "Sancaka",
+      "route": "Yogyakarta — Surabaya Gubeng",
+      "frequency": "4 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "2 Mei 1997",
+      "notes": ""
+    },
+    {
+      "name": "Cakrabuana",
+      "route": "Gambir —Purwokerto melalui Cirebon",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "16 Agustus 2019",
+      "notes": ""
+    },
+    {
+      "name": "Lodaya",
+      "route": "Bandung— Solo Balapan",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "12 Mei 2000",
+      "notes": ""
+    },
+    {
+      "name": "Sawunggalih",
+      "route": "Pasar Senen — Kutoarjo",
+      "frequency": "3 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "31 Mei 1977",
+      "notes": ""
+    },
+    {
+      "name": "Fajar dan Senja Utama Yogyakarta",
+      "route": "Pasar Senen— Yogyakarta",
+      "frequency": "2 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "12 Mei 1986",
+      "notes": ""
+    },
+    {
+      "name": "Bogowonto",
+      "route": "Pasar Senen— Lempuyangan",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "3 September 2010",
+      "notes": ""
+    },
+    {
+      "name": "Gajahwong",
+      "route": "Pasar Senen— Lempuyangan",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "24 Agustus 2011",
+      "notes": ""
+    },
+    {
+      "name": "Malioboro Ekspres",
+      "route": "Purwokerto— Malang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "21 September 2012",
+      "notes": ""
+    },
+    {
+      "name": "Kertanegara",
+      "route": "Purwokerto— Malang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "10 Maret 2021",
+      "notes": ""
+    },
+    {
+      "name": "Fajar dan Senja Utama Solo",
+      "route": "Pasar Senen— Solo Balapan",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "14 Oktober 1978",
+      "notes": ""
+    },
+    {
+      "name": "Mataram",
+      "route": "Pasar Senen— Solo Balapan",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "15 Juni 2017",
+      "notes": ""
+    },
+    {
+      "name": "Batavia",
+      "route": "Gambir—Solo Balapan",
+      "frequency": "1 kali keberangkatan (fakultatif)",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "6 Februari 2025",
+      "notes": ""
+    },
+    {
+      "name": "Madiun Jaya",
+      "route": "Pasar Senen— Madiun",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "19 Desember 2009",
+      "notes": ""
+    },
+    {
+      "name": "Mutiara Selatan",
+      "route": "Bandung— Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "17 Agustus 1972",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Harina jadwal pagi relasi Bandung — Surabaya Pasarturi."
+    },
+    {
+      "name": "Bangunkarta",
+      "route": "Pasar Senen— Jombang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "10 Januari 1985",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Singasari relasi Pasar Senen — Purwokerto — Blitar"
+    },
+    {
+      "name": "Malabar",
+      "route": "Bandung— Malang",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "30 April 2010",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Harina jadwal malam relasi Bandung — Surabaya Pasarturi."
+    },
+    {
+      "name": "Logawa",
+      "route": "Purwokerto— Ketapang melalui Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "20 Mei 2003",
+      "notes": ""
+    },
+    {
+      "name": "Wijayakusuma",
+      "route": "Cilacap —Ketapang melalui Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "26 September 2017",
+      "notes": ""
+    },
+    {
+      "name": "Ranggajati",
+      "route": "Cirebon — Jember melalui Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1 November 2016",
+      "notes": ""
+    },
+    {
+      "name": "Gaya Baru Malam Selatan",
+      "route": "Pasar Senen—Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "17 Februari 1975",
+      "notes": "Layanan ini bertukar dengan kereta api Jayabaya relasi Pasar Senen — Surabaya Pasarturi — Malang"
+    },
+    {
+      "name": "Singasari",
+      "route": "Pasar Senen— Blitar melalui Purwokerto",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "21 September 2012",
+      "notes": "Layanan ini bertukar dengan kereta api Bangunkarta relasi Pasar Senen — Purwokerto — Jombang."
+    },
+    {
+      "name": "Sangkuriang",
+      "route": "Bandung—Ketapang melalui Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1 Mei 2026",
+      "notes": ""
+    },
+    {
+      "name": "Parahyangan",
+      "route": "Gambir — Bandung",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "31 Juli 1971",
+      "notes": "—Layanan kereta api bertukar dengan kereta api Papandayan.—"
+    },
+    {
+      "name": "Cirebon",
+      "route": "Gambir— Cirebon",
+      "frequency": "1 kali keberangkatan secara fakultatif",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "16 Agustus 2019",
+      "notes": ""
+    },
+    {
+      "name": "Papandayan",
+      "route": "Gambir— Garut melalui Bandung",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "24 Januari 2024",
+      "notes": "—Layanan kereta api bertukar dengan kereta api Parahyangan.—"
+    },
+    {
+      "name": "Pangandaran",
+      "route": "Gambir— Banjar melalui Bandung",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "2 Januari 2019",
+      "notes": "—Layanan kereta api bertukar dengan kereta api Parahyangan.—"
+    },
+    {
+      "name": "Tegal Bahari",
+      "route": "Pasar Senen — Tegal",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "4 Oktober 2014",
+      "notes": "—Layanan kereta api bertukar dengan kereta api Gumarang —"
+    },
+    {
+      "name": "Tawang Jaya Premium",
+      "route": "Pasar Senen— Semarang Tawang",
+      "frequency": "2 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "6 April 2018",
+      "notes": "Layanan ini bertukar dengan kereta api Menoreh pada jadwal siang"
+    },
+    {
+      "name": "Menoreh",
+      "route": "Pasar Senen— Semarang Tawang",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "21 September 2012",
+      "notes": "Layanan ini bertukar dengan kereta api Tawang Jaya Premium pada jadwal pagi dan malam"
+    },
+    {
+      "name": "Gunungjati",
+      "route": "Gambir—Semarang Tawang",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "1 Februari 1973",
+      "notes": ""
+    },
+    {
+      "name": "Ciremai",
+      "route": "Bandung —Semarang Tawang melalui Cikampek",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "28 September 2013",
+      "notes": ""
+    },
+    {
+      "name": "Sancaka Utara",
+      "route": "Cilacap — Surabaya Pasarturi melalui Solo Balapan",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "1 Desember 2019",
+      "notes": ""
+    },
+    {
+      "name": "Gumarang",
+      "route": "Pasar Senen—Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "20 Mei 2001",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Tegal Bahari relasi Pasar Senen — Tegal"
+    },
+    {
+      "name": "Dharmawangsa Ekspres",
+      "route": "Pasar Senen—Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "2 Desember 2019",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Brantas relasi Pasar Senen — Semarang Tawang — Blitar"
+    },
+    {
+      "name": "Harina",
+      "route": "Bandung—Surabaya Pasarturi melalui Cikampek",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "20 Mei 2003",
+      "notes": "Hanya jadwal malam, tapi jadwal pagi bertukar dengan kereta api Mutiara Selatan relasi Bandung — Surabaya Gubeng."
+    },
+    {
+      "name": "Brantas",
+      "route": "Pasar Senen— Blitar melalui Semarang Tawang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "1 Oktober 1998",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Dharmawangsa Ekspres relasi Pasar Senen — Surabaya Pasarturi"
+    },
+    {
+      "name": "Jayabaya",
+      "route": "Pasar Senen— Malang melalui Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "18 Oktober 2014",
+      "notes": "Layanan kereta api ini bertukar dengan kereta api Gaya Baru Malam Selatan relasi Pasar Senen — Purwokerto — Surabaya Gubeng"
+    },
+    {
+      "name": "Blambangan Ekspres",
+      "route": "Pasar Senen— Ketapang melalui Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "2 Desember 2022",
+      "notes": ""
+    },
+    {
+      "name": "Pangrango",
+      "route": "Bogor — Sukabumi",
+      "frequency": "4 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "9 September 2013",
+      "notes": ""
+    },
+    {
+      "name": "Banyubiru Ekspres",
+      "route": "Solo Balapan — Semarang Tawang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "1 Juni 2023",
+      "notes": ""
+    },
+    {
+      "name": "Kamandaka",
+      "route": "Semarang Tawang— Cilacap",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "17 Februari 2014",
+      "notes": ""
+    },
+    {
+      "name": "Joglosemarkerto",
+      "route": "Solo Balapan — Purwokerto — Tegal — Semarang Tawang",
+      "frequency": "1 kali keberangkatan tiap hari",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "1 Desember 2018",
+      "notes": ""
+    },
+    {
+      "name": "Kaligung",
+      "route": "Semarang Poncol — Cirebon Prujakan",
+      "frequency": "3 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "1999",
+      "notes": ""
+    },
+    {
+      "name": "Mutiara Timur",
+      "route": "Surabaya Pasarturi — Ketapang",
+      "frequency": "2 kali keberangkatan (1 reguler dan 1 fakultatif)",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "6 Maret 1973",
+      "notes": ""
+    },
+    {
+      "name": "Ijen Ekspres",
+      "route": "Malang — Ketapang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Ekonomi",
+      "corridor": "Kereta api aglomerasi",
+      "started": "1 Februari 2025",
+      "notes": ""
+    },
+    {
+      "name": "Sribilah Utama",
+      "route": "Medan — Rantau Prapat",
+      "frequency": "3 kali keberangkatan",
+      "service_class": "Eksekutif dan Bisnis/Ekonomi",
+      "corridor": "Kereta api lintas Sumatra Utara",
+      "started": "10 Agustus 1978",
+      "notes": ""
+    },
+    {
+      "name": "Sindang Marga",
+      "route": "Kertapati — Lubuk Linggau",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Eksekutif dan Bisnis",
+      "corridor": "Kereta api lintas Sumatra Selatan dan Lampung",
+      "started": "6 April 1972",
+      "notes": ""
+    },
+    {
+      "name": "Kutojaya Selatan",
+      "route": "Kiaracondong — Kutoarjo",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "",
+      "notes": ""
+    },
+    {
+      "name": "Serayu",
+      "route": "Pasar Senen — Purwokerto melalui Kiaracondong",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1 Maret 1992",
+      "notes": "Pertama beroperasi sebagai Serayu Jaya."
+    },
+    {
+      "name": "Progo",
+      "route": "Pasar Senen— Lempuyangan",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "2002",
+      "notes": ""
+    },
+    {
+      "name": "Bengawan",
+      "route": "Pasar Senen— Purwosari",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1994",
+      "notes": ""
+    },
+    {
+      "name": "Jaka Tingkir",
+      "route": "Pasar Senen— Solo Balapan",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "8 Desember 2013",
+      "notes": ""
+    },
+    {
+      "name": "Sri Tanjung",
+      "route": "Lempuyangan— Ketapang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1986",
+      "notes": "Dahulu bernama kereta api Argopuro."
+    },
+    {
+      "name": "Pasundan",
+      "route": "Kiaracondong— Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "1997",
+      "notes": "Penerus kereta api Badrasurya"
+    },
+    {
+      "name": "Kahuripan",
+      "route": "Kiaracondong— Blitar",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "26 Juli 1995",
+      "notes": ""
+    },
+    {
+      "name": "Jayakarta",
+      "route": "Pasar Senen—Surabaya Gubeng",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor selatan Jawa",
+      "started": "28 September 2017",
+      "notes": "Penjenamaan dari Gaya Baru Malam Selatan Premium"
+    },
+    {
+      "name": "Cikuray",
+      "route": "Pasar Senen — Garut melalui Bandung",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "25 Maret 2022",
+      "notes": ""
+    },
+    {
+      "name": "Ambarawa Ekspres",
+      "route": "Semarang Poncol — Surabaya Pasarturi",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "4 Oktober 2016",
+      "notes": ""
+    },
+    {
+      "name": "Tawang Jaya",
+      "route": "Pasar Senen—Semarang Poncol",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "14 Mei 1984",
+      "notes": "Layanan ini bertukar dengan kereta api Banyubiru relasi Semarang Tawang — Solo Balapan."
+    },
+    {
+      "name": "Kertajaya",
+      "route": "Pasar Senen—Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "1994",
+      "notes": "Layanan ini bertukar dengan kereta api Ambarawa Ekspres relasi Semarang Poncol — Surabaya Pasarturi."
+    },
+    {
+      "name": "Airlangga",
+      "route": "Pasar Senen—Surabaya Pasarturi",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "1 Oktober 2021",
+      "notes": "Jadwal siang"
+    },
+    {
+      "name": "Majapahit",
+      "route": "Pasar Senen— Malang melalui Semarang Tawang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "21 September 2012",
+      "notes": "Jadwal malam"
+    },
+    {
+      "name": "Matarmaja",
+      "route": "Pasar Senen—Malang melalui Semarang Poncol",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Koridor utara Jawa",
+      "started": "28 September 1983",
+      "notes": ""
+    },
+    {
+      "name": "Probowangi",
+      "route": "Surabaya Gubeng — Ketapang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Kereta api lokal dan aglomerasi",
+      "started": "",
+      "notes": "Dahulu bernama kereta api Blambangan"
+    },
+    {
+      "name": "Tawang Alun",
+      "route": "Malang Kotalama —Ketapang",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Kereta api lokal dan aglomerasi",
+      "started": "2002",
+      "notes": "Penerus kereta api Rengganis"
+    },
+    {
+      "name": "Blora Jaya",
+      "route": "Semarang Poncol — Cepu",
+      "frequency": "1 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Kereta api lokal dan aglomerasi",
+      "started": "5 Juli 2017",
+      "notes": ""
+    },
+    {
+      "name": "Siliwangi",
+      "route": "Sukabumi — Cipatat",
+      "frequency": "3 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Kereta api lokal dan aglomerasi",
+      "started": "8 Februari 2014",
+      "notes": ""
+    },
+    {
+      "name": "Pandanwangi",
+      "route": "Jember — Ketapang",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Kereta api lokal dan aglomerasi",
+      "started": "",
+      "notes": ""
+    },
+    {
+      "name": "Putri Deli",
+      "route": "Medan — Tanjungbalai",
+      "frequency": "3 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Sumatra bagian Utara",
+      "started": "5 Januari 2008",
+      "notes": ""
+    },
+    {
+      "name": "Siantar Ekspres",
+      "route": "Medan — Siantar",
+      "frequency": "2 kali keberangkatan",
+      "service_class": "Ekonomi",
+      "corridor": "Sumatra bagian Utara",
+      "started": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kereta Api Jarak Jauh dan Menengah di Indonesia - Free Download",
+    "description": "Daftar layanan kereta api penumpang jarak jauh dan menengah di Indonesia beserta relasi, frekuensi, kelas, koridor, tanggal mulai beroperasi, dan keterangan. Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Kereta Api Jarak Jauh dan Menengah di Indonesia | ListBase",
+    "seo_description": "Download Daftar Kereta Api Jarak Jauh dan Menengah di Indonesia — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_kereta_api_di_Indonesia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-18T02:24:59.167Z",
-  "total_datasets": 660,
-  "total_records": 659762,
+  "generated": "2026-11-19T02:27:09.859Z",
+  "total_datasets": 661,
+  "total_records": 659848,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 33
+      "dataset_count": 34
     },
     {
       "id": "units",
@@ -17597,6 +17597,34 @@
         "xlsx": {
           "name": "id-kepulauan-riau-pelabuhan_ID.xlsx",
           "size": 7710
+        }
+      }
+    },
+    {
+      "id": "id-kereta-api-jarak-jauh-dan-menengah",
+      "name": "Daftar Kereta Api Jarak Jauh dan Menengah di Indonesia",
+      "category": "transport",
+      "record_count": 86,
+      "columns": [
+        "name",
+        "route",
+        "frequency",
+        "service_class",
+        "corridor",
+        "started",
+        "notes"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kereta_api_di_Indonesia",
+      "updated": "2026-11",
+      "size": 28111,
+      "files": {
+        "csv": {
+          "name": "id-kereta-api-jarak-jauh-dan-menengah_ID.csv",
+          "size": 14112
+        },
+        "xlsx": {
+          "name": "id-kereta-api-jarak-jauh-dan-menengah_ID.xlsx",
+          "size": 11794
         }
       }
     },
