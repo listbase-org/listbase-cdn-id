@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-19T02:27:09.859Z",
-  "total_datasets": 661,
-  "total_records": 659848,
+  "generated": "2026-11-19T02:27:18.368Z",
+  "total_datasets": 662,
+  "total_records": 659946,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -15601,6 +15601,32 @@
         "xlsx": {
           "name": "id-ketua-umum-muhammadiyah_ID.xlsx",
           "size": 9314
+        }
+      }
+    },
+    {
+      "id": "id-kota-menurut-kepadatan-penduduk",
+      "name": "Daftar Kota di Indonesia menurut Kepadatan Penduduk",
+      "category": "society",
+      "record_count": 98,
+      "columns": [
+        "city",
+        "province",
+        "area_km2",
+        "population_2023",
+        "density_per_km2"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_kepadatan_penduduk",
+      "updated": "2026-11",
+      "size": 17709,
+      "files": {
+        "csv": {
+          "name": "id-kota-menurut-kepadatan-penduduk_ID.csv",
+          "size": 4990
+        },
+        "xlsx": {
+          "name": "id-kota-menurut-kepadatan-penduduk_ID.xlsx",
+          "size": 10635
         }
       }
     },

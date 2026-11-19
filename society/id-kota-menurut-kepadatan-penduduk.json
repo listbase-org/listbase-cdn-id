@@ -1,0 +1,737 @@
+{
+  "id": "id-kota-menurut-kepadatan-penduduk",
+  "name": "Daftar Kota di Indonesia menurut Kepadatan Penduduk",
+  "title": "Daftar Kota di Indonesia menurut Kepadatan Penduduk",
+  "description": "Daftar kota (kotamadya) di Indonesia diurutkan menurut kepadatan penduduk per km², dengan provinsi, luas wilayah, dan jumlah penduduk tahun 2023.",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_kepadatan_penduduk",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_kepadatan_penduduk",
+  "updated": "2026-11",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population_2023",
+      "label": "Population 2023",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city": "Jakarta Pusat",
+      "province": "DKI Jakarta",
+      "area_km2": 47.9,
+      "population_2023": 889448,
+      "density_per_km2": 18569
+    },
+    {
+      "city": "Jakarta Barat",
+      "province": "DKI Jakarta",
+      "area_km2": 126.15,
+      "population_2023": 2093013,
+      "density_per_km2": 16591
+    },
+    {
+      "city": "Jakarta Selatan",
+      "province": "DKI Jakarta",
+      "area_km2": 145.73,
+      "population_2023": 2001353,
+      "density_per_km2": 13733
+    },
+    {
+      "city": "Bandung",
+      "province": "Jawa Barat",
+      "area_km2": 167.3,
+      "population_2023": 2288570,
+      "density_per_km2": 13679
+    },
+    {
+      "city": "Cimahi",
+      "province": "Jawa Barat",
+      "area_km2": 40.36,
+      "population_2023": 546879,
+      "density_per_km2": 13549
+    },
+    {
+      "city": "Yogyakarta",
+      "province": "DI Yogyakarta",
+      "area_km2": 32.5,
+      "population_2023": 433539,
+      "density_per_km2": 13340
+    },
+    {
+      "city": "Jakarta Timur",
+      "province": "DKI Jakarta",
+      "area_km2": 187.73,
+      "population_2023": 2391166,
+      "density_per_km2": 12737
+    },
+    {
+      "city": "Surakarta",
+      "province": "Jawa Tengah",
+      "area_km2": 44.03,
+      "population_2023": 506397,
+      "density_per_km2": 11501
+    },
+    {
+      "city": "Jakarta Utara",
+      "province": "DKI Jakarta",
+      "area_km2": 142.3,
+      "population_2023": 1445623,
+      "density_per_km2": 10159
+    },
+    {
+      "city": "Bekasi",
+      "province": "Jawa Barat",
+      "area_km2": 210.49,
+      "population_2023": 1993478,
+      "density_per_km2": 9471
+    },
+    {
+      "city": "Bogor",
+      "province": "Jawa Barat",
+      "area_km2": 118.5,
+      "population_2023": 1112081,
+      "density_per_km2": 9385
+    },
+    {
+      "city": "Tangerang Selatan",
+      "province": "Banten",
+      "area_km2": 147.19,
+      "population_2023": 1219245,
+      "density_per_km2": 8283
+    },
+    {
+      "city": "Cirebon",
+      "province": "Jawa Barat",
+      "area_km2": 37.36,
+      "population_2023": 308771,
+      "density_per_km2": 8265
+    },
+    {
+      "city": "Tangerang",
+      "province": "Banten",
+      "area_km2": 177.3,
+      "population_2023": 1451595,
+      "density_per_km2": 8187
+    },
+    {
+      "city": "Banjarmasin",
+      "province": "Kalimantan Selatan",
+      "area_km2": 72,
+      "population_2023": 589115,
+      "density_per_km2": 8182
+    },
+    {
+      "city": "Surabaya",
+      "province": "Jawa Timur",
+      "area_km2": 326.37,
+      "population_2023": 2611506,
+      "density_per_km2": 8002
+    },
+    {
+      "city": "Medan",
+      "province": "Sumatera Utara",
+      "area_km2": 265.1,
+      "population_2023": 2029797,
+      "density_per_km2": 7657
+    },
+    {
+      "city": "Malang",
+      "province": "Jawa Timur",
+      "area_km2": 110.06,
+      "population_2023": 820243,
+      "density_per_km2": 6171
+    },
+    {
+      "city": "Depok",
+      "province": "Jawa Barat",
+      "area_km2": 200.29,
+      "population_2023": 1374903,
+      "density_per_km2": 6865
+    },
+    {
+      "city": "Magelang",
+      "province": "Jawa Tengah",
+      "area_km2": 18.12,
+      "population_2023": 124374,
+      "density_per_km2": 6864
+    },
+    {
+      "city": "Mojokerto",
+      "province": "Jawa Timur",
+      "area_km2": 16.47,
+      "population_2023": 111860,
+      "density_per_km2": 6792
+    },
+    {
+      "city": "Sukabumi",
+      "province": "Jawa Barat",
+      "area_km2": 48,
+      "population_2023": 291277,
+      "density_per_km2": 6068
+    },
+    {
+      "city": "Tegal",
+      "province": "Jawa Tengah",
+      "area_km2": 39.68,
+      "population_2023": 238676,
+      "density_per_km2": 6015
+    },
+    {
+      "city": "Makassar",
+      "province": "Sulawesi Selatan",
+      "area_km2": 199.26,
+      "population_2023": 1194583,
+      "density_per_km2": 5995
+    },
+    {
+      "city": "Pekalongan",
+      "province": "Jawa Tengah",
+      "area_km2": 45.25,
+      "population_2023": 314098,
+      "density_per_km2": 5940
+    },
+    {
+      "city": "Mataram",
+      "province": "Nusa Tenggara Barat",
+      "area_km2": 61.3,
+      "population_2023": 342896,
+      "density_per_km2": 5594
+    },
+    {
+      "city": "Madiun",
+      "province": "Jawa Timur",
+      "area_km2": 65.67,
+      "population_2023": 401997,
+      "density_per_km2": 5158
+    },
+    {
+      "city": "Pasuruan",
+      "province": "Jawa Timur",
+      "area_km2": 36.57,
+      "population_2023": 171136,
+      "density_per_km2": 4680
+    },
+    {
+      "city": "Pontianak",
+      "province": "Kalimantan Barat",
+      "area_km2": 107.82,
+      "population_2023": 679818,
+      "density_per_km2": 4654
+    },
+    {
+      "city": "Denpasar",
+      "province": "Bali",
+      "area_km2": 123.98,
+      "population_2023": 574610,
+      "density_per_km2": 4635
+    },
+    {
+      "city": "Bukittinggi",
+      "province": "Sumatera Barat",
+      "area_km2": 25.24,
+      "population_2023": 110954,
+      "density_per_km2": 4400
+    },
+    {
+      "city": "Bandar Lampung",
+      "province": "Lampung",
+      "area_km2": 192.18,
+      "population_2023": 790057,
+      "density_per_km2": 4111
+    },
+    {
+      "city": "Kediri",
+      "province": "Jawa Timur",
+      "area_km2": 63.4,
+      "population_2023": 248640,
+      "density_per_km2": 3922
+    },
+    {
+      "city": "Blitar",
+      "province": "Jawa Timur",
+      "area_km2": 32.58,
+      "population_2023": 126776,
+      "density_per_km2": 3891
+    },
+    {
+      "city": "Semarang",
+      "province": "Jawa Tengah",
+      "area_km2": 373.67,
+      "population_2023": 1729428,
+      "density_per_km2": 4816
+    },
+    {
+      "city": "Probolinggo",
+      "province": "Jawa Timur",
+      "area_km2": 56.67,
+      "population_2023": 211142,
+      "density_per_km2": 3726
+    },
+    {
+      "city": "Tebing Tinggi",
+      "province": "Sumatera Utara",
+      "area_km2": 38.44,
+      "population_2023": 134548,
+      "density_per_km2": 3500
+    },
+    {
+      "city": "Tasikmalaya",
+      "province": "Jawa Barat",
+      "area_km2": 171.56,
+      "population_2023": 582423,
+      "density_per_km2": 3395
+    },
+    {
+      "city": "Palembang",
+      "province": "Sumatera Selatan",
+      "area_km2": 400.61,
+      "population_2023": 1342258,
+      "density_per_km2": 3351
+    },
+    {
+      "city": "Sibolga",
+      "province": "Sumatera Utara",
+      "area_km2": 27.78,
+      "population_2023": 90489,
+      "density_per_km2": 3257
+    },
+    {
+      "city": "Serang",
+      "province": "Banten",
+      "area_km2": 266.74,
+      "population_2023": 613356,
+      "density_per_km2": 2299
+    },
+    {
+      "city": "Salatiga",
+      "province": "Jawa Tengah",
+      "area_km2": 56.78,
+      "population_2023": 165394,
+      "density_per_km2": 2913
+    },
+    {
+      "city": "Banda Aceh",
+      "province": "Aceh",
+      "area_km2": 61.36,
+      "population_2023": 177881,
+      "density_per_km2": 2899
+    },
+    {
+      "city": "Pematangsiantar",
+      "province": "Sumatera Utara",
+      "area_km2": 79.97,
+      "population_2023": 229525,
+      "density_per_km2": 2870
+    },
+    {
+      "city": "Binjai",
+      "province": "Sumatera Utara",
+      "area_km2": 90.24,
+      "population_2023": 238209,
+      "density_per_km2": 2640
+    },
+    {
+      "city": "Manado",
+      "province": "Sulawesi Utara",
+      "area_km2": 157.25,
+      "population_2023": 405715,
+      "density_per_km2": 2580
+    },
+    {
+      "city": "Tanjung Balai",
+      "province": "Sumatera Utara",
+      "area_km2": 60.52,
+      "population_2023": 178675,
+      "density_per_km2": 3387
+    },
+    {
+      "city": "Gorontalo",
+      "province": "Gorontalo",
+      "area_km2": 64.79,
+      "population_2023": 153036,
+      "density_per_km2": 2362
+    },
+    {
+      "city": "Padang Panjang",
+      "province": "Sumatera Barat",
+      "area_km2": 19.89,
+      "population_2023": 45439,
+      "density_per_km2": 2285
+    },
+    {
+      "city": "Jambi",
+      "province": "Jambi",
+      "area_km2": 205.38,
+      "population_2023": 633650,
+      "density_per_km2": 3085
+    },
+    {
+      "city": "Metro",
+      "province": "Lampung",
+      "area_km2": 68.74,
+      "population_2023": 127569,
+      "density_per_km2": 1856
+    },
+    {
+      "city": "Cilegon",
+      "province": "Banten",
+      "area_km2": 175.5,
+      "population_2023": 324143,
+      "density_per_km2": 1847
+    },
+    {
+      "city": "Bengkulu",
+      "province": "Bengkulu",
+      "area_km2": 151.7,
+      "population_2023": 257763,
+      "density_per_km2": 1699
+    },
+    {
+      "city": "Kupang",
+      "province": "Nusa Tenggara Timur",
+      "area_km2": 160.34,
+      "population_2023": 269680,
+      "density_per_km2": 1682
+    },
+    {
+      "city": "Pangkalpinang",
+      "province": "Bangka Belitung",
+      "area_km2": 89.4,
+      "population_2023": 145945,
+      "density_per_km2": 1632
+    },
+    {
+      "city": "Padang Sidempuan",
+      "province": "Sumatera Utara",
+      "area_km2": 114.65,
+      "population_2023": 178148,
+      "density_per_km2": 1554
+    },
+    {
+      "city": "Banjar",
+      "province": "Jawa Barat",
+      "area_km2": 113.49,
+      "population_2023": 162383,
+      "density_per_km2": 1431
+    },
+    {
+      "city": "Kendari",
+      "province": "Sulawesi Tenggara",
+      "area_km2": 295.89,
+      "population_2023": 345107,
+      "density_per_km2": 1355
+    },
+    {
+      "city": "Balikpapan",
+      "province": "Kalimantan Timur",
+      "area_km2": 503.3,
+      "population_2023": 738532,
+      "density_per_km2": 1328
+    },
+    {
+      "city": "Payakumbuh",
+      "province": "Sumatera Barat",
+      "area_km2": 80.43,
+      "population_2023": 101819,
+      "density_per_km2": 1266
+    },
+    {
+      "city": "Padang",
+      "province": "Sumatera Barat",
+      "area_km2": 694.96,
+      "population_2023": 799741,
+      "density_per_km2": 1151
+    },
+    {
+      "city": "Kotamobagu",
+      "province": "Sulawesi Utara",
+      "area_km2": 108.89,
+      "population_2023": 123918,
+      "density_per_km2": 1147
+    },
+    {
+      "city": "Pare-pare",
+      "province": "Sulawesi Selatan",
+      "area_km2": 99.33,
+      "population_2023": 112625,
+      "density_per_km2": 1134
+    },
+    {
+      "city": "Pakanbaru",
+      "province": "Riau",
+      "area_km2": 633.01,
+      "population_2023": 717618,
+      "density_per_km2": 1134
+    },
+    {
+      "city": "Pariaman",
+      "province": "Sumatera Barat",
+      "area_km2": 73.54,
+      "population_2023": 70032,
+      "density_per_km2": 952
+    },
+    {
+      "city": "Solok",
+      "province": "Sumatera Barat",
+      "area_km2": 57.64,
+      "population_2023": 54049,
+      "density_per_km2": 938
+    },
+    {
+      "city": "Batu",
+      "province": "Jawa Timur",
+      "area_km2": 199.09,
+      "population_2023": 179092,
+      "density_per_km2": 900
+    },
+    {
+      "city": "Batam",
+      "province": "Kepulauan Riau",
+      "area_km2": 715,
+      "population_2023": 1025044,
+      "density_per_km2": 862
+    },
+    {
+      "city": "Lhokseumawe",
+      "province": "Aceh",
+      "area_km2": 181.1,
+      "population_2023": 154634,
+      "density_per_km2": 854
+    },
+    {
+      "city": "Palopo",
+      "province": "Sulawesi Selatan",
+      "area_km2": 155.19,
+      "population_2023": 129273,
+      "density_per_km2": 833
+    },
+    {
+      "city": "Samarinda",
+      "province": "Kalimantan Timur",
+      "area_km2": 718,
+      "population_2023": 861878,
+      "density_per_km2": 800
+    },
+    {
+      "city": "Palu",
+      "province": "Sulawesi Tengah",
+      "area_km2": 395.06,
+      "population_2023": 291872,
+      "density_per_km2": 739
+    },
+    {
+      "city": "Tomohon",
+      "province": "Sulawesi Utara",
+      "area_km2": 114.2,
+      "population_2023": 80649,
+      "density_per_km2": 706
+    },
+    {
+      "city": "Ambon",
+      "province": "Maluku",
+      "area_km2": 359.45,
+      "population_2023": 233819,
+      "density_per_km2": 650
+    },
+    {
+      "city": "Ternate",
+      "province": "Maluku Utara",
+      "area_km2": 250.85,
+      "population_2023": 156735,
+      "density_per_km2": 625
+    },
+    {
+      "city": "Tarakan",
+      "province": "Kalimantan Utara",
+      "area_km2": 250.8,
+      "population_2023": 155716,
+      "density_per_km2": 621
+    },
+    {
+      "city": "Bima",
+      "province": "Nusa Tenggara Barat",
+      "area_km2": 222.25,
+      "population_2023": 123064,
+      "density_per_km2": 554
+    },
+    {
+      "city": "Bitung",
+      "province": "Sulawesi Utara",
+      "area_km2": 304,
+      "population_2023": 163837,
+      "density_per_km2": 539
+    },
+    {
+      "city": "Bau-bau",
+      "province": "Sulawesi Tenggara",
+      "area_km2": 221,
+      "population_2023": 118998,
+      "density_per_km2": 538
+    },
+    {
+      "city": "Langsa",
+      "province": "Aceh",
+      "area_km2": 262.41,
+      "population_2023": 137586,
+      "density_per_km2": 524
+    },
+    {
+      "city": "Gunungsitoli",
+      "province": "Sumatera Utara",
+      "area_km2": 284.78,
+      "population_2023": 137104,
+      "density_per_km2": 481
+    },
+    {
+      "city": "Lubuk Linggau",
+      "province": "Sumatera Selatan",
+      "area_km2": 401.5,
+      "population_2023": 174472,
+      "density_per_km2": 435
+    },
+    {
+      "city": "Banjarbaru",
+      "province": "Kalimantan Selatan",
+      "area_km2": 371.3,
+      "population_2023": 152839,
+      "density_per_km2": 412
+    },
+    {
+      "city": "Singkawang",
+      "province": "Kalimantan Barat",
+      "area_km2": 504,
+      "population_2023": 242146,
+      "density_per_km2": 333
+    },
+    {
+      "city": "Tual",
+      "province": "Maluku",
+      "area_km2": 254.39,
+      "population_2023": 82955,
+      "density_per_km2": 326
+    },
+    {
+      "city": "Prabumulih",
+      "province": "Sumatera Selatan",
+      "area_km2": 434.5,
+      "population_2023": 129201,
+      "density_per_km2": 297
+    },
+    {
+      "city": "Sungaipenuh",
+      "province": "Jambi",
+      "area_km2": 391.5,
+      "population_2023": 101325,
+      "density_per_km2": 258
+    },
+    {
+      "city": "Bontang",
+      "province": "Kalimantan Timur",
+      "area_km2": 497.57,
+      "population_2023": 120348,
+      "density_per_km2": 242
+    },
+    {
+      "city": "Tanjung Pinang",
+      "province": "Kepulauan Riau",
+      "area_km2": 131.54,
+      "population_2023": 167958,
+      "density_per_km2": 240
+    },
+    {
+      "city": "Jayapura",
+      "province": "Papua",
+      "area_km2": 940,
+      "population_2023": 197396,
+      "density_per_km2": 210
+    },
+    {
+      "city": "Pagar Alam",
+      "province": "Sumatera Selatan",
+      "area_km2": 633.66,
+      "population_2023": 123674,
+      "density_per_km2": 195
+    },
+    {
+      "city": "Sabang",
+      "province": "Aceh",
+      "area_km2": 153,
+      "population_2023": 28597,
+      "density_per_km2": 187
+    },
+    {
+      "city": "Sawahlunto",
+      "province": "Sumatera Barat",
+      "area_km2": 273.45,
+      "population_2023": 54054,
+      "density_per_km2": 18
+    },
+    {
+      "city": "Sorong",
+      "province": "Papua Barat Daya",
+      "area_km2": 1105,
+      "population_2023": 146390,
+      "density_per_km2": 132
+    },
+    {
+      "city": "Dumai",
+      "province": "Riau",
+      "area_km2": 2039,
+      "population_2023": 218643,
+      "density_per_km2": 107
+    },
+    {
+      "city": "Palangka Raya",
+      "province": "Kalimantan Tengah",
+      "area_km2": 2400,
+      "population_2023": 170761,
+      "density_per_km2": 71
+    },
+    {
+      "city": "Subulussalam",
+      "province": "Aceh",
+      "area_km2": 1391,
+      "population_2023": 78801,
+      "density_per_km2": 56
+    },
+    {
+      "city": "Tidore Kepulauan",
+      "province": "Maluku Utara",
+      "area_km2": 1550.37,
+      "population_2023": 78025,
+      "density_per_km2": 8
+    }
+  ],
+  "meta": {
+    "title": "Daftar Kota di Indonesia menurut Kepadatan Penduduk - Free Download",
+    "description": "Daftar kota (kotamadya) di Indonesia diurutkan menurut kepadatan penduduk per km², dengan provinsi, luas wilayah, dan jumlah penduduk tahun 2023. Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Kota di Indonesia menurut Kepadatan Penduduk | ListBase",
+    "seo_description": "Download Daftar Kota di Indonesia menurut Kepadatan Penduduk — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_kepadatan_penduduk"
+    ]
+  }
+}
