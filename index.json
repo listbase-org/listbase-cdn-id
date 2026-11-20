@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-20T02:16:40.838Z",
-  "total_datasets": 665,
-  "total_records": 661004,
+  "generated": "2026-11-20T02:16:49.437Z",
+  "total_datasets": 666,
+  "total_records": 661042,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 135
+      "dataset_count": 136
     },
     {
       "id": "health",
@@ -6354,6 +6354,32 @@
         "xlsx": {
           "name": "id-sumatera-utara-regencies-detailed_ID.xlsx",
           "size": 9445
+        }
+      }
+    },
+    {
+      "id": "id-titik-tertinggi-per-provinsi",
+      "name": "Titik Tertinggi di Setiap Provinsi Indonesia",
+      "category": "geography",
+      "record_count": 38,
+      "columns": [
+        "rank",
+        "province",
+        "peak",
+        "elevation_m",
+        "elevation_ft"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_titik_tertinggi",
+      "updated": "2026-11",
+      "size": 7692,
+      "files": {
+        "csv": {
+          "name": "id-titik-tertinggi-per-provinsi_ID.csv",
+          "size": 2103
+        },
+        "xlsx": {
+          "name": "id-titik-tertinggi-per-provinsi_ID.xlsx",
+          "size": 8442
         }
       }
     },

@@ -1,0 +1,317 @@
+{
+  "id": "id-titik-tertinggi-per-provinsi",
+  "name": "Titik Tertinggi di Setiap Provinsi Indonesia",
+  "title": "Titik Tertinggi di Setiap Provinsi Indonesia",
+  "description": "Daftar puncak tertinggi di masing-masing dari 38 provinsi Indonesia beserta ketinggiannya dalam meter dan kaki, diurutkan dari yang tertinggi.",
+  "category": "geography",
+  "source": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_titik_tertinggi",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_titik_tertinggi",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "peak",
+      "label": "Peak",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "province": "Papua Tengah",
+      "peak": "Puncak Jaya",
+      "elevation_m": 4884,
+      "elevation_ft": 16024
+    },
+    {
+      "rank": 2,
+      "province": "Papua Pegunungan",
+      "peak": "Puncak Mandala",
+      "elevation_m": 4760,
+      "elevation_ft": 15620
+    },
+    {
+      "rank": 3,
+      "province": "Sumatera Barat dan Jambi",
+      "peak": "Gunung Kerinci",
+      "elevation_m": 3805,
+      "elevation_ft": 12480
+    },
+    {
+      "rank": 4,
+      "province": "Nusa Tenggara Barat",
+      "peak": "Gunung Rinjani",
+      "elevation_m": 3726,
+      "elevation_ft": 12224
+    },
+    {
+      "rank": 5,
+      "province": "Jawa Timur",
+      "peak": "Gunung Semeru",
+      "elevation_m": 3676,
+      "elevation_ft": 12060
+    },
+    {
+      "rank": 6,
+      "province": "Sulawesi Selatan",
+      "peak": "Gunung Latimojong",
+      "elevation_m": 3478,
+      "elevation_ft": 11411
+    },
+    {
+      "rank": 7,
+      "province": "Aceh",
+      "peak": "Puncak tanpa nama di Gunung Leuser",
+      "elevation_m": 3466,
+      "elevation_ft": 11371
+    },
+    {
+      "rank": 8,
+      "province": "Jawa Tengah",
+      "peak": "Gunung Slamet",
+      "elevation_m": 3432,
+      "elevation_ft": 11260
+    },
+    {
+      "rank": 9,
+      "province": "Sumatera Selatan",
+      "peak": "Gunung Dempo",
+      "elevation_m": 3173,
+      "elevation_ft": 10410
+    },
+    {
+      "rank": 10,
+      "province": "Jawa Barat",
+      "peak": "Gunung Cereme",
+      "elevation_m": 3078,
+      "elevation_ft": 10098
+    },
+    {
+      "rank": 11,
+      "province": "Sulawesi Barat",
+      "peak": "Gunung Gandangdewata",
+      "elevation_m": 3074,
+      "elevation_ft": 10085
+    },
+    {
+      "rank": 12,
+      "province": "Bali",
+      "peak": "Gunung Agung",
+      "elevation_m": 3031,
+      "elevation_ft": 9944
+    },
+    {
+      "rank": 13,
+      "province": "Sulawesi Tengah",
+      "peak": "Gunung Sojol",
+      "elevation_m": 3030,
+      "elevation_ft": 9940
+    },
+    {
+      "rank": 14,
+      "province": "Maluku",
+      "peak": "Gunung Binaiya",
+      "elevation_m": 3027,
+      "elevation_ft": 9931
+    },
+    {
+      "rank": 15,
+      "province": "Papua Barat",
+      "peak": "Gunung Arfak",
+      "elevation_m": 2955,
+      "elevation_ft": 9695
+    },
+    {
+      "rank": 16,
+      "province": "Yogyakarta",
+      "peak": "Gunung Merapi",
+      "elevation_m": 2910,
+      "elevation_ft": 9550
+    },
+    {
+      "rank": 17,
+      "province": "Bengkulu",
+      "peak": "Gunung Patah",
+      "elevation_m": 2852,
+      "elevation_ft": 9357
+    },
+    {
+      "rank": 18,
+      "province": "Sulawesi Tenggara",
+      "peak": "Gunung Mekongga",
+      "elevation_m": 2620,
+      "elevation_ft": 8596
+    },
+    {
+      "rank": 19,
+      "province": "Papua Barat Daya",
+      "peak": "Bon Irau",
+      "elevation_m": 2501,
+      "elevation_ft": 8205
+    },
+    {
+      "rank": 20,
+      "province": "Sumatera Utara",
+      "peak": "Gunung Sinabung",
+      "elevation_m": 2460,
+      "elevation_ft": 8070
+    },
+    {
+      "rank": 21,
+      "province": "Nusa Tenggara Timur",
+      "peak": "Gunung Mutis",
+      "elevation_m": 2427,
+      "elevation_ft": 7963
+    },
+    {
+      "rank": 22,
+      "province": "Kalimantan Tengah",
+      "peak": "Bukit Raya",
+      "elevation_m": 2278,
+      "elevation_ft": 7474
+    },
+    {
+      "rank": 23,
+      "province": "Lampung",
+      "peak": "Gunung Pesagi",
+      "elevation_m": 2262,
+      "elevation_ft": 7421
+    },
+    {
+      "rank": 24,
+      "province": "Kalimantan Utara",
+      "peak": "Batu Jumak",
+      "elevation_m": 2250,
+      "elevation_ft": 7382
+    },
+    {
+      "rank": 25,
+      "province": "Kalimantan Timur",
+      "peak": "Gunung Liangpran",
+      "elevation_m": 2240,
+      "elevation_ft": 7349
+    },
+    {
+      "rank": 26,
+      "province": "Gorontalo",
+      "peak": "Gunung Tentolomatinan",
+      "elevation_m": 2207,
+      "elevation_ft": 7241
+    },
+    {
+      "rank": 27,
+      "province": "Papua",
+      "peak": "Pegunungan Foja",
+      "elevation_m": 2193,
+      "elevation_ft": 7195
+    },
+    {
+      "rank": 28,
+      "province": "Maluku Utara",
+      "peak": "Buku Sibela",
+      "elevation_m": 2111,
+      "elevation_ft": 6926
+    },
+    {
+      "rank": 29,
+      "province": "Kalimantan Barat",
+      "peak": "Lereng Bukit Raya",
+      "elevation_m": 2086,
+      "elevation_ft": 6844
+    },
+    {
+      "rank": 30,
+      "province": "Sulawesi Utara",
+      "peak": "Gunung Klabat",
+      "elevation_m": 1995,
+      "elevation_ft": 6545
+    },
+    {
+      "rank": 31,
+      "province": "Banten",
+      "peak": "Gunung Halimun",
+      "elevation_m": 1929,
+      "elevation_ft": 6329
+    },
+    {
+      "rank": 32,
+      "province": "Kalimantan Selatan",
+      "peak": "Gunung Halau-halau",
+      "elevation_m": 1892,
+      "elevation_ft": 6207
+    },
+    {
+      "rank": 33,
+      "province": "Riau",
+      "peak": "Gunung Mandiangin",
+      "elevation_m": 1284,
+      "elevation_ft": 4213
+    },
+    {
+      "rank": 34,
+      "province": "Kepulauan Riau",
+      "peak": "Gunung Daik",
+      "elevation_m": 1165,
+      "elevation_ft": 3822
+    },
+    {
+      "rank": 35,
+      "province": "Bangka-Belitung",
+      "peak": "Gunung Maras",
+      "elevation_m": 699,
+      "elevation_ft": 2293
+    },
+    {
+      "rank": 36,
+      "province": "Nusantara",
+      "peak": "Gunung Parung",
+      "elevation_m": 687,
+      "elevation_ft": 2254
+    },
+    {
+      "rank": 37,
+      "province": "Papua Selatan",
+      "peak": "Lereng Pegunungan Bintang",
+      "elevation_m": 310,
+      "elevation_ft": 1017
+    },
+    {
+      "rank": 38,
+      "province": "Jakarta",
+      "peak": "BUPERTA Cibubur atau Titik 0 Jalan Transyogi (Cibubur - Jonggol), 6°22'09.2\"S 106°54'04.2\"E",
+      "elevation_m": 91,
+      "elevation_ft": 299
+    }
+  ],
+  "meta": {
+    "title": "Titik Tertinggi di Setiap Provinsi Indonesia - Free Download",
+    "description": "Daftar puncak tertinggi di masing-masing dari 38 provinsi Indonesia beserta ketinggiannya dalam meter dan kaki, diurutkan dari yang tertinggi. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Titik Tertinggi di Setiap Provinsi Indonesia | ListBase",
+    "seo_description": "Download Titik Tertinggi di Setiap Provinsi Indonesia — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_provinsi_di_Indonesia_menurut_titik_tertinggi"
+    ]
+  }
+}
