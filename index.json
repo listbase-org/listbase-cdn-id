@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-20T02:16:32.105Z",
-  "total_datasets": 664,
-  "total_records": 660490,
+  "generated": "2026-11-20T02:16:40.838Z",
+  "total_datasets": 665,
+  "total_records": 661004,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -6906,6 +6906,34 @@
         "xlsx": {
           "name": "id-gubernur-jenderal-hindia-belanda_ID.xlsx",
           "size": 15487
+        }
+      }
+    },
+    {
+      "id": "id-kabupaten-kota-menurut-waktu-pembentukan",
+      "name": "Kabupaten dan Kota di Indonesia Menurut Waktu Pembentukan",
+      "category": "history",
+      "record_count": 514,
+      "columns": [
+        "province",
+        "kemendagri_code",
+        "name",
+        "type",
+        "law",
+        "date_enacted",
+        "districts"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia_menurut_waktu_pembentukan",
+      "updated": "2026-11",
+      "size": 133753,
+      "files": {
+        "csv": {
+          "name": "id-kabupaten-kota-menurut-waktu-pembentukan_ID.csv",
+          "size": 58679
+        },
+        "xlsx": {
+          "name": "id-kabupaten-kota-menurut-waktu-pembentukan_ID.xlsx",
+          "size": 28576
         }
       }
     },
