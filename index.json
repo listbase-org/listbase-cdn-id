@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-19T02:27:27.006Z",
-  "total_datasets": 663,
-  "total_records": 659976,
+  "generated": "2026-11-20T02:16:32.105Z",
+  "total_datasets": 664,
+  "total_records": 660490,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -15577,6 +15577,32 @@
         "xlsx": {
           "name": "science-solubility-rules_ID.xlsx",
           "size": 9055
+        }
+      }
+    },
+    {
+      "id": "id-ipm-kabupaten-kota-2021",
+      "name": "Indeks Pembangunan Manusia (IPM) Kabupaten/Kota di Indonesia 2021",
+      "category": "society",
+      "record_count": 514,
+      "columns": [
+        "rank_2021",
+        "name",
+        "province",
+        "hdi_2021",
+        "change_from_2020"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia_menurut_IPM",
+      "updated": "2026-11",
+      "size": 86077,
+      "files": {
+        "csv": {
+          "name": "id-ipm-kabupaten-kota-2021_ID.csv",
+          "size": 29648
+        },
+        "xlsx": {
+          "name": "id-ipm-kabupaten-kota-2021_ID.xlsx",
+          "size": 24934
         }
       }
     },

@@ -1,0 +1,3649 @@
+{
+  "id": "id-ipm-kabupaten-kota-2021",
+  "name": "Indeks Pembangunan Manusia (IPM) Kabupaten/Kota di Indonesia 2021",
+  "title": "Indeks Pembangunan Manusia (IPM) Kabupaten/Kota di Indonesia 2021",
+  "description": "Peringkat Indeks Pembangunan Manusia (IPM) seluruh kabupaten dan kota di Indonesia tahun 2021 menurut data BPS, beserta provinsi dan perubahan nilai IPM dari tahun 2020.",
+  "category": "society",
+  "source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia_menurut_IPM",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia_menurut_IPM",
+  "updated": "2026-11",
+  "record_count": 514,
+  "columns": [
+    {
+      "key": "rank_2021",
+      "label": "Rank 2021",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "hdi_2021",
+      "label": "Hdi 2021",
+      "type": "number"
+    },
+    {
+      "key": "change_from_2020",
+      "label": "Change From 2020",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank_2021": 1,
+      "name": "Kota Yogyakarta",
+      "province": "Daerah Istimewa Yogyakarta",
+      "hdi_2021": 89.1,
+      "change_from_2020": 0.57
+    },
+    {
+      "rank_2021": 2,
+      "name": "Kota Banda Aceh",
+      "province": "Aceh",
+      "hdi_2021": 85.71,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 3,
+      "name": "Kota Jakarta Selatan",
+      "province": "DKI Jakarta",
+      "hdi_2021": 81.9,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 4,
+      "name": "Kota Kendari",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 84.15,
+      "change_from_2020": 0.62
+    },
+    {
+      "rank_2021": 5,
+      "name": "Kota Denpasar",
+      "province": "Bali",
+      "hdi_2021": 84.03,
+      "change_from_2020": 0.1
+    },
+    {
+      "rank_2021": 6,
+      "name": "Kabupaten Sleman",
+      "province": "Daerah Istimewa Yogyakarta",
+      "hdi_2021": 84,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 7,
+      "name": "Kota Salatiga",
+      "province": "Jawa Tengah",
+      "hdi_2021": 83.6,
+      "change_from_2020": 0.46
+    },
+    {
+      "rank_2021": 8,
+      "name": "Kota Semarang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 83.55,
+      "change_from_2020": 0.5
+    },
+    {
+      "rank_2021": 9,
+      "name": "Kota Jakarta Timur",
+      "province": "DKI Jakarta",
+      "hdi_2021": 82.97,
+      "change_from_2020": 0.31
+    },
+    {
+      "rank_2021": 10,
+      "name": "Kota Padang",
+      "province": "Sumatera Barat",
+      "hdi_2021": 82.9,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 11,
+      "name": "Kota Makassar",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 82.66,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 12,
+      "name": "Kota Surakarta",
+      "province": "Jawa Tengah",
+      "hdi_2021": 82.62,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 13,
+      "name": "Kota Surabaya",
+      "province": "Jawa Timur",
+      "hdi_2021": 82.31,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 14,
+      "name": "Kota Malang",
+      "province": "Jawa Timur",
+      "hdi_2021": 82.04,
+      "change_from_2020": 0.59
+    },
+    {
+      "rank_2021": 15,
+      "name": "Kota Bandung",
+      "province": "Jawa Barat",
+      "hdi_2021": 81.96,
+      "change_from_2020": 0.45
+    },
+    {
+      "rank_2021": 16,
+      "name": "Kota Bekasi",
+      "province": "Jawa Barat",
+      "hdi_2021": 81.95,
+      "change_from_2020": 0.45
+    },
+    {
+      "rank_2021": 17,
+      "name": "Kabupaten Badung",
+      "province": "Bali",
+      "hdi_2021": 81.83,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 18,
+      "name": "Kota Jakarta Barat",
+      "province": "DKI Jakarta",
+      "hdi_2021": 81.76,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 19,
+      "name": "Kota Palu",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 81.7,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 20,
+      "name": "Kota Tangerang Selatan",
+      "province": "Banten",
+      "hdi_2021": 81.6,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 21,
+      "name": "Kota Pekanbaru",
+      "province": "Riau",
+      "hdi_2021": 81.58,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 22,
+      "name": "Kota Jakarta Pusat",
+      "province": "DKI Jakarta",
+      "hdi_2021": 81.56,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 23,
+      "name": "Kota Depok",
+      "province": "Jawa Barat",
+      "hdi_2021": 81.37,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 24,
+      "name": "Kota Madiun",
+      "province": "Jawa Timur",
+      "hdi_2021": 81.25,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 25,
+      "name": "Kota Ambon",
+      "province": "Maluku",
+      "hdi_2021": 81.23,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 26,
+      "name": "Kota Medan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 81.21,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 27,
+      "name": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 81.12,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 28,
+      "name": "Kota Palangka Raya",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 80.82,
+      "change_from_2020": 0.05
+    },
+    {
+      "rank_2021": 29,
+      "name": "Kota Samarinda",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 80.76,
+      "change_from_2020": 0.65
+    },
+    {
+      "rank_2021": 30,
+      "name": "Kota Balikpapan",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 80.71,
+      "change_from_2020": 0.7
+    },
+    {
+      "rank_2021": 31,
+      "name": "Kota Bukittinggi",
+      "province": "Sumatera Barat",
+      "hdi_2021": 80.7,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 32,
+      "name": "Kabupaten Sidoarjo",
+      "province": "Jawa Timur",
+      "hdi_2021": 80.65,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 33,
+      "name": "Kota Bontang",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 80.59,
+      "change_from_2020": 0.57
+    },
+    {
+      "rank_2021": 34,
+      "name": "Kota Bengkulu",
+      "province": "Bengkulu",
+      "hdi_2021": 80.54,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 35,
+      "name": "Kota Jakarta Utara",
+      "province": "DKI Jakarta",
+      "hdi_2021": 80.51,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 36,
+      "name": "Kabupaten Bantul",
+      "province": "Daerah Istimewa Yogyakarta",
+      "hdi_2021": 80.28,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 37,
+      "name": "Kota Ternate",
+      "province": "Maluku Utara",
+      "hdi_2021": 80.14,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 38,
+      "name": "Kota Jayapura",
+      "province": "Papua",
+      "hdi_2021": 80.11,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 39,
+      "name": "Kota Pontianak",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 79.93,
+      "change_from_2020": 0.49
+    },
+    {
+      "rank_2021": 40,
+      "name": "Kota Kupang",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 79.74,
+      "change_from_2020": 0.03
+    },
+    {
+      "rank_2021": 41,
+      "name": "Kota Magelang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 79.43,
+      "change_from_2020": 0.44
+    },
+    {
+      "rank_2021": 42,
+      "name": "Kota Banjarbaru",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 79.26,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 43,
+      "name": "Kota Manado",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 79.2,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 44,
+      "name": "Kota Pematangsiantar",
+      "province": "Sumatera Utara",
+      "hdi_2021": 79.17,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 45,
+      "name": "Kota Mataram",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 79.14,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 46,
+      "name": "Kota Jambi",
+      "province": "Jambi",
+      "hdi_2021": 79.12,
+      "change_from_2020": 0.75
+    },
+    {
+      "rank_2021": 47,
+      "name": "Kota Payakumbuh",
+      "province": "Sumatera Barat",
+      "hdi_2021": 79.08,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 48,
+      "name": "Kota Blitar",
+      "province": "Jawa Timur",
+      "hdi_2021": 78.98,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 49,
+      "name": "Kota Tanjung Pinang",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 78.93,
+      "change_from_2020": 0.02
+    },
+    {
+      "rank_2021": 50,
+      "name": "Kota Palembang",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 78.72,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 51,
+      "name": "Kota Kediri",
+      "province": "Jawa Timur",
+      "hdi_2021": 78.6,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 52,
+      "name": "Kota Pangkal Pinang",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 78.57,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 53,
+      "name": "Kota Tangerang",
+      "province": "Banten",
+      "hdi_2021": 78.5,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 54,
+      "name": "Kota Sorong",
+      "province": "Papua Barat",
+      "hdi_2021": 78.49,
+      "change_from_2020": 0.04
+    },
+    {
+      "rank_2021": 55,
+      "name": "Kota Mojokerto",
+      "province": "Jawa Timur",
+      "hdi_2021": 78.43,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 56,
+      "name": "Kota Solok",
+      "province": "Sumatera Barat",
+      "hdi_2021": 78.41,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 57,
+      "name": "Kota Palopo",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 78.38,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 58,
+      "name": "Kota Parepare",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 78.21,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 59,
+      "name": "Kota Cimahi",
+      "province": "Jawa Barat",
+      "hdi_2021": 78.06,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 60,
+      "name": "Kota Padang Panjang",
+      "province": "Sumatera Barat",
+      "hdi_2021": 77.97,
+      "change_from_2020": 0.04
+    },
+    {
+      "rank_2021": 61,
+      "name": "Kabupaten Gianyar",
+      "province": "Bali",
+      "hdi_2021": 77.7,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 62,
+      "name": "Kota Bandar Lampung",
+      "province": "Lampung",
+      "hdi_2021": 77.58,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 63,
+      "name": "Kota Lhokseumawe",
+      "province": "Aceh",
+      "hdi_2021": 77.57,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 63,
+      "name": "Kota Banjarmasin",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 77.57,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 65,
+      "name": "Kota Metro",
+      "province": "Lampung",
+      "hdi_2021": 77.49,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 66,
+      "name": "Kota Langsa",
+      "province": "Aceh",
+      "hdi_2021": 77.44,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 67,
+      "name": "Kota Gorontalo",
+      "province": "Gorontalo",
+      "hdi_2021": 77.41,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 68,
+      "name": "Kabupaten Sukoharjo",
+      "province": "Jawa Tengah",
+      "hdi_2021": 77.13,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 69,
+      "name": "Kota Pariaman",
+      "province": "Sumatera Barat",
+      "hdi_2021": 77.07,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 70,
+      "name": "Kota Tomohon",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 76.86,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 71,
+      "name": "Kota Bogor",
+      "province": "Jawa Barat",
+      "hdi_2021": 76.59,
+      "change_from_2020": 0.48
+    },
+    {
+      "rank_2021": 72,
+      "name": "Kabupaten Gresik",
+      "province": "Jawa Timur",
+      "hdi_2021": 76.5,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 73,
+      "name": "Kabupaten Tabanan",
+      "province": "Bali",
+      "hdi_2021": 76.45,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 74,
+      "name": "Kota Batu",
+      "province": "Jawa Timur",
+      "hdi_2021": 76.28,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 75,
+      "name": "Kota Baubau",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 76.26,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 76,
+      "name": "Kota Tarakan",
+      "province": "Kalimantan Utara",
+      "hdi_2021": 76.23,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 77,
+      "name": "Kabupaten Klaten",
+      "province": "Jawa Tengah",
+      "hdi_2021": 76.12,
+      "change_from_2020": 0.56
+    },
+    {
+      "rank_2021": 78,
+      "name": "Kota Bima",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 76.11,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 78,
+      "name": "Kota Sabang",
+      "province": "Aceh",
+      "hdi_2021": 76.11,
+      "change_from_2020": 0.33
+    },
+    {
+      "rank_2021": 80,
+      "name": "Kota Binjai",
+      "province": "Sumatera Utara",
+      "hdi_2021": 76.01,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 81,
+      "name": "Kabupaten Karanganyar",
+      "province": "Jawa Tengah",
+      "hdi_2021": 75.99,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 82,
+      "name": "Kabupaten Minahasa",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 75.73,
+      "change_from_2020": 0.44
+    },
+    {
+      "rank_2021": 83,
+      "name": "Kota Sungai Penuh",
+      "province": "Jambi",
+      "hdi_2021": 75.7,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 84,
+      "name": "Kota Pasuruan",
+      "province": "Jawa Timur",
+      "hdi_2021": 75.62,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 85,
+      "name": "Kabupaten Deli Serdang",
+      "province": "Sumatera Utara",
+      "hdi_2021": 75.53,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 86,
+      "name": "Kota Tegal",
+      "province": "Jawa Tengah",
+      "hdi_2021": 75.52,
+      "change_from_2020": 0.45
+    },
+    {
+      "rank_2021": 87,
+      "name": "Kota Padangsidimpuan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 75.48,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 88,
+      "name": "Kota Tebing Tinggi",
+      "province": "Sumatera Utara",
+      "hdi_2021": 75.42,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 89,
+      "name": "Kota Pekalongan",
+      "province": "Jawa Tengah",
+      "hdi_2021": 75.4,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 90,
+      "name": "Kabupaten Toba Samosir",
+      "province": "Sumatera Utara",
+      "hdi_2021": 75.39,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 91,
+      "name": "Kota Cirebon",
+      "province": "Jawa Barat",
+      "hdi_2021": 75.25,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 92,
+      "name": "Kabupaten Berau",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 75.2,
+      "change_from_2020": 0.49
+    },
+    {
+      "rank_2021": 93,
+      "name": "Kabupaten Kudus",
+      "province": "Jawa Tengah",
+      "hdi_2021": 75.16,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 94,
+      "name": "Kota Lubuk Linggau",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 74.89,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 95,
+      "name": "Kabupaten Karo",
+      "province": "Sumatera Utara",
+      "hdi_2021": 74.83,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 96,
+      "name": "Kota Dumai",
+      "province": "Riau",
+      "hdi_2021": 74.75,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 97,
+      "name": "Kabupaten Kulon Progo",
+      "province": "Daerah Istimewa Yogyakarta",
+      "hdi_2021": 74.71,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 98,
+      "name": "Kota Prabumulih",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 74.67,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 99,
+      "name": "Kota Sukabumi",
+      "province": "Jawa Barat",
+      "hdi_2021": 74.6,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 100,
+      "name": "Kabupaten Bintan",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 74.57,
+      "change_from_2020": 0.44
+    },
+    {
+      "rank_2021": 101,
+      "name": "Kabupaten Mimika",
+      "province": "Papua",
+      "hdi_2021": 74.48,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 102,
+      "name": "Kabupaten Bekasi",
+      "province": "Jawa Barat",
+      "hdi_2021": 74.45,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 103,
+      "name": "Kabupaten Boyolali",
+      "province": "Jawa Tengah",
+      "hdi_2021": 74.4,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 104,
+      "name": "Kabupaten Semarang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 74.24,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 105,
+      "name": "Kota Bitung",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 74.2,
+      "change_from_2020": 0.1
+    },
+    {
+      "rank_2021": 106,
+      "name": "Kabupaten Magetan",
+      "province": "Jawa Timur",
+      "hdi_2021": 74.15,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 106,
+      "name": "Kabupaten Mojokerto",
+      "province": "Jawa Timur",
+      "hdi_2021": 74.15,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 108,
+      "name": "Kabupaten Minahasa Utara",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 74.11,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 109,
+      "name": "Kabupaten Sragen",
+      "province": "Jawa Tengah",
+      "hdi_2021": 74.08,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 110,
+      "name": "Kabupaten Kutai Kartanegara",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 74.06,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 111,
+      "name": "Kabupaten Siak",
+      "province": "Riau",
+      "hdi_2021": 73.98,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 112,
+      "name": "Kota Sibolga",
+      "province": "Sumatera Utara",
+      "hdi_2021": 73.94,
+      "change_from_2020": 0.31
+    },
+    {
+      "rank_2021": 113,
+      "name": "Kabupaten Kutai Timur",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 73.81,
+      "change_from_2020": 0.81
+    },
+    {
+      "rank_2021": 114,
+      "name": "Kabupaten Tapanuli Utara",
+      "province": "Sumatera Utara",
+      "hdi_2021": 73.76,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 115,
+      "name": "Kota Probolinggo",
+      "province": "Jawa Timur",
+      "hdi_2021": 73.66,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 116,
+      "name": "Kabupaten Pidie Jaya",
+      "province": "Aceh",
+      "hdi_2021": 73.6,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 117,
+      "name": "Kabupaten Aceh Besar",
+      "province": "Aceh",
+      "hdi_2021": 73.58,
+      "change_from_2020": 0.02
+    },
+    {
+      "rank_2021": 117,
+      "name": "Kabupaten Bengkalis",
+      "province": "Riau",
+      "hdi_2021": 73.58,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 119,
+      "name": "Kabupaten Kolaka",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 73.56,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 120,
+      "name": "Kota Kotamobagu",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 73.47,
+      "change_from_2020": 0.5
+    },
+    {
+      "rank_2021": 121,
+      "name": "Kabupaten Jombang",
+      "province": "Jawa Timur",
+      "hdi_2021": 73.45,
+      "change_from_2020": 0.48
+    },
+    {
+      "rank_2021": 122,
+      "name": "Kabupaten Simalungun",
+      "province": "Sumatera Utara",
+      "hdi_2021": 73.4,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 123,
+      "name": "Kabupaten Aceh Tengah",
+      "province": "Aceh",
+      "hdi_2021": 73.37,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 124,
+      "name": "Kota Cilegon",
+      "province": "Banten",
+      "hdi_2021": 73.35,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 125,
+      "name": "Kabupaten Luwu Timur",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 73.34,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 126,
+      "name": "Kota Tasikmalaya",
+      "province": "Jawa Barat",
+      "hdi_2021": 73.31,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 127,
+      "name": "Kabupaten Bener Meriah",
+      "province": "Aceh",
+      "hdi_2021": 73.27,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 128,
+      "name": "Kabupaten Tulungagung",
+      "province": "Jawa Timur",
+      "hdi_2021": 73.15,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 129,
+      "name": "Kabupaten Lamongan",
+      "province": "Jawa Timur",
+      "hdi_2021": 73.12,
+      "change_from_2020": 0.54
+    },
+    {
+      "rank_2021": 130,
+      "name": "Kabupaten Natuna",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 73.09,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 131,
+      "name": "Kabupaten Kotawaringin Barat",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 73.07,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 132,
+      "name": "Kabupaten Kampar",
+      "province": "Riau",
+      "hdi_2021": 73.02,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 133,
+      "name": "Kabupaten Purworejo",
+      "province": "Jawa Tengah",
+      "hdi_2021": 72.98,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 134,
+      "name": "Kabupaten Paser",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 72.93,
+      "change_from_2020": 0.89
+    },
+    {
+      "rank_2021": 135,
+      "name": "Kabupaten Enrekang",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 72.91,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 136,
+      "name": "Kota Sawah Lunto",
+      "province": "Sumatera Barat",
+      "hdi_2021": 72.88,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 137,
+      "name": "Kabupaten Jembrana",
+      "province": "Bali",
+      "hdi_2021": 72.75,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 138,
+      "name": "Kabupaten Bandung",
+      "province": "Jawa Barat",
+      "hdi_2021": 72.73,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 139,
+      "name": "Kabupaten Tabalong",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 72.6,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 140,
+      "name": "Kabupaten Demak",
+      "province": "Jawa Tengah",
+      "hdi_2021": 72.57,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 140,
+      "name": "Kabupaten Agam",
+      "province": "Sumatera Barat",
+      "hdi_2021": 72.57,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 140,
+      "name": "Kabupaten Belitung",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 72.57,
+      "change_from_2020": 0.06
+    },
+    {
+      "rank_2021": 143,
+      "name": "Kabupaten Kediri",
+      "province": "Jawa Timur",
+      "hdi_2021": 72.56,
+      "change_from_2020": 0.51
+    },
+    {
+      "rank_2021": 143,
+      "name": "Kabupaten Buleleng",
+      "province": "Bali",
+      "hdi_2021": 72.56,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 145,
+      "name": "Kabupaten Kendal",
+      "province": "Jawa Tengah",
+      "hdi_2021": 72.5,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 146,
+      "name": "Kabupaten Bangka",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 72.46,
+      "change_from_2020": 0.06
+    },
+    {
+      "rank_2021": 146,
+      "name": "Kabupaten Tanah Datar",
+      "province": "Sumatera Barat",
+      "hdi_2021": 72.46,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 148,
+      "name": "Kabupaten Banyumas",
+      "province": "Jawa Tengah",
+      "hdi_2021": 72.44,
+      "change_from_2020": 0.46
+    },
+    {
+      "rank_2021": 148,
+      "name": "Kota Serang",
+      "province": "Banten",
+      "hdi_2021": 72.44,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 150,
+      "name": "Kabupaten Jepara",
+      "province": "Jawa Tengah",
+      "hdi_2021": 72.36,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 151,
+      "name": "Kabupaten Biak Numfor",
+      "province": "Papua",
+      "hdi_2021": 72.33,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 151,
+      "name": "Kabupaten Bireuen",
+      "province": "Aceh",
+      "hdi_2021": 72.33,
+      "change_from_2020": 0.05
+    },
+    {
+      "rank_2021": 153,
+      "name": "Kabupaten Malinau",
+      "province": "Kalimantan Utara",
+      "hdi_2021": 72.32,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 153,
+      "name": "Kabupaten Minahasa Selatan",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 72.32,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 155,
+      "name": "Kabupaten Tangerang",
+      "province": "Banten",
+      "hdi_2021": 72.29,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 155,
+      "name": "Kabupaten Morowali",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 72.29,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 157,
+      "name": "Kabupaten Pati",
+      "province": "Jawa Tengah",
+      "hdi_2021": 72.28,
+      "change_from_2020": 0.51
+    },
+    {
+      "rank_2021": 158,
+      "name": "Kota Singkawang",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 72.11,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 159,
+      "name": "Kabupaten Kepulauan Seribu",
+      "province": "DKI Jakarta",
+      "hdi_2021": 72.1,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 160,
+      "name": "Kabupaten Labuhanbatu",
+      "province": "Sumatera Utara",
+      "hdi_2021": 72.09,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 161,
+      "name": "Kabupaten Pelalawan",
+      "province": "Riau",
+      "hdi_2021": 72.08,
+      "change_from_2020": 0.52
+    },
+    {
+      "rank_2021": 162,
+      "name": "Kabupaten Kutai Barat",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 72.07,
+      "change_from_2020": 0.88
+    },
+    {
+      "rank_2021": 163,
+      "name": "Kabupaten Jayapura",
+      "province": "Papua",
+      "hdi_2021": 72.03,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 164,
+      "name": "Kabupaten Manokwari",
+      "province": "Papua Barat",
+      "hdi_2021": 72.02,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 165,
+      "name": "Kabupaten Penajam Paser Utara",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 72.01,
+      "change_from_2020": 0.6
+    },
+    {
+      "rank_2021": 166,
+      "name": "Kabupaten Nganjuk",
+      "province": "Jawa Timur",
+      "hdi_2021": 71.97,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 167,
+      "name": "Kota Banjar",
+      "province": "Jawa Barat",
+      "hdi_2021": 71.92,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 168,
+      "name": "Kabupaten Madiun",
+      "province": "Jawa Timur",
+      "hdi_2021": 71.88,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 169,
+      "name": "Kabupaten Labuhanbatu Utara",
+      "province": "Sumatera Utara",
+      "hdi_2021": 71.87,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 170,
+      "name": "Kabupaten Sumbawa Barat",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 71.85,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 171,
+      "name": "Kabupaten Dairi",
+      "province": "Sumatera Utara",
+      "hdi_2021": 71.84,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 172,
+      "name": "Kabupaten Bulungan",
+      "province": "Kalimantan Utara",
+      "hdi_2021": 71.8,
+      "change_from_2020": 0.7
+    },
+    {
+      "rank_2021": 172,
+      "name": "Kabupaten Sumedang",
+      "province": "Jawa Barat",
+      "hdi_2021": 71.8,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 174,
+      "name": "Kabupaten Dharmasraya",
+      "province": "Sumatera Barat",
+      "hdi_2021": 71.76,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 175,
+      "name": "Kabupaten Klungkung",
+      "province": "Bali",
+      "hdi_2021": 71.75,
+      "change_from_2020": 0.02
+    },
+    {
+      "rank_2021": 176,
+      "name": "Kabupaten Karimun",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 71.7,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 177,
+      "name": "Kabupaten Labuhanbatu Selatan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 71.69,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 178,
+      "name": "Kabupaten Aceh Barat",
+      "province": "Aceh",
+      "hdi_2021": 71.67,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 179,
+      "name": "Kabupaten Sidenreng Rappang",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 71.54,
+      "change_from_2020": 0.33
+    },
+    {
+      "rank_2021": 180,
+      "name": "Kabupaten Konawe",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 71.48,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 181,
+      "name": "Kabupaten Barito Timur",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 71.47,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 182,
+      "name": "Kabupaten Kerinci",
+      "province": "Jambi",
+      "hdi_2021": 71.45,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 182,
+      "name": "Kabupaten Pinrang",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 71.45,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 182,
+      "name": "Kabupaten Poso",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 71.45,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 185,
+      "name": "Kabupaten Belitung Timur",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 71.42,
+      "change_from_2020": 0.5
+    },
+    {
+      "rank_2021": 186,
+      "name": "Kabupaten Banyuwangi",
+      "province": "Jawa Timur",
+      "hdi_2021": 71.38,
+      "change_from_2020": 0.76
+    },
+    {
+      "rank_2021": 186,
+      "name": "Kabupaten Kotawaringin Timur",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 71.38,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 188,
+      "name": "Kabupaten Langkat",
+      "province": "Sumatera Utara",
+      "hdi_2021": 71.35,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 189,
+      "name": "Kabupaten Maluku Tengah",
+      "province": "Maluku",
+      "hdi_2021": 71.32,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 190,
+      "name": "Kabupaten Barru",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 71.13,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 191,
+      "name": "Kabupaten Kepulauan Sangihe",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 71.07,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 192,
+      "name": "Kabupaten Minahasa Tenggara",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 71.06,
+      "change_from_2020": 0.55
+    },
+    {
+      "rank_2021": 192,
+      "name": "Kabupaten Ponorogo",
+      "province": "Jawa Timur",
+      "hdi_2021": 71.06,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 194,
+      "name": "Kabupaten Blitar",
+      "province": "Jawa Timur",
+      "hdi_2021": 71.05,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 195,
+      "name": "Kabupaten Ngawi",
+      "province": "Jawa Timur",
+      "hdi_2021": 71.04,
+      "change_from_2020": 0.5
+    },
+    {
+      "rank_2021": 196,
+      "name": "Kabupaten Gunung Mas",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 71.03,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 197,
+      "name": "Kabupaten Tanah Bumbu",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 71,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 198,
+      "name": "Kota Tidore Kepulauan",
+      "province": "Maluku Utara",
+      "hdi_2021": 70.99,
+      "change_from_2020": 0.46
+    },
+    {
+      "rank_2021": 199,
+      "name": "Kabupaten Purwakarta",
+      "province": "Jawa Barat",
+      "hdi_2021": 70.98,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 200,
+      "name": "Kabupaten Karawang",
+      "province": "Jawa Barat",
+      "hdi_2021": 70.94,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 201,
+      "name": "Kabupaten Ciamis",
+      "province": "Jawa Barat",
+      "hdi_2021": 70.93,
+      "change_from_2020": 0.44
+    },
+    {
+      "rank_2021": 202,
+      "name": "Kabupaten Bangka Tengah",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 70.89,
+      "change_from_2020": 0.44
+    },
+    {
+      "rank_2021": 203,
+      "name": "Kabupaten Luwu",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 70.85,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 204,
+      "name": "Kabupaten Samosir",
+      "province": "Sumatera Utara",
+      "hdi_2021": 70.83,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 205,
+      "name": "Kabupaten Barito Utara",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 70.79,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 206,
+      "name": "Kabupaten Rejang Lebong",
+      "province": "Bengkulu",
+      "hdi_2021": 70.77,
+      "change_from_2020": 0.33
+    },
+    {
+      "rank_2021": 207,
+      "name": "Kabupaten Padang Pariaman",
+      "province": "Sumatera Barat",
+      "hdi_2021": 70.76,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 208,
+      "name": "Kabupaten Bengkulu Selatan",
+      "province": "Bengkulu",
+      "hdi_2021": 70.75,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 209,
+      "name": "Kabupaten Pidie",
+      "province": "Aceh",
+      "hdi_2021": 70.7,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 210,
+      "name": "Kabupaten Bogor",
+      "province": "Jawa Barat",
+      "hdi_2021": 70.6,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 210,
+      "name": "Kabupaten Kuantan Singingi",
+      "province": "Riau",
+      "hdi_2021": 70.6,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 210,
+      "name": "Kabupaten Malang",
+      "province": "Jawa Timur",
+      "hdi_2021": 70.6,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 210,
+      "name": "Kabupaten Banggai",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 70.6,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 214,
+      "name": "Kabupaten Lamandau",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 70.58,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 215,
+      "name": "Kabupaten Serdang Bedagai",
+      "province": "Sumatera Utara",
+      "hdi_2021": 70.56,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 216,
+      "name": "Kabupaten Barito Selatan",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 70.54,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 217,
+      "name": "Kabupaten Wonogiri",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.49,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 217,
+      "name": "Kabupaten Merauke",
+      "province": "Papua",
+      "hdi_2021": 70.49,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 217,
+      "name": "Kabupaten Asahan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 70.49,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 220,
+      "name": "Kabupaten Pringsewu",
+      "province": "Lampung",
+      "hdi_2021": 70.45,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 221,
+      "name": "Kabupaten Rembang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.43,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 222,
+      "name": "Kabupaten Cilacap",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.42,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 223,
+      "name": "Kabupaten Grobogan",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.41,
+      "change_from_2020": 0.54
+    },
+    {
+      "rank_2021": 223,
+      "name": "Kabupaten Maros",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 70.41,
+      "change_from_2020": 0.55
+    },
+    {
+      "rank_2021": 225,
+      "name": "Kabupaten Tapanuli Selatan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 70.33,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 226,
+      "name": "Kabupaten Tapin",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 70.31,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 227,
+      "name": "Kabupaten Gowa",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 70.29,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 228,
+      "name": "Kabupaten Sarolangun",
+      "province": "Jambi",
+      "hdi_2021": 70.25,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 228,
+      "name": "Kabupaten Bone Bolango",
+      "province": "Gorontalo",
+      "hdi_2021": 70.25,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 230,
+      "name": "Kabupaten Konawe Utara",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 70.23,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 230,
+      "name": "Kabupaten Lampung Tengah",
+      "province": "Lampung",
+      "hdi_2021": 70.23,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 232,
+      "name": "Kabupaten Gunung Kidul",
+      "province": "Daerah Istimewa Yogyakarta",
+      "hdi_2021": 70.16,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 233,
+      "name": "Kabupaten Bungo",
+      "province": "Jambi",
+      "hdi_2021": 70.15,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 234,
+      "name": "Kabupaten Magelang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.12,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 235,
+      "name": "Kabupaten Batang Hari",
+      "province": "Jambi",
+      "hdi_2021": 70.11,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 235,
+      "name": "Kabupaten Padang Lawas Utara",
+      "province": "Sumatera Utara",
+      "hdi_2021": 70.11,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 235,
+      "name": "Kabupaten Pekalongan",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.11,
+      "change_from_2020": 0.48
+    },
+    {
+      "rank_2021": 238,
+      "name": "Kabupaten Trenggalek",
+      "province": "Jawa Timur",
+      "hdi_2021": 70.06,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 239,
+      "name": "Kabupaten Kebumen",
+      "province": "Jawa Tengah",
+      "hdi_2021": 70.05,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 240,
+      "name": "Kabupaten Pesisir Selatan",
+      "province": "Sumatera Barat",
+      "hdi_2021": 70.03,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 241,
+      "name": "Kabupaten Luwu Utara",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 70.02,
+      "change_from_2020": 0.45
+    },
+    {
+      "rank_2021": 242,
+      "name": "Kabupaten Indragiri Hulu",
+      "province": "Riau",
+      "hdi_2021": 70.01,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 243,
+      "name": "Kabupaten Banjar",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 69.89,
+      "change_from_2020": 0.71
+    },
+    {
+      "rank_2021": 244,
+      "name": "Kabupaten Temanggung",
+      "province": "Jawa Tengah",
+      "hdi_2021": 69.88,
+      "change_from_2020": 0.31
+    },
+    {
+      "rank_2021": 245,
+      "name": "Kabupaten Wakatobi",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 69.87,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 245,
+      "name": "Kabupaten Tanah Laut",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 69.87,
+      "change_from_2020": 0.49
+    },
+    {
+      "rank_2021": 247,
+      "name": "Kabupaten Aceh Jaya",
+      "province": "Aceh",
+      "hdi_2021": 69.84,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 248,
+      "name": "Kabupaten Kepulauan Talaud",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 69.83,
+      "change_from_2020": 0.43
+    },
+    {
+      "rank_2021": 249,
+      "name": "Kabupaten Toraja Utara",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 69.75,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 250,
+      "name": "Kabupaten Kuningan",
+      "province": "Jawa Barat",
+      "hdi_2021": 69.71,
+      "change_from_2020": 0.33
+    },
+    {
+      "rank_2021": 251,
+      "name": "Kabupaten Lima Puluh Kota",
+      "province": "Sumatera Barat",
+      "hdi_2021": 69.68,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 252,
+      "name": "Kabupaten Rokan Hulu",
+      "province": "Riau",
+      "hdi_2021": 69.67,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 253,
+      "name": "Kabupaten Lampung Timur",
+      "province": "Lampung",
+      "hdi_2021": 69.66,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 254,
+      "name": "Kabupaten Kapuas",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 69.63,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 255,
+      "name": "Kabupaten Bulukumba",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 69.62,
+      "change_from_2020": 0.63
+    },
+    {
+      "rank_2021": 255,
+      "name": "Kabupaten Wajo",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 69.62,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 257,
+      "name": "Kota Gunungsitoli",
+      "province": "Sumatera Utara",
+      "hdi_2021": 69.61,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 257,
+      "name": "Kabupaten Tapanuli Tengah",
+      "province": "Sumatera Utara",
+      "hdi_2021": 69.61,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 259,
+      "name": "Kabupaten Bangka Barat",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 69.6,
+      "change_from_2020": 0.52
+    },
+    {
+      "rank_2021": 259,
+      "name": "Kabupaten Ogan Komering Ulu",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 69.6,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 261,
+      "name": "Kabupaten Bojonegoro",
+      "province": "Jawa Timur",
+      "hdi_2021": 69.59,
+      "change_from_2020": 0.55
+    },
+    {
+      "rank_2021": 262,
+      "name": "Kabupaten Ogan Komering Ulu Timur",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 69.58,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 263,
+      "name": "Kabupaten Muaro Jambi",
+      "province": "Jambi",
+      "hdi_2021": 69.55,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 264,
+      "name": "Kabupaten Merangin",
+      "province": "Jambi",
+      "hdi_2021": 69.53,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 265,
+      "name": "Kabupaten Kolaka Utara",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 69.5,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 266,
+      "name": "Kabupaten Tana Toraja",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 69.49,
+      "change_from_2020": 0.74
+    },
+    {
+      "rank_2021": 267,
+      "name": "Kabupaten Aceh Tamiang",
+      "province": "Aceh",
+      "hdi_2021": 69.48,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 268,
+      "name": "Kabupaten Aceh Utara",
+      "province": "Aceh",
+      "hdi_2021": 69.46,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 269,
+      "name": "Kabupaten Aceh Tenggara",
+      "province": "Aceh",
+      "hdi_2021": 69.44,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 270,
+      "name": "Kabupaten Humbang Hasundutan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 69.41,
+      "change_from_2020": 0.54
+    },
+    {
+      "rank_2021": 271,
+      "name": "Kabupaten Blora",
+      "province": "Jawa Tengah",
+      "hdi_2021": 69.37,
+      "change_from_2020": 0.53
+    },
+    {
+      "rank_2021": 271,
+      "name": "Kabupaten Bangli",
+      "province": "Bali",
+      "hdi_2021": 69.37,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 273,
+      "name": "Kabupaten Tebo",
+      "province": "Jambi",
+      "hdi_2021": 69.35,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 274,
+      "name": "Kabupaten Rokan Hilir",
+      "province": "Riau",
+      "hdi_2021": 69.34,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 275,
+      "name": "Kabupaten Buru",
+      "province": "Maluku",
+      "hdi_2021": 69.33,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 276,
+      "name": "Kabupaten Nagan Raya",
+      "province": "Aceh",
+      "hdi_2021": 69.31,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 277,
+      "name": "Kabupaten Bengkulu Utara",
+      "province": "Bengkulu",
+      "hdi_2021": 69.28,
+      "change_from_2020": 0.46
+    },
+    {
+      "rank_2021": 278,
+      "name": "Kabupaten Solok",
+      "province": "Sumatera Barat",
+      "hdi_2021": 69.24,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 279,
+      "name": "Kabupaten Kepulauan Anambas",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 69.23,
+      "change_from_2020": 0.43
+    },
+    {
+      "rank_2021": 279,
+      "name": "Kabupaten Solok Selatan",
+      "province": "Sumatera Barat",
+      "hdi_2021": 69.23,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 281,
+      "name": "Kabupaten Aceh Singkil",
+      "province": "Aceh",
+      "hdi_2021": 69.22,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 282,
+      "name": "Kabupaten Hulu Sungai Selatan",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 69.21,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 282,
+      "name": "Kabupaten Pangkajene dan Kepulauan",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 69.21,
+      "change_from_2020": 0.49
+    },
+    {
+      "rank_2021": 284,
+      "name": "Kabupaten Muna",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 69.17,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 285,
+      "name": "Kabupaten Nabire",
+      "province": "Papua",
+      "hdi_2021": 69.15,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 285,
+      "name": "Kabupaten Purbalingga",
+      "province": "Jawa Tengah",
+      "hdi_2021": 69.15,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 287,
+      "name": "Kabupaten Kotabaru",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 69.13,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 287,
+      "name": "Kabupaten Subang",
+      "province": "Jawa Barat",
+      "hdi_2021": 69.13,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 289,
+      "name": "Kabupaten Cirebon",
+      "province": "Jawa Barat",
+      "hdi_2021": 69.12,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 290,
+      "name": "Kabupaten Balangan",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 69.11,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 291,
+      "name": "Kabupaten Hulu Sungai Tengah",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 69.05,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 292,
+      "name": "Kabupaten Bantaeng",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 68.99,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 292,
+      "name": "Kabupaten Soppeng",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 68.99,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 294,
+      "name": "Kota Tanjung Balai",
+      "province": "Sumatera Utara",
+      "hdi_2021": 68.94,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 295,
+      "name": "Kabupaten Pasuruan",
+      "province": "Jawa Timur",
+      "hdi_2021": 68.93,
+      "change_from_2020": 0.33
+    },
+    {
+      "rank_2021": 296,
+      "name": "Kabupaten Batang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 68.92,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 297,
+      "name": "Kabupaten Tuban",
+      "province": "Jawa Timur",
+      "hdi_2021": 68.91,
+      "change_from_2020": 0.51
+    },
+    {
+      "rank_2021": 298,
+      "name": "Kabupaten Katingan",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 68.89,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 299,
+      "name": "Kabupaten Muara Enim",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 68.86,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 300,
+      "name": "Kabupaten Tegal",
+      "province": "Jawa Tengah",
+      "hdi_2021": 68.79,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 301,
+      "name": "Kabupaten Pasaman Barat",
+      "province": "Sumatera Barat",
+      "hdi_2021": 68.76,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 302,
+      "name": "Kabupaten Tulang Bawang",
+      "province": "Lampung",
+      "hdi_2021": 68.73,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 303,
+      "name": "Kota Pagar Alam",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 68.68,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 304,
+      "name": "Kabupaten Padang Lawas",
+      "province": "Sumatera Utara",
+      "hdi_2021": 68.64,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 304,
+      "name": "Kabupaten Mukomuko",
+      "province": "Bengkulu",
+      "hdi_2021": 68.64,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 306,
+      "name": "Kabupaten Kepahiang",
+      "province": "Bengkulu",
+      "hdi_2021": 68.62,
+      "change_from_2020": 0.45
+    },
+    {
+      "rank_2021": 307,
+      "name": "Kabupaten Lombok Barat",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 68.61,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 308,
+      "name": "Kabupaten Konawe Selatan",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 68.58,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 308,
+      "name": "Kabupaten Batu Bara",
+      "province": "Sumatera Utara",
+      "hdi_2021": 68.58,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 310,
+      "name": "Kabupaten Pacitan",
+      "province": "Jawa Timur",
+      "hdi_2021": 68.57,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 311,
+      "name": "Kabupaten Pulang Pisau",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 68.53,
+      "change_from_2020": 0.08
+    },
+    {
+      "rank_2021": 312,
+      "name": "Kabupaten Fakfak",
+      "province": "Papua Barat",
+      "hdi_2021": 68.52,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 313,
+      "name": "Kabupaten Sigi",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 68.49,
+      "change_from_2020": 0.37
+    },
+    {
+      "rank_2021": 313,
+      "name": "Kabupaten Lampung Selatan",
+      "province": "Lampung",
+      "hdi_2021": 68.49,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 315,
+      "name": "Kabupaten Morowali Utara",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 68.48,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 316,
+      "name": "Kabupaten Dompu",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 68.45,
+      "change_from_2020": 0.61
+    },
+    {
+      "rank_2021": 317,
+      "name": "Kabupaten Wonosobo",
+      "province": "Jawa Tengah",
+      "hdi_2021": 68.43,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 318,
+      "name": "Kabupaten Mamuju",
+      "province": "Sulawesi Barat",
+      "hdi_2021": 68.32,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 319,
+      "name": "Kabupaten Bandung Barat",
+      "province": "Jawa Barat",
+      "hdi_2021": 68.29,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 320,
+      "name": "Kabupaten Pangandaran",
+      "province": "Jawa Barat",
+      "hdi_2021": 68.28,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 321,
+      "name": "Kabupaten Sukamara",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 68.27,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 322,
+      "name": "Kabupaten Buol",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 68.25,
+      "change_from_2020": 0.43
+    },
+    {
+      "rank_2021": 323,
+      "name": "Kabupaten Kubu Raya",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 68.16,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 323,
+      "name": "Kabupaten Bolaang Mongondow",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 68.16,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 323,
+      "name": "Kabupaten Tanjung Jabung Barat",
+      "province": "Jambi",
+      "hdi_2021": 68.16,
+      "change_from_2020": 0.62
+    },
+    {
+      "rank_2021": 323,
+      "name": "Kota Tual",
+      "province": "Maluku",
+      "hdi_2021": 68.16,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 327,
+      "name": "Kabupaten Murung Raya",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 68.12,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 328,
+      "name": "Kabupaten Musi Banyuasin",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 68.1,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 329,
+      "name": "Kabupaten Buton Utara",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 68.08,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 330,
+      "name": "Kabupaten Siau Tagulandang Biaro",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 68.05,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 331,
+      "name": "Kabupaten Bengkayang",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 68.04,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 332,
+      "name": "Kabupaten Mamuju Utara",
+      "province": "Sulawesi Barat",
+      "hdi_2021": 68.03,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 333,
+      "name": "Kabupaten Sumbawa",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 68.01,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 334,
+      "name": "Kabupaten Bengkulu Tengah",
+      "province": "Bengkulu",
+      "hdi_2021": 67.96,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 335,
+      "name": "Kabupaten Mahakam Ulu",
+      "province": "Kalimantan Timur",
+      "hdi_2021": 67.95,
+      "change_from_2020": 0.86
+    },
+    {
+      "rank_2021": 336,
+      "name": "Kabupaten Pakpak Bharat",
+      "province": "Sumatera Utara",
+      "hdi_2021": 67.94,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 337,
+      "name": "Kabupaten Lampung Barat",
+      "province": "Lampung",
+      "hdi_2021": 67.9,
+      "change_from_2020": 0.1
+    },
+    {
+      "rank_2021": 338,
+      "name": "Kabupaten Lampung Utara",
+      "province": "Lampung",
+      "hdi_2021": 67.89,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 339,
+      "name": "Kabupaten Ngada",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 67.88,
+      "change_from_2020": 0
+    },
+    {
+      "rank_2021": 340,
+      "name": "Kabupaten Banjarnegara",
+      "province": "Jawa Tengah",
+      "hdi_2021": 67.86,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 340,
+      "name": "Kabupaten Sijunjung",
+      "province": "Sumatera Barat",
+      "hdi_2021": 67.86,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 342,
+      "name": "Kabupaten Aceh Timur",
+      "province": "Aceh",
+      "hdi_2021": 67.83,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 343,
+      "name": "Kabupaten Halmahera Utara",
+      "province": "Maluku Utara",
+      "hdi_2021": 67.82,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 344,
+      "name": "Kabupaten Majalengka",
+      "province": "Jawa Barat",
+      "hdi_2021": 67.81,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 345,
+      "name": "Kabupaten Situbondo",
+      "province": "Jawa Timur",
+      "hdi_2021": 67.78,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 346,
+      "name": "Kabupaten Kepulauan Selayar",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 67.76,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 346,
+      "name": "Kabupaten Kolaka Timur",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 67.76,
+      "change_from_2020": 0.74
+    },
+    {
+      "rank_2021": 346,
+      "name": "Kabupaten Tana Tidung",
+      "province": "Kalimantan Utara",
+      "hdi_2021": 67.76,
+      "change_from_2020": 0.79
+    },
+    {
+      "rank_2021": 349,
+      "name": "Kabupaten Sinjai",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 67.75,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 350,
+      "name": "Kabupaten Takalar",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 67.72,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 350,
+      "name": "Kabupaten Kepulauan Yapen",
+      "province": "Papua",
+      "hdi_2021": 67.72,
+      "change_from_2020": 0.06
+    },
+    {
+      "rank_2021": 352,
+      "name": "Kabupaten Seruyan",
+      "province": "Kalimantan Tengah",
+      "hdi_2021": 67.67,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 353,
+      "name": "Kabupaten Indramayu",
+      "province": "Jawa Barat",
+      "hdi_2021": 67.64,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 354,
+      "name": "Kabupaten Lahat",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 67.58,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 355,
+      "name": "Kabupaten Way Kanan",
+      "province": "Lampung",
+      "hdi_2021": 67.57,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 356,
+      "name": "Kabupaten Gayo Lues",
+      "province": "Aceh",
+      "hdi_2021": 67.56,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 357,
+      "name": "Kabupaten Lebong",
+      "province": "Bengkulu",
+      "hdi_2021": 67.46,
+      "change_from_2020": 0.45
+    },
+    {
+      "rank_2021": 358,
+      "name": "Kabupaten Aceh Selatan",
+      "province": "Aceh",
+      "hdi_2021": 67.44,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 359,
+      "name": "Kabupaten Ketapang",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 67.43,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 360,
+      "name": "Kabupaten Bolaang Mongondow Utara",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 67.39,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 361,
+      "name": "Kabupaten Karangasem",
+      "province": "Bali",
+      "hdi_2021": 67.36,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 362,
+      "name": "Kabupaten Gorontalo",
+      "province": "Gorontalo",
+      "hdi_2021": 67.34,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 363,
+      "name": "Kabupaten Jember",
+      "province": "Jawa Timur",
+      "hdi_2021": 67.32,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 364,
+      "name": "Kabupaten Ende",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 67.3,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 365,
+      "name": "Kabupaten Majene",
+      "province": "Sulawesi Barat",
+      "hdi_2021": 67.29,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 366,
+      "name": "Kabupaten Mandailing Natal",
+      "province": "Sumatera Utara",
+      "hdi_2021": 67.19,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 367,
+      "name": "Kabupaten Ogan Komering Ilir",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 67.17,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 367,
+      "name": "Kabupaten Kaur",
+      "province": "Bengkulu",
+      "hdi_2021": 67.17,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 367,
+      "name": "Kabupaten Ogan Ilir",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 67.17,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 370,
+      "name": "Kabupaten Banyu Asin",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 67.13,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 371,
+      "name": "Kabupaten Sambas",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 67.1,
+      "change_from_2020": 0.07
+    },
+    {
+      "rank_2021": 372,
+      "name": "Kabupaten Sukabumi",
+      "province": "Jawa Barat",
+      "hdi_2021": 67.07,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 373,
+      "name": "Kabupaten Bangka Selatan",
+      "province": "Kepulauan Bangka Belitung",
+      "hdi_2021": 67.06,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 374,
+      "name": "Kabupaten Sumenep",
+      "province": "Jawa Timur",
+      "hdi_2021": 67.04,
+      "change_from_2020": 0.61
+    },
+    {
+      "rank_2021": 375,
+      "name": "Kabupaten Seluma",
+      "province": "Bengkulu",
+      "hdi_2021": 67.03,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 376,
+      "name": "Kabupaten Musi Rawas",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 67.01,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 377,
+      "name": "Kabupaten Halmahera Timur",
+      "province": "Maluku Utara",
+      "hdi_2021": 67,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 378,
+      "name": "Kabupaten Aceh Barat Daya",
+      "province": "Aceh",
+      "hdi_2021": 66.99,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 379,
+      "name": "Kabupaten Sintang",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 66.93,
+      "change_from_2020": 0.05
+    },
+    {
+      "rank_2021": 380,
+      "name": "Kabupaten Serang",
+      "province": "Banten",
+      "hdi_2021": 66.82,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 381,
+      "name": "Kabupaten Pasaman",
+      "province": "Sumatera Barat",
+      "hdi_2021": 66.77,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 382,
+      "name": "Kabupaten Lombok Tengah",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 66.72,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 383,
+      "name": "Kabupaten Bima",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 66.66,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 383,
+      "name": "Kabupaten Lombok Timur",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 66.66,
+      "change_from_2020": 0.36
+    },
+    {
+      "rank_2021": 385,
+      "name": "Kabupaten Tanggamus",
+      "province": "Lampung",
+      "hdi_2021": 66.65,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 386,
+      "name": "Kabupaten Barito Kuala",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 66.64,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 387,
+      "name": "Kabupaten Mamasa",
+      "province": "Sulawesi Barat",
+      "hdi_2021": 66.63,
+      "change_from_2020": 0.61
+    },
+    {
+      "rank_2021": 387,
+      "name": "Kabupaten Indragiri Hilir",
+      "province": "Riau",
+      "hdi_2021": 66.63,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 389,
+      "name": "Kabupaten Bondowoso",
+      "province": "Jawa Timur",
+      "hdi_2021": 66.59,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 390,
+      "name": "Kabupaten Pemalang",
+      "province": "Jawa Tengah",
+      "hdi_2021": 66.56,
+      "change_from_2020": 0.24
+    },
+    {
+      "rank_2021": 391,
+      "name": "Kabupaten Bolaang Mongondow Timur",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 66.55,
+      "change_from_2020": 0.56
+    },
+    {
+      "rank_2021": 392,
+      "name": "Kabupaten Keerom",
+      "province": "Papua",
+      "hdi_2021": 66.49,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 393,
+      "name": "Kabupaten Nunukan",
+      "province": "Kalimantan Utara",
+      "hdi_2021": 66.46,
+      "change_from_2020": 0.67
+    },
+    {
+      "rank_2021": 394,
+      "name": "Kabupaten Garut",
+      "province": "Jawa Barat",
+      "hdi_2021": 66.45,
+      "change_from_2020": 0.33
+    },
+    {
+      "rank_2021": 395,
+      "name": "Kabupaten Boalemo",
+      "province": "Gorontalo",
+      "hdi_2021": 66.42,
+      "change_from_2020": 0.51
+    },
+    {
+      "rank_2021": 396,
+      "name": "Kabupaten Simeulue",
+      "province": "Aceh",
+      "hdi_2021": 66.41,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 397,
+      "name": "Kabupaten Bone",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 66.4,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 397,
+      "name": "Kabupaten Pamekasan",
+      "province": "Jawa Timur",
+      "hdi_2021": 66.4,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 399,
+      "name": "Kabupaten Maluku Tenggara",
+      "province": "Maluku",
+      "hdi_2021": 66.33,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 400,
+      "name": "Kabupaten Buton",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 66.32,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 400,
+      "name": "Kabupaten Brebes",
+      "province": "Jawa Tengah",
+      "hdi_2021": 66.32,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 402,
+      "name": "Kabupaten Toli-Toli",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 66.3,
+      "change_from_2020": 0.61
+    },
+    {
+      "rank_2021": 403,
+      "name": "Kabupaten Probolinggo",
+      "province": "Jawa Timur",
+      "hdi_2021": 66.26,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 404,
+      "name": "Kabupaten Bombana",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 66.25,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 405,
+      "name": "Kabupaten Tulang Bawang Barat",
+      "province": "Lampung",
+      "hdi_2021": 66.22,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 406,
+      "name": "Kabupaten Landak",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 66.21,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 407,
+      "name": "Kabupaten Sanggau",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 66.2,
+      "change_from_2020": 0.43
+    },
+    {
+      "rank_2021": 408,
+      "name": "Kabupaten Mamuju Tengah",
+      "province": "Sulawesi Barat",
+      "hdi_2021": 66.18,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 409,
+      "name": "Kabupaten Pesawaran",
+      "province": "Lampung",
+      "hdi_2021": 66.14,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 410,
+      "name": "Kabupaten Hulu Sungai Utara",
+      "province": "Kalimantan Selatan",
+      "hdi_2021": 66.12,
+      "change_from_2020": 0.53
+    },
+    {
+      "rank_2021": 411,
+      "name": "Kabupaten Lumajang",
+      "province": "Jawa Timur",
+      "hdi_2021": 66.07,
+      "change_from_2020": 0.61
+    },
+    {
+      "rank_2021": 412,
+      "name": "Kabupaten Mempawah",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 66.03,
+      "change_from_2020": 0.29
+    },
+    {
+      "rank_2021": 413,
+      "name": "Kabupaten Tasikmalaya",
+      "province": "Jawa Barat",
+      "hdi_2021": 65.9,
+      "change_from_2020": 0.23
+    },
+    {
+      "rank_2021": 414,
+      "name": "Kabupaten Melawi",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 65.87,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 415,
+      "name": "Kabupaten Seram Bagian Barat",
+      "province": "Maluku",
+      "hdi_2021": 65.83,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 415,
+      "name": "Kabupaten Lingga",
+      "province": "Kepulauan Riau",
+      "hdi_2021": 65.83,
+      "change_from_2020": 0.54
+    },
+    {
+      "rank_2021": 417,
+      "name": "Kabupaten Halmahera Tengah",
+      "province": "Maluku Utara",
+      "hdi_2021": 65.82,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 417,
+      "name": "Kabupaten Parigi Moutong",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 65.82,
+      "change_from_2020": 0.38
+    },
+    {
+      "rank_2021": 417,
+      "name": "Kabupaten Nagekeo",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 65.82,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 420,
+      "name": "Kabupaten Pohuwato",
+      "province": "Gorontalo",
+      "hdi_2021": 65.8,
+      "change_from_2020": 0.43
+    },
+    {
+      "rank_2021": 421,
+      "name": "Kabupaten Sorong",
+      "province": "Papua Barat",
+      "hdi_2021": 65.77,
+      "change_from_2020": 0.03
+    },
+    {
+      "rank_2021": 422,
+      "name": "Kabupaten Kapuas Hulu",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 65.75,
+      "change_from_2020": 0.06
+    },
+    {
+      "rank_2021": 423,
+      "name": "Kabupaten Sumba Timur",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 65.74,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 424,
+      "name": "Kabupaten Konawe Kepulauan",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 65.73,
+      "change_from_2020": 0.32
+    },
+    {
+      "rank_2021": 425,
+      "name": "Kabupaten Donggala",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 65.72,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 426,
+      "name": "Kabupaten Kepulauan Meranti",
+      "province": "Riau",
+      "hdi_2021": 65.7,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 427,
+      "name": "Kabupaten Banggai Laut",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 65.65,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 428,
+      "name": "Kabupaten Banggai Kepulauan",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 65.61,
+      "change_from_2020": 0.19
+    },
+    {
+      "rank_2021": 429,
+      "name": "Kabupaten Halmahera Barat",
+      "province": "Maluku Utara",
+      "hdi_2021": 65.56,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 429,
+      "name": "Kabupaten Cianjur",
+      "province": "Jawa Barat",
+      "hdi_2021": 65.56,
+      "change_from_2020": 0.2
+    },
+    {
+      "rank_2021": 431,
+      "name": "Kabupaten Muna Barat",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 65.48,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 432,
+      "name": "Kabupaten Bolaang Mongondow Selatan",
+      "province": "Sulawesi Utara",
+      "hdi_2021": 65.42,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 433,
+      "name": "Kabupaten Sikka",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 65.41,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 434,
+      "name": "Kabupaten Empat Lawang",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 65.39,
+      "change_from_2020": 0.14
+    },
+    {
+      "rank_2021": 435,
+      "name": "Kabupaten Ogan Komering Ulu Selatan",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 65.34,
+      "change_from_2020": 0.04
+    },
+    {
+      "rank_2021": 436,
+      "name": "Kabupaten Kaimana",
+      "province": "Papua Barat",
+      "hdi_2021": 65.31,
+      "change_from_2020": 0.31
+    },
+    {
+      "rank_2021": 437,
+      "name": "Kota Subulussalam",
+      "province": "Aceh",
+      "hdi_2021": 65.27,
+      "change_from_2020": 0.34
+    },
+    {
+      "rank_2021": 438,
+      "name": "Kabupaten Gorontalo Utara",
+      "province": "Gorontalo",
+      "hdi_2021": 65.21,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 439,
+      "name": "Kabupaten Pandeglang",
+      "province": "Banten",
+      "hdi_2021": 65.17,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 440,
+      "name": "Kabupaten Waropen",
+      "province": "Papua",
+      "hdi_2021": 65.1,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 441,
+      "name": "Kabupaten Manggarai",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 65.01,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 442,
+      "name": "Kabupaten Buton Selatan",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 64.99,
+      "change_from_2020": 0.06
+    },
+    {
+      "rank_2021": 443,
+      "name": "Kabupaten Musi Rawas Utara",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 64.93,
+      "change_from_2020": 0.44
+    },
+    {
+      "rank_2021": 443,
+      "name": "Kabupaten Sekadau",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 64.93,
+      "change_from_2020": 0.17
+    },
+    {
+      "rank_2021": 445,
+      "name": "Kabupaten Tanjung Jabung Timur",
+      "province": "Jambi",
+      "hdi_2021": 64.91,
+      "change_from_2020": 0.48
+    },
+    {
+      "rank_2021": 446,
+      "name": "Kabupaten Penukal Abab Lematang Ilir",
+      "province": "Sumatera Selatan",
+      "hdi_2021": 64.88,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 447,
+      "name": "Kabupaten Buru Selatan",
+      "province": "Maluku",
+      "hdi_2021": 64.8,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 448,
+      "name": "Kabupaten Lombok Utara",
+      "province": "Nusa Tenggara Barat",
+      "hdi_2021": 64.77,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 449,
+      "name": "Kabupaten Lembata",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 64.75,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 450,
+      "name": "Kabupaten Tojo Una-Una",
+      "province": "Sulawesi Tengah",
+      "hdi_2021": 64.74,
+      "change_from_2020": 0.15
+    },
+    {
+      "rank_2021": 451,
+      "name": "Kabupaten Teluk Bintuni",
+      "province": "Papua Barat",
+      "hdi_2021": 64.65,
+      "change_from_2020": 0.1
+    },
+    {
+      "rank_2021": 452,
+      "name": "Kabupaten Jeneponto",
+      "province": "Sulawesi Selatan",
+      "hdi_2021": 64.56,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 453,
+      "name": "Kabupaten Buton Tengah",
+      "province": "Sulawesi Tenggara",
+      "hdi_2021": 64.55,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 454,
+      "name": "Kabupaten Kupang",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 64.41,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 455,
+      "name": "Kabupaten Bangkalan",
+      "province": "Jawa Timur",
+      "hdi_2021": 64.36,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 456,
+      "name": "Kabupaten Seram Bagian Timur",
+      "province": "Maluku",
+      "hdi_2021": 64.3,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 456,
+      "name": "Kabupaten Pesisir Barat",
+      "province": "Lampung",
+      "hdi_2021": 64.3,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 458,
+      "name": "Kabupaten Polewali Mandar",
+      "province": "Sulawesi Barat",
+      "hdi_2021": 64.23,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 459,
+      "name": "Kabupaten Flores Timur",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 64.22,
+      "change_from_2020": 0
+    },
+    {
+      "rank_2021": 460,
+      "name": "Kabupaten Halmahera Selatan",
+      "province": "Maluku Utara",
+      "hdi_2021": 64.19,
+      "change_from_2020": 0.35
+    },
+    {
+      "rank_2021": 461,
+      "name": "Kabupaten Manggarai Barat",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 64.17,
+      "change_from_2020": 0.28
+    },
+    {
+      "rank_2021": 462,
+      "name": "Kabupaten Mesuji",
+      "province": "Lampung",
+      "hdi_2021": 64.04,
+      "change_from_2020": 0.41
+    },
+    {
+      "rank_2021": 463,
+      "name": "Kabupaten Lebak",
+      "province": "Banten",
+      "hdi_2021": 64.03,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 464,
+      "name": "Kabupaten Sarmi",
+      "province": "Papua",
+      "hdi_2021": 63.94,
+      "change_from_2020": 0.31
+    },
+    {
+      "rank_2021": 465,
+      "name": "Kabupaten Raja Ampat",
+      "province": "Papua Barat",
+      "hdi_2021": 63.92,
+      "change_from_2020": 0.03
+    },
+    {
+      "rank_2021": 466,
+      "name": "Kabupaten Sumba Barat",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 63.83,
+      "change_from_2020": 0.3
+    },
+    {
+      "rank_2021": 466,
+      "name": "Kabupaten Kepulauan Aru",
+      "province": "Maluku",
+      "hdi_2021": 63.83,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 468,
+      "name": "Kabupaten Kepulauan Sula",
+      "province": "Maluku Utara",
+      "hdi_2021": 63.8,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 469,
+      "name": "Kabupaten Timor Tengah Utara",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 63.69,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 470,
+      "name": "Kabupaten Kepulauan Tanimbar",
+      "province": "Maluku",
+      "hdi_2021": 62.97,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 471,
+      "name": "Kabupaten Kayong Utara",
+      "province": "Kalimantan Barat",
+      "hdi_2021": 62.9,
+      "change_from_2020": 0.22
+    },
+    {
+      "rank_2021": 471,
+      "name": "Kabupaten Pulau Morotai",
+      "province": "Maluku Utara",
+      "hdi_2021": 62.9,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 473,
+      "name": "Kabupaten Nias Utara",
+      "province": "Sumatera Utara",
+      "hdi_2021": 62.82,
+      "change_from_2020": 0.46
+    },
+    {
+      "rank_2021": 474,
+      "name": "Kabupaten Sampang",
+      "province": "Jawa Timur",
+      "hdi_2021": 62.8,
+      "change_from_2020": 0.1
+    },
+    {
+      "rank_2021": 475,
+      "name": "Kabupaten Belu",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 62.77,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 476,
+      "name": "Kabupaten Nias",
+      "province": "Sumatera Utara",
+      "hdi_2021": 62.74,
+      "change_from_2020": 0.81
+    },
+    {
+      "rank_2021": 477,
+      "name": "Kabupaten Supiori",
+      "province": "Papua",
+      "hdi_2021": 62.72,
+      "change_from_2020": 0.42
+    },
+    {
+      "rank_2021": 478,
+      "name": "Kabupaten Rote Ndao",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 62.6,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 479,
+      "name": "Kabupaten Sorong Selatan",
+      "province": "Papua Barat",
+      "hdi_2021": 62.46,
+      "change_from_2020": 0.04
+    },
+    {
+      "rank_2021": 480,
+      "name": "Kabupaten Maluku Barat Daya",
+      "province": "Maluku",
+      "hdi_2021": 62.37,
+      "change_from_2020": 0.47
+    },
+    {
+      "rank_2021": 481,
+      "name": "Kabupaten Nias Selatan",
+      "province": "Sumatera Utara",
+      "hdi_2021": 62.35,
+      "change_from_2020": 0.46
+    },
+    {
+      "rank_2021": 482,
+      "name": "Kabupaten Sumba Barat Daya",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 62.29,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 483,
+      "name": "Kabupaten Timor Tengah Selatan",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 62.16,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 484,
+      "name": "Kabupaten Nias Barat",
+      "province": "Sumatera Utara",
+      "hdi_2021": 61.99,
+      "change_from_2020": 0.48
+    },
+    {
+      "rank_2021": 485,
+      "name": "Kabupaten Sumba Tengah",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 61.8,
+      "change_from_2020": 0.27
+    },
+    {
+      "rank_2021": 486,
+      "name": "Kabupaten Boven Digoel",
+      "province": "Papua",
+      "hdi_2021": 61.62,
+      "change_from_2020": 0.09
+    },
+    {
+      "rank_2021": 487,
+      "name": "Kabupaten Alor",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 61.37,
+      "change_from_2020": 0.04
+    },
+    {
+      "rank_2021": 487,
+      "name": "Kabupaten Manggarai Timur",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 61.37,
+      "change_from_2020": 0.52
+    },
+    {
+      "rank_2021": 489,
+      "name": "Kabupaten Kepulauan Mentawai",
+      "province": "Sumatera Barat",
+      "hdi_2021": 61.35,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 490,
+      "name": "Kabupaten Pulau Taliabu",
+      "province": "Maluku Utara",
+      "hdi_2021": 60.73,
+      "change_from_2020": 0.25
+    },
+    {
+      "rank_2021": 491,
+      "name": "Kabupaten Malaka",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 60.42,
+      "change_from_2020": 0.21
+    },
+    {
+      "rank_2021": 492,
+      "name": "Kabupaten Teluk Wondama",
+      "province": "Papua Barat",
+      "hdi_2021": 60.33,
+      "change_from_2020": 0.12
+    },
+    {
+      "rank_2021": 493,
+      "name": "Kabupaten Manokwari Selatan",
+      "province": "Papua Barat",
+      "hdi_2021": 59.85,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 494,
+      "name": "Kabupaten Maybrat",
+      "province": "Papua Barat",
+      "hdi_2021": 59.7,
+      "change_from_2020": 0.18
+    },
+    {
+      "rank_2021": 495,
+      "name": "Kabupaten Mappi",
+      "province": "Papua",
+      "hdi_2021": 58.7,
+      "change_from_2020": 0.55
+    },
+    {
+      "rank_2021": 496,
+      "name": "Kabupaten Jayawijaya",
+      "province": "Papua",
+      "hdi_2021": 58.67,
+      "change_from_2020": 0.64
+    },
+    {
+      "rank_2021": 497,
+      "name": "Kabupaten Sabu Raijua",
+      "province": "Nusa Tenggara Timur",
+      "hdi_2021": 57.03,
+      "change_from_2020": 0.01
+    },
+    {
+      "rank_2021": 498,
+      "name": "Kabupaten Paniai",
+      "province": "Papua",
+      "hdi_2021": 56.7,
+      "change_from_2020": 0.39
+    },
+    {
+      "rank_2021": 499,
+      "name": "Kabupaten Pegunungan Arfak",
+      "province": "Papua Barat",
+      "hdi_2021": 56.13,
+      "change_from_2020": -0.2
+    },
+    {
+      "rank_2021": 500,
+      "name": "Kabupaten Dogiyai",
+      "province": "Papua",
+      "hdi_2021": 55,
+      "change_from_2020": 0.16
+    },
+    {
+      "rank_2021": 501,
+      "name": "Kabupaten Tambrauw",
+      "province": "Papua Barat",
+      "hdi_2021": 53.71,
+      "change_from_2020": 0.26
+    },
+    {
+      "rank_2021": 502,
+      "name": "Kabupaten Mamberamo Raya",
+      "province": "Papua",
+      "hdi_2021": 52.18,
+      "change_from_2020": 0.4
+    },
+    {
+      "rank_2021": 503,
+      "name": "Kabupaten Asmat",
+      "province": "Papua",
+      "hdi_2021": 51.29,
+      "change_from_2020": 0.74
+    },
+    {
+      "rank_2021": 504,
+      "name": "Kabupaten Deiyai",
+      "province": "Papua",
+      "hdi_2021": 49.96,
+      "change_from_2020": 0.5
+    },
+    {
+      "rank_2021": 505,
+      "name": "Kabupaten Tolikara",
+      "province": "Papua",
+      "hdi_2021": 49.6,
+      "change_from_2020": 0.1
+    },
+    {
+      "rank_2021": 506,
+      "name": "Kabupaten Yahukimo",
+      "province": "Papua",
+      "hdi_2021": 49.48,
+      "change_from_2020": 0.11
+    },
+    {
+      "rank_2021": 507,
+      "name": "Kabupaten Yalimo",
+      "province": "Papua",
+      "hdi_2021": 49.01,
+      "change_from_2020": 0.67
+    },
+    {
+      "rank_2021": 508,
+      "name": "Kabupaten Puncak Jaya",
+      "province": "Papua",
+      "hdi_2021": 48.99,
+      "change_from_2020": 0.62
+    },
+    {
+      "rank_2021": 509,
+      "name": "Kabupaten Lanny Jaya",
+      "province": "Papua",
+      "hdi_2021": 48.68,
+      "change_from_2020": 0.82
+    },
+    {
+      "rank_2021": 510,
+      "name": "Kabupaten Intan Jaya",
+      "province": "Papua",
+      "hdi_2021": 48.34,
+      "change_from_2020": 0.55
+    },
+    {
+      "rank_2021": 511,
+      "name": "Kabupaten Mamberamo Tengah",
+      "province": "Papua",
+      "hdi_2021": 48.32,
+      "change_from_2020": 0.75
+    },
+    {
+      "rank_2021": 512,
+      "name": "Kabupaten Pegunungan Bintang",
+      "province": "Papua",
+      "hdi_2021": 46.28,
+      "change_from_2020": 0.84
+    },
+    {
+      "rank_2021": 513,
+      "name": "Kabupaten Puncak",
+      "province": "Papua",
+      "hdi_2021": 43.17,
+      "change_from_2020": 0.13
+    },
+    {
+      "rank_2021": 514,
+      "name": "Kabupaten Nduga",
+      "province": "Papua Pegunungan",
+      "hdi_2021": 32.84,
+      "change_from_2020": 1.29
+    }
+  ],
+  "meta": {
+    "title": "Indeks Pembangunan Manusia (IPM) Kabupaten/Kota di Indonesia 2021 - Free Download",
+    "description": "Peringkat Indeks Pembangunan Manusia (IPM) seluruh kabupaten dan kota di Indonesia tahun 2021 menurut data BPS, beserta provinsi dan perubahan nilai IPM dari tahun 2020. Contains 514 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Indeks Pembangunan Manusia (IPM) Kabupaten/Kota di Indonesia 2021 | ListBase",
+    "seo_description": "Download Indeks Pembangunan Manusia (IPM) Kabupaten/Kota di Indonesia 2021 — 514 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 514 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia_menurut_IPM"
+    ]
+  }
+}
