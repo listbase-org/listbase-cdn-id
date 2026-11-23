@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-20T02:16:49.437Z",
-  "total_datasets": 666,
-  "total_records": 661042,
+  "generated": "2026-11-23T02:20:51.149Z",
+  "total_datasets": 667,
+  "total_records": 661073,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -1476,6 +1476,36 @@
         "xlsx": {
           "name": "id-danau-terbesar_ID.xlsx",
           "size": 7245
+        }
+      }
+    },
+    {
+      "id": "id-letusan-gunung-berapi-besar",
+      "name": "Daftar Letusan Gunung Berapi Besar di Indonesia",
+      "category": "environment",
+      "record_count": 31,
+      "columns": [
+        "start_date",
+        "volcano",
+        "end_date",
+        "vei",
+        "location",
+        "tsunami",
+        "tephra_volume",
+        "deaths",
+        "deaths_count"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_gunung_berapi_di_Indonesia",
+      "updated": "2026-11",
+      "size": 10710,
+      "files": {
+        "csv": {
+          "name": "id-letusan-gunung-berapi-besar_ID.csv",
+          "size": 2974
+        },
+        "xlsx": {
+          "name": "id-letusan-gunung-berapi-besar_ID.xlsx",
+          "size": 8919
         }
       }
     },

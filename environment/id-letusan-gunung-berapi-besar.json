@@ -1,0 +1,412 @@
+{
+  "id": "id-letusan-gunung-berapi-besar",
+  "name": "Daftar Letusan Gunung Berapi Besar di Indonesia",
+  "title": "Daftar Letusan Gunung Berapi Besar di Indonesia",
+  "description": "Daftar letusan gunung berapi penting di Indonesia dari Toba hingga 2025 dengan tanggal mulai dan berakhir, indeks VEI, lokasi, tsunami, volume tefra, dan jumlah korban jiwa.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_gunung_berapi_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_gunung_berapi_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "start_date",
+      "label": "Start Date",
+      "type": "string"
+    },
+    {
+      "key": "volcano",
+      "label": "Volcano",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "End Date",
+      "type": "string"
+    },
+    {
+      "key": "vei",
+      "label": "Vei",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "tsunami",
+      "label": "Tsunami",
+      "type": "string"
+    },
+    {
+      "key": "tephra_volume",
+      "label": "Tephra Volume",
+      "type": "string"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "deaths_count",
+      "label": "Deaths Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "start_date": "19 November 2025",
+      "volcano": "Semeru",
+      "end_date": "31 Desember 2025",
+      "vei": 3,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "0",
+      "deaths_count": 0
+    },
+    {
+      "start_date": "3 November 2024",
+      "volcano": "Lewotobi Laki-laki",
+      "end_date": "17 Desember 2024",
+      "vei": 3,
+      "location": "Flores",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "10",
+      "deaths_count": 10
+    },
+    {
+      "start_date": "16 April 2024",
+      "volcano": "Ruang",
+      "end_date": "15 Mei 2024",
+      "vei": 4,
+      "location": "Sulawesi Utara",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "0",
+      "deaths_count": 0
+    },
+    {
+      "start_date": "3 Desember 2023",
+      "volcano": "Marapi",
+      "end_date": "8 Desember 2023",
+      "vei": 2,
+      "location": "Sumatera Barat",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "24",
+      "deaths_count": 24
+    },
+    {
+      "start_date": "4 Desember 2021",
+      "volcano": "Semeru",
+      "end_date": "5 Desember 2021",
+      "vei": 4,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "57",
+      "deaths_count": 57
+    },
+    {
+      "start_date": "18 Desember 2018",
+      "volcano": "Anak Krakatau",
+      "end_date": "10 Januari 2019",
+      "vei": 3,
+      "location": "Selat Sunda",
+      "tsunami": "3 M",
+      "tephra_volume": "",
+      "deaths": "426",
+      "deaths_count": 426
+    },
+    {
+      "start_date": "13 Agustus 2017",
+      "volcano": "Gunung Agung",
+      "end_date": "12 Juni 2019",
+      "vei": 3,
+      "location": "Bali",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "0",
+      "deaths_count": 0
+    },
+    {
+      "start_date": "13 Februari 2014",
+      "volcano": "Kelud",
+      "end_date": "15 Februari 2014",
+      "vei": 4,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "4",
+      "deaths_count": 4
+    },
+    {
+      "start_date": "15 September 2013",
+      "volcano": "Sinabung",
+      "end_date": "9 Juni 2019",
+      "vei": 4,
+      "location": "Sumatera Utara",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "23",
+      "deaths_count": 23
+    },
+    {
+      "start_date": "3 November 2010",
+      "volcano": "Merapi",
+      "end_date": "8 November 2010",
+      "vei": 4,
+      "location": "Jawa Tengah, DI Yogyakarta",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "353",
+      "deaths_count": 353
+    },
+    {
+      "start_date": "10 Februari 1990",
+      "volcano": "Kelud",
+      "end_date": "Maret 1990",
+      "vei": 4,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "0.13 km³",
+      "deaths": "35",
+      "deaths_count": 35
+    },
+    {
+      "start_date": "18 Juli 1983",
+      "volcano": "Colo",
+      "end_date": "Desember 1983",
+      "vei": 4,
+      "location": "Sulawesi Tengah",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "0",
+      "deaths_count": 0
+    },
+    {
+      "start_date": "5 April 1982",
+      "volcano": "Galunggung",
+      "end_date": "8 Januari 1983",
+      "vei": 4,
+      "location": "Jawa Barat",
+      "tsunami": "tidak",
+      "tephra_volume": "0.37 km³ +",
+      "deaths": "68",
+      "deaths_count": 68
+    },
+    {
+      "start_date": "30 April 1979",
+      "volcano": "Marapi",
+      "end_date": "5 Mei 1979",
+      "vei": 3,
+      "location": "Sumatera Barat",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "80",
+      "deaths_count": 80
+    },
+    {
+      "start_date": "26 April 1966",
+      "volcano": "Kelud",
+      "end_date": "27 April 1966",
+      "vei": 4,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "0.089 km³",
+      "deaths": "212",
+      "deaths_count": 212
+    },
+    {
+      "start_date": "17 Maret 1963",
+      "volcano": "Gunung Agung",
+      "end_date": "27 Januari 1964",
+      "vei": 5,
+      "location": "Bali",
+      "tsunami": "tidak",
+      "tephra_volume": "1 km³",
+      "deaths": "1.148",
+      "deaths_count": 1148
+    },
+    {
+      "start_date": "31 Agustus 1951",
+      "volcano": "Kelud",
+      "end_date": "31 Agustus 1951",
+      "vei": 4,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "0.2 km³",
+      "deaths": "7",
+      "deaths_count": 7
+    },
+    {
+      "start_date": "25 November 1930",
+      "volcano": "Merapi",
+      "end_date": "September 1931",
+      "vei": 3,
+      "location": "Jawa Tengah, DI Yogyakarta",
+      "tsunami": "tidak",
+      "tephra_volume": "0.0017 km³",
+      "deaths": "1.369",
+      "deaths_count": 1369
+    },
+    {
+      "start_date": "19 Mei 1919",
+      "volcano": "Kelud",
+      "end_date": "20 Mei 1919",
+      "vei": 4,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "0.19 km³",
+      "deaths": "5.110",
+      "deaths_count": 5110
+    },
+    {
+      "start_date": "7 Juni 1892",
+      "volcano": "Awu",
+      "end_date": "12 Juni 1892",
+      "vei": 3,
+      "location": "Sulawesi Utara",
+      "tsunami": "ya",
+      "tephra_volume": "",
+      "deaths": "1.532",
+      "deaths_count": 1532
+    },
+    {
+      "start_date": "26 Agustus 1883",
+      "volcano": "Krakatau",
+      "end_date": "Februari 1884",
+      "vei": 6,
+      "location": "Selat Sunda",
+      "tsunami": "15–42 m",
+      "tephra_volume": "5–8.5 km³",
+      "deaths": "36.600",
+      "deaths_count": 36600
+    },
+    {
+      "start_date": "15 April 1872",
+      "volcano": "Merapi",
+      "end_date": "21 April 1872",
+      "vei": 4,
+      "location": "Jawa Tengah, DI Yogyakarta",
+      "tsunami": "tidak",
+      "tephra_volume": "0.33 km³",
+      "deaths": "200",
+      "deaths_count": 200
+    },
+    {
+      "start_date": "2 Maret 1856",
+      "volcano": "Awu",
+      "end_date": "17 Maret 1856",
+      "vei": 3,
+      "location": "Sulawesi Utara",
+      "tsunami": "ya",
+      "tephra_volume": "0.51±0.50 km³",
+      "deaths": "2.806",
+      "deaths_count": 2806
+    },
+    {
+      "start_date": "8 Oktober 1822",
+      "volcano": "Galunggung",
+      "end_date": "Desember 1822",
+      "vei": 5,
+      "location": "Jawa Barat",
+      "tsunami": "tidak",
+      "tephra_volume": "1 km³ +",
+      "deaths": "4.011",
+      "deaths_count": 4011
+    },
+    {
+      "start_date": "10 April 1815",
+      "volcano": "Tambora",
+      "end_date": "15 Juli 1815",
+      "vei": 7,
+      "location": "Nusa Tenggara Barat, Sumbawa",
+      "tsunami": "1–2 m",
+      "tephra_volume": "160–180 km³",
+      "deaths": "71.000+",
+      "deaths_count": 71000
+    },
+    {
+      "start_date": "6 Agustus 1812",
+      "volcano": "Awu",
+      "end_date": "8 Agustus 1812",
+      "vei": 4,
+      "location": "Sulawesi Utara",
+      "tsunami": "tidak",
+      "tephra_volume": "0.55±0.50 km³",
+      "deaths": "963",
+      "deaths_count": 963
+    },
+    {
+      "start_date": "12 Agustus 1772",
+      "volcano": "Papandayan",
+      "end_date": "12 Agustus 1772",
+      "vei": 3,
+      "location": "Jawa Barat",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "2.957",
+      "deaths_count": 2957
+    },
+    {
+      "start_date": "4 Agustus 1672",
+      "volcano": "Merapi",
+      "end_date": "tidak diketahui",
+      "vei": 3,
+      "location": "Jawa Tengah, DI Yogyakarta",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "3.000",
+      "deaths_count": 3000
+    },
+    {
+      "start_date": "1586",
+      "volcano": "Kelud",
+      "end_date": "tidak diketahui",
+      "vei": 5,
+      "location": "Jawa Timur",
+      "tsunami": "tidak",
+      "tephra_volume": "1 km³ +",
+      "deaths": "10.000",
+      "deaths_count": 10000
+    },
+    {
+      "start_date": "1257",
+      "volcano": "Samalas",
+      "end_date": "tidak diketahui",
+      "vei": 7,
+      "location": "Lombok",
+      "tsunami": "tidak",
+      "tephra_volume": "",
+      "deaths": "tidak diketahui",
+      "deaths_count": ""
+    },
+    {
+      "start_date": "74.000 SM",
+      "volcano": "Gunung Toba",
+      "end_date": "tidak diketahui",
+      "vei": 8,
+      "location": "Sumatera Utara",
+      "tsunami": "mungkin",
+      "tephra_volume": "2,800 km³",
+      "deaths": "hampir memusnahkan populasi manusia",
+      "deaths_count": ""
+    }
+  ],
+  "meta": {
+    "title": "Daftar Letusan Gunung Berapi Besar di Indonesia - Free Download",
+    "description": "Daftar letusan gunung berapi penting di Indonesia dari Toba hingga 2025 dengan tanggal mulai dan berakhir, indeks VEI, lokasi, tsunami, volume tefra, dan jumlah korban jiwa. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Letusan Gunung Berapi Besar di Indonesia | ListBase",
+    "seo_description": "Download Daftar Letusan Gunung Berapi Besar di Indonesia — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_gunung_berapi_di_Indonesia"
+    ]
+  }
+}
