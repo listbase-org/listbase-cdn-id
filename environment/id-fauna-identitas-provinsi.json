@@ -1,0 +1,231 @@
+{
+  "id": "id-fauna-identitas-provinsi",
+  "name": "Daftar Fauna Identitas Provinsi di Indonesia",
+  "title": "Daftar Fauna Identitas Provinsi di Indonesia",
+  "description": "Fauna identitas (maskot satwa) setiap provinsi di Indonesia beserta nama latinnya.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_fauna_identitas_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_fauna_identitas_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "fauna",
+      "label": "Fauna",
+      "type": "string"
+    },
+    {
+      "key": "latin_name",
+      "label": "Latin Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Aceh",
+      "fauna": "Ceumpala Kuneng",
+      "latin_name": "Trichixos pyrropygus"
+    },
+    {
+      "province": "Sumatera Utara",
+      "fauna": "Beo Nias",
+      "latin_name": "Gracula robusta"
+    },
+    {
+      "province": "Sumatera Barat",
+      "fauna": "Kuau Raja",
+      "latin_name": "Argusianus argus"
+    },
+    {
+      "province": "Riau",
+      "fauna": "Serindit",
+      "latin_name": "Loriculus galgulus"
+    },
+    {
+      "province": "Kepulauan Riau",
+      "fauna": "Kakap merah darah",
+      "latin_name": "Lutjanus sanguineus"
+    },
+    {
+      "province": "Jambi",
+      "fauna": "Harimau Sumatra",
+      "latin_name": "Panthera tigris sondaica"
+    },
+    {
+      "province": "Sumatera Selatan",
+      "fauna": "Ikan belida",
+      "latin_name": "Chitala lopis"
+    },
+    {
+      "province": "Kepulauan Bangka Belitung",
+      "fauna": "Mentilin",
+      "latin_name": "Cephalopachus bancanus"
+    },
+    {
+      "province": "Bengkulu",
+      "fauna": "Beruang madu",
+      "latin_name": "Helarctos malayanus"
+    },
+    {
+      "province": "Lampung",
+      "fauna": "Gajah Sumatra",
+      "latin_name": "Elephas maximus sumatranus"
+    },
+    {
+      "province": "Banten",
+      "fauna": "Badak Jawa",
+      "latin_name": "Rhinoceros sondaicus"
+    },
+    {
+      "province": "DKI Jakarta",
+      "fauna": "Elang Bondol",
+      "latin_name": "Haliastur indus"
+    },
+    {
+      "province": "Jawa Barat",
+      "fauna": "Macan Tutul Jawa",
+      "latin_name": "Panthera pardus melas"
+    },
+    {
+      "province": "Jawa Tengah",
+      "fauna": "Kepodang Emas",
+      "latin_name": "Oriolus chinensis"
+    },
+    {
+      "province": "DI Yogyakarta",
+      "fauna": "Perkutut",
+      "latin_name": "Geopelia striata"
+    },
+    {
+      "province": "Jawa Timur",
+      "fauna": "Ayam bekisar",
+      "latin_name": "Gallus varius × Gallus gallus"
+    },
+    {
+      "province": "Bali",
+      "fauna": "Jalak Bali",
+      "latin_name": "Leucopsar rotschildi"
+    },
+    {
+      "province": "Nusa Tenggara Barat",
+      "fauna": "Rusa Timor",
+      "latin_name": "Rusa timorensis"
+    },
+    {
+      "province": "Nusa Tenggara Timur",
+      "fauna": "Biawak Komodo",
+      "latin_name": "Varanus komodoensis"
+    },
+    {
+      "province": "Kalimantan Barat",
+      "fauna": "Enggang Gading",
+      "latin_name": "Rhinoplax vigil"
+    },
+    {
+      "province": "Kalimantan Tengah",
+      "fauna": "Kuau-kerdil Kalimantan",
+      "latin_name": "Polyplectron schleiermacheri"
+    },
+    {
+      "province": "Kalimantan Selatan",
+      "fauna": "Bekantan",
+      "latin_name": "Nasalis larvatus"
+    },
+    {
+      "province": "Kalimantan Timur",
+      "fauna": "Pesut Mahakam",
+      "latin_name": "Orcaella brevirostris"
+    },
+    {
+      "province": "Kalimantan Utara",
+      "fauna": "Rangkong Badak",
+      "latin_name": "Buceros rhinoceros"
+    },
+    {
+      "province": "Sulawesi Selatan",
+      "fauna": "Julang Sulawesi",
+      "latin_name": "Rhyticeros cassidix"
+    },
+    {
+      "province": "Sulawesi Barat",
+      "fauna": "Mandar Dengkur",
+      "latin_name": "Aramidopsis plateni"
+    },
+    {
+      "province": "Sulawesi Tenggara",
+      "fauna": "Anoa",
+      "latin_name": "Bubalus depressicornis"
+    },
+    {
+      "province": "Sulawesi Tengah",
+      "fauna": "Maleo Senkawor",
+      "latin_name": "Macrocephalon maleo"
+    },
+    {
+      "province": "Gorontalo",
+      "fauna": "Ikan Bulalao",
+      "latin_name": "Liza dussumieri"
+    },
+    {
+      "province": "Sulawesi Utara",
+      "fauna": "Tangkasi",
+      "latin_name": "Tarsius spectrumgurskyae"
+    },
+    {
+      "province": "Maluku Utara",
+      "fauna": "Bidadari Halmahera",
+      "latin_name": "Semioptera wallacii"
+    },
+    {
+      "province": "Maluku",
+      "fauna": "Nuri raja ambon",
+      "latin_name": "Alisterus amboinensis"
+    },
+    {
+      "province": "Papua Barat",
+      "fauna": "Kasuari gelambir tunggal",
+      "latin_name": "Casuarius unappendiculatus"
+    },
+    {
+      "province": "Papua",
+      "fauna": "Cendrawasih 12 Kawat",
+      "latin_name": "Seleucidis melanoleucus"
+    },
+    {
+      "province": "Papua Tengah",
+      "fauna": "Hiu Paus",
+      "latin_name": "Rhincodon typus"
+    },
+    {
+      "province": "Papua Pegunungan",
+      "fauna": "Babi hutan",
+      "latin_name": "Sus scrofa papuaensis"
+    },
+    {
+      "province": "Papua Selatan",
+      "fauna": "Walabi",
+      "latin_name": "Familia Macropodidae"
+    },
+    {
+      "province": "Papua Barat Daya",
+      "fauna": "Kakatua raja",
+      "latin_name": "Probosciger aterrimus"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Fauna Identitas Provinsi di Indonesia - Free Download",
+    "description": "Fauna identitas (maskot satwa) setiap provinsi di Indonesia beserta nama latinnya. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Fauna Identitas Provinsi di Indonesia | ListBase",
+    "seo_description": "Download Daftar Fauna Identitas Provinsi di Indonesia — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_fauna_identitas_di_Indonesia"
+    ]
+  }
+}

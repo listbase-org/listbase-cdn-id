@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-23T02:20:51.149Z",
-  "total_datasets": 667,
-  "total_records": 661073,
+  "generated": "2026-11-23T02:20:59.768Z",
+  "total_datasets": 668,
+  "total_records": 661111,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -1476,6 +1476,30 @@
         "xlsx": {
           "name": "id-danau-terbesar_ID.xlsx",
           "size": 7245
+        }
+      }
+    },
+    {
+      "id": "id-fauna-identitas-provinsi",
+      "name": "Daftar Fauna Identitas Provinsi di Indonesia",
+      "category": "environment",
+      "record_count": 38,
+      "columns": [
+        "province",
+        "fauna",
+        "latin_name"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_fauna_identitas_di_Indonesia",
+      "updated": "2026-11",
+      "size": 6113,
+      "files": {
+        "csv": {
+          "name": "id-fauna-identitas-provinsi_ID.csv",
+          "size": 2067
+        },
+        "xlsx": {
+          "name": "id-fauna-identitas-provinsi_ID.xlsx",
+          "size": 8374
         }
       }
     },
