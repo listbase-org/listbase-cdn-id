@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-23T02:20:59.768Z",
-  "total_datasets": 668,
-  "total_records": 661111,
+  "generated": "2026-11-23T02:21:07.823Z",
+  "total_datasets": 669,
+  "total_records": 661361,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 34
+      "dataset_count": 35
     },
     {
       "id": "units",
@@ -18246,6 +18246,30 @@
         "xlsx": {
           "name": "id-sumatera-utara-pelabuhan_ID.xlsx",
           "size": 7762
+        }
+      }
+    },
+    {
+      "id": "id-terminal-bus",
+      "name": "Daftar Terminal Bus di Indonesia",
+      "category": "transport",
+      "record_count": 250,
+      "columns": [
+        "terminal",
+        "city_regency",
+        "province"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_terminal_bus_di_Indonesia",
+      "updated": "2026-11",
+      "size": 34106,
+      "files": {
+        "csv": {
+          "name": "id-terminal-bus_ID.csv",
+          "size": 14454
+        },
+        "xlsx": {
+          "name": "id-terminal-bus_ID.xlsx",
+          "size": 13500
         }
       }
     },
