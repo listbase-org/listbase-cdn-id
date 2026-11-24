@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-23T02:21:07.823Z",
-  "total_datasets": 669,
-  "total_records": 661361,
+  "generated": "2026-11-24T02:13:11.376Z",
+  "total_datasets": 670,
+  "total_records": 661382,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -16181,6 +16181,30 @@
         "xlsx": {
           "name": "id-peraih-medali-olimpiade_ID.xlsx",
           "size": 8636
+        }
+      }
+    },
+    {
+      "id": "id-petinju-legendaris-indonesia",
+      "name": "Petinju Legendaris Indonesia",
+      "category": "sports",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "status",
+        "achievement"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_petinju_Indonesia",
+      "updated": "2026-11",
+      "size": 7212,
+      "files": {
+        "csv": {
+          "name": "id-petinju-legendaris-indonesia_ID.csv",
+          "size": 4354
+        },
+        "xlsx": {
+          "name": "id-petinju-legendaris-indonesia_ID.xlsx",
+          "size": 8651
         }
       }
     },
