@@ -1,0 +1,520 @@
+{
+  "id": "id-politeknik-negeri",
+  "name": "Daftar Politeknik Negeri di Indonesia",
+  "title": "Daftar Politeknik Negeri di Indonesia",
+  "description": "Daftar politeknik negeri dan politeknik milik kementerian/lembaga di Indonesia (tanpa Poltekkes) beserta singkatan, kota, provinsi, dan wilayah pulau.",
+  "category": "education",
+  "source": "https://id.wikipedia.org/wiki/Daftar_politeknik_negeri_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_politeknik_negeri_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Politeknik Negeri Lhokseumawe",
+      "abbreviation": "PNL",
+      "province": "Aceh",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Medan",
+      "abbreviation": "Polmed",
+      "province": "Sumatera Utara",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Padang",
+      "abbreviation": "PNP",
+      "province": "Sumatera Barat",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Pertanian Negeri Payakumbuh",
+      "abbreviation": "Politani",
+      "province": "Sumatera Barat",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Bengkalis",
+      "abbreviation": "Polbeng",
+      "province": "Riau",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Batam",
+      "abbreviation": "POLIBATAM",
+      "province": "Kepulauan Riau",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Sriwijaya",
+      "abbreviation": "POLSRI",
+      "province": "Sumatera Selatan",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Manufaktur Negeri Bangka Belitung",
+      "abbreviation": "",
+      "province": "Bangka Belitung",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Lampung",
+      "abbreviation": "Polinela",
+      "province": "Lampung",
+      "region": "Sumatera"
+    },
+    {
+      "name": "Politeknik Negeri Media Kreatif",
+      "abbreviation": "Polimedia",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Imigrasi",
+      "abbreviation": "Poltekim",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Ahli Usaha Perikanan",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik APP Jakarta",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik STIA LAN Jakarta",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik STMI Jakarta",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Statistika STIS",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Ketenagakerjaan",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Keuangan Negara STAN",
+      "abbreviation": "",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Penerbangan Indonesia",
+      "abbreviation": "PPI CURUG",
+      "province": "DKI Jakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik AKA Bogor",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Energi dan Pertambangan Bandung",
+      "abbreviation": "PEP",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Bandung",
+      "abbreviation": "Polban",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Manufaktur Negeri Bandung",
+      "abbreviation": "Polman",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Indramayu",
+      "abbreviation": "Polindra",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Jakarta",
+      "abbreviation": "PNJ",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Subang",
+      "abbreviation": "Polsub",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Kesejahteraan Sosial",
+      "abbreviation": "Poltekesos",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Pariwisata NHI Bandung",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Pembangunan Pertanian Bogor",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Pengayoman Indonesia",
+      "abbreviation": "Poltekpin",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Siber dan Sandi Negara",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik STIA LAN Bandung",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik STTT Bandung",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Transportasi Darat Indonesia - STTD",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Kelautan dan Perikanan Pangandaran",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Kelautan dan Perikanan Karawang",
+      "abbreviation": "",
+      "province": "Jawa Barat",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Semarang",
+      "abbreviation": "Polines",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Ilmu Pelayaran Semarang",
+      "abbreviation": "PIP",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Maritim Negeri Indonesia",
+      "abbreviation": "Polimarin",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Energi dan Mineral Akamigas",
+      "abbreviation": "PEM Akamigas",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Cilacap",
+      "abbreviation": "PNC",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Industri Furnitur dan Pengolahan Kayu",
+      "abbreviation": "Polifurneka",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Pembangunan Pertanian Yogyakarta-Magelang",
+      "abbreviation": "",
+      "province": "Jawa Tengah",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik ATK Yogyakarta",
+      "abbreviation": "ATK",
+      "province": "Daerah Istimewa Yogyakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Teknologi Nuklir",
+      "abbreviation": "",
+      "province": "Daerah Istimewa Yogyakarta",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Jember",
+      "abbreviation": "POLIJE",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Elektronika Negeri Surabaya",
+      "abbreviation": "PENS",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Pelayaran Surabaya",
+      "abbreviation": "",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Perkapalan Negeri Surabaya",
+      "abbreviation": "PPNS",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Perkeretaapian Indonesia",
+      "abbreviation": "PPI",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Malang",
+      "abbreviation": "Polinema",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Madiun",
+      "abbreviation": "PNM",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Madura",
+      "abbreviation": "Poltera",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Banyuwangi",
+      "abbreviation": "Poliwangi",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Penerbangan Surabaya",
+      "abbreviation": "",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Pembangunan Pertanian Malang",
+      "abbreviation": "",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Kelautan dan Perikanan Sidoarjo",
+      "abbreviation": "",
+      "province": "Jawa Timur",
+      "region": "Jawa"
+    },
+    {
+      "name": "Politeknik Negeri Pontianak",
+      "abbreviation": "Polnep",
+      "province": "Kalimantan Barat",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Sambas",
+      "abbreviation": "Poltesa",
+      "province": "Kalimantan Barat",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Ketapang",
+      "abbreviation": "Politap",
+      "province": "Kalimantan Barat",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Banjarmasin",
+      "abbreviation": "Poliban",
+      "province": "Kalimantan Selatan",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Tanah Laut",
+      "abbreviation": "Politala",
+      "province": "Kalimantan Selatan",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Balikpapan",
+      "abbreviation": "Poltekba",
+      "province": "Kalimantan Timur",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Samarinda",
+      "abbreviation": "Polnes",
+      "province": "Kalimantan Timur",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Pertanian Negeri Samarinda",
+      "abbreviation": "Politani",
+      "province": "Kalimantan Timur",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Nunukan",
+      "abbreviation": "PNN",
+      "province": "Kalimantan Utara",
+      "region": "Kalimantan"
+    },
+    {
+      "name": "Politeknik Negeri Bali",
+      "abbreviation": "PNB",
+      "province": "Bali",
+      "region": "Nusa Tenggara"
+    },
+    {
+      "name": "Politeknik Negeri Kupang",
+      "abbreviation": "PNK",
+      "province": "Nusa Tenggara Timur",
+      "region": "Nusa Tenggara"
+    },
+    {
+      "name": "Politeknik Pertanian Negeri Kupang",
+      "abbreviation": "",
+      "province": "Nusa Tenggara Timur",
+      "region": "Nusa Tenggara"
+    },
+    {
+      "name": "Politeknik ATI Makassar",
+      "abbreviation": "Poltek ATIM",
+      "province": "Sulawesi Selatan",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Negeri Ujung Pandang",
+      "abbreviation": "PNUP",
+      "province": "Sulawesi Selatan",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Pertanian Negeri Pangkajene dan Kepulauan",
+      "abbreviation": "PPNP",
+      "province": "Sulawesi Selatan",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Negeri Media Kreatif Makassar",
+      "abbreviation": "Polimedia",
+      "province": "Sulawesi Selatan",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Negeri Manado",
+      "abbreviation": "Polimdo",
+      "province": "Sulawesi Utara",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Negeri Nusa Utara",
+      "abbreviation": "Polinusa",
+      "province": "Sulawesi Utara",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Industri Logam Morowali",
+      "abbreviation": "PILM",
+      "province": "Sulawesi Tengah",
+      "region": "Sulawesi"
+    },
+    {
+      "name": "Politeknik Negeri Ambon",
+      "abbreviation": "Polnam",
+      "province": "Maluku",
+      "region": "Maluku dan Papua"
+    },
+    {
+      "name": "Politeknik Perikanan Negeri Tual",
+      "abbreviation": "Polikani",
+      "province": "Maluku",
+      "region": "Maluku dan Papua"
+    },
+    {
+      "name": "Politeknik Negeri Fakfak",
+      "abbreviation": "",
+      "province": "Papua Barat",
+      "region": "Maluku dan Papua"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Politeknik Negeri di Indonesia - Free Download",
+    "description": "Daftar politeknik negeri dan politeknik milik kementerian/lembaga di Indonesia (tanpa Poltekkes) beserta singkatan, kota, provinsi, dan wilayah pulau. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Politeknik Negeri di Indonesia | ListBase",
+    "seo_description": "Download Daftar Politeknik Negeri di Indonesia — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_politeknik_negeri_di_Indonesia"
+    ]
+  }
+}

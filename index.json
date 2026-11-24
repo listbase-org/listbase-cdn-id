@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-24T02:13:11.376Z",
-  "total_datasets": 670,
-  "total_records": 661382,
+  "generated": "2026-11-24T02:13:21.120Z",
+  "total_datasets": 671,
+  "total_records": 661461,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -1021,6 +1021,31 @@
         "xlsx": {
           "name": "id-perguruan-tinggi-kementerian-lembaga_ID.xlsx",
           "size": 12600
+        }
+      }
+    },
+    {
+      "id": "id-politeknik-negeri",
+      "name": "Daftar Politeknik Negeri di Indonesia",
+      "category": "education",
+      "record_count": 79,
+      "columns": [
+        "name",
+        "abbreviation",
+        "province",
+        "region"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_politeknik_negeri_di_Indonesia",
+      "updated": "2026-11",
+      "size": 13619,
+      "files": {
+        "csv": {
+          "name": "id-politeknik-negeri_ID.csv",
+          "size": 5189
+        },
+        "xlsx": {
+          "name": "id-politeknik-negeri_ID.xlsx",
+          "size": 9363
         }
       }
     },
