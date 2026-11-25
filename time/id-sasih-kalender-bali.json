@@ -1,0 +1,142 @@
+{
+  "id": "id-sasih-kalender-bali",
+  "name": "Nama-Nama Bulan (Sasih) Kalender Bali",
+  "title": "Nama-Nama Bulan (Sasih) Kalender Bali",
+  "description": "Daftar 12 sasih dalam kalender Bali (Saka Bali) beserta bulan kabisat Mala Sadha, jumlah hari dalam versi bulan (candra), serta awal dan akhir dalam versi matahari (Masehi).",
+  "category": "time",
+  "source": "https://id.wikipedia.org/wiki/Kalender_Bali",
+  "source_url": "https://id.wikipedia.org/wiki/Kalender_Bali",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lunar_days",
+      "label": "Lunar Days",
+      "type": "number"
+    },
+    {
+      "key": "solar_start",
+      "label": "Solar Start",
+      "type": "string"
+    },
+    {
+      "key": "solar_end",
+      "label": "Solar End",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Kasa",
+      "lunar_days": "30",
+      "solar_start": "22 Juni",
+      "solar_end": "21 Juli"
+    },
+    {
+      "no": 2,
+      "name": "Karo",
+      "lunar_days": "29",
+      "solar_start": "22 Juli",
+      "solar_end": "21 Agustus"
+    },
+    {
+      "no": 3,
+      "name": "Katiga",
+      "lunar_days": "30",
+      "solar_start": "22 Agustus",
+      "solar_end": "20 September"
+    },
+    {
+      "no": 4,
+      "name": "Kapat",
+      "lunar_days": "29",
+      "solar_start": "21 September",
+      "solar_end": "20 Oktober"
+    },
+    {
+      "no": 5,
+      "name": "Kalima",
+      "lunar_days": "30",
+      "solar_start": "22 Oktober",
+      "solar_end": "20 November"
+    },
+    {
+      "no": 6,
+      "name": "Kanem",
+      "lunar_days": "29",
+      "solar_start": "21 November",
+      "solar_end": "21 Desember"
+    },
+    {
+      "no": 7,
+      "name": "Kapitu",
+      "lunar_days": "30",
+      "solar_start": "22 Desember",
+      "solar_end": "20 Januari"
+    },
+    {
+      "no": 8,
+      "name": "Kawolu",
+      "lunar_days": "29 / 30",
+      "solar_start": "21 Januari",
+      "solar_end": "19 Februari"
+    },
+    {
+      "no": 9,
+      "name": "Kasanga",
+      "lunar_days": "29 / 30",
+      "solar_start": "20 Februari",
+      "solar_end": "22 Maret"
+    },
+    {
+      "no": 10,
+      "name": "Kadasa",
+      "lunar_days": "29",
+      "solar_start": "23 Maret",
+      "solar_end": "21 April"
+    },
+    {
+      "no": 11,
+      "name": "Jiyestha",
+      "lunar_days": "30",
+      "solar_start": "22 April",
+      "solar_end": "22 Mei"
+    },
+    {
+      "no": 12,
+      "name": "Sadha",
+      "lunar_days": "29",
+      "solar_start": "23 Mei",
+      "solar_end": "21 Juni"
+    },
+    {
+      "no": 13,
+      "name": "Mala Sadha",
+      "lunar_days": "(30)",
+      "solar_start": "",
+      "solar_end": ""
+    }
+  ],
+  "meta": {
+    "title": "Nama-Nama Bulan (Sasih) Kalender Bali - Free Download",
+    "description": "Daftar 12 sasih dalam kalender Bali (Saka Bali) beserta bulan kabisat Mala Sadha, jumlah hari dalam versi bulan (candra), serta awal dan akhir dalam versi matahari (Masehi). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nama-Nama Bulan (Sasih) Kalender Bali | ListBase",
+    "seo_description": "Download Nama-Nama Bulan (Sasih) Kalender Bali — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Kalender_Bali"
+    ]
+  }
+}

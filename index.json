@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-25T02:13:24.665Z",
-  "total_datasets": 672,
-  "total_records": 661598,
+  "generated": "2026-11-25T02:13:35.117Z",
+  "total_datasets": 673,
+  "total_records": 661611,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tourism",
@@ -17063,6 +17063,32 @@
         "xlsx": {
           "name": "id-mangsa-pranata-mangsa_ID.xlsx",
           "size": 7161
+        }
+      }
+    },
+    {
+      "id": "id-sasih-kalender-bali",
+      "name": "Nama-Nama Bulan (Sasih) Kalender Bali",
+      "category": "time",
+      "record_count": 13,
+      "columns": [
+        "no",
+        "name",
+        "lunar_days",
+        "solar_start",
+        "solar_end"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Kalender_Bali",
+      "updated": "2026-11",
+      "size": 3598,
+      "files": {
+        "csv": {
+          "name": "id-sasih-kalender-bali_ID.csv",
+          "size": 603
+        },
+        "xlsx": {
+          "name": "id-sasih-kalender-bali_ID.xlsx",
+          "size": 7278
         }
       }
     },
