@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-24T02:13:21.120Z",
-  "total_datasets": 671,
-  "total_records": 661461,
+  "generated": "2026-11-25T02:13:24.665Z",
+  "total_datasets": 672,
+  "total_records": 661598,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -17211,6 +17211,31 @@
         "xlsx": {
           "name": "id-festival-daerah_ID.xlsx",
           "size": 9346
+        }
+      }
+    },
+    {
+      "id": "id-gua-maria",
+      "name": "Daftar Gua Maria di Indonesia",
+      "category": "tourism",
+      "record_count": 137,
+      "columns": [
+        "name",
+        "location",
+        "diocese",
+        "region"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_gua_Maria_di_Indonesia",
+      "updated": "2026-11",
+      "size": 29207,
+      "files": {
+        "csv": {
+          "name": "id-gua-maria_ID.csv",
+          "size": 16641
+        },
+        "xlsx": {
+          "name": "id-gua-maria_ID.xlsx",
+          "size": 13821
         }
       }
     },
