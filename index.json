@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-25T02:13:35.117Z",
-  "total_datasets": 673,
-  "total_records": 661611,
+  "generated": "2026-11-26T02:13:07.872Z",
+  "total_datasets": 674,
+  "total_records": 661629,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "law",
@@ -7194,6 +7194,33 @@
         "xlsx": {
           "name": "id-taman-makam-pahlawan_ID.xlsx",
           "size": 17464
+        }
+      }
+    },
+    {
+      "id": "id-aksara-di-indonesia",
+      "name": "Daftar Aksara yang Digunakan di Indonesia",
+      "category": "language",
+      "record_count": 18,
+      "columns": [
+        "nama_aksara",
+        "tulisan_asli",
+        "jenis",
+        "populasi_pengguna_juta",
+        "bahasa",
+        "wilayah_penggunaan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_aksara_di_Indonesia",
+      "updated": "2026-11",
+      "size": 6596,
+      "files": {
+        "csv": {
+          "name": "id-aksara-di-indonesia_ID.csv",
+          "size": 2076
+        },
+        "xlsx": {
+          "name": "id-aksara-di-indonesia_ID.xlsx",
+          "size": 8235
         }
       }
     },

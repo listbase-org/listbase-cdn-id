@@ -1,0 +1,200 @@
+{
+  "id": "id-aksara-di-indonesia",
+  "name": "Daftar Aksara yang Digunakan di Indonesia",
+  "title": "Daftar Aksara yang Digunakan di Indonesia",
+  "description": "Aksara (sistem tulisan) yang digunakan di Indonesia beserta jenis aksara, perkiraan populasi pengguna (juta), bahasa yang ditulis, dan wilayah penggunaannya.",
+  "category": "language",
+  "source": "https://id.wikipedia.org/wiki/Daftar_aksara_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_aksara_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nama_aksara",
+      "label": "Nama Aksara",
+      "type": "string"
+    },
+    {
+      "key": "tulisan_asli",
+      "label": "Tulisan Asli",
+      "type": "string"
+    },
+    {
+      "key": "jenis",
+      "label": "Jenis",
+      "type": "string"
+    },
+    {
+      "key": "populasi_pengguna_juta",
+      "label": "Populasi Pengguna Juta",
+      "type": "number"
+    },
+    {
+      "key": "bahasa",
+      "label": "Bahasa",
+      "type": "string"
+    },
+    {
+      "key": "wilayah_penggunaan",
+      "label": "Wilayah Penggunaan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama_aksara": "Latin",
+      "tulisan_asli": "Latin",
+      "jenis": "Alfabet",
+      "populasi_pengguna_juta": 200,
+      "bahasa": "Hingga 700 bahasa di Indonesia: Jawa, Sunda, Madura, Minangkabau, Minahasa, Bugis, Banjar, Aceh, Bali, Betawi, Makassar, Batak, Dayak, Melayu, dll.",
+      "wilayah_penggunaan": "Indonesia"
+    },
+    {
+      "nama_aksara": "Jawa",
+      "tulisan_asli": "ꦗꦮ",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 80,
+      "bahasa": "Jawa, Cirebon, Madura, Sunda",
+      "wilayah_penggunaan": "Jawa Tengah, Jawa Timur, Daerah Istimewa Yogyakarta, dan Jawa Barat (Kota Cirebon, Kabupaten Cirebon, dan Kabupaten Indramayu)"
+    },
+    {
+      "nama_aksara": "Sunda",
+      "tulisan_asli": "ᮞᮥᮔ᮪ᮓ",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 38,
+      "bahasa": "Sunda, Badui",
+      "wilayah_penggunaan": "Jawa Barat dan Banten"
+    },
+    {
+      "nama_aksara": "Arab",
+      "tulisan_asli": "العربية",
+      "jenis": "Abjad",
+      "populasi_pengguna_juta": 32.95,
+      "bahasa": "Arab, Melayu (Jawi), Aceh (Jawoë), Banjar (Jawi), Madura (Pegon), Jawa (Pegon), Sunda (Pegon), Minangkabau (Jawi), Wolio (Buri Wolio)",
+      "wilayah_penggunaan": "Sumatera Barat, Aceh, Sumatera Selatan, Riau, Kalimantan Barat, Bangka Belitung, Jambi, Kep. Riau, Sumatera Utara, Bengkulu, Madura, dan Jawa"
+    },
+    {
+      "nama_aksara": "Batak",
+      "tulisan_asli": "ᯅᯖᯂ᯲ ᯆᯗᯂ᯳ ᯅᯖᯃ᯳ ᯅᯗᯂ᯲ ᯅᯖᯄ᯲",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 8.5,
+      "bahasa": "Bahasa-bahasa Batak",
+      "wilayah_penggunaan": "Sumatera Utara"
+    },
+    {
+      "nama_aksara": "Lontara",
+      "tulisan_asli": "ᨒᨚᨈᨑ",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 7.6,
+      "bahasa": "Bugis, Makassar, Mandar",
+      "wilayah_penggunaan": "Sulawesi Selatan dan Sulawesi Barat"
+    },
+    {
+      "nama_aksara": "Bali",
+      "tulisan_asli": "ᬩᬮᬶ",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 6,
+      "bahasa": "Bali, Sasak",
+      "wilayah_penggunaan": "Bali dan Lombok"
+    },
+    {
+      "nama_aksara": "Sasak",
+      "tulisan_asli": "",
+      "jenis": "Abudiga",
+      "populasi_pengguna_juta": 3.6,
+      "bahasa": "Sasak",
+      "wilayah_penggunaan": "Lombok"
+    },
+    {
+      "nama_aksara": "Honji",
+      "tulisan_asli": "汉字 漢字",
+      "jenis": "Logografis",
+      "populasi_pengguna_juta": 2.8,
+      "bahasa": "Tionghoa, Jepang (Kanji)",
+      "wilayah_penggunaan": "Sumatera Utara, Riau, Kepulauan Riau, Bangka Belitung, Jakarta, Kalimantan Barat, Jawa Tengah, dan Bali"
+    },
+    {
+      "nama_aksara": "Iban",
+      "tulisan_asli": "",
+      "jenis": "Semisilabis",
+      "populasi_pengguna_juta": 2.45,
+      "bahasa": "Iban",
+      "wilayah_penggunaan": "Kalimantan Barat"
+    },
+    {
+      "nama_aksara": "Kaganga",
+      "tulisan_asli": "",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 2,
+      "bahasa": "Kerinci (Incung), Lampungik (Lampung), Melayu Tengah (Rencong), Ogan (Ogan), Rejang (Rejang)",
+      "wilayah_penggunaan": "Sumatera Selatan Bengkulu, Jambi, dan Lampung"
+    },
+    {
+      "nama_aksara": "Bima",
+      "tulisan_asli": "",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 0.5,
+      "bahasa": "Bima",
+      "wilayah_penggunaan": "Sumbawa"
+    },
+    {
+      "nama_aksara": "Gayo",
+      "tulisan_asli": "",
+      "jenis": "Abugida?",
+      "populasi_pengguna_juta": 0.4,
+      "bahasa": "Gayo",
+      "wilayah_penggunaan": "Aceh"
+    },
+    {
+      "nama_aksara": "Kanayatn",
+      "tulisan_asli": "",
+      "jenis": "Alfabet",
+      "populasi_pengguna_juta": 0.33,
+      "bahasa": "Kanayatn",
+      "wilayah_penggunaan": "Kalimantan Barat"
+    },
+    {
+      "nama_aksara": "Hangul",
+      "tulisan_asli": "한글 조선글",
+      "jenis": "Alfabet, Khusus",
+      "populasi_pengguna_juta": 0.12,
+      "bahasa": "Korea, Cia-Cia",
+      "wilayah_penggunaan": "Jakarta dan Baubau"
+    },
+    {
+      "nama_aksara": "Tamil",
+      "tulisan_asli": "தமிழ்",
+      "jenis": "Abugida",
+      "populasi_pengguna_juta": 0.12,
+      "bahasa": "Tamil",
+      "wilayah_penggunaan": "Medan, Surabaya, Banda Aceh, dan Jakarta"
+    },
+    {
+      "nama_aksara": "Kana",
+      "tulisan_asli": "かな カナ",
+      "jenis": "Silabis",
+      "populasi_pengguna_juta": 0.011,
+      "bahasa": "Jepang",
+      "wilayah_penggunaan": "Jakarta dan Bali"
+    },
+    {
+      "nama_aksara": "Bonda",
+      "tulisan_asli": "",
+      "jenis": "Alfabet",
+      "populasi_pengguna_juta": 0.005,
+      "bahasa": "Suwawa",
+      "wilayah_penggunaan": "Gorontalo"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Aksara yang Digunakan di Indonesia - Free Download",
+    "description": "Aksara (sistem tulisan) yang digunakan di Indonesia beserta jenis aksara, perkiraan populasi pengguna (juta), bahasa yang ditulis, dan wilayah penggunaannya. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Aksara yang Digunakan di Indonesia | ListBase",
+    "seo_description": "Download Daftar Aksara yang Digunakan di Indonesia — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_aksara_di_Indonesia"
+    ]
+  }
+}
