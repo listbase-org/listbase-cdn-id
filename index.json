@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-26T02:13:15.791Z",
-  "total_datasets": 675,
-  "total_records": 661667,
+  "generated": "2026-11-26T02:13:23.846Z",
+  "total_datasets": 676,
+  "total_records": 662122,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -522,6 +522,30 @@
         "xlsx": {
           "name": "id-museum-dki-jakarta_ID.xlsx",
           "size": 11211
+        }
+      }
+    },
+    {
+      "id": "id-permainan-tradisional",
+      "name": "Daftar Permainan Tradisional Indonesia per Daerah",
+      "category": "culture",
+      "record_count": 455,
+      "columns": [
+        "nama_permainan",
+        "daerah_asal",
+        "keterangan"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_permainan_Indonesia",
+      "updated": "2026-11",
+      "size": 53483,
+      "files": {
+        "csv": {
+          "name": "id-permainan-tradisional_ID.csv",
+          "size": 15428
+        },
+        "xlsx": {
+          "name": "id-permainan-tradisional_ID.xlsx",
+          "size": 16620
         }
       }
     },
