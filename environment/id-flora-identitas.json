@@ -1,0 +1,274 @@
+{
+  "id": "id-flora-identitas",
+  "name": "Daftar Flora Identitas Nasional dan Provinsi di Indonesia",
+  "title": "Daftar Flora Identitas Nasional dan Provinsi di Indonesia",
+  "description": "Tiga bunga nasional Indonesia (puspa bangsa, puspa pesona, puspa langka) dan flora identitas tiap provinsi beserta nama ilmiahnya; empat provinsi baru di Papua belum memiliki flora identitas dalam sumber.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_flora_identitas_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_flora_identitas_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "wilayah",
+      "label": "Wilayah",
+      "type": "string"
+    },
+    {
+      "key": "flora",
+      "label": "Flora",
+      "type": "string"
+    },
+    {
+      "key": "nama_ilmiah",
+      "label": "Nama Ilmiah",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wilayah": "Indonesia (nasional)",
+      "flora": "Melati",
+      "nama_ilmiah": "Jasminum sambac",
+      "status": "Puspa Bangsa"
+    },
+    {
+      "wilayah": "Indonesia (nasional)",
+      "flora": "Anggrek bulan",
+      "nama_ilmiah": "Phalaenopsis amabilis",
+      "status": "Puspa Pesona"
+    },
+    {
+      "wilayah": "Indonesia (nasional)",
+      "flora": "Padma raksasa",
+      "nama_ilmiah": "Rafflesia arnoldii",
+      "status": "Puspa Langka"
+    },
+    {
+      "wilayah": "Aceh",
+      "flora": "Bunga Jeumpa",
+      "nama_ilmiah": "Magnolia champaca",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sumatera Utara",
+      "flora": "Kenanga",
+      "nama_ilmiah": "Cananga odorata",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sumatera Barat",
+      "flora": "Andalas",
+      "nama_ilmiah": "Morus macroura",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Riau",
+      "flora": "Nibung",
+      "nama_ilmiah": "Oncosperma tigillarium",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kepulauan Riau",
+      "flora": "Sirih",
+      "nama_ilmiah": "Piper betle",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Jambi",
+      "flora": "Pinang merah",
+      "nama_ilmiah": "Cyrtostachys renda",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Bengkulu",
+      "flora": "Bunga bangkai raksasa",
+      "nama_ilmiah": "Amorphophallus titanum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sumatera Selatan",
+      "flora": "Duku",
+      "nama_ilmiah": "Lansium domesticum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kepulauan Bangka Belitung",
+      "flora": "Nagasari",
+      "nama_ilmiah": "Palaquium rostratum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Lampung",
+      "flora": "Cempaka telur",
+      "nama_ilmiah": "Talauma candollei",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Banten",
+      "flora": "Kokoleceran",
+      "nama_ilmiah": "Vatica bantamensis",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "DKI Jakarta",
+      "flora": "Salak condet",
+      "nama_ilmiah": "Salacca edulis",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Jawa Barat",
+      "flora": "Gandaria",
+      "nama_ilmiah": "Bouea macrophylla",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Jawa Tengah",
+      "flora": "Kantil",
+      "nama_ilmiah": "Magnolia × alba",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "DI Yogyakarta",
+      "flora": "Kepel",
+      "nama_ilmiah": "Stelechocarpus burahol",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Jawa Timur",
+      "flora": "Sedap malam",
+      "nama_ilmiah": "Polyanthes tuberosa",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kalimantan Barat",
+      "flora": "Tengkawang tungkul",
+      "nama_ilmiah": "Shorea stenoptera",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kalimantan Tengah",
+      "flora": "Tenggaring",
+      "nama_ilmiah": "Nephelium lappaceum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kalimantan Selatan",
+      "flora": "Kasturi",
+      "nama_ilmiah": "Mangifera casturi",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kalimantan Timur",
+      "flora": "Anggrek hitam",
+      "nama_ilmiah": "Coelogyne pandurata",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Kalimantan Utara",
+      "flora": "Anggrek hitam",
+      "nama_ilmiah": "Coelogyne pandurata",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sulawesi Utara",
+      "flora": "Longusei",
+      "nama_ilmiah": "Ficus minahasae",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Gorontalo",
+      "flora": "Gofasa, gupasa",
+      "nama_ilmiah": "Vitex cofassus",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sulawesi Tengah",
+      "flora": "Eboni",
+      "nama_ilmiah": "Diospyros celebica",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sulawesi Barat",
+      "flora": "Cempaka hutan kasar",
+      "nama_ilmiah": "Elmerrillia ovalis",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sulawesi Selatan",
+      "flora": "Lontar",
+      "nama_ilmiah": "Borassus flabellifer",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Sulawesi Tenggara",
+      "flora": "Anggrek serat",
+      "nama_ilmiah": "Dendrobium utile",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Bali",
+      "flora": "Majegau",
+      "nama_ilmiah": "Dysoxylum densiflorum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Nusa Tenggara Barat",
+      "flora": "Ajan kelicung",
+      "nama_ilmiah": "Diospyros macrophylla",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Nusa Tenggara Timur",
+      "flora": "Cendana",
+      "nama_ilmiah": "Santalum album",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Maluku",
+      "flora": "Anggrek Larat",
+      "nama_ilmiah": "Dendrobium bigibbum var. schoederianum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Maluku Utara",
+      "flora": "Cengkih",
+      "nama_ilmiah": "Syzygium aromaticum",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Papua Barat",
+      "flora": "Matoa",
+      "nama_ilmiah": "Pometia pinnata",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Papua",
+      "flora": "Buah merah",
+      "nama_ilmiah": "Pandanus conoideus",
+      "status": "Flora identitas provinsi"
+    },
+    {
+      "wilayah": "Timor Timur (bekas provinsi, kini Timor Leste)",
+      "flora": "Ampupu",
+      "nama_ilmiah": "Eucalyptus urophylla",
+      "status": "Flora identitas bekas provinsi"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Flora Identitas Nasional dan Provinsi di Indonesia - Free Download",
+    "description": "Tiga bunga nasional Indonesia (puspa bangsa, puspa pesona, puspa langka) dan flora identitas tiap provinsi beserta nama ilmiahnya; empat provinsi baru di Papua belum memiliki flora identitas dalam sumber. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Flora Identitas Nasional dan Provinsi di Indonesia | ListBase",
+    "seo_description": "Download Daftar Flora Identitas Nasional dan Provinsi di Indonesia — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_flora_identitas_di_Indonesia"
+    ]
+  }
+}

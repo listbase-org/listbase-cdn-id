@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-26T02:13:07.872Z",
-  "total_datasets": 674,
-  "total_records": 661629,
+  "generated": "2026-11-26T02:13:15.791Z",
+  "total_datasets": 675,
+  "total_records": 661667,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "finance",
@@ -1525,6 +1525,31 @@
         "xlsx": {
           "name": "id-fauna-identitas-provinsi_ID.xlsx",
           "size": 8374
+        }
+      }
+    },
+    {
+      "id": "id-flora-identitas",
+      "name": "Daftar Flora Identitas Nasional dan Provinsi di Indonesia",
+      "category": "environment",
+      "record_count": 38,
+      "columns": [
+        "wilayah",
+        "flora",
+        "nama_ilmiah",
+        "status"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_flora_identitas_di_Indonesia",
+      "updated": "2026-11",
+      "size": 8035,
+      "files": {
+        "csv": {
+          "name": "id-flora-identitas_ID.csv",
+          "size": 2968
+        },
+        "xlsx": {
+          "name": "id-flora-identitas_ID.xlsx",
+          "size": 8463
         }
       }
     },
