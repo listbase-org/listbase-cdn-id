@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-27T02:14:58.356Z",
-  "total_datasets": 678,
-  "total_records": 662577,
+  "generated": "2026-11-27T02:15:06.484Z",
+  "total_datasets": 679,
+  "total_records": 662627,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "finance",
@@ -1799,6 +1799,29 @@
         "xlsx": {
           "name": "id-sungai-terpanjang_ID.xlsx",
           "size": 8025
+        }
+      }
+    },
+    {
+      "id": "id-taman-hutan-raya",
+      "name": "Daftar Taman Hutan Raya (Tahura) di Indonesia",
+      "category": "environment",
+      "record_count": 50,
+      "columns": [
+        "nama",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_taman_hutan_raya_di_Indonesia",
+      "updated": "2026-11",
+      "size": 6330,
+      "files": {
+        "csv": {
+          "name": "id-taman-hutan-raya_ID.csv",
+          "size": 2564
+        },
+        "xlsx": {
+          "name": "id-taman-hutan-raya_ID.xlsx",
+          "size": 8005
         }
       }
     },

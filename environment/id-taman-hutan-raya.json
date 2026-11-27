@@ -1,0 +1,236 @@
+{
+  "id": "id-taman-hutan-raya",
+  "name": "Daftar Taman Hutan Raya (Tahura) di Indonesia",
+  "title": "Daftar Taman Hutan Raya (Tahura) di Indonesia",
+  "description": "Taman hutan raya (tahura), kawasan pelestarian alam untuk koleksi tumbuhan dan satwa, di seluruh Indonesia menurut provinsi.",
+  "category": "environment",
+  "source": "https://id.wikipedia.org/wiki/Daftar_taman_hutan_raya_di_Indonesia",
+  "source_url": "https://id.wikipedia.org/wiki/Daftar_taman_hutan_raya_di_Indonesia",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "nama",
+      "label": "Nama",
+      "type": "string"
+    },
+    {
+      "key": "provinsi",
+      "label": "Provinsi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nama": "Taman Hutan Raya Pocut Meurah Intan",
+      "provinsi": "Aceh"
+    },
+    {
+      "nama": "Taman Hutan Raya Simeulue",
+      "provinsi": "Aceh"
+    },
+    {
+      "nama": "Taman Hutan Raya Lae Kombih",
+      "provinsi": "Aceh"
+    },
+    {
+      "nama": "Taman Hutan Raya Trumon",
+      "provinsi": "Aceh"
+    },
+    {
+      "nama": "Taman Hutan Raya Bukit Barisan",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "nama": "Taman Hutan Raya Dr. Mohammad Hatta",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "nama": "Taman Hutan Raya Minas (Sultan Syarif Kasim)",
+      "provinsi": "Riau"
+    },
+    {
+      "nama": "Taman Hutan Raya Tuanku Tambusai",
+      "provinsi": "Riau"
+    },
+    {
+      "nama": "Taman Hutan Raya Orang Kayo Hitam",
+      "provinsi": "Jambi"
+    },
+    {
+      "nama": "Taman Hutan Raya Sultan Thaha Saifuddin",
+      "provinsi": "Jambi"
+    },
+    {
+      "nama": "Taman Hutan Raya Bukit Sari",
+      "provinsi": "Jambi"
+    },
+    {
+      "nama": "Taman Hutan Raya Bukit Rabang-Gluguran",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "nama": "Taman Hutan Raya Raja Lelo (Pungguk Menakat)",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "nama": "Taman Hutan Raya Gunung Lalang",
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "nama": "Taman Hutan Raya Bukit Mangkol",
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "nama": "Taman Hutan Raya Gunung Menumbing",
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "nama": "Taman Hutan Raya Wan Abdul Rachman",
+      "provinsi": "Lampung"
+    },
+    {
+      "nama": "Taman Hutan Raya Banten",
+      "provinsi": "Banten"
+    },
+    {
+      "nama": "Taman Hutan Raya Ir. H. Djuanda",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama": "Taman Hutan Raya Pancoran Mas",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama": "Taman Hutan Raya Gunung Palasari-Gunung Kunci",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "nama": "Taman Hutan Raya KGPAA Mangkunegoro I",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Gunung Bunder",
+      "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    {
+      "nama": "Taman Hutan Raya R. Soeryo",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Ngurah Rai",
+      "provinsi": "Bali"
+    },
+    {
+      "nama": "Taman Hutan Raya Nuraksa",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "nama": "Taman Hutan Raya Prof. Ir. Herman Johannes",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Sultan Adam",
+      "provinsi": "Kalimantan Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Gunung Sebatung",
+      "provinsi": "Kalimantan Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Bukit Soeharto",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Lati Petangis",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Sungai Belayan",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Muara Sungai Belayan",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Sungai Medang",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "nama": "Taman Hutan Raya Lapak Jaru",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Kota Palangka Raya",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Bukit Selajaan",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Kotawaringin Timur",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Isen Mulang Sebangau Berkah",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Pandan Puloh",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "nama": "Taman Hutan Raya B. J. Habibie",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "nama": "Taman Hutan Raya Sulteng",
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "nama": "Taman Hutan Raya Abdul Latief (Sinjai)",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Bontobahari",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Malino",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Datu Mario",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Buntu Karua",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "nama": "Taman Hutan Raya Murhum / Nipa-Nipa",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "nama": "Taman Hutan Raya Gunung Tumpa H.V. Worang",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "nama": "Taman Hutan Raya Gorontalo",
+      "provinsi": "Gorontalo"
+    }
+  ],
+  "meta": {
+    "title": "Daftar Taman Hutan Raya (Tahura) di Indonesia - Free Download",
+    "description": "Taman hutan raya (tahura), kawasan pelestarian alam untuk koleksi tumbuhan dan satwa, di seluruh Indonesia menurut provinsi. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daftar Taman Hutan Raya (Tahura) di Indonesia | ListBase",
+    "seo_description": "Download Daftar Taman Hutan Raya (Tahura) di Indonesia — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://id.wikipedia.org/wiki/Daftar_taman_hutan_raya_di_Indonesia"
+    ]
+  }
+}
