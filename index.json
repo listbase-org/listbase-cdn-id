@@ -1,8 +1,8 @@
 {
   "lang": "id",
-  "generated": "2026-11-27T02:14:49.421Z",
-  "total_datasets": 677,
-  "total_records": 662331,
+  "generated": "2026-11-27T02:14:58.356Z",
+  "total_datasets": 678,
+  "total_records": 662577,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 136
+      "dataset_count": 137
     },
     {
       "id": "health",
@@ -6506,6 +6506,30 @@
         "xlsx": {
           "name": "id-sumatera-utara-regencies-detailed_ID.xlsx",
           "size": 9445
+        }
+      }
+    },
+    {
+      "id": "id-sungai-di-bali",
+      "name": "Daftar Sungai di Bali",
+      "category": "geography",
+      "record_count": 246,
+      "columns": [
+        "nama_sungai",
+        "kabupaten_kota",
+        "panjang_m"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_sungai_di_Indonesia",
+      "updated": "2026-11",
+      "size": 28598,
+      "files": {
+        "csv": {
+          "name": "id-sungai-di-bali_ID.csv",
+          "size": 8249
+        },
+        "xlsx": {
+          "name": "id-sungai-di-bali_ID.xlsx",
+          "size": 12046
         }
       }
     },
