@@ -1,12 +1,12 @@
 {
   "lang": "id",
-  "generated": "2026-11-26T02:13:23.846Z",
-  "total_datasets": 676,
-  "total_records": 662122,
+  "generated": "2026-11-27T02:14:49.421Z",
+  "total_datasets": 677,
+  "total_records": 662331,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -262,6 +262,30 @@
         "xlsx": {
           "name": "id-pabrik-gula_ID.xlsx",
           "size": 13447
+        }
+      }
+    },
+    {
+      "id": "id-perguruan-tinggi-pertanian",
+      "name": "Daftar Perguruan Tinggi Pertanian di Indonesia",
+      "category": "agriculture",
+      "record_count": 209,
+      "columns": [
+        "nama",
+        "lokasi",
+        "provinsi"
+      ],
+      "source": "https://id.wikipedia.org/wiki/Daftar_perguruan_tinggi_pertanian_di_Indonesia",
+      "updated": "2026-11",
+      "size": 27330,
+      "files": {
+        "csv": {
+          "name": "id-perguruan-tinggi-pertanian_ID.csv",
+          "size": 12521
+        },
+        "xlsx": {
+          "name": "id-perguruan-tinggi-pertanian_ID.xlsx",
+          "size": 12719
         }
       }
     },
